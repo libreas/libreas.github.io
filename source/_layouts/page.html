@@ -1,10 +1,51 @@
 ---
 layout: default
 ---
+{% if page.journal %}
+<article class="page" itemscope itemtype="http://schema.org/ScholarlyArticle">
+	<div align="right">
+	<strong> > > > <a href="inhalt.htm">{{ page.journal }} # {{ page.issue}}</a></strong> <br><br>
+    <small><a itemprop="sameAs" href="http://nbn-resolving.de/{{ page.urn }}">Download PDF @ EDOC HU Berlin</a>
+        <br>
+        {{ page.urn }} </small>
+	</div>
+    {% else%}
+    <article class="page">
 
-<article class="page">
+    {% endif %}
     {% if page.title %}
-    <h1 class="title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
+    <h1 itemprop="name" class="title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
+    {% endif %}
+     {% if page.title %}
+    <h3 class="title"><small>{% if site.titlecase %}{{ page.subtitle | titlecase }}{% else %}{{ page.subtitle }}{% endif %}</small></h3></br>
+    {% endif %}
+    {% if page.contributor %}
+    <i itemprop="author">von {{ page.contributor}}</i>
+    {% endif %}
+    {% if page.abstract %}
+        <br>
+        <p><small>Abstract: {{ page.abstract }}</small></p>
+        {% endif %}
+        {% if page.urn %}
+		<p>
+	    	<small>
+            <br>
+    		Zitiervorschlag
+    		<br>
+    		{{ page.contributor }}. {{ page.year }}. {{ page.title }}. <i>{{ page.journal }}</i>, {{ page.issue }}. 
+    	    </small>
+            <hr>
+    	</p>
+       {% elsif page.subtitle %}
+    <p>
+            <small>
+            <br>
+            Zitiervorschlag
+            <br>
+            {{ page.contributor }}. {{ page.year }}. {{ page.title }}, {{ page.subtitle }}. <i>{{ page.journal }}</i>, {{ page.issue }}.
+            </small>
+            <hr>
+        </p>
     {% endif %}
     <div class="entry-content">{{ content }}</div>
 </article>
