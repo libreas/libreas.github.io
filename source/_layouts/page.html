@@ -19,12 +19,30 @@ layout: default
      {% if page.title %}
     <h3 class="title"><small>{% if site.titlecase %}{{ page.subtitle | titlecase }}{% else %}{{ page.subtitle }}{% endif %}</small></h3></br>
     {% endif %}
-    {% if page.contributor %}
-    <i itemprop="author">von {{ page.contributor}}</i>
-    {% endif %}
+
+    
+{% assign authorCount = page.contributor | size %}
+{% if authorCount == 0 %}
+    No author
+{% elsif authorCount == 1 %}
+    {{ page.contributor | first }}
+{% else %}
+    {% for author in page.contributor %}
+        {% if forloop.first %}
+           <i itemprop="author">{{ author }}</i>
+        {% elsif forloop.last %}
+            <i>&amp;</i> <i itemprop="author">{{ author }}</i>
+        {% else %}
+            <i>,</i> <i itemprop="author">{{ author }}</i>
+        {% endif %}
+    {% endfor %}
+{% endif %}
+    
+
+
     {% if page.abstract %}
         <br>
-        <p><small>Abstract: {{ page.abstract }}</small></p>
+        <p><small itemprop="description">Abstract: {{ page.abstract }}</small></p>
         {% endif %}
         {% if page.urn %}
 		<p>
@@ -32,7 +50,15 @@ layout: default
             <br>
     		Zitiervorschlag
     		<br>
-    		{{ page.contributor }}. {{ page.year }}. {{ page.title }}. <i>{{ page.journal }}</i>, {{ page.issue }}. 
+    		{% for author in page.contributor %}
+        {% if forloop.first %}
+          {{ author }},
+        {% elsif forloop.last %}
+           {{ author }},
+        {% else %}
+           {{ author }},
+        {% endif %}
+    {% endfor %}"{{ page.title }}". <i itemprop="provider">{{ page.journal }}</i>, {{ page.issue }} (<span itemprop="datePublished">{{ page.year }}</span>). <a itemprop="url" href="{{ site.url }}{{ page.url }}">{{ site.url }}{{ page.url }}</a>
     	    </small>
             <hr>
     	</p>
@@ -47,7 +73,7 @@ layout: default
             <hr>
         </p>
     {% endif %}
-    <div class="entry-content">{{ content }}</div>
+    <div class="entry-content" itemprop="articleBody">{{ content }}</div>
 </article>
 {% unless page.sharing == false %}
 	{% include post/sharing.html %}
