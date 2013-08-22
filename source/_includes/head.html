@@ -1,57 +1,59 @@
-<!DOCTYPE HTML>
-{% if site.lang %}
-<html lang="{{ site.lang }}">
-{% else %}
-<html>
-{% endif %}
-<head>
-	<meta charset="utf-8">
-	<title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
-	<meta name="author" content="{{ site.author }}">
+	<!DOCTYPE HTML>
+	{% if site.lang %}
+	<html lang="{{ site.lang }}">
+	{% else %}
+	<html>
+	{% endif %}
+	<head>
+		<meta charset="utf-8">
+		<title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+		<meta name="author" content="{{ site.author }}">
 
-	{% capture description %}{% if page.description %}{{ page.description }}{% else %}{{ content | raw_content }}{% endif %}{% endcapture %}
-	<meta name="description" content="{{ description | strip_html | condense_spaces | truncate:150 }}">
-	{% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
+		<!--{% capture description %}{% if page.abstract %}{{ page.abstract }}{% else %}{{ content | raw_content }}{% endif %}{% endcapture %}
+		<meta name="description" content="{{ description | strip_html | condense_spaces | truncate:150 }}">
+		{% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %} -->
 
-<!-- RDFa DC -->
+	<!-- RDFa DC -->
 
- <!-- RDFa Metadata (in DublinCore) -->
-    {% if page.title %}
-    <meta property="dc:title" content="{{ page.title}}"/>
-    {% endif %}
-    {% if page.contributor %}
-    {% for author in page.contributor %}
-    <meta property="dc:creator" content="{{ author }}"/>
-    {% endfor %}
-    {% endif %}
-    {% if page.year %}
-    <meta name="citation_publication_date" content="{{ page.year }}"/>
-    {% endif %}
-    <meta property="dc:format" content="text/html" />
-    <meta property="dc:language" content="de" />
-    <meta property="dc:identifier" content="{{ site.url }}{{ page.url }}" />
-    <meta property="dc:rights" content="CC-BY" />
-    <meta property="dc:source" content="LIBREAS. Library Ideas" />
-    <meta property="dc:subject" content="Library and Information Science" />
-    <meta property="dc:type" content="website" />
+	 <!-- RDFa Metadata (in DublinCore) -->
+	    {% if page.title %}
+	    <meta property="dc:title" content="{{ page.title}}"/>
+	    {% endif %}
+	    {% if page.contributor %}
+	    {% for author in page.contributor %}
+	    <meta property="dc:creator" content="{{ author }}"/>
+	    {% endfor %}
+	    {% endif %}
+	    {% if page.year %}
+	    <meta name="citation_publication_date" content="{{ page.year }}"/>
+	    {% endif %}
+	    <meta property="dc:format" content="text/html" />
+	    <meta property="dc:language" content="de" />
+	    <meta property="dc:identifier" content="{{ site.url }}{{ page.url }}" />
+	    <meta property="dc:rights" content="CC-BY" />
+	    <meta property="dc:source" content="LIBREAS. Library Ideas" />
+	    <meta property="dc:subject" content="Library and Information Science" />
+	    <meta property="dc:type" content="website" />
+	    <meta property="dc:description" content="{{ page.abstract }}"/>
 
-<!-- Google Scholar -->
+	<!-- Google Scholar -->
 
-	<meta name="citation_journal_title" content="LIBREAS. Library Ideas">
-	<meta name="citation_issue" content="{{ page.issue }}">
+		<meta name="citation_journal_title" content="LIBREAS. Library Ideas">
+		<meta name="citation_issue" content="{{ page.issue }}">
+		<meta name="citation_issn" content="1860-7950">
 
 
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+	  <!-- http://t.co/dKP3o1e -->
+	  <meta name="HandheldFriendly" content="True">
+	  <meta name="MobileOptimized" content="320">
+	  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<link href="{{ site.subscribe_rss }}" rel="alternate" title="{{site.title}}" type="application/atom+xml">
-	{% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' }}{% endif %}{% endcapture %}
-	<link rel="canonical" href="{{ canonical }}">
-	<link href="{{ root_url }}/favicon.png" rel="shortcut icon">
-	<link href="{{ root_url }}/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700' rel='stylesheet' type='text/css'>
-	{% include custom/head.html %}
-</head>
+		<link href="{{ site.subscribe_rss }}" rel="alternate" title="{{site.title}}" type="application/atom+xml">
+		{% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' }}{% endif %}{% endcapture %}
+		<link rel="canonical" href="{{ canonical }}">
+		<link href="{{ root_url }}/favicon.png" rel="shortcut icon">
+		<link href="{{ root_url }}/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+		<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700' rel='stylesheet' type='text/css'>
+		{% include custom/head.html %}
+	</head>
