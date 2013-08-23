@@ -1,0 +1,64 @@
+body { padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 0px; scrollbar-highlight-color: #999999; scrollbar-shadow-color: #999999; scrollbar-arrow-color: #006400; PADDING-TOP: 0px; scrollbar-track-color: #efefef; scrollbar-base-color: #efefef; scrollbar-dark-shadow-color: #999999; background-color: #fffaf0; }
+table { border:0px; cellpadding:0px; cellspacing: 0px; }
+
+h1 { font-weight: bold; font-size:20px; color:#000000; font-family: Helvetica, Arial; letter-spacing:1px; text-decoration: none; }
+h2 { font-weight: normal; font-size: 17px; color: #000000; font-family: Helvetica, Arial; letter-spacing:1px; }
+h3 { font-weight: bold; font-size: 15px; color: #000000; font-family: Helvetica, Arial, sans serif; text-decoration: none; }
+h4 { font-weight: bold; font-size: 13px; font-family: Helvetica, Arial, sans-serif; font-style: normal; }
+h5 { font-weight: normal; font-size: 13px; font-family: Helvetica, Arial, sans-serif; text-decoration: underline; }
+
+a:link { font-weight: normal; font-size: 13px; color: #000000; font-style: normal; font-family: Helvetica, Arial, sans serif; }
+a:visited { font-weight: normal; font-size: 13px; color: #000000; font-style: normal; font-family: Helvetica, Arial, sans serif; }
+a:hover { font-weight: normal; font-size: 13px; color: #000000; font-style: normal; font-family: Helvetica, Arial, sans serif; }
+a:active {font-weight: normal; font-size: 13px; color: #000000; font-style: normal; font-family: Helvetica, Arial, sans serif; }
+
+blockquote { font-size: 13px; color: #000000; font-family: Helvetica, Arial; text-decoration: none; line-height: 19px; font-style: italic; }
+hr { width:100%; border:solid #f4a31e 0px; background-color:#f4a31e; height:1px; }
+p { font-size: 13px; color: #000000; font-family: Helvetica, Arial; letter-spacing: 1px; text-decoration: none; line-height: 19px; }
+ol, ul, li { font-size: 13px; font-family: Helvetica, Arial; letter-spacing: 1px; line-height: 19px; }
+td, tr { font-size:13px; font-family:serif; border-color: #990000; cellpadding: 5px; }
+thead { font-weight: bold; }
+tfoot { font-style: italic; }
+
+.abstract { font-size: 13px; color: #000000; font-family: Helvetica, Arial; letter-spacing: 1px; text-decoration: none; line-height: 19px; padding-top:20px; }
+
+/* Attentione: in der Klasse autor_in steht hinter ein padding-top, um den Abstand von Autor_innen und Überschrift zu bestimmen. Ebenso ein padding-bottom. */
+.autor_in { font-size:13px; color: #333333; font-family:Helvetica, Arial; letter-spacing:1px; padding-top:20px; padding-bottom:30px; padding-right:23px; text-align:right; }
+
+.bildrahmen { border: 1px solid #990000; }
+
+.bildunterschrift { font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #000000; } 
+
+.editorial_name { font-style: normal; font-weight: normal; font-size: 13px; text-transform: none; color: #000000; font-family: Helvetica, Arial; letter-spacing: 1px; text-align: left; text-decoration: none; }
+.editorial_name a:link { font-weight: normal; font-size: 13px; color: #000000; font-style: normal; font-family: Helvetica, Arial; text-decoration: none; }
+.editorial_name a:visited { font-weight: normal; font-size: 13px; color: #000000; font-style: normal; font-family: Helvetica, Arial; text-decoration: none; }
+.editorial_name a:hover { font-weight: normal; font-size: 13px; color: #000000; font-style: normal; font-family: Helvetica, Arial; text-decoration: none; }
+.editorial_name a:active { font-weight: normal; text-transform: none; color: #000000; font-style: normal; font-family: Helvetica, Arial; text-decoration: none; }
+
+.fussnoten { font-family: Helvetica, Arial, sans-serif; font-size: 11px; color: #990000; text-decoration: none; letter-spacing: 1px; padding-bottom:10px; }
+
+/* Die Klasse haupttabelle definiert, wie unsere Haupttabelle aussieht: hier könnte mal also auch die Hintergrundfarbe ändern. */
+.haupttabelle {  width:786px; background-color:#ffffff; border:1px solid #990000; }
+
+.heftinhalt { padding-left:132px; font-style: normal; font-size: 12px; color: #2D0000; font-family: Arial, sans-serif; letter-spacing: 1px; line-height: 19px; }
+.heftinhalt_titel { padding-left:132px; font-weight: bold; font-size: 14px; color: #2D0000; font-family: Arial, sans-serif; letter-spacing: 1px; line-height: 19px; }
+.heftinhalt a { font-style: normal; text-decoration: none; font-size: 12px; color: #2D0000; font-family: Arial, sans-serif; }
+
+.inhaltsverzeichnis { font-family: Helvetica, Arial, sans-serif; font-size: 11px; color: #990000; text-decoration: none; letter-spacing: 1px; }
+
+.pdf { font-size: 11px; color: #333333; font-family: Helvetica, Arial; letter-spacing: 1px; text-align: right; text-decoration: none; }
+.pdf a { font-size: 11px; color: #333333; font-family: Helvetica, Arial; letter-spacing: 1px; text-align: right; font-style:normal; text-decoration: none; }
+
+.rot { color:#b40f32; }
+
+.startbild { border: 1px solid #CCCCCC; }
+
+.unten { font-family: Helvetica, Arial; font-size: 11px; color: #333333; text-decoration: none; letter-spacing: 1px; text-align: right; }
+.unten a { font-family: Helvetica, Arial; font-size: 11px; color: #333333; text-decoration: none; font-style:normal; letter-spacing: 1px; text-align: right; }
+
+.untengrau a { font-family: Arial, Helvetica, sans-serif; font-size: 13px; letter-spacing:1px; color: #666666; }
+
+.zeilemitausgabenummer { font-family: Helvetica, Arial, sans-serif; font-size: 13px; letter-spacing: 5px; text-decoration: none; }
+.zeilemitausgabenummer a { font-family: Helvetica, Arial, sans-serif; font-size: 13px; letter-spacing: 5px; font-style:normal; text-decoration: none; }
+
+.zitiervorschlag { font-size: 11px; color: #000000; font-family: Helvetica, Arial; letter-spacing: 1px; padding-bottom:10px; }
