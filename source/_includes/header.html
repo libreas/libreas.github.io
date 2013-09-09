@@ -1,12 +1,6 @@
 <h1  style="color:#FFFFFF"><a href="{{ root_url }}/">LIBREAS<br><small>Library Ideas</small></a></h1>
-<div class="profilepic">
-	<script src="{{ root_url }}/javascripts/md5.js"></script>
-	<script type="text/javascript">
-		$(function(){
-			$('.profilepic').append("<img src='{{ root_url }}/images/cover_22.jpg" + MD5("{{ site.email | downcase }}") + "?s=160' alt='Profile Picture' style='width: 160px;' />");
-		});
-	</script>
-</div>
+
+
 {% include custom/header.html %}
 <nav id="main-nav">{% include navigation.html %}</nav>
 <nav id="sub-nav">

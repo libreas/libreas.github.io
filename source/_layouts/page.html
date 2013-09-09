@@ -5,14 +5,20 @@ layout: default
 <article class="page" itemscope itemtype="http://schema.org/ScholarlyArticle">
 	<div align="right">
 	<strong> > > > <a href="inhalt.htm">{{ page.journal }} # {{ page.issue}}</a></strong> <br><br>
+</div>
+    {% else%}
+    <article class="page">
+{% endif %}
+
+{% if page.urn %}
+<div align="right">
     <small><a itemprop="sameAs" href="http://nbn-resolving.de/{{ page.urn }}">Download PDF @ EDOC HU Berlin</a>
         <br>
         {{ page.urn }} </small>
 	</div>
-    {% else%}
-    <article class="page">
+{% else %}
+{% endif %}
 
-    {% endif %}
     {% if page.title %}
     <h1 itemprop="name" class="title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
     {% endif %}
@@ -44,7 +50,7 @@ layout: default
         <br>
         <p><small itemprop="description">Abstract: {{ page.abstract }}</small></p>
         {% endif %}
-        {% if page.urn %}
+        {% if page.journal %}
 		<p>
 	    	<small>
             <br>

@@ -18,7 +18,7 @@ article{
 		}
 	}
 	.entry-content{
-		line-height: 2;
+		line-height: 1.7;
 		text-align: left;
 		a{
 			&:hover{
@@ -29,6 +29,9 @@ article{
 		.fussnote{ 
 			font-size: 95%;
 			}
+
+		.motto {
+		font-size: 13px; text-align: right; text-decoration: none; line-height: 19px; font-style: italic; margin-left:20%; margin-right:10%; }
 
 
 

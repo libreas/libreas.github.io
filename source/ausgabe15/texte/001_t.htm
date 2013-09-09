@@ -1,0 +1,475 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Weller, Katrin (2009): Ontologien: Stand und Entwicklung der Semantik f&uuml;r das World Wide Web. In: LIBREAS.Library Ideas, Jg. 5, H. 2 (15)</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body>
+<p ><a href="001.htm">zur&uuml;ck</a></p>
+<p > {Weller, Katrin (2009): Ontologien: 
+  Stand und Entwicklung der Semantik f&uuml;r das World Wide Web. In: LIBREAS.Library 
+  Ideas, Jg. 5, H. 2 (15).}</p>
+<h1><strong>Ontologien: Stand und Entwicklung der Semantik f&uuml;r das World 
+  Wide Web</strong> </h1>
+<p>von Katrin Weller</p>
+<p ><strong>Zusammenfassung</strong><br>
+  Dieser Text befasst sich mit der Bedeutung von Ontologien f&uuml;r die Weiterentwicklung 
+  des World Wide Web zu einem Semantischen Web. Dabei wird zun&auml;chst die Grundidee 
+  des Semantic Web erl&auml;utert und dargestellt, wie Ontologien dabei helfen 
+  sollen, eine neue Bedeutungsebene zum Internet hinzuzuf&uuml;gen. Anschlie&szlig;end 
+  wird die typische Struktur von Ontologien beschrieben. Danach muss die Frage 
+  aufgeworfen werden, warum eine Umsetzung der Semantic Web Idee bislang scheiterte. 
+  Das Social Semantic Web wird als ein L&ouml;sungsansatz f&uuml;r diese Problematik 
+  vorgestellt. </p>
+<p ><strong>Abstract</strong><br>
+  This text deals with the significance of ontologies as a means to turn the World 
+  Wide Web into a Semantic Web. At first, the underlying idea of the Semantic 
+  Web is introduced and we explain the role of ontologies for adding information 
+  about meanings to Websites. It is also discussed why the Semantic Web has not 
+  yet become reality and how the Social Semantic Web might help to overcome the 
+  current difficulties in Semantic Web research. </p>
+<p>&nbsp; </p>
+<strong>1. Einleitung: Die Vision vom Semantic Web</strong></h2> 
+<p >Die Idee zu einem semantischen Web wurde ma&szlig;geblich gepr&auml;gt 
+  (wenn auch nicht initiiert) durch eine Ver&ouml;ffentlichung von Tim Berners-Lee, 
+  James Hendler und Ora Lassila im Jahre 2001. Darin skizzieren die Autoren ihre 
+  Version von einem erweiterten und verbesserten World Wide Web: Daten sollen 
+  so aufbereitet werden, dass nicht nur Menschen diese lesen k&ouml;nnen, sondern 
+  dass auch Computer in die Lage versetzt werden, diese zu verarbeiten und sinnvoll 
+  zu kombinieren. Sie beschreiben ein Szenario, in dem &#8222;Web agents&#8220; 
+  dem Nutzer bei der Durchf&uuml;hrung komplexer Suchanfragen helfen, wie beispielsweise 
+  &#8222;finde einen Arzt, der eine bestimmte Behandlung anbietet, dessen Praxis 
+  in der N&auml;he meiner Wohnung liegt und dessen &Ouml;ffnungszeiten mit meinem 
+  Terminkalender zusammenpassen&#8220;. Die gro&szlig;e Herausforderung liegt 
+  hierbei darin, dass Informationen, die &uuml;ber mehrere Webseiten verteilt 
+  sind, gesammelt und zu einer sinnvollen Antwort kombiniert werden m&uuml;ssen. 
+  Man spricht dabei vom Problem der Informationsintegration (<em>Information Integration</em>). 
+  Diese Vision der weltweiten Datenintegration in einem Semantic Web wurde seither 
+  vielfach diskutiert, erweitert und modifiziert, an der technischen Realisation 
+  arbeitet eine Vielzahl verschiedener Forschungseinrichtungen. </p>
+<p >Einigkeit besteht dahingehend, dass eine solche Idee nur mit der 
+  Hilfe neuer bedeutungstragender Metadaten verwirklicht werden kann. Ben&ouml;tigt 
+  werden also neue Ans&auml;tze zur Indexierung von Web-Inhalten, die eine Suche 
+  &uuml;ber Wortbedeutungen und nicht &uuml;ber blo&szlig;e Zeichenketten erm&ouml;glichen 
+  k&ouml;nnen. So soll z.B. erkannt werden, dass es sich bei &#8222;Heinrich Heine&#8220; 
+  um den Namen einer Person handelt und bei &#8222;D&uuml;sseldorf&#8220; um den 
+  Namen einer Stadt. Dar&uuml;ber hinaus sollen auch Verbindungen zwischen einzelnen 
+  Informationseinheiten festgehalten werden, beispielsweise dass Heinrich Heine 
+  in D&uuml;sseldorf wohnte. Wenn solche semantischen Relationen konsequent eingesetzt 
+  werden, k&ouml;nnen sie in vielen F&auml;llen ausgenutzt werden, um neue Schlussfolgerungen 
+  zu ziehen. <br>
+  Nehmen wir beispielsweise den Fall, dass eine Person A einen Bruder (Person 
+  B) hat, der wiederum einen Sohn hat (Person C). Mit dem richtigen Hintergrundwissen 
+  l&auml;sst sich daraus ableiten, dass Person B folglich der Onkel von Person 
+  C ist (Beispiel modifiziert nach Daconta et al., 2003). </p>
+<p >Derartige Informationen &uuml;ber die Bedeutung einzelner Worte 
+  oder anderer Informationseinheiten und deren Beziehungen untereinander sollen 
+  erg&auml;nzend an bestehende Webseiten angef&uuml;gt werden und so eine zus&auml;tzliche 
+  &#8222;semantische&#8220; Ebene zum traditionellen Internet bilden, wie Berners-Lee, 
+  Hendler und Lassila (2001) es beschreiben: </p>
+<blockquote> 
+  <p> &#8222;The Semantic Web is not a separate Web but an 
+    extension of the current one, in which information is given well-defined meaning, 
+    better enabling computers and people to work in cooperation.&#8220;</p>
+</blockquote>
+<p >Den Entwicklern geht es dabei nicht darum, einem Computer tats&auml;chlich 
+  beizubringen, Informationen zu verstehen (wie es in der K&uuml;nstlichen-Intelligenz-Forschung 
+  oftmals angestrebt wird), sondern vielmehr darum, Internetdienste f&uuml;r praktische 
+  Anwendungsszenarien zu entwickeln (Hitzler et al., 2008). Computer sollen also 
+  nicht lernen, &#8222;normale&#8220; Webseiten zu lesen, sondern die Webseiten 
+  sollen mit zus&auml;tzlichen Informationen versehen werden, die f&uuml;r den 
+  Computer interpretierbar sind.<br>
+  <br>
+  Indexierung im Sinne des Semantischen Webs basiert also auf komplexen Metadaten 
+  oder sogenannten &#8222;Semantic Markups&#8220; (Pan, 2007). Das sind maschinenlesbare 
+  Index-Terme, welche einer Webseite (bzw. einzelnen Informationseinheiten innerhalb 
+  einer Webseite) zugewiesen werden. Aus technischer Sicht erfordert diese Idee 
+  neue Entwicklungen im Bereich maschinenlesbarer Auszeichnungssprachen, die solch 
+  eine feingliedrige Indexierung erm&ouml;glichen. </p>
+<p >&Uuml;ber die technische Ebene hinaus ben&ouml;tigt das Semantische 
+  Web noch etwas anderes: hochwertige Wissensrepr&auml;sentationsmodelle, welche 
+  das Wissen eines oder mehrerer Interessensgebiete in einer allgemein akzeptierten 
+  Form verzeichnen. Man braucht ein gemeinsames kontrolliertes Vokabular f&uuml;r 
+  die Indexierung im Sinne eines Semantic Web, das wesentliche Begriffe und deren 
+  Beziehungen zueinander umfasst, eine Ontologie. <br>
+  F&uuml;r die Realisierung der Semantic Web Vision werden also sowohl standardisierte 
+  und kompatible Technologien zur Erstellung und Anwendung von semantischen Metadaten 
+  ben&ouml;tigt als auch Ontologien als komplexe und ausdrucksstarke Wissensrepr&auml;sentationssysteme. 
+</p>
+<p>Des Weiteren reicht es nicht, diese Techniken und Wissensmodelle 
+  bereitzustellen, sie m&uuml;ssen dar&uuml;ber hinaus auch noch auf die bestehenden 
+  Internetseiten angewandt werden. Das alles macht die Idee vom Semantic Web zu 
+  einer enormen Herausforderung f&uuml;r alle Beteiligten &#8211; und wirft vielfach 
+  Zweifel daran auf, ob ein solches semantisches Web jemals umfassend realisiert 
+  werden kann. Eine beachtliche Forschergemeinschaft hat diese Herausforderung 
+  angenommen und arbeitet hoch engagiert an den Grundlagen des Semantic Web. Die 
+  Semantic Web Science Association1 (SWSA | <a href="http://www.iswsa.org/" >www.iswsa.org</a>) 
+  hat sich dabei als eine treibende Kraft etabliert und auch das World Wide Web 
+  Consortium2 (W3C | <a href="http://www.w3.org/" >www.w3.org</a> 
+  bzw.<a href="http://www.w3.org/2001/sw/" > 
+  www.w3.org/2001/sw/</a>) unterst&uuml;tzt die Entwicklung 
+  von Standards. Legg (2007) nennt das Semantic Web auch &#8222;the most ambitious 
+  project the W3C has scaffolded so far&#8221;. </p>
+<p >In Bezug auf die technische Infrastruktur sind dabei bereits einige 
+  wesentliche und grundlegende Innovationen gelungen. Shadbolt, Berners-Lee und 
+  Hall (2006) nennen vor allem die folgenden Aspekte als bemerkenswerte Meilensteine 
+  der Semantic-Web-Forschung: </p>
+<p>- Ontologiesprachen zur standardisierten Wissensrepr&auml;sentation 
+  (wobei die Web Ontology Language OWL | <a href="http://www.w3.org/TR/owl-guide/" >www.w3.org/TR/owl-guide/</a> 
+  mit ihren drei Dialekten derzeit die wohl bekannteste Ontologiesprache ist)</p>
+<p >- Regelmechanismen und zugeh&ouml;rige Algorithmen f&uuml;r das 
+  automatische Schlie&szlig;en zur Ableitung impliziter Informationen (<em>Reasoning/ 
+  Inferencing Technologies</em>), </p>
+<p >- Speichertechnologien f&uuml;r gro&szlig;e Ontologien (insbesondere 
+  sogenannte <em>Triple Stores</em>), </p>
+<p >- Abfragesprachen, um Informationen in Ontologien zu suchen, und 
+  Methoden, um strukturierte Informationen aus Webseiten zu extrahieren (<em>Information 
+  Extraction</em>). </p>
+<p>Hinzu kommen noch zahlreiche Programme, die bei der Erstellung 
+  und Verwaltung von Ontologien helfen, sogenannte Ontologie-Editoren (das wohl 
+  bekannteste Beispiel hierf&uuml;r ist Prot&eacute;g&eacute; | <a href="http://protege.standford.edu" > 
+  http://protege.standford.edu</a>). </p>
+<h2><br>
+  <strong>2. Ontologien als neue Methode der Wissensrepr&auml;sentation</strong></h2>
+<p >Diese technologischen Entwicklungen bilden also den Grundstein 
+  f&uuml;r semantische Indexierung im WWW, enthalten jedoch per se noch keinerlei 
+  semantische Informationen. Eine Ontologiesprache allein macht noch keine Ontologie. 
+  Erst wenn mit einer solchen Sprache Wissensbausteine umgesetzt werden, kann 
+  eine semantische Repr&auml;sentation entstehen, die wiederum zur Indexierung 
+  des Webs herangezogen werden kann. Andererseits ist die Formalisierung in einer 
+  Ontologiesprache notwendig, damit ein Wissensmodell auch tats&auml;chlich im 
+  Sinne des Semantic Web eingesetzt wird &#8211; um beispielsweise automatische 
+  Schlussfolgerungen und Konsistenzpr&uuml;fungen zu erm&ouml;glichen (G&oacute;mez-P&eacute;rez 
+  et al., 2004). Ontologien sollen also die technischen und semantischen Anforderungen 
+  an eine zukunftsf&auml;hige Wissensrepr&auml;sentationsmethode f&uuml;r das 
+  semantische Web erf&uuml;llen. </p>
+<p>Die Bezeichnung Ontologie leitet sich ab aus dem griechischen 
+  Ontologia, was in etwa soviel bedeutet wie &#8222;Lehre vom Sein&#8220;. Es 
+  bezeichnete urspr&uuml;nglich eine philosophische Disziplin, die sich mit den 
+  Grundstrukturen und dem Wesen allen Seins befasst. Im Rahmen der Computerwissenschaft 
+  wurde der Term Ontologie aufgegriffen und mit einer eigenen Bedeutung versehen. 
+  Allgemein gefasst bezeichnet Ontologie hier eine formale Konzeptualisierung 
+  eines Wissensbereichs (&#8222;a formal conceptualization of a knowledge domain&#8220;, 
+   mit ihren drei Dialekten derzeit die wohl bekannteste Ontologiesprache 
+  ist), Gruber, 1993). Zahlreiche weitere Begriffserkl&auml;rungen wurden und 
+  werden in der Literatur zitiert, eine endg&uuml;ltige und eindeutige Definition, 
+  die von allen beteiligten Forschungsgruppen geteilt wird, gibt es dabei allerdings 
+  bis heute nicht. </p>
+<p >Die Formalisierung von Themenbereichen in Ontologien erfolgt typischerweise 
+  in Form von <em>Klassen</em> (bzw. <em>Konzepten</em>) und <em>Instanzen</em> 
+  (bzw. <em>Individuals</em>) &#8211; die Terminologie von Ontologiebestandteilen 
+  und deren genaue Auspr&auml;gungen k&ouml;nnen jedoch von Ontologiesprache zu 
+  Ontologiesprache variieren. Klassen repr&auml;sentieren dabei Allgemeinbegriffe, 
+  also abstrakte Konzepte eines Interessensgebiets, und sind hierarchisch &uuml;ber 
+  IS-A Beziehungen strukturiert (im Sinne der Hyponymie); Instanzen repr&auml;sentieren 
+  Individualbegriffe, also konkrete Vertreter der einzelnen Klassen, die in der 
+  jeweils untersten Hierarchieebene angesetzt werden. <br>
+  Beispielsweise k&ouml;nnte es eine Klasse &#8222;Personen&#8220; mit einer Unterklasse 
+  &#8222;Schriftsteller&#8220; geben, welche wiederum mit einer Instanz &#8222;Heinrich 
+  Heine&#8220; verbunden ist. Konzepte bzw. deren Instanzen k&ouml;nnen weiter 
+  in ihrer Bedeutung spezifiziert werden, oft geschieht dies durch sogenannte 
+  <em>Properties</em>, welche die Konzepteigenschaften &uuml;ber semantische Relationen 
+  darstellen. Zum Einsatz von Properties gibt es verschiedene M&ouml;glichkeiten: 
+  entweder erfasst die Property eine Beziehung zwischen zwei Konzepten/Instanzen 
+  (z.B. &#8222;ist_verwandt_mit&#8220; oder &#8222;ist_ein_Teil_von&#8220;) oder 
+  die Property weist einem Konzept/ einer Instanz eine Eigenschaft mit einem gewissen 
+  Wert zu (z.B. &#8222;hat_Geburtsjahr&#8220; mit einer Jahreszahl als Wert, ohne 
+  dass alle denkbaren Jahreszahlen als Instanzen in die Ontologie aufgenommen 
+  werden m&uuml;ssen). Auf diese Weise k&ouml;nnen Fakten aus dem betrachteten 
+  Themengebiet in der Ontologie gespeichert werden. Die Ontologie ist nicht mehr 
+  nur Indexierungsvokabular, sondern wird selbst zu einer Wissensbasis. Abbildung 
+  1 zeigt, wie diese Ontologiebausteine mit Hilfe des Ontologie-Editors Prot&eacute;g&eacute; 
+  erstellt werden. Anschlie&szlig;end werden die Daten z.B. als OWL-Datei ausgegeben 
+  und weiterverarbeitet.</p>
+<p ><img src="../abbildungen/beitrag_Weller_Abbildung1.jpg" alt="Abb. 1: Ein Beispiel f&uuml;r typische Ontologie-Elemente in der Benutzeroberfl&auml;che des Ontologie-Editors Prot&eacute;g&eacute;. " border="1" ></p>
+<p >Abb. 1: Ein Beispiel f&uuml;r typische Ontologie-Elemente in der 
+  Benutzeroberfl&auml;che des Ontologie-Editors Prot&eacute;g&eacute;. </p>
+<p >Schlie&szlig;lich besteht in formalen Ontologien noch die M&ouml;glichkeit, 
+  Klassen mit Hilfe von <em>Restrictions</em> (oder <em>Axiomen</em>) formal fest 
+  zu definieren. Diese fixieren Aussagen, die generell f&uuml;r die betrachtete 
+  Dom&auml;ne g&uuml;ltig sind. Gehen wir davon aus, dass in einer Ontologie bereits 
+  eine Klasse &#8222;Schriftsteller&#8220; mit verschiedenen Schriftstellern als 
+  Instanzen sowie eine Property &#8222;hat_Nationalit&auml;t&#8220; mit den verschiedenen 
+  Nationalit&auml;ten, die den Schriftstellern zugewiesen werden, verf&uuml;gbar 
+  sind. Eine neue Klasse &#8222;deutsche Schriftsteller&#8220; k&ouml;nnte dann 
+  formal so definiert werden, dass es sich dabei um die Untermenge der Klasse 
+  &#8222;Schriftsteller&#8220; handelt, f&uuml;r die die Property &#8222;hat_Nationalit&auml;t&#8220; 
+  auf jeden Fall den Wert &#8222;deutsch&#8220; annimmt. Ein Reasoner kann dann 
+  eine Instanz der Klasse &#8222;Schriftsteller&#8220;, die diese Bedingung erf&uuml;llt, 
+  automatisch der Klasse &#8222;deutsche Schriftsteller&#8220; zuweisen. Je nach 
+  Ontologiesprache stehen unterschiedlich ausdrucksstarke Restrictions f&uuml;r 
+  die formale Definition von Klassen zur Verf&uuml;gung. </p>
+<p >Eine Ontologie, die all diese M&ouml;glichkeiten aussch&ouml;pft, 
+  unterscheidet sich deutlich von klassischen Methoden der Wissensrepr&auml;sentation 
+  wie Thesauri und Klassifikationen. Mit Klassenhierarchien und Properties k&ouml;nnen 
+  Ontologien nicht nur das Standard-Repertoire semantischer Relationen abdecken 
+  (Hyponymie, Meronymie, Synonymie und Assoziationsrelation) (Peters &amp; Weller, 
+  2008a), sie erm&ouml;glichen auch den Einsatz weiterer spezifizierter Verbindungen 
+  zwischen den Konzepten eines Interessensgebietes und bilden so die Grundlage 
+  f&uuml;r verfeinerte semantische Repr&auml;sentationen. Der Einsatz von Datatype 
+  Properties er&ouml;ffnet weitere M&ouml;glichkeiten f&uuml;r die pr&auml;zise 
+  Definition einzelner Konzepte und die Einbindung von Fakteninformationen &uuml;ber 
+  Instanzen. Die formale Unterscheidung zwischen Klassen und Instanzen ist so 
+  bislang in keinem klassischen Wissensrepr&auml;sentations-Typus realisiert. 
+  Dar&uuml;ber hinaus wird eine Ontologie durch den Einsatz einer standardisierten 
+  Ontologiesprache maschinenlesbar und interpretierbar. </p>
+<p>Mit der Ausdrucksm&auml;chtigkeit von Ontologien ist umgekehrt 
+  jedoch auch ein Problem verbunden: Diese detaillierte Darstellung l&auml;sst 
+  sich in der Praxis oft nur f&uuml;r eng begrenzte Themenbereiche umsetzen. Nur 
+  wenige Projekte wie die Cyc Ontologie (<a href="http://www.cyc.com" >www.cyc.com</a>) 
+  versuchen sich daran, detailliert universelles Weltwissen abzubilden. Andere 
+  Ontologieprojekte befassen sich eher mit der Erstellung von Wissensmodellen 
+  f&uuml;r spezialisierte, eng abgegrenzte Themengebiete, wie etwa verschieden 
+  Ontologien im Bereich der Life Sciences (Bodenreider &amp; Stevens, 2006). Dies 
+  liegt zum einen an dem hohen Aufwand, den die Erstellung eines feingliedrigen 
+  Wissensrepr&auml;sentationssystems mit sich bringt. Zum anderen liegt es bis 
+  zu einem gewissen Grad auch noch an Schwierigkeiten in der Handhabung der gro&szlig;en 
+  Datenmengen, die hinter einem Wissensmodell stecken, das in einer formalen Ontologiesprache 
+  verfasst ist. Die praktische Umsetzung von Ontologien unter Ausnutzung des Modellierungsspektrums 
+  von Properties und Restrictions erfordert Fachkenntnisse und einige &Uuml;bung. 
+  </p>
+<p >Mit der Vision eines neuen, komplexeren und hoch-ausdrucksstarken 
+  Begriffssystems k&ouml;nnen aktuelle Ontologieprojekte so auch oftmals noch 
+  nicht mithalten. Viele Ontologien, die derzeit f&uuml;r den Einsatz im Semantic 
+  Web entwickelt und diskutiert werden, &uuml;bertreffen kaum die Ausdrucksf&auml;higkeit 
+  traditioneller Thesauri. Oft zeichnen sie sich vor allem dadurch aus, dass sie 
+  in einer Ontologiesprache wie OWL abgespeichert wurden &#8211; ohne jedoch die 
+  formalen M&ouml;glichkeiten auszusch&ouml;pfen. Die aktuelle Lage von Ontologien 
+  als Mittel zur semantischen Anreicherung des WWW sieht also noch recht verhalten 
+  aus.</p>
+<h2 ><br>
+  <strong>3. Die Umsetzung der Semantic Web Idee</strong></h2>
+<p >Trotz zahlreicher ambitionierter Forschungsprojekte ist das Semantic 
+  Web insgesamt noch deutlich davon entfernt, weltweit Realit&auml;t zu werden 
+  und das &#8222;herk&ouml;mmliche&#8220; Internet abzul&ouml;sen. Doch woran 
+  liegt das? Verschiedene Erkl&auml;rungsversuche wurden und werden diskutiert 
+  &#8211; ebenso wie einzelne L&ouml;sungsans&auml;tze. <br>
+  Der Mangel an verf&uuml;gbaren, ausdrucksstarken Ontologien h&auml;ngt wechselseitig 
+  zusammen mit dem Fehlen eines publikumswirksamen Semantic-Web-Dienstes: Solange 
+  eine &uuml;berzeugende Muster-Anwendung fehlt, sind wenige bereit, Zeit und 
+  Aufwand in die Erstellung von Ontologien zu investieren. Umgekehrt k&ouml;nnen 
+  semantische Dienste ohne zu Grunde liegende Ontologien nicht fl&auml;chendeckend 
+  in Kraft treten. So bleiben Anwendungen wie ontologie-basierte Sucherweiterungen 
+  oder automatische Faktenextraktion aus Texten bislang begrenzt auf spezialisierte 
+  Einzelanwendungen f&uuml;r eng begrenzte Fach-Communities. Gesucht wird jedoch 
+  die sogenannte &#8222;Killer App&#8220; des Semantic Web, ein Dienst, der gleichzeitig 
+  &uuml;berzeugend effektiv und einfach nutzbar ist und so gro&szlig;e Teile der 
+  Internetnutzerschaft einbezieht und ein Leitbild f&uuml;r nachfolgende Dienste 
+  werden kann. Bislang scheiterte die Praxis an einem solchen Angebot. </p>
+<p >Der wohl am leichtesten nachvollziehbare Grund f&uuml;r den ausbleibenden 
+  Durchbruch des Semantic Web ist die enorme Gr&ouml;&szlig;e des World Wide Web. 
+  Die Anreicherung des gesamten WWW mit semantischen Metadaten ist eine schier 
+  endlose Aufgabe. Das bedeutet einerseits, dass ein riesiger (und stetig wachsender) 
+  Indexierungsaufwand zu bew&auml;ltigen ist, und andererseits, dass eine Vielzahl 
+  von Themenbereichen durch Ontologien erfasst und abgedeckt werden muss. Ein 
+  umfassendes Semantic Web wird daher in direkter Zukunft sicherlich noch keine 
+  Realit&auml;t. </p>
+<p >Von semantischen Technologien werden wir aber dennoch im Internet 
+  profitieren k&ouml;nnen. Der Forschungsschwerpunkt hat sich von einem einzigen, 
+  allumfassenden semantischen WWW weg verlagert, hin zu einzelnen semantischen 
+  Diensten (<em>Semantic Applications</em>) f&uuml;r den normalen Internetnutzer, 
+  also nicht nur f&uuml;r spezielle Expertengruppen. Immer mehr Internetdienste 
+  nutzen technische Grundlagen des Semantic Web innovativ aus (Carstens, 2008), 
+  auch f&uuml;r Einsatzbereiche in geschlossenen Systemen wie Intranets werden 
+  Anwendungen erarbeitet. Einige der j&uuml;ngsten Entwicklungen konnten beispielsweise 
+  als Demos auf den letzten International Semantic Web Conferences begutachtet 
+  werden (siehe z.B. Bizer &amp; Joshi, 2008), darunter neue semantische Recommender-Systeme, 
+  Systeme f&uuml;r semantische Bildersuche oder die Verkn&uuml;pfung typischer 
+  Computerprogramme des t&auml;glichen Lebens zum &#8222;semantischen Desktop&#8220;. 
+  Die Entstehung einer Semantic Web Killer Application ist damit m&ouml;glicherweise 
+  schon deutlich n&auml;her ger&uuml;ckt.</p>
+<p >Mit der Fokussierung auf ein dezentralisiertes Semantic Web bestehend 
+  aus verschiedenen Einzeldiensten, die sich der gleichen semantischen Technologien 
+  bedienen, gehen einige weitere Herausforderungen einher. Wesentlich wird sein, 
+  dass diese Einzeldienste letztlich sinnvoll miteinander interagieren k&ouml;nnen. 
+  Die Verbindung von Datenbest&auml;nden wird derzeit zu einem der Schwerpunktthemen 
+  der Semantic-Web-Forschung, damit einzelne isolierte &#8222;Data Silos&#8220; 
+  verhindert werden (Bizer et al., 2007). Aber auch die M&ouml;glichkeiten zur 
+  Verbindung verschiedener Ontologien m&uuml;ssen noch st&auml;rker in den Blickpunkt 
+  r&uuml;cken, als es bislang der Fall ist. Hier werden derzeit zwar zahlreiche 
+  Techniken und Algorithmen f&uuml;r das Verkn&uuml;pfen (<em>Mapping</em>) und 
+  Verschmelzen (<em>Merging</em>) von Ontologien entwickelt, es fehlen jedoch 
+  noch Ideen, wie dies im Rahmen der tats&auml;chlichen Nutzung des Internets 
+  praktisch umgesetzt werden kann. Welche Konsequenzen ergeben sich, wenn zahlreiche 
+  kleine Einzelontologien miteinander interagieren m&uuml;ssen? </p>
+<p >Insgesamt wurde bisher bei der Semantic-Web-Forschung der Schwerpunkt 
+  vor allem auf technologische Entwicklungen gesetzt. So fand auch eine Standardisierung 
+  bislang auf technischer Ebene statt, insbesondere bezogen auf Ontologiesprachen 
+  als standardisierte Austauschformate. Auf semantischer Ebene fehlen jegliche 
+  Standardisierungen bislang: Dar&uuml;ber, wie bestimmte Bedeutungen einheitlich 
+  repr&auml;sentiert werden sollen, wird nur am Rande der Semantic Web Community 
+  diskutiert. Das hei&szlig;t vor allem, dass beim Aufbau einer Ontologie keinerlei 
+  Vorgaben verf&uuml;gbar sind, wie bestimmte Zusammenh&auml;nge abzubilden sind. 
+  Klassendefinitionen werden von jedem Ontologie-Entwickler selbst gew&auml;hlt 
+  und in der Regel h&ouml;chstens in kleinen Teams diskutiert. Auch kann derzeit 
+  jeder, der eine Ontologie aufbaut, beliebige Properties zur Verbindung von Ontologie-Klassen 
+  erstellen und einsetzen. Gemeinsame, gar weltweit g&uuml;ltige Vereinbarungen 
+  z.B. bez&uuml;glich der Formulierung von Teil-Ganzes-Beziehungen zwischen Konzepten 
+  fehlen.<br>
+  <br>
+  Mit der Wende in Richtung einzelner Semantic Applications scheint auch der Ansatz 
+  einer gemeinsamen Wissensrepr&auml;sentation zun&auml;chst aus dem Blick verloren. 
+  Dabei gilt die Idee einer Konsens-Abbildung im Sinne der &#8222;Shared Conceptualization&#8220; 
+  eigentlich als eine der Grund-Definitionen f&uuml;r Ontologien (Borst, 1997). 
+  In einem Semantic Web, das aus zahlreichen Einzelontologien in verschiedenen 
+  Anwendungen besteht, ist das sinnvolle Verkn&uuml;pfen von Ontologien anhand 
+  gleicher bedeutungstragender Elemente entscheidend. </p>
+<p >Das Fehlen von Standardisierungen setzt sich auf der Ebene der 
+  ontologie-basierten Indexierung fort. Strategien f&uuml;r das tats&auml;chliche 
+  Indexieren von Web-Inhalten mit Ontologien sind generell noch nicht ausreichend 
+  entwickelt, so fehlen auch Richtlinien f&uuml;r ein einheitliches Vorgehen. 
+  Experimentiert wird derzeit vor allem mit verschiedenen automatisierten und 
+  semi-automatischen Verfahren. Zur Qualit&auml;tssicherung muss hier jedoch auch 
+  der Nutzer st&auml;rker mit in den Prozess einbezogen werden. Ans&auml;tze aus 
+  dem Bereich des Nutzer-fokussierten Web 2.0 k&ouml;nnten hier wertvolle Impulse 
+  liefern.</p>
+<h2 <br>
+  <strong>4. Folksonomy trifft Ontologie: Ein Ausblick auf das Social Semantic 
+  Web</strong></h2>
+<p >Als ein L&ouml;sungsansatz f&uuml;r die Probleme des Semantic 
+  Web zeichnet sich derzeit die Verbindung von semantischen Technologien mit Web 
+  2.0 (bzw. Social Web) Strategien ab. Man spricht hier von einem Social Semantic 
+  Web als neue Zielrichtung. Web 2.0 bezeichnet dabei eine in j&uuml;ngster Vergangenheit 
+  stark zunehmende Tendenz im Internet, Dienste bereitzustellen, die ma&szlig;geblich 
+  von der aktiven Beteiligung ihrer Nutzer leben. Internetnutzer kommentieren 
+  beispielsweise das Tagesgeschehen, schreiben Nutzerberichte oder Lexikonartikel, 
+  teilen private Fotos und Videos mit anderen, legen Steckbriefe &uuml;ber sich 
+  an und vernetzen sich mit Freunden und Bekannten &#8211; und die Internetnutzer 
+  indexieren selbst ihre auf den verschiedenen Plattformen eingestellten Inhalte 
+  mit Hilfe freier Keywords, sogenannten Tags. Mit dem <em>Social Tagging</em>, 
+  dem unkontrollierten Verschlagworten durch Nutzer-Communities ist somit ein 
+  neues Indexierungsmodell geboren: die <em>Folksonomie</em> (Peters, 2009). </p>
+<p >Durch das v&ouml;llige Fehlen einer Vokabularkontrolle sowie jeglicher 
+  Regeln kann die Folksonomy als Gegenpol zu klassischen Methoden der Wissensrepr&auml;sentation 
+  aufgefasst werden. Und auch im Vergleich mit Ontologien als Semantic-Web-Indexierung 
+  erscheint sie zun&auml;chst als v&ouml;llig kontr&auml;re Herangehensweise. 
+  Letztlich wird jedoch auch das Semantic Web nicht ohne die Einbeziehung von 
+  Nutzer-Beitr&auml;gen zustande kommen k&ouml;nnen &#8211; und muss sich daher 
+  auch mit solchen Alternativl&ouml;sungen zunehmend auseinandersetzen. Sowohl 
+  bei der Erstellung umfassender Ontologien als auch bei ihrer Anwendung auf Dokumente 
+  ist die Mithilfe einer interessierten Nutzergemeinschaft von gro&szlig;er Bedeutung. 
+  Die Semantic-Web-Forschergemeinschaft befasst sich bereits seit einiger Zeit 
+  mit Werkzeugen zum gemeinschaftlichen Ontologieaufbau. Derartige Ans&auml;tze 
+  werden nun massiv ausgebaut und in verschiedener Hinsicht durch Kombinationen 
+  von Semantic und Social Web erweitert werden (Ankolekar et al., 2007; Blumauer 
+  &amp; Pellegrini, 2008; Greaves, 2007; Hotho &amp; Hoser, 2007), darunter beispielsweise 
+  semantische Wikis (Buffa et al., 2008; Lange et al., 2008) oder Software f&uuml;r 
+  semantisches Blogging (Bojars et al., 2008). Die Forschungsfragen sind dabei 
+  sinngem&auml;&szlig; vor allem &#8218;Was kann das Semantic Web vom Erfolg des 
+  Web 2.0 lernen?&#8217; und &#8218;Wie k&ouml;nnen semantische Technologien den 
+  Wert von Web 2.0 Angeboten noch steigern?&#8217; (Mika &amp; Greaves, 2008).</p>
+<p >F&uuml;r das Semantic Web-Ziel der Annotation von Webseiten mit 
+  semantischen und maschinenlesbaren Metadaten kann das Web 2.0 durch die Einbeziehung 
+  der Nutzer dabei vor allem zwei Aspekte beisteuern: Arbeitskraft und das gesammelte 
+  Wissen der Community. Die Einbeziehung von gro&szlig;en Internet-Nutzergruppen 
+  ist sowohl f&uuml;r den Aufbau von Ontologien als auch in der Indexierung denkbar. 
+  Auch die Pflege von Ontologien (z.B. das langfristige Einpflegen neuer Instanzen) 
+  kann hierdurch auf einer umfassenden Ebene realisiert werden. Folksonomy-Nutzer 
+  haben den Sinn von inhaltsbeschreibenden Metadaten f&uuml;r die Organisation 
+  ihrer eigenen Dokumente (darunter auch viele nicht-textuelle Dokumente wie Fotos 
+  und Videos) erkannt und wenden Tags zum pers&ouml;nlichen Informationsmanagement 
+  an. Wenn es gelingt, den Nutzern auch die Vorteile kontrollierter Vokabulare 
+  und ontologie-basierter Schlussfolgerungsmechanismen spielerisch n&auml;her 
+  zu bringen, ist ein gro&szlig;er Schritt in Richtung des Semantic Web getan. 
+  Dies ist nat&uuml;rlich auch nicht ohne Aufwand m&ouml;glich, insbesondere f&uuml;r 
+  die Gestaltung ansprechender Nutzer-Schnittstellen liegen hier einige Herausforderungen. 
+  Erste Ans&auml;tze finden sich vor allem im Bereich des Tag Gardening (Peters 
+  &amp; Weller, 2008b).</p>
+<p >Durch die Einbeziehung einer Community kann auch die Vision einer 
+  gemeinsam akzeptierten Bedeutungsebene wieder aufgenommen werden. Durch die 
+  direkte (&uuml;ber Diskussionen) und indirekte (z.B. &uuml;ber die Auswertung 
+  nutzergenerierter Tagging-Daten) Nutzer-Interaktion kann eine neue Form von 
+  &#8222;shared conceptualization&#8220; definiert werden. <br>
+  Die praktische Umsetzung ist auch hier nat&uuml;rlich noch mehr Vision als Realit&auml;t, 
+  r&uuml;ckt aber zunehmend in das Bewusstsein der Forschung.</p>
+<h2 ><strong>Fazit</strong> </h2>
+<p > Das Semantic Web ist die Vision eines erweiterten World Wide 
+  Web, in dem inhaltsbeschreibende, computerlesbare Metadaten eine neue Bedeutungsebene 
+  erschlie&szlig;en. In technischer Hinsicht ist das Semantic Web mit verschiedenen 
+  Ontologiesprachen, Ontologieeditoren und Reasonern bereits gut ausgestattet. 
+  Dennoch fehlt der entscheidende Punkt: ausgereifte, bedeutungstragende Ontologien 
+  sowie Strategien f&uuml;r ihre fl&auml;chendeckende Anwendung im WWW.</p>
+<p >Ontologien als Methoden der Wissensrepr&auml;sentation bieten 
+  zwar eine reiche semantische Grundstruktur, doch ihre weitreichende Anwendung 
+  auf das WWW wird derzeit noch durch zahlreiche Schwierigkeiten behindert. Dazu 
+  z&auml;hlen insbesondere der enorme Aufwand, der f&uuml;r die Erstellung komplexer 
+  Wissensrepr&auml;sentationsmodelle aufgebracht werden muss und die Schwierigkeiten 
+  bei der Einigung auf eine gemeinsame Darstellungsform f&uuml;r eine gro&szlig;e 
+  Nutzer-Community. Auf viel weniger kontrolliertem Wege hat das Web 2.0 mit seinen 
+  Folksonomy-basierten Social-Software-Diensten bereits f&uuml;r eine neue Bedeutungsebene 
+  im WWW gesorgt. Social Tagging ist der erste Schritt in Richtung einer neuen 
+  Web-Navigation basierend auf Wortbedeutungen. Die automatische Integration verschiedener 
+  Informationseinheiten z.B. f&uuml;r semantische Suchsysteme kann damit jedoch 
+  nicht realisiert werden. Langfristig muss sich das Soziale mit dem Semantischen 
+  Web in verschiedener Hinsicht verbinden, so dass nutzergenerierte Basis-Metadaten 
+  durch Ontologien in maschinenlesbare Semantik umgewandelt werden k&ouml;nnen. 
+</p>
+<h2 ><strong>Literatur</strong></h2>
+<p >Ankolekar, A., Kr&ouml;tzsch, M., Tran, T., &amp; Vrandecic, D. 
+  (2007). The Two Cultures: Mashing Up Web 2.0 and the Semantic Web. In 16th International 
+  World Wide Web Conference (WWW 2007). Banff, Alberta, Canada (pp. 825&#8211;834). 
+  Red Hook, NY: Curran.</p>
+<p >Berners-Lee, T., Hendler, J., &amp; Lassila, O. (2001). The Semantic 
+  Web. Scientific American, 284(5), 34&#8211;43.</p>
+<p >Bizer, C., Heath, T., Ayers, D., &amp; Raimond, Y. (2007) Interlinking 
+  Open Data on the Web. In Proceedings of the Demonstrations Track 4th European 
+  Semantic Web Conference (ESWC2007). Innsbruck, Austria. Retrieved November 10, 
+  2008, from <a href="http://www.eswc2007.org/demonstrations.cfm">http://www.eswc2007.org/demonstrations.cfm</a>.</p>
+<p >Bizer, C., &amp; Joshi, A. (Eds.) (2008). ISWC2008 Posters and 
+  Demonstrations: Proceedings of the Poster and Demonstration Session at the 7th 
+  International Semantic Web Conference (ISWC2008). Karlsruhe, Germany. CEUR Workshop 
+  Proceedings, 401.</p>
+<p >Blumauer, A., &amp; Pellegrini, T. (Eds.) (2008). Social Semantic 
+  Web: Web 2.0 &#8211; Was nun? Berlin: Springer.</p>
+<p >Borst, W. (1997). Construction of Engineering Ontologies for Knowledge 
+  Sharing and Reuse. PhD Thesis, University of Twente, Nederlands. Retrieved November 
+  18, 2008, from University of Twente, Nederlands: <a href="http://doc.utwente.nl/17864">http://doc.utwente.nl/17864</a>/.</p>
+<p >Bodenreider, O., &amp; Stevens, R. (2006). Bio-Ontologies: Current 
+  Trends and Future Directions. Briefings in Bioinformatics, 7(3), 256&#8211;274.</p>
+<p >Bojars, U., Breslin, J. G., &amp; Finn, A. Decker S. (2008). Using 
+  the Semantic Web for Linking and Reusing Data Across Web 2.0 Communities. Journal 
+  of Web Semantics, 6(1), 21&#8211;28.</p>
+<p >Buffa, M., Gandon, F. L., Sander, P., Faron, C., &amp; Ereto, 
+  G. (2008). SweetWiki. Journal of Web Semantics, 6(1), 84&#8211;97.</p>
+<p >Carstens, C. (2008). Semantic Web Applications In- and Outside 
+  the Semantic Web. In S. Auer, S. Schaffert, &amp; T. Pellegrini (Eds.). Proceedings 
+  of I-SEMANTICS&#8217;08. International Conference on Semantic Systems. Graz, 
+  Austria (pp. 25&#8211;33). Graz: J.UCS.</p>
+<p >Daconta, M. C., Obrst, L. J., &amp; Smith, K. T. (2003). The Semantic 
+  Web. A Guide to the Future of XML, Web Services and Knowledge Management. Indianapolis, 
+  Indiana: Wiley.</p>
+<p >G&oacute;mez-P&eacute;rez, A., Fern&aacute;ndez-L&oacute;pez, 
+  M., &amp; Corcho, O. (2004). Ontological Engineering: Advanced Information and 
+  Knowledge Processing (3rd Print). London: Springer.</p>
+<p >Greaves, M. (2007). Semantic Web 2.0. IEEE Intelligent Systems, 
+  22(2), 94&#8211;96.</p>
+<p >Gruber, T. (1993). A Translation Approach to Portable Ontology 
+  Specification. Knowledge Acquisition, 2(5), 199&#8211;220.</p>
+<p >Hitzler, P., Kr&ouml;tzsch, M., Rudolph, S., &amp; Sure, Y. (2008). 
+  Semantic Web. Berlin, Heidelberg: Springer.</p>
+<p >Hotho, A., &amp; Hoser, B. (Eds.) (2007). Bridging the Gap between 
+  Semantic Web and Web 2.0: Workshop located at the European Semantic Web Conference 
+  (ESWC 2007). Innsbruck, Austria. Retrieved November 13, 2008, from <a href="http://www.kde.cs.uni-kassel.de/ws/eswc2007/program.html">http://www.kde.cs.uni-kassel.de/ws/eswc2007/program.html</a>.</p>
+<p >Lange, C., Schaffert, S., Skal-Molli, H., &amp; V&ouml;lkel, M. 
+  (Eds.) (2008). The Wiki Way of Semantics: Proceedings of the 3rd Semantic Wiki 
+  Workshop (SemWiki 2008) at the 5th European Semantic Web Conference (ESWC 2008), 
+  Tenerife, Spain. CEUR Workshop Proceedings, Vol. 360.</p>
+<p >Legg, C. (2007). Ontologies on the Semantic Web. Annual Review 
+  of Information Science and Technology, 41, 407&#8211;451.</p>
+<p >Pan, J. Z. (2007). OWL for the Novice: A Logical Perspective. 
+  In C. J. O. Baker &amp; K.-H. Cheung (Eds.), Semantic Web: Revolutionizing Knowledge 
+  Discovery in the Life Sciences (pp. 159&#8211;182). Boston, MA: Springer.</p>
+<p >Peters, I. (2009). Folksonomies: Indexing and Retrieval in Web 
+  2.0. (Knowledge and Information. Studies in Information Science; Vol. 1). M&uuml;nchen: 
+  Saur.</p>
+<p >Peters, I., &amp; Weller, K. (2008a). Paradigmatic and Syntagmatic 
+  Relations in Knowledge Organization Systems. Information - Wissenschaft &amp; 
+  Praxis, 59(2), 100&#8211;107.</p>
+<p >Peters, I., &amp; Weller, K. (2008b). Tag Gardening for Folksonomy 
+  Enrichment and Maintenance.Webology, 5(3).</p>
+<p>Shadbolt, N., Berners-Lee, T., &amp; Hall, W. (2006). The 
+  Semantic Web Revisited. IEEE Intelligent Systems, 21(3), 96&#8211;101.</p>
+<p><a href="001.htm">zur&uuml;ck</a></p>
+</body>
+</html>
