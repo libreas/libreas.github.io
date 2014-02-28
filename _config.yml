@@ -2,8 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://libreas.github.io
-title: LIBREAS.Library Ideas
+url: http://libreas.eu
+title: LIBREAS. Library Ideas
 subtitle: Elektronische Zeitschrift für Bibliotheks- und Informationswissenschaft 
 author: LIBREAS. Library Ideas
 simple_search: http://google.com/search
@@ -64,6 +64,7 @@ default_asides: [asides/facebook.html, asides/twitter.html]
 
 # Github repositories
 github_user: libreas
+github_repo: libreas.github.io
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true

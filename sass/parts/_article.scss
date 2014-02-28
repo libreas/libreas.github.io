@@ -17,6 +17,12 @@ article{
 			color: $color-gray01;
 		}
 	}
+
+	.titelei{
+		margin-bottom: 20px;
+		font-size: 110%;
+		}
+
 	.entry-content{
 		line-height: 1.7;
 		text-align: left;
@@ -29,6 +35,7 @@ article{
 		.fussnote{ 
 			font-size: 95%;
 			}
+
 
 		.motto {
 		font-size: 13px; text-align: right; text-decoration: none; line-height: 19px; font-style: italic; margin-left:20%; margin-right:10%; }
@@ -52,7 +59,7 @@ article{
 			margin-top: 10px;
 		}
 		ul, ol, dl{
-			margin-left: 20px;
+			margin-left: 50px;
 			ul, ol, dl{
 				margin-top: 0;
 			}

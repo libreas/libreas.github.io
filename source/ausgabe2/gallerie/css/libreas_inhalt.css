@@ -1,0 +1,265 @@
+.text  { 
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:normal;
+	text-align:left;
+	letter-spacing:1;
+	color:#000000; 
+}
+.text a:link { 
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:normal;
+	font-style:italic; 
+	color:#000000; 
+}
+.text a:visited { 
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:normal;
+	font-style:italic; 
+	color:#000000; 
+}
+.text a:hover { 
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:normal;
+	font-style:italic; 
+	color:#FF0000; 
+}
+.text a:active { 
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:normal;
+	font-style:italic; 
+	color:#000000; 
+}
+.textbold  { 
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:bold;
+	text-align:left;
+	letter-spacing:1;
+	color:#000000; 
+}
+.textbold a:link { 
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:bold;
+	font-style:italic; 
+	color:#000000; 
+}
+.textbold a:visited { 
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:bold;
+	font-style:italic; 
+	color:#000000; 
+}
+.textbold a:hover { 
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:bold;
+	font-style:italic; 
+	color:#FF0000; 
+}
+.textbold a:active { 
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:bold;
+	font-style:italic; 
+	color:#000000; 
+}
+.textitalic  { 
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:normal;
+	font-style:italic; 
+	text-align:left;
+	letter-spacing:1;
+	color:#000000; 
+}
+.textitalic a:link { 
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:normal;
+	font-style:italic; 
+	color:#000000; 
+}
+.textitalic a:visited { 
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:normal;
+	font-style:italic; 
+	color:#000000; 
+}
+.textitalic a:hover { 
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:normal;
+	font-style:italic; 
+	color:#FF0000; 
+}
+.textitalic a:active { 
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:normal;
+	font-style:italic; 
+	color:#000000; 
+}
+
+
+.textrot  { 
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:normal;
+	font-style:normal; 
+	text-align:left;
+	letter-spacing:1;
+	color:#B40F32; 
+}
+.textrot a:link { 
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:normal;
+	font-style:normal; 
+	color:#B40F32; 
+}
+.textrot a:visited { 
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:normal;
+	font-style:normal; 
+	color:#B40F32; 
+}
+.textrot a:hover { 
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:normal;
+	font-style:normal; 
+	color:#B40F32; 
+}
+.textrot a:active { 
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:normal;
+	font-style:normal; 
+	color:#B40F32; 
+}
+
+
+.index  { 
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:normal;
+	font-style:normal;
+	text-align:left;
+	letter-spacing:1;
+	color:#000000; 
+	text-transform:none;
+	text-decoration:none;
+}
+.index a:link { 
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:normal;
+	font-style:normal;
+	color:#000000; 
+	border-color:#EFEFEF;
+	text-transform:none;
+	text-decoration:none;
+}
+.index a:visited { 
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:normal;
+	font-style:normal;
+	color:#000000; 
+	border-color:#EFEFEF;
+	text-transform:none;
+	text-decoration:none;
+}
+.index a:hover { 
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:normal;
+	font-style:normal;
+	color:#FF0000; 
+	border-color:#EFEFEF;
+	text-transform:none;
+	text-decoration:none;
+}
+.index a:active { 
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:normal;
+	font-style:normal;
+	color:#000000; 
+	border-color:#EFEFEF;
+	text-transform:none;
+	text-decoration:none;
+}
+
+
+.ueberschrift  {
+	font-family:Helvetica, Arial; 
+	font-size:20px; 
+	font-weight:bold;
+	text-transform:normal;
+	letter-spacing:1px;
+	color:#000000; 
+}
+.unterueberschrift  {
+	font-family:Helvetica, Arial; 
+	font-size:17px; 
+	font-weight:normal;
+	text-transform:normal;
+	letter-spacing:1px;
+	color:#000000; 
+}
+.autor  { 
+	font-family:Helvetica, Arial; 
+	font-size:11px; 
+	font-weight:normal;
+	text-align:left;
+	letter-spacing:1;
+	color:#000000; 
+}
+
+
+.erklaerung  { 
+	font-family:Helvetica, Arial; 
+	font-size:11px; 
+	font-weight:normal;
+	text-align:left;
+	letter-spacing:1;
+	color:#000000; 
+}
+.erklaerung a:link { 
+	font-family:Helvetica, Arial; 
+	font-size:11px; 
+	font-weight:normal;
+	font-style:italic; 
+	color:#000000; 
+}
+.erklaerung a:visited { 
+	font-family:Helvetica, Arial; 
+	font-size:11px; 
+	font-weight:normal;
+	font-style:italic; 
+	color:#000000; 
+}
+.erklaerung a:hover { 
+	font-family:Helvetica, Arial; 
+	font-size:11px; 
+	font-weight:normal;
+	font-style:italic; 
+	color:#000000; 
+}
+.erklaerung a:active { 
+	font-family:Helvetica, Arial; 
+	font-size:11px; 
+	font-weight:normal;
+	font-style:italic; 
+	color:#000000; 
+}

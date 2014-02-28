@@ -1,18 +1,32 @@
 ---
 layout: default
 ---
-{% if page.journal %}
+
+{% if page.issue %}
 <article class="page" itemscope itemtype="http://schema.org/ScholarlyArticle">
 	<div align="right">
-	<strong> > > > <a href="inhalt.htm">{{ page.journal }} # {{ page.issue}}</a></strong> <br><br>
+        {% if page.issue == '10/11' %}
+	<strong> > > > <a href="/ausgabe10/inhalt.htm">{{ page.journal }} # {{ page.issue}}</a></strong> <br><br>
 </div>
+        {% elsif page.issue == '8/9' %}
+        <strong> > > > <a href="/ausgabe8/inhalt.htm">{{ page.journal }} # {{ page.issue}}</a></strong> <br><br>
+
+    </div>
+
+        {% elsif page.issue == "23" %}
+        <strong> > > > <a href="/ausgabe23/00inhalt/">{{ page.journal }} # {{ page.issue}}</a></strong> <br><br>
+</div>
+        {% else %}
+        <strong> > > > <a href="inhalt.htm">{{ page.journal }} # {{ page.issue}}</a></strong> <br><br>
+</div>
+        {% endif %}
     {% else%}
     <article class="page">
 {% endif %}
 
 {% if page.urn %}
 <div align="right">
-    <small><a itemprop="sameAs" href="http://nbn-resolving.de/{{ page.urn }}">Download PDF @ EDOC HU Berlin</a>
+    <small><a itemprop="sameAs" href="http://nbn-resolving.de/{{ page.urn }}">Download PDF @ edoc HU Berlin</a>
         <br>
         {{ page.urn }} </small>
 	</div>
@@ -20,14 +34,13 @@ layout: default
 {% endif %}
 
     {% if page.title %}
+    <br>
     <h1 itemprop="name" class="title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
-    {% endif %}
-     {% if page.title %}
-    <h3 class="title"><small>{% if site.titlecase %}{{ page.subtitle | titlecase }}{% else %}{{ page.subtitle }}{% endif %}</small></h3></br>
     {% endif %}
 
     
 {% assign authorCount = page.contributor | size %}
+<div class="titelei">
 {% if authorCount == 0 %}
     No author
 {% elsif authorCount == 1 %}
@@ -42,14 +55,27 @@ layout: default
             <i>,</i> <i itemprop="author">{{ author }}</i>
         {% endif %}
     {% endfor %}
+</div>
 {% endif %}
     
 
 
     {% if page.abstract %}
-        <br>
-        <p><small itemprop="description">Abstract: {{ page.abstract }}</small></p>
-        {% endif %}
+
+    <p><small itemprop="description">{{ page.abstract }}</small></p>
+
+    {% endif %}
+
+    {% if page.abstractalt %}
+
+    <br>
+
+    <p><small itemprop="description">{{ page.abstractalt }}</small></p>
+
+    {% endif %}
+
+
+
         {% if page.journal %}
 		<p>
 	    	<small>
@@ -64,7 +90,7 @@ layout: default
         {% else %}
            {{ author }},
         {% endif %}
-    {% endfor %}"{{ page.title }}". <i itemprop="provider">{{ page.journal }}</i>, {{ page.issue }} (<span itemprop="datePublished">{{ page.year }}</span>). <a itemprop="url" href="{{ site.url }}{{ page.url }}">{{ site.url }}{{ page.url }}</a>
+    {% endfor %}"{{ page.title }}". <i itemprop="provider">{{ page.journal }}</i>, {{ page.issue }} (<span itemprop="datePublished">{{ page.year }}</span>). <a itemprop="url" href="{{ site.url }}{{ page.url | remove:'index.html' }}">{{ site.url }}{{ page.url | remove:'index.html' }}</a>
     	    </small>
             <hr>
     	</p>
@@ -79,11 +105,26 @@ layout: default
             <hr>
         </p>
     {% endif %}
+
+
+
+
+
     <div class="entry-content" itemprop="articleBody">{{ content }}</div>
+
+    {% if page.noncc %}
+
+    <hr>
+
+    <p><strong>{{ page.noncc }}</strong></p>
+
+    {% endif %}
+
 </article>
 {% unless page.sharing == false %}
 	{% include post/sharing.html %}
 {% endunless %}
+
 {% if site.disqus_short_name and page.comments == true %}
 <section id="comment">
     <h1 class="title">Comments</h1>

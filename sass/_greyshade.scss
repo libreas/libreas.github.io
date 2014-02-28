@@ -4,9 +4,18 @@ html {
   height: 100%;
 }
 
+//fonface
+
+@font-face {
+font-family: Aleo;
+src: url("/font/aleo/Aleo-Regular.otf") format("opentype");
+}
+
+
+
 body {
 	background: #700000;
-	font-family: "Open Sans", "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-family: "OpenSans", "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,sans-serif;
 	height: 100%;
 }
 
@@ -91,6 +100,7 @@ body {
 		.mid-col-container {
 			padding: 0px 70px 0px 40px;
 			#content {
+			    font-family:  'PT Sans', Helvetica, Arial, sans-serif;
 				width: 100%;
 				article {
 					border-top: none;
@@ -146,7 +156,7 @@ body {
 					}
 					h1.title{
 						a {
-							color: #333;
+
 							-webkit-transition: color 0.3s;
 							-moz-transition: color 0.3s;
 							-o-transition: color 0.3s;
@@ -159,6 +169,7 @@ body {
 							-o-transition: color 0.3s;
 							transition: color 0.3s;
 						}
+						
 					}
 				}
 			}
@@ -171,6 +182,8 @@ body {
 		opacity: 1;
 	}
 	.left-col {
+
+	    font-family: "OpenSans", "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,sans-serif;
 		width: 23%;
 		position: fixed;
 		opacity: .3;
