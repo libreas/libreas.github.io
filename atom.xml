@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[LIBREAS. Library Ideas]]></title>
+  <link href="http://libreas.github.io/atom.xml" rel="self"/>
+  <link href="http://libreas.github.io/"/>
+  <updated>2014-03-01T15:25:58+01:00</updated>
+  <id>http://libreas.github.io/</id>
+  <author>
+    <name><![CDATA[LIBREAS. Library Ideas]]></name>
+    <email><![CDATA[redaktion@libreas.eu]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>

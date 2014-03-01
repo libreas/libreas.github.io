@@ -1,0 +1,11 @@
+body  {
+	padding:0px;
+	margin:0px;
+	background-color:#EDE9EB;
+	scrollbar-base-color:#EFEFEF;
+	scrollbar-arrow-color:#006400;
+	scrollbar-track-color:#EFEFEF;
+	scrollbar-dark-shadow-color:#999999;
+	scrollbar-shadow-color:#999999;
+	scrollbar-highlight-color:#999999; 
+}

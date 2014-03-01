@@ -1,0 +1,98 @@
+.img  {
+	border:1px;
+	border-color:#000000; 
+}
+
+
+.bilder  {
+	font-family:Helvetica, Arial;
+	font-size:13px;
+	font-weight:normal;
+	text-transform:normal;
+	text-decoration:none;
+	color:#000000;
+	letter-spacing:1px;
+}
+.bilder a:link {
+	font-family:Helvetica, Arial;
+	font-size:13px;
+	font-weight:normal;
+	text-transform:normal;
+	text-decoration:none;
+	color:#000000;
+	letter-spacing:1px;
+}
+.bilder a:visited {
+	font-family:Helvetica, Arial;
+	font-size:13px;
+	font-weight:normal;
+	text-transform:normal;
+	text-decoration:none;
+	color:#000000;
+	letter-spacing:1px;
+}
+.bilder a:hover {
+	font-family:Helvetica, Arial;
+	font-size:13px;
+	font-weight:normal;
+	text-transform:normal;
+	text-decoration:none;
+	color:#FF0000;
+	letter-spacing:1px;
+}
+.bilder a:active {
+	font-family:Helvetica, Arial;
+	font-size:13px;
+	font-weight:normal;
+	text-transform:normal;
+	text-decoration:none;
+	color:#000000;
+	letter-spacing:1px;
+}
+
+
+.bilderfett  {
+	font-family:Helvetica, Arial;
+	font-size:13px;
+	font-weight:bold;
+	text-transform:normal;
+	text-decoration:none;
+	color:#000000;
+	letter-spacing:1px;
+}
+.bilderfett a:link {
+	font-family:Helvetica, Arial;
+	font-size:13px;
+	font-weight:bold;
+	text-transform:normal;
+	text-decoration:none;
+	color:#000000;
+	letter-spacing:1px;
+}
+.bilderfett a:visited {
+	font-family:Helvetica, Arial;
+	font-size:13px;
+	font-weight:bold;
+	text-transform:normal;
+	text-decoration:none;
+	color:#000000;
+	letter-spacing:1px;
+}
+.bilderfett a:hover {
+	font-family:Helvetica, Arial;
+	font-size:13px;
+	font-weight:bold;
+	text-transform:normal;
+	text-decoration:none;
+	color:#FF0000;
+	letter-spacing:1px;
+}
+.bilderfett a:active {
+	font-family:Helvetica, Arial;
+	font-size:13px;
+	font-weight:bold;
+	text-transform:normal;
+	text-decoration:none;
+	color:#000000;
+	letter-spacing:1px;
+}

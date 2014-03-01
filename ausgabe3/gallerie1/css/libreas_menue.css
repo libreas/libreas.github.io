@@ -1,0 +1,107 @@
+.hauptmenue  {
+	font-family:Helvetica, Arial; 
+	font-size:13px;
+	font-weight:bold;
+	text-transform:normal;
+	text-decoration:none;
+	text-align:left; 
+	color:#000000;
+	letter-spacing:0px;
+	vertical-align:top; 
+}
+.hauptmenue a:link {
+	font-family:Helvetica, Arial; 
+	font-size:13px;
+	font-weight:bold;
+	text-transform:normal;
+	text-decoration:none;
+	color:#000000;
+	letter-spacing:0px;
+	vertical-align:top; 
+}
+.hauptmenue a:visited {
+	font-family:Helvetica, Arial; 
+	font-size:13px;
+	font-weight:bold;
+	text-transform:normal;
+	text-decoration:none;
+	color:#000000; 
+	letter-spacing:0px;
+	vertical-align:top; 
+}
+.hauptmenue a:hover {
+	font-family:Helvetica, Arial; 
+	font-size:13px;
+	font-weight:bold;
+	text-transform:normal;
+	text-decoration:none;
+	color:#FF0000;
+	letter-spacing:0px;
+	vertical-align:top; 
+}
+.hauptmenue a:active {
+	font-family:Helvetica, Arial; 
+	font-size:13px;
+	font-weight:bold;
+	text-transform:normal;
+	text-decoration:none;
+	color:#000000; 
+	letter-spacing:0px;
+	vertical-align:top; 
+}
+
+
+.untermenue  {
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:normal;
+	text-transform:normal;
+	text-decoration:none;
+	text-align:right; 
+	vertical-align:top; 
+	color:#000000; 
+	letter-spacing:1px;
+	
+	margin:0px;
+	padding:0px;
+}
+.untermenue a:link {
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:normal;
+	text-transform:normal;
+	text-decoration:none;
+	text-align:right; 
+	color:#000000; 
+	letter-spacing:1px;
+}
+.untermenue a:visited {
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:normal;
+	text-transform:normal;
+	text-decoration:none;
+	text-align:right; 
+	color:#000000; 
+	letter-spacing:1px;
+}
+.untermenue a:hover {
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:normal;
+	text-transform:normal;
+	text-decoration:none;
+	text-align:right; 
+	color:#FF0000; 
+	letter-spacing:1px;
+}
+.untermenue a:active {
+	font-family:Helvetica, Arial; 
+	font-size:13px; 
+	font-weight:normal;
+	text-transform:normal;
+	text-decoration:none;
+	text-align:right; 
+	color:#000000; 
+	letter-spacing:1px;
+}
