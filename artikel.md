@@ -28,7 +28,7 @@ Auswahl von Informationsressourcen für Historiker, die als durchaus
 gelungen bezeichnet werden kann. Dieses Urteil trifft auch und gerade
 zu, wenn man die Auslassungen im Vergleich mit dem deutlich
 umfangreicheren, von Reihenherausgeber Klaus Gantert selbst verfassten,
-Parallelwerk betrachtet. Die Vielfalt der Typen von
+Parallelwerk[^1] betrachtet. Die Vielfalt der Typen von
 Informationsressourcen kommt zum Ausdruck und keine Epoche wird
 gegenüber anderen vernachlässigt. Der Schwerpunkt liegt eindeutig auf
 digitalen Medien (S. 1), konventionelle gedruckte Publikationen werden
@@ -123,7 +123,7 @@ Informationswissenschaft an der Humboldt-Universität zu Berlin. Seit
 Akademienvorhabens „Jahresberichte für deutsche Geschichte“ an der
 Berlin-Brandenburgischen Akademie der Wissenschaften.
 
- Klaus Gantert (2011): Elektronische Informationsressourcen für
+[^1]: Klaus Gantert (2011): Elektronische Informationsressourcen für
 Historiker (= Bibliotheks- und Informationspraxis ; 43). Berlin ; Boston
 MA : De Gruyter Saur. Rezension:
 http://libreas.eu/ausgabe20/texte/16wiederkehr.htm. 
