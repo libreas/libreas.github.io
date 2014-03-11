@@ -6,8 +6,6 @@ Käufer, Fachreferenten in Bibliotheken und Wissenschaftler in einem
 fortgeschrittenen Stadium der Karriere anzusprechen, spiegelt sich in
 der äußeren Aufmachung und im erschwinglichen Preis der Bände wider.
 
-\
-
 Um es vorwegzunehmen: Doina Oehlmanns Band enthält eine sehr knappe
 Auswahl von Informationsressourcen für Historiker, die als durchaus
 gelungen bezeichnet werden kann. Dieses Urteil trifft auch und gerade
@@ -27,8 +25,6 @@ Beschaffung von wissenschaftlicher Literatur und – unnötigerweise als
 Exkurs deklariert – die Historischen Hilfswissenschaften. Hinweise für
 das korrekte Zitieren und eine Warnung vor Plagiarismus fehlen ebenso
 wenig.
-
-\
 
 Richtig glücklich vermag der Rezensent mit dem Band gleichwohl nicht zu
 werden. Das hängt insbesondere damit zusammen, dass die didaktische
@@ -70,8 +66,6 @@ mittelalterlicher Originalhandschriften mit dem Ziel erläutert, diese
 Handschriften lokalisieren und damit wissenschaftlich arbeiten zu können
 (S. 93-96).
 
-\
-
 Stellt man fest, dass als einzige Online-Quellenedition zum 20.
 Jahrhundert die bei De Gruyter erschienene Datenbank
 "Nationalsozialismus, Holocaust, Widerstand und Exil 1933-1945"
@@ -85,8 +79,6 @@ mit dem Text abzugleichen, fehlen darin doch u.a. die digitale Version
 der International Bibliography of Historical Sciences (S. 21) oder die
 als Beispiel für eine Personalbibliographie angeführte Helmut Schmidt
 Bibliographie (S. 53).
-
-\
 
 Bevor sich der Rezensent nun endgültig in die Schwächen des Bandes
 verbeißt, gilt es, den ersten der "Tipps für den absoluten Notfall" zu
