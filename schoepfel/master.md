@@ -18,8 +18,6 @@ Einrichtung entfernt. Das Kredo der Autoren, welches das Buch wie ein
 roter Faden durchzieht, lautet demzufolge auch: "Es geht darum, eine
 neue Beziehung herzustellen" (S. 10, Übersetzung des Autors).
 
-\
-
 Die ersten sechs Kapitel beschreiben das Umfeld. Was tut sich auf dem
 Campus, wie verändert sich die Einrichtung Universität? Die Reformen des
 französischen Hochschulwesens haben die Verwaltung, die Strukturen und
@@ -47,8 +45,6 @@ Bibliothekare, ihren Beruf aus dem Verständnis und der Beziehung zum
 Publikum heraus zu konstruieren; und auf die Entwicklung der Bibliothek
 als Ort öffentlicher Dienstleistungen am Publikum.
 
-\
-
 Das Buch fasst die unterschiedlichen Studien wie folgt zusammen: "Die
 örtlichen Bibliotheken werden weiterhin existieren, aber nur unter der
 Bedingung, dass sie ihren Ansatz radikal verändern und sich auf die
@@ -65,8 +61,6 @@ Wissenschaftsbewertung und Informationsmanagement (Szientometrie) als
 auch in der Verbreitung wissenschaftlicher Veröffentlichungen (Open
 Access und so weiter), bei der Öffentlichkeitsarbeit und in Kontakten zu
 Vereinen, lokalen Gruppen et ceterea. 
-
-\
 
 Das Buch richtet sich in erster Linie an Universitätsbibliothekare sowie
 an Studenten und Forscher der Bibliotheks- und Informationswissenschaft.
