@@ -156,7 +156,7 @@ Jahren im Zeithorizont 2-3 Jahre und im aktuellen Horizon Report für
 2014 im Zeithorizont 1 Jahr erschien (die Horizon Reports sind u.a. auf
 der Homepage des NMC publiziert: [http://www.nmc.org/publications](http://www.nmc.org/publications)). 
 
-![Wichtigste Technologien seit 2004, Themen farblich zu Clustern zusammengefasst (eigene Darstellung)](./img/02-Themen_Horizon.jpg)
+![Wichtigste Technologien seit 2004, Themen farblich zu Clustern zusammengefasst (eigene Darstellung)](./img/02-Themen_Horizon.png)
 
 Andere Themen dümpeln über mehrere Jahre in einem der Zeithorizonte, um
 dann zu verschwinden, andere tauchen gleich im Zeithorizont 1 Jahr auf,
