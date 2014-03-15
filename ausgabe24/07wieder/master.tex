@@ -1,0 +1,315 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.6\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=blue,
+breaklinks= true]{hyperref}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage[babel]{csquotes}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+%meta
+%meta
+
+\fancyhead[L]{C. Wieder \\ %author
+LIBREAS. Library Ideas, 24 (2014). % journal, issue, volume.
+\href{http://nbn-resolving.de/urn:nbn:de:kobv:11-100215896}{urn:nbn:de:kobv:11-100215896}} % urn
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\textit{Creative Commons BY 3.0}} %licence
+\fancyfoot[R] {\textit{ISSN: 1860-7950}}
+
+\title{\LARGE{\#Readwomen2014 -- Eine Online-Aktion mit nachhaltigen Auswirkungen auf unser Leseverhalten und den Literaturbetrieb?}} %title
+\author{Christine Wieder} %author
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+
+%body
+Als Joanne Rowling im Jahr 2013 \emph{Der Ruf des Kuckucks}
+veröffentlichte, ihren ersten Kriminalroman und ihre zweite
+Buchveröffentlichung nach der Harry Potter Reihe, verwendete sie ein
+Pseudonym. Die Aufmerksamkeit sollte allein dem veröffentlichten Werk
+gelten. Die Einrücke von Literaturkritik und Öffentlichkeit sollten
+nicht durch Rowlings berühmten Namen und den damit einhergehenden
+Vorurteilen überschattet werden, wie es bei ihrem zuvor veröffentlichten
+Roman \emph{Ein plötzlicher Todesfall} geschehen war. Als Pseudonym
+wählte Rowling den Namen Robert Galbraith. Nach eigener Aussage
+beabsichtigte sie damit lediglich, den Abstand zu ihrer eigentlichen
+Identität zu vergrößern.\footnote{\url{http://www.robert-galbraith.com//\#frequentlyAskedQuestions}}
+Rowlings Namenswahl zog jedoch auch einige Kritik auf sich. Vielfach
+warf man ihr vor, mit der Wahl eines männlichen Pseudonyms zu
+Vorurteilen gegenüber weiblichem Schreiben beizutragen.\footnote{z.B.
+  \url{http://www.hollywood.com/news/celebrities/55020075/jk-rowling-cuckoos-calling-robert-galbraith-pseudonym-feminist}}
+Wie man Rowlings Motive auch interpretieren möchte, sie steht in einer
+langen Tradition von Autorinnen, die für literarische Veröffent\-lichungen
+anstatt ihres eigenen Namens ein männliches oder geschlechtsneutrales
+Pseudonym verwenden. Emily, Anne und Charlotte Brontë veröffentlichten
+ihre Romane unter den Namen Ellis, Acton und Currer Bell. Mary Ann Evans
+berühmter Roman \emph{Middlemarch} wird noch heute unter ihrem Pseudonym
+George Eliot verlegt. Andere Fälle sind weniger eindeutig: Harper Lee
+strich ihren ersten Vornamen Nelle und publizierte unter ihrem
+geschlechtsneutralen zweiten Vornamen.\footnote{\url{http://www.webdesignschoolsguide.com/library/10-famous-females-who-used-male-pen-names.html}}
+Als Rowling 1997 \emph{Harry Potter und der Stein der Weisen}
+veröffentlichte, tat sie das auf Anraten ihres Verlags unter dem Kürzel
+\enquote{J.K.}. Es wurde befürchtet, dass ein weiblicher Vorname auf dem
+Buchcover die erwünschten männlichen jungen Leser abschrecken könnte.
+Angeblich seien diese nicht interessiert daran, von einer Frau verfasste
+Geschichten über einen Jungen zu lesen.\footnote{\url{http://www.telegraph.co.uk/news/uknews/1349288/Harry-Potter-and-the-mystery-of-J-Ks-lost-initial.html}}
+Erst nach dem großen Erfolg des ersten Harry Potter-Bandes wurde weithin
+bekannt, dass es sich bei der Autorin um eine Frau handelt.~
+
+Dies deutet darauf hin, dass es, wenigstens in der Markteinschätzung der
+Verlage, nach wie vor Vorbehalte gegenüber von Frauen verfasster
+Literatur gibt. Auch die Autorin und Illustratorin Joanna Walsh
+beobachtete Ungleichheiten im Bereich der Literatur und nahm dies als
+Anlass, das Jahr 2014 als \enquote{The year of reading women}
+auszurufen. Inspiriert von anderen Menschen, die für einen begrenzten
+Zeitraum ausschließlich Literatur von Frauen lasen und darüber in ihren
+Blogs berichteten, gestaltete Walsh verschiedene Neujahrsgrußkarten in
+der Form von Lesezeichen mit diesem Motto. Die Karten zeigen
+Illustrationen von Autorinnen, darunter etwa Simone de Beauvoir und
+Gertrude Stein. Auf der Rückseite der Karten sind sie mit den Namen
+zahlreicher Autorinnen bedruckt, die Walsh für lesenswert hält. Walsh
+zeigte Bilder dieser Grußkarten auf ihrem Blog sowie auf ihrem
+Twitter-Account mit dem Hashtag \#readwomen2014 und stieß damit auf
+großes Interesse.\footnote{\url{http://www.theguardian.com/lifeandstyle/womens-blog/2014/jan/20/read-women-2014-change-sexist-reading-habits}}
+Der Hashtag wurde seit Anfang Januar für viele Beiträge genutzt, die
+sich mit Literatur von Frauen auseinander setzten. Es werden Bücher von
+Autorinnen empfohlen, Leseeindrücke beschrieben, Kritiken in
+Literaturblogs verlinkt und Literaturzitate geteilt. Der größte Teil der
+Beiträge ist auf Englisch, vereinzelt finden sich jedoch auch andere
+Sprachen. Joanna Walsh richtete zudem einen Twitter-Account unter dem
+Namen \#readwomen2014 ein, in dem sie eine Auswahl der getaggten
+Beiträge retweetet.
+
+Von Twitter ausgehend verbreitete sich \#readwomen2014 auch auf andere
+Plattformen: zahlreiche Blogs und Webseiten riefen zum Lesen von
+Autorinnen auf. In der Social-Reading-Plattform goodreads wurden Listen
+empfehlenswerter Bücher von Autorinnen erstellt, die Walshs Empfehlungen
+aufgreifen und eigene hinzufügen. Verschiedene englischsprachige Medien
+berichteten über \#readwomen2014 und erzeugten so weitere
+Aufmerksamkeit. Auch Bibliotheken und Buchhandlungen wurden von der
+Aktion inspiriert und beteiligten sich an ihrer Verbreitung. So weist
+etwa der offizielle Twitter-Account der Manchester Libraries auf
+\#readwomen2014 hin.\footnote{\url{https://twitter.com/MancLibraries/status/426308874623537152}}
+Walsh selbst veröffentlichte auf ihrem Blog Bilder aus Buchhandlungen,
+die mit einem Verweis auf \#readwomen2014 Literatur von Frauen
+bewerben.\footnote{\url{http://badaude.typepad.com/my_weblog/2014/01/readwomen2014-in-bookshops.html}}
+
+Einige Menschen wurden von Walshs Aufruf dazu angeregt, im Jahr 2014
+ausschließlich von Frauen verfasste Literatur zu lesen. Sie selbst
+erklärte hingegen, dass sie 2014 auch von Männern verfasste Literatur
+lesen wird. Ihr Ziel ist, jede(n) Einzelne(n) dazu anzuregen, die
+eigenen Lesegewohnheiten bewusst wahrzunehmen und zu reflektieren.
+Darüber hinaus sieht Walsh Leserinnen und Leser in der Verantwortung,
+als Konsumentinnen und Konsumenten den Literaturbetrieb zu verändern.
+Walsh geht es also nicht um das exklusive Lesen von Autorinnen, sondern
+um eine verstärkte Aufmerksamkeit für von Frauen verfasste Literatur und
+für die Ungleichheiten im Literaturbetrieb.\footnote{\url{http://www.theguardian.com/lifeandstyle/womens-blog/2014/jan/20/read-women-2014-change-sexist-reading-habits}}
+
+Doch worin bestehen diese Ungleichheiten? Die meisten Leserinnen und
+Leser würden vermutlich von sich selbst behaupten, dass Merkmale wie das
+Geschlecht, die Herkunft oder das Alter von Autorinnen und Autoren
+keinen Einfluss auf die eigene Lektüreauswahl haben und dass allein das
+jeweilige literarische Werk und das jeweilige persönliches Interesse
+ausschlaggebend sind. Romane von Autorinnen werden in einem ähnlichen
+Umfang verlegt wie die ihrer männlichen Kollegen\footnote{Ebd.}, auch in
+Buchhandlungen und Bibliotheken ist kein Mangel an von Frauen verfassten
+Büchern festzustellen. Zudem haben es Autorinnen heute leichter,
+Anerkennung für ihr literarisches Werk zu finden, als noch vor einigen
+Jahrzehnten. Dafür spricht zum Beispiel, dass die kanadische Autorin
+Alice Munro im Jahr 2013 mit dem Nobelpreis für Literatur ausgezeichnet
+wurde. Damit steht das Verhältnis von Autorinnen zu Autoren in diesem
+Jahrzehnt bei 1:2. In den 2000er Jahren lag es bei 3:7, in den 1990ern
+ebenso. Zwischen Nelly Sachs (1966) und Nadine Gordimer (1991) wurde
+dieser Preis aber sehr lange Zeit ausschließlich Männern zugesprochen.
+
+Auch das Leseverhalten von Frauen bietet, vergleicht man es mit dem von
+Männern, nicht gerade Grund zur Besorgnis. Das amerikanische
+Meinungsforschungsinstitut \enquote{Pew Research Center} veröffentlichte
+eine Studie zu amerikanischen Lesegewohnheiten. 82 Prozent der Frauen
+hatten demnach im Vorjahr ein Buch gelesen. Dem stehen 69 Prozent der
+Männer gegenüber. Zudem lasen Frauen durchschnittlich 14 Bücher pro
+Jahr, männliche Leser kamen auf 10.\footnote{\url{http://www.albionpleiad.com/2014/01/readwomen2014-kicks-off-with-overwhelming-support/}}
+Worauf gründet sich also \#readwomen2014?~
+
+Das Problem besteht hauptsächlich in der Art und Weise, in der von
+Frauen verfasste Literatur rezipiert und vermarktet wird. Vida, eine
+Organisation amerikanischer Autorinnen, die sich mit der öffentlichen
+Wahrnehmung von weiblichem Schreiben befasst, beobachtet seit mehreren
+Jahren die Literaturkritiken, die in verschiedenen renommierten
+Publikationen erscheinen. In Betracht gezogen wird sowohl das Geschlecht
+der Autorinnen und Autoren der rezensierten Bücher als auch das der
+Rezensentinnen und Rezensenten. Das Ergebnis, das die Organisation auf
+ihrer Webseite veröffentlicht, ist eindeutig.~
+
+In allen untersuchten Publikationen überwiegen Rezensionen, die von
+Männern verfasst wurden. Auch die meisten rezensierten Bücher stammen
+von männlichen Autoren. In der London Review of Books etwa macht der
+Anteil von Frauen sowohl bei den Rezensentinnen als auch bei den
+rezensierten Autorinnen deutlich weniger als 30 Prozent aus.\footnote{\url{http://www.vidaweb.org/three-years-to-stump-and-stack-and-stem}}
+Diese Ergebnisse lassen den Schluss zu, dass von Frauen geschriebene
+Literatur
+
+Rezensionen in den Rezensionszeitschriften haben zugleich einen großen
+Einfluss darauf, was von der literaturinteressierten Öffentlichkeit als
+lesenswert wahrgenommen wird. Bücher, die dort keine Beachtung finden,
+werden auch von einem bedeutenden Teil der Leserschaft ignoriert und
+damit nicht gekauft und gelesen.~
+
+Es geht also nicht um die breite Masse an belletristischen
+Veröffentlichungen, in denen Autorinnen durchaus vorkommen, sondern
+darum, welcher Literatur und welcher Autorenschaft literarische Qualität
+zugesprochen werden. Besprechungen von Frauen verfasster Bücher sind
+nicht nur in einem geringeren Ausmaß aufzufinden, sie zeigen auch
+inhaltliche Auffälligkeiten. So beobachtete Joanna Walsh, dass Werken
+von Autorinnen oft Merkmale zugesprochen werden, die weniger mit dem
+jeweiligen Text zu tun haben, als mit Vorurteilen über weibliches
+Schreiben:
+
+\begin{quote}
+\enquote{I've listened to female writer friends grouse when their books
+are given flowery covers though their writing is not; when reviews, or
+even their publishers' press releases, describe their work as}delicate"
+when it is forthright, \enquote{delightful} when it is satirical,
+\enquote{carving a niche} when it is staking a claim.``\footnote{\url{http://www.theguardian.com/lifeandstyle/womens-blog/2014/jan/20/read-women-2014-change-sexist-reading-habits}}
+\end{quote}
+
+Auch die Vermarktung von Büchern ist häufig von Geschlechtervorurteilen
+geprägt. Motive auf Buchcovern zeigen oft verniedlichende und betont
+weibliche Farben und Motive, auch wenn diese in keinem Zusammenhang mit
+dem Buchinhalt stehen.~
+
+In ihren Motiven und Zielen weist \#readwomen2014 Parallelen zur
+feministischen Literaturwissenschaft auf. Diese widmet sich seit
+Jahrzehnten der Anerkennung und Sichtbarmachung von Autorinnen und
+beschäftigt sich mit von Frauen verfassten Werken. Innerhalb ihrer
+jeweiligen Disziplinen hat die feministische Literaturwissenschaft
+sicherlich große Fortschritte vorangetrieben und aufgezeigt, dass die
+bis heute anhaltende Marginalisierung von Frauen im Literaturbetrieb
+historisch bedingt ist. In \enquote{How to Suppress Women's Writing}
+beschrieb Joanna Russ 1983 die Hürden, denen sich Autorinnen gegenüber
+sahen. Weibliches Schreiben und Publizieren wurde von der Umwelt kaum
+akzeptiert und fand wenig Unterstützung. Zudem wurde von Frauen in
+vielen Fällen erwartet, den größten Teil ihrer Zeit damit zu verbringen,
+den Haushalt zu führen und die Familie zu versorgen. Folge dieser
+Zustände war, dass zu der Zeit, als sich ein großer Teil des heute
+akzeptierten Literaturkanons herausbildete, weniger Autorinnen als
+Autoren publizierten und ihre Bücher von ihrer Umwelt in der Regel kaum
+Beachtung fanden. Der Literaturkanon der Schullehrpläne besteht nach wie
+vor überwiegend aus Werken, die von männlichen Autoren verfasst wurden.
+Folglich wird Literatur im Sinne von \enquote{Hochliteratur} bis in die
+Gegenwart vielfach mit \enquote{von männlichen Autoren produzierter
+Literatur} assoziiert, ob bewusst oder unbewusst.~
+
+Auch außerhalb des Literaturbetriebs, etwa im Bereich der Kunst, werden
+kreative Erzeugnisse von Frauen oft nicht angemessen wahrgenommen. Werke
+von Frauen sind nicht nur in Museen unterrepräsentiert, viele
+Künstlerinnen sind zudem bei Wikipedia nicht, oder nur in Kurzeinträgen,
+verzeichnet. Aus diesem Grund fanden am 1. Februar 2014 in mehr als
+zwanzig Städten Europas und Nordamerikas öffentliche Zusammenkünfte von
+Menschen statt, die an diesem Tag gemeinsam Wikipedia-Einträge über
+kunstschaffende Frauen hinzufügten oder vervollständigten.\footnote{\url{http://artandfeminism.tumblr.com/about}}
+Die verbesserte Auffindbarkeit von Künstlerinnen bei Wikipedia hat das
+Potential, bei den Nutzerinnen und Nutzern von Wikipedia die Wahrnehmung
+von Kunstbetrieb und Kunstgeschichte zu verändern. Insbesondere können
+so junge Menschen erreicht werden, für die Wikipedia eine wichtige
+Informationsquelle ist.
+
+Wie groß ist jedoch die Wahrscheinlichkeit, dass eine Aktion wie
+\#readwomen2014 nachhaltige Veränderungen im Literaturbetrieb und in der
+allgemeinen Wahrnehmung bewirken kann? Die Verlage orientieren sich in
+ihrer Produktgestaltung und -vermarktung vornehmlich an kommerziellen
+Interessen. Einen spürbaren Einfluss von \#readwomen2014 auf diese ist
+nicht anzunehmen. Das Gegenteil mag eher der Fall sein: erhöhte positive
+Aufmerksamkeit für von Frauen verfasste Literatur mag somit auch solchen
+Büchern zukommen, die sich in Covergestaltung und Verlagstexten
+Geschlechterklischees bedienen.
+
+\#readwomen2014 bietet vielen literaturinteressierten Menschen einen
+Anlass, sich intensiver mit Literatur von Frauen auseinanderzusetzen.
+Die Aktion findet zudem an Orten des Internets statt, an denen es
+möglich ist, eine breite, literaturinteressierte Öffentlichkeit zu
+erreichen und für die Problematik zu sensibilisieren. Auch Menschen, die
+sich -- jetzt oder in Zukunft -- beruflich mit Literatur beschäftigen,
+kommen so mit der Aktion in Berührung. Eine langfristige Veränderung der
+Literaturkritik und des Literaturbetriebs ist deshalb vorstellbar.
+Insbesondere wenn man bedenkt, dass sich die Buchbranche insgesamt in
+einem Stadium der Neuorientierung befindet. Nicht nur E-Books und
+Self-Publishing verändern den Literaturbetrieb grundlegend. Auch
+Literaturblogs, Online-Medien und Social-Reading-Portale stehen in
+Konkurrenz zum traditionellen Literaturjournalismus, der dadurch einen
+Teil seiner Deutungshoheit einbüßt. Sollte es also nicht möglich sein,
+die traditionellen Kanäle der Literaturkritik zu Veränderungen zu
+bewegen, so scheint jetzt ein günstiger Zeitpunkt zu sein, die Relevanz
+dieser Kanäle für die Zukunft zu überdenken und neue, alternative
+Kommunikationsformen zu etablieren.
+
+Wie auch immer sich \#readwomen2014 in den kommenden Monaten entwickeln
+mag: die Aktion kann auch unabhängig von der Datierung weiterhin Anlass
+dazu geben, sowohl die eigenen Lesevorlieben als auch das Angebot des
+Literaturmarkts über die Dimension des Geschlechts hinaus zu
+reflektieren. Das Anliegen, den eigenen Lesehorizont zu erweitern, lässt
+sich in vielfacher Weise verfolgen. Das Lesen ermöglicht einen Einblick
+in fremde Erfahrungen und Perspektiven. Eine Vielfalt der Stimmen, die
+man als Lesender oder Lesende aufnimmt, kann diese Eindrücke nur noch
+weiter bereichern.~
+
+%autor
+
+\end{document}
