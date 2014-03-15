@@ -4,106 +4,106 @@ layout: default
 
 {% if page.issue %}
 <article class="page" itemscope itemtype="http://schema.org/ScholarlyArticle">
-	<div align="right">
-        {% if page.issue == '10/11' %}
-	<strong> > > > <a href="/ausgabe10/inhalt.htm">{{ page.journal }} # {{ page.issue}}</a></strong> <br><br>
-</div>
-        {% elsif page.issue == '8/9' %}
-        <strong> > > > <a href="/ausgabe8/inhalt.htm">{{ page.journal }} # {{ page.issue}}</a></strong> <br><br>
 
-    </div>
-
-        {% elsif page.issue == "23" %}
-        <strong> > > > <a href="/ausgabe23/00inhalt/">{{ page.journal }} # {{ page.issue}}</a></strong> <br><br>
-</div>
-        {% else %}
-        <strong> > > > <a href="inhalt.htm">{{ page.journal }} # {{ page.issue}}</a></strong> <br><br>
-</div>
-        {% endif %}
-    {% else%}
-    <article class="page">
-{% endif %}
-
-{% if page.urn %}
 <div align="right">
-    <small><a itemprop="sameAs" href="http://nbn-resolving.de/{{ page.urn }}">Download PDF @ edoc HU Berlin</a>
-        <br>
-        {{ page.urn }} </small>
-	</div>
-{% else %}
-{% endif %}
+{% if page.issue == '10/11' %}
+<strong> > > > <a href="/ausgabe10/inhalt.htm">{{ page.journal }} # {{ page.issue}}</a></strong> <br><br></div>
+{% elsif page.issue == '8/9' %}
+<strong> > > > <a href="/ausgabe8/inhalt.htm">{{ page.journal }} # {{ page.issue}}</a></strong> <br><br></div>
+{% elsif page.issue == "23" %}
+<strong> > > > <a href="/ausgabe23/00inhalt/">{{ page.journal }} # {{ page.issue}}</a></strong> <br><br></div>
+{% elsif page.issue == "24" %}
+<strong> > > > <a href="/ausgabe24/00inhalt/">{{ page.journal }} # {{ page.issue}}</a></strong> <br><br>
+</div>
 
-    {% if page.title %}
-    <br>
-    <h1 itemprop="name" class="title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
-    {% endif %}
-
-    
-{% assign authorCount = page.contributor | size %}
-<div class="titelei">
-{% if authorCount == 0 %}
-    No author
-{% elsif authorCount == 1 %}
-    {{ page.contributor | first }}
 {% else %}
-    {% for author in page.contributor %}
-        {% if forloop.first %}
-           <i itemprop="author">{{ author }}</i>
-        {% elsif forloop.last %}
-            <i>&amp;</i> <i itemprop="author">{{ author }}</i>
-        {% else %}
-            <i>,</i> <i itemprop="author">{{ author }}</i>
-        {% endif %}
-    {% endfor %}
+<strong> > > > <a href="inhalt.htm">{{ page.journal }} # {{ page.issue}}</a></strong> <br><br>
 </div>
 {% endif %}
-    
-
-
-    {% if page.abstract %}
-
-    <p><small itemprop="description">{{ page.abstract }}</small></p>
-
+{% else %}
+<article class="page">
     {% endif %}
 
-    {% if page.abstractalt %}
+    {% if page.urn %}
+    <div align="right">
+        <small><a itemprop="sameAs" href="http://nbn-resolving.de/{{ page.urn }}">Download PDF @ edoc HU Berlin</a>
+            <br>
+            {{ page.urn }} </small>
+        </div>
+        {% else %}
+        {% endif %}
 
-    <br>
+        {% if page.title %}
+        <br>
+        <h1 itemprop="name" class="title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
+        {% endif %}
 
-    <p><small itemprop="description">{{ page.abstractalt }}</small></p>
 
-    {% endif %}
+        {% assign authorCount = page.contributor | size %}
+        <div class="titelei">
+            {% if authorCount == 0 %}
+            No author
+            {% elsif authorCount == 1 %}
+            {{ page.contributor | first }}
+            {% else %}
+            {% for author in page.contributor %}
+            {% if forloop.first %}
+            <i itemprop="author">{{ author }}</i>
+            {% elsif forloop.last %}
+            <i>&amp;</i> <i itemprop="author">{{ author }}</i>
+            {% else %}
+            <i>,</i> <i itemprop="author">{{ author }}</i>
+            {% endif %}
+            {% endfor %}
+        </div>
+        {% endif %}
+
+
+
+        {% if page.abstract %}
+
+        <p><small itemprop="description">{{ page.abstract }}</small></p>
+
+        {% endif %}
+
+        {% if page.abstractalt %}
+
+        <br>
+
+        <p><small itemprop="description">{{ page.abstractalt }}</small></p>
+
+        {% endif %}
 
 
 
         {% if page.journal %}
-		<p>
-	    	<small>
+        <p>
+          <small>
             <br>
-    		Zitiervorschlag
-    		<br>
-    		{% for author in page.contributor %}
-        {% if forloop.first %}
-          {{ author }},
-        {% elsif forloop.last %}
-           {{ author }},
-        {% else %}
-           {{ author }},
-        {% endif %}
-    {% endfor %}"{{ page.title }}". <i itemprop="provider">{{ page.journal }}</i>, {{ page.issue }} (<span itemprop="datePublished">{{ page.year }}</span>). <a itemprop="url" href="{{ site.url }}{{ page.url | remove:'index.html' }}">{{ site.url }}{{ page.url | remove:'index.html' }}</a>
-    	    </small>
-            <hr>
-    	</p>
-       {% elsif page.subtitle %}
+            Zitiervorschlag
+            <br>
+            {% for author in page.contributor %}
+            {% if forloop.first %}
+            {{ author }},
+            {% elsif forloop.last %}
+            {{ author }},
+            {% else %}
+            {{ author }},
+            {% endif %}
+            {% endfor %}"{{ page.title }}". <i itemprop="provider">{{ page.journal }}</i>, {{ page.issue }} (<span itemprop="datePublished">{{ page.year }}</span>). <a itemprop="url" href="{{ site.url }}{{ page.url | remove:'index.html' }}">{{ site.url }}{{ page.url | remove:'index.html' }}</a>
+        </small>
+        <hr>
+    </p>
+    {% elsif page.subtitle %}
     <p>
-            <small>
+        <small>
             <br>
             Zitiervorschlag
             <br>
             {{ page.contributor }}. {{ page.year }}. {{ page.title }}, {{ page.subtitle }}. <i>{{ page.journal }}</i>, {{ page.issue }}.
-            </small>
-            <hr>
-        </p>
+        </small>
+        <hr>
+    </p>
     {% endif %}
 
 
@@ -122,7 +122,7 @@ layout: default
 
 </article>
 {% unless page.sharing == false %}
-	{% include post/sharing.html %}
+{% include post/sharing.html %}
 {% endunless %}
 
 {% if site.disqus_short_name and page.comments == true %}

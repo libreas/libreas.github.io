@@ -1,80 +1,80 @@
-	<!DOCTYPE HTML>
-	{% if page.lang %}
-	<html lang="{{ page.lang }}">
-	{% else %}
-	<html>
+<!DOCTYPE HTML>
+{% if page.lang %}
+<html lang="{{ page.lang }}">
+{% else %}
+<html>
+{% endif %}
+<head>
+	<meta charset="utf-8">
+	<title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+	<meta name="author" content="{{ site.author }}">
+
+	<!--{% capture description %}{% if page.abstract %}{{ page.abstract }}{% else %}{{ content | raw_content }}{% endif %}{% endcapture %}
+	<meta name="description" content="{{ description | strip_html | condense_spaces | truncate:150 }}">
+	{% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %} -->
+
+<!-- RDFa DC -->
+
+ <!-- RDFa Metadata (in DublinCore) -->
+    {% if page.title %}
+    <meta property="dc:title" content="{{ page.title | escape }}"/>
+    {% endif %}
+    {% if page.contributor %}
+    {% for author in page.contributor %}
+    <meta property="dc:creator" content="{{ author }}"/>
+    {% endfor %}
+    {% endif %}
+    {% if page.year %}
+    <meta property="dc:date" content="{{ page.year }}"/>
+    {% endif %}
+    <meta property="dc:format" content="text/html" />
+    <meta property="dc:language" content="de" />
+    <meta property="dc:identifier" content="{{ site.url }}{{ page.url }}" />
+    {% if page.noncc %}
+    <meta property="dc:rights" content="{{ page.noncc }}" />
+    {% else %}
+	<meta property="dc:rights" content="CC-BY 3.0" /> 
 	{% endif %}
-	<head>
-		<meta charset="utf-8">
-		<title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
-		<meta name="author" content="{{ site.author }}">
+    <meta property="dc:source" content="LIBREAS. Library Ideas" />
+    <meta property="dc:subject" content="Library and Information Science" />
+    <meta property="dc:type" content="website" />
+    <meta property="dc:description" content="{{ page.abstract | escape }}"/>
 
-		<!--{% capture description %}{% if page.abstract %}{{ page.abstract }}{% else %}{{ content | raw_content }}{% endif %}{% endcapture %}
-		<meta name="description" content="{{ description | strip_html | condense_spaces | truncate:150 }}">
-		{% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %} -->
+<!-- Google Scholar -->
 
-	<!-- RDFa DC -->
+	<meta name="citation_journal_title" content="LIBREAS. Library Ideas">
+	<meta name="citation_issue" content="{{ page.issue }}">
+	<meta name="citation_issn" content="1860-7950">
+	{% if page.year %}
+    <meta name="citation_publication_date" content="{{ page.year }}"/>
+    {% endif %}
 
-	 <!-- RDFa Metadata (in DublinCore) -->
-	    {% if page.title %}
-	    <meta property="dc:title" content="{{ page.title | escape }}"/>
-	    {% endif %}
-	    {% if page.contributor %}
-	    {% for author in page.contributor %}
-	    <meta property="dc:creator" content="{{ author }}"/>
-	    {% endfor %}
-	    {% endif %}
-	    {% if page.year %}
-	    <meta property="dc:date" content="{{ page.year }}"/>
-	    {% endif %}
-	    <meta property="dc:format" content="text/html" />
-	    <meta property="dc:language" content="de" />
-	    <meta property="dc:identifier" content="{{ site.url }}{{ page.url }}" />
-	    {% if page.noncc %}
-	    <meta property="dc:rights" content="{{ page.noncc }}" />
-	    {% else %}
-		<meta property="dc:rights" content="CC-BY 3.0" /> 
-		{% endif %}
-	    <meta property="dc:source" content="LIBREAS. Library Ideas" />
-	    <meta property="dc:subject" content="Library and Information Science" />
-	    <meta property="dc:type" content="website" />
-	    <meta property="dc:description" content="{{ page.abstract | escape }}"/>
 
-	<!-- Google Scholar -->
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<meta name="citation_journal_title" content="LIBREAS. Library Ideas">
-		<meta name="citation_issue" content="{{ page.issue }}">
-		<meta name="citation_issn" content="1860-7950">
-		{% if page.year %}
-	    <meta name="citation_publication_date" content="{{ page.year }}"/>
-	    {% endif %}
-
-	
-	  <!-- http://t.co/dKP3o1e -->
-	  <meta name="HandheldFriendly" content="True">
-	  <meta name="MobileOptimized" content="320">
-	  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-		<link href="{{ site.subscribe_rss }}" rel="alternate" title="{{site.title}}" type="application/atom+xml">
-		{% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' }}{% endif %}{% endcapture %}
-		<link rel="canonical" href="{{ canonical }}">
-		<link href="{{ root_url }}/favicon.png" rel="shortcut icon">
-		<link href="{{ root_url }}/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-		<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700' rel='stylesheet' type='text/css'>
-        <link href='http://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>
-		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<link href="{{ site.subscribe_rss }}" rel="alternate" title="{{site.title}}" type="application/atom+xml">
+	{% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' }}{% endif %}{% endcapture %}
+	<link rel="canonical" href="{{ canonical }}">
+	<link href="{{ root_url }}/favicon.png" rel="shortcut icon">
+	<link href="{{ root_url }}/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-46475342-1', 'libreas.eu');
-  ga('send', 'pageview');
+ga('create', 'UA-46475342-1', 'libreas.eu');
+ga('send', 'pageview');
 
 </script>
-		{% include custom/head.html %}
-	</head>
+	{% include custom/head.html %}
+</head>
 
 
