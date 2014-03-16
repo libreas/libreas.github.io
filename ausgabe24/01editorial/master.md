@@ -114,8 +114,7 @@ einzelnen Facetten der Diskussion. Begonnen mit einem positiven Aufruf,
 die Zukunft gemeinsam mit anderen anzugehen (Corinna Haas und Beate
 Rusch); von der Diskussion strukturierter Versuche, zumindest die
 nächste Zukunft vorherzusehen (Rudolf Mumenthaler); über einen Rückblick
-auf vor teilweise langer Zeit gebaute Zukunftsbibliotheken (Blumer &
-Schuldt); bis hin zum nachdrücklichen Hinweis darauf, dass die Zukunft
+auf vor teilweise langer Zeit gebaute Zukunftsbibliotheken (Eliane Blumer & Karsten Schuldt); bis hin zum nachdrücklichen Hinweis darauf, dass die Zukunft
 gestaltet werden muss (Wolfgang Kaiser), stecken die Texte einen Rahmen
 ab, in dem sich die meisten Debatten um die erwünschten, erhofften oder
 befürchteten Zukünfte der Bibliotheken bewegen. Dies ersetzt

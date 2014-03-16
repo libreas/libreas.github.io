@@ -20,6 +20,7 @@ final
 
 \usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=blue,
 breaklinks= true]{hyperref}
+\usepackage{breakurl}
 \usepackage{booktabs} 
 \usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
 \usepackage{eurosym}
@@ -36,7 +37,7 @@ breaklinks= true]{hyperref}
 \usepackage[babel]{csquotes}
 \usepackage{longtable,lscape}
 \usepackage{mathpazo}
-\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+%\usepackage[flushmargin,ragged]{footmisc} % left align footnote
 
 \urlstyle{same}  % don't use monospace font for urls
 
@@ -75,8 +76,8 @@ LIBREAS. Library Ideas, 24 (2014) % journal, issue, volume
 \thispagestyle{fancyplain} 
 
 %abstracts
-
-%body
+\begin{abstract}
+\small
 Die Sehnsucht nach papierlosen und digitalen Bibliotheken ist auch in
 Deutschland weit verbreitet. Dabei entsteht der Irrglaube, die alleinige
 digitale Ausrichtung der eigenen Bibliothek mache diese zukunftsfähig.
@@ -89,7 +90,10 @@ Disziplinen und der Förderung von mehr Vielfalt in der Ausbildung von
 Bibliothekaren und Bibliothekarinnen plädiert. Alternative Hinweise und
 Anregungen, welche für eine Neubewertung öffentlicher Bibliotheken
 eintreten, sind Teil des folgenden Beitrags.
+\end{abstract}
 
+\begin{abstract}
+\small
 The longing for paperless and digital libraries is also very widespread
 in Germany as well as in other countries. At the same time there's the
 misconception that the digital orientation might be the silver bullet
@@ -103,6 +107,11 @@ Furthermore the author pleads for an opening to other disciplines and
 the promotion of more diversity within the library field. Alternative
 leads and suggestions, which advocate a different evaluation of public
 libraries, are part of the following article.
+\end{abstract}
+
+\begin{center}\rule{3in}{0.4pt}\end{center}
+
+%body
 
 Die im Herbst 2013 eröffnete papierlose Zweigstellenbibliothek im
 texanischen Bexar County, genannt BibloTech\footnote{\url{http://bexarbibliotech.org/}},
@@ -640,8 +649,8 @@ Deutscher Bibliotheksverband (2010): \enquote{Die kulturelle
 Dienstleistung Bibliothek darf nicht in den Haushaltslöchern
 verschwinden.} Monika Ziller, Direktorin der Stadtbibliothek Heilbronn,
 neue dbv-Vorsitzende. Pressemitteilung des Deutschen Bibliotheksverbands
-vom Mittwoch, 24. März 2010. Online zugänglich unter:~
-\url{http://www.bibliotheksportal.de/service/nachrichten/archiv/einzelansicht/article/die-kulturelle-dienstleistung-bibliothek-darf-nicht-in-den-haushaltloechern-verschwinden-monika.html},
+vom Mittwoch, 24. März 2010. Online zugänglich unter:\\
+\href{http://www.bibliotheksportal.de/service/nachrichten/archiv/einzelansicht/article/die-kulturelle-dienstleistung-bibliothek-darf-nicht-in-den-haushaltloechern-verschwinden-monika.html}{http://www.bibliotheksportal.de/service/nachrichten/archiv/einzelansicht/article/die-kulturelle-dienstleistung-bibliothek-darf-nicht-in-den-haushaltloechern-verschwinden-monika.html},
 vom 19.02.2014
 
 Dobberke, Cay/Schönball, Ralf: Bibliotheken in Berlin**Die Hälfte der
@@ -665,13 +674,17 @@ In: MRM ---MenschenRechtsMagazin Heft 2/2008, S. 139 -- 141. Online
 zugänglich unter:~ \url{http://opus.kobv.de/ubp/volltexte/2009/3601/},
 vom 19.02.2014
 
+\newpage
+
 Gemeingut in BürgerInnenhand e.V.: Grundsätze. Online zugänglich
-unter:~\url{http://www.gemeingut.org/uber-uns/grundsatze}, vom
+unter: \\
+\href{http://www.gemeingut.org/uber-uns/grundsatze}{http://www.gemeingut.org/uber-uns/grundsatze}, vom
 19.02.2014
 
 Genossenschaftsverband Bayern (2013): Gasthäuser und Brauereien in der
 Rechtsform eG. Online zugänglich
-unter:~\url{https://www.gv-bayern.de/standard/artikel/gasthaeuser-und-brauereien-in-der-rechtsform-eg-149},
+unter: \\
+~\href{https://www.gv-bayern.de/standard/artikel/gasthaeuser-und-brauereien-in-der-rechtsform-eg-149}{https://www.gv-bayern.de/standard/artikel/gasthaeuser-und-brauereien-in-der-rechtsform-eg-149},
 vom 19.02.2014
 
 Geyer, Christian: Juli Zehs neuer Roman Geruchlos im Hygieneparadies.
@@ -680,8 +693,8 @@ In: FAZ vom 01.03.2009. Online zugänglich unter:~
 vom 19.02.2014
 
 Geilhufe, Martin (2012): Die Schornsteinbesetzer von Greenpeace. Online
-zugänglich unter:~
-\url{http://umweltunderinnerung.de/index.php/kapitelseiten/oekologische-zeiten/88-die-schornsteinbesetzer-von-greenpeace/66-die-schornsteinbesetzer-von-greenpeace},
+zugänglich unter:~ \\
+\href{http://umweltunderinnerung.de/index.php/kapitelseiten/oekologische-zeiten/88-die-schornsteinbesetzer-von-greenpeace/66-die-schornsteinbesetzer-von-greenpeace}{http://umweltunderinnerung.de/index.php/kapitelseiten/oekologische-zeiten/88-die-schornstein\-besetzer-von-greenpeace/66-die-schorn\-steinbesetzer-von-greenpeace},
 vom 19.02.2014~
 
 Giersberg, Dagmar (2010): Diskussion um ethische Grundsätze für
@@ -736,12 +749,13 @@ vom 19.02.2014
 Kaiser, Wolfgang (2013): Meine persönliche Rückschau auf den
 BID-Kongress 2013 (Teil 4). In: Bibliothekarisch.de vom 23.03.2013.
 Online verfügbar unter:~
-\url{http://bibliothekarisch.de/blog/2013/03/23/meine-persoenliche-rueckschau-auf-den-bid-kongress-2013-teil-4/},
+\url{http://bibliothekarisch.de/blog/2013/03/23/meine-persoenliche-rueckschau-auf-den-bid-kongress-2013-teil-4/}, \\
 vom 19.02.2014
 
 Kaiser, Wolfgang (2014): Warum bücherlose Bibliotheken kein alleiniges
 Glücksversprechen für die Zukunft sind. In: Bibliothekarisch.de vom
 26.01.2014. Online zugänglich unter:~
+\\
 \url{http://bibliothekarisch.de/blog/2014/01/26/warum-buecherlose-bibliotheken-kein-alleiniges-gluecksversprechen-fuer-die-zukunft-sind/},
 vom 19.02.2014
 
@@ -753,13 +767,15 @@ unter:\url{http://bibliothekarisch.de/blog/2012/06/10/was-heisst-soziale-nachhal
 
 Kaiser, Wolfgang (2013): Drohnenflug in der New York Public Library. In:
 Bibliothekarisch.de vom 10.11.2013. Online zugänglich
-unter:~\url{http://bibliothekarisch.de/blog/2013/11/10/drohnenflug-in-der-new-york-public-library/},
+unter:
+\\
+~\url{http://bibliothekarisch.de/blog/2013/11/10/drohnenflug-in-der-new-york-public-library/}, \\
 vom 19.02.2014
 
 Kaiser, Wolfgang (2013): Zum Internationalen Tag gegen Lärm:
 \enquote{How Quiet Should Libraries~Be?} In: Bibliothekarisch.de vom
-24.04.2013 Online zugänglich unter~
-\url{http://bibliothekarisch.de/blog/2013/04/24/zum-internationalen-tag\%0Dgegen-laerm-how-quiet-should-school-libraries-be/},
+24.04.2013 Online zugänglich unter~ \\
+\href{http://bibliothekarisch.de/blog/2013/04/24/zum-internationalen-tag\%0Dgegen-laerm-how-quiet-should-school-libraries-be/}{http://bibliothekarisch.de/blog/2013/04/24/zum-internationalen-tag\%0Dgegen-laerm-how-quiet-should-school-libraries-be/}, 
 vom 19.02.2014
 
 Khamis, Kammis: Parallelgesellschaft Theater \enquote{Von Weißen für
@@ -768,21 +784,21 @@ unter:~\url{http://www.br.de/radio/bayern2/sendungen/zuendfunk/kolumnen-sendunge
 vom 19.02.2014~
 
 Lossau, Norbert: Gesundheit ist nicht das höchste Gut. In: Welt am
-Sonntag vom 18.11.2011. Online zugänglich
+Sonntag vom 18.11.2011. Online zugänglich \\
 unter:~\url{http://www.welt.de/print/wams/vermischtes/article13773126/Gesundheit-ist-nicht-das-hoechste-Gut.html},
 vom 19.02.2014
 
 Marion: Wert Wissen In: Der Karfiol vom 6. Jan. 2013, 15:17 Uhr Online
-zugänglich unter:~ \url{http://derkarfiol.de/?p=226}, vom 19.02.2014~
+zugänglich unter:\\~ \url{http://derkarfiol.de/?p=226}, vom 19.02.2014~
 
 Neuhaus, Carla: Volkswirtschaft im Hörsaal Professoren wollen von der
 Krise nichts wissen. In: Tagesspiegel vom 5. Januar 2014. Online
-zugänglich
+zugänglich\\
 unter:~\url{http://www.tagesspiegel.de/wirtschaft/volkswirtschaft-im-hoersaal-professoren-wollen-von-der-krise-nichts-wissen/9288094.html},
 vom 19.02.2014
 
 Obermaier Frederick (dpa): Historische Bücher: Wertvolles Kulturgut im
-Altpapier? In: SZ vom 17.10.2010. Online zugänglich
+Altpapier? In: SZ vom 17.10.2010. \\ Online zugänglich
 unter:~\url{http://www.sueddeutsche.de/karriere/historische-buecher-wertvolles-kulturgut-im-altpapier-1.554124},
 vom 19.02.2014
 
@@ -802,13 +818,13 @@ O. Verf.: Postdemokratie. In: APuZ, 1-2/2011. Online zugänglich unter:~
 vom 19.02.2014
 
 O. Verf.: Hochschulen: CDU will deutsche Jugend auf Wanderschaft
-schicken. In: Die Welt vom 1. Februar 2014. Online zugänglich unter:~
+schicken. In: Die Welt vom 1. Februar 2014. \\ Online zugänglich unter:~
 \url{http://www.welt.de/politik/deutschland/article124441555/CDU-will-deutsche-Jugend-auf-Wanderschaft-schicken.html},
 vom 19.02.2014
 
 O. Verf.: Kluft zwischen Arm und Reich wächst -- Jeder Fünfte in der
-Region ist armutsgefährdet. Online zugänglich
-unter:\url{http://www.rbb-online.de/politik/beitrag/2013/12/Armut-Berlin-Brandenburg-Bericht.html},
+Region ist armutsgefährdet. \\ Online zugänglich
+unter: \\ \url{http://www.rbb-online.de/politik/beitrag/2013/12/Armut-Berlin-Brandenburg-Bericht.html},
 vom 19.02.2014
 
 O. Verf.: Sabbath Manifesto. Online zugänglich unter:~
@@ -820,13 +836,13 @@ unter:~\url{http://www.nnz-online.de/00\_nordthueringen/news/news_lang.php?ArtNr
 vom 19.02.2014
 
 Riebsamen, Hans: Kommentar: Bibliothekarisches Entwicklungsland. In: FAZ
-vom 12.10.2010. Online zugänglich
-unter:~\url{http://www.faz.net/aktuell/rhein-main/kommentar-bibliothekarischesentwicklungsland-11056832.html},
+vom 12.10.2010. \\ Online zugänglich
+unter: \\ ~\url{http://www.faz.net/aktuell/rhein-main/kommentar-bibliothekarischesentwicklungsland-11056832.html},
 vom 19.02.2014
 
 Rösch, Hermann 2014): Chancengleichheit -- ein Thema für Bibliotheken?
 Zur Rolle der Bibliothek in der Gesellschaft, In: BuB 66, (2014) 02, S.
-110 -- 113.
+110 -- 113. \\
 \url{http://www.b-u-b.de/chancengleichheit-zur-rolle-bibliothek-in-gesellschaft/},
 vom 19.02.2014
 
@@ -838,8 +854,8 @@ unter:~
 vom 19.02.2014
 
 Springer Gabler Verlag (Herausgeber), Gabler Wirtschaftslexikon,
-Stichwort: Postwachstumsökonomie, Online zugänglich
-unter:~\url{http://wirtschaftslexikon.gabler.de/Archiv/576005964/postwachstumsoekonomie-v2.html},
+Stichwort: Postwachstums\-ökonomie, Online zugänglich
+unter: \\ ~\url{http://wirtschaftslexikon.gabler.de/Archiv/576005964/postwachstumsoekonomie-v2.html},
 vom 19.02.2014
 
 Sattelberger, Thomas: Die Arbeitswelt von morgen. In: Personalmagazin
@@ -854,7 +870,7 @@ Rede vom 26. 02. 2012. Online zugänglich unter:~
 
 Schwarz, Konstantin: Stadtbibliothek Stuttgart: Videoüberwachung in der
 Toilette. Stuttgarter Nachrichten vom 23.01.2014. Online zugänglich
-unter:~\url{http://www.stuttgarter-nachrichten.de/inhalt.stadtbibliothek-stuttgart-videoueberwachung-in-toilette.12277b06-ea7d-4d22-a112-baa9712324fc.html},
+unter: \\ ~\url{http://www.stuttgarter-nachrichten.de/inhalt.stadtbibliothek-stuttgart-videoueberwachung-in-toilette.12277b06-ea7d-4d22-a112-baa9712324fc.html},
 vom 19.02.2014
 
 Stadt Kassel (2013): Stadtteilbibliotheken: Bürger stimmen am 30. Juni
@@ -862,13 +878,13 @@ ab. Online zugänglich
 unter:~\url{http://www.stadt-kassel.de/aktuelles/rathauswoche/infos/19108/"},
 vom 19.02.2014
 
-Stadler, Heike: Partizipation -- Bibliothek. Online verfügbar unter:~
+Stadler, Heike: Partizipation -- Bibliothek. \\ Online verfügbar unter:~
 \url{http://bibpartizipation.wordpress.com/}, vom 19.02.2014
 
 Walgenbach, Katharina (2012): Intersektionalität - eine Einführung. .
 Online verfügbar unter:~\url{http://portal-intersektionalitaet.de} , vom 19.02.2014
 
-Wilkens, Andreas (2014): Analog ist das neue Bio. Online zugänglich
+Wilkens, Andreas (2014): Analog ist das neue Bio. \\ Online zugänglich
 unter:~
 \url{http://www.huffingtonpost.de/andre-wilkens/analog-ist-das-neue-bio_b_4793133.html},
 vom 19.02.2014
@@ -881,7 +897,7 @@ vom 19.02.2014
 %autor
 \begin{center}\rule{3in}{0.4pt}\end{center}
 
-Wolfgang Kaiser. Diplom-Bibliothekar. Tätig als Pädagogischer
+\textbf{Wolfgang Kaiser}. Diplom-Bibliothekar. Tätig als Pädagogischer
 Mitarbeiter in der Außenstelle Ingolstadt des Deutschen
 Erwachsenen-Bildungswerks gemeinnützige GmbH. Zu seinen
 Forschungsschwerpunkten zählen Fragen der Erwachsenenbildung und
