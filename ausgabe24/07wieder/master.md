@@ -117,6 +117,7 @@ von männlichen Autoren. In der London Review of Books etwa macht der
 Anteil von Frauen sowohl bei den Rezensentinnen als auch bei den
 rezensierten Autorinnen deutlich weniger als 30 Prozent aus.[^11] Diese
 Ergebnisse lassen den Schluss zu, dass von Frauen geschriebene Literatur
+es bis heute schwerer hat, als literarisch wertvoll anerkannt zu werden.
 
 Rezensionen in den Rezensionszeitschriften haben zugleich einen großen
 Einfluss darauf, was von der literaturinteressierten Öffentlichkeit als
