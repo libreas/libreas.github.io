@@ -1,0 +1,677 @@
+*held as a keynote lecture at the Bobcatsss conference 2014 in Barcelona*
+
+I think we agree that this is quite a title, quite a promise I have to
+live up to. Well, the truth is I tricked you. Actually, there was a
+subtitle, but then I thought I would really like to have at least a few
+people in the audience, so I decided that if ever there was a time for
+being bold then this was it and I dropped it. Then of course – as you
+would – I had second thoughts and well: Here it is – the full title is
+actually: "How library and information science can save the world and
+why to care. … Or at least why we should let people know what we know
+about that unruly thing called information and how this might possibly
+contribute a little bit to help preventing things from getting even
+worse."
+
+This complicates things. You probably would not even have bothered
+getting up today for that much vagueness. It is – sort of – almost the
+same title, but it is full of maybes and academic blurriness – which is
+good and which is bad.
+
+### Making things complicated
+
+We -- I mean we library and information science people, scholars and
+practitioners alike - are excellent at making things complicated, at
+problematizing, at defining and redefining our subject - information -
+and thinking about our discipline. And obviously, it is complicated, and
+being able to see and to articulate complexities, ambivalences, and
+connections and doing so with respect for others and other disciplines,
+professions and knowledge traditions is a very valuable ability.
+
+Meta-epistemic ability, as it could be called for this purpose and as
+most of you have, can be used to describe the ability to reflect on
+differences between disciplines and on which expressions these
+differences can take. In fact, we are specifically trained in this. It
+is a required skill for working with information in libraries and in
+other similar institutions. Meta-epistemic ability is not least
+fundamental for working within different subjects and areas and most
+importantly for working with different users with divergent needs and
+requirements. After all, organising knowledge and retrieving information
+and communicating it to people, to users, are all subjects, that can be
+described as core aspects of the field. And they can only be done with a
+focus on exactly that – difference. To illustrate this: In order to
+classify in a systematic way you have to be able to see similarities and
+differences between individual documents and groups of them. So being
+skilled at seeing differences and making something with it is a
+pre-requisite for all you and all of us, for being successful in our
+field, professionally and in research. As the famous definition by the
+anthropologist, Gregory Bateson (1988), has it -– loosely paraphrased:
+Information itself is a difference, but more interestingly -I find -
+Information makes a difference.
+
+We are so good at making things complicated, at looking for differences
+and missing bits, that we sometimes forget how obviously relevant
+library and information science is for so many issues that concern
+society and the world and how – just by virtue of its name – obviously
+relevant it must seem to outsiders and how we should obviously claim a
+central position with at least some measure of arrogance.
+
+### A field at crossroads
+
+Before moving on, I need to apologise for navel gazing, for doing what I
+just criticised. After all, it is important to remind us and others that
+information, and with it its study and the study of its institutions, is
+always for something. It is societally relevant in a way that is easy to
+communicate, that we have experience in communicating, that many accept
+as societally relevant and not least that is needed. Not infrequently
+though this is motivated by the need to develop better information
+systems. Which is in itself neither wrong nor unnecessary, but it is
+important to keep in mind that information systems are always just means
+to an end, never an end in themselves.
+
+Still, as much as we may want otherwise, library and information science
+is more akin to field of research combined with a host of professional
+educations than to a discipline in a more traditional sense. This is not
+surprising considering that we have in most countries not been around as
+a research discipline for that long. That is not unique in any way, and
+we are in fact not so different from say media and communication
+studies, gender studies, science and technology studies, the educational
+sciences or even economics. All these are rallying around hard to define
+concepts, integrating different methods, perspectives, theories -
+sometimes more and sometimes less fruitful, sometimes more and sometimes
+less visible to the outside. It might be an advantage, it might be a
+disadvantage. It is any way not our privilege, we are far from being the
+only ones. In times of budget cuts - being interdisciplinary might put
+you in a disadvantaged position - as some have pointed out (e.g.
+Buckland, 2012) - since there is a conservativeness ruling the
+allocation of funds in academia that does not usually benefit the
+hard-to-defines, the interdisciplinary ones, the up-and-comings.
+
+On the other hand, disciplines are never fixed, they are born, they
+grow, they change, they are different things to different people, they
+are the results of university politics and of research policies,
+publishing traditions – and even library collections play a role here.
+While in itself extremely interesting to investigate, from our point of
+view, we need to be pragmatic. Library and information science exists,
+it exists as one, – as conferences such as this are testimony to and as
+educations such as yours are a part of – and that is a very good thing.
+It exists at cross-roads. Also this is a very good thing and quite
+special. The collected experience of being required to relate to other
+fields, to incorporate other research traditions, to adapt methods,
+theories and perspectives, to a degree even to question yourself, is
+huge and very valuable. The experience of being situated between
+research, professions, and policy makers, especially, cultural policy
+and information policy institutions is invaluable as is the
+professionals experience of liaising between the public, citizens and at
+times other users and political and societal requirements.
+
+There are downsides as well, I admit, but now I want to focus on the
+positives and filter the negatives through pink sunglasses. I am not
+doing this just for the purpose of creating a feel-good atmosphere, but
+rather to set the scene for what I have to say about environmental
+information, information for sustainable living, later on and about how
+much library and information science or information studies are needed
+in this area of research.
+
+And here it becomes interesting to ask ourselves: "What is information
+science, what is library and information science?" Or actually even more
+so: "What is it we are investigating? - And how?" Or as Michael Buckland
+(2012) formulated it most recently "What kind of science can information
+science be?" There are of course many answers to that and many good
+ones. I will try my best at giving one – with the help of Michael
+Buckland (1991; 2012) –, before moving on to talk about information in
+practice (cf. Cox, 2013), more specifically about everyday life
+information on environmental protection and how to live more sustainably
+- my own area of research in recent years.
+
+### Information is an unruly thing? Why unruly? And why a thing?
+
+If we return to the secret title that I initially withheld from you, I
+deliberately chose to describe information as an "unruly thing". Why is
+that? Well, firstly, as we all know, there is no agreed view on what
+information actually is and many scholars in LIS and other fields have
+tried to define it, carve out its different borders, find out what it
+not is and so forth (for a recent overview see e.g.: Hjorland, 2013).
+Some had the ambition to find the one answer, to develop a single theory
+and definition of information. Others – often coming from a more
+constructionist angle – are more careful and have tried to come to terms
+with how we can find a concept we can all rally around and use, but
+which is still flexible and adaptable enough to accommodate different
+interests and needs to suit a field like ours, multi-facetted both in
+research and in its professions. I find this second approach more
+fruitful and situate my own research there. In fact, having a
+shape-shifting concept that furthermore can fruitfull be investigated
+from a very wide array of different angles, perspectives and methods, at
+the centre of our field, makes the field not only exciting, it is also
+what makes it - I suggest - worthwhile and relevant to continue
+researching and working with it.
+
+
+One such an approach, and a particularly interesting and successful one
+– also a very pragmatic one – is Michael Buckland’s (1991; 2012)
+approach, where he tear apart three ways of understanding information:
+(1) information as knowledge, (2) information as a process (3)
+information as a thing.
+
+### What does that mean?
+
+*Information as knowledge* is probably the most common conception and
+perhaps the one that makes the most problems. What Buckland means here,
+and I can subscribe to that notion, is that information can be
+conceptualised as knowing, *as a result of being informed* rather than
+merely knowing of or knowing that. He suggests a constructed notion of
+information as knowledge, far removed from the ideals of analytical
+philosophy framing information/knowledge as justified true belief, which
+puts all focus on and claims to truth of a piece of knowledge. Buckland
+in fact takes issue with both parts of that understanding, with
+justified and with truth and lands in a what could be called – and this
+is my addition – a pragmatic material semiotic notion of information as
+knowing as constructed, as relational, as culturally specific, and with
+the distinction between belief and truth entirely blurred or
+meaningless. Most importantly, this is a notion that means we are
+dealing with questions of trust rather than truth; an imperfect notion
+in every sense, so to speak, but one that works.
+
+Let's move on to the notion of *information as a process*. This is about
+getting informed, about learning, about making sense. Here, in order to
+sit well with this just described notion of knowledge as imperfect, as
+cultural and social, it is of importance to ground our understanding of
+learning in theories of education, of communication, that account for
+the social and incremental character of learning.
+
+Finally, *information as a thing*, the third of Buckland's notions of
+information. Here he draws mainly on document theory to conceptualise
+the materiality of information. That is the way in which information is
+always also *in* and *through* something and this something, be it a
+book, a poster, a website, a building or Suzanne Briet's (2006 [1951])
+famous antilope, co-determines or is part of information. The material
+condition affords a certain information and if we acknowledge the social
+structuring of our material world, then again the social, the cultural,
+is also in this notion of information re-inscribed back into information
+itself. Let's make this the focus of the next part of my presentation.
+
+But before that, I want to give you an example that ties back to
+sustainability: Information as knowledge. We have knowledge of
+scientific research that ties the use of fossil fuels, oil and gas, to
+increased CO2 levels in the atmosphere and hence to climate change. We
+have no way of knowing if this true or not, the only thing we can go by
+is trust in science and trust in institutions that validate science and
+make policy. We might have some anecdotal evidence on storms, on changes
+in how much it rains, whatever, but we have to trust institutions that
+this should be linked to human induced climate change. Information as a
+process then? How did we get to know? We have been informed in some way
+or another, through formal education, through the news, through
+information campaigns by environmental organisations, you name it.
+Mostly this happened in informal ways, surrounding us. Materiality then?
+This shifts of course, but if we take a device-centred approach, one
+that accounts for how things, devices are what they are in a context,
+and carry meaning – they are documents, so to speak – then for instance
+by now airplanes, cars or even carbon calculators have become part of
+climate change in a way that makes them documents that tell us something
+about it. We will see other examples later on, where the issue is a bit
+more humble – *just* environmental protection or sustainable living.
+
+### Materiality of informing
+
+We spend quite some time trying to tease apart different notions of
+information. And now I will throw them all together again. I am not
+doing this to make a mess and certainly not to demonstrate that we do
+not need or that we do not need to reflect on these different
+understandings, but rather to complicate things by drawing a thread
+through these notions in a way that is productive for what I have to say
+about everyday life environmental information.
+
+Information is not something that simply *is* – it is something that
+*happens* in things, in processes, in cultures. And if we complicate
+Buckland’s beautiful division of labour even further, then we can add:
+it is something that happens in material forms of some sort or another,
+in doings, in practices, in documents. To put it differently:
+Information happens in practices when people meet documents (cf. Haider
+2012). Information is furthermore about creating meaning and through
+this it is about relations, between documents, things, people, and
+doings.
+
+This focus is unique for our discipline – focus on information in its
+material form – in encyclopaedias, in databases, in libraries, in
+museums, in antilopes and even in compost heaps as I have argued in my
+own research, and in the social practices connected to these things. 
+This is in contrast to how information is seen in many other areas, such
+as for instance cognitive sciences or even epistemology where
+information is dematerialized and of itself and on its own. This is a
+notion which suits the purposes of epistemology and cognitive sciences
+very well, but which might only be of limited use for library and
+information science or information studies and for what we actually do,
+in professional practices and also in what we research.
+
+### Environmental information
+
+In my recent research on environmental information and sustainable
+living I have tried to draw together theories of practices and theories
+for understanding individualized forms of civic engagement. Both are
+situated within what Library and Information Science scholar Bernd
+Frohmann (2004) describes as a discourse of practices, where knowledge
+is seen as manufactured and assembled of diverse practices; material,
+social, cultural, or discursive. He puts this in contrast to
+epistemological discourse, where knowledge is discovered, immaterial and
+talked about in terms of truth, meaning or representation. Also this
+notion cuts across Buckland's different understandings of information,
+yet without contradicting it.
+
+Throughout this talk, I have mentioned the term *practice* a few times,
+without further ado, but now since I already introduced Frohmann's
+discourse of practices, I want to throw a definition at you. In the
+words of Andreas Reckwitz (2002, p.250) we can phrase it like that: "A
+practice is […] a routinized way in which bodies are moved, objects are
+handled, subjects are treated, things are described and the world is
+understood." I leave it at that – for now, but I will return to this
+notion of practice as something different than behaviours, actions,
+doings, namely as a routinized and culturally specific way of connecting
+activities, things, people and meaning – in a little while.
+
+When researching environmental information I have put much effort into
+highlighting the materiality of information, the materiality of
+informing together with the social character of the material. This is
+very tangible when looking at how environmental information is made
+sense of. How does it arrive where it is supposed to arrive? There seems
+to exist a quiet agreement that information is important for how we
+behave, what we do, what we consume, how we live, but also for how
+policies are made, how institutions and how companies make decision. And
+this agreement also applies to the environment and to environmentally
+friendly living.
+
+Before I continue I need to make a disclaimer: It is obvious, politics
+matter here. Clearly, I am not suggesting that we need to shift all
+responsibility on the individual and make environmental protection a
+question of private engagement alone to solve the large challenges we
+are facing in the area. Political commitments, policies, and
+institutional change are required and arguably larger socio-economical
+shifts. However, this does not mean that what people actually do and how
+they reason about their doings is less relevant, less interesting and
+hence certainly not less worthy of research.
+
+Obviously, you would say, if you know what a certain behaviour leads to
+then you will act accordingly. But this is seldom the case. Just think
+about any health issue of your choice – eating junk food, excessive
+drinking, smoking, contraception, exercising – you name it. The relation
+between what we know and what we do is very far from straightforward. We
+have received the information that was targeted at us, we made sense of
+it, we learned and then we more often than not totally dismiss it – or
+do we? I leave that open for now – because it is more complicated than
+that and I am not a cynic. Yet still, these are all issues that relate
+to our own body, very concretely and after a while not very abstract at
+all. Information relating to how to lead more environmentally friendly
+lives is in an even worse position here – it is abstract, the negative
+consequences are not felt by us – yet, directly, on our bodies. They
+relate to changes that are then expressed in numbers, in degrees
+Celsius, in extinct animals, in levels of carbon dioxide, or they are
+emotionally and geographically distanced from us – that is they happen
+to *other* people in remote places, not felt in weight gain, in loss of
+shape, in a headache for instance.
+
+I want to illustrate this with some examples from interviews taken from
+my own research on how people make sense of information on how to live
+more environmentally friendly, more sustainably in their everyday lives.
+We can see that this task of sense-making is not an easy one, when it
+has to be connected to some abstract threat, a distant future or an
+abundance of guidelines.
+
+> Person 1: [...] this is technically quite difficult; you should tell us
+about what the EU should do with its climate deal and that you should
+reduce 20% of this and that. This is quite removed from concrete
+demands.
+
+> Person 2: What happens often is that when something particular happened
+... I mean hurricanes or natural disasters ... then it comes to the
+fore, but in my day-to-day life it's not like I go around and am
+concerned. And it's also not so that I, for instance, refrain from
+flying just because of environmental reasons or so, but it is, well,
+what shall I say...
+
+> Person 3: I was in Stockholm to visit my brother and we sat at NK [an
+inner-city shopping mall] and I saw a small leaflet and there they
+showed the different labels' /*inaudible*/ and there was an A4 page with
+20 to 30 labels and I just shook my head. That is too much, too much
+information and in a way they are fighting against each other and I
+think that's a shame [...]. In a way, each organisation wants to promote
+itself and in a way this is done at the expense of others. 
+
+> Person 4: We have an understanding for environmental problems,
+sympathise with the idea, but it's not really present. [...] And a
+little bit of [recycling], we do that even out here. We have a compost
+heap and I find that natural in a way, nature's way of taking care of
+waste. But really, I don't have any knowledge on environmental
+questions.
+
+You can see, these are four different people expressing more or less the
+same feeling of abstraction and alienation, of irrelevance to their
+lives in different ways. All four, also in different ways, show they do
+in fact know a lot about the environment, about what they have been told
+is the so-called correct way of doing things, they exemplify: flying,
+consumption, recycling, connect to politics and policy making (the EU),
+to consequences, natural disasters that is, to different interests and
+that includes commercial ones. They reflect on their difficulties, their
+indifference, their coping strategies you name it. They show knowledge,
+awareness, and they reflect on the difficulty of, well, practising
+information. The divide between abstract information and practice is not
+due to a lack of knowledge. It is not even due to a lack of awareness of
+a possible link between individual practices and potential global
+consequences. The missing link seems to lie with its actualisation in
+everyday life practices. And this in turn implies that the question what
+work information campaigns can *do*, has to be asked afresh.
+
+And now let's look at some more quotes, from the same interview study,
+the quotes are partly from the same people. Here things get a lot more
+concrete, a lot more anchored in everyday life and suddenly the
+perspective changes and material things and what you do with them
+concretely comes into focus.
+
+> Person 5: We are quite economical with water, really. We don't do
+anything huge. [...] You do it's like that because that's a way of
+conducting oneself that you have here and... We have a small hot water
+boiler, so you can't really shower for that long.
+
+> Person 2: It's a bit like that, it's summer and you want to have a good
+life. And then you drive to [...] and buy fresh rolls. But it can be
+like that there are 50 cars driving from the summer village to [...] to
+– I don't know – to buy bread rolls.
+
+> Person 4: It's just easier because it is a residential area [...] quite
+defined in a housing body. There are many flats and no distances [...].
+So it's easier to organise this. I don't have to go very far for putting
+my waste into the right bin.
+
+> Person 6: It's nothing you reflect on that you should not... that now we
+will ride the bike to the beach and leave the car. It's not like that. I
+don't think like that, but I think now we will take us to the beach or
+to a wood somewhere. For this, we take the bikes.
+
+What is interesting here, leaving aside the variety of activities people
+mention as relevant for the environment, what I want you to focus on, is
+the way in which these are connected – sometimes quite explicitly and
+reflectively – to routines, to contextual circumstances, to the
+expected, the norm – you name it, but to something beyond a conscience
+doing, even when the practice is then connected to the environment in an
+after-construction as this interview situation.
+
+Now I used the term *practice* again. What is that? Let's quickly
+revisit Andreas Reckwitz’s (2002) definition that we introduced earlier
+and which says "A practice is […] a routinised way in which bodies are
+moved, objects are handled, subjects are treated, things are described
+and the world is understood." These are ways in which we do things with
+things, ways which are shared between people and which are culturally
+specific. They have to be quite clearly circumscribed and be repeatable
+and routinised. Basically, if something is done just once it cannot be a
+practice in this theoretical understanding. A practice is social, it is
+code, it is *the culturally agreed* way in which something is done. It
+is the *normal* way. If something is done differently it sticks out. For
+instance, since this conference takes place in Spain and has many
+international visitors, a good example can be taken from travelling: It
+is the normal way to fly from Sweden to Spain, anything else you have to
+explain. Another example: As a researcher it is normal practice to
+participate in academic conferences. This involves giving a talk,
+presenting a poster or participating in a panel or meeting. Just
+attending a conference as a researcher without presenting or
+participating in something or other is considered outside the norm and
+people will ask about it. Also, you will find it hard to get university
+funding. So in this case, a paper that you have submitted is not only a
+paper where you communicate the content of the research, it is also part
+of a set of practices and the entrance key to the regular door of a
+conference.
+
+### Doing change
+
+Practices can be recognised as practices because they are stable – at
+least sort of – and here we have the problem. We can talk about them
+because they are constant, they are the norm, they are what we do not
+think about when we do it. Yet information, the unruly thing that
+happens when people meet documents, is about difference, about change.
+This puts us in a difficult place; but only at first sight.
+
+Obviously practices do change, they have always done that. As not least
+Elisabeth Shove, who has researched environmentally relevant practices
+at length, has shown normality and especially normal ways of doing
+everyday life things with very common objects for quite mundane
+purposes, are not at all stable, they are in constant flux (e.g. Shove
+and Spurling (eds.) 2013; Shove 2004). Just think about, for instance,
+showering, cooking, doing the laundry – all of these are quite
+significant for the environment. These are seemingly simple practices
+which have very stable cultural meanings and positions in our lives in a
+way, but if we look closely how we do these things today, we can see it
+is quite different from how our parents did them just 30 years ago and
+really not to be compared with how it was done, say, 80 years ago.
+Showering daily was just absurd then, and being able to use deep-frozen
+vegetables and South-American meat on a daily basis for your casserole
+was hard to imagine, not to talk of washing your clothes after having
+worn them just once, which we do quite often nowadays. We are still
+doing the laundry, but how often we do it, how effectively we do it, 
+when we think it is necessary to do it, and with this how much energy it
+takes and how much detergent we use, has changed dramatically. We are
+still cooking family meals, but how we we do it, what we use for doing
+it, how long it takes and not least how much energy it consumes, cannot
+be compared to how it used to be. What all these examples show, as
+Elizabeth Shove and her colleagues have investigated so beautifully, is
+that "materials are integral to doing" (Shove et al., 2007, p.67). The
+microwave, the washing machine, the tumble dryer, the freezer, the power
+shower, cheap electricity and so forth, all these shape the practices we
+live by and what we consider normal in our culture and together they
+change, and "materials and practices co-evolve" (ibid. p.66).
+
+And this is, I think, what we see in how my interview partners reflect
+on their lives and its environmental impact:
+
+> Person 5: We are quite economical with water, really. We don't do
+anything huge. [...] You do it like that because that's a way of
+conducting oneself that you have here and... **We have a small hot water
+boiler, so you can't really shower for that long**. 
+
+> Person 4: **It's just easier because it is a residential area** [...]
+quite defined in a housing body. There are many flats and no distances
+[...]. So it's easier to organise this. **I don't have to go very far for putting my waste into the right bin.**
+
+
+> Person 6: It's nothing you reflect on that you should not... that now we
+will ride the bike to the beach and leave the car. It's not like that. I
+don't think like that, but I think now we will take us to the **beach**
+or to a **wood** somewhere. For this, we take the **bikes**.
+
+It is circumstantial, it is context, it is also materials that define
+whether you take longer or shorter showers, whether you recycle, whether
+you drive a car or bike. It is not – in these cases at least – a
+conscious decision. When it is too conscious it is not a practice, even
+– at least not yet – and then it’s not very likely to be sustained.
+Sustainability requires routine and routine is what is normal. This
+illustrates also quite clearly that what is at issue is not simply
+connecting a private practice to a global issue, or the other way
+around. This is something, which seems easily done, even if often
+connected with an overwhelming sense of powerlessness or guilt. The
+issue might be constructing this initially merely private practice as
+constructive and as directly meaningful for a person in a certain
+context; to transform a feeling of guilt and alienation into positive
+and enacted commitment. And this is, I suggest, where information and
+its transformative capacity might come in, but we have to understand
+that information comes through social practices and lands in devices, in
+things that are meaningful in specific cultures.
+
+How can we, scholars, professionals, students, then inform about these
+issues in a way that also leads to some change in a direction that
+minimises damages. I do not have the answer, just some of the questions,
+but collectively as a field of research and as a field of practices we
+have something important to contribute. Other disciplines talk about and
+research information on the environment and related – my interest – to
+practices of everyday life (e.g. Bartiaux, 2008; Ek & Söderholm, 2010;
+Vittersø, 2002). But information studies or library and information
+science is largely missing. This is not just a shame for us, because we
+miss out funding opportunities and options to make our competence
+visible, this is first and foremost a shame for the interdisciplinary
+and highly relevant field of environmental studies. We know a lot about
+information as knowledge, as a process and as a thing and so many times
+researchers from the field and practitioners have put the finger on the
+deeply embedded character of information, on the need to ground it in
+practices, behaviours, whatever you call it, in what people actually do
+and in ways in which these doings are culturally shaped – on it being
+always in the making and never being just a simple equation, on the
+unruliness of information.
+
+There are clearly different kinds of what can be described as
+environmental information. The kind I have investigated and which I also
+refer to here is that which so-called 'ordinary' people and policy
+makers connect to everyday life, to leading more environmentally
+friendly lives. I deliberately say that which people connect to leading
+environmentally friendly lives, rather than which is explicitly *about*
+how to lead such lives. Since, while targeted campaigns might have this
+'*aboutness'*, it is not always those that arrive in people's practices
+or even in their awareness. In fact, the disconnect between what people
+know about the environment, or what they say they know and also reflect
+on, the connection between certain practices and objects and
+environmental destruction and protection and what they actually do – is
+striking (e.g. Haider, 2011).
+
+And I am not saying this to a make a moralistic point – my own knowledge
+is strikingly far removed from my own doings – I am saying this to make
+a claim for the need of information studies or library and information
+science perspectives in the area of environmental studies. The
+connection between knowing and doing is highly problematic. And
+information is a link between them – yet if we investigate information
+purely as epistemic content, as facts and figures, as how to-s, as that
+which fills a gap and impacts behaviours, then the only thing we are
+likely to find is that it does not do anything that it does not make a
+difference after all and that people simply do not care about much
+beyond their own direct needs. But this simply means not looking hard
+enough. This does not account for the way, in which it has also been
+shown that people learn, that they make sense, that they can explain and
+make connections, yet it does not trickle down into behaviours –
+directly. It does, but slowly and in different places than we might
+expect.
+
+It is a connection that, I suggest, fruitfully can be visualised as
+*information* in the sense as developed earlier; as that meeting between
+people and documents in social practice which potentially makes a
+difference. Yet, this information is notoriously hard to study and
+notoriously hard to capture. It is an unruly thing, but one which we
+know a lot about.
+
+For instance we know, from research in other empirical fields – from
+contraception (e.g. Rivano Eckerdal, 2012) to learning (e.g. Sundin &
+Francke, 2009), work practices (e.g. Lloyd, 2009), photography (e.g.
+Cox, 2013) and health (e.g. McKenzie, 2010) – that information practices
+build on intricate relationships between objects and ways of speaking.
+We know that information activities can be anything and anywhere. They
+can be very targeted, but often they are not. They happen rarely in
+isolation, they are fun and they are necessities, they just happen to
+people and they are initiated by them. They are everywhere, they are
+about facts and they are about feelings, they are part of work, of
+schools, of being a citizen, a consumer, a family member. They are one
+big mess. Most importantly, they are intrinsic parts of other
+activities, they are embedded in larger social practices and shaped by
+these. In turn of course, information also shapes practices and this is
+what is hoped for when attempting to change behaviours with information.
+And this is what requires a deep understanding of how information might
+do this.
+
+Scholars from our discipline and from related fields have shown the many
+subtle ways in which this is the case. What people know, what they have
+learned through their various conscious and unconscious information
+activities is rarely directly connected to what they do. There are
+connections, but finding those, studying those, shaping those, and
+simply taking those seriously and not doing away with it as hypocracy or
+lack of self-control, is not an easy task. But it is what *we* do and
+nobody else does it as well as we.
+
+### Concluding remarks
+
+I want to make a call for a research agenda and for a practice agenda
+using a library and information science torch to look at environmental
+issues; for instance how information on how to do environmentally
+friendly living is shaped, consumed, made sense of, how information
+shapes policy, how our own institutions embed environmental values, how
+information campaigns are made, how young people develop values
+connected to information on environmental issues and so forth.
+
+Environmental problems and climate change are amongst the greatest
+challenges our society faces. Information is not the key to solving
+those, far from it, but it is important. Yet, we  know so much about
+information and its unruliness do not contribute in any significant way.
+Why? How can it be that Library and Information Science, which so often
+is motived by its social relevance, is almost entirely missing from
+environmental research – a field that in itself is a multidisciplinary
+research area with contributions from many disciplines? I do not know
+the answer to this rhetoric question. Yet it is important to remember
+that while the improvement of information systems in all their shapes is
+certainly a worthwhile endeavour, what these systems actually are
+*for* has to be our starting point. We need to contribute to the
+development of social and cultural understanding of information and
+information systems.
+
+Now I have almost reached the end of my presentation, just one more
+thing which I have promised in my rather bold title: How Library and
+Information Science can save the world and why to care? Well, actually
+here I fooled you again. I do not have the answer. However, I can say
+that much: You are in a unique position. You have the skills, the
+knowledge, you represent a relevant discipline that can make a much
+needed contribution, that has a tradition of social relevance and a
+tradition of connecting different areas of research, fields of
+application, different institutions and the academy and policy making.
+It would be a shame not to use this position. Library and Information
+Science can actually make a difference.
+
+### References: 
+
+Bartiaux, F. (2008), Does environmental information overcome practice
+compartmentalisation and change consumers' behaviours? *Journal of Cleaner Production*, 16 (11), 1170-1180.
+
+Bateson, G. (1988). *Mind and nature: A necessary unity*. Toronto; New
+York : Bantam Books.
+
+Buckland, M. K. (1991). Information as thing. *Journal of the American Society for Information Science and Technology*, 42(5), 351-360.
+
+Buckland, M. (2012). What kind of science can information science be?.
+*Journal of the American Society for Information Science and Technology*,
+63(1), 1-7.
+
+Briet. S. (2006 [1951]). What is documentation? In: *What is documentation? English translation of the classic French text. (Translated and edited by Ronald E. Day and Laurent Martinet with hermina G.B. Anghelescu.*Lanham; Toronto; Oxford: Scarecrow Press,
+9-46. 
+
+Cox, A. (2013). Information in social practice: A practice approach to
+understanding information activities in personal photography. *Journal of Information Science*, 39(1),61-72.
+
+Ek, K., & Söderholm, P. (2010). The devil is in the details: Household
+electricity saving behavior and the role of information. *Energy Policy*,
+38(3), 1578-1587.
+
+Frohmann, B. (2004). *Deflating information. From Science Studies to Documentation*. Toronto: University of Toronto Press.
+
+Haider, J. (2011). The environment on holidays or how a recycling bin
+informs us on the environment. *Journal of Documentation*, 67(5),
+823-839.
+
+Haider, J. (2012). Interrupting practices that want to matter: The
+making, shaping and reproduction of environmental information online.
+*Journal of Documentation*, 68(5), 639-658.
+
+Hjørland, B. (2013). Information science and its core concepts: Levels
+of disagreement. In *Theories of Information, Communication and Knowledge*. Netherlands: Springer, 205-235.
+
+Lloyd, A. (2009). Informing practice: information experiences of
+ambulance officers in training and on-road practice. *Journal of Documentation*, 65(3), 396-419.
+
+McKenzie, Pamela (2010). Informing relationships: small talk, informing,
+and relationship building in midwife-woman interaction. *Information Research*, 15(1).
+
+Reckwitz, A. (2002). Toward a theory of social practices. A development
+in culturalist theorizing, *European Journal of Social Theory*,5(2), 243-263.
+
+Rivano Eckerdal, J. R. (2012). Information sources at play: The
+apparatus of knowledge production in contraceptive counselling. *Journal of Documentation*, 68(3), 278-298.
+
+Shove, E. (2003). *Comfort, cleanliness and convenience. The social organization of normality*. Oxford: Berg.
+
+Shove, E., & Spurling, N. (Eds.) (2013). *Sustainable practices: Social theory and climate change.*London and New York: Routledge.
+
+Shove, E., Watson, M., Hand, M., & Ingram, J. (2007). *The design of everyday life (Cultures of consumption)*. Oxford: Berg.
+
+Sundin, O., & Francke, H. (2009). In search of credibility: pupils'
+information practices in learning environments. *Information Research*,
+14(4). paper 418. Available at:
+[http://InformationR.net/ir/14-4/paper418.html](http://InformationR.net/ir/14-4/paper418.html).
+
+Vittersø, G. (2002). *Environmental Information and Consumption Practices. A Case Study of Households in Fredrikstad*. Oslo: Sifo.
+Available at: [http://www.sifo.no/files/file48548\_fagrapport2003-4.pdf](http://www.sifo.no/files/file48548\_fagrapport2003-4.pdf).
