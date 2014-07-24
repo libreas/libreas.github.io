@@ -803,6 +803,7 @@ und Malkurse und eine Werkstatt für junge Nachwuchsautorinnen und
 
 ![](img/bild19.jpg)
 
+
 ![](img/bild19a.jpg)
 
 Die IJB dient auch als Literaturhaus für Kinder und Jugendliche, sowie
