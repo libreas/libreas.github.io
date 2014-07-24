@@ -35,6 +35,8 @@ final
 \usepackage{mathpazo}
 \usepackage[flushmargin,ragged]{footmisc} % left align footnote
 
+\usepackage{listings}
+
 \urlstyle{same}  % don't use monospace font for urls
 
 \usepackage[fleqn]{amsmath}
@@ -81,55 +83,6 @@ breaklinks= true]{hyperref}
 \thispagestyle{fancyplain} 
 
 %abstracts
-\begin{center}
-\sffamily{\textbf{ABSTRACT}}
-\end{center}
-
-\begin{abstract}
-\small
-Nach zehn Exiljahren in London kam die jüdische Journalistin Jella
-Lepman 1946 im Auftrag der amerikanischen Regierung zurück nach
-Deutschland, als \enquote{Beraterin für die kulturellen und erzieherischen
-Belange der Frauen und Kinder}. Um der geistigen Verarmung der deutschen
-Nachkriegskinder entgegenzuwirken, organisierte sie eine große
-Internationale Jugendbuchausstellung, die im ganzen Land gezeigt wurde
-und später den Grundbestand der Internationalen Jugendbibliothek in
-München bildete. Aus Amerika führte Jella Lepman ein fortschrittliches
-Konzept für die Gestaltung und Leitung einer Jugendbibliothek ein, das
-zunächst auf viel Widerstand von Seiten der ausgebildeten deutschen
-Bibliothekare stieß. Die von ihr gegründete Bibliothek ist heute
-weltweit die bedeutendste Institution dieser Art. Der Beitrag
-porträtiert diese außergewöhnliche Frau, die keine ausgebildete
-Bibliothekarin war und doch das Bibliothekswesen im Jugendbereich in
-Deutschland revolutionierte, den deutschen Kinder- und Jugendbuchmarkt
-zu einem der internationalsten überhaupt gemacht hat und ihr ganzes
-Leben der Verbreitung hochwertiger Kinder- und Jugendliteratur als
-Beitrag zur Völkerverständigung widmete.
-
-\end{abstract}
-
-\begin{abstract}
-\small
-
-After having spent ten years in exile in London, the Jewish journalist
-Jella Lepman came back to Germany in 1946 on behalf of the American
-government as \enquote{Special Adviser for Women’s and Youth affairs}. In order
-to countervail the lack of imagination of the children in post-war
-Germany, she organized a great exhibition of the best children’s books
-from various nations. The exhibition travelled through the whole country
-and afterwards constituted the core of the International Youth Library
-in Munich. From the USA Jella Lepman imported a progressive concept for
-the organization and administration of a youth library, which initially
-met the resistance of the professional German librarians. The library
-she founded is now the most important institution of this type in the
-world. This article portrays this extraordinary woman who wasn’t a
-skilled librarian and yet revolutionized the youth library system in
-Germany making the German market of juvenile literature one of the most
-international ones. In order to promote the understanding among nations,
-she dedicated herself to the cause of spreading high quality children’s
-books. \end{abstract}
-
-\begin{center}\rule{3in}{0.4pt}\end{center}
 
 %body
 Es gibt ein Buch, das vor fünfzig Jahren geschrieben wurde und jeden,
@@ -148,8 +101,7 @@ Wer war Jella Lepman?
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild1.jpg}
-\caption{Bild 1}
+\includegraphics{img/bild1.jpg}
 \end{figure}
 
 \section*{1. Vorgeschichte}\label{vorgeschichte}
@@ -218,8 +170,7 @@ war ihr dennoch nicht ganz klar.
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild2.jpg}
-\caption{Bild 2}
+\includegraphics{img/bild2.jpg}
 \end{figure}
 
 Im Hauptquartier in Bad Homburg nach einem abenteuerlichen Flug mit
@@ -243,8 +194,7 @@ den Geist} geben sollte (Lepman 1964, 48).~
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild3.jpg}
-\caption{Bild 3}
+\includegraphics{img/bild3.jpg}
 \end{figure}
 
 Zurück im Hauptquartier schlug Jella Lepman General McClure und seinem
@@ -321,14 +271,12 @@ Jugendbuchausstellung wurde eröffnet.
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild4a.jpg}
-\caption{Bild 4a}
+\includegraphics{img/bild4a.jpg}
 \end{figure}
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild4.jpg}
-\caption{Bild 4}
+\includegraphics{img/bild4.jpg}
 \end{figure}
 
 In einem begeisterten Artikel beschrieb Erich Kästner in der
@@ -370,8 +318,7 @@ das ganze Land.~
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild5.jpg}
-\caption{Bild 5}
+\includegraphics{img/bild5.jpg}
 \end{figure}
 
 Auf München folgte Stuttgart. Um die Schau hier zu beherbergen, wurden
@@ -490,8 +437,7 @@ Kaulbachstraße 11a.
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild6.jpg}
-\caption{Bild 6}
+\includegraphics{img/bild6.jpg}
 \end{figure}
 
 Es war eine zweigeschossige Villa im Neobarockstil hinter der
@@ -500,8 +446,7 @@ Garten.
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild7.jpg}
-\caption{Bild 7}
+\includegraphics{img/bild7.jpg}
 \end{figure}
 
 In der alten Gartenvilla, die inzwischen vom modernen Anbau der
@@ -511,8 +456,7 @@ Bibliothekare in Bayern zuständig ist.
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild8.jpg}
-\caption{Bild 8}
+\includegraphics{img/bild8.jpg}
 \end{figure}
 
 Am 14. September 1949 war es soweit und die IJB öffnete ihre Tore. Erich
@@ -531,8 +475,7 @@ Mitarbeiter sein.} (Ledig, 78).
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild8b.jpg}
-\caption{Bild 8b}
+\includegraphics{img/bild8b.jpg}
 \end{figure}
 
 \section*{3. Die IJB: eine Revolution im deutschen
@@ -555,8 +498,7 @@ Kinderrechte aussehen?
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild8c.jpg}
-\caption{Bild 8c}
+\includegraphics{img/bild8c.jpg}
 \end{figure}
 
 Der umkämpfte Glanzpunkt der Bibliothek war das Malatelier, das viele
@@ -567,8 +509,7 @@ Malstudio in einer Bibliothek aufbringen konnten oder wollten.
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild9.jpg}
-\caption{Bild 9}
+\includegraphics{img/bild9.jpg}
 \end{figure}
 
 Als eine Finanzierung verweigert wurde, musste man einen Beitrag von den
@@ -579,14 +520,12 @@ Jella Lepman wieder auferstehen.
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild10.jpg}
-\caption{Bild 10}
+\includegraphics{img/bild10.jpg}
 \end{figure}
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild11.jpg}
-\caption{Bild 11}
+\includegraphics{img/bild11.jpg}
 \end{figure}
 
 Jella Lepman war der enge Zusammenhang zwischen Bild und Buch von Anfang
@@ -771,8 +710,7 @@ in ein anderes Land geschickt.
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild12.jpg}
-\caption{Bild 12}
+\includegraphics{img/bild12.jpg}
 \end{figure}
 
 Jella Lepman ging es immer um die Verwirklichung ihrer großen Vision:
@@ -893,8 +831,7 @@ eingerichtet.
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild13.jpg}
-\caption{Bild 13}
+\includegraphics{img/bild13.jpg}
 \end{figure}
 
 Der neue Sitz der IJB wurde am 16. Juni 1983 eröffnet. Bald merkte man,
@@ -918,8 +855,7 @@ Buchliebhaber lockt.~
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild14.jpg}
-\caption{Bild 14}
+\includegraphics{img/bild14.jpg}
 \end{figure}
 
 Die Bibliothek hätte sich kein charmanteres Heim wünschen können. An
@@ -929,8 +865,7 @@ Ausleihbibliothek.
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild15.jpg}
-\caption{Bild 15}
+\includegraphics{img/bild15.jpg}
 \end{figure}
 
 Heutzutage gilt die IJB als die weltweit bedeutendste Bibliothek für
@@ -953,8 +888,7 @@ der UNESCO übergeben wurde.
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild16.jpg}
-\caption{Bild 16}
+\includegraphics{img/bild16.jpg}
 \end{figure}
 
 Später kamen andere private, kostbare Schenkungen hinzu. So zum Beispiel
@@ -1010,8 +944,7 @@ professionell mit Kinder- und Jugendliteratur beschäftigen.~
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild17.jpg}
-\caption{Bild 17}
+\includegraphics{img/bild17.jpg}
 \end{figure}
 
 Die Arbeit mit dem Kind, die Jella Lepman so sehr am Herzen lag, ist
@@ -1029,8 +962,7 @@ erwachsene Begleitung zurücklegen können, ein Hindernis.~
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild18.jpg}
-\caption{Bild 18}
+\includegraphics{img/bild18.jpg}
 \end{figure}
 
 Die Ausleihbibliothek ist mit knapp 30.000 aktuellen Kinder- und
@@ -1040,7 +972,15 @@ Vorschulkinder, Erzähl- und Aktionsnachmittage. Außerdem werden Sprach-
 und Malkurse und eine Werkstatt für junge Nachwuchsautorinnen und
 -autoren angeboten.
 
-\includegraphics{img/Bild19.jpg} \includegraphics{img/Bild19a.jpg}
+\begin{figure}[htbp]
+\centering
+\includegraphics{img/bild19.jpg}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics{img/bild19a.jpg}
+\end{figure}
 
 Die IJB dient auch als Literaturhaus für Kinder und Jugendliche, sowie
 für Lehrerinnen und Lehrer, Bibliothekarinnen und Bibliothekare,
@@ -1056,17 +996,16 @@ aus der ganzen Welt zu treffen.~
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild20.jpg}
-\caption{Bild 20}
+\includegraphics{img/bild20.jpg}
 \end{figure}
 
 Große Namen sind dabei (diesmal u. a. Herrmann Schulz und Axel Scheffler
 aus Deutschland, Christine Nöstlinger aus Österreich, Fabio Geda aus
 Italien, Jean-Claude Mourlevat aus Frankreich, Bart Moeyaert aus
 Flandern), aber auch Autoren aus Ländern außerhalb Europas (Tamta
-Melaschwili aus Georgien, Francisco Montaňa Ibaňez aus Kolumbien
-oder****Kagiso Lesego Molope aus Südafrika), welche die Veranstaltung zu
-einer der buntesten und aufregendsten im Bereich der Kinder- und
+Melaschwili aus Georgien, Francisco Montaňa Ibaňez aus Kolumbien oder
+Kagiso Lesego Molope aus Südafrika), welche die Veranstaltung zu einer
+der buntesten und aufregendsten im Bereich der Kinder- und
 Jugendliteratur überhaupt machen, eine, die im Sinne Jella Lepmans einen
 wahren Brückenschlag zwischen den Kulturen schafft. Sechs Tage lang
 werden in der IJB Lesungen, Workshops, Schreibwerkstätten und
@@ -1077,8 +1016,7 @@ Bibliotheken.
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild21.jpg}
-\caption{Bild 21}
+\includegraphics{img/bild21.jpg}
 \end{figure}
 
 \enquote{White Ravens} ist für die Bibliothek seit vielen Jahren ein
@@ -1117,8 +1055,7 @@ Autors in 60 Sprachen bestaunen.
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild22.jpg}
-\caption{Bild 22}
+\includegraphics{img/bild22.jpg}
 \end{figure}
 
 Im James-Krüss-Turm findet man zahlreiche internationale Erstausgaben
@@ -1129,14 +1066,12 @@ der Deutschen Forschungsgemeinschaft erschlossen.
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild23.jpg}
-\caption{Bild 23}
+\includegraphics{img/bild23.jpg}
 \end{figure}
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild24.jpg}
-\caption{Bild 24}
+\includegraphics{img/bild24.jpg}
 \end{figure}
 
 Im Dachgeschoss befindet sich ein literarisches Museum zu Leben und Werk
@@ -1148,8 +1083,7 @@ können dort besichtigt werden.~
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild25.jpg}
-\caption{Bild 25}
+\includegraphics{img/bild25.jpg}
 \end{figure}
 
 Zu erwähnen ist schließlich das Binette-Schroeder-Kabinett im
@@ -1162,14 +1096,12 @@ Bilderbüchern der Künstlerin.
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild26.jpg}
-\caption{Bild 26}
+\includegraphics{img/bild26.jpg}
 \end{figure}
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild27.jpg}
-\caption{Bild 27}
+\includegraphics{img/bild27.jpg}
 \end{figure}
 
 Neben diesen Dauerausstellungen bietet die IJB jedes Jahr wechselnde
@@ -1178,14 +1110,12 @@ dann zu ausleihbaren Wanderausstellungen.
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild28.jpg}
-\caption{Bild 28}
+\includegraphics{img/bild28.jpg}
 \end{figure}
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild29.jpg}
-\caption{Bild 29}
+\includegraphics{img/bild29.jpg}
 \end{figure}
 
 Natürlich zählt die Leseförderung weiterhin zu den Aufgaben der IJB.
@@ -1231,8 +1161,7 @@ aufrechterhalten und immer weiter verbreiten.
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{img/Bild30.jpg}
-\caption{Bild 30}
+\includegraphics{img/bild30.jpg}
 \end{figure}
 
 \section*{Literatur}\label{literatur}

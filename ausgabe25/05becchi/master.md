@@ -13,7 +13,7 @@ Buch fast in Vergessenheit geraten und ihr Name den Wenigsten geläufig.
 Wer war Jella Lepman?
 
 
-![Bild 1](img/Bild1.JPG)
+![](img/bild1.jpg)
 
 ### 1. Vorgeschichte
 
@@ -75,7 +75,7 @@ wieder zu betreten, und ließ sich lediglich dazu überreden, weil ihr die
 deutschen Kinder am Herzen lagen. Was genau ihre Aufgabe sein sollte,
 war ihr dennoch nicht ganz klar.
 
-![Bild 2](img/Bild2.JPG)
+![](img/bild2.jpg)
 
 Im Hauptquartier in Bad Homburg nach einem abenteuerlichen Flug mit
 einem Militärflugzeug angekommen, beantragte Jella Lepman eine
@@ -97,7 +97,7 @@ Kindern nicht nur Brot und Kleidung, sondern auch "Nahrung für den
 Geist" geben sollte (Lepman 1964, 48). 
 
 
-![Bild 3](img/Bild3.JPG)
+![](img/bild3.jpg)
 
 Zurück im Hauptquartier schlug Jella Lepman General McClure und seinem
 Stab als Hauptmaßnahme eine Wanderausstellung der besten Kinder- und
@@ -170,9 +170,9 @@ Am 3. Juli 1946 war es endlich soweit: die Internationale
 Jugendbuchausstellung wurde eröffnet.
 
 
-![Bild 4a](img/Bild4a.JPG)
+![](img/bild4a.jpg)
 
-![Bild 4](img/Bild4.JPG)
+![](img/bild4.jpg)
 
 
 In einem begeisterten Artikel beschrieb Erich Kästner in der "Neuen
@@ -209,7 +209,7 @@ Besuchern aller Altersstufen und Bevölkerungsschichten durch
 Kinderbücher die Welt zu erkunden. Später tourte die Ausstellung durch
 das ganze Land. 
 
-![Bild 5](img/Bild5.JPG)
+![](img/bild5.jpg)
 
 Auf München folgte Stuttgart. Um die Schau hier zu beherbergen, wurden
 zur Freude des Direktors Dr. Wilhelm Hoffmann die ersten Räume der
@@ -324,22 +324,21 @@ Trägerschaft der IJB inne hat.
 Endlich fand man einen möglichen Sitz der Bibliothek in der
 Kaulbachstraße 11a.
 
-![Bild 6](img/Bild6.JPG)
+![](img/bild6.jpg)
 
 
 Es war eine zweigeschossige Villa im Neobarockstil hinter der
 Bayerischen Staatsbibliothek, gesäumt von Ruinen, aber mit einem großen
 Garten.
 
-![Bild 7](img/Bild7.JPG)
+![](img/bild7.jpg)
 
 In der alten Gartenvilla, die inzwischen vom modernen Anbau der
 Staatsbibliothek eingezwängt ist, befindet sich heutzutage die
 Bibliotheksakademie Bayern, die für die Aus- und Fortbildung der
 Bibliothekare in Bayern zuständig ist.
 
-![Bild 8](img/Bild8.JPG)
-
+![](img/bild8.jpg)
 
 Am 14. September 1949 war es soweit und die IJB öffnete ihre Tore. Erich
 Kästner verkündete den Kindern aller Welt in einem Brief, der in seiner
@@ -355,7 +354,7 @@ Buchproduktion geben. Ganz neue Wege sollen dabei eingeschlagen werden,
 und die Kinder selbst werden unsere ersten und besten Mitarbeiter sein."
 (Ledig, 78).
 
-![Bild 8b](img/Bild8b.JPG)
+![](img/bild8b.jpg)
 
 ### 3. Die IJB: eine Revolution im deutschen Bibliothekswesen
 
@@ -373,7 +372,7 @@ referieren. Diskussionsthemen in dieser UN-Simulation waren: Was können
 wir gegen die Atombombe tun? Wie können wir die internationale
 Verständigung fördern? Wie sollte eine Charta der Kinderrechte aussehen?
 
-![Bild 8c](img/Bild8c.JPG)
+![](img/bild8c.jpg)
 
 
 
@@ -383,7 +382,7 @@ Kinderatelier war Bibliothekaren und bundesministeriellen
 Verwaltungsbeamten stets ein Dorn im Auge, die kein Verständnis für ein
 Malstudio in einer Bibliothek aufbringen konnten oder wollten.
 
-![Bild 9](img/Bild9.JPG)
+![](img/bild9.jpg)
 
 
 Als eine Finanzierung verweigert wurde, musste man einen Beitrag von den
@@ -392,9 +391,9 @@ aufrechterhalten. Später fand man aber in der Blutenburg, im jetzigen
 Sitz der IJB, wieder Raum für ein Malstudio und so konnte diese Idee von
 Jella Lepman wieder auferstehen.
 
-![Bild 10](img/Bild10.JPG)
+![](img/bild10.jpg)
 
-![Bild 11](img/Bild11.JPG)
+![](img/bild11.jpg)
 
 Jella Lepman war der enge Zusammenhang zwischen Bild und Buch von Anfang
 an sehr klar. Während ihrer Reise nach Amerika war sie mit der dort
@@ -423,8 +422,7 @@ Bilderbuch. Sie findet ja ‚den gutmütigen Löwen’ so gut. Ich finde ihn
 eine cabarettistische Angelegenheit und unwahr im Fond. Der Löwe bleibt
 ein Raubtier und es verfälscht im Kleinkind die Begriffe. Es ist eine
 Sache für Erwachsene" (Brief an Johanna Wolff vom 7. April 1956, IJB -
-Jella Lepman Archiv). Die Rede ist vom amerikanischen Bilderbuch *Der
-glückliche Löwe* von Louise Fatio und Roger Duvoisin, das gerade dieses
+Jella Lepman Archiv). Die Rede ist vom amerikanischen Bilderbuch *Der glückliche Löwe* von Louise Fatio und Roger Duvoisin, das gerade dieses
 Jahr sechzig geworden ist und nichts von seinem Charme verloren hat.
 Tatsächlich bekam es den ersten Deutschen Jugendliteraturpreis, der
 damals noch Deutscher Jugendbuchpreis hieß, und gilt inzwischen als
@@ -562,7 +560,7 @@ eines fehlenden zusätzlichen Bibliothekarspostens in einer Blechbaracke
 in den Winterschlaf zu gehen. Danach wurde das Bookmobil von der UNESCO
 in ein anderes Land geschickt.
 
-![Bild 12](img/Bild12.JPG)
+![](img/bild12.jpg)
 
 Jella Lepman ging es immer um die Verwirklichung ihrer großen Vision:
 Sie wollte die Kinder zu aufgeschlossenen Weltbürgern machen und durch
@@ -676,7 +674,7 @@ in eine 70 cm starke Betonwanne gelegt, um die Bücher vor Feuchtigkeit
 zu schützen, und dann mit einem platzsparenden Rollregalsystem
 eingerichtet.
 
-![Bild 13](img/Bild13.JPG)
+![](img/bild13.jpg)
 
 
 Der neue Sitz der IJB wurde am 16. Juni 1983 eröffnet. Bald merkte man,
@@ -698,7 +696,7 @@ und der spätmittelalterlichen Kapelle, die zu den Kunstjuwelen der Stadt
 zählt, ist die Burg ein beliebtes Ausflugsziel, das nicht nur
 Buchliebhaber lockt. 
 
-![Bild 14](img/Bild14.JPG)
+![](img/bild14.jpg)
 
 
 Die Bibliothek hätte sich kein charmanteres Heim wünschen können. An
@@ -706,7 +704,7 @@ ihre Gründerin Jella Lepman erinnert heute eine Bronzetafel im Hof,
 sowie der große nach ihr benannte Festsaal oberhalb der
 Ausleihbibliothek.
 
-![Bild 15](img/Bild15.JPG)
+![](img/bild15.jpg)
 
 Heutzutage gilt die IJB als die weltweit bedeutendste Bibliothek für
 Kinder- und Jugendliteratur mit über 600.000 Medien in mehr als 130
@@ -726,7 +724,7 @@ erzählende Literatur und Bilderbücher der 1910er bis 1960er Jahre, aber
 auch ältere Titel ab Erscheinungsjahr 1835) umfasst und der IJB 1969 von
 der UNESCO übergeben wurde.
 
-![Bild 16](img/Bild16.JPG)
+![](img/bild16.jpg)
 
 
 Später kamen andere private, kostbare Schenkungen hinzu. So zum Beispiel
@@ -779,7 +777,7 @@ betreut werden. Die IJB ist eine internationale Forschungsstätte
 geworden, die optimale Arbeitsbedingungen für all jene bietet, die sich
 professionell mit Kinder- und Jugendliteratur beschäftigen. 
 
-![Bild 17](img/Bild17.JPG)
+![](img/bild17.jpg)
 
 Die Arbeit mit dem Kind, die Jella Lepman so sehr am Herzen lag, ist
 heute sicher nicht mehr vergleichbar mit jener der Anfangszeit und
@@ -794,7 +792,7 @@ vom internationalen Angebot der Ausleihbibliothek Gebrauch machen
 würden, ist der weite Weg nach Obermenzing, den sie nicht ohne
 erwachsene Begleitung zurücklegen können, ein Hindernis. 
 
-![Bild 18](img/Bild18.JPG)
+![](img/bild18.jpg)
 
 Die Ausleihbibliothek ist mit knapp 30.000 aktuellen Kinder- und
 Jugendbüchern sowie DVDs und CDs in über 20 Sprachen nachmittags
@@ -803,8 +801,9 @@ Vorschulkinder, Erzähl- und Aktionsnachmittage. Außerdem werden Sprach-
 und Malkurse und eine Werkstatt für junge Nachwuchsautorinnen und
 -autoren angeboten.
 
-![Bild 19](img/Bild19.JPG)
-![Bild 19a](img/Bild19a.JPG)
+![](img/bild19.jpg)
+
+![](img/bild19a.jpg)
 
 Die IJB dient auch als Literaturhaus für Kinder und Jugendliche, sowie
 für Lehrerinnen und Lehrer, Bibliothekarinnen und Bibliothekare,
@@ -818,14 +817,14 @@ einzigartige Gelegenheit um eine Woche lang Kinder- und
 Jugendbuchautorinnen und –autoren, Illustratorinnen und Illustratoren
 aus der ganzen Welt zu treffen. 
 
-![Bild 20](img/Bild20.JPG)
+![](img/bild20.jpg)
 
 Große Namen sind dabei (diesmal u. a. Herrmann Schulz und Axel Scheffler
 aus Deutschland, Christine Nöstlinger aus Österreich, Fabio Geda aus
 Italien, Jean-Claude Mourlevat aus Frankreich, Bart Moeyaert aus
 Flandern), aber auch Autoren aus Ländern außerhalb Europas (Tamta
 Melaschwili aus Georgien, Francisco Montaňa Ibaňez aus Kolumbien
-oder****Kagiso Lesego Molope aus Südafrika), welche die Veranstaltung zu
+oder Kagiso Lesego Molope aus Südafrika), welche die Veranstaltung zu
 einer der buntesten und aufregendsten im Bereich der Kinder- und
 Jugendliteratur überhaupt machen, eine, die im Sinne Jella Lepmans einen
 wahren Brückenschlag zwischen den Kulturen schafft. Sechs Tage lang
@@ -835,7 +834,7 @@ Illustratorinnen und Illustratoren touren in diesen Tagen darüber hinaus
 auch bayernweit durch Jugend- und Kulturzentren, Schulen und
 Bibliotheken.
 
-![Bild 21](img/Bild21.JPG)
+![](img/bild21.jpg)
 
 "White Ravens" ist für die Bibliothek seit vielen Jahren ein Synonym für
 außergewöhnliche und innovative Kinder- und Jugendliteratur. So heißt
@@ -871,7 +870,7 @@ Kinderklassikern Deutschlands. Im Torturm können die Besucher das
 Erich-Kästner-Zimmer mit etwa 500 internationalen Erstausgaben des
 Autors in 60 Sprachen bestaunen.
 
-![Bild 22](img/Bild22.JPG)
+![](img/bild22.jpg)
 
 Im James-Krüss-Turm findet man zahlreiche internationale Erstausgaben
 der Kinderbücher des Helgoländer Autors sowie Sammelstücke aus seinem
@@ -879,9 +878,9 @@ Besitz. Seinen gesamten schriftstellerischen Nachlass hat die
 Erbengemeinschaft der IJB übergeben und er wird seit 2013 mit Mitteln
 der Deutschen Forschungsgemeinschaft erschlossen.
 
-![Bild 23](img/Bild23.JPG)
+![](img/bild23.jpg)
 
-![Bild 24](img/Bild24.JPG)
+![](img/bild24.jpg)
 
 Im Dachgeschoss befindet sich ein literarisches Museum zu Leben und Werk
 von Michael Ende, dessen Teilnachlass die Bibliothek besitzt. Nicht nur
@@ -890,7 +889,7 @@ Typoskripte, Zeichnungen, Briefe und Fotos, Illustrationen und eine
 Reihe persönlicher Gegenstände, Möbel, sowie seine Arbeitsbibliothek
 können dort besichtigt werden. 
 
-![Bild 25](img/Bild25.JPG)
+![](img/bild25.jpg)
 
 Zu erwähnen ist schließlich das Binette-Schroeder-Kabinett im
 Museumsdach. Dort sind in einem zauberhaften Ambiente, gestaltet vom
@@ -900,17 +899,17 @@ originelle Sammelstücke aufbewahrt. Glanzstück ist ein historisch
 anmutendes mechanisches Theater mit vertrauten Figuren aus den
 Bilderbüchern der Künstlerin.
 
-![Bild 26](img/Bild26.JPG)
+![](img/bild26.jpg)
 
-![Bild 27](img/Bild27.JPG)
+![](img/bild27.jpg)
 
 Neben diesen Dauerausstellungen bietet die IJB jedes Jahr wechselnde
 Ausstellungen zu verschiedenen Themen. Die erfolgreichsten davon werden
 dann zu ausleihbaren Wanderausstellungen.
 
-![Bild 28](img/Bild28.JPG)
+![](img/bild28.jpg)
 
-![Bild 29](img/Bild29.JPG)
+![](img/bild29.jpg)
 
 Natürlich zählt die Leseförderung weiterhin zu den Aufgaben der IJB.
 Dies wird einerseits mit gezielten Schulprogrammen und andererseits mit
@@ -949,7 +948,7 @@ zu Dank verpflichtet und deswegen sollte man die Lebensleistung von
 Jella Lepman einer breiten Öffentlichkeit bekannt machen, ihre Ideale
 aufrechterhalten und immer weiter verbreiten.
 
-![Bild 30](img/Bild30.JPG) 
+![](img/bild30.jpg) 
 
 ### Literatur
 

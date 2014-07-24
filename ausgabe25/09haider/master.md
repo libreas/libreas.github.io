@@ -613,7 +613,7 @@ application, different institutions and the academy and policy making.
 It would be a shame not to use this position. Library and Information
 Science can actually make a difference.
 
-### References: 
+### References
 
 Bartiaux, F. (2008), Does environmental information overcome practice
 compartmentalisation and change consumers' behaviours? *Journal of Cleaner Production*, 16 (11), 1170-1180.
