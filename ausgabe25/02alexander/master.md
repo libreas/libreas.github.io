@@ -156,27 +156,25 @@ Gelehrte" rechtfertigen würde, war es nicht die Absicht dieses Werkes,
 weshalb die o.g. Regel gilt. Diese Regelanwendung und -auslegung
 widerspricht aber:
 
-- a) dem Hauptzweck von Verschlagwortung, nämlich das im Werk Enthaltene
+(a) dem Hauptzweck von Verschlagwortung, nämlich das im Werk Enthaltene
     wiederauffindbar zu machen. "Die RSWK sind ein Regelwerk für die
     **intellektuelle** Beschlagwortung. **Ausschlaggebend ist der
     Inhalt** eines Werkes, nicht die Titelformulierung." Demnach müsste "Gelehrter" und "Weibliche Gelehrte" vergeben
     werden.[^11]
 
-- b) Diese Regel widerspricht dem Interesse von Suchenden, denn sie
+(b) Diese Regel widerspricht dem Interesse von Suchenden, denn sie
     möchten so schnell, so effektiv und so viel wie mögliche konkrete
     Ergebnisse zu ihren Anfragen finden. Die zwei Wissenschaftlerinnen
     des erwähnten Buches wären aber nicht auf ihrer Ergebnisliste der 12
     Titel.
 
--  c) Folglich widerspricht diese Regel auch jeglicher Ökonomie. Warum
+(c) Folglich widerspricht diese Regel auch jeglicher Ökonomie. Warum
     wird das Buch verschlagwortet, ohne seinen Nutzwert, d.h. den Inhalt
     des Buches, voll anzugeben? Zwei gelehrte Frauen werden nicht
     erwähnt! Alle, die zum Thema "Frauen an Universitäten" forschen,
     sind gezwungen, alle Titel unter "Gelehrter" durchzuforsten; in
     diesem Fall wären das laut DNB 3.608 Titel! In dieser Menge stecken
     garantiert mehr Werke zu weiblichen Gelehrten als die 12 Titel!
-
-\
 
 Diese Beispiele zeigen, dass geschlechtergerechte Formulierungen in den
 Normdateien eine besondere Herausforderung, weil bisher nicht
@@ -385,7 +383,8 @@ Oberbegriffen zugeordnet:
 +--------------------------------------+--------------------------------------+
 
 Warum fehlt bei "Misshandelte Frau" die Zuordnung zum Oberbegriff
-"Misshandlung"? Letzterer offeriert dann als hierarchisch untergeordnet
+"Misshandlung"? Letzterer offeriert dann als hierarchisch untergeordnet.
+
 Sachbegriffe:
 
 Misshandelter Mann / Häusliche Gewalt / Altenmisshandlung /
