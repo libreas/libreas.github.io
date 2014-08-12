@@ -8,7 +8,7 @@ footer: true
 ---
 
  LIBREAS. Library Ideas – AutorInnenhinweise (English version following soon)
-_(letzte Aktualisierung: Oktober 2013)_
+_(letzte Aktualisierung: 12. August 2014)_
 
 # Urheber- und Lizenzrechtliche Informationen zur Veröffentlichung in LIBREAS. Library Ideas | Copyright Information
 
@@ -19,6 +19,9 @@ Wird der Artikel andernorts veröffentlicht, sollte ein Hinweis auf das vorherig
 
 # Einreichung von Beiträgen
 Eine Einreichung von Beiträgen an die Redaktion kann jederzeit erfolgen. Die Veröffentlichung ist in der Regel für die jeweils nächste Ausgabe vorgesehen.
+
+Soweit nicht anders und ausdrücklich schriftlich vereinbart erfolgt die Rechteübertragung zur Publikation unter CC 3.0 BY bereits mit der Manuskripteinreichung. Sollte die Redaktion bei Beiträgen substantiellen Veränderungs- und / oder Anpassungsbedarf sehen, wird der Beitrag erst nach Überarbeitung bzw. Bestätigung der redaktionell bearbeiteten Fassung publiziert. (vergleiche Abschnitt Redaktionelle Bearbeitung)
+
 
 ## Inhalt
 LIBREAS versteht sich als Zeitschrift für Bibliotheks- und Informationswissenschaft, lässt die Ränder aber weitgehend offen. Das bedeutet, dass einerseits sowohl relevante Texte aus der Bibliotheks-und Informationspraxis Berücksichtigung finden können wie andererseits Themen aus anderen Wissenschaftsfeldern. Medientheoretische, juristische oder literaturwissenschaftliche Beiträge können berücksichtigt werden, wenn sie einen oder besser mehrere Bezüge zu den Komplexen Bibliothek, Informationsinfrastruktur, Daten, Medien, Information, Wissen, Gesellschaft aufweisen. 
