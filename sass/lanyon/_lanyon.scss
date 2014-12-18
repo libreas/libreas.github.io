@@ -149,7 +149,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+/*  font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
@@ -214,7 +214,7 @@ a.sidebar-nav-item:focus {
   display: block;
   width: 2.2rem;
   padding: .5rem .65rem;
-  color: #505050;
+  color: #fdfdfd;
   background-color: #fff;
   border-radius: 4px;
   cursor: pointer;
@@ -236,7 +236,7 @@ a.sidebar-nav-item:focus {
 .sidebar-toggle:active,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
   color: #fff;
-  background-color: #505050;
+  background-color: #fdfdfd;
 }
 
 @media (min-width: 30.1em) {
@@ -564,4 +564,39 @@ a.pagination-item:hover {
 /* Only one tweak for a reverse layout */
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
+}
+
+.footer {
+  bottom: 0;
+  font-size: 75%;
+  font-weight: 200;
+  color: #404040;
+  letter-spacing: 0;
+  text-align: center;
+  bottom: 0;
+}
+
+.footer_inner_left{
+width: 40%;
+Float: left;
+display:inline;
+}
+
+.footer_inner_right{
+width: 60%;
+Float: right;
+display:inline;
+text-align: right;
+img-align: right;
+}
+
+.icons{
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.titelei{
+  margin-bottom: 30px;
+  margin-top: 30px;
+  font-size: 130%;
 }

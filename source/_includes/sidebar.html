@@ -5,25 +5,12 @@
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
-    <p>{{ site.description }}</p>
+    <a href="/">LIBREAS. Library Ideas</a>
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/">Home</a>
 
     {% include custom/navigation.html %}
 
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-    <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
   </nav>
-
-  <div class="sidebar-item">
-<p>
-
-ISSN: 1860-7950
-
-Kontakt: <a href="mailto:redaktion@libreas.eu">redaktion@libreas.eu</a>
-</p>
-  </div>
 </div>
