@@ -69,6 +69,8 @@ body {
 a {
   color: #268bd2;
   text-decoration: none;
+  target-name: new;
+  target-new: tab;
 }
 a strong {
   color: inherit;
@@ -107,6 +109,7 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+
 }
 
 strong {
@@ -229,9 +232,22 @@ blockquote p:last-child {
 
 img {
   display: block;
-  max-width: 100%;
-  margin: 0 0 1rem;
+  max-width: 95%;
+  height:auto;
+  margin-right: auto ;
   border-radius: 5px;
+}
+
+.figure {
+  display: block;
+  margin-top: -.5rem;
+  margin-bottom: 1rem;
+  color: #9a9a9a;
+  text-align:left;
+  height:auto;
+  margin-left: auto ;
+  margin-right: auto ;
+  font-size: 75%;
 }
 
 /* Tables */
