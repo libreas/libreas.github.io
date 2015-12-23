@@ -24,21 +24,19 @@ Manuela Schulz M.A. - manuela@libreas.eu
 
 ### Redaktion
 
-Najko Jahn M.A.- najko@libreas.eu
+Linda Freyberg M.A. - linda@libreas.eu
+
+Najko Jahn M.A. - najko@libreas.eu
 
 Dr. Karsten Schuldt - karsten@libreas.eu
 
-Dipl. Bibl. Heike Stadler - heike@libreas.eu
-
 Matti Stöhr M.A. - matti@libreas.eu
-
-Christoph Szepanski- christoph@libreas.eu
 
 Doreen Thiede M.A.- doreen@libreas.eu
 
 #### ehemalige Redaktionsmitglieder   	 
 
-Sandra Lechelt | Boris Jacob M.A. | Elisabeth Simon | Walburga Lösch | Julia Pagel 
+Sandra Lechelt | Boris Jacob M.A. | Elisabeth Simon | Heike Stadler | Walburga Lösch | Julia Pagel | Christoph Szepanski
  	 
 ### Postanschrift
 
