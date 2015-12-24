@@ -1,0 +1,1 @@
+Am praktischen Beispiel des kamerunischen Bibliothekswesens werden Probleme bei der Übernahme von "traditionellen" Bibliothekskonzepten in andere Kulturen verdeutlicht. Die Lösungen dieser Probleme werden zum einen in einem besseren Verständnis der handelnden Akteure, zum anderen in einer Neuausrichtung der Zusammenarbeit mit eben diesen Akteuren gesehen.

@@ -1,0 +1,984 @@
+### Einleitung: Die Situation an der HTW Chur
+
+Die Hochschule für Technik und Wirtschaft (HTW) Chur in der
+deutschsprachigen Schweiz bietet unter anderem einen Studiengang
+(Bachelor, Master, Master of Advanced Studies(MAS)) in
+Informationswissenschaft an. Im Rahmen dieses Studienganges wird -
+aktuell als Vertiefungsrichtung, in Zukunft als Major -
+Bibliothekswissenschaft unterrichtet, wobei die beiden Autoren dieses
+Textes zusammen mit einer weiteren Kollegin den Grossteil des
+Unterrichts in diesem Fach übernehmen.
+
+Es existieren in der Schweiz wenige andere Möglichkeiten, für die
+Tätigkeiten in Bibliotheken auf Hochschulniveau ausgebildet zu werden.
+Sowohl in Zürich als auch in Bern gibt es MAS-Studiengänge, grundständig
+bildet aber nur noch die Fachhochschule in Genf (Haute école de gestion
+de Genève) aus, wobei diese nicht nur einen französischen, sondern auch
+einen bilingualen Studiengang (französisch, deutsch) anbietet. Unterhalb
+der Hochschulen existiert eine Berufsausbildung sowie ein Kurs von 124
+Lektionen von je 45 Minuten, der von der Schweizerischen
+Arbeitsgemeinschaft für allgemeine Öffentliche Bibliotheken akkreditiert
+wird und vor allem für Schul- und Gemeindebibliotheken beliebt ist.
+Angesichts dessen, dass die Sprachgrenzen in der Schweiz dem Anspruch
+nach durchlässig, in der Praxis aber doch wirksam sind, stellt das
+Studium an der HTW für die deutschsprachigen Bibliotheken - sowie
+Archive und Dokumentationseinrichtungen - praktisch die einzige
+Ausbildungseinrichtung dieser Art in der Schweiz dar.[^1]
+
+Seit die beiden Autoren dieses Textes im Laufe des Jahres 2012 ihre
+Unterrichtsaufgaben übernahmen, haben sie diesen in gemeinsamer
+Absprache verändert und legen heute grossen Wert auf die Einbindung von
+Forschungsmethoden in den Unterricht. Der vorliegende Text berichtet
+über die Grundüberlegungen, welche hinter dieser Orientierung stehen und
+stellt Vorstellungen zur zukünftigen Entwicklung des schweizerischen
+Bibliothekswesens, auf die sich diese Orientierung bezieht, dar.
+Anschliessend schildern die Autoren, wie sie Forschungsmethoden in die
+Lehre in unterschiedliche Fächer integrieren und präsentieren einige
+ausgewählte Abschlussarbeiten, auf die dieser Unterricht Einfluss hatte.
+Zum Abschluss diskutieren die Autoren, inwieweit die neue Orientierung
+ihre Zielsetzung erreicht hat und welche Schritte weiterhin notwendig
+wären, um - was das Ziel der Neuorientierung war - die Absolventinnen
+und Absolventen auf die zukünftigen Tätigkeiten in Bibliotheken besser
+vorzubereiten und gleichzeitig die Bibliotheksszene in der Schweiz zu
+bereichern.
+
+### Was heisst "Praxisorientierung" für die Lehre an einer Fachhochschule und weshalb soll diese Forschungsmethoden unterrichten?
+
+Fachhochschulen wurden in der Schweiz erst 1998 zugelassen und befinden
+sich weiterhin in einer Entwicklungsphase. Beispielsweise wurde die
+Akkreditierungsform erst Anfang 2015 wieder verändert. Die
+Fachhochschulen haben in der schweizerischen Bildungslandschaft noch
+nicht den starken Platz gefunden, den sie in der deutschen haben.
+Grundidee ist und war es aber, Einrichtungen zu schaffen, deren Lehre
+und Forschung sich mehr an praktischen Themen orientieren als in den
+Universitäten, aber auf einem akademischen Niveau stattfinden und sich
+damit von Höheren Fachschulen, die unterhalb der Fachhochschulen
+angeordnet werden, abzugrenzen. Gleichzeitig haben Fachhochschulen den
+Auftrag, vor allem solche Forschung zu betreiben, die praktisch
+angewendet werden kann und für den Wissenstransfer der Ergebnisse zu
+sorgen; obwohl gleichzeitig zum Beispiel der Schweizer Nationalfonds
+betont, dass auch an Fachhochschulen Grundlagenforschung betrieben
+werden könne.
+
+Diese Situation führt selbstverständlich immer wieder zu Irritationen,
+beispielsweise, wenn bei Forschenden an Fachhochschulen der Eindruck
+entsteht, sowohl bei der Forschungsförderung durch den Schweizer
+Nationalfonds als auch bei anderen Förderprogrammen grundsätzlich
+strukturell benachteiligt und teilweise von Forschungsgeldern direkt
+abgeschnitten zu werden. Stattdessen sind Fachhochschulen darauf
+angewiesen, Drittmittel von anderen Stellen, hauptsächlich Firmen,
+einzuwerben. Das für Fachhochschulen wichtigste Förderprogramm, das von
+der KTI (Kommission für Technologie und Innovation) betrieben wird,
+basiert denn auch auf der Zusammenarbeit mit Firmen und bezweckt primär
+den Wissenstransfer.[^2] Diese Beschränkung wird im Rahmen der
+Fachhochschulen immer wieder beklagt. Andere Irritationen entstehen,
+wenn potentielle Arbeitgeberinnen und Arbeitgeber zukünftiger
+Absolvierender, genauso wie einige Studierende oder
+wissenschaftspolitische Akteure, nicht wahrzunehmen scheinen, dass es
+sich bei den Fachhochschulen um akademische Einrichtungen handelt und
+deshalb Anforderungen an die Ausbildung stellen, die mit dem Selbstbild
+der Fachhochschulen nicht übereinstimmen. Zudem ist das Selbstbild von
+Fachhochschulen in der Schweiz wenig gefestigt. Gleichzeitig ermöglicht
+diese Situation aber auch, dass sich Lehrende und Forschende recht aktiv
+in die weitere Gestaltung von Fachhochschulen einbringen können.
+
+Die beiden Autoren dieses Textes sind den akademisch orientierten
+Dozierenden zuzuordnen. Ihrer Meinung nach ändern sich Bibliotheken als
+Institutionen aktuell tiefgreifend; die Arbeit in Bibliotheken erfordert
+immer mehr Personen, die sich nicht auf die gute Anwendung einiger
+weniger spezialisierter Wissensbestände konzentrieren, sondern
+eigenständig Entscheidungen treffen und sich regelmässig neues Wissen
+erarbeiten. Gefragt ist eine immer grössere Eigenverantwortung des
+Personals - mit RDA zum Beispiel auch im Bereich der Erschliessung -
+sowie, analog zu anderen Bereichen der Gesellschaft, die sogenannten
+Soft Skills wie Kommunikationsfähigkeit, Zeitmanagement,
+Stressbewältigung und Empathie. Oder anders: Der Beobachtung der beiden
+Autoren nach wird auch die Arbeit in Bibliotheken immer mehr zu einem
+Handeln in Situationen mit unvollständigen Informationen und unter
+ständigem Entscheidungsdruck. Diese Situation ist bekannt, wird aber oft
+einigermassen ignoriert, insbesondere, wenn mit dem Begriff
+"Lebenslanges Lernen" der Eindruck vermittelt wird, das alle notwendigen
+Fähigkeiten und Wissensbestände im Laufe des Lebens einfach in
+Weiterbildungen nachträglich erworben werden können.
+
+Die Autoren haben als Lehrende eine Verantwortung für ihre Studierenden:
+Sie wollen sie nicht mit veraltetem Wissen in das Leben nach der
+Ausbildung entlassen, sondern ihnen die Fähigkeiten und Kompetenzen
+mitgeben, die sie für die aktive Gestaltung ihres Lebens und
+Berufsalltags benötigen.[^3] Sicherlich ist auch das spekulativ, dennoch
+gehen die Autoren davon aus, dass es eine der Aufgaben einer Ausbildung
+sein muss, den Studierenden zu ermöglichen, sich zu Persönlichkeiten zu
+bilden, die sich zutrauen, in Situationen mit unvollständigem Wissen zu
+handeln, ihr Handeln und die Gründe für dieses Handeln zu reflektieren,
+eigenständig neues Wissen zu akkumulieren und zu produzieren.
+Bibliotheken sehen sich hier einer dynamischen Entwicklung gegenüber,
+die ihre traditionelle Fokussierung auf klare Regeln und strukturierte
+Abläufe grundlegend in Frage stellt. Dies überträgt sich auf die
+Anforderungen an Mitarbeitende, was zumindest von fortschrittlichen
+Bibliotheken verstanden und bei der Neubesetzung von Stellen umgesetzt
+wird.
+
+Neben der Auswahl der Themen, die in den Kursen der beiden Autoren
+unterrichtet werden, wird versucht, diese Aufgabe mit vier Massnahmen
+anzugehen: (1) Das eigenständige Arbeiten der Studierenden wird geübt,
+indem sie nicht, wie in den meisten anderen Kursen, Klausuren schreiben
+oder in Gruppen möglichst viele Aufgaben lösen, sondern als
+Leistungsnachweise Hausarbeiten schreiben, die wissenschaftlichen
+Standards entsprechen müssen. (2) Der Unterricht der beiden Autoren ist
+geprägt vom freien Unterrichtsgespräch und ständigen Aufforderungen an
+die Studierenden, Entscheidungen zu treffen und zu begründen. Zudem wird
+immer wieder betont, welche Aufgaben auf die Studierenden bei einer
+Arbeit in Bibliotheken zukommen werden. Ein grosser Teil der
+Studierenden wird im Anschluss an das Studium auf festen oder
+befristeten Projektstellen eingestellt und hat dort oft eine grosse
+Verantwortung, sowohl in finanzieller als auch organisatorischer
+Hinsicht. Dies soll sie nicht unvorbereitet treffen. (3) Mit einer
+Einbindung wissenschaftlicher Methoden in den Unterricht. Dabei können
+Methoden nicht losgelöst von Inhalten vermittelt werden, gleichzeitig
+lassen sich Methoden nur nachvollziehen, wenn sich bei den Studierenden
+eine gewisse Haltung - eben das methodische und strukturierte Handeln in
+Situationen mit unvollständigen Informationen - einstellt. (4) Durch
+Projektarbeiten wird das eigenverantwortliche Handeln, die Arbeit im
+Team und der Einsatz einschlägiger Methoden gefördert.
+
+Ziel der beiden Autoren ist es, Studierende zu Menschen auszubilden, die
+im Rahmen von Bibliotheken selbständig und reflektiert handeln können
+sowie sich in die bibliothekarischen Diskussionen einbringen. Das
+bedeutet selbstverständlich, dass das Üben spezifischer Fähigkeiten, die
+zum Beispiel in Bibliotheksschulen der Vorläufereinirichtung der Genfer
+Fachhochschule im Mittelpunkt standen, in die eigentliche
+Bibliothekspraxis verlagert werden muss. Für dieses Vorgehen erfährt die
+Hochschule sowohl Zuspruch als auch Widerspruch von Seiten der
+potentiellen Arbeitgeberinnen und Arbeitgeber und ist deshalb auf eigene
+Entscheidungen angewiesen,[^4] wobei die Autoren bislang auf die
+Unterstützung durch die Studienleitung und den Fachbeirat des Instituts
+bauen können. Gerade die Bibliotheksvertreterinnen und -vertreter im
+Fachbeirat haben in der Diskussion um die aktuelle Curriculumsreform
+betont, dass von den Absolventinnen und Absolventen in erster Linie
+erwartet wird, dass sie flexibel, offen und neugierig sind und in den
+Bibliotheken als "Innovationsträger" agieren können.
+
+### Was sollen wissenschaftliche Methoden in der Ausbildung für Bibliothekswissenschaft an der HTW Chur erreichen?
+
+Die beiden Autoren dieses Textes haben in ihren Vorlesungen und
+Seminaren in den letzten Jahren damit begonnen, wissenschaftliche
+Methoden zu unterrichten und gleichzeitig die Studierenden
+wissenschaftlichen Texten auszusetzen. Dabei ist die Lehre an der HTW
+Chur grundsätzlich relativ schulmässig organisiert. Die Studierenden
+erhalten zu Beginn des Studiums eine Übersicht zu den Kursen, die in den
+folgenden drei (Bachelor Vollzeit), vier (Bachelor Teilzeit) oder zwei
+(Master) Jahren unterrichtet werden, inklusive einer Übersicht zu den
+Inhalten dieser Kurse. Innerhalb dieses System ist nur eine kleine Zahl
+von Projektkursen und Seminaren variabel. Die Studierenden erhalten die
+Zusicherung, dass die Kurse im Laufe ihres Studiums erteilt werden. Dies
+soll Planungssicherheit etablieren, gleichzeitig schränkt es die
+Hochschule und die Dozierenden in ihrem Unterricht ein.[^5] Insoweit
+können die beiden Autoren nicht ohne Weiteres neue Fächer einführen oder
+solche, die ihnen überflüssig erscheinen, streichen.[^6] Erst in der
+aktuellen Curriculumsreform wird dies möglich sein, wenn auch wieder nur
+für einen langen Zeitraum gedacht.
+
+Im Rahmen der Fächer die unterrichtet werden, haben die Dozierenden
+allerdings einen grossen Gestaltungsspielraum, inklusive finanzieller
+Mittel für Gastdozierende auch aus dem Ausland. Die beiden Autoren
+unterrichten zur Zeit sowohl Kurse allein, aufgeteilt - das heisst je
+nach Sitzung eine andere Person - und auch gemeinsam im Team. Unter
+anderem unterrichten sie "Bibliotheksmanagement" (Mumenthaler),
+"Bestandsmanagement" (Schuldt), "Grundlagen der
+Informationswissenschaft", Bibliothekswissenschaft
+(Mumenthaler, Schuldt), "Sozialpsychologie und Benutzerberatung"
+(Mumenthaler, Schuldt), "Aktuelle Trends in der Bibliothekswissenschaft
+und -praxis" (Mumenthaler, Schuldt) sowie Seminare und Projektkurse. Der
+Anspruch, wissenschaftliche Methoden im Unterricht zu vermitteln,
+entstand bei den beiden Autoren zuerst ungeplant, wurde dann in
+Diskussionen über die konkrete Unterrichtsgestaltung aber genauer
+gefasst.
+
+Im Rahmen der Gestaltungsmöglichkeiten bezüglich des Inhalts bestehender
+Vorlesungen und Module können die Dozierenden einzelne Methoden in den
+Unterricht integrieren. In Fächern wie "Sozialpsychologie und
+Benutzerberatung" oder "Bestandsmanagement" werden gemeinsam mit den
+Studierenden Studien aus wissenschaftlichen Zeitschriften gelesen und
+auf deren Aussagekraft hin befragt. Die Studierenden sollen so einen
+kritischen Blick auf Studien entwickeln und beispielsweise nach der
+Sinnhaftigkeit von Fragestellungen und genutzten Methoden sowie der
+Nachvollziehbarkeit von Ergebnisinterpretationen zu fragen lernen. Im
+Modul "Sozialpsychologie und Benutzerberatung" besteht ein
+Leistungsnachweis darin, in einer Informationseinrichtung die
+Beobachtungsmethode Mystery Shopping durchzuführen. Dabei wird die
+Methode im Präsenzunterricht vorgestellt und ein Beobachtungsbogen
+erarbeitet. Die Umsetzung, also die eigentliche Beobachtung sowie die
+Auswertung, erfolgt dann im Selbststudium. Der schriftliche Bericht
+dient als Leistungsnachweis für den Teil Benutzerberatung in diesem
+Modul.
+
+Insbesondere im Fach "Aktuelle Trends in der Bibliothekswissenschaft
+und -praxis" wird der Einsatz von unterschiedlichen Methoden erprobt.
+Dies kann selbstverständlich immer nur in einer reduzierten Form
+geschehen. In einer normalen Unterrichtseinheit, welche an der HTW vier
+Mal 45 Minuten dauert, wird jeweils eine Methode vorgestellt und mit
+ihren Vorteilen sowie Grenzen diskutiert, an einem Beispiel zusammen mit
+den Studierenden durchgespielt und anschliessend reflektiert. Wichtig
+ist dabei nicht, dass die Durchführung den Kriterien wissenschaftlicher
+Arbeit entspricht. Beispielsweise wird bei der Vorstellung qualitativer
+Inhaltsanalysen nur ein erster, oberflächlicher Codierungsvorgang
+durchgeführt. Wichtig ist vielmehr, dass die Studierenden die Methode
+anwenden und erfahren, dass - wenn auch im kleinen Rahmen - durch diese
+Anwendung neues Wissen entsteht und dass sie selber in der Lage sind,
+dieses Wissen zu produzieren. In der abschliessenden Diskussion wird von
+den Dozierenden immer darauf verwiesen, welcher Standard bei der
+Durchführung der jeweiligen Methode existiert und wie die Ergebnisse in
+Bibliotheken oder der Bibliothekspolitik verwendet werden könnten.
+Grundsätzlich soll bei den Studierenden ein Interesse an der Nutzung
+solcher Methoden sowie der kritischen Reflexion von Studien, die zum
+Beispiel in bibliothekarischen Zeitschriften publiziert werden,
+gefördert werden. Gleichzeitig soll dem "wissenschaftlichen Wissen",
+dass in solchen Studien dargestellt wird, der Mythos der unangreifbaren
+Faktizität und der unverstehbaren Komplexität genommen werden.
+
+#### Vorteile für Studierende
+
+Die Autoren des vorliegenden Textes erhoffen sich durch diese Einbindung
+von Forschungsmethoden eine ganze Reihe von Vorteilen für die
+Studierenden.
+
+-   Die Studierenden werden ihr Wissen darüber, welche
+    Forschungsmethoden existieren, vor allem auf den Projektstellen in
+    Bibliotheken oder ähnlichen Positionen nutzen können. Dabei sollten
+    sie in der Lage sein, nicht nur die nächstliegenden Methoden
+    auszuwählen, sondern wissen, wie breit die Möglichkeiten jeweils
+    sind und selber in der Lage sein, nach Methoden zu recherchieren,
+    ihren Einsatz zu planen und die Grenzen von Methoden zu erkennen.
+    Eine Hoffnung ist auch, dass die Studierenden beginnen, auf die
+    Ergebnisse schon einmal durchgeführter Studien in ähnlichen
+    Zusammenhängen zurückzugreifen und diese nicht, wie dies oft
+    vorkommt, regelmässig zu wiederholen.
+
+-   In zahlreichen Disziplinen, in der Schweiz vor allem in
+    Medizinberufen, hat sich eine evidenzbasierte berufliche Praxis
+    etabliert. Entscheidungen werden auf der Grundlage von kleinen
+    Forschungsprojekten und wissenschaflichem Wissen, das auf die
+    jeweilige Situation bezogen wird, getroffen. Um dies zu ermöglichen,
+    müssen die im jeweiligen Feld Tätigen in der Lage sein, mit solchem
+    Wissen umzugehen, es zu recherchieren, zu interpretieren und in die
+    eigene Praxis einzubauen. Während in der Schweiz Höhere Fachschulen
+    für Medizinberufe sowie Pädagogische Hochschulen dazu übergegangen
+    sind, grosse Teile des Unterrichts in Form von evidenzbasierten
+    Projekten zu organisieren, steht ein solcher Wandel in Bibliotheken
+    -- trotz längerer Diskussionen und Projekte unter dem Titel "Evidence
+    Based Library Practice" vor allem in Kanada, auf die regelmässig
+    verwiesen wird -- aus. Die Studierenden sollen aber darauf
+    vorbereitet werden, Prinzipien dieser evidenzbasierten Arbeitsweise
+    nutzen zu können. Beide Autoren sehen eine solche Praxis, wenn sie
+    reflektiert ist und nicht andere Formen der Wissensproduktion
+    ersetzt, als sinnvoll an.
+
+-   Methodenwissen ermöglicht immer auch ein Denken auf einer vom
+    konkreten Alltag abgelösten Abstraktionsebene. Nur wer in der Lage
+    ist, vom Einzelfall in einer Bibliothek zu abstrahieren und sowohl
+    Strukturen als auch Zusammenhänge zu analysieren, kann sinnvoll
+    wissenschaftliche Methoden anwenden. Dies unterscheidet zum Beispiel
+    Umfragen als reines Instrument, um Stimmungen und Meinungen
+    aufzunehmen, von Umfragen, die zum Testen von Hypothesen und zum
+    Erweitern von Wissensbeständen eingesetzt werden. In der Überzeugung
+    der beiden Autoren dieses Textes impliziert der Aufbau von
+    Methodenwissen immer auch einen Schritt hin zu wissenschaftlichem
+    Denken. Ein solches abstrakteres Denken wird den Studierenden bei
+    der Gestaltung ihres Lebens und bei Entscheidungen, die sie im
+    Rahmen von Bibliotheken auf höherer Ebene zu treffen haben, von
+    Nutzen sein. Insbesondere wenn es um zukunftsträchtige
+    Entscheidungen geht, kann wissenschaftliches Denken besser diffuse
+    Hoffnungen und Werbeversprechen erhellen und somit für die
+    Institution sinnvolle Entscheidungen ermöglichen.
+
+-   Studierende sollten, so die Hoffnung, durch den regelmässigen
+    Kontakt zu wissenschaftlichen Texten, auch solchen, die theoretisch
+    angelegt sind, und Methodendiskussionen ein Selbstbewusstsein
+    gegenüber dem wissenschaftlichen Denken aufbauen. Im Berufsalltag
+    sollen sie sich zutrauen, solche Methoden einzusetzen und nicht
+    einfach auf subjektive Theoriebildungen zurückgreifen. Sie sollen
+    ihre Arbeit als Teil des Fachdiskurses ansehen, dazu den Fachdiskurs
+    aktiv verfolgen, sich darin verorten und auch über Publikationen zu
+    ihm beitragen. Eine solche aktive Beteiligung wird nicht nur das
+    Selbstvertrauen der dann New Professionals stärken, sondern auch zu
+    einem bibliothekarischen Diskurs führen, an dem sich, verglichen mit
+    der jetzigen Situation, mehr Personen mit größerem Wissen und
+    unterschiedlichen Meinungen beteiligen sowie die spätere Arbeit der
+    Studierenden interessanter machen.
+
+#### Vorteile für Bibliotheken in der Schweiz
+
+Grundsätzlich sollen, so das Verständnis in der schweizerischen
+Bildungspolitik und bei einigen potentiellen Arbeitgeberinnen und
+Arbeitgebern, die Fachhochschulen in der Schweiz genau das Personal
+ausbilden, welches auf dem Arbeitsmarkt, im hier diskutierten Fall vor
+allem in den Bibliotheken, benötigt wird. Dieses utilitaristische Denken
+ist selbstverständlich unrealistisch: Konsens ist es heute, davon
+auszugehen, dass sich die Arbeitswelt so rapide ändert, dass
+Ausbildungsinhalte schnell veralten und dass deshalb in den
+Ausbildungsgängen vor allem grundlegende Kompetenzen vermittelt werden
+müssen, die Personen ermöglichen, sich an ständig neue Herausforderungen
+und Arbeitsweisen anzupassen. Unbeachtet bleibt allerdings oft, dass
+Personen, die solche Kompetenzen haben, nicht nur auf neue Anforderungen
+reagieren, sondern selber ihre Umwelt und damit auch die Arbeitswelt
+umgestalten. Nicht alle Veränderungen vollziehen sich, weil sie
+notwendig sind; viele vollziehen sich auch, weil die Mitarbeiterinnen
+und Mitarbeiter Prozesse ändern und verbessern wollen, weil sie
+bestimmte neue Arbeitsweisen erwarten oder etablieren.
+
+Diese Entwicklung dürfte sich auch in der Schweiz vollziehen. Angesichts
+dessen, dass viele Absolvierende der HTW Chur relativ schnell
+einflussreiche Positionen in Bibliotheken in der Schweiz besetzen, ist
+davon auszugehen, dass das, was an der HTW unterrichtet wird, die
+Bibliotheken in der Schweiz mit beeinflusst. Bezogen auf die Integration
+von wissenschaftlichen Methoden in den Unterricht gehen die Autoren des
+Textes von folgenden Tendenzen aus, die sich möglicherweise in den
+Bibliotheken der Deutschschweiz dadurch ergeben könnten, dass die
+Studierenden im Anschluss an das Studium mit bestimmten Kenntnissen und
+Kompetenzen in den Bibliotheken angestellt werden.
+
+-   Dadurch, dass Forschungsmethoden bekannt sind, aber auch gewusst
+    wird, dass es zahlreiche weitere Methoden zur Lösung von bestimmten
+    Fragen gibt, werden im Arbeitsalltag auch mehr Methoden eingesetzt.
+    Grundsätzlich könnten Probleme eher als wissenschaftlich anzugehende
+    Fragestellungen begriffen und dann auch systematisch bearbeitet
+    werden, als bisher, wo sie oft im Trial-and-Error-Verfahren oder mit
+    relativ einfachen Methoden (Umfragen und Interviews) zu bearbeiten
+    versucht werden. Dies wird zu anderen, hoffentlich besseren
+    Erkenntnissen führen.
+
+-   Wenn mehr wissenschaftliche Methoden in der Berufspraxis,
+    beispielsweise bei der Projektarbeit, eingesetzt werden, werden die
+    dafür nötigen Fähigkeiten und Kompetenzen bei allen Beteiligten
+    gefördert, insbesondere, wenn dies reflektiert geschieht. Dies
+    könnte zu einem Personal führen, das eher kritisch, fokussiert auf
+    durchdachte und abgewogene Aussagen, auf strukturierte, aber
+    ergebnisorientierte Arbeit ausgerichtet und stärker kommunikativ
+    geprägt wäre als bisher.
+
+-   Der vermehrte Einsatz von wissenschaftlichen Methoden zur
+    Beantwortung von mehr Fragestellungen im Bibliotheksalltag würde die
+    Tätigkeiten in den Bibliotheken abwechslungsreicher und
+    interessanter machen. Damit einhergehen könnte auch das Zunehmen des
+    Interesses von eher an abwechselnde Tätigkeiten begeisterten
+    Personen an der Arbeit in Bibliotheken.
+
+-   Wissenschaftliche Methoden in der Bibliothekspraxis würde die
+    Erkenntnis der Bibliothek über sich selber erhöhen -- schon allein,
+    da Wissenschaft immer auch ein Mittel zur Selbstaufklärung darstellt
+    -- und somit dazu beitragen, dass die bibliothekarische Arbeit
+    qualitativ besser wird. Gleichzeitig würde so mehr Wissen produziert
+    werden, das auch in den bibliothekswissenschaftlichen Diskurs
+    einfliessen könnte.[^7]
+
+-   Letzlich kann dies zu einer - analog zu anderen Berufen -
+    evidenzbasierten Bibliotheksarbeit führen. Damit würden Bibliotheken
+    erfolgreicher die laufenden und neuen Herausforderungen bewältigen
+    können.
+
+-   Die Öffnung für wissenschaftliche Methoden impliziert auch eine
+    Öffnung gegenüber internationalen Entwicklungen und Erkenntnissen.
+    Zu Beginn einer wissenschaftlichen Untersuchung steht in der Regel
+    eine Literaturanalyse, die sich zwangsläufig auch mit Studien und
+    Berichten aus anderen Ländern befassen muss. Sich auf den
+    wissenschaftlichen Diskurs einzulassen bedeutet auch, sich mit
+    Entwicklungen in anderen Weltregionen zu befassen und Lehren aus den
+    dortigen Erfahrungen zu ziehen.
+
+#### Methoden in der Curriculumsreform 2015
+
+Konnten die beiden Autoren in den ersten Jahren ihrer Dozententätigkeit
+punktuell Methoden in die bestehenden Unterrichtsmodule integrieren,
+begann im Jahr 2014 eine grundlegende Curriculumsreform. Ziel der Reform
+ist es, das gesamte Bachelorstudium der Informationswissenschaft an der
+HTW Chur attraktiver zu gestalten und klarer zu positionieren. Es wird
+anstelle der eher kleinen Vertiefungen vier deutlich umfangreichere
+"Majors" geben, einer davon in Bibliotheksmanagement. Beim Aufbau der
+Module wird nach den Vorgaben der Studienleitung dabei vom Ansatz
+ausgegangen, dass zunächst die Kompetenzen formuliert werden, welche die
+Studierenden im Modul erreichen sollen und über welche sie bei Eintritt
+in ein weiteres Modul verfügen sollten. Es wird also viel stärker von
+Fähigkeiten, Kompetenzen und Soft Skills ausgegangen als bisher.
+
+Innerhalb des Majors Bibliotheksmanagement werden zum Teil komplett neue
+Module angeboten, wie zum Beispiel Bibliotheksdienstleistungen oder
+Bibliotheksinformatik. Zum anderen wird die Möglichkeit geschaffen, ein
+eigentliches Methodenseminar anzubieten, in dem künftig Methoden
+vermittelt und ihr Einsatz angewendet werden können. Gleichzeitig werden
+im Grundstudium bereits Vorlesungen zur empirischen Sozialforschung und
+zu statistischer Analyse angeboten (sowohl heute als auch nach der
+Curriculumsreform). Das geplante Methodenseminar wird auf diesen
+Grundlagen aufbauen und zusätzliche Methoden behandeln, beispielsweise
+ethnografische Methoden. Es ist angedacht, ausgehend von konkreten
+Fragestellungen in Bibliotheken, gemeinsam mit den Studierenden mögliche
+Untersuchungsdesigns zu entwickeln und zu diskutieren oder auch Methoden
+konkret in kleineren Projekten einzusetzen. Ein besonderer Fokus wird
+hier auf Beobachtungsmethoden gelegt, zum Beispiel Count-the-Traffic.
+
+Die bisherigen Erfahrungen in studentischen Arbeiten (siehe unten) haben
+gezeigt, dass diese Methoden im Studium nicht nur vermittelt, sondern
+auch geübt werden sollten. Als Lernziel wird entsprechend formuliert,
+dass die Studierenden in der Lage sein sollen, geeignete Methoden
+auszuwählen und anzuwenden, die Kenntnis allein ist nicht ausreichend.
+Neben dem Methodenseminar sind zwei Projektkurse und ein weiteres
+Seminar, das majorübergreifend für alle Studierenden gelten wird,
+geplant. In den Projektkursen erhalten die Studierenden die Gelegenheit,
+das in der Vorlesung Projektmanagement (Grundstudium) erworbene Wissen
+anzuwenden und in einer konkreten Projektsituation umzusetzen. Hier wird
+der Schwerpunkt bei Projekten im Kontext von Um- oder Neubauten von
+Bibliotheken oder von Neukonzeptionen gesetzt. Bisher wurden im Rahmen
+der Vorlesung Bibliotheksmanagement begleitend solche Projekte
+bearbeitet, die mit ihrem Praxisbezug bei den Studierenden beliebt,
+jedoch auch sehr zeitaufwändig waren. Indem diese Projekte einen eigenen
+Ort im Curriculum erhalten, kann hier der Aufwand grösser und
+realitätsnaher sein. Das überarbeitete Curriculum soll zum
+Herbstsemester 2015 in Kraft treten.
+
+### Beispiele für die Einbindung von wissenschaftlichen Methoden in die Lehre an der HTW Chur und Ergebnisse dieser Einbindung
+
+#### Beispiel 1: Seminar "Was tun Nutzerinnen und Nutzer in der Bibliothek?"
+
+Wenn es den Autoren möglich ist, ein Seminar oder einen Projektkurs
+durchzuführen - diese werden immer in Konkurrenz zu anderen Dozierenden
+beantragt und wechseln jährlich -, versuchen sie bereits bisher, dies
+ebenfalls zur Vermittlung von wissenschaftlichen Methoden zu nutzen.
+Herausragend war dafür ein Seminar, dass 2013 unter dem Titel "Was tun
+Nutzerinnen und Nutzer in der Bibliothek?" durchgeführt wurde und
+grundsätzlich als Methodenseminar geplant war.
+
+In diesem Seminar erprobten die Studierenden die Nutzung verschiedener
+Methoden, um die im Titel des Seminars enthaltene Frage beantworten zu
+können. In vier Gruppen erarbeiteten sie - unter Zuhilfenahme von zuvor
+zusammengestellten Texten - unterschiedliche Methodenstränge (Umfragen,
+Online-Forschung, sozialwissenschaftliche und ethnologische Ansätze). In
+jeder Sitzung stellte eine Gruppe die Methoden, die sie erarbeitet
+hatten, vor, inklusive einem Ablaufplan für ein Forschungsprojekt mit
+dieser Methode, den Vorteilen, Grenzen, forschungsethischen Problemen
+und Beispielen, in denen diese Methoden in Bibliotheken eingesetzt
+worden waren. Anschliessend wurden in einem Rollenspiel die restlichen
+Studierenden als Bibliotheksleitung einer imaginären Bibliothek (in
+jeder Stunde eine andere, so dass unterschiedliche Bibliotheksformen und
+Herausforderungen bearbeitet werden konnten) vor die Aufgabe gestellt,
+zusammen mit den Forschenden - also der jeweiligen Gruppe, die als
+Expertinnen und Experten für "ihre" Methode galten - einen
+Forschungsplan zur Frage, was Nutzerinnen und Nutzer in der Bibliothek
+tun, zu entwerfen. Dabei wurden unter den Studierenden jeweils per Los
+Positionen verteilt. Eine Person stellte zum Beispiel die
+Finanzabteilung dar und hatte auf einen möglichst ausgeglichen Etat zu
+achten, eine andere Person vertrat die Interessen des Personals und eine
+weitere die Interessen der Nutzerinnen und Nutzer. Mithilfe der beiden
+Autoren, die jeweils eine Rolle als imaginäre Unternehmsberater
+spielten, wurden im Seminar vier potentielle Forschungspläne erarbeitet.
+In der letzten Sitzung des Seminars wurden die Methoden und ihre
+Anwendung, insbesondere eingebunden in den Alltag von Bibliotheken,
+besprochen.
+
+Sicherlich haben die Studierenden in diesem Seminar keine vollständige
+Methodenausbildung erhalten. Vermittelt werden sollte aber, dass es
+möglich ist, unterschiedliche wissenschaftliche Methoden in der
+Bibliothekspraxis einzusetzen, sowie, dass dem Einsatz jeder
+Forschungsmethode eine intensive Forschungsplanung vorausgehen muss. Die
+Studierenden haben diese Punkte in der Abschlussevaluation als positive
+Erkenntnisse benannt. Die beiden Autoren zogen zum Abschluss ebenfalls
+ein positives Fazit. Sie wollten vor allem die Kritikfähigkeit der
+Studierenden erhöhen und zugleich die Breite möglicher Methoden
+aufzeigen.[^8] Ihrer Meinung nach war den Studierenden am Ende des
+Seminars zudem bewusst, dass es sich lohnt, in konkreten Fällen
+eigenständig nach Forschungsmethoden zu suchen.
+
+Im Rahmen der Curriculumsreform wird, wie erwähnt, ein regelmässig
+durchgeführtes Methodenseminar eingeführt. Es soll im Ablauf ähnlich
+gestaltet sein. Dies gilt auch für ein im Frühjahrssemester 2015
+geplantes Seminar zur Frage, ob Bibliotheken in der Schweiz als Dritter
+Ort funktionieren. Dabei werden von der Fragestellung ausgehend
+unterschiedliche methodische Ansätze evaluiert, um schliesslich eine
+ausgewählte Methode anzuwenden und umzusetzen. Geplant ist im Rahmen
+dieses Seminars auch, zumindest eine koordinierte Beobachtung über die
+Art der Nutzung von Bibliotheksräumen durchzuführen.
+
+#### Beispiel 2: Modul "Aktuelle Trends in Bibliothekswissenschaft und -praxis"
+
+Ziel dieses Moduls, welches eingeführt wurde, bevor die beiden Autoren
+zur HTW Chur wechselten, war es, einen Ort zu schaffen, an dem den
+Studierenden flexibel die aktuellen Entwicklungen im Bibliotheksbereich
+vermittelt werden könnten. Das Modul wird am Ende des Studiums besucht,
+die Studierenden sollten daran anschliessend mit aktuellem Wissen in den
+Arbeitsmarkt wechseln. Diese respektable Vorstellung hat in der Praxis
+die Autoren als Lehrende nicht überzeugt. Im Gegensatz zu anderen Kursen
+ermöglicht dieses Modul zwar eine gewisse Flexibilität in der
+thematischen Gestaltung, was das Unterrichten interessanter macht.
+Allerdings widerspricht der Aufbau dem Ziel, Studierende mit einem
+zukunftsfähigen Wissen auszustatten, da der Eindruck entstehen könnte,
+dass einen einmalige Vermittlung von Zukunftsthemen für das gesamte
+Berufsleben ausreichen würde. Ab dem Herbst 2012 wurde deshalb der
+Hauptaugenmerk darauf gelegt, mit den Studierenden Strategien und
+Methoden zu erarbeiten, die es ihnen ermöglichen, auch nach der
+Ausbildung selbstständig den Trends in den bibliothekarischen und
+bibliothekswissenschaftlichen Diskussionen zu folgen, diese sowohl für
+eine Arbeit in Bibliotheken zu nutzen als auch kritisch zu hinterfragen
+sowie selber an der genannten Diskussion teilzunehmen.
+
+In gewisser Weise ist es das Ziel dieses Seminars, den Studierenden zu
+zeigen, wie Trends in den Diskussionen entstehen, wie hilfreich, aber
+auch prekär Trendberichte sein können und welche reichhaltigen Methoden
+für die Analyse zukünftiger Aufgaben von Bibliotheken existieren. Auch
+dies ist motiviert durch das Wissen, dass die Studierenden der HTW im
+Anschluss an ihr Studium oft auf Stellen eingesetzt werden, bei denen
+das Verfolgen von Trends und das Übersetzen dieser Trends auf die Ebene
+einzelner Bibliotheken zum Aufgabenspektrum gehört.
+
+Konkret werden im Modul mehrere, auf ein bis zwei Stunden Arbeitszeit
+reduzierte, Methodenübungen durchgeführt und anschliessend reflektiert.
+Dazu gehören Literaturanalysen, das Erarbeiten von
+State-of-the-Art-Berichten, die Methodik des Horizon Reports - an dessen
+Library Edition die HTW Chur aktiv beteiligt ist - als Beispiel für
+Trendreports und die Szenariotechnik. Selbstverständlich sind die
+Ergebnisse, die in diesem Modul erarbeitet werden, relativ unabgesichert
+und oberflächlich. Dennoch scheinen die Studierenden, soweit dies zu
+überprüfen ist, jeweils am Ende des Moduls sowohl das Selbstvertrauen,
+solche Methoden anzuwenden und Aussagen aus ihnen zu generieren, als
+auch einen kritischen Blick auf die Methoden erworben zu haben.
+
+Was bisher nicht gelang, ist, Studierenden im Anschluss an das Studium
+zur Publikation von Ergebnissen oder zur aktiven Teilnahme an
+Konferenzen zu gewinnen, obwohl auch dies Ziel des Moduls ist und von
+den Autoren dieses Textes regelmässig betont wird. So wird die Arbeit
+von Redaktionen bibliothekarischer Zeitschriften sowohl aus der Sicht
+von Schreibenden als auch von Redaktionsmitgliedern erläutert, es werden
+je Durchführung des Moduls zwei Expertinnen und Experten eingeladen, die
+nicht nur aktuelle Themen besprechen, sondern gleichzeitig zeigen
+sollen, dass die Arbeit im Umfeld von Bibliotheken nicht nur in
+klassischen bibliothekarischen Aufgaben bestehen kann. Findet das Modul
+im Herbst statt, wird das seit drei Jahren an der HTW Chur durchgeführte
+Infocamp - ein zweitägiges Barcamp mit einem hohen Anteil an
+Impulsreferaten - ebenfalls in das Modul eingebunden. Die Studierenden
+nehmen dann an dem Infocamp teil, dokumentieren die Diskussionen,
+bereiten die Veranstaltung gemeinsam mit den Dozierenden nach und nutzen
+ein von ihnen ausgewähltes, auf dem Infocamp aufgekommenes Thema für
+eine Hausarbeit. Auch dies soll den Studierenden direkt die
+Möglichkeiten, sich mittels Konferenzteilnahme in den bibliothekarischen
+Diskurs einzubringen, aufzeigen.
+
+#### Beispiel 3: Praxisprojekt im Modul "Bibliotheksmanagement"
+
+Im Modul Bibliotheksmanagement werden verschiedene Managementmethoden
+vermittelt, die im beruflichen Alltag - vor allem in leitender Funktion
+- eingesetzt werden können: neben traditionelleren Themen wie
+Personalmanagement oder strategischem Management auch neuere Aspekte wie
+Innovations- oder Change Management. Es handelt sich dabei also nicht um
+Forschungsmethoden im engeren Sinn. Ein wichtiges Element stellt jedoch
+die Praxisarbeit dar, die ins Modul integriert ist und den
+Leistungsnachweis darstellt. Dabei werden verschiedene Methoden
+kombiniert, um die Neuausrichtung einer Bibliothek zu konzipieren.
+Schwerpunkt bildet dabei das Raumkonzept, das an einem realen Beispiel
+und auf der Grundlage eines wirklichen Bedarfs einer Bibliothek
+entwickelt wird. Die Studierenden haben die Aufgabe - in der Regel in
+Form einer Gruppenarbeit - die Bibliothek und ihre Bedürfnisse zu
+analysieren und anschliessend eine oder mehrere Varianten für ein neues
+Bibliothekskonzept zu entwickeln. Bei der Visualisierung der Entwürfe
+erhalten sie Unterstützung durch einen Dozenten aus dem Fachbereich
+Architektur an der HTW Chur. Zum Abschluss werden die Vorschläge vor den
+Auftraggebern präsentiert. Durch die Arbeit an einem realen, konkreten
+Fall können verschiedenste Methoden kombiniert und angewandt werden. Der
+Lerneffekt ist sehr hoch - und die Praxisarbeit wird von den
+Studierenden meist sehr geschätzt, auch wenn sie einen verhältnismässig
+hohen Aufwand bedeutet. Im Rahmen der Curriculumsreform erhält das
+Praxisprojekt ein eigenes Modul, so dass eine noch vertieftere
+Auseinandersetzung mit dem Thema ermöglicht wird.
+
+#### Beispiel 4: Mystery Shopping im Teilmodul "Benutzerberatung"
+
+Im Modul "Sozialpsychologie und Benutzerberatung" wird die Methode
+Mystery Shopping zur Qualitätssicherung von Dienstleistungen eingeführt.
+Mystery Shopping geniesst zwar nicht unbedingt den Ruf einer streng
+wissenschaftlichen Methode, doch ist sie als teilnehmende Beobachtung
+durchaus ernstzunehmen. Im Unterricht wird das Untersuchungsdesign
+gemeinsam entwickelt. Somit können sich die Studierenden aktiv bei der
+Planung der Beobachtung (was wird beobachtet?) sowie bei der Definition
+der Kriterien (wie wird beobachtet? was wird bewertet?) einbringen. Da
+dieses Modul im Grundstudium unterrichtet wird, machen die Studierenden
+hier zum ersten Mal Erfahrungen mit einer eigenen Untersuchung. Die
+Ergebnisse sind durchaus positiv: die Studierenden berichten, dass sich
+durch die strukturierte Beobachtung des Auskunftsdienstes auch ihre
+eigene Wahrnehmung verändert hat. Sie betrachten nun die eigene
+Tätigkeit kritischer als zuvor - eine Rückmeldung aus den Reihen der
+Teilzeitstudierenden, die bereits in einer Bibliothek arbeiteten. Andere
+Studierende waren positiv überrascht von der Aufmerksamkeit, die ihrer
+kleinen Forschungsarbeit von Seiten der untersuchten Bibliothek zuteil
+wurde.
+
+#### Weitere Beispiele: Ausgewählte Bachelor- und Masterarbeiten in Bezug auf den Einsatz verschiedener Methoden
+
+Die Lehrenden an der HTW Chur haben einen, im Vergleich zu anderen
+Hochschulen, relativ hohen Einfluss auf die studentischen
+Abschlussarbeiten. Im Allgemeinen schlagen die Dozierenden Themen vor,
+aus denen sich die Studierenden ein ihnen zusagendes aussuchen. Eigene
+Vorschläge von Studierenden sind möglich, stellen aber Ausnahmen dar.
+Nach der Themenwahl besprechen die Studierenden das Konzept ihrer
+Arbeit, inklusive der Forschungsfragen und der gewählten
+Forschungsmethoden mit den für ihre Arbeit zuständigen Dozierenden,
+schreiben anschliessend auf dieser Basis ein Exposé, in dem sie Thema,
+Fragestellung, Thesen, Methoden und Zeitplan für ihre Abschlussarbeit
+darlegen. An dieses schliesst sich ein Kolloquium an, bei dem die
+einzelnen Studierenden sowohl ihren Mitstudierenden als auch den
+Dozierenden des Instituts ihr Vorhaben schildern und es im gemeinsamen
+Gespräch gegebenenfalls anpassen. Erst daran anschliessend erarbeiten
+und schreiben die Studierenden ihre Abschlussarbeit.[^9]
+
+##### Ausrichtung der Abschlussarbeiten auf Forschungsmethoden
+
+Nachdem durch die beiden Autoren 2012 die ersten Abschlussarbeiten an
+der HTW Chur betreut worden waren, wuchs bei ihnen ein gewisses
+Unbehagen. Einerseits besteht in diesem System immer die Gefahr, dass
+Dozierende zu sehr Einfluss auf die studentischen Arbeiten nehmen und
+die Studierenden gerade die Eigenständigkeit, die sie mit der Arbeit
+unter Beweis stellen sollen, nicht zeigen können. Andererseits
+tendierten die Studierenden zu den immer gleichen Methoden, insbesondere
+Umfragen und Expertinnen- und Experteninterviews. Dabei waren dies nicht
+unbedingt die jeweils sinnvollsten Methoden, um die Forschungsfragen der
+Studierenden zu untersuchen. Die Studierenden erhielten mit ihren
+Arbeiten zwar Ergebnisse, aber nicht unbedingt immer die sinnvollsten
+oder ausreichenden.
+
+In gemeinsamer Absprache wurde versucht, dieses Problem in den folgenden
+Abschlussarbeiten anzugehen. Dies ist auch möglich, da die beiden
+Autoren kontinuierlich die meisten Bachelorarbeiten am gesamten Institut
+betreuen. In den Ausschreibungen der Themen wurden seit 2013 nicht nur
+die zu untersuchende Fragestellung vorgeschlagen, sondern explizite
+Hinweise zu einer oder mehreren möglichen Forschungsmethoden gegeben.
+Gleichzeitig wurden die Studierenden in den Gesprächen zu ihren
+Abschlussarbeiten darauf hingewiesen, dass sie den Einsatz jeder Methode
+in den Exposés begründen müssen, insbesondere dann, wenn sie Umfragen
+oder Expertinnen- und Experteninterviews vornehmen wollten. Dabei wurden
+sie explizit auf die reichhaltige Literatur zu Forschungsmethoden, auch
+in anderen Fachgebieten, hingewiesen. Gerade bei jenen Studierenden, die
+das entsprechende Methodenseminar bei den beiden Autoren besucht hatten,
+stiessen die Vorschläge für die Anwendung neuartiger Methoden auf
+Interesse.
+
+Dieser an sich geringfügige Wechsel in der Betreuung der Arbeiten führte
+relativ schnell dazu, dass die Bachelorarbeiten eine grössere Palette an
+Methoden nutzten, dass diese Methoden in den Arbeiten relativ oft
+diskutiert und ihr Einsatz sinnvoll geplant wurde. Eine Anzahl von
+Arbeiten erhob sogar den Anspruch, bestimmte Methoden - insbesondere
+strukturierte Beobachtungen wie "Count-the-Traffic" oder "Sweeping the
+Floor" - fortzuschreiben. Offenbar sind die Studierenden am Ende des
+Studiums in der Lage, Methoden sinnvoll auf unterschiedliche
+Fragestellungen bezogen auszuwählen und selbstsicher genug, diese
+Methoden nicht einfach nur anzuwenden, sondern auch zu verändern.
+
+Die klare Einbindung von Forschungsmethoden in den Unterricht wird von
+den beiden Autoren erst seit einer kurzen Zeit vorgenommen. Erst Mitte
+2015 werden die ersten Studierenden ihr Studium an der HTW beenden, die
+während ihres gesamten Studiums mit diesem Ansatz unterrichtet
+wurden.[^10] Dennoch scheint sich bereits jetzt in einer Anzahl von
+Abschlussarbeiten diese Orientierung bemerkbar zu machen. Eine kurze
+Auswahl soll hier vorgestellt werden, um die Potentiale eines solchen
+Unterrichts zu verdeutlichen. Die Arbeiten nutzen alle unterschiedliche
+Methoden, die sie zum Teil fortschreiben, um Wissen zu generieren, das
+für die Bibliotheken neu und sinnvoll zu nutzen ist. Gleichzeitig zeigen
+sie Potentiale des Einsatzes von ausgewählten Forschungsmethoden für
+Bibliotheken auf. Im Rahmen der Forschungsstrategie im Schwerpunkt
+Digitale Bibliotheken werden die Autoren systematisch studentische
+Arbeiten als Vorstudien einbeziehen. Diese Arbeiten bilden dann einen
+Teil in der Forschungsaktivität im Bereich Bibliothekswissenschaft.
+
+##### Erste Ergebnisse: Beispiele aus einigen Abschlussarbeiten
+
+Sibylle Schlumpf untersuchte das NutzerInnenverhalten in der Pestalozzi
+Bibliothek Altstadt in Zürich mit Hilfe der Methode Count-the-Traffic.
+Im Ergebnis wurde gezeigt, dass bestimmte Altersgruppen bestimmte Zonen
+besonders nutzen (ältere Herren nutzen zum Beispiel die
+Zeitschriftenecke intensiv) und dass andere Nutzergruppen die für sie
+vorgesehenen Zonen nicht erwartungsgemäss in Anspruch nehmen - so
+blieben die Jugendlichen der Jugendzone im Untergeschoss weitgehend
+fern. Eine eingehende wissenschaftliche Untersuchung benötigte jedoch
+mehr Zeit als für eine Bachelor-Thesis zur Verfügung steht.[^11] In zwei
+Bachelorarbeiten wurden 2014 die verwandte Methode des Sweeping the
+Floor für Öffentliche und Wissenschaftliche Bibliotheken auf der Basis
+empirischer Ergebnisse erweitert.[^12] Mit einer Methodenkombination von
+Sweeping the Floor-Methode und Interviews eruierte Sayako Bissig die
+Nutzungsformen und Wahrnehmung eines bedienten und eines unbedienten
+Bibliothekscafés. Im Ergebnis konnte sie zeigen, dass Bibliothekscafés
+offenbar von den Nutzerinnen und Nutzern positiv als Öffnung der
+Bibliothek wahrgenommen werden und auch dazu beitragen, dass
+Bibliotheken flexibler genutzt werden, sie aber die Zahl der Nutzerinnen
+und Nutzer einer Bibliothek nicht relevant verändern.[^13]
+
+Andrea Breu untersuchte mit einer teilnehmenden Beobachtung das
+Verhalten von Familien in der St. Galler Freihandbibliothek. Hier sollte
+die Frage untersucht werden, ob erwachsene Begleitpersonen von Kindern
+während ihres Besuchs auch die Angebote für Erwachsene nutzen. Als Fazit
+konnte festgestellt werden, dass dies vor allem die Väter tun, wenn sie
+ihre Kinder in die Bibliothek begleiten. Ansonsten lassen sich Bestände
+für die Zielgruppen Kinder und Erwachsene auch gut trennen, so wie das
+in St. Gallen aktuell geplant ist.[^14]
+
+Die strukturierte Beobachtung wandte Felix Hüppi in seiner Master-Thesis
+zum Nutzungsverhalten in wissenschaftlichen Bibliotheken an. Auch wenn
+die Beobachtungssequenz relativ kurz war, zeitigte sie aufschlussreiche
+Ergebnisse. Auffällig war, dass die in der Bibliothek lernenden oder
+arbeitenden Studierenden sich ganz an den Rhythmus des Stundenplans
+anpassten. Sie pausierten zeitgleich mit den Unterrichtszeiten. Für die
+kurze Erholung verliessen sie jeweils die Bibliothek - vermutlich um
+Mitstudierende zu treffen, die ebenfalls in der Pause waren. Aufgrund
+dieser Beobachtung stellte Felix Hüppi die These auf, dass
+Hochschulbibliotheken kaum als Dritter Ort genutzt werden und sie sich
+eher darauf konzentrieren sollten, ein attraktiver Ort zum Arbeiten
+(also ein zweiter Ort) zu sein. Diese These wiederum wurde von den
+Autoren für das Methodenseminar im Frühjahrssemester 2015 aufgegriffen
+(siehe oben).[^15]
+
+Lucas Althaus nutzte für seine Bachelor-Thesis die Methode der
+qualitativen Statistik, um ausgehend von den Kennzahlen der Schweizer
+Bibliotheksstatistik den Einfluss der Einführung eines Angebots von
+E-Books in Öffentlichen Bibliotheken auf die physische Ausleihe von
+Medien zu untersuchen. Die Ausgangslage präsentierte sich als
+unvollständig, zumal sich bei weitem nicht alle Schweizer Kantone an der
+Bibliotheksstatistik beteiligen. Ein Manko dieser Erhebung besteht zudem
+darin, dass keine konsolidierten Zahlen zur Nutzung von E-Books erhoben
+werden und dass auch die Zahl der Besucherinnen und Besucher einer
+Bibliothek (nicht nur die Ausleihen oder die Zahl der eingeschriebenen
+aktiven Nutzerinnen und Nutzer) nicht flächendeckend erfasst wird. Bei
+den digitalen Plattformen für E-Books (de facto handelt es sich mit der
+Onleihe um genau ein Produkt) lassen sich wiederum die Nutzungszahlen -
+so weit sie überhaupt zur Verfügung gestellt werden - nicht für die
+einzelnen Bibliotheken eruieren, sondern müssen auf der Ebene der
+Verbünde oder Konsortien betrachtet werden. Auch wenn also die
+Ausgangslage nicht optimal für eine solche Fragestellung war, konnte
+Lucas Althaus als Trend klar zeigen, dass die Einführung eines
+E-Book-Angebots keine direkten Auswirkungen auf die Ausleihzahlen der
+jeweiligen Bibliothek hat.[^16]
+
+Mit Usability-Methoden, die sie auf die E-Books-Angebote von
+Bibliotheken anwandte, befasste Farah Aeschlimann sich in ihrer
+Bachelor-Thesis. Dabei ging es nicht darum, einzelne Angebote zu prüfen,
+sondern ein Instrument für die Evaluierung der Usability von
+Bibliothekswebsites, die am Schweizerischen Institut für
+Informationswissenschaft entwickelt wurde (CHEVAL), auf die
+E-Book-Angebote zu übertragen. Im Ergebnis wurden Kriterien erarbeitet,
+mit denen dieser Selbsttest für Bibliotheken ergänzt werden soll.[^17]
+
+Ruth Süess wandte für ihre Master-Thesis die Methode der Szenariotechnik
+an, um zu untersuchen, inwiefern sich diese für die strategische Planung
+einer Hochschulbibliothek eignet. Sie kam zu einem durchaus positiven
+Fazit, obschon sich herausstellte, dass die Methode, konsequent
+eingesetzt, sehr aufwändig ist. Eine besondere Herausforderung bei der
+Szenariotechnik ist es, die negativen Szenarien mit derselben Konsequenz
+durchzuspielen wie die positiven. Entsprechend benannte die Autorin
+diese Szenarien nicht als negative, sondern als herausfordernde.
+Ansonsten besteht die Gefahr, dass unliebsame Vorstellungen (zum
+Beispiel die Schliessung einer Bibliothek) als mögliche Ergebnisse
+einfach ausgeblendet werden.[^18]
+
+### Fazit
+
+Die Autoren dieses Textes binden seit einiger Zeit in ihrer Lehre im
+Bereich Bibliothekswissenschaft an der HTW Chur die Vermittlung von
+verschiedenen Forschungsmethoden ein. Diese Einbindung beschränkt sich
+nicht auf das Vorstellen der Methoden, sondern beinhaltet zumeist das
+Ausprobieren und die kritische Reflexion derselben.
+
+Grundsätzlich ist die Integration solcher Methoden, den Erfahrungen der
+Autoren nach, einfach und im Rahmen zahlreicher Themen sinnvoll möglich.
+Ebenso sind Studierende in der Lage, die Grundüberlegungen
+unterschiedlicher Methoden schnell zu erfassen, diese Methoden, wenn
+auch in vereinfachter Form, direkt anzuwenden und ihre Grenzen sowie
+Potentiale zu reflektieren. Dabei kommt der Lehre zu Gute, dass sich ein
+Grossteil der Studierenden im Anschluss an ihre Ausbildung keiner
+wissenschaftlichen Karriere zuwenden werden, sondern Positionen in
+Bibliotheken, oft Projektstellen, besetzen werden. Auf diesen Stellen
+können sie Methoden einigermassen offen einsetzen und sind nicht den
+gleichen Restriktionen unterworfen, wie in wissenschaftlichen
+Anwendungsfällen. Dennoch profitieren sie von der Schulung im kritischen
+Denken, die mit der Methodenlehre einhergeht, und der Einführung in das
+wissenschaftliche Denken, insbesondere dem Selbstvertrauen, in
+Situationen mit unzureichenden Informationen Entscheidungen zu treffen,
+Thesen und Aussagen zu formulieren und zu handeln.
+
+Die Motiviation der Studierenden, aber auch die Qualität und
+Aussagekraft der Abschlussarbeiten scheint sich durch dieses Vorgehen
+erhöht zu haben. Gleichzeitig fühlen sich auch die beiden Autoren durch
+den geschilderten offenen Methodenunterricht herausgefordert und
+motiviert. Dieser Unterricht bedeutet für die Autoren ebenfalls, sich
+selbst ständig mit Methoden und Methodenentwicklungen
+auseinanderzusetzen, mit den Studierenden zusammen, trotz thematischer
+Wiederholungen, immer wieder neue Ergebnisse zu erarbeiten und offene
+Diskussionen über die einzelnen Methoden zu führen. Dabei ist auch das
+praktizierte Teamteaching der beiden Autoren von Vorteil, da sie so in
+Diskussionen ihre manchmal gegenteiligen Meinungen darlegen können. Dies
+soll den Studierenden auch verdeutlichen, dass alle Methoden und alle
+Ergebnisse im bibliothekarischen Diskurs zur Diskussion stehen.
+Grundsätzlich ist also, bei allen Einschränkungen, ein positives Fazit
+zu ziehen.
+
+Offen bleibt, ob es gelingen wird, die Studierenden auf lange Sicht zu
+einer Beteiligung am bibliothekarischen Diskurs zu motivieren. Dies ist
+zur Zeit nicht der Fall, auch wenn an der HTW Chur eine erstaunliche
+Anzahl von Publikationsorganen verankert ist - im Schweizerischen
+Institut für Informationswissenschaft arbeiten Redakteure der LIBREAS.
+Library Ideas (einer der Autoren des Textes), der Informationspraxis
+(der andere Autor des Textes), der B.I.T. online und des Beirats der
+Medien & Alter, zudem bestehen personell kurze Wege zum schweizerischen
+Fachorgan Arbido (mehrere ehemalige Mitarbeitende) - auf die im
+Unterricht des Öfteren verwiesen wird. Eine weitere
+Publikationsmöglichkeit bietet das Blog des Instituts,[^19] die durchaus
+häufiger genutzt werden könnte. Eventuell muss dazu das Schreiben von
+Artikeln und Referaten als Mittel zur Beteiligung an Diskussionen
+explizit in der Lehre verankert werden.
+
+Ebenso müssen die Studierenden auch die Möglichkeit erhalten, ihre
+Fähigkeiten im Berufsalltag einzubringen. Dazu bedarf es noch einer
+Öffnung seitens der schweizerischen Bibliotheken hin zu einer durch
+wissenschaftliche Methoden untermauerte Berufspraxis. Auch ist es
+überdies die Aufgabe der HTW Chur, diesen Einrichtungen bekannt zu
+machen, über welche Kompetenzen die Studierenden am Ende des Studiums
+verfügen und wie deren Fähigkeiten dazu beitragen, dass Bibliotheken
+stets am Puls der Zeit agieren und sich so in die verändernde
+Gesellschaft integrieren können.
+
+Nicht zuletzt verbleibt das, was in der Lehre an Methodenwissen
+vermittelt werden kann, auf einer allgemeinen Ebene. Letztlich haben die
+Autoren die Hoffnung, dass die Studierenden ermutigt werden, nach dem
+Studium den Einsatz verschiedener Methoden zu erproben. An der HTW Chur
+sollen sie dazu das Grundwissen beziehungsweise übergreifende
+Kompetenzen erwerben. Angesichts der hohen Arbeitslast der Studierenden
+während des Studiums ist dies nicht anders möglich.
+
+Insoweit ist die Einbindung von Forschungsmethoden in die Lehre kein
+Ersatz für eine aktive Methoden- und Theorieentwicklung. Diese muss
+anderswo stattfinden, die Lehre kann nur auf deren Ergebnisse
+zurückgreifen.
+
+[^1]: Nicht berücksichtigt sind dabei verschiedene Angebote im tertiären
+    Weiterbildungsbereich mit berufsbegleitenden Master-Studiengängen an
+    der HTW Chur (MAS), der Universität und Zentralbibliothek Zürich
+    (MAS), den Universitäten Lausanne und Bern (MALIS).
+
+[^2]: Vergleiche <http://www.kti.admin.ch>
+
+[^3]: Zwei Dinge sind anzumerken. Zum einen ist für einen Teil der
+    Studierenden das Studium an der HTW nicht die erste Ausbildung. Eine
+    grosse Zahl der Studierenden ist aus anderen Berufen in Bibliotheken
+    gewechselt oder plant diesen Wechsel und nutzt das Studium als
+    Aufstiegsweiterbildung. Dabei haben viele Studierende schon Berufe
+    verlassen, die sie offenbar als monoton und ohne Zukunftsperspektive
+    angesehen haben, beispielsweise eine erstaunliche grosse Anzahl von
+    Buchhändlern und Buchhändlerinnen. Diesen Studierenden wieder
+    einfach feststehende Wissensbestände zu vermitteln, nur auf
+    Bibliotheken bezogen, würde ihren Interessen widersprechen. Zum
+    anderen ist das Studium nicht einfach nur als Wissenszuwachs zu
+    begreifen. Die Studierenden sind mindestens drei Jahre mit ihrem
+    Studium beschäftigt, das heisst auch, dass sie sich in dieser Zeit
+    verändern, ihre Persönlichkeit (neu) ausrichten. Obwohl dies bei den
+    Diskussionen um Curriculareformen und dem Bachelor-/Mastersystem oft
+    vergessen geht, ist jedes Studium selbstverständlich auch eine
+    Passage im Leben. Die Studierenden am Anfang des Studiums sind
+    andere Menschen als die am Ende des Studiums. Akzeptiert man dies,
+    steigt die Verantwortung der akademischen Einrichtungen für die
+    jeweiligen Studierenden. Die Autoren des Textes versuchen in ihrer
+    Lehre auf diese Verantwortung zu reagieren.
+
+[^4]: Was, in gewisser Weise ironisch, ein Handeln in einer Situation
+    mit unvollständigem Wissen darstellt. Offenbar wird jede
+    Entscheidung im Bezug auf das Studium von den potentiellen
+    Arbeitgeberinnen und Arbeitsgebern sowohl begrüsst als auch
+    abgelehnt; ob potentielle Studierende das überhaupt wahrnehmen oder
+    ob das für ihre Studienentscheidung relevant ist, ist nicht bekannt.
+    Insoweit liegt die Verantwortung für die Entscheidung bei den
+    Dozierenden, da das Umfeld kein eindeutiges Bild von der notwendigen
+    Weiterentwicklung zeichnet. Auch dies ist eine Situation, die
+    vielleicht unbefriedigend ist, wenn die Fachhochschule als
+    Dienstleister für die Wirtschaft - oder hier die Bibliotheken -
+    angesehen wird; wie das Teile der schweizerischen Bildungspolitik zu
+    tun scheinen. Aber es ist eine realistische Situation, welche den
+    Unterrichtenden Möglichkeiten zur Gestaltung bietet.
+
+[^5]: Abgesehen davon, dass nicht klar ist, wie in diesem System die
+    Ergebnisse der Forschung in die Lehre einfliessen sollen. Dies kann
+    nur sehr zufällig - wenn die Dozierenden eines Moduls zufällig an
+    Projekten arbeiten, die genau zum Modul passen - oder sehr
+    zeitverzögert nach einigen Jahren erfolgen. Sichtbar ist, dass die
+    HTW, genauso wie viele andere schweizerische Fachhochschulen, aus
+    einer Höheren Fachschule erwachsen ist und bislang offenbar noch
+    nicht dem akademischen Ideal der Einheit von Forschung und Lehre
+    folgt. Dass die Fachhochschulen in der Schweiz trotzdem zur
+    Forschung angehalten werden und darauf Wert gelegt wird, dass die
+    Forschenden auch unterrichten, ist einer der Widersprüche dieser
+    Einrichtungen.
+
+[^6]: Dieses Problem stellt sich tatsächlich mit einem Fach, das von
+    beiden Autoren unterrichtet wird und von dessen Sinnhaftigkeit die
+    Dozierenden nicht überzeugt sind. Wenig überraschend wird dieses
+    Fach auch durch die Studierenden regelmässig unterdurchschnittlich
+    bewertet. Da aber dieses Fach im Studienplan ausgeschrieben ist und
+    somit die Studierenden einen Anspruch auf eine Durchführung haben,
+    kann es nicht einfach ersetzt werden. Mit der kommenden
+    Curriculumsreform wird das Fach wegfallen, da sich die beiden
+    Autoren dafür stark gemacht haben. Die starre Struktur des
+    Studiengangs hemmt somit die Innovation in der Lehre, was aus Sicht
+    der Autoren typisch für das stark verschulte Studium an Schweizer
+    Fachhochschulen ist.
+
+[^7]: Strukturell gesehen könnte damit die praxisorientierte Forschung,
+    die bislang an den Fachhochschulen verortet wird, mehr in den
+    Bibliotheken selber betrieben werden. Wäre eine ausreichende
+    Forschungsfinanzierung gegeben, könnten die Fachhochschulen sich
+    dann mit einer theoriegetriebenen Forschung befassen und somit den
+    Wissensstand, auf dem praxisorientierte Forschung fussen soll,
+    massiv erhöhen.
+
+[^8]: Dabei wurde es im Rahmen des Seminars notwendig, den Studierenden
+    zu untersagen, zu jeder Forschung und Forschungsfrage als Methode
+    Umfragen vorzuschlagen. Offenbar tendieren nicht nur Bibliotheken,
+    sondern auch Studierende dazu, diese Methode als naheliegendste
+    anzusehen.
+
+[^9]: Dieses Vorgehen gilt vor allem für die Bachelorarbeiten. Vor allem
+    der Berufsbegleitende MAS-Abschluss verzichtet auf das Kolloquium,
+    dafür kann die Betreuung durch die Dozierenden enger sein.
+
+[^10]: Wobei es wichtig ist, noch einmal zu betonen, dass die beiden
+    Autoren lediglich eine Anzahl von Modulen unterrichten. Andere
+    Lehrende, welche die gleichen Studierenden unterrichten, setzen in
+    ihrem Unterricht selbstverständlich andere Schwerpunkte.
+
+[^11]: Schlumpf, Sibylle (2013). Neue Raumkonzepte in Schweizer
+    Öffentlichen Bibliotheken - Erfahrungen aus einem Bibliotheksumbau
+    am Beispiel der Bibliothek Altstadt. Bachelorarbeit, HTW Chur.
+
+[^12]: Jenni, Stephanie (2014). Zonierungskonzepte in Öffentlichen
+    Bibliotheken: Anwendung und Nutzung in sechs Öffentlichen
+    Bibliotheken in der Deutschschweiz. Bachelorarbeit, HTW Chur.
+    Völker, Edith (2014). Arbeitszonen und Arbeitsräume in
+    Wissenschaftlichen Bibliotheken: Entwurf einer Methode zur
+    Beobachtung des Nutzerverhaltens in Wissenschaftlichen Bibliotheken.
+    Bachelorarbeit, HTW Chur.
+
+[^13]: Bissig, Sayako (2014). Das Bibliothekscafé als dritter Ort:
+    Praxis-Untersuchung über den Zusammenhang und die
+    Beeinflussungsmöglichkeiten zwischen einer öffentlichen Bibliothek
+    und einem Café in den Stadtbibliotheken Aarau und Baden.
+    Bachelorarbeit, HTW Chur.
+
+[^14]: Breu, Andrea (2014). Familien in der Bibliothek: Eine Fallanalyse
+    der Freihandbibliothek St. Gallen. Bachelorarbeit, HTW Chur.
+
+[^15]: Hüppi, Felix (2014). Lernraum Bibliothek: Theorie und Schweizer
+    Praxis mit Umsetzungsbeispiel für die neue Campusbibliothek Muttenz
+    der FHNW. Masterarbeit, HTW Chur.
+
+[^16]: Althaus, Lucas (2014). Der Einfluss ihrer Digitalen
+    Bibliotheksportale auf die Öffentlichen Bibliotheken der Schweiz.
+    Bachelorarbeit, HTW Chur.
+
+[^17]: Aeschlimann, Farah (2014). Usability von E-Book-Angeboten
+    wissenschaftlicher Bibliotheken - Entwicklung eines
+    Kriterienkatalogs. Bachelorarbeit, HTW Chur.
+
+[^18]: Süess, Ruth (2014). Szenario-Technik: Entwickeln von
+    Zukunftsszenarien am Beispiel einer Universitätsbibliothek.
+    Masterarbeit, HTW Chur.
+
+[^19]: Vergleiche <http://blog.informationswissenschaft.ch>.
+
