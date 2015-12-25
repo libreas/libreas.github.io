@@ -667,7 +667,7 @@ Analyse zeigen.
     Bibliotheksdarstellungen im Film. Ein Analysemodell und vier
     Fallbeispiele. In: Perspektive Bibliothek, 1 (2012), online
     verfügbar unter:
-    <http://journals.ub.uni-heidelberg.de/index.php/bibliothek/article/view/9399>
+    <http://journals.ub.uni-heidelberg.de/index.php/bibliothek/article/view/9399>.
 
 [^2]: In diesem Artikel wird für die Berufsbezeichnung Bibliothekar die
     männliche Form gewählt.
@@ -683,40 +683,40 @@ Analyse zeigen.
     transcript-Verlag. "Die Analyse des Komischen als soziales,
     kulturelles oder psychologisches Phänomen ermöglicht gleichzeitig
     auch die Analyse bestimmter gesellschaftlicher Strukturen, nämlich
-    jener, die im Komischen thematisiert werden."(S. 17)
+    jener, die im Komischen thematisiert werden."(S. 17).
 
 [^5]: Schmidt, Siegfried J. (2005): Objektivität als Medienritual. In:
-    cover 5 (2005), S. 84
+    cover 5 (2005), S. 84.
 
 [^6]: Groebel, Jo (2014): Das neue Fernsehen. Mediennutzung, Typologie,
-    Verhalten. Wiesbaden: Springer, S. 7
+    Verhalten. Wiesbaden: Springer, S. 7.
 
-[^7]: Holly, Werner (2004): Fernsehen. Tübingen: Niemeyer, S. 81
+[^7]: Holly, Werner (2004): Fernsehen. Tübingen: Niemeyer, S. 81.
 
 [^8]: vgl. Mikos, Lothar (2003): Film- und Fernsehanalyse. Konstanz:
-    UVK-Verlags-Gesellschaft, S. 21
+    UVK-Verlags-Gesellschaft, S. 21.
 
 [^9]: Keppler, Angela (2006): Mediale Gegenwart: eine Theorie des
     Fernsehens am Beispiel der Darstellung von Gewalt. Frankfurt a.M.:
-    Suhrkamp, S. 10
+    Suhrkamp, S. 10.
 
-[^10]: Holly (2004), S. 8
+[^10]: Holly (2004), S. 8.
 
-[^11]: Holly (2004), S. 76
+[^11]: Holly (2004), S. 76.
 
-[^12]: Holly (2004), S. 78
+[^12]: Holly (2004), S. 78.
 
-[^13]: Groebel (2014), S.9
+[^13]: Groebel (2014), S.9.
 
 [^14]: Zubayr, Camille; Gerhard, Heinz (2014): Tendenzen im
     Zuschauerverhalten. Fernsehgewohnheiten und Fernsehreichweiten im
     Jahr 2014. In: Media Perspektiven. 3 (2015), S. 114. Online
     verfügbar unter:
     <http://www.ard-werbung.de/media-perspektiven/publikationen/fachzeitschrift/2015/heft-3/>
-    (letzter Zugriff: 12.10.2015)
+    (letzter Zugriff: 12.10.2015).
 
 [^15]: Früh, Werner (2015): Inhaltsanalyse. Theorie und Praxis. 8.,
-    überarb. Aufl. Konstanz: UVK Verlagsges., S. 29
+    überarb. Aufl. Konstanz: UVK Verlagsges., S. 29.
 
 [^16]: Die Folge "die Menschenflüsterin" aus der Sitcom "Two and a half
     men" lief seit der Erstausstrahlung im Februar 2013 auf Pro7 dort 18
@@ -728,67 +728,67 @@ Analyse zeigen.
     Programmforschung und Programmdiskurs. Hrsg.: die Medienanstalten,
     ALM GbR. Leipzig: vistas, S. 49 Online verfügbar unter:
     <http://www.die-medienanstalten.de/publikationen/programmbericht.html>
-    (letzter Zugriff: 10.10.2015)
+    (letzter Zugriff: 10.10.2015).
 
 [^18]: Die Programmstruktur der fünf größten deutschen Sender (ARD, ZDF,
     RTL, Sat1, Pro7) wird regelmäßig analysiert. S. Krüger, Udo Michael
     (2015): Profile deutscher Fernsehprogramme. Tendenzen in der
-    Angebotsentwicklung. In: Media Perspektiven. 3 (2015), S. S. 146
+    Angebotsentwicklung. In: Media Perspektiven. 3 (2015), S. S. 146.
 
-[^19]: Krüger (2015), S. 153
+[^19]: Krüger (2015), S. 153.
 
-[^20]: vgl. Krüger (2015), S. 161/162
+[^20]: vgl. Krüger (2015), S. 161/162.
 
 [^21]: Faulstich, Werner (2008): Grundkurs Fernsehanalyse. Paderborn:
-    Fink, S. 58
+    Fink, S. 58.
 
-[^22]: Holly (2004), S. 65
+[^22]: Holly (2004), S. 65.
 
 [^23]: "Quo vadis Mensch? : In "Der kaltwütige Herr Schüttlöffel"
     spielt Kabarettist ThomasFreitag einen Bibliothekar und beklagt sich
-    über zunehmenden Kulturverfall", In: BuB Jg. 67, 1 (2015), S. 69
+    über zunehmenden Kulturverfall", In: BuB Jg. 67, 1 (2015), S. 69.
 
 [^24]: 37 Sendungen wurden vor 2005 produziert und sind damit älter als
-    Libreas :-)
+    Libreas :-).
 
 [^25]: Vgl. Koebner, Thomas (Hrsg.) (2007): Reclams Sachlexikon des
     Films, 2. aktualisierte und erw. Aufl. Stuttgart: Philipp Reclam
-    jun., S. 158
+    jun., S. 158.
 
-[^26]: Koebner (2007), S. 160
+[^26]: Koebner (2007), S. 160.
 
 [^27]: Bibliothek 2007 – Internationale Best-Practice-Recherche (2004).
     Hrsg.: Bertelsmann Stiftung, Bundesvereinigung Deutscher
-    Bibliotheksverbände e.V. Gütersloh: Bertelsmann Stiftung, S. 7
+    Bibliotheksverbände e.V. Gütersloh: Bertelsmann Stiftung, S. 7.
 
 [^28]: US-Bibliotheken verstehen sich als Teil der Gesellschaft, "sie
     sind Teil des sozialen Umfelds. "Angebot und Image sind von
     Einwohnern der Kommune geprägt." Courzakis, Irini (2006): "Der
     "American way of Library" : US-Bibliotheken als Treffpunkt,
-    Servicecenter und Bildungsstätte", In: BuB 58 (2006) 11/12, S. 760
+    Servicecenter und Bildungsstätte", In: BuB 58 (2006) 11/12, S. 760.
 
 [^29]: Simon, Elisabeth (1988): Bibliothekswesen in den USA. München:
-    Saur, S. 31
+    Saur, S. 31.
 
 [^30]: Bibliothek 2007 – Internationale Best-Practice-Recherche (2004),
-    S. 48
+    S. 48.
 
-[^31]: Koebner (2007), S. 160
+[^31]: Koebner (2007), S. 160.
 
-[^32]: Vgl. Koebner (2007), S. 156/S. 157
+[^32]: Vgl. Koebner (2007), S. 156/S. 157.
 
-[^33]: Koebner (2007), S. 157
+[^33]: Koebner (2007), S. 157.
 
-[^34]: Koebner (2007), S. 160
+[^34]: Koebner (2007), S. 160.
 
 [^35]: Räwel, Jörg (2005): Humor als Kommunikationsmedium. Konstanz: UVK
-    Verl.ges., S. 15
+    Verl.ges., S. 15.
 
-[^36]: Räwel (2005), S. 16
+[^36]: Räwel (2005), S. 16.
 
 [^37]: als "[…] Mittel der Kritik am Paternalismus wird Behinderung
     heute als komisch inszeniert. […] In der mitteleuropäischen und der
     amerikanischen Gesellschaft stellt die komische Darstellung von
     Behinderung jedenfalls kein Tabu mehr dar." Aus: Gottwald, Claudia
     (2009): Lachen über das Andere. Eine historische Analyse komischer
-    Repräsentation von Behinderung. Bielefeld: transcript-Verl., S. 296
+    Repräsentation von Behinderung. Bielefeld: transcript-Verl., S. 296.

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://libreas.eu/sitemap.xml 
+Sitemap: http://libreas.github.io/sitemap.xml 

@@ -109,9 +109,9 @@ Universitätsbibliotheken nicht gehen soll?
 
 In dem gerade publizierten "Horizon Report \>Library Edition"[^4] steht
 als eines von zwei Langzeit-Trends für wissenschaftliche Bibliotheken:
-”increasing the accessibility of research content". Dieser Ausdruck kann
+"increasing the accessibility of research content". Dieser Ausdruck kann
 nur den technischen Zugang zum Inhalt der Forschung meinen, aber das
-Verb ”to make accessible" bedeutet auch "erschließen", worauf ich mich
+Verb "to make accessible" bedeutet auch "erschließen", worauf ich mich
 beziehen möchte. Mich interessiert primär die inhaltliche
 Verschlagwortung oder Indexierung, weil sie die Inhalte der einzelnen
 Disziplinen zum Gegenstand hat und damit das inhaltliche Potential der
@@ -451,8 +451,8 @@ wird, liefert das möglicherweise Analogien dafür, wie wir die weitere
 Nutzung dieses Wissen (Haraway) effektiver ermöglichen können und vor
 allem darüber, wie wir Forderungen an die Informationstechnik genauer
 formulieren können. Im erwähnten Horizon-Bericht werden neben lösbaren
-und schweren auch zwei ”wicked challenges" benannt: ”Managing Knowledge
-Obsolescence" (sicher auch der Irrtümer) und ”Embracing the Need for
+und schweren auch zwei "wicked challenges" benannt: "Managing Knowledge
+Obsolescence" (sicher auch der Irrtümer) und "Embracing the Need for
 Radical Change". Und da ist sie wieder, die notwendige radikale
 Änderung! Sie erfordert neue Wertigkeiten, neue Optiken -– und hier kann
 auch die Geschlechterforschung ihre Expertise anbieten:
@@ -749,7 +749,7 @@ Alle Internetquellen wurden am 28.08.2015 letztmalig geprüft.
 [^15]: Original: "What we are doing is comparable to Copernicus
     shattering our geo-centricity, Darwin shattering our
     species-centricity. We are shattering andro-centricity, and the
-    change is as fundamental, as dangerous, as exiting.” (Übersetzung im
+    change is as fundamental, as dangerous, as exiting." (Übersetzung im
     Text von K.A.).
 
 [^16]: <https://www.ph-freiburg.de/hochschule/zentrale-einrichtungen/bibliothek/suchen/fachgebiete/gender1.html>.
