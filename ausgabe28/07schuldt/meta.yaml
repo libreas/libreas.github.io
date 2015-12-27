@@ -9,7 +9,7 @@
 	<meta name="author" content="LIBREAS. Library Ideas">
 
 	<!--
-	<meta name="description" content="> > > LIBREAS. Library Ideas # 28 Der Blick zweier Disziplinen auf eine Bibliothek Karsten Schuldt &amp; Rudolf Mumenthaler Zitiervorschlag Karsten &hellip;">
+	<meta name="description" content="> > > LIBREAS. Library Ideas # 28 Der Blick zweier Disziplinen auf eine Bibliothek Karsten Schuldt (Text), Rudolf Mumenthaler (Bild) Zitiervorschlag &hellip;">
 	 -->
 
 <!-- RDFa DC -->
@@ -20,9 +20,9 @@
     
     
     
-    <meta property="dc:creator" content="Karsten Schuldt" />
+    <meta property="dc:creator" content="Karsten Schuldt (Text)" />
     
-    <meta property="dc:creator" content="Rudolf Mumenthaler" />
+    <meta property="dc:creator" content="Rudolf Mumenthaler (Bild)" />
     
     
     
@@ -161,11 +161,11 @@ ga('send', 'pageview');
             
             
             
-            <i itemprop="author">Karsten Schuldt</i>
+            <i itemprop="author">Karsten Schuldt (Text), </i>
             
             
             
-            <i>&amp;</i> <i itemprop="author">Rudolf Mumenthaler</i>
+            <i itemprop="author">Rudolf Mumenthaler (Bild)</i>
             
             
         </div>
@@ -187,11 +187,11 @@ ga('send', 'pageview');
             <br>
             
             
-            Karsten Schuldt,
+            Karsten Schuldt (Text),
             
             
             
-            Rudolf Mumenthaler,
+            Rudolf Mumenthaler (Bild),
             
             "Der Blick zweier Disziplinen auf eine Bibliothek". <i itemprop="provider">LIBREAS. Library Ideas</i>, 28 (<span itemprop="datePublished">2015</span>). <a itemprop="url" href="http://libreas.github.io/ausgabe28/07schuldt/meta.yaml">http://libreas.github.io/ausgabe28/07schuldt/meta.yaml</a>
         </small>
@@ -224,7 +224,7 @@ ga('send', 'pageview');
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2015-12-26</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2015-12-27</a>)</p>
 
 </footer>
 

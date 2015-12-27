@@ -196,8 +196,6 @@ Stadtentwicklung. Zahlreiche aktuelle Beispiele zeigen aber, dass
 von Architekten, Stadtplanern oder anderen Stakeholdern der Bibliothek
 instrumentalisiert wird.
 
----
-
 Mit der Setzung der Bibliothek als Ort, Raum und Beziehungskatalysator
 ist nun allerdings noch nicht erklärt, warum diese behauptete (neue)
 Rollenzuschreibung vor allem auch in ihrer Komplexität funktioniert. Sie

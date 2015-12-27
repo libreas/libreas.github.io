@@ -169,27 +169,27 @@ ga('send', 'pageview');
             
             
             
-            <i itemprop="author">Nathalie Vallet</i>
+            <i itemprop="author">Nathalie Vallet, </i>
             
             
             
-            <i>,</i> <i itemprop="author">Inge Somers</i>
+            <i itemprop="author">Inge Somers, </i>
             
             
             
-            <i>,</i> <i itemprop="author">Michel Corthaut</i>
+            <i itemprop="author">Michel Corthaut, </i>
             
             
             
-            <i>,</i> <i itemprop="author">Helga Spaey</i>
+            <i itemprop="author">Helga Spaey, </i>
             
             
             
-            <i>,</i> <i itemprop="author">Arjaan De Feyter</i>
+            <i itemprop="author">Arjaan De Feyter, </i>
             
             
             
-            <i>&amp;</i> <i itemprop="author">Johan Praet</i>
+            <i itemprop="author">Johan Praet</i>
             
             
         </div>
@@ -264,7 +264,7 @@ ga('send', 'pageview');
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2015-12-26</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2015-12-27</a>)</p>
 
 </footer>
 

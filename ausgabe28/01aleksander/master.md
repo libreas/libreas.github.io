@@ -305,7 +305,7 @@ mehr gelöst werden. Flüssigmachen kann diese alte Ordnung vor allem das
 Denken selbst. Wenn es sich seiner eigenen Beschränktheiten wieder
 bewusst wird.
 
-Was ist damit gemeint?\
+Was ist damit gemeint?
 Das lässt sich zum Beispiel an der Entwicklung vom geozentrischen zum
 heliozentrischen Weltbild erläutern. Heute vertreten nur sehr wenige
 Personen das geozentrische Weltbild, dass sich die Sonne um die Erde im
