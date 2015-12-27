@@ -165,11 +165,11 @@ ga('send', 'pageview');
             
             
             
-            <i itemprop="author">Karsten Schuldt, </i>
+            <i itemprop="author">Karsten Schuldt</i>
             
             
             
-            <i itemprop="author">Rudolf Mumenthaler</i>
+            <i>&amp;</i> <i itemprop="author">Rudolf Mumenthaler</i>
             
             
         </div>

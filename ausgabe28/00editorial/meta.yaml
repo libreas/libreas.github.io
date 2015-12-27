@@ -9,7 +9,7 @@
 	<meta name="author" content="LIBREAS. Library Ideas">
 
 	<!--
-	<meta name="description" content="> > > LIBREAS. Library Ideas # 28 Editorial #28: Das Bild der Bibliothek Redaktion LIBREAS, Zitiervorschlag Redaktion LIBREAS, "Editorial #28: Das &hellip;">
+	<meta name="description" content="> > > LIBREAS. Library Ideas # 28 Editorial #28: Das Bild der Bibliothek Redaktion LIBREAS Zitiervorschlag Redaktion LIBREAS, "Editorial #28: Das &hellip;">
 	 -->
 
 <!-- RDFa DC -->
@@ -159,7 +159,7 @@ ga('send', 'pageview');
             
             
             
-            <i itemprop="author">Redaktion LIBREAS, </i>
+            <i itemprop="author">Redaktion LIBREAS</i>
             
             
         </div>

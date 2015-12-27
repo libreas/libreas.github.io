@@ -165,11 +165,11 @@ ga('send', 'pageview');
             
             
             
-            <i itemprop="author">Corinna Haas, </i>
+            <i itemprop="author">Corinna Haas</i>
             
             
             
-            <i itemprop="author">Beate Rusch</i>
+            <i>&amp;</i> <i itemprop="author">Beate Rusch</i>
             
             
         </div>

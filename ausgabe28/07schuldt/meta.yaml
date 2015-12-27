@@ -9,7 +9,7 @@
 	<meta name="author" content="LIBREAS. Library Ideas">
 
 	<!--
-	<meta name="description" content="> > > LIBREAS. Library Ideas # 28 Der Blick zweier Disziplinen auf eine Bibliothek Karsten Schuldt (Text), Rudolf Mumenthaler (Bild) Zitiervorschlag &hellip;">
+	<meta name="description" content="> > > LIBREAS. Library Ideas # 28 Der Blick zweier Disziplinen auf eine Bibliothek Karsten Schuldt (Text) &amp; Rudolf Mumenthaler (Bild) &hellip;">
 	 -->
 
 <!-- RDFa DC -->
@@ -161,11 +161,11 @@ ga('send', 'pageview');
             
             
             
-            <i itemprop="author">Karsten Schuldt (Text), </i>
+            <i itemprop="author">Karsten Schuldt (Text)</i>
             
             
             
-            <i itemprop="author">Rudolf Mumenthaler (Bild)</i>
+            <i>&amp;</i> <i itemprop="author">Rudolf Mumenthaler (Bild)</i>
             
             
         </div>
