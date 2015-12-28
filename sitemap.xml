@@ -102,11 +102,11 @@
     </url>
     <url>
         <loc>http://libreas.github.io/autorinnen/</loc>
-        <lastmod>2015-12-27T18:38:18+01:00</lastmod>
+        <lastmod>2015-12-28T12:30:06+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.github.io/</loc>
-        <lastmod>2015-12-27T18:38:18+01:00</lastmod>
+        <lastmod>2015-12-28T12:20:50+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.github.io/ausgabe22/02graf.htm</loc>
@@ -1182,7 +1182,7 @@
     </url>
     <url>
         <loc>http://libreas.github.io/ausgabe28/inhalt/</loc>
-        <lastmod>2015-12-27T18:45:39+01:00</lastmod>
+        <lastmod>2015-12-28T12:20:07+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.github.io/ausgabe28/04hartmann/</loc>
@@ -1195,6 +1195,18 @@
     <url>
         <loc>http://libreas.github.io/ausgabe28/04hartmann/meta.yaml</loc>
         <lastmod>2015-12-27T18:38:18+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://libreas.github.io/ausgabe28/balck/</loc>
+        <lastmod>2015-12-28T12:23:00+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://libreas.github.io/ausgabe28/balck/vita.html</loc>
+        <lastmod>2015-12-28T12:22:05+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://libreas.github.io/ausgabe28/balck/meta.yaml</loc>
+        <lastmod>2015-12-28T12:15:53+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.github.io/ausgabe28/09vallet/</loc>
