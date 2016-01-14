@@ -391,7 +391,7 @@ und Überwachung innerhalb der Bibliothek.
 Trinity College in Cambridge von Christopher Wren, 1670er Jahre.](img/wagner-7.jpg)
 
 ![Abb. 8: Radialer Bibliotheksentwurf von
-Jean-Nicolas-Louis Durand, 1805](ing/wagner-8.jpg)
+Jean-Nicolas-Louis Durand, 1805](img/wagner-8.jpg)
 
 Auffällig an den Entwürfen von Chevret, Delessert und Mauduit ist, dass
 sie wie Mauduit zwar an solche Architekturtopoi wie das Pantheon
