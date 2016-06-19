@@ -1,0 +1,13 @@
+digraph data_workflow {
+	rankdir=LR
+	node[shape=box fontname=helvetica]
+	aleph[label="Bibliothekssystem\n(Aleph)"]
+	metafacture[label="Datentransformation\n(Metafacture)"]
+	elasticsearch[label="Indexierung\n(Elasticsearch)"]
+	lobid[label="Lobid-API\n(Play)"]
+	nwbib[label="NWBib\n(Play und Bootstrap)"]
+	aleph -> metafacture
+	metafacture -> elasticsearch
+	elasticsearch -> lobid
+	lobid -> nwbib
+}

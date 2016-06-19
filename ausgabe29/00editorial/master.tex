@@ -1,0 +1,152 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,headheight=25.60228pt,includeheadfoot]{geometry}
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage[babel]{csquotes}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+
+%%url brekas grrr
+\def\UrlBreaks{\do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j\do\k\do\l%
+\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t\do\u\do\v\do\w\do\x\do\y\do\z\do\0%
+\do\1\do\2\do\3\do\4\do\5\do\6\do\7\do\8\do\9\do\-}%
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+%% geometry
+\clubpenalty = 10000 
+\widowpenalty = 10000 
+\displaywidowpenalty = 10000
+%% tightlist
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+%meta
+
+%meta
+
+\fancyhead[L]{Redaktion LIBREAS \\ %author
+LIBREAS. Library Ideas, 29 (2016). % journal, issue, volume.
+\href{http://nbn-resolving.de/urn:nbn:de:kobv:11-100238106
+}{urn:nbn:de:kobv:11-100238106}} % urn
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\textit{Creative Commons BY 3.0}} %licence
+\fancyfoot[R] {\textit{ISSN: 1860-7950}}
+
+\title{\LARGE{Editorial \#29: Bibliographien}} %title %title
+\author{Redaktion LIBREAS} %author
+
+\setcounter{page}{}
+
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=blue,
+breaklinks= true]{hyperref}
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+
+%body
+Die Bibliographie und das Bibliographieren, so eine These im Call for
+Papers für diese Ausgabe, sind originär bibliothekarische Themen --nach
+dem Durcharbeiten der Einreichungen können wir feststellen: Sie trifft
+gleichzeitig zu und trifft nicht zu. Zum einen ist der Begriff des
+Bibliographierens nicht geschützt, schon gar nicht historisch, und damit
+ist er interpretierbar. Zwei Texte dieser Ausgabe gehen auf eine
+Bibliographie ein, die für die Geschichte der Homosexuellenbewegung
+wichtig war, obwohl diese Bibliographie selber im Rahmen
+bibliothekarischer Diskussionen vielleicht nicht als solche benannt
+würde. Zudem ist das Bibliographieren heute offenbar nicht ohne die
+Möglichkeiten der Wikimedia zu denken. Erstaunlich ist vielleicht auch,
+dass in den Texten technische Fragen einen großen Stellenwert einnehmen,
+nicht inhaltliche. Eine weitere These des Call for Papers war, dass die
+Bibliographie und auch die Arbeit des Bibliographierens
+untertheoretisiert ist. Die Überraschung, dass uns vor allem Texte zu
+technischen Fragestellungen erreichten, mag mit dieser geringen
+Theoretisierung zusammenhängen. Wir hätten uns mehr theoretische
+Auseinandersetzungen gewünscht, die jetzt nur mit einem sehr
+verspielten, anregenden Text zu Metabibliographien vertreten sind.
+
+Dies soll nicht als Klage gelten: die LIBREAS. Library Ideas versteht
+sich als ein Ort im bibliothekarischen und bibliothekswissenschaftlichen
+Diskurs, und da dieser Diskurs so technisch orientiert ist, spiegelt
+sich dies auch in der Ausgabe wieder. In einem frühen Stadium der
+Entwicklung des Schwerpunkts dieser Ausgabe gab es auch die Idee, vor
+allem nach der Zukunft der Bibliographie zu fragen. Wir sind davon
+abgerückt (obwohl die Frage weiter Teil des Call for Papers blieb, weil
+sie wichtig ist), da viel zu oft im bibliothekarischen Diskurs nach der
+Zukunft gefragt wird, ohne die gegenwärtige Situation zu klären,
+obgleich Aussagen über die Zukunft ohne einer Verankerung in der
+gegenwärtigen Situation schnell den Fokus und die Bodenhaftung verlieren
+können. Allerdings ist jetzt, bei der Herausgabe der aktuellen Ausgabe,
+auch zu erkennen, dass wir durch diese Entscheidung vielleicht zu wenig
+gerade zu diesem Themen erfahren haben. Dabei ist es etwas, was die
+Zunft der Bibliographierenden aktuell beschäftigt. Es bleibt für andere
+Ausgaben und vielleicht auch andere Publikationsorte offen. Davon
+abgesehen hoffen wir, die LIBREAS \#29 ist für Sie/euch als Lesende so
+interessant wie für uns als Redaktion -- und hoffentlich auch eine
+Anregung, verstärkt nicht nur Themen aus einer
+bibliothekswissenschaftlichen Perspektive, sondern auch spezifisch
+bibliothekarische Themen zu behandeln.
+
+Ihre/eure Redaktion LIBREAS. Library Ideas
+
+(Berlin, Chur, Dresden, Exeter, München)
+
+%autor
+
+\end{document}

@@ -1,0 +1,345 @@
+\documentclass[10.5pt,a5paper,twoside]{memoir}
+\usepackage[german]{babel}
+\usepackage[utf8]{inputenc} 
+
+\usepackage{csquotes}
+
+\renewcommand{\thesection}{\arabic{section}}
+\setcounter{secnumdepth}{3} % Subsection mit Zähler (1.1) versehen
+
+%% pt sans
+\usepackage[T1]{fontenc}
+\usepackage{PTSerif}
+
+\usepackage{textcomp}
+
+%%% Other Settings %%%
+\sloppy
+\raggedbottom
+
+\usepackage{rotating}
+
+
+%%% import
+\usepackage{import}
+
+%%% cc
+
+%%% graphics
+\usepackage{graphicx}
+\setkeys{Gin}{width=.8\textwidth} %default pics size
+\usepackage{longtable}
+
+%%%%url
+\usepackage[hyphens]{url}
+\urlstyle{same}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=blue,
+breaklinks= true]{hyperref}
+%%% remove chapter
+
+\renewcommand*{\chaptitlefont}{\LARGE}
+
+%%%%%%%bod test
+\linespread{1.15}
+
+% Hurenkinder und Schusterjungen verhindern
+\clubpenalty10000
+\widowpenalty10000
+\displaywidowpenalty=10000
+
+%%
+% Kolumnentitel
+%%
+\renewcommand{\chaptermark}[1]{ \markboth{#1}{}  } % Stil der Kopfzeile zurücksetzen
+\renewcommand{\sectionmark}[1]{ \markright{#1}{} } % Stil der Kopfzeile 
+
+\renewcommand*{\chaptitlefont}{\normalfont\LARGE\flushright}
+
+% Page style
+\makepagestyle{mystyle}
+\makeevenhead{mystyle}{\small\thepage}{\small \#l10j}{}
+\makeoddhead{mystyle}{}{\small\slshape\leftmark}{\small\thepage}
+\pagestyle{mystyle}
+
+%%
+% Inhaltsverzeichnis
+%%
+\renewcommand*{\cftchapterdotsep}{\cftdotsep}
+\settocdepth{chapter}
+\renewcommand{\cftchapterfont}{\normalfont}
+\renewcommand{\cftchapterpagefont}{\normalfont}
+
+\makeatletter
+\DeclareRobustCommand\authortoctext[1]{%
+{\addvspace{20pt}\nopagebreak\leftskip0em\relax
+\rightskip \@tocrmarg\relax
+\noindent\itshape#1\par\addvspace{-7pt}}}
+\makeatother
+\newcommand\authortoc[1]{%
+  \gdef\chapterauthor{#1}%
+  \addtocontents{toc}{\authortoctext{#1}}}
+
+\makeatletter
+\renewcommand{\cfttocbeforelisthook}{\pagestyle{empty}\let\ps@plain\ps@empty}
+\renewcommand{\cfttocafterlisthook}{\cleardoublepage\pagestyle{headings}}
+\makeatother
+
+\newlength\drop
+\makeatletter
+\newcommand*\titleM{\begingroup% Misericords, T&H p 153
+\setlength\drop{0.08\textheight}
+\centering
+\vspace*{\drop}
+{\Huge\bfseries Die Bibliothek als Idee}\\[\baselineskip]
+{\scshape Beiträge des Symposiums \\ -- 10 Jahre LIBREAS. Library Ideas -- \\ am ICI Kulturlabor Berlin}\\[\baselineskip]
+\vfill
+{\large\scshape {\small herausgegeben vom}\\{\large LIBREAS. Verein e.V.}}\par
+\vfill
+{\scshape Berlin, Chur, Dresden, Exeter, München}\par
+\vfill
+{\scshape 2016}\par
+%\vspace*{2\drop}
+\endgroup}
+%\makeatother
+
+%%
+% Dokumentenbeginn
+%%
+\begin{document}
+
+\frontmatter
+
+\pagestyle{empty}
+\begin{flushright}
+{\LARGE DIE BIBLIOTHEK ALS IDEE} 
+\end{flushright}
+
+\cleartorecto
+
+\pagestyle{empty}
+\titleM
+\cleartoverso
+
+
+\begingroup
+\footnotesize
+\parindent 0pt
+\parskip \baselineskip
+\vspace*{\fill}
+\textcopyright{} 2015 / 2016 Die Autorinnen und Autoren
+
+Dieses Werk ist lizenziert unter einer Creative Commons Namensnennung 3.0 Lizenz.
+
+Satz und Layout: Redaktion LIBREAS unter Verwendung von pandoc und \LaTeX\xspace. 
+
+Webausgabe: \url{https://libreas.eu/ausgabe28/}
+
+Quellcoderepository: \url{https://github.com/libreas/ausgabe28}
+
+    \endgroup
+\newpage
+
+\begin{flushright}
+Wir bedanken uns herzlich bei der |a|S|tec| angewandte Systemtechnik GmbH für die finanzielle Unterstützung des Drucks. 
+
+\vspace{10mm}
+
+Unser Dank gilt überdies der Firma Citavi und an das ICI Kulturlabor Berlin, die das Symposium unterstützt haben.
+
+\vspace{10mm}
+
+Bedanken möchten wir uns bei unseren Referentinnen und Referenten und Gästen. Ein besonderer Dank an Corinna Haas, ... für Ihre Unterstützung. Ohne Euch hätten wir es nicht geschafft.
+
+\vspace{10mm}
+
+Wir widmen den Tagungsband den Mitglieder\_innen des LIBREAS. Verein e.V.
+\end{flushright}
+
+\cleartorecto
+
+\tableofcontents*
+
+\mainmatter
+\pagestyle{mystyle}
+
+%% Editorial
+
+\authortoc{Redaktion LIBREAS}
+\chapter*[Editorial]{Editorial}
+\addcontentsline{toc}{chapter}{Editorial}
+\refstepcounter{chapter}
+\begin{flushright}
+{\large Redaktion LIBREAS}
+\end{flushright}
+
+\vspace{5mm}
+
+\import{../00editorial/}{master.tex}
+
+%% Karin Aleksander
+\authortoc{Karin Aleksander}
+\chapter*[Ist eine transdisziplinäre Bibliothek möglich?]{Ist eine transdisziplinäre Bibliothek möglich? Oder: Wie die Geschlechterforschung Idee und Ideal der Bibliothek herausfordert}
+\addcontentsline{toc}{chapter}{Ist eine transdisziplinäre Bibliothek möglich? Oder: Wie die Geschlechterforschung Idee und Ideal der Bibliothek herausfordert}
+\refstepcounter{chapter}
+\begin{flushright}
+{\large Karin Aleksander}
+\end{flushright}
+
+\vspace{5mm}
+
+\import{../01aleksander/}{master.tex}
+
+%% Ute Engelkenmeier
+\authortoc{Ute Engelkenmeier}
+\chapter*[Bibliothek und Bibliothekare in Comedy und Komödie]{Das Bild der Bibliothek und Bibliothekare in den Fernsehgenres Comedy und Komödie}
+\addcontentsline{toc}{chapter}{Das Bild der Bibliothek und Bibliothekare in den Fernsehgenres Comedy und Komödie}
+\refstepcounter{chapter}
+\begin{flushright}
+{\large Ute Engelkenmeier}
+\end{flushright}
+
+\vspace{5mm}
+
+\section*{ABSTRACT}
+
+{\small Mittels der empirischen Methode der standardisierten, quantitativen
+Inhaltsanalyse werden 51 Fernsehsendungen aus den Subgenres Comedy und
+Komödie untersucht, in welchen Bibliotheken als Schauplatz und
+Bibliothekare als Figur vorkommen. Der betrachtete Zeitraum der
+Ausstrahlungen ist von Januar 2010 bis Juli 2015. Ziel der Untersuchung
+ist die Klärung der Frage, ob Bibliotheken und Bibliothekare stereotyp
+dargestellt werden und ob sie innerhalb der gewählten Subgenres Objekt
+des Witzes sind. Untersucht werden unter anderem die Dimensionen
+Erscheinungsbild und Nutzungsmotive. Die Untersuchung kommt zu dem
+Schluss, dass das Erscheinungsbild von Bibliotheken überwiegend auf das
+konstitutive Element der Bücherregale reduziert ist. In der Nutzung
+überwiegen Motive wie Ausleihen, Lesen, aber auch Nutzung der Bibliothek
+als sozialer Treffpunkt (Kennenlernen, Date) oder die Suche nach einem
+ruhigen Rückzugsort. Das Bild der Bibliothekare ist im äußeren
+Erscheinungsbild zwar konservativer als andere Figuren, jedoch nicht
+negativ, auch sind die Rollen nicht Objekt des Witzes. Eine Tendenz zu
+einer weniger konservativen Darstellung in jüngeren Produktionen ist
+festzustellen.}
+
+\newpage 
+
+\import{../02engelkenmeier/}{master.tex}
+
+%%% Hartmann
+\authortoc{\\Frank Hartmann}
+\chapter*[Dokumentation als Gegenidee zur Bibliothek]{Dokumentation als Gegenidee zur Bibliothek}
+\addcontentsline{toc}{chapter}{Dokumentation als Gegenidee zur Bibliothek}
+\refstepcounter{chapter}
+\begin{flushright}
+{\large Frank Hartmann}
+\end{flushright}
+
+\vspace{5mm}
+
+\section*{ABSTRACT}
+
+{\small
+	Schon zur Wende ins 20. Jahrhundert zweifelte der belgische Privatgelehrte Paul Otlet an der Zukunft des Buches und der Bibliothek. Statt dessen begann er damit, eine Dokumentation und euorganisation des Weltwissens anzulegen, und mittels eines Karteikartensystems (Répertoire Bibliographique Universel) zu vernetzen. Dieses Projekt eines flexiblen, abfrageorientierten Wissensbestandes in einem \enquote{Hypermedium} (Otlet) besetzte jene technologische Leerstelle, die inzwischen eine die bibliothekarische Epoche aufsprengende neue Wissenskultur der digitalen Medialität produziert hat.}
+
+\vspace{5mm}
+
+\import{../04hartmann/}{master.tex}
+
+%%% wagner
+\authortoc{Kirsten Wagner}
+\chapter*[Die architektonische Idee der modernen Bibliothek]{Die architektonische Idee der modernen Bibliothek}
+\addcontentsline{toc}{chapter}{Die architektonische Idee der modernen Bibliothek}
+\refstepcounter{chapter}
+\begin{flushright}
+{\large Kirsten Wagner}
+\end{flushright}
+
+\vspace{5mm}
+
+\section*{ABSTRACT}
+
+{\small
+	Die moderne Bibliothek geht auf einen Übergang der Saalbibliothek zur 
+Magazinbibliothek zurück, der sich im 19. Jahrhundert vollzieht. Bevor
+erste Magazinbibliotheken ab den 1850er Jahren gebaut werden, existiert
+die moderne Bibliothek in der ersten Hälfte des 19. Jahrhunderts vor
+allem als Idee. Es entsteht eine kaum übersehbare Zahl an
+Bibliotheksentwürfen und -schriften, in denen nach einer
+architektonischen Form gesucht wird, die der Expansion der
+Gutenberggalaxis, der Erweiterung des Nutzerkreises und der räumlichen
+Ausdifferenzierung der Bibliotheksfunktionen gerecht wird. Ausgehend von
+der öffentlichen Bibliotheksdiskussion, wie sie auch und besonders in
+der Architekturpresse geführt wird, untersucht der Beitrag am Beispiel
+der französischen *Bibliothèque royale* den Entwurf der modernen
+Bibliothek als Zentral- bzw. Rundbau mit einem Lesesaal in seiner Mitte.
+In diesen Entwurf schreiben sich in der Zeitspanne von 1790 bis 1840
+vollkommen verschiedene Wissens- und Körperordnungen ein. Ihre
+Verbindung besteht dort, wo das absolute räumliche Zentrum der
+Bibliothek mit einem allsehenden Auge besetzt zu sein scheint.}
+
+\vspace{5mm}
+
+\import{../05wagner/}{master.tex}
+
+%%%% hobohm
+
+\authortoc{Hans-Christoph Hobohm}
+\chapter*[Vom Ort zum Akteur]{Vom Ort zum Akteur. Heterotopologie + Akteur-Network-Theorie auf die Bibliothek bezogen}
+\addcontentsline{toc}{chapter}{Vom Ort zum Akteur. Heterotopologie + Akteur-Network-Theorie auf die Bibliothek bezogen}
+\refstepcounter{chapter}
+\begin{flushright}
+{\large Hans-Christoph Hobohm}
+\end{flushright}
+
+\vspace{5mm}
+
+\import{../06hobohm/}{master.tex}
+
+%%%% Verzeichnis der Autorinnen und Autoren
+
+\chapter*[Verzeichnis der Autorinnen und Autoren]{Verzeichnis der Autorinnen und Autoren}
+\addcontentsline{toc}{chapter}{Verzeichnis der Autorinnen und Autoren}
+\refstepcounter{chapter}
+
+\noindent \textbf{Karin Aleksander}, Dr. phil., ist Leiterin der Bibliothek des Zentrum für transdisziplinäre Geschlechterstudien, Humboldt Universität zu Berlin.
+
+\vspace{5mm}
+
+\noindent \textbf{Ute Engelkenmeier}: Ausgestattet mit einem ausgiebigen Studium des
+Bibliothekswesens (FHBD Köln, Musikbibliothekarisches Zusatzstudium HBI
+Stuttgart) und der Bibliotheks- und Informationswissenschaft (Humboldt
+Universität zu Berlin) seit 1995 in der Universitätsbibliothek Dortmund
+tätig, dort zehn Jahre lang Öffentlichkeitsarbeiterin und seit vier
+Jahren Geschäftsbereichsleitung Medienbereitstellung und Information
+(Benutzung).
+Interessensschwerpunkte: Nutzerforschung, Lernortentwicklung, Marketing
+und Management
+Kontakt: ute.engelkenmeier@tu-dortmund.de
+
+\vspace{5mm}
+
+\noindent \textbf{Frank Hartmann} ist Professor für Geschichte und Theorie der Visuellen Kommunikation an der Bauhaus-Universität Weimar. Er hat zahlreiche Publikationen zu Medienphilosophie verfasst und ist Herausgeber der Schriftenreihe \enquote{Forschung Visuelle Kultur}, darunter der Band \enquote{Vom Buch zur Datenbank. Paul Otlets Utopie der Wissensvisualisierung} (Berlin 2012).
+
+\vspace{5mm}
+
+\noindent \textbf{Hans-Christoph Hobohm} ist seit 1995 Professor für Biblio\-theks- und Informationswissenschaft an der Fachhochschule Potsdam. Neben Wissensmanagement und Informationsverhaltensforschung ist eines seiner Lehr- und Forschungsgebiete Bibliothekstypologie und Bibliothekstheorie.
+
+\vspace{5mm}
+
+\noindent \textbf{Kirsten Wagner} ist Professorin für Kulturwissenschaft und
+Kommunikationswissenschaft am Fachbereich Gestaltung der Fachhochschule
+Bielefeld. Davor war sie wissenschaftliche Mitarbeiterin am
+Kulturwissenschaftlichen Institut der Humboldt-Universität zu Berlin, wo
+sie im Rahmen des Sonderforschungsbereiches 447 „Kulturen des
+Perfomativen“ zu historischen und gegenwärtigen Formen räumlicher
+Wissensorganisation gearbeitet hat, darunter auch zur Bibliothek als
+materiellem Raum des Wissens. Ihre aktuellen Arbeits- und
+Forschungsschwerpunkte umfassen neben Fragen der Wissensorganisation
+Raum- und Wahrnehmungstheorien sowie eine Anthropologie der Architektur.
+
+\cleartoverso
+
+\cleartorecto
+
+
+\end{document}

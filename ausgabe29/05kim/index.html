@@ -1,0 +1,444 @@
+
+<!DOCTYPE HTML>
+
+<html lang="de">
+
+<head>
+	<meta charset="utf-8">
+	<title>Semiautomatische Katalogisierung und Normdatenverknüpfung mit Zotero im Index Theologicus - LIBREAS. Library Ideas</title>
+	<meta name="author" content="LIBREAS. Library Ideas">
+
+	<!--
+	<meta name="description" content="Zusammenfassung: Im Folgenden soll aufgezeigt werden, wie derzeit das Literaturverwaltungsprogramm Zotero innerhalb des Index Theologicus genutzt &hellip;">
+	 -->
+
+<!-- RDFa DC -->
+
+ <!-- RDFa Metadata (in DublinCore) -->
+    
+    <meta property="dc:title" content="Semiautomatische Katalogisierung und Normdatenverknüpfung mit Zotero im Index Theologicus" />
+    
+    
+    
+    <meta property="dc:creator" content="Timotheus Chang-whae Kim" />
+    
+    <meta property="dc:creator" content="Philipp Zumstein" />
+    
+    
+    
+    <meta property="dc:date" content="2016" />
+    
+    <meta property="dc:format" content="text/html" />
+    <meta property="dc:language" content="de" />
+    <meta property="dc:identifier" content="http://libreas.eu/ausgabe29/05kim/index.html" />
+    
+    <meta property="dc:rigths" prefix="cc: http://creativecommons.org/ns#" rel="cc:license" href="https://creativecommons.org/licenses/by/3.0/" content="CC-BY 3.0" />
+	
+    <meta property="dc:source" content="LIBREAS. Library Ideas" />
+    <meta property="dc:subject" content="Library and Information Science" />
+    <meta property="dc:type" content="website" />
+    <meta property="dc:description" content="&lt;b&gt;Zusammenfassung&lt;/b&gt;: Im Folgenden soll aufgezeigt werden, wie derzeit das Literaturverwaltungsprogramm Zotero innerhalb des Index Theologicus genutzt wird, um unselbstständige Literatur in einem bibliothekarischen Katalogisierungssystem zu erfassen. Die modulare und flexible Architektur der Open Source Software erlaubt es, die bereits kollaborativ zusammengetragene Programmierarbeit zur Datenextraktion mitzunutzen. Das vorgestellte semiautomatische Verfahren bringt auch bei der Verknüpfung von Normdaten erhebliche Vorteile für die Medienbearbeitung. &lt;/br&gt; &lt;b&gt;Schlüsselwörter&lt;/b&gt;: Literaturverwaltungsprogramm, Zotero, Katalogisierung, Unselbständige Werke, Aufsatzliteratur, Index Theologicus, Online-Bibliographie, WinIBW, Fachinformationsdienst Theologie &lt;/br&gt; &lt;b&gt;Abstract:&lt;/b&gt; This article presents an approach to use the reference management software Zotero within the theological article database Index Theologicus to catalogue article metadata for a library management system. Zotero&#39;s Open Source nature and flexible architecture allowed us to seamlessly reuse the vast amount of data extraction routines collaboratively developed for the software. We will show how the semi-automatic workflow we developed will make authority linking fun again. &lt;/br&gt; &lt;b&gt;Keywords:&lt;/b&gt; Reference Management System, Zotero, Cataloguing, Journal articles, Index Theologicus, Theological database, Academic Information Services for Theology"/>
+    <meta property="dc:source" resource="urn:ISSN:1860-7950" /> 
+
+<!-- Google Scholar -->
+
+	<meta name="citation_journal_title" content="LIBREAS. Library Ideas" />
+	<meta name="citation_issue" content="29" />
+	<meta name="citation_issn" content="1860-7950" />
+	
+    <meta name="citation_publication_date" content="2016" />
+    
+
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link href="/atom.xml" rel="alternate" title="LIBREAS. Library Ideas" type="application/atom+xml">
+	
+	<link rel="canonical" href="http://libreas.eu/ausgabe29/05kim/">
+	<link href="/favicon.png" rel="shortcut icon">
+	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+	<script src="/js/jquery.min.js"></script>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-46475342-1', 'libreas.eu');
+ga('send', 'pageview');
+
+</script>
+
+    <!--   
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="public/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" href="favicon.png"> -->
+  
+	
+</head>
+
+
+
+
+  <body class="theme-base-wes">
+
+    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <a href="/">LIBREAS. Library Ideas</a>
+  </div>
+
+  <nav class="sidebar-nav">
+
+    	<a class="sidebar-nav-item" href="/ausgabe28/">Aktuelle Ausgabe</a>
+	<a class="sidebar-nav-item" href="/archiv.htm">Archiv</a>
+	<a class="sidebar-nav-item" href="http://edoc.hu-berlin.de/browsing/libreas/">edoc pdf-Archiv</a>
+	<a class="sidebar-nav-item" href="/autorinnen">AutorInnen</a>
+	<a class="sidebar-nav-item" href="http://libreas.wordpress.com/category/libreas-call-for-papers/">Call for Papers</a>
+	<a class="sidebar-nav-item" href="/authorguides">Hinweise</a>
+	<a class="sidebar-nav-item" href="http://libreas.wordpress.com/">Blog</a>
+	<a class="sidebar-nav-item" href="http://libreas.tumblr.com/">Tumblr</a>
+	<a class="sidebar-nav-item" href="http://www.ib.hu-berlin.de/~libreas/libreas_neu/podcasts/">Podcasts</a>
+	<a class="sidebar-nav-item" href="http://libreas-verein.eu">Verein</a>
+	<a class="sidebar-nav-item" href="/about">Impressum</a>
+
+
+  </nav>
+</div>
+
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <!-- <div class="wrap">
+       <div class="masthead">
+        <div class="container">
+          <h1 class="masthead-title">
+            <a href="/" title="Home">LIBREAS. Library Ideas</a>
+            <small><br></small>
+          </h1>
+        </div>
+      </div> -->
+
+
+      <div class="container content">
+      <!-- GitHub et al icon -->
+      <div align="right" class="icons">
+        <a href="mailto:redaktion@libreas.eu"><i class="fa fa-envelope"></i></a>
+        <a href="https://github.com/libreas"><i class="fa fa-github-square"></i></a>
+        <a href="https://www.facebook.com/libreas"><i class="fa fa-facebook"></i></a>
+        <a href="https://twitter.com/libreas"><i class="fa fa-twitter"></i></a>
+        <a href="https://github.com/libreas.atom"><i class="fa fa-rss"></i></a>
+</div>
+        
+<article class="page" itemscope itemtype="http://schema.org/ScholarlyArticle">
+
+<div align="right">
+
+<strong> > > > <a href="/ausgabe29/inhalt/">LIBREAS. Library Ideas # 29</a></strong> <br><br>
+</div>
+
+
+
+
+    
+    <div align="right">
+      <p><small>
+      <a itemprop="url" href="https://via.hypothes.is/http://libreas.eu/ausgabe29/05kim/">Annotate @ Hypothesis.io </a></small>
+    </p>
+        <small><a itemprop="sameAs" href="http://nbn-resolving.de/urn:nbn:de:kobv:11-100238157">Download PDF @ edoc HU Berlin</a>
+            <br>
+            urn:nbn:de:kobv:11-100238157 </small>
+        </div>
+        
+
+
+        
+        <h1 itemprop="name" class="title">Semiautomatische Katalogisierung und Normdatenverknüpfung mit Zotero im Index Theologicus</h1>
+        
+
+
+        
+        <div class="titelei">
+            
+            
+            
+            <i itemprop="author">Timotheus Chang-whae Kim</i>
+            
+            
+            
+            <i>&amp;</i> <i itemprop="author">Philipp Zumstein</i>
+            
+            
+        </div>
+        
+
+
+
+        
+
+        <p><small itemprop="description"><b>Zusammenfassung</b>: Im Folgenden soll aufgezeigt werden, wie derzeit das Literaturverwaltungsprogramm Zotero innerhalb des Index Theologicus genutzt wird, um unselbstständige Literatur in einem bibliothekarischen Katalogisierungssystem zu erfassen. Die modulare und flexible Architektur der Open Source Software erlaubt es, die bereits kollaborativ zusammengetragene Programmierarbeit zur Datenextraktion mitzunutzen. Das vorgestellte semiautomatische Verfahren bringt auch bei der Verknüpfung von Normdaten erhebliche Vorteile für die Medienbearbeitung. </br> <b>Schlüsselwörter</b>: Literaturverwaltungsprogramm, Zotero, Katalogisierung, Unselbständige Werke, Aufsatzliteratur, Index Theologicus, Online-Bibliographie, WinIBW, Fachinformationsdienst Theologie </br> <b>Abstract:</b> This article presents an approach to use the reference management software Zotero within the theological article database Index Theologicus to catalogue article metadata for a library management system. Zotero's Open Source nature and flexible architecture allowed us to seamlessly reuse the vast amount of data extraction routines collaboratively developed for the software. We will show how the semi-automatic workflow we developed will make authority linking fun again. </br> <b>Keywords:</b> Reference Management System, Zotero, Cataloguing, Journal articles, Index Theologicus, Theological database, Academic Information Services for Theology</small></p>
+
+        
+
+        
+
+
+
+        
+        <p>
+          <small>
+            <br>
+            Zitiervorschlag
+            <br>
+            
+            
+            Timotheus Chang-whae Kim,
+            
+            
+            
+            Philipp Zumstein,
+            
+            "Semiautomatische Katalogisierung und Normdatenverknüpfung mit Zotero im Index Theologicus". <i itemprop="provider">LIBREAS. Library Ideas</i>, 29 (<span itemprop="datePublished">2016</span>). <a itemprop="url" href="http://libreas.eu/ausgabe29/05kim/">http://libreas.eu/ausgabe29/05kim/</a>
+        </small>
+        <hr>
+    </p>
+    
+
+
+
+
+
+    <div class="entry-content" itemprop="articleBody"><div id="TOC">
+<ul>
+<li><a href="#katalogisierung-im-index-theologicus">Katalogisierung im Index Theologicus</a></li>
+<li><a href="#zotero-translators-zur-datenextraktion">Zotero Translators zur Datenextraktion</a></li>
+<li><a href="#katalogisierungsworkflow-in-der-praxis">Katalogisierungsworkflow in der Praxis</a></li>
+<li><a href="#zotero-pica3-export-translator-im-praxistest">Zotero Pica3-Export-Translator im Praxistest</a></li>
+<li><a href="#retrospektive-erfassung-der-ixtheo-zeitschriften-vor-1976">Retrospektive Erfassung der IxTheo-Zeitschriften vor 1976</a></li>
+<li><a href="#zusammenfassung-und-ausblick">Zusammenfassung und Ausblick</a></li>
+<li><a href="#quellenverzeichnis">Quellenverzeichnis</a></li>
+</ul>
+</div>
+<p>Eine traditionelle Aufgabe von Bibliotheken ist es, relevante Literatur zu erschließen und für die Recherche nutzbar zu machen. Dabei konzentrierte sich die Katalogisierungsarbeit in Bibliotheken meist auf Monographien, Sammelwerke oder die Gesamtaufnahmen von Zeitschriften, ohne die darin enthaltenen Artikel auszuwerten. Eine Ausnahme stellt der Index Theologicus (IxTheo)<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a> der Universitätsbibliothek Tübingen dar.</p>
+<p>Der IxTheo geht zurück auf die 1975 als gedruckter Zeitschrifteninhaltsdienst Theologie begonnene Aufsatzdokumentation und erscheint seit 2007 nur noch online als frei zugängliche Aufsatzdatenbank (<q>Zur Geschichte des Index theologicus</q>, 2007). Bis dato ist der IxTheo eine der wichtigsten und frei zugänglichen bibliographischen Datenbanken im Bereich Theologie und Religionswissenschaft, die umfassend theologische Aufsatzliteratur dokumentiert. Zudem wird der IxTheo im Rahmen des Fachinformationsdienstes (FID) Theologie<a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a> 2016 zu einer umfassenden, wissenschaftlichen Bibliographie für Theologie und Religionswissenschaft ausgebaut, in der neben unselbständiger auch selbständige Literatur sowie Datenbanken und ausgewählte Internetlinks nachgewiesen werden.</p>
+<p>Andere frei zugängliche theologische Spezialbibliographien wie</p>
+<ul>
+<li><p>die Bibelwissenschaftliche Literaturdokumentation Innsbruck (BILDI<a href="#fn3" class="footnoteRef" id="fnref3"><sup>3</sup></a>),</p></li>
+<li><p>die Analytische Bibliographie zum Deuteronomium (AnaBiDeut),</p></li>
+<li><p>die Bibliographie biblique informatisée de Lausanne (BiBIL),</p></li>
+<li><p>der Catalogue de l’École Biblique et Archéologique Française in Jerusalem (CEBAF<a href="#fn4" class="footnoteRef" id="fnref4"><sup>4</sup></a>),</p></li>
+<li><p>die Missionsbibliothek und katholische Dokumentationsstelle (MIKADO<a href="#fn5" class="footnoteRef" id="fnref5"><sup>5</sup></a>),</p></li>
+<li><p>die Kanonistische Literaturdokumentation Innsbruck (KALDI<a href="#fn6" class="footnoteRef" id="fnref6"><sup>6</sup></a>),</p></li>
+<li><p>die Datenbank zur mimetischen Theorie von René Girard (MIMESI<a href="#fn7" class="footnoteRef" id="fnref7"><sup>7</sup></a>) und</p></li>
+<li><p>der Theologische Schlagwortkatalog für Genderforschung (TSG<a href="#fn8" class="footnoteRef" id="fnref8"><sup>8</sup></a>)</p></li>
+</ul>
+<p>sind auf eine bestimmte theologische Teildisziplinen spezialisiert und decken – anders als der IxTheo – nicht alle theologischen Disziplinen umfassend ab.</p>
+<p>Um aber eine solche freie bibliographische Datenbank dauerhaft betreiben und weiterentwickeln zu können, sind neben solider Infrastruktur zunehmend stärkere Vernetzung und Kooperation in Form von Informations- und Datenaustausch untereinander erforderlich. Vor allem sollten die Metadaten idealerweise arbeitsteilig in einem standardisierten Datenformat von den kooperierenden Einrichtungen gemeinsam hergestellt werden. Softwaretools sollten den Datenerfassenden ihre Tätigkeit so einfach wie möglich machen und einzelne Arbeitsschritte weitgehend automatisieren.</p>
+<p>Eine Herausforderung bei der Aufsatzkatalogisierung in einer Verbundumgebung ist jedoch die um Größenordnungen höhere Zahl von zu bearbeitenden Aufnahmen und damit einhergehend die Problematik zeitintensiver Bearbeitung der Normdaten. Softwaregestützte semiautomatische Verfahren können auch bei dieser Problematik Abhilfe schaffen, wie wir anhand von Zotero zeigen wollen.</p>
+<h3 id="katalogisierung-im-index-theologicus">Katalogisierung im Index Theologicus</h3>
+<p>Seit 2013 wird die unselbständige Literatur nicht mehr in der allegro-Datenbank, sondern direkt im Pica-CBS des Südwestdeutschen Bibliotheksverbundes (SWB) erfasst. Die Migration der circa 507.000 <q>Altdaten</q> in die SWB-Datenbank ist dieses Jahr erfolgt und demnächst wird noch der jetzige IxTheo-Katalog durch ein modernes Resource Discovery System (<em>Vufind)</em> abgelöst. Seitdem die Katalogisierung im SWB-Verbund erfolgt, ist die Normdatenverknüpfung und -erstellung der Autoren in der gemeinsamen Normdatei (GND) als neue, aufwändige Aufgabe hinzugekommen.</p>
+<p>Mit großem Engagement des früheren und jetzigen IxTheo-Teams konnten bislang mit konventionellen Methoden im IxTheo circa 12.000-20.000 Aufsätze jährlich ausgewertet und mit Schlagwörtern und IxTheo-Klassen<a href="#fn9" class="footnoteRef" id="fnref9"><sup>9</sup></a> analytisch tief erschlossen werden. Im Zuge der erfolgreichen Überführung vom Sondersammelgebiet (SSG) in den Fachinformationsdienst (FID) Theologie soll der Zeitschriftenkanon des IxTheo über die rund 600 laufend ausgewerteten Zeitschriften hinaus deutlich ausgeweitet werden. Dabei setzen wir neben der automatischen Dateneinspielung von Verlagsdaten (zum Beispiel von DeGruyter) auch das neue semiautomatische Produktionsverfahren mittels Zotero u.a bei der Gewinnung der Metadaten ein. Von den ungefähr 1.800 laufenden Zeitschriftenabonnements aus den Beständen des SSG/FID Theologie und Religionswissenschaft der UB Tübingen können vor allem Zeitschriften, die nur noch online erscheinen, unter Einsatz von Zotero im Katalogisierungsclient WinIBW katalogisiert werden.</p>
+<p>Die mit diesem neuen Verfahren hergestellte Metadaten werden dann aus der SWB-Verbunddatenbank exportiert und im Solr-Index des IxTheo indexiert. Diese sichere und dauerhafte Datenhaltung in der SWB-Verbunddatenbank erleichtert die Nachnutzung der Daten sowie Kooperationsbestrebungen mit anderen Bibliotheken, die den WinIBW als Katalogisierungsclient nutzen (Faßnacht 2015).</p>
+<h3 id="zotero-translators-zur-datenextraktion">Zotero Translators zur Datenextraktion</h3>
+<p>Zotero<a href="#fn10" class="footnoteRef" id="fnref10"><sup>10</sup></a> ist eine Literaturverwaltungssoftware, welche als Open Source Software vom Roy Rosenzweig Center for History and New Media der George Mason University zusammen mit der Zotero-Community entwickelt wird. Als Programm zur Literaturverwaltung integriert sich Zotero in den wissenschaftlichen Schreibprozess, unterstützt beim Aufbau und der Verwaltung einer persönlichen Literaturdatenbank und vereinfacht es, die Angaben bei Belegstellen in Zitationen sowie das Quellenverzeichnis zu erstellen. Die primäre Zielgruppe für das Programm sind somit alle, die wissenschaftlich schreiben und publizieren müssen, wie etwa Forschende oder Studierende. Auch in Deutschland bieten viele Bibliotheken Kurse zur Nutzung von Zotero und anderen Literaturverwaltungsprogrammen an.</p>
+<p>Eine wesentliche Funktionalität ist die einfache und komfortable Integration in den Webbrowser, um die eigene Literaturdatenbank gleich bei Recherche im Web zu füllen. Dies geschieht in Zotero vor allem über den <em>Zotero-Speichern-Button (Zotero-Picker)</em>, mit welchem man mit einem Klick die bibliographischen Metadaten der aktuellen Webseite extrahieren und speichern kann. Daneben gibt es auch noch weitere Möglichkeiten wie etwa das Importieren von bibliographischen Metadaten oder das Suchen nach bestimmten Identifikatoren mit dem <q><em>Zauberstab</em></q>. Diese drei Funktionalitäten zusammen mit den Export-Möglichkeiten werden über sogenannte Zotero Translators<a href="#fn11" class="footnoteRef" id="fnref11"><sup>11</sup></a> bereitgestellt wie in Abb. 1 dargestellt ist.</p>
+<div class="figure">
+<img src="img/Zotero-Translators.jpg" alt="Die vier verschiedenen Typen von Zotero translators (web, import, search, export) mit Beispielen" />
+<p class="caption">Die vier verschiedenen Typen von Zotero translators (web, import, search, export) mit Beispielen</p>
+</div>
+<p>Zotero kann ähnlich einem Simultanübersetzer (oder [Babelfisch<a href="#fn12" class="footnoteRef" id="fnref12"><sup>12</sup></a>) agieren und zwischen verschiedenen Datenformaten übersetzen. Beispielsweise ist es mit Zotero über entsprechende Import- sowie Export-Schritte möglich, MARC-Daten zusammen mit MODS-Daten in einer gemeinsamen CSV-Datei auszugeben. Für solche oder ähnliche Transformationsschritte gibt es aber auch spezialisiertere Tools aus dem Bereich Metadatenmanagement (siehe Pfeffer 2016).</p>
+<p>Wohl einzigartig sind aber die Möglichkeiten, strukturierte Metadaten aus einer Vielzahl von bibliographischen Webseiten zu extrahieren, mit Hilfe des Zotero Web Translators. Es gibt etwa 440 Web Translators (Stand April 2016), die aus der Präsentationsschicht von Verlagen, Bibliotheken, Digitalen Archiven, Zeitschriften et cetera die bibliographischen Metadaten generieren. Häufig werden bei diesen Webseiten die Maschinenlesbarkeit beispielsweise für Literaturverwaltungsprogramme, Export-Möglichkeiten in Standardformate und die Pflege guter APIs zugunsten einer hübschen Präsentation vernachlässigt (Zumstein &amp; Stöhr 2015). Daher müssen Web Translators die Informationen häufig aus den Webseiten <q>herauskratzen</q> (web scraping). Somit sind Zotero Translators vielfach die einzige Möglichkeit, ohne großen Aufwand bibliographische Daten automatisiert aus bestimmten Webseiten zu extrahieren.</p>
+<p>Das Translator Framework ist modular, das heißt jeder Translator ist eine eigene Javascript-Datei mit Metadaten und Testfällen. Wir haben zokat<a href="#fn13" class="footnoteRef" id="fnref13"><sup>13</sup></a>, eine Erweiterung für den Einsatz von Zotero bei der Katalogisierung, als Open Source entwickelt. Eine zentrale Komponente von zotkat ist ein Export Translator für das Pica3-Format des SWB, das für IxTheo eingesetzt wird. Durch die Hinzunahme dieses einen Translators für den Export können für eine Unmenge von Webseiten die bibliographischen Daten extrahiert und im Katalogisierungsclient genutzt werden. Der praktische Ablauf wird im nächsten Abschnitt beschrieben.</p>
+<p>Alternativ könnte man, um Artikel von einer einzelnen Webseite zu extrahieren, natürlich auch eine eigene Lösung programmieren, aber dies ist einerseits nur begrenzt möglich und scheint häufig über den eigenen Gebrauch hinaus keinen Nutzen zu bringen. Dahingegen schafft die Verwendung eines einheitlichen Frameworks Synergieeffekte und ist für viele verschiedene Anwendungsfälle nachhaltig. Mehr als 65 Personen haben sich an der Entwicklung von Zotero Translators bereits beteiligt. Dabei sind etwa 480 Translators kollaborativ entstanden und werden von der Community gepflegt sowie weiterentwickelt. Dies entspricht insgesamt etwa 117.000 Zeilen Code,<a href="#fn14" class="footnoteRef" id="fnref14"><sup>14</sup></a> was nach dem COCOMO Modell<a href="#fn15" class="footnoteRef" id="fnref15"><sup>15</sup></a> etwa 30 Personenjahren<a href="#fn16" class="footnoteRef" id="fnref16"><sup>16</sup></a> Entwicklungszeit entsprechen würde. Die Zotero Translators werden auch von Wikipedia innerhalb von Citoid<a href="#fn17" class="footnoteRef" id="fnref17"><sup>17</sup></a> verwendet und ProQuest nutzt sie in PME<a href="#fn18" class="footnoteRef" id="fnref18"><sup>18</sup></a> nach.</p>
+<h3 id="katalogisierungsworkflow-in-der-praxis">Katalogisierungsworkflow in der Praxis</h3>
+<p>Zur Illustration des Katalogisierungsworkflow in der Praxis, welchen wir hier im Folgenden beschreiben, haben wir noch ein kurzes Video (ohne Ton) erstellt<a href="#fn19" class="footnoteRef" id="fnref19"><sup>19</sup></a>.</p>
+
+<video width="800" height="500" controls>
+  <source src="https://cdn.rawgit.com/libreas/ausgabe29/master/05kim/video/zotkat-demot.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<p>Nach der Installation von Zotero als Add-on im Firefox-Browser werden über den Zotero-Picker in der Symbolleiste die bibliographischen Metadaten aus verschiedenen Datenquellen wie Verlagswebseiten, Fachdatenbanken, OA-Journals und Bibliothekskatalogen et cetera in <q>Meine Bibliothek</q> heruntergeladen. Dabei kann je nach Webseite zwischen unterschiedlichen Downloadoptionen gewählt werden (Einzel- und Mehrfachübernahmen, Persistente Identifikatoren mittels “*Zauberstab“*, Importfunktion von anderen Formate). In den meisten großen Aufsatzdatenbanken wie JSTOR oder EBSCO ist Mehrfachübernahme, das heißt alle Aufsätze eines Zeitschriftenheftes mit einem Klick, möglich.</p>
+<div class="figure">
+<img src="img/Workflow.jpg" alt="Katalogisierungsworkflow" />
+<p class="caption">Katalogisierungsworkflow</p>
+</div>
+<p>Da die heruntergeladenen Metadaten desselben Aufsatzes je nach Download-Option variieren, muss einmal vorher überprüft werden, welche Option die optimalen Metadaten für die Katalogisierung liefert. Um die Bearbeitung einer <q>Zotero-geeigneten</q> Zeitschrift im IxTheo-Geschäftsgang zu erleichtern, tragen wir Informationen wie das Produktionsverfahren, Datenquelle mit Permalink, die zu wählende Downloadoption und andere in einem internen Zeitschriftenverwaltungstool zusammen.</p>
+<p>Die im Zotero-Ordner gespeicherten Metadaten werden dann einzeln mit Copy &amp; Paste oder Drag &amp; Drop in einen JavaScript-Editor<a href="#fn20" class="footnoteRef" id="fnref20"><sup>20</sup></a> eingefügt und anschließend im rechten <q>Result</q>-Fenster (Abb.3) die automatisch erzeugte Autoren-SWB-PPN intellektuell kontrolliert. Für die leichte Kontrolle und eventuelle Nachverknüpfung der PPN werden zusätzlich zwei Links<a href="#fn21" class="footnoteRef" id="fnref21"><sup>21</sup></a> mit unterschiedlich vordefinierten Suchabfragen automatisch erzeugt, deren Ergebnis im rechten <q>Result</q>-Fenster direkt angeklickt und angezeigt werden kann. (Abb. 3)</p>
+<div class="figure">
+<img src="img/Normdatenkontrolle.jpg" alt="Ansicht für die Normdatenkontrolle und -recherche" />
+<p class="caption">Ansicht für die Normdatenkontrolle und -recherche</p>
+</div>
+<p>Die Verknüpfungen mit den Normdaten werden auf unterschiedliche Weise realisiert. Die bekannten Zeitschriften der Theologie sowie eine Liste von Autoren wurden im Vorfeld zusammen mit der SWB-PPN in einer Mapping-Tabelle hinterlegt. Jedes Mal wenn bei einem Aufsatz der Zeitschriftentitel oder Autorenname in dieser Liste vorkommt, wird dieser Text beim Export mit dem Pica3-Translator durch die entsprechende Normdatenverknüpfung (PPN) ersetzt. Diese automatische PPN-Verknüpfung der Autorennamen werden auch bei einem vorhandenen eindeutigen Treffersatz in OGND - Lookup für Autoren - erzeugt. Zusätzlich werden bei den Autoren auch noch zwei Links im Pseudo-Pica-Felder 0999 erzeugt. Diese Links fragen die Namensform <q>Nachname, Vorname</q> verbunden mit weiteren spezifizierten Suchattributen wie Berufsbezeichnung (<q>theol*</q>, <q>bischof*</q>, <q>pfarr*</q>), GND-Systematik (<q>3.*</q>) und Lebensdaten (<q>19xx</q>) ab, um ein möglichst eindeutiges Mappingergebnis zu erzielen. Diese OGND-Suchabfrage kann zudem projektspezifisch weiter angepasst <a href="#fn22" class="footnoteRef" id="fnref22"><sup>22</sup></a> werden. Diese Links dienen einerseits der Kontrolle, können aber auch weiter zur Recherche bei verschiedenen Personen mit dem gleichen Namen benutzt werden (Abb. 4). Nach diesem Arbeitsschritt kann dann die Pica3-Titelaufnahme ohne die Links aus dem linken Fenster wieder in die Erfassungsmaske der WinIBW mit Copy &amp; Paste übernommen und in der Regel direkt abgespeichert werden.</p>
+<div class="figure">
+<img src="img/Normdatenrecherche.jpg" alt="Normdatenrecherche rechts liefert einen eindeuten Theologen, welcher mit der bereits automatisch gefundene PPN übereinstimmt" />
+<p class="caption">Normdatenrecherche rechts liefert einen eindeuten Theologen, welcher mit der bereits automatisch gefundene PPN übereinstimmt</p>
+</div>
+<p>Damit wird Zotero hier als Vorstufe zum eigentlichen Katalogisierungsclient geschaltet, die gesamte Bearbeitung findet clientseitig statt und erlaubt auch noch weitere manuelle Nachjustierungen im gewohnten Katalogisierungsumfeld der WinIBW. Vor einigen Jahren gab es bereits einen Vorschlag im GBV (Voß 2008a; Voß 2008b), Zotero bei der Katalogisierung zu verwenden. Dabei wurde aber vorgeschlagen Zotero als Katalogisierungsclient zu verwenden und einen entsprechenden Webservice sowie Anbindungen an den Verbundkatalog aufzusetzen. Dieses Vorhaben ist nicht weiter umgesetzt worden.</p>
+<h3 id="zotero-pica3-export-translator-im-praxistest">Zotero Pica3-Export-Translator im Praxistest</h3>
+<p>Aufgrund der Verbesserungsvorschläge, die sich bei der Katalogisierung während der Testphase ergaben, konnten wir für den Produktionsbetrieb den Pica3-Export-Translator nach Katalogisierungsvorgaben weiter ausbauen. So wurden beispielsweise folgende Anpassungen realisiert: wiederholte Feldbelegung 30xx bei mehr als einem/r Verfasser/in, Trennung des Untertitels vom Titel mit <q>$d</q>, sprachspezifische Umsetzung des Sortierzeichens <q>@</q> nach einem Artikel<a href="#fn23" class="footnoteRef" id="fnref23"><sup>23</sup></a> und Anpassung unterschiedlicher Zeichensetzung zwischen Zotero-internem Format und WinIBW-Format.</p>
+<p>In vielen Fällen war es nach diesen Anpassungen möglich, die in Pica3 konvertierte Titelaufnahme ohne nachträgliche Bearbeitung in WinIWB direkt – ähnlich wie bei einer Datenübernahme über Broadcast-Search in WinIBW – abzuspeichern. Während der Testphase beschränkte sich die nachträgliche Korrektur auf die Groß- und Kleinschreibung der fremdsprachigen Titel, die mit dem Translator technisch nicht abgefangen werden konnte. Diese Korrektur war während der Testphase im laufenden Produktionsbetrieb auch deshalb notwendig, da die Aufsätze nach der gedruckten Vorlage mit dem Katalogisierungsniveau <q>Aou</q> (=Katalogisat der Druckausgabe nach Autopsie) erfasst wurden, während die heruntergeladenen Metadaten der Online-Ausgabe bisweilen geringfügig davon abwichen.</p>
+<h3 id="retrospektive-erfassung-der-ixtheo-zeitschriften-vor-1976">Retrospektive Erfassung der IxTheo-Zeitschriften vor 1976</h3>
+<p>Im Rahmen eines Projekts wurden Aufsätze aus Zeitschriftenarchiven der National- und Allianzlizenzen<a href="#fn24" class="footnoteRef" id="fnref24"><sup>24</sup></a> nach Katalogisierungsniveau <q>Aor</q> (=Katalogisat ohne Autopsie) beziehungsweise <q>Aon</q> (=maschinell konvertierte Katalogisate) rückwärtig erfasst, so dass hier keine nachträgliche Korrektur an der Titelaufnahme erforderlich war.</p>
+<p>Lediglich die automatisch verknüpften Autoren-PPNs wurden in der OGND überprüft und bei Nicht-Verknüpfung die Autoren gegebenfalls mit dem oben dargestellten Verfahren manuell verknüpft. Wenn keine Normdaten zu dem Autorennamen vorhanden waren, wurden die Namen als Text im Autoren-Feld 30xx stehen gelassen und der Satz in <q>Aon</q> geändert, um später im laufenden Betrieb nach Neuansetzung der Personen durch geschultes Bibliothekspersonal verknüpft werden zu können. Zudem wurde eine <q>Datenmaske</q> für ein lokales Abrufzeichen und die IxTheo-Klassifikation im Exemplarsatz<a href="#fn25" class="footnoteRef" id="fnref25"><sup>25</sup></a> angelegt, um sich Schreibarbeit zu ersparen. Da wir von Beginn an bei der retrospektiven Katalogisierung das lokale Abrufzeichen <q>ixzo</q> für Titel, die mit Zotero katalogisiert werden, vergeben haben, konnten diese Titel in WinIBW leicht abgefragt und das Testergebnis statistisch festgehalten werden:</p>
+<table>
+<caption>Ergebnistabelle (wird unten fortgesetzt)</caption>
+<colgroup>
+<col width="12%" />
+<col width="27%" />
+<col width="16%" />
+<col width="42%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="center">ISSN</th>
+<th align="center">Erfassungszeitraum</th>
+<th align="center">Insgesamt</th>
+<th align="center">(Vpos) mit Normdaten verknüpft</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">0048-1009</td>
+<td align="center">1956 - 1976</td>
+<td align="center">392 Aufsätze</td>
+<td align="center">240 Aufsätze nach <q>Aor</q> Prozentsatz: 61,22%</td>
+</tr>
+<tr class="even">
+<td align="center">0028-6885</td>
+<td align="center">1959 - 1977</td>
+<td align="center">602 Aufsätze</td>
+<td align="center">354 Aufsätze nach <q>Aor</q> Prozentsatz: 58 %</td>
+</tr>
+</tbody>
+</table>
+<table>
+<colgroup>
+<col width="36%" />
+<col width="38%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="center">(Vnot) Nicht verknüpft</th>
+<th align="center">Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">152 Aufsätze nach <q>Aon</q> Prozentsatz: 38,78 %</td>
+<td align="center">16 h / 392 = ca. 2 ½ min pro Aufsatz inkl. Vergabe der IxTheo-Klassen für Neues Testament im Lokalsatz</td>
+</tr>
+<tr class="even">
+<td align="center">248 Aufsätze nach “Aon“ Prozentsatz: 42 %</td>
+<td align="center">30 h / 601 = ca.3 min pro Aufsatz inkl. Vergabe der IxTheo-Klassen für Neues Testament im Lokalsatz</td>
+</tr>
+</tbody>
+</table>
+<p>Bei der nachträglichen Verknüpfung der Autorennamen stieg der Anteil von <q>Vpos</q> auf circa 67%.</p>
+<p>Die Gründe für das Nicht-Verknüpfen waren zum einen, dass keine Personensätze zu den Namen vorhanden waren, und zum anderen, dass die Normdaten oft nur als Tni-/Tpi-Sätze existierten und nicht ausreichend individualisiert waren.</p>
+<p>Die Rückmeldung des Bibliothekspersonals waren nach der Testphase insgesamt positiv, vor allem seien Ergonomie und Usability durch das Zotero-Verfahren im Vergleich zum bisher angewendeten Copy &amp; Paste-Verfahren bei der Erfassung eines Aufsatzes deutlich verbessert worden und eine zusätzliche, noch deutlichere Arbeitserleichterung sei durch den automatisierten und nachjustierbaren Autorenabgleich bewirkt worden.</p>
+<h3 id="zusammenfassung-und-ausblick">Zusammenfassung und Ausblick</h3>
+<p>Summa summarum scheint Zotero als vorgeschaltetes Tool in Kombination mit dem Katalogisierungsclient WinIBW einen Mehrwert unter anderem bei der Verknüpfung von Normdaten anzubieten. Durch flexibel programmierbare Abfragen und integrierbare Mappinglisten in Zotero Translator kann den Katalogisierern bei der Arbeitsroutine geholfen und die Arbeit effizienter gestaltet werden. Solche Normdatenverknüpfungen bieten dann unmittelbar für die Bibliotheksnutzer weitere Zusammenhänge wie etwa die Suche nach Publikationen eines bestimmten Autors oder eine automatische Verlinkung verschiedener Datenbankeinträge desselben Autors<a href="#fn26" class="footnoteRef" id="fnref26"><sup>26</sup></a> über sogenannte BEACON-Dateien<a href="#fn27" class="footnoteRef" id="fnref27"><sup>27</sup></a>, wie zum Beispiel zwischen Wikipediaartikel und anderen Online-Bibliographien. Allgemeiner kann man dies als weiteren Informationsteil der LOD Cloud ansehen.</p>
+<p>Die verschiedenen Schritte in dem hier beschriebenen semiautomatischen Katalogisierungsworkflow können auch von unterschiedlichen Personen durchgeführt werden. Vorstellbar ist eine Teilung in drei Teile:</p>
+<ol style="list-style-type: decimal">
+<li><p>Sammeln der Artikeldaten mit Zotero,</p></li>
+<li><p>Herstellen der Normdatenverknüpfungen,</p></li>
+<li><p>Speichern in der Verbunddatenbank.</p></li>
+</ol>
+<p>Die Schritte 2) und 3) sind momentan verschränkt und erfordern meist tiefergehendes bibliothekarisches Know-How. Dahingegen ist es vorstellbar, dass zum Beispiel auch Forscher innerhalb eines Projektes theologische Zeitschriften auswerten und die Aufsatzdaten mit Zotero sammeln. Prinzipiell kann der Schritt 1) auch als Dateningest etwa von Herausgebern einer Zeitschrift genutzt werden, um die Aufnahme dieser Artikel im Index Theologicus anzustoßen. Dabei können diese Daten in einer Zotero- Gruppe<a href="#fn28" class="footnoteRef" id="fnref28"><sup>28</sup></a> kollaborativ und auch ohne profunde Katalogisierungskenntnisse gesammelt werden. Die Bibliothek könnte sich dann auf die Normdatenerstellung, -verknüpfung und das Abspeichern in der Verbunddatenbank konzentrieren. Es bleibt eine spannende Frage, wie man den Katalogisierungsablauf für diese Aufsatzdaten softwaregestützt und kollaborativ weiter optimieren kann, um die Quantität der Titel aber auch die Erschließungstiefe hoch zu halten.</p>
+<h3 id="quellenverzeichnis">Quellenverzeichnis</h3>
+<p>Faßnacht, M. (2015). Index Theologicus. Presented at the 16. BSZ-Kolloquium am 22. September 2015 in der Universität Stuttgart, Stuttgart. Retrieved from <a href="http://nbn-resolving.de/urn:nbn:de:bsz:576-opus-12418" class="uri">http://nbn-resolving.de/urn:nbn:de:bsz:576-opus-12418</a></p>
+<p>Pfeffer, M. (2016, March). <em>Open Source Software zur Verarbeitung und Analyse von Metadaten</em>. Vortragsfolien presented at the 105. Deutscher Bibliothekartag in Leipzig 2016 = 6. Bibliothekskongress / Themenkreis 4: Wissen organisieren und erhalten / LIS-Workshop (16.03.2016, 14:00-18:00, Vortragsraum 10), Leipzig. Retrieved from <a href="https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/2449" class="uri">https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/2449</a></p>
+<p>Voß, J. (2008a). <em>Simple Web Cataloging with Zotero</em>. GBV. Retrieved from <a href="https://www.gbv.de/wikis/cls/Datei:SimpleWebCatalogingWithZotero_7.1.pdf" class="uri">https://www.gbv.de/wikis/cls/Datei:SimpleWebCatalogingWithZotero_7.1.pdf</a></p>
+<p>Voß, J. (2008b, February). Zotero als Katalogisierungsclient – Verbund-Wiki GBV [Wikiseite]. Retrieved April 3, 2016, from <a href="https://www.gbv.de/wikis/cls/Zotero_als_Katalogisierungsclient" class="uri">https://www.gbv.de/wikis/cls/Zotero_als_Katalogisierungsclient</a></p>
+<p>Zumstein, P., &amp; Stöhr, M. (2015). Zur Nachnutzung von bibliographischen Katalog- und Normdaten für die persönliche Literaturverwaltung und Wissensorganisation. <em>ABI-Technik</em>, <em>35</em>(4), 210–221. <a href="http://doi.org/10.1515/abitech-2015-0037" class="uri">http://doi.org/10.1515/abitech-2015-0037</a></p>
+<p>Zur Geschichte des Index theologicus. (2007, January). Retrieved April 3, 2016, from <a href="http://www.ixtheo.de/histger.htm" class="uri">http://www.ixtheo.de/histger.htm</a></p>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p><a href="http://www.ixtheo.de/" class="uri">http://www.ixtheo.de/</a><a href="#fnref1">↩</a></p></li>
+<li id="fn2"><p><a href="http://www.ub.uni-tuebingen.de/fidtheo" class="uri">http://www.ub.uni-tuebingen.de/fidtheo</a><a href="#fnref2">↩</a></p></li>
+<li id="fn3"><p><a href="https://www.uibk.ac.at/bildi/index.html.de" class="uri">https://www.uibk.ac.at/bildi/index.html.de</a><a href="#fnref3">↩</a></p></li>
+<li id="fn4"><p><a href="http://www.ebaf.edu/wp-content/uploads/biblio/en-aide-all.pdf" class="uri">http://www.ebaf.edu/wp-content/uploads/biblio/en-aide-all.pdf</a><a href="#fnref4">↩</a></p></li>
+<li id="fn5"><p><a href="http://www.mikado-ac.info/home.html" class="uri">http://www.mikado-ac.info/home.html</a><a href="#fnref5">↩</a></p></li>
+<li id="fn6"><p><a href="https://www.uibk.ac.at/praktheol/kaldi/" class="uri">https://www.uibk.ac.at/praktheol/kaldi/</a><a href="#fnref6">↩</a></p></li>
+<li id="fn7"><p><a href="https://www.uibk.ac.at/rgkw/drama/mimdok/index.html.de" class="uri">https://www.uibk.ac.at/rgkw/drama/mimdok/index.html.de</a><a href="#fnref7">↩</a></p></li>
+<li id="fn8"><p><a href="http://www.netzwerk-fgf.nrw.de/fileadmin/media/media-fgf/download/publikationen/Journal-33_Netzwerk_FGF.pdf" class="uri">http://www.netzwerk-fgf.nrw.de/fileadmin/media/media-fgf/download/publikationen/Journal-33_Netzwerk_FGF.pdf</a><a href="#fnref8">↩</a></p></li>
+<li id="fn9"><p><a href="http://web.archive.org/web/20160413144655/http://www.ixtheo.de/klassger.htm" class="uri">http://web.archive.org/web/20160413144655/http://www.ixtheo.de/klassger.htm</a><a href="#fnref9">↩</a></p></li>
+<li id="fn10"><p><a href="https://www.zotero.org/" class="uri">https://www.zotero.org/</a><a href="#fnref10">↩</a></p></li>
+<li id="fn11"><p><q>Zotero Übersetzer</q>: <a href="https://www.zotero.org/support/dev/translators" class="uri">https://www.zotero.org/support/dev/translators</a><a href="#fnref11">↩</a></p></li>
+<li id="fn12"><p><a href="https://de.wikipedia.org/wiki/Babelfisch" class="uri">https://de.wikipedia.org/wiki/Babelfisch</a><a href="#fnref12">↩</a></p></li>
+<li id="fn13"><p><a href="https://github.com/UB-Mannheim/zotkat" class="uri">https://github.com/UB-Mannheim/zotkat</a><a href="#fnref13">↩</a></p></li>
+<li id="fn14"><p>Es wurden 116.983 Codezeilen eruiert mit dem Tool <a href="https://github.com/AlDanial/cloc" class="uri">https://github.com/AlDanial/cloc</a> am 29.03.2016.<a href="#fnref14">↩</a></p></li>
+<li id="fn15"><p><a href="https://de.wikipedia.org/wiki/COCOMO" class="uri">https://de.wikipedia.org/wiki/COCOMO</a><a href="#fnref15">↩</a></p></li>
+<li id="fn16"><p>Wir verwenden die gleichen Parameter wie bei bei <a href="https://www.openhub.net/" class="uri">https://www.openhub.net/</a>, d.h. a=2,4, b=1,04 bei PM = a*KDSI^b, wobei KDSI die Anzahl von auszuliefernden Codezeilen in Tausend entspricht<a href="#fnref16">↩</a></p></li>
+<li id="fn17"><p><a href="https://www.mediawiki.org/wiki/Citoid" class="uri">https://www.mediawiki.org/wiki/Citoid</a><a href="#fnref17">↩</a></p></li>
+<li id="fn18"><p><a href="https://github.com/proquest/PME" class="uri">https://github.com/proquest/PME</a><a href="#fnref18">↩</a></p></li>
+<li id="fn19"><p><a href="https://rawgit.com/libreas/ausgabe29/master/05kim/video/zotkat-video.html" class="uri">https://rawgit.com/libreas/ausgabe29/master/05kim/video/zotkat-video.html</a><a href="#fnref19">↩</a></p></li>
+<li id="fn20"><p><a href="http://www.w3schools.com/js/tryit.asp?filename=tryjs_myfirst" class="uri">http://www.w3schools.com/js/tryit.asp?filename=tryjs_myfirst</a><a href="#fnref20">↩</a></p></li>
+<li id="fn21"><p>Link 1: <a href="http://bit.ly/1UCrmJE" class="uri">http://bit.ly/1UCrmJE</a>, Link 2: <a href="http://bit.ly/1ZYyzE3" class="uri">http://bit.ly/1ZYyzE3</a><a href="#fnref21">↩</a></p></li>
+<li id="fn22"><p><a href="https://github.com/UB-Mannheim/zotkat/wiki/Suche-nach-Autoren-Normdaten-im-Online-GND-(OGND)-Katalog" class="uri">https://github.com/UB-Mannheim/zotkat/wiki/Suche-nach-Autoren-Normdaten-im-Online-GND-(OGND)-Katalog</a><a href="#fnref22">↩</a></p></li>
+<li id="fn23"><p><a href="https://github.com/UB-Mannheim/zotkat/files/137992/ARTIKEL.pdf" class="uri">https://github.com/UB-Mannheim/zotkat/files/137992/ARTIKEL.pdf</a><a href="#fnref23">↩</a></p></li>
+<li id="fn24"><p><a href="https://www.nationallizenzen.de/angebote" class="uri">https://www.nationallizenzen.de/angebote</a><a href="#fnref24">↩</a></p></li>
+<li id="fn25"><p><a href="https://www.gbv.de/wikis/cls/WinIBW3:Datenmasken" class="uri">https://www.gbv.de/wikis/cls/WinIBW3:Datenmasken</a><a href="#fnref25">↩</a></p></li>
+<li id="fn26"><p><a href="https://tools.wmflabs.org/persondata/index.php" class="uri">https://tools.wmflabs.org/persondata/index.php</a><a href="#fnref26">↩</a></p></li>
+<li id="fn27"><p><a href="http://www.ixtheo.de/beacon/ixtheo.txt" class="uri">http://www.ixtheo.de/beacon/ixtheo.txt</a><a href="#fnref27">↩</a></p></li>
+<li id="fn28"><p><a href="https://www.zotero.org/groups/ixtheo" class="uri">https://www.zotero.org/groups/ixtheo</a><a href="#fnref28">↩</a></p></li>
+</ol>
+</div>
+</div>
+
+    
+
+</article>
+
+
+
+
+        <footer class="footer">
+<hr>
+<p><a href="http://creativecommons.org/licenses/by/3.0/">All content licensed under Creative Commons Attribution 3.0 Unported (CC BY 3.0)</a>, if not otherwise stated.
+</p>
+<p>LIBREAS. Library Ideas wird herausgegeben am <a href="https://www.ibi.hu-berlin.de/">Institut für Bibliotheks- und Informationswissenschaft</a> der <a href="https://www.hu-berlin.de/">Humboldt-Universität zu Berlin</a></p>
+<p>Hosted on <a href="http://github.com/libreas/libreas.github.io">GitHub</a>, made with <a href="http://octopress.org/">Jekyll/Octopress.</a> and <a href="http://johnmacfarlane.net/pandoc/">pandoc</a></p>
+
+<p>ISSN: 1860-7950</p>
+
+
+    LIBREAS. Library Ideas
+
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2016-06-19</a>)</p>
+
+</footer>
+
+      </div>
+    </div>
+<label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+  </body>
+</html>

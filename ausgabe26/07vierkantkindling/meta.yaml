@@ -9,7 +9,7 @@
 	<meta name="author" content="LIBREAS. Library Ideas">
 
 	<!--
-	<meta name="description" content="> > > LIBREAS. Library Ideas # 26 Download PDF @ edoc HU Berlin urn:nbn:de:kobv:11-100222687 Welche Institutionen betreiben Open-Access-Repositorien &hellip;">
+	<meta name="description" content="> > > LIBREAS. Library Ideas # 26 Annotate @ Hypothesis.io Download PDF @ edoc HU Berlin urn:nbn:de:kobv:11-100222687 Welche Institutionen betreiben &hellip;">
 	 -->
 
 <!-- RDFa DC -->
@@ -148,11 +148,15 @@ ga('send', 'pageview');
 
     
     <div align="right">
+      <p><small>
+      <a itemprop="url" href="https://via.hypothes.is/http://libreas.eu/ausgabe26/07vierkantkindling/meta.yaml">Annotate @ Hypothesis.io </a></small>
+    </p>
         <small><a itemprop="sameAs" href="http://nbn-resolving.de/urn:nbn:de:kobv:11-100222687">Download PDF @ edoc HU Berlin</a>
             <br>
             urn:nbn:de:kobv:11-100222687 </small>
         </div>
         
+
 
         
         <h1 itemprop="name" class="title">Welche Institutionen betreiben Open-Access-Repositorien in Deutschland?</h1>
@@ -227,7 +231,7 @@ ga('send', 'pageview');
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2016-01-14</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2016-06-19</a>)</p>
 
 </footer>
 

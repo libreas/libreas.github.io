@@ -1,0 +1,479 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,headheight=25.60228pt,includeheadfoot]{geometry}
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage[babel]{csquotes}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+
+%%url brekas grrr
+\def\UrlBreaks{\do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j\do\k\do\l%
+\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t\do\u\do\v\do\w\do\x\do\y\do\z\do\0%
+\do\1\do\2\do\3\do\4\do\5\do\6\do\7\do\8\do\9\do\-}%
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+%% geometry
+\clubpenalty = 10000 
+\widowpenalty = 10000 
+\displaywidowpenalty = 10000
+%% tightlist
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+%meta
+
+%meta
+
+\fancyhead[L]{J. Voß \\ %author
+LIBREAS. Library Ideas, 29 (2016). % journal, issue, volume.
+\href{http://nbn-resolving.de/urn:nbn:de:kobv:11-100238115
+}{urn:nbn:de:kobv:11-100238115}} % urn
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\textit{Creative Commons BY 3.0}} %licence
+\fancyfoot[R] {\textit{ISSN: 1860-7950}}
+
+\title{\LARGE{Versuch einer Bibliographie von Bibliographien von Bibliographien von Bibliographien}} %title %title
+\author{Jakob Voß} %author
+
+\setcounter{page}{}
+
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=blue,
+breaklinks= true]{hyperref}
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+\begin{abstract}
+Der Artikel beschreibt die Erstellung einer Meta-Meta-Meta-Bibliographie
+und liefert eine Bewertung des Ergebnis, bestehend aus vier
+Universalbibliographien und vier Auswahlbibliographien.
+\end{abstract}
+
+%body
+\section*{Einleitung}\label{einleitung}
+
+Die Natur von \emph{Bibliographien der Bibliographien}, also
+Bibliographien die ihrerseits bibliographische Verzeichnisse auflisten,
+wird in den meisten Standardwerken zur Bibliographiekunde erklärt.
+Werden mehrere solcher \emph{Metabibliographien} oder
+\emph{Bibliographien zweiter Ordnung} in einem Verzeichnis
+zusammengefasst, so lässt sich dieses Verzeichnis als
+\emph{Bibliographie von Metabibliographien},
+\emph{Meta-Metabibliographie}, \emph{Bibliographie dritter Ordnung} oder
+\emph{Bibliographien von Bibliographien von Bibliographien} bezeichnen.
+Im Folgenden wird der Versuch einer groben Übersicht über solche
+Meta-Metabibliographien unternommen.
+
+\section*{Untersuchung}\label{untersuchung}
+
+Im Vergleich zu Meta-Bibliographien ist die Anzahl von
+Meta-Metabibliographien klein und das Interesse an dieser Art von
+Verzeichnissen gering. Im Wikipedia- Artikel \enquote{Bibliografie} wird
+das Konzept (seit einem Eintrag im Februar 2007) lediglich als Idee
+erwähnt (Lexoldie, 2007):
+
+\begin{quote}
+Es gibt bereits eine ganze Reihe von Metabibliografien zu einzelnen
+Fachgebieten, sodass die Zusammenstellung einer Bibliografie der
+Metabibliografien durchaus sinnvoll wäre.
+\end{quote}
+
+Der Konjunktiv deutet an, dass die Existenz von Meta-Metabibliographien
+unsicher ist. Es gibt sie allerdings! So führt eine Google-Suche nach
+\enquote{bibliography of bibliographies of bibliographies} unter anderem
+zu folgendem Ergebnis (\enquote{A World Bibliography of Bibliographies}
+1939):
+
+\begin{quote}
+Eventually the ever increasing number of bibliographies of
+\textgreater{} bibliographies has justified the publication of
+Mr.~Josephson's \textgreater{} bibliography of bibliographies of
+bibliographies.
+\end{quote}
+
+Verwiesen wird hier auf die zunächst 1901 und in erweiterter Auflage
+zwischen 1910 und 1913 herausgegebene Bibliographie von Aksel Josephson.
+Neben der Abhandlung von Taylor (1955), der auf Josephson (1901) als
+\enquote{first separate publication of such a list} verweist, ist dies
+auch schon die einzige ausschließliche Meta-Metabibliographie, die in
+Form eines selbständigen Werkes herausgegeben wurde. Taylor (1955, 129)
+merkt zudem an, dass die Idee von Josephson nicht neu sei und dass sich
+vergleichbare Listen in anderen Nachschlagewerken finden, zum Beispiel
+in den Bibliographien von Bibliographien von Peignot (1812) und
+Petzholdt (1866).
+
+Abgesehen von Taylor selbst sowie den von ihm angeführten Quellen, blieb
+jedoch die Suche nach weiteren umfassenden Bibliographien dritter
+Ordnung erfolglos. Es scheint sich auch später niemand mehr intensiver
+mit Metabibliographien als Forschungsgegenstand auseinandergesetzt zu
+haben, so dass das Vorhandensein weiterer umfangreicher Bibliographien
+von Metabibliographien ebenfalls zu bezweifeln ist. In der
+englischsprachigen Wikipedia gibt es zwar einen eigenen kurzen Artikel
+\enquote{Metabibliography}\footnote{\url{https://en.wikipedia.org/wiki/Metabibliography},
+  Stand vom Anfang März 2016}, dieser enthält jedoch lediglich einige
+eher willkürlich zusammengestellt Beispiele, so dass diese Liste,
+zumindest momentan, nicht als weitere Meta-Metabibliographie in Frage
+kommt.
+
+Hjørland (2008) merkt treffend an, dass ihr praktischer Wert für die
+Recherche beschränkt ist:
+
+\begin{quote}
+Metabibliographies may again be found in meta-meta bibliographies, and
+so on. In most real life situations is this a highly problematic way to
+seek information. Why? Firstly because bibliographies are included in
+other bibliographies. One usually needs not go to
+meta-meta-bibliographies. Secondly because the primary literature via
+its bibliographical references is a more or less self-organized
+bibliographical system, which is often underestimated by
+LIS-professionals.
+\end{quote}
+
+Dennoch konnten im Rahmen von Recherchehilfen und Fachliteratur zur
+Bibliographiekunde einige begrenzte Meta-Metabibliographien ermittelt
+werden (Birch, 2015; Gorraiz, 2007?; Keenan, 2015; Rösch \& Härkönen,
+2003). Auf eine umfangreichere Recherche wurde allerdings zugunsten
+einer einfachen Internetsuche verzichtet, so dass lediglich frei im
+Volltext zugängliche Bibliographien berücksichtigt sind.
+
+Neben selbständigen und unselbständigen Bibliographien lassen sich aus
+Literaturdatenbanken \enquote{virtuelle Bibliographien} erstellen. So
+sollte beispielsweise die Menge aller mit der DDC-Notation
+016.016\footnote{Synthetische Notation aus der Grundnotation 016
+  (Bibliografien und Kataloge von Werken über einzelne Themen) und der
+  Notation 016 (Bibliografien, Kataloge, Indizes) aus Anhängetafel 1.}
+erschlossenen Titel eine Liste von Meta-Bibliographien ergeben.
+Erschließungsqualität und Recherchemöglichkeit der meisten Kataloge
+lassen allerdings so stark zu wünschen übrig, dass auch dieses Verfahren
+keine weitere Meta-Metabibliographien ergibt.
+
+\section*{Die Bibliographie}\label{die-bibliographie}
+
+\paragraph{Universalbibliographien}\label{universalbibliographien}
+
+Universalbibliographien umfassen Bibliographien möglichst aller
+Metabibliographien:
+
+\begin{itemize}
+\item
+  Josephson (1901), gedruckt in 500 Exemplaren,\footnote{Online
+    digitalisiert verfügbar unter
+    \url{https://archive.org/details/bibliographiesof00joserich}}
+  enthält 156 Titel aus den Jahren 1664 bis 1900. Die Sammlung bildet
+  trotz aller Schwächen die Grundlage der folgenden Werke.
+\item
+  Grundtvig (1903)\footnote{Online digitalisiert verfügbar unter
+    \url{http://www.digizeitschriften.de/dms/resolveppn/?PID=GDZPPN000264148},
+    Nachdruck auch bei Frank (1978), S.182-209.} korrigiert und ergänzt
+  Josephson im Rahmen einer allgemeinen Kritik verschiedener
+  Metabibliographien.
+\item
+  Zwischen 1911 und 1913 gab Josephson (1911a, 1911b, 1912, 19121913b,
+  19121913a) eine zweite Auflage seiner Bibliographie heraus, bei der er
+  einen Teil der Kritik von Grundtvig berücksichtigte. Wie Taylor (1955,
+  130) anmerkt, bleibt das Werk jedoch hinter seinen Ambitionen
+  zurück.\footnote{Es bleibt offen, in wie weit Josephson von Paul
+    Otlet's zeitgleich agierendem \emph{Répertoire Bibliographique
+    Universel} beeinflusst wurde. Sein Vorschlag zur Einrichtung eines
+    Bibliographischen Instituts (Josephson, 1905) weist zumindest starke
+    Parallelen auf.} Als Mitarbeiter an der zweiten Auflage werden
+  Charles Henry Lincoln, Adolf C. von Noé und Selma Nachman genannt.
+\item
+  Taylor (1955)\footnote{Online digitalisiert verfügbar unter
+    \url{https://archive.org/details/AHistoryOfBibliographiesOfBibliographies}}
+  stellt ausführlich die Geschichte der allgemeinen Metabibliographien
+  seit 392 v. Chr. dar. Die Abhandlung enthält Beschreibungen und
+  Bewertungen der aufgeführten Werke und kann als (einziges)
+  Standardwerk zum Thema angesehen werden.
+\end{itemize}
+
+\paragraph{Auswahlbibliographien}\label{auswahlbibliographien}
+
+Auswahlbibliographien umfassen Empfehlungslisten von Metabibliographien
+sowie Bibliographien von Metabibliographien eines bestimmten
+Fachgebietes:
+
+\begin{itemize}
+\item
+  Rösch \& Härkönen (2003) behandeln \enquote{Bibliographien der
+  Bibliographien} im Rahmen einer Lehrveranstaltung zu allgemeinen
+  Informationsmitteln. Die Sammlung enthält zwei Lehrbücher, vier
+  retrospektive Verzeichnisse, zwei laufende Verzeichnisse und vier
+  Verzeichnisse von allgemeinen Informationsmitteln.
+\item
+  Gorraiz (2007?) führt in seiner \enquote{Bibliographie der
+  Bibliographien} zwei Lehrbücher, acht retrospektive Verzeichnisse und
+  fünf laufende Verzeichnisse auf zwischen 1945 und 2003 an. Zur
+  Einführung verweist er auf Taylor (1955). Die Bibliographie ist Teil
+  eines Leitfaden zur Bibliographiekunde.
+\item
+  Die von Keenan (2015) herausgegebene Liste von \enquote{Bibliographies
+  of Bibliographies} beinhaltet insgesamt 19 Bibliographien von
+  Bibliographien und anderen Nachschlagewerken zum Thema Russland,
+  Osteuropa und Eurasien. Sie ist Teil eines von der Princeton
+  University Library herausgegebenen Rechercheführers für diese Gebiete.
+\item
+  Birch (2015) listet in seinem umfangreichen Nachschlagewerk von
+  Philatelie- Quellen als \enquote{Bibliography of Bibliographies of
+  Bibliographies} zwei Meta- Metabibliographien auf, von denen
+  allerdings eine nur in geringer Auflage an ausgewählte Personen
+  verteilt wurde.
+\end{itemize}
+
+\paragraph{Daten der Bibliographie}\label{daten-der-bibliographie}
+
+Die angemessene Form der Erfassung von Literatur ist eigentlich eine
+Datenbank. Die Einträge dieser Bibliographie liegen zumindest im
+BibTeX-Format vor.\footnote{Unter
+  \url{https://github.com/jakobib/libreas2016b/blob/master/bibliography.bib}}
+Da dieses Format keine Normdaten unterstützt, hier die Identifier der
+Werke und beteiligten Personen (sofern vorhanden):
+
+\subparagraph{Werke}\label{werke}
+
+\begin{itemize}
+\tightlist
+\item
+  Josephson (1901)
+  \url{http://worldcat.org/entity/work/id/4932415}\footnote{Die von OCLC
+    herausgegebenen Werk-URIs lassen sich wie unter
+    \textless{}http://zbw.eu/labs/de/blog
+    /other-editions-of-this-work-an-experiment-with-oclcs-lod-work-identifiers\textgreater{}
+    beschrieben abrufen.}
+\item
+  Josephson (1911ff) \url{http://worldcat.org/entity/work/id/2242187655}
+\item
+  Grundtvig (1903) \url{http://worldcat.org/entity/work/id/1808537611}
+\item
+  Taylor (1955) \url{http://worldcat.org/entity/work/id/1711838}
+\end{itemize}
+
+\subparagraph{Personen}\label{personen}
+
+\begin{itemize}
+\tightlist
+\item
+  Vilhelm Grundtvig (1866-1950) \url{http://viaf.org/viaf/47127585}
+\item
+  Archer Taylor (1890-1973) \url{http://viaf.org/viaf/49251338}
+\item
+  Aksel Gustav Salomon Josephson (1860-1944)
+  \url{http://viaf.org/viaf/44667288}
+\item
+  Selma Nachman \url{http://viaf.org/viaf/53909744}
+\item
+  Charles Henry Lincoln (1869-1938) \url{http://viaf.org/viaf/65064279}
+\item
+  Adolf Carl von Noé (1873-1939) \url{http://viaf.org/viaf/160187725}
+\item
+  Hermann Rösch (1954-) \url{http://viaf.org/viaf/142145067343066631382}
+\item
+  Sonja Härkönen \url{http://viaf.org/viaf/62491635}
+\end{itemize}
+
+\section*{Zusammenfassung und
+Bewertung}\label{zusammenfassung-und-bewertung}
+
+Der vorliegende Versuch einer Bibliographie von Bibliographien von
+Bibliographien von Bibliographien dient in erster Linie dazu, eine
+Fachveröffentlichung mit ausgefallenem Titel zu lancieren. Da es sich
+schon bei Bibliographien um Dokumente über Dokumente, also um
+\emph{Meta-Dokumente} handelt, bildet diese Übersicht von
+Meta-Metabibliographien quasi ein \emph{Meta-
+Meta-Meta-Meta-Dokument}.\footnote{Also ein \(Meta^{2^2}\)-Dokument.
+  Diese Bezeichnung wäre allerdings ebenso verwirrend wie albern.}
+
+Das Ergebnis ist überschaubar und vermutlich nicht vollständig:
+Insgesamt konnten lediglich vier allgemeine Bibliographien von
+Metabibliographien ausfindig gemacht werden, bei Zusammenfassung
+verschiedener Auflagen sogar nur drei. Darüber hinaus sind vier
+Auswahlbibliographien aufgeführt, die nicht auf Vollständigkeit angelegt
+sind und/oder sich auf ein bestimmtes Fachgebiet beschränken. Es ist zu
+vermuten, dass im Rahmen von allgemeineren Bibliographien,
+Nachschlagewerken und Recherchehilfen weitere, derart begrenzte
+Meta-Meta\-biblio\-graphien (oder zumindest einfache Literaturlisten)
+existieren.
+
+Trotz dieser Schwächen kann, in Ermangelung ähnlicher Unterfangen, die
+vorliegende Übersicht als bislang umfangreichstes Verzeichnis von
+Meta-Meta- Bibliographien angesehen werden. Sollten weitere solche
+Bibliographien existieren oder erstellt werden, so ist mit einer
+Meta-Meta-Meta-Bibliographie zu rechnen. Forschungsbedarf besteht vor
+allem zur Entwicklung von Metabibliographien seit 1955, was mit der
+Einführung von bibliographischen Datenbanken zusammenfällt.\footnote{Die
+  erste Untersuchung zum Einsatz von elektronischen Literaturdatenbanken
+  stammt von Philipp Bagley (1951), der übrigens später ebenfalls den
+  Begriff \enquote{Metadaten} prägte.} Durch eine einfache Suche konnten
+weder \emph{Datenbanken von Datenbanken von Datenbanken} noch
+\emph{Kataloge von Katalogen von Katalogen} gefunden werden (ihre
+Existenz ist also nicht ausgeschlossen, aber zumindest zweifelhaft); es
+gibt allerdings eine Reihe von \emph{Listen von Listen von Listen} sowie
+Listen höherer Ordnung.\footnote{Beispielsweise die \emph{List of lists
+  of lists} in der Englischsprachigen Wikipedia
+  (\url{https://en.wikipedia.org/wiki/List_of_lists_of_lists}) und die
+  irgendwann zwischen 2008 und 2011 von Scott Sisikind zusammengestellte
+  \enquote{List of Lists of Lists of Lists}
+  (\url{http://www.raikoth.net/lololol.html}).} Ob die Betrachtung solch
+allgemeiner Meta-Sammlungen zur Erstellung von Sammlungen höherer
+Ordnung zielführend ist, darf bezweifelt werden. Vielmehr macht es Sinn,
+für weitergehende Untersuchungen den Akt des Sammeln und Beschreibens
+anderer Sammlungen und Beschreibungen selbst zu betrachten.\footnote{Ein
+  Ansatz für den Bereich von (Meta-)Daten liegt vor (Voß, 2013).}
+
+\hyperdef{}{references}{\label{references}}
+\section*{Literaturverzeichnis}\label{literaturverzeichnis}
+\addcontentsline{toc}{section*}{Literaturverzeichnis}
+
+\hyperdef{}{ref-Bagley1951}{\label{ref-Bagley1951}}
+Bagley, P. R. (1951). Electronic Digital Machines for High-Speed
+Information Searching.
+
+\hyperdef{}{ref-Birch2015}{\label{ref-Birch2015}}
+Birch, B. J. (2015). „Bibliographies of Bibliographies``, in \emph{The
+Philatelic Bibliophile's Companion}, 1205--1206. URL:
+\url{http://www.fipliterature.org/pbcompanion.PDF}.
+
+\hyperdef{}{ref-Frank1978}{\label{ref-Frank1978}}
+Frank, P. R. Hrsg. (1978). \emph{Von der systematischen Bibliographie
+zur Dokumentation}. Darmstadt: Wissenschaftliche Buchgesellschaft.
+
+\hyperdef{}{ref-Gorraiz2007}{\label{ref-Gorraiz2007}}
+Gorraiz, J. (2007?). „Bibliographien der Bibliographien``, in
+\emph{Bibliographie. Leitfaden zur konventionellen Bibliographie mit
+besonderer Berücksichtigung von CD-ROM- und Web-Ressourcen} URL:
+\url{http://homepage.univie.ac.at/juan.gorraiz/konven/bibbib.htm}.
+
+\hyperdef{}{ref-Grundtvig1903}{\label{ref-Grundtvig1903}}
+Grundtvig, V. (1903). Gedanken über Bibliographie. \emph{Centralblatt
+für Bibliothekswesen} 20, 405--443.
+
+\hyperdef{}{ref-Hjorland2008}{\label{ref-Hjorland2008}}
+Hjørland, B. (2008). Information Literacy and Digital Literacy.
+\emph{prisma.com}. URL:
+\url{http://revistas.ua.pt/index.php/prismacom/article/view/684}.
+
+\hyperdef{}{ref-Josephson1901}{\label{ref-Josephson1901}}
+Josephson, A. (1901). \emph{Bibliographies of Bibliographies,
+chronologically arranged, with occasional notes and an index}. Chicago:
+Bibliographical Society of Chicago.
+
+\hyperdef{}{ref-Josephson1905}{\label{ref-Josephson1905}}
+Josephson, A. (1905). \emph{Proposition for the establishment of a
+bibliographical institute}. Chicago.
+
+\hyperdef{}{ref-Josephson1911a}{\label{ref-Josephson1911a}}
+Josephson, A. (1911a). Bibliographies of Bibliographies. \emph{The
+Bulletin of the Bibliographical Society of America} 3, 23--24.
+
+\hyperdef{}{ref-Josephson1911b}{\label{ref-Josephson1911b}}
+Josephson, A. (1911b). Bibliographies of Bibliographies. \emph{The
+Bulletin of the Bibliographical Society of America} 3, 50--53.
+
+\hyperdef{}{ref-Josephson1912}{\label{ref-Josephson1912}}
+Josephson, A. (1912). Bibliographies of Bibliographies (Continuation).
+\emph{The Bulletin of the Bibliographical Society of America} 4, 23--27.
+
+\hyperdef{}{ref-Josephson1913b}{\label{ref-Josephson1913b}}
+Josephson, A. (1912--1913a). Bibliographies of Bibliographies: Second
+edition (concluded). \emph{The Papers of the Bibliographical Society of
+America} 7, 115--123.
+
+\hyperdef{}{ref-Josephson1913a}{\label{ref-Josephson1913a}}
+Josephson, A. (1912--1913b). Bibliographies of Bibliographies: Second
+edition (continued). \emph{The Papers of the Bibliographical Society of
+America} 7, 33--34.
+
+\hyperdef{}{ref-Keenan2015}{\label{ref-Keenan2015}}
+Keenan, T. Hrsg. (2015). „Bibliographies of Bibliographies``, in
+\emph{Russia, Eastern Europe, and Eurasia: A Research Guide} (Pricenton
+University Library). URL:
+\url{http://libguides.princeton.edu/c.php?g=84111\&p=545030}.
+
+\hyperdef{}{ref-Lexoldie2007}{\label{ref-Lexoldie2007}}
+Lexoldie, B. (2007). Bibliografie. \emph{Wikipedia}. URL:
+\url{https://de.wikipedia.org/w/index.php?diff=prev\&oldid=27658711}.
+
+\hyperdef{}{ref-Peignot1812}{\label{ref-Peignot1812}}
+Peignot, G. (1812). \emph{Répertoire bibliographique universel}. Paris:
+Chez Antoine-Augustin Renouard.
+
+\hyperdef{}{ref-Petzholdt1866}{\label{ref-Petzholdt1866}}
+Petzholdt, J. (1866). \emph{Bibliotheca bibliographica}. Leipzig:
+Engelmann.
+
+\hyperdef{}{ref-Roesch2003}{\label{ref-Roesch2003}}
+Rösch, H., \& Härkönen, S. (2003). „Bibliographien der Bibliographien``,
+in \emph{Allgemeine Informationsmittel} URL:
+\url{http://www.fbi.fh-koeln.de/institut/personen/roesch/Material/_Roesch/Informationsmittel/Kapitel5.htm}.
+
+\hyperdef{}{ref-Taylor1955}{\label{ref-Taylor1955}}
+Taylor, A. (1955). \emph{A history of bibliographies of bibliographies}.
+New Brunswick, N.J.: Scarecrow Press.
+
+\hyperdef{}{ref-Voss2013}{\label{ref-Voss2013}}
+Voß, J. (2013). Describing data patterns. A general deconstruction of
+metadata standards.
+
+%autor
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\textbf{Jakob Voß} arbeitet im Bereich Forschung und Entwicklung an der
+Verbundzentrale des GBV (VZG).
+
+\end{document}

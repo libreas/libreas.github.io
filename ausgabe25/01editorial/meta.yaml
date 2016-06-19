@@ -9,7 +9,7 @@
 	<meta name="author" content="LIBREAS. Library Ideas">
 
 	<!--
-	<meta name="description" content="> > > LIBREAS. Library Ideas # 25 Download PDF @ edoc HU Berlin urn:nbn:de:kobv:11-100219329 Spurensuche: Bibliothekarinnen, Berufsgeschichte, &hellip;">
+	<meta name="description" content="> > > LIBREAS. Library Ideas # 25 Annotate @ Hypothesis.io Download PDF @ edoc HU Berlin urn:nbn:de:kobv:11-100219329 Spurensuche: Bibliothekarinnen &hellip;">
 	 -->
 
 <!-- RDFa DC -->
@@ -149,11 +149,15 @@ ga('send', 'pageview');
 
     
     <div align="right">
+      <p><small>
+      <a itemprop="url" href="https://via.hypothes.is/http://libreas.eu/ausgabe25/01editorial/meta.yaml">Annotate @ Hypothesis.io </a></small>
+    </p>
         <small><a itemprop="sameAs" href="http://nbn-resolving.de/urn:nbn:de:kobv:11-100219329">Download PDF @ edoc HU Berlin</a>
             <br>
             urn:nbn:de:kobv:11-100219329 </small>
         </div>
         
+
 
         
         <h1 itemprop="name" class="title">Spurensuche: Bibliothekarinnen, Berufsgeschichte, Sprache in Nachrufen. Ein Dialog</h1>
@@ -228,7 +232,7 @@ ga('send', 'pageview');
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2016-01-14</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2016-06-19</a>)</p>
 
 </footer>
 

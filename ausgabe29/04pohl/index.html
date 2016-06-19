@@ -1,0 +1,518 @@
+
+<!DOCTYPE HTML>
+
+<html lang="de">
+
+<head>
+	<meta charset="utf-8">
+	<title>Semiautomatische Katalogisierung und Normdatenverknüpfung mit Zotero im Index Theologicus - LIBREAS. Library Ideas</title>
+	<meta name="author" content="LIBREAS. Library Ideas">
+
+	<!--
+	<meta name="description" content="Am Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (hbz) wird seit Anfang 2014 nach Vorgaben und unter Begutachtung der Universitäts- und &hellip;">
+	 -->
+
+<!-- RDFa DC -->
+
+ <!-- RDFa Metadata (in DublinCore) -->
+    
+    <meta property="dc:title" content="Semiautomatische Katalogisierung und Normdatenverknüpfung mit Zotero im Index Theologicus" />
+    
+    
+    
+    <meta property="dc:creator" content="Adrian Pohl" />
+    
+    <meta property="dc:creator" content="Fabian Steeg" />
+    
+    
+    
+    <meta property="dc:date" content="2016" />
+    
+    <meta property="dc:format" content="text/html" />
+    <meta property="dc:language" content="de" />
+    <meta property="dc:identifier" content="http://libreas.eu/ausgabe29/04pohl/index.html" />
+    
+    <meta property="dc:rigths" prefix="cc: http://creativecommons.org/ns#" rel="cc:license" href="https://creativecommons.org/licenses/by/3.0/" content="CC-BY 3.0" />
+	
+    <meta property="dc:source" content="LIBREAS. Library Ideas" />
+    <meta property="dc:subject" content="Library and Information Science" />
+    <meta property="dc:type" content="website" />
+    <meta property="dc:description" content="Am Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (hbz) wird seit Anfang 2014 nach Vorgaben und unter Begutachtung der Universitäts- und Landesbibliotheken in Düsseldorf, Münster und Bonn ein neuer Webauftritt für die Landesbibliographie Nordrhein-Westfalens, die Nordrhein-Westfälische Bibliographie (NWBib) entwickelt. Die Entwicklung basiert auf der Web-Schnittstelle des Linked-Open-Data-Dienst lobid und wird vollständig mit Open-Source-Software entwickelt. Aus der Perspektive des Entwicklungsteams am hbz beschreibt der Artikel Kontext und Durchführung des Projekts. Der Beitrag skizziert die historische Entwicklung der NWBib mit Fokus auf die Beziehung der Bibliographie zum World Wide Web (WWW), erläutert die Voraussetzungen für die Neuentwicklung sowie die Leitlinien des Entwicklungsprozesses, gibt einen Überblick über die Nutzung des neuen Webauftritts und die zur Umsetzung verwendete Technologie. Abgeschlossen wir der Artikel mit Lessons-Learned und einem Ausblick auf weitere Entwicklungen."/>
+    <meta property="dc:source" resource="urn:ISSN:1860-7950" /> 
+
+<!-- Google Scholar -->
+
+	<meta name="citation_journal_title" content="LIBREAS. Library Ideas" />
+	<meta name="citation_issue" content="29" />
+	<meta name="citation_issn" content="1860-7950" />
+	
+    <meta name="citation_publication_date" content="2016" />
+    
+
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link href="/atom.xml" rel="alternate" title="LIBREAS. Library Ideas" type="application/atom+xml">
+	
+	<link rel="canonical" href="http://libreas.eu/ausgabe29/04pohl/">
+	<link href="/favicon.png" rel="shortcut icon">
+	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+	<script src="/js/jquery.min.js"></script>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-46475342-1', 'libreas.eu');
+ga('send', 'pageview');
+
+</script>
+
+    <!--   
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="public/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" href="favicon.png"> -->
+  
+	
+</head>
+
+
+
+
+  <body class="theme-base-wes">
+
+    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <a href="/">LIBREAS. Library Ideas</a>
+  </div>
+
+  <nav class="sidebar-nav">
+
+    	<a class="sidebar-nav-item" href="/ausgabe28/">Aktuelle Ausgabe</a>
+	<a class="sidebar-nav-item" href="/archiv.htm">Archiv</a>
+	<a class="sidebar-nav-item" href="http://edoc.hu-berlin.de/browsing/libreas/">edoc pdf-Archiv</a>
+	<a class="sidebar-nav-item" href="/autorinnen">AutorInnen</a>
+	<a class="sidebar-nav-item" href="http://libreas.wordpress.com/category/libreas-call-for-papers/">Call for Papers</a>
+	<a class="sidebar-nav-item" href="/authorguides">Hinweise</a>
+	<a class="sidebar-nav-item" href="http://libreas.wordpress.com/">Blog</a>
+	<a class="sidebar-nav-item" href="http://libreas.tumblr.com/">Tumblr</a>
+	<a class="sidebar-nav-item" href="http://www.ib.hu-berlin.de/~libreas/libreas_neu/podcasts/">Podcasts</a>
+	<a class="sidebar-nav-item" href="http://libreas-verein.eu">Verein</a>
+	<a class="sidebar-nav-item" href="/about">Impressum</a>
+
+
+  </nav>
+</div>
+
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <!-- <div class="wrap">
+       <div class="masthead">
+        <div class="container">
+          <h1 class="masthead-title">
+            <a href="/" title="Home">LIBREAS. Library Ideas</a>
+            <small><br></small>
+          </h1>
+        </div>
+      </div> -->
+
+
+      <div class="container content">
+      <!-- GitHub et al icon -->
+      <div align="right" class="icons">
+        <a href="mailto:redaktion@libreas.eu"><i class="fa fa-envelope"></i></a>
+        <a href="https://github.com/libreas"><i class="fa fa-github-square"></i></a>
+        <a href="https://www.facebook.com/libreas"><i class="fa fa-facebook"></i></a>
+        <a href="https://twitter.com/libreas"><i class="fa fa-twitter"></i></a>
+        <a href="https://github.com/libreas.atom"><i class="fa fa-rss"></i></a>
+</div>
+        
+<article class="page" itemscope itemtype="http://schema.org/ScholarlyArticle">
+
+<div align="right">
+
+<strong> > > > <a href="/ausgabe29/inhalt/">LIBREAS. Library Ideas # 29</a></strong> <br><br>
+</div>
+
+
+
+
+    
+    <div align="right">
+      <p><small>
+      <a itemprop="url" href="https://via.hypothes.is/http://libreas.eu/ausgabe29/04pohl/">Annotate @ Hypothesis.io </a></small>
+    </p>
+        <small><a itemprop="sameAs" href="http://nbn-resolving.de/urn:nbn:de:kobv:11-100238146">Download PDF @ edoc HU Berlin</a>
+            <br>
+            urn:nbn:de:kobv:11-100238146 </small>
+        </div>
+        
+
+
+        
+        <h1 itemprop="name" class="title">Semiautomatische Katalogisierung und Normdatenverknüpfung mit Zotero im Index Theologicus</h1>
+        
+
+
+        
+        <div class="titelei">
+            
+            
+            
+            <i itemprop="author">Adrian Pohl</i>
+            
+            
+            
+            <i>&amp;</i> <i itemprop="author">Fabian Steeg</i>
+            
+            
+        </div>
+        
+
+
+
+        
+
+        <p><small itemprop="description">Am Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (hbz) wird seit Anfang 2014 nach Vorgaben und unter Begutachtung der Universitäts- und Landesbibliotheken in Düsseldorf, Münster und Bonn ein neuer Webauftritt für die Landesbibliographie Nordrhein-Westfalens, die Nordrhein-Westfälische Bibliographie (NWBib) entwickelt. Die Entwicklung basiert auf der Web-Schnittstelle des Linked-Open-Data-Dienst lobid und wird vollständig mit Open-Source-Software entwickelt. Aus der Perspektive des Entwicklungsteams am hbz beschreibt der Artikel Kontext und Durchführung des Projekts. Der Beitrag skizziert die historische Entwicklung der NWBib mit Fokus auf die Beziehung der Bibliographie zum World Wide Web (WWW), erläutert die Voraussetzungen für die Neuentwicklung sowie die Leitlinien des Entwicklungsprozesses, gibt einen Überblick über die Nutzung des neuen Webauftritts und die zur Umsetzung verwendete Technologie. Abgeschlossen wir der Artikel mit Lessons-Learned und einem Ausblick auf weitere Entwicklungen.</small></p>
+
+        
+
+        
+
+
+
+        
+        <p>
+          <small>
+            <br>
+            Zitiervorschlag
+            <br>
+            
+            
+            Adrian Pohl,
+            
+            
+            
+            Fabian Steeg,
+            
+            "Semiautomatische Katalogisierung und Normdatenverknüpfung mit Zotero im Index Theologicus". <i itemprop="provider">LIBREAS. Library Ideas</i>, 29 (<span itemprop="datePublished">2016</span>). <a itemprop="url" href="http://libreas.eu/ausgabe29/04pohl/">http://libreas.eu/ausgabe29/04pohl/</a>
+        </small>
+        <hr>
+    </p>
+    
+
+
+
+
+
+    <div class="entry-content" itemprop="articleBody"><div id="TOC">
+<ul>
+<li><a href="#rechtliche-voraussetzungen-und-verantwortlichkeiten">Rechtliche Voraussetzungen und Verantwortlichkeiten</a></li>
+<li><a href="#historie-der-nwbib">Historie der NWBib</a></li>
+<li><a href="#anforderungen-an-einen-modernen-webauftritt">Anforderungen an einen modernen Webauftritt</a></li>
+<li><a href="#bibliothekarische-voraussetzungen">Bibliothekarische Voraussetzungen</a></li>
+<li><a href="#der-webauftritt">Der Webauftritt</a></li>
+<li><a href="#der-entwicklungsprozess">Der Entwicklungsprozess</a></li>
+<li><a href="#technologie">Technologie</a></li>
+<li><a href="#herausforderungen-lessons-learned">Herausforderungen &amp; Lessons Learned</a></li>
+<li><a href="#ausblick">Ausblick</a></li>
+</ul>
+</div>
+<p>Dieser Artikel beschreibt die Entwicklung eines modernen Webauftritts für die Nordrhein-Westfälische Bibliographie (abgekürzt NWBib) im Kontext der historischen Entwicklung dieser Landesbibliographie. Der Auftritt findet sich unter:</p>
+<p><a href="https://nwbib.de" class="uri">https://nwbib.de</a></p>
+<p>Die Aufgaben einer Landesbibliographie bestimmt Syre <span class="citation">(2006, 34)</span> wie folgt:</p>
+<blockquote>
+<p>Aufgabe einer Regionalbibliographie ist es, die Literatur über eine Region, ihre historischen und aktuellen Teilgebiete, ihre Naturräume und ihre Orte sowie die mit der betreffenden Region verbundenen Persönlichkeiten (verstorbenen wie lebenden) zu verzeichnen. Deckt sich der geographische Berichtsraum einer Regionalbibliographie mit den Grenzen eines Bundeslandes, spricht man von einer Landesbibliographie.</p>
+</blockquote>
+<p>Dies gilt so auch für die Nordrhein-Westfälische Bibliographie. In der Selbstdarstellung des neuen Webauftritts<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a> heißt es:</p>
+<blockquote>
+<p>Die Nordrhein-Westfälische Bibliographie (NWBib) verzeichnet die Literatur über das Land Nordrhein-Westfalen, seine Regionen, Orte und Persönlichkeiten, Literatur aus allen Lebens- und Wissensbereichen in Geschichte und Gegenwart.</p>
+</blockquote>
+<blockquote>
+<p>Die NWBib ist eine der umfangreichsten Regionalbibliographien Deutschlands. Sie erschließt nicht nur Bücher und Zeitschriften, sondern auch Aufsätze und andere Medien wie etwa Karten, DVDs, Hörbücher und elektronische Publikationen.</p>
+</blockquote>
+<p>Mit Stand April 2016 verzeichnet die NWBib mehr als 370.000 Literaturnachweise, davon mehr als 60 Prozent Aufsätze aus Zeitschriften oder Sammelbänden.</p>
+<p>Der Aufbau des neuen NWBib-Webauftritt begann im Januar 2014. Zunächst war die Beendigung der Testphase (Beta) vom Entwicklungsteam für Ende 2014 geplant. Der offizielle Launch-Termin wurde jedoch mehrmals nach hinten verschoben. Im April 2016 haben die Leitungen der Landesbibliotheken mitgeteilt, dass das Angebot nun beworben werden könne. Eine öffentliche Vorstellung des neuen Auftritts wird Ende August im Rahmen der Feierlichkeiten zu 70 Jahren NRW stattfinden.</p>
+<p>Dieser Beitrag skizziert die historische Entwicklung der NWBib mit Fokus auf die Beziehung der Bibliographie zum World Wide Web (WWW), beschreibt die Voraussetzungen für die Neuentwicklung sowie die Leitlinien des Entwicklungsprozesses, gibt einen Überblick über die Nutzung des neuen Webauftritts und die zur Umsetzung verwendete Technologie und schließt mit Lessons Learned und einem Ausblick auf weitere Entwicklungen. Da beide Autoren Teil des Software-Entwicklungsteams am Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (hbz) sind, wird die Entwicklungsperspektive gegenüber der Perspektive der NWBib-Redaktion hier im Vordergrund stehen.</p>
+<h3 id="rechtliche-voraussetzungen-und-verantwortlichkeiten">Rechtliche Voraussetzungen und Verantwortlichkeiten</h3>
+<p>Die <q>entscheidende Grundlage für die Bearbeitung einer Landesbibliographie</q> liefert die Wahrnehmung des Pflichtexemplarrechts <span class="citation">(Syré, 2006, 36)</span>. Wie in anderen Bundesländern üblich, wird auch die NWBib von jenen Bibliotheken erstellt, die für die Sammlung und Archivierung von Pflichtstücken zuständig sind. Im Unterschied zu anderen Bundesländern sind die Erstellung, die Entwicklung und der Betrieb der Nordrhein-Westfälischen Landesbibliographie sogar im Pflichtexemplargesetz verankert. So heißt es im <em>Gesetz zur Regelung des Pflichtexemplarrechts in Nordrhein-Westfalen</em>, §2:</p>
+<blockquote>
+<ol style="list-style-type: decimal">
+<li><p>Die Aufgabe der Sammlung der Pflichtexemplare nehmen die Universitäts- und Landesbibliotheken Bonn, Düsseldorf und Münster gemeinsam wahr. […]</p></li>
+<li><p>Die Bibliotheken erstellen gemeinsam die Nordrhein-Westfälische Bibliographie. Diese verzeichnet und erschließt die Medienwerke mit inhaltlichem Bezug zu Nordrhein-Westfalen unabhängig davon, ob sie innerhalb oder außerhalb Nordrhein-Westfalens verlegt werden.</p></li>
+<li><p>Das Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen unterstützt die Pflichtexemplarsammlung der Universitäts- und Landesbibliotheken sowie die Herausgabe der Nordrhein-Westfälischen Bibliographie durch die Entwicklung und den Betrieb von technischen Infrastrukturleistungen.</p></li>
+</ol>
+</blockquote>
+<p>Entsprechend sieht auch die tatsächliche Arbeitsteilung aus: Die Redaktionsstellen an den Universitäts- und Landesbibliotheken Münster und Düsseldorf arbeiten an der Erstellung und Pflege der NWBib, wobei sie von der ULB Bonn unterstützt werden, die sich auf die Erfassung von Monographien beschränkt. Das Hochschulbibliothekszentrum fungiert als technischer Dienstleister für Betrieb und Entwicklung der Erfassungsumgebung und des Webauftritts.<a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a></p>
+<p>Für den Aufbau des neuen NWBib-Webauftritts war am hbz dasselbe Team verantwortlich, das auch den hbz-Linked-Data-Dienst lobid (Linking Open Bibliographic Data) betreibt. Das lobid-Team besteht aus zwei Entwicklern (Pascal Christoph mit Schwerpunkt auf Datentransformation und Fabian Steeg mit Schwerpunkt auf Webentwicklung) und einem wissenschaftlichen Bibliothekar (Adrian Pohl, verantwortlich für Metadatenstandards, Projektmanagement und Kommunikation).</p>
+<h3 id="historie-der-nwbib">Historie der NWBib</h3>
+<p>Die NWBib ist eine der jüngeren Landesbibliographien Westdeutschlands. Ihre direkten Vorläufer sind die Westfälische Bibliographie, die ab 1954 erstellt wurde und den Zeitraum ab 1945 abdeckt und die Lippische Bibliographie, die ab 1957 erstellt wurde.<a href="#fn3" class="footnoteRef" id="fnref3"><sup>3</sup></a> Mit der Nordrhein-Westfälischen Bibliographie wurden diese Vorläufer fortgeführt und um die bibliographische Verzeichnung von Literatur über das Rheinland ergänzt. Der erste Band der NWBib (Berichtsjahr 1983) ist 1984 erschienen.</p>
+<h4 id="edv-gestützte-druckproduktion">EDV-gestützte Druckproduktion</h4>
+<p>Wie <span class="citation">Schmidt (1998)</span> darstellt wurde von Anfang an auf eine EDV-gestützte Produktion gesetzt, auch wenn die Bibliographie zunächst allein als Druckfassung erschien. Dennoch war der Aufwand zur Erstellung einer gedruckten Bibliographie ungleich größer im Vergleich zur heute gängigen Pflege einer Datenbank. Für die ersten zehn Bände beschreibt <span class="citation">Schmidt (1998)</span> das Verfahren wie folgt:</p>
+<blockquote>
+<p>Die Titel wurden jahrgangsweise maschinenschriftlich auf Erfassungsbögen von den beiden Redaktionsstellen an der UB Düsseldorf und der UB Münster ans HBZ gesandt, dort von Datenerfassungskräften maschinenlesbar als EDT-Dateien erfaßt, von einer weiteren Redakteurin korrekturgelesen und schließlich mit dem GID-Programm verarbeitet. Das Endprodukt waren vier Magnetbänder für die jeweils vier Teile einer Druckausgabe, fertig kodiert mit Steuerzeichen für die Weiterverarbeitung auf einer Lichtsetzmaschine. Diese Bänder wurden vom HBZ einem durch Ausschreibung ermittelten Druckhaus übergeben, welches über eine bestimmte Lichtsetzanlage verfügen mußte, um die Satzsteuerzeichen der Magnetbänder richtig lesen zu können.</p>
+</blockquote>
+<p>Bei der Datenerfassung und -korrektur waren also drei Abteilungen beteiligt, ehe die Daten für den Druck vorbereitet werden konnten. Haller und Mühl <span class="citation">(2006, 312)</span> nennen drei erhebliche Nachteile dieses Verfahrens: Erstens der doppelte Schreibaufwand bei der Erfassung über Datenerfassungsbögen und der Übertragung in ein besser maschinenlesbares Format, zweitens das aufwändige Korrekturverfahren bei der jährlichen Druckaufbereitung und – am schwerwiegendsten – drittens das Fehlen einer Datenbank, was eine Dublettenkontrolle und die kontrollierte Verschlagwortung mittels der Schlagwortnormdatei (SWD) unmöglich machte.</p>
+<h4 id="mit-latex-ins-web">Mit LaTeX ins Web</h4>
+<p>Ab der Herstellung des elften Bandes der NWBib (Jahrgang 1993) hat sich das Verfahren geändert. Der Hauptgrund für die Umstellung des Druckverfahrens war der Anschluss der ULBs Düsseldorf und Münster an den hbz-Verbund Anfang der 1990er Jahre, womit die NWBib als Sub-System der hbz-Verbunddatenbank geführt wurde. Dies ermöglichte nicht nur das Einsparen von Personalressourcen bei der Druckproduktion, sondern auch die Präsentation der NWBib im WWW.</p>
+<p>Die gedruckte Version wurde nun mit der Software <em>LaTeX</em> vorbereitet. Dafür wurde aus der für den hbz-Verbundkatalog genutzten Datenbanksoftware <em>BIS</em> ein mit TeX-Steuerzeichen versehener Export des jeweiligen NWBib-Jahrgangs generiert <span class="citation">(Schmidt, 1998)</span>. Als Nebenprodukt des neuen Verfahrens konnte auf Basis der LaTeX-Datei mit wenig Aufwand eine HTML-Version der NWBib erstellt werden. Mit Hilfe freier Software und nach Aufbringen einer Personenwoche konnte NWBib-Jahrgang 1993 als erstes WWW-Angebot des hbz 1996 bereitgestellt werden. In <span class="citation">Schmidt (1998)</span> heißt es – unter Nutzung des Kürzels <q>NWB</q> für die NWBib:</p>
+<blockquote>
+<p>Um das Marketing dieses zusätzlichen Angebotes der Bibliographie auf dem Internet brauchten wir uns […] nicht zu kümmern, das haben die Gesetze des World Wide Web sozusagen über nacht [sic] erledigt. Die NWB-Seiten wurden schon bald von den Suchmaschinen entdeckt, eingelesen und indiziert. So kann ein Benutzer auch über eine Recherche in einer Suchmaschine wie zum Beispiel Alta Vista als Treffer auf eine NWB-Seite geführt werden und dort dann mit den Navigationswerkzeugen weitersuchen.</p>
+</blockquote>
+<p>Zusätzlich zur HTML-Variante der Bibliographie wurde 1996 auch der NWBib-Altbestand in die hbz-Verbunddatenbank eingespielt, so dass die gesamte NWBib über den hbz-OPAC durchsucht werden konnte. Datenbanken können aber nicht durch Suchmaschinen indexiert werden – man bezeichnet derartige Angebote als Teil des <q>Deep Web</q> –, weshalb allein das HTML-Angebot die Auffindbarkeit der NWBib über Web-Suchmaschinen ermöglichte.</p>
+<p>Ende der 1990er Jahre wurde das hbz-Verbundsystem auf die Software <em>Aleph</em> von Ex Libris umgestellt. Die NWBib-Redaktion nutzte diese Chance, um die NWBib vollständig in den Verbundkatalog zu integrieren <span class="citation">(Haller &amp; Mühl, 2006, 314f)</span>, was unter anderem den Vorteil hatte, dass die Nutzer jetzt auch Besitznachweise für die verzeichneten Titel vorfanden. Laut Haller und Mühl <span class="citation">(2006, 314)</span> fiel mit <q>dem Beschluss für eine vollständige Übernahme der Bibliographie in das neue Verbundsystem […] auch die Entscheidung, die Druckausgabe aufzugeben und die Bibliographie nur noch als Datenbank anzubieten.</q> Die letzte Druckausgabe der NWBib erschien 1999 mit Berichtsjahr 1997.</p>
+<p>2005 wurde auch die HTML-Version der NWBib eingestellt, und es gab nur noch die Möglichkeit einer Recherche über den Web-OPAC, der mittlerweile auf dem Aleph-System von von Ex Libris basierte. Damit verschwand die NWBib aus dem WWW, und die verzeichnete Literatur war nur für die Leute recherchierbar, die von der Existenz der Bibliographie und ihren Möglichkeiten wussten.</p>
+<h4 id="der-auftrag-zur-modernisierung-des-web-auftritts">Der Auftrag zur Modernisierung des Web-Auftritts</h4>
+<p>Mit dem Aufstieg von Google und Discovery-Services in den Bibliotheken wurde die NWBib-Recherche immer weniger zeitgemäß. Als Reaktion gaben die Landesbibliotheken dem hbz Anfang 2013 den Auftrag, den Webauftritt der NWBib zu überarbeiten. Innerhalb des hbz wurde entschieden, den neuen Webauftritt auf Basis der Programmierschnittstelle (Application Programming Interface, API) des hbz-Linked-Data-Dienstes lobid umzusetzen, die im Herbst 2013 in Produktion gegangen war. Dies sollte unter anderem garantieren, dass die NWBib – wie bereits knapp zwanzig Jahre zuvor – wieder integraler Bestandteil des WWW würde. Anfang 2014 begannen die Entwicklungsarbeiten für den neuen NWBib-Webauftritt.</p>
+<h3 id="anforderungen-an-einen-modernen-webauftritt">Anforderungen an einen modernen Webauftritt</h3>
+<p>Welche Anforderungen sollte ein moderner Webauftritt erfüllen? <span class="citation">Schnasse (2015)</span> hat für einen NWBib-Vortrag beim Bibliothekartag 2015 in Nürnberg eine nützliche Untergliederung von Interessengruppen eines bibliographischen Webauftritts und deren Anforderungen erstellt, an der wir uns hier orientieren.<a href="#fn4" class="footnoteRef" id="fnref4"><sup>4</sup></a> Es lassen sich vier Interessengruppen unterscheiden:</p>
+<ol style="list-style-type: decimal">
+<li>Besucher der NWBib, die nach Literatur recherchieren,</li>
+<li>Externe Webservices, zum Beispiel Suchmaschinen wie Google, DuckDuckGo oder die Virtuelle Deutsche Landesbibliographie (VDL),</li>
+<li>die NWBib-Redaktion sowie</li>
+<li>Web-Entwickler, die auf Basis der NWBib-Daten zusätzliche eigene Anwendungen bauen wollen.</li>
+</ol>
+<p>Im Folgenden werden die Anforderungen der verschiedenen Nutzergruppen näher beleuchtet.</p>
+<h4 id="nwbib-besucher">NWBib-Besucher</h4>
+<p>Das Ziel von Nutzerinnen und Nutzern einer bibliographischen Rechercheanwendung ist es, Literaturhinweise zu einem bestimmten Thema sowie Hinweise zu Zugriffsmöglichkeiten zu bekommen, im besten Fall mit einem direkten Link zum Volltext. Darüber hinaus erwarten Nutzerinnen und Nutzer im Allgemeinen von einer Webanwendung folgende grundlegende Eigenschaften:</p>
+<ul>
+<li>Verlässlichkeit/Verfügbarkeit</li>
+<li>Übersichtlichkeit</li>
+<li>Intuitive Nutzbarkeit</li>
+<li>Schnelle Ladezeiten</li>
+</ul>
+<p>Über diese allgemeinen Anforderungen hinaus variieren die Anforderungen je nach Nutzungstypus. Eine regelmäßig wiederkehrende Besucherin, die etwa spezielle wissenschaftliche Literatur sucht, wird andere Wünsche und Anforderungen haben als ein Besucher, der über eine Google-Suche direkt auf einen Einzeltreffer gelangt. Letzterer will sich erst einmal auf einfache Weise orientieren, auf was für eine Seite er da gelangt ist und welche Informationen sie ihm bietet. Letztere könnte hingegen Interesse haben, komplexere Recherchefunktionen einzusetzen.</p>
+<p>Bisher wurde darauf verzichtet, systematisch herauszufinden, wie zufrieden Endnutzerinnen und Endnutzer mit dem NWBib-Webauftritt sind und welche Dinge verbesserungswürdig sind. Im Zuge der kontinuierlichen Weiterentwicklung des Auftritts sind Usability-Studien für das Jahr 2017 geplant.</p>
+<h4 id="externe-webservices">Externe Webservices</h4>
+<p>Externe Websites lassen sich in verschiedene Typen mit unterschiedlichen Anforderungen an eine Rechercheanwendung untergliedern:</p>
+<ul>
+<li><em>Suchmaschinen</em> crawlen große Mengen von Webseiten und verwerten zunehmend darin angebotene strukturierte Daten.</li>
+<li>Andere möchten die NWBib über eine dokumentierte Schnittstelle abfragen und strukturierte Daten als Antwort bekommen, um die Ergebnisse in ihrem Webauftritt präsentieren. Dazu zählt zum Beispiel die Virtuelle Deutsche Landesbibliographie (VDL).</li>
+<li>Andere wie die <em>Website der NRW-Landesbibliotheken</em><a href="#fn5" class="footnoteRef" id="fnref5"><sup>5</sup></a> möchten die NWBib-Anwendung als Ganzes – inklusive erweiterter Suchmaske und Facettierungsmöglichkeiten – in ihren Webauftritt integrieren.</li>
+</ul>
+<h4 id="nwbib-redaktion">NWBib-Redaktion</h4>
+<p>Die NWBib-Redaktion bewertet die Funktionalitäten des NWBib-Auftritts in erster Linie vor dem Hintergrund der von ihr erfassten Daten, dem dabei benutzten Regelwerk zur Formalerschließung und den verschiedenen Methoden zur Inhaltserschließung.</p>
+<p>Konkret erwartet die NWBib-Redaktion zum Beispiel folgende Funktionalität:</p>
+<ul>
+<li>Angeboten werden sollte eine erweiterte Suche über verschiedene Felder, die mittels Boolescher Operatoren kombiniert werden können.</li>
+<li>Die Ergebnismenge einer Anfrage soll mit jener in der Aleph-Recherche übereinstimmen, was etwa Methoden wie Stemming oder ähnliches ausschließt.</li>
+<li>Die Ergebnisliste soll standardmäßig nach Erscheinungsjahr sortiert sein.</li>
+<li>Treffer sollten auf eine Merkliste gesetzt werden können, die exportiert werden kann.</li>
+</ul>
+<p>So hat die Redaktion zum Ziel, dass die Daten entsprechend den Feldern, Unterscheidungen, Verknüpfungen und Details in den Ausgangsdaten präsentiert werden. Die – teils komplexen – Recherchemöglichkeiten, die die Datenbasis ermöglicht, sollen ausgenutzt werden.</p>
+<p>Die NWBib-Redaktion ist jener Stakeholder, der bisher am meisten Einfluss auf den Entwicklungsprozess nehmen konnte.</p>
+<h4 id="web-entwickler">Web-Entwickler</h4>
+<p>Grundsätzlich versucht das hbz mittels dem lobid-Dienst, offene bibliothekarische Daten so bereitzustellen, dass interessierte Dritte diese innerhalb eigener Anwendungen nutzen können. Damit Entwickler die Daten in eigenen Webanwendungen integrieren können, benötigen sie gut dokumentierte, performante und zuverlässige Schnittstellen zu den Daten. Zudem sollten die angebotenen Daten bestenfalls explizit offen lizenziert sein.</p>
+<h3 id="bibliothekarische-voraussetzungen">Bibliothekarische Voraussetzungen</h3>
+<p>Wie bereits erwähnt wird die NWBib als Untermenge des hbz-Verbundkatalogs mit der Software <em>Aleph</em> der Firma Ex Libris katalogisiert. Zur Identifizierung von NWBib-Titeln wird ein Kennzeichen in Feld 078n gesetzt.<a href="#fn6" class="footnoteRef" id="fnref6"><sup>6</sup></a></p>
+<p>Die Titelerfassung für die NWBib geschieht nach den <em>Regeln für die alphabetische Katalogisierung in wissenschaftlichen Bibliotheken</em> (RAK-WB) und seit Beginn dieses Jahres nach <em>Resource Description and Access</em> (RDA). Die Inhaltserschließung wird zum einen nach den <em>Regeln für den Schlagwortkatalog</em> (RSWK) mithilfe der Gemeinsamen Normdatei (GND) durchgeführt und insbesondere die ULB Münster arbeitet an der Verzeichnung von Schlagwortfolgen, die auch im neuen Webauftritt nutzbar gemacht werden. Zum anderen erfolgt eine Klassifizierung anhand einer NWBib-spezifischen Systematik, die in einen Sachsystematik- und einen Raumsystematikteil<a href="#fn7" class="footnoteRef" id="fnref7"><sup>7</sup></a> untergliedert ist. Ergänzt wird die NWBib-Raumsystematik zudem durch sogenannte <q>Gliedernde Schlagwörter</q>, das sind unkontrollierte Einträge von Ortsnamen zur genaueren räumlichen Verortung des Sachbezugs eines Titels.</p>
+<h3 id="der-webauftritt">Der Webauftritt</h3>
+<p>Die Startseite des neuen NWBib-Webauftritts bietet ein Suchfeld für den einfachen Einstieg, eine Beschreibung der NWBib sowie eine Karte für die Eingrenzung nach Ortsbezug, bei der zwischen Kreis- oder Gemeindeebene gewählt werden kann:</p>
+<div class="figure">
+<img src="img/nwbib-screenshot-startseite.png" title="Startseite" alt="Startseite" />
+<p class="caption">Startseite</p>
+</div>
+<p>Über das Suchfeld und die kartenbasierte Ortsfacette – an der rechten Seite unter <q>Ortsbezug</q> – können auf einfache Weise inhaltliche und räumliche Suchkriterien kombiniert werden oder nach Erscheinungsjahr(en) gefiltert werden. Hier zum Beispiel wurde die textbasierte Suche nach <q>braunkohle</q> durch eine Auswahl in der Karte auf eine Suche von Literatur über Braunkohle im rheinischen Braunkohlerevier eingeschränkt:</p>
+<div class="figure">
+<img src="img/nwbib-screenshot-ergebnisliste.png" title="Ergebnisliste" alt="Ergebnisliste" />
+<p class="caption">Ergebnisliste</p>
+</div>
+<p>Weitere Facetten rechts neben der Suchergebnisliste bieten Möglichkeiten zur Einschränkung der Ergebnisse nach inhaltlichen Kriterien, nach Medien- und Publikationstypen, sowie nach Bestand in bestimmten Bibliotheken:</p>
+<div class="figure">
+<img src="img/nwbib-screenshot-facetten.png" title="Facetten" alt="Facetten" />
+<p class="caption">Facetten</p>
+</div>
+<p>Die Detailansicht eines Treffers bietet über Links Möglichkeiten zum Suchen nach weiteren Treffern desselben Urhebers und derselben inhaltlichen Erschließung sowie auf einer Karte Details zum Bestand und, wenn verfügbar, Links zum Abfragen der Verfügbarkeit im lokalen Katalog der Bibliotheken:</p>
+<div class="figure">
+<img src="img/nwbib-screenshot-detailansicht.png" title="Detailansicht" alt="Detailansicht" />
+<p class="caption">Detailansicht</p>
+</div>
+<p>Neben dieser grundsätzlichen Funktionalität bietet der Auftritt über die Menüleiste eine erweiterte Suche in bestimmten Feldern, eine Themensuche über inhaltserschließende Schlagwortfolgen, Zugriff auf Titel über die Raum- und Sachsystematik, sowie mit der Merklistenfunktion die Möglichkeit zum Zusammenstellen und Drucken einer Literaturliste.</p>
+<h3 id="der-entwicklungsprozess">Der Entwicklungsprozess</h3>
+<p>Die Software für den neuen NWBib-Webauftritt wird schrittweise in stetigem Austausch mit der NWBib-Redaktion entwickelt. Der Entwicklungsprototyp ist seit Beginn der Entwicklung offen im Web erreichbar und dient als Referenzpunkt für die Diskussion über offene Anforderungen und bestehende Softwarebugs. An ihm wird kontinuierlich weiterentwickelt (inkrementelle Entwicklung). Für verschiedene Recherchefunktionen sowie teilweise auch für die Einzeltrefferanzeige konnte zudem die Aleph-basierte Version der NWBib als Referenz herangezogen werden.</p>
+<h4 id="rollen-und-kommunikation">Rollen und Kommunikation</h4>
+<p>Für die technische Entwicklung des NWBib-Webauftritts setzt das Entwicklungsteam im hbz die Anforderungen der NWBib-Redaktion um. Für die Kommunikation zwischen dem Entwicklungsteam und der NWBib-Redaktion ist der wissenschaftliche Bibliothekar verantwortlich, der auch die Rolle des Product-Owners innehat. Die drei Mitglieder des Entwicklungsteams arbeiten im Projektverlauf zusammengenommen etwa im Umfang von einer Vollzeitstelle an dem Projekt.</p>
+<p>Um die Anforderungen zu definieren, zu priorisieren, umzusetzen und die erfolgreiche Umsetzung abzunehmen, müssen die beteiligten Akteure viel und regelmäßig miteinander kommunizieren. Dies geschah in erster Linie über eine gemeinsame Mailingliste und ein Wiki<a href="#fn8" class="footnoteRef" id="fnref8"><sup>8</sup></a>. Zudem gab es im September 2014 und April 2015 zwei persönliche Treffen im hbz.</p>
+<p>Zunächst dienten verschiedene von der Redaktion verschickte oder beim gemeinsamen Treffen erstellte Anforderungslisten als Entwicklungsvorgaben. Da Fragen der Priorisierung teilweise unklar waren und das Entwicklungsteam einen baldigen Launch des neuen Webauftritts anvisierte, wurden nach etwa einem Jahr Entwicklung im Februar 2015 die verbliebenen Anforderungen durch die NWBib-Redaktion zusammengeführt und priorisiert. So entstand eine strukturierte Übersicht von Anforderungen, die für den Launch des neuen NWBib-Webauftritts als unverzichtbar angesehen werden.<a href="#fn9" class="footnoteRef" id="fnref9"><sup>9</sup></a> Diese Liste wird seitdem regelmäßig an den Stand der Entwicklung angepasst und dient als Bezugspunkt für die Entwicklung und die Kommunikation zwischen den Projektbeteiligten. Mit der Zeit mussten einige der Anforderungen konkretisiert beziehungsweise in detailliertere Aufgabenpakete aufgeteilt werden.</p>
+<p>Der typische Ablauf zur Umsetzung von Anforderungen sah wie folgt aus:</p>
+<ol style="list-style-type: decimal">
+<li>Eine Anforderung oder ein Software-Bug wird von der Redaktion gemeldet.</li>
+<li>Der Product-Owner legt ein oder mehrere Tickets für die Umsetzung der Anforderung beziehungsweise die Behebung des Bugs an.</li>
+<li>Der Product-Owner priorisiert die offenen Tickets gemeinsam mit dem Rest des Entwicklungsteams und weist das Ticket einem Entwickler zu.</li>
+<li>Der Entwickler arbeitet so lange an der Umsetzung des Tickets, bis er meint, dass die Anforderungen erfüllt werden.</li>
+<li>Die neue beziehungsweise reparierte Funktionalität und der Code wird durch Mitglieder des Entwicklungsteams begutachtet.</li>
+<li>Sobald die Begutachtung positiv ist, wird die Anpassung auf dem offen einsehbaren Entwicklungsprototyp produktiv.</li>
+<li>Ist eine relevante Anzahl von Änderungen produktiv (dies sind meist fünf oder mehr Anpassungen), schickt der Product-Owner eine Mail an die gemeinsame NWBib-Mailingliste mit der Bitte um Begutachtung durch die NWBib-Redaktion.</li>
+<li>Die NWBib-Redaktionsstellen stimmen sich untereinander ab, ob die Anpassungen den Anforderungen genügen. Sodann melden sie das Ergebnis der Abstimmung via Mailingliste an das Entwicklungsteam.</li>
+<li>Ist die Rückmeldung positiv, wird die Entwicklung der Funktionalität als abgeschlossen erklärt, indem die Anforderung im Wiki entsprechend markiert wird. Andernfalls arbeitet das Entwicklungsteam an der gewünschten Anpassung und der Prozess setzt wieder bei Punkt 4. ein.</li>
+</ol>
+<p>Das Entwicklungsteam arbeitete nicht ausschließlich an der NWBib und die Abstimmung der NWBib-Redaktionsstellen zur Begutachtung des Fortschritts nahm einige Zeit in Anspruch. Die Länge eines Entwicklungszyklus vom Melden einer Anforderung/eines Bugs bis zur endgültigen Abnahme durch die Redaktion variierte in Abhängigkeit der Anwesenheit der Beteiligten erheblich: Wenn keine Urlaubszeit war und alle Beteiligten da waren, dauerte ein Zyklus zwei bis drei Wochen, in Abwesenheit des Hauptentwicklers mehrere Monate.</p>
+<p>Neben den Anforderungen der NWBib-Redaktion hat das Entwicklungsteam auch eigene Vorstellungen umgesetzt. So wurden manche Anwendungsfälle durch andere Funktionalitäten gelöst als ursprünglich von der Redaktion gefordert. In anderen Fällen setzte das Entwicklungsteam eigene Ideen um – so etwa der kartenbasierte Sucheinstieg und die Visualisierung von Suchergebnissen und Bestandsinformationen auf einer Karte. Auch diese Umsetzungen wurden dann der Redaktion zur Begutachtung vorgelegt (Schritt 7) und durch deren Rückmeldungen entscheidend verbessert.</p>
+<h4 id="entwicklungsmethode">Entwicklungsmethode</h4>
+<p>Die Entwicklung des NWBib-Auftritts bedient sich bei verschiedenen Ansätzen der agilen Softwareentwicklung <span class="citation">(Beck, 2001)</span>.<a href="#fn10" class="footnoteRef" id="fnref10"><sup>10</sup></a> Die Software wird – wie bereits beschrieben – inkrementell in stetigem Austausch mit der NWBib-Redaktion entwickelt. Als Kommunikationswerkzeuge benutzt das Entwicklungsteam vor allem GitHub sowie zusätzlich zur Visualisierung, Priorisierung und Organisation der Aufgaben die GitHub-basierte Kanban-Software <em>Waffle</em>.<a href="#fn11" class="footnoteRef" id="fnref11"><sup>11</sup></a> Vom Scrum-Ansatz <span class="citation">(Pichler, 2009)</span> wird das Stand-up übernommen, ein kurzes tägliches Treffen, bei dem sich die Teammitglieder über ihre erledigten und anstehenden Aufgaben austauschen und aktuelle Probleme benennen. Der Entwicklungsprozess folgt dem GitHub-Flow.<a href="#fn12" class="footnoteRef" id="fnref12"><sup>12</sup></a></p>
+<h3 id="technologie">Technologie</h3>
+<p>Die Implementierung des NWBib-Webauftritts verwendet Java- und Web-Technologie und basiert komplett auf Open-Source-Software.<a href="#fn13" class="footnoteRef" id="fnref13"><sup>13</sup></a></p>
+<h4 id="überblick">Überblick</h4>
+<p>Wie oben beschrieben, werden die Daten der NWBib im Bibliothekssystem Aleph katalogisiert. Die Daten werden in einem XML-Format exportiert und mithilfe des Datentransformationstools <em>Metafacture</em> in JSON-LD (JavaScript Object Notation - Linked Data) umgewandelt. Diese JSON-Daten werden in Elasticsearch indexiert und über die Lobid-API im Web bereitgestellt. Die NWBib-Webanwendung greift über HTTP auf diese API zu. API und NWBib sind auf Basis des Play-Frameworks implementiert, die NWBib verwendet zusätzlich das HTML-CSS-Framework Bootstrap.</p>
+<p>Die folgende Abbildung bietet einen Überblick über diese Komponenten und den Datenfluss aus Aleph in die NWBib:</p>
+<div class="figure">
+<img src="img/data-workflow.png" title="Datenfluss" alt="Datenfluss" />
+<p class="caption">Datenfluss</p>
+</div>
+<p>Java-basierte Ansätze zur Entwicklung von Webanwendungen sind im Bibliothekswesen nach unserem Eindruck relativ selten. Wir wollen daher an dieser Stelle einen kurzen Einblick in die von uns verwendete Technologie und den damit verbundenen Ablauf der Webentwicklung geben. Auf die nur indirekt über die Lobid-API verwendeten Komponenten Metafacture und Elasticsearch gehen wir an dieser Stelle nicht ein.</p>
+<h4 id="webentwicklung-mit-java">Webentwicklung mit Java</h4>
+<p>Historisch betrachtet hat Webentwicklung mit Java den Ruf, schwergewichtig und komplex zu sein. Dies liegt vor allem an den Frameworks und Tools, die als Teil der Java-Enterprise-Edition (Java-EE, früher J2EE) zum Einsatz kommen. Applikationsserver und GUI-Frameworks (zum Beispiel Java-Server-Faces, JSF), die als Abstraktionsschicht das Hypertext-Transfer-Protocol (HTTP) vom Entwickler wegkapseln, sind unter bestimmten Umständen für die Entwicklung von Unternehmenssoftware in großen Teams geeignet, für typische Webapplikationen aber häufig nicht optimal.</p>
+<p>Hier haben sich leichtgewichtigere Frameworks und Technologien wie PHP und Ruby on Rails etabliert. Diese sind näher an den zugrundeliegenden Web-Technologien wie HTTP und HTML und erlauben einen schnelleren Entwicklungszyklus: Änderungen im Quellcode werden einfach gespeichert und die Seite im Browser neu geladen. Diese Vorteile dynamischer Sprachen wie PHP, Perl oder Ruby überwiegen gerade in Projekten mit nur einem Entwickler deren Nachteile, speziell die höhere Fehleranfälligkeit durch dynamische Typisierung.</p>
+<p>Eine statische Typisierung wie in Java hat neben einer höheren Laufzeitperformanz auch für die Arbeit im Team Vorteile: Viele Fehler, die durch Änderungen im Quellcode eingeführt werden, werden durch die Typisierung früh erkannt, nämlich nicht erst bei der Verwendung einer bestimmten Funktionalität, zum Beispiel beim Zugriff auf eine bestimmte Seite, sondern schon bei der Kompilierung des Quellcodes, und damit bevor die Seite überhaupt aufgerufen wird. Die Überprüfung kann zudem sehr einfach automatisiert werden, so dass der fehlerhafte Code erst gar nicht ins Code-Repository hochgeladen wird.</p>
+<h4 id="webentwicklung-mit-play">Webentwicklung mit Play</h4>
+<p>Das von uns verwendete Play-Framework verbindet die Vorteile der schnellen Entwicklungszyklen und Web-nativen Entwicklung mit der Typsicherheit von Java: Bei der Verwendung des Play-Frameworks können wie bei PHP oder Rails nach dem Editieren des Quellcodes die Seiten einfach neu geladen werden. Die nötige Kompilierung erfolgt inkrementell und on-the-fly im Hintergrund.</p>
+<p>Wesentliche Komponenten bei der Webentwicklung mit Play sind Routen, Controller und Templates:</p>
+<ul>
+<li><em>Routen</em> beschreiben die HTTP-URLs der Anwendung, deren Query-Parameter und den entsprechenden Controller-Aufruf.</li>
+<li><em>Controller</em> werden bei Aufruf der entsprechenden URLs ausgeführt. Sie verarbeiten den ankommenden HTTP-Request und erzeugen eine HTTP-Response, zum Beispiel mit dem Ergebnis eines Template-Aufrufs.</li>
+<li><em>Templates</em> erzeugen das darzustellende HTML und können dazu beliebige aus den Controllern übergebene Daten verwenden.</li>
+</ul>
+<p>Alle drei Komponenten werden dabei von Play typsicher verarbeitet. Wird etwa eine Route definiert, bei der zum Beispiel ein <code>size</code> Parameter vom Typ <code>Int</code> an einen Controller übergeben wird, der einen <code>String</code> erwartet, erkennt der Compiler dies beim Start der Anwendung. Ebenso wenn etwa im Template ein Wert als <code>String</code> verwendet wird, der aber im Controller als <code>JsonNode</code> übergeben wurde. Fehler in Routen, Controllern und Templates werden somit früh erkannt, ohne dass dazu erst die betroffene Funktionalität der Anwendung ausgeführt werden muss.</p>
+<p>So ermöglicht das Play-Framework moderne Web-Entwicklung nah am HTTP, mit effizienten Entwicklungszyklen, performanter Laufzeit und typsicherem Code.</p>
+<h3 id="herausforderungen-lessons-learned">Herausforderungen &amp; Lessons Learned</h3>
+<p>Im Laufe des Projekts sind den Beteiligten einige Herausforderungen begegnet, und das lobid-Team hat eine Menge gelernt. Im folgenden werden einige Herausforderungen und Lessons Learned aus Sicht des Entwicklungsteams erläutert.</p>
+<h4 id="daten-und-recherche">Daten und Recherche</h4>
+<p>Wie oben beschrieben basiert die NWBib auf der lobid-API, die unter anderem Zugriff auf die hbz-Verbundkatalogdaten sowie die Daten des deutschen ISIL-Verzeichnisses ermöglicht. Für die Bereitstellung der lobid-API werden die Quelldaten, die in einem Aleph-XML-Exportformat (hbz-Verbunddaten) sowie Pica+-XML (ISIL-Daten) vorliegen, nach JSON-LD überführt. Die Transformation von bibliothekarischen MAB-/MARC-basierten Daten in eine für Entwickler leicht zu nutzende Datenstruktur ist nicht trivial. Auch wenn für die Bereitstellung der lobid-API bereits eine Menge Vorarbeiten stattgefunden hatten, mussten im Zuge der Entwicklung des neuen NWBib-Webauftritts einige Herausforderungen auf Datenebene gemeistert werden, um die gewünschten Funktionalitäten anbieten zu können.</p>
+<p><em>JSON-LD und Elasticsearch</em>: Ein grundlegendes Problem mit dem JSON-LD, das in die Elasticsearch-Suchmaschine indexiert wird, war schon seit Anfang 2014 bekannt. Die verwendeten existierenden Java-JSON-LD-Tools bieten beschränkte Möglichkeiten zur Überführung von N-Triples in JSON-LD, so dass das resultierende JSON-LD nicht die optimale Struktur aufweist. Es hat keine geschachtelte Baumstruktur, sondern ein flache Struktur, so dass sich viele Möglichkeiten der Suchmaschine nicht nutzen lassen. Als Ergebnis wurde im Mai 2014 die Planung für eine Version 2.0 der lobid-API begonnen. Die Generierung eines für Elasticsearch optimierten JSON-LD ist eines der Hauptziele. Die lobid-API 2.0 soll bis zum Herbst dieses Jahres produktiv gehen.</p>
+<p><em>Körperschaftssuche</em>: Die NWBib-Redaktion verlangt eine Suchmöglichkeit bibliographischer Ressourcen auf Basis von beteiligten Körperschaften. Da bei der bisherigen Datenmodellierung ein solcher Anwendungsfall nicht berücksichtigt wurde, waren einige temporäre Anpassungen nötig, um eine Körperschaftssuche anbieten zu können. Für die erwähnte komplette Neuüberarbeitung der Datenstrukturen (lobid-API 2.0) wurde schließlich beschlossen, analog zu den Quelldaten eine grundlegende Unterscheidung von Körperschaften und Personen auf Feldebene umzusetzen, damit eine Körperschaftssuche einfach umsetzbar ist.</p>
+<p><em>Schlagwortfolgen</em>: Wie oben bereits erwähnt sind eine Menge NWBib-Titel mit einer oder mehreren Schlagwortfolgen versehen. Generell ist die Abbildung von Reihenfolgen in RDF umständlich und wurde bisher im lobid-Dienst auch nicht umgesetzt. Um Schlagwortfolgen anzeigen zu können wurde im Laufe des Projekts eine temporäre Lösung gewählt, in der Schlagwortfolgen als Ganzes in einem extra Feld gespeichert werden. Mit der API 2.0 wird sich das ändern und Schlagwörter – wie auch Autoren – werden in einer geordneten Liste in der richtigen Reihenfolge gespeichert.</p>
+<p><em>RDA-Umstellung</em>: Wie bei der Katalogisierung und in allen anderen bibliothekarischen Rechercheumgebungen, mussten mit der Umstellung auf die neuen Katalogisierungsregeln <em>RDA</em> einige Anpassungen an der Transformation der Daten aus dem Verbundkatalog nach RDF vorgenommen werden. Die wichtigsten Anpassungen sind bereits umsetzt, einige stehen aber noch aus.</p>
+<p><em>Filterung nach Publikations- und Medientypen</em>: Für die NWBib wurde eine Facettierung nach <q>Publikationstyp</q> und <q>Medientyp</q> umgesetzt. Die Katalogisierung nach RAK-WB hat sich als sehr ungünstige Basis zum Aufbau einer nützlichen Facettierung herausgestellt. Auf Basis von Vorarbeiten für die DigiBib wurde eine brauchbare Lösung erreicht.<a href="#fn14" class="footnoteRef" id="fnref14"><sup>14</sup></a> Im Hinblick auf den Medientyp sind die neuen RDA-Katalogisierungsregeln zu begrüßen, die eine in sich schlüssige Unterscheidung und Erfassung von Inhaltstyp, Medientyp und Datenträgertyp (IMD) vorgeben.<a href="#fn15" class="footnoteRef" id="fnref15"><sup>15</sup></a></p>
+<p><em>Gliedernde Schlagwörter</em>: Als fortwährendes und bis heute nicht gelöstes Problem erwiesen sich die von der NWBib-Redaktion so genannten <q>Gliedernden Schlagwörter</q> (GSW). Diese sind der groben Ortsklassifikation beigeordnet und geben einen konkreten Ort, auf den sich der Inhalt eines Titel bezieht. Dabei kann es sich um Angabe eines Orts (zum Beispiel <q>Köln</q>) oder eines Ortsteils (zum Beispiel <q>Köln-Ehrenfeld</q>) handeln. Diese Schlagwörter sind nicht normiert, so dass es für denselben Ort verschiedene Schreibweisen geben kann. Das lobid-Team hat auf Basis der GSW die kartenbasierte Ortsfacette entwickelt. Dazu wurden die GSW Wikidata-Einträgen zugeordnet und von dort die Geodaten übernommen. Zusätzlich dazu gibt es eine textbasierte Facette über die GSW. Mit der Ortssystematik, der GSW-Textfacette, der kartenbasierten Ortsfacette sowie der GND-Verschlagwortung gibt es also vier Möglichkeiten, Suchergebnisse nach Ortsbezug zu filtern. Hier besteht sicher noch Verbesserungsbedarf, weil diese Redundanz bei den meisten Nutzerinnen und Nutzern zu einiger Verwirrung führen dürfte.</p>
+<p>Schon früh gab es den Wunsch, die GSW in die normierte Systematik zu integrieren und im Zuge dessen verschiedene Schreibweisen zu eliminieren. Eine vernünftige und zukunftssichere Lösung ist allerdings nur unter Anpassung der Quelldaten in der Aleph-Verbunddatenbank machbar und sollte mit einer Änderung der Katalogisierungspraxis einhergehen. Da sich hier keine einfache Lösung anbietet, wurde die Umsetzung auf die Zeit nach dem offiziellen Launch der NWBib vertagt. Aus Sicht des Entwicklungsteams sollte es Ziel sein, die Raumsystematik um Orte und Ortsteile zu erweitern beziehungsweise bestehende Ortsdatenbanken wie GeoNames oder Wikidata zu nutzen, um eine kontrollierte Erfassung zu gewährleisten.</p>
+<p><em>Aleph-Datenbanksuche als Vorbild</em>: Die NWBib-Redaktion hat bei der Begutachtung des Entwicklungsprototypen stets die Aleph-basierte NWBib-Recherche zum Maßstab genommen. Die Forderung war, dass sich bei gleicher Suchanfrage auch die gleiche Anzahl von Treffern ergeben sollte. Da eine Suchmaschine anders funktioniert als die relationale Datenbank des hbz-Verbundkatalogs, mussten hier einige Anpassungen vorgenommen werden. So musste etwa die Volltextsuche über alle Felder auf bestimmte Felder eingeschränkt werden, damit die Anzahl der Treffer bei einer freien Suche mit der Aleph-Suche übereinstimmte. Zur Lösung des Schiller-Räuber-Problems (<span class="citation">Wikipedia (2015)</span>) wurde allerdings von dieser Vorgabe abgewichen. Somit können nun auch die Bände eines mehrbändigen Werks durch eine Kombination von Autorenname und Titel in der NWBib gefunden werden.</p>
+<p>Auch in Bezug auf die Sortierung der Suchergebnisse gab es Uneinigkeiten. Während das lobid-Team die Möglichkeiten der Suchmaschine ausnutzen und standardmäßig die Suchergebnisse mit einer für die NWBib optimierten Relevanzsortierung anbieten wollte, verlangte die NWBib-Redaktion die Sortierung nach Veröffentlichungsdatum als Default-Einstellung. Da ein Relevanzranking für Nutzer nicht ohne weiteres nachvollziehbar ist und auf unterschiedlichen Ebenen als voreingenommen wahrgenommen werden kann<a href="#fn16" class="footnoteRef" id="fnref16"><sup>16</sup></a>, ist das objektive Ranking nach Veröffentlichungsdatum möglicherweise sogar die geeignetere Default-Einstellung.</p>
+<h4 id="zusammenarbeit">Zusammenarbeit</h4>
+<p>Die Zusammenarbeit von Fachleuten verschiedener Professionen gestaltet sich nicht immer einfach. Insgesamt kann man sagen, dass die Kooperation zwischen der NWBib-Redaktion und dem lobid-Team zur Entwicklung des neuen NWBib-Auftritts sehr gut funktioniert. Nichtdestotrotz gab es auch Probleme, von denen hier drei genannt werden sollen.</p>
+<p><em>Agile Entwicklung als Herausforderung</em>: Die inkrementelle Entwicklung eines neuen Produkts war offenbar eine neue Erfahrung für die NWBib-Redaktion. Gerade in der Anfangsphase des Projekts lag der Fokus stark auf den Defiziten des Auftritts, anstatt sich etwa auf die Priorisierung von Funktionen und zu behebenden Fehlern und deren schrittweise Abarbeitung zu konzentrieren. Auch war es für die NWBib-Redaktion offensichtlich nicht möglich, das unfertige aber in seiner Entwicklung schon fortgeschrittene Produkt auf dem Bibliothekartag 2015 in Nürnberg vorzustellen: Es fand sich am Ende kein Redaktionsmitglied für einen gemeinsamen Vortrag. Die Vermutung liegt nahe, dass Ängste bestehen, einen Entwicklungsprototypen zu präsentieren, weil dieser in erster Linie als defizitäres Produkt gesehen wurde, das nicht den eigenen bibliothekarischen Anforderungen entspricht. Im Laufe des Projekts entwickelte sich das Vertrauen zwischen Redaktion und Entwicklungsteam und die Abläufe spielten sich ein, was die Zufriedenheit mit dem Prozess auf beiden Seiten vergrößerte.</p>
+<p><em>Links in Bug-Meldungen</em>: Eine immer wieder auftauchendes Thema waren fehlende URLs bei der Meldung eines Fehlers. Von Beginn der Entwicklung an hatte das lobid-Team hervorgehoben, dass – entgegen der sessionbasierten, im Deep Web versteckten Aleph-basierten NWBib-Version – jeder Titel, jede Suchanfrage und jede Modifikation einer Ergebnisliste ihre eigene Web-Adresse hat, was nicht nur zum Bookmarken, sondern auch beim Melden von Software-Bugs sehr nützlich ist. Es hat lange Zeit gedauert, bis die – im Aleph-System einzig mögliche – Praxis der Nennung eines Titels (zum Beispiel <q>Nobilitierte Hauslandschaft</q>), einer hbz-ID oder von Suchfeldern und -begriffen (zum Beispiel <q>Wenn ich im Schlagwortfeld mit <q>Wiedertäufer</q> suche</q>) zugunsten der einfachen Angabe eines klickbaren Links aufgegeben wurde.</p>
+<p><em>Englischsprachige Tickets</em>: Wie bereits oben beschrieben, ist das lobid-Team nicht nur für das Abarbeiten, sondern auch für das Anlegen von Tickets verantwortlich. Der Versuch, auch die Redaktionsmitglieder ernsthaft zum direkten Aufgeben von Tickets zu motivieren, wurde gar nicht erst unternommen. Der Grund dafür ist, dass neben der ohnehin schon hohen Hürde der Nutzung von GitHub ein weiteres Hindernis besteht: Das lobid-Team hatte sich bereits 2012 für Englisch nicht nur als Sprache für Quelltext-Kommentare und Dokumentation, sondern auch als Sprache für die Tickets entschieden. Oftmals hat sich diese Praxis bewährt, da bei Diskussionen in einem internationalen Kontext die Tickets ohne Übersetzungsleistung referenziert werden können. Für die NWBib war die Entscheidung womöglich eher kontraproduktiv und es ist nicht unwahrscheinlich, dass in ähnlichen Projekten in Zukunft Tickets in Deutsch geschrieben werden. Dies würde als weiteren großen Vorteil mit sich bringen, dass das Kanban-Board als Projektorganisationstool des gesamten Projektteams genutzt werden könnte. Zum Beispiel könnten Aufgaben gemeinsam priorisiert werden durch Verschieben von Tickets auf dem Board.</p>
+<h4 id="endnutzereinbindung">Endnutzereinbindung</h4>
+<p>Die Endnutzerinnen und Endnutzer wurden vom lobid-Team stets als wichtige – wenn nicht sogar wichtigste – Stakeholder der NWBib angesehen. Ein Vorschlag zu Beginn des Projekts, diese bei der Entwicklung des neuen Webauftritts zu beteiligen, wurde von der NWBib-Redaktion mit Skepsis betrachtet und als nicht realisierbar angesehen. Entsprechend wurden im Projektverlauf keine Versuche unternommen, Vorschläge und Rückmeldungen zum Prototypen von Endnutzerinnen und Endnutzern einzuholen. Einzige Ausnahme war die Vorstellung des NWBib-Prototypen bei Wikipedianerinnen und Wikipedianern, die wertvolles Feedback gaben und sich interessante Funktionalitäten wünschten <span class="citation">(Pohl, 2015)</span>. Auch Usibility-Tests haben bisher keine stattgefunden, sind aber für 2017 geplant.</p>
+<h3 id="ausblick">Ausblick</h3>
+<p>Das lobid-Team sieht die NWBib als eine Daueraufgabe, weshalb bereits einige Entwicklungen für die nahe und ferne Zukunft geplant sind. Bereits genannt wurde die <em>Integration der Gliedernden Schlagwörter in die Systematik</em> und die <em>Implementierung von lobid-API 2.0 und Migration der NWBib auf die neue API</em>. Letzteres ist eine bereits seit einiger Zeit laufende Aufgabe und soll in den nächsten Monaten abgeschlossen werden. Die Einzeltrefferansicht der NWBib basiert bereits auf den neuen Daten. Sobald die neue Datenstruktur endgültig umgesetzt ist, werden auch die Recherche und die Facettierungsfunktionen auf API 2.0 umgestellt. Dieser Wechsel bringt unter anderem mit sich, dass viele Funktionen, die Elasticsearch out-of-the-box mit sich bringt, gewinnbringend genutzt werden können. Eine Menge temporärer Anpassungen, die über die Zeit entstanden sind, werden dabei überflüssig.</p>
+<p>Die Rückmeldungen von Wikipedianerinnen und Wikipedianern haben uns – wie bereits erwähnt – einige nützliche Funktionalitäten aufgezeigt, die sich zu entwickeln lohnt. Erstens war dies der Wunsch, Literaturlisten teilen und in Literaturverwaltungsprogramme übernehmen zu können. Seitdem wurde es zwar ermöglicht, den Link zu einer Merkliste zu speichern und zu versenden, eine Exportfunktionalität für Literaturverwaltungssysteme steht allerdings noch aus. Es ist geplant, zum Ende des Jahres mit der Entwicklung einer Funktion zum <em>Export von Ergebnis- und Merklisten für Literaturverwaltungssysteme</em> zu beginnen.<a href="#fn17" class="footnoteRef" id="fnref17"><sup>17</sup></a> Zweitens wünschten sich die Wikipedianerinnen und Wikipedianer, auch Literatur von vor 1983 zu finden. Da die Vorläufer der NWBib digitalisiert mit OCR vorliegen<a href="#fn18" class="footnoteRef" id="fnref18"><sup>18</sup></a>, ist geplant, einen <em>Volltextindex mit NWBib-Vorläuferbibliographien</em> aufzubauen, den Nutzerinnen und Nutzer der NWBib bei der Recherche hinzuschalten können.</p>
+<p>Die für 2017 geplanten <em>Usability-Studien</em> sollen neben der systematischen Auswertungen der Server-Logs vor allem als Orientierung für die weitere Planung dienen. Sind Nutzerverhalten und -wünsche bekannt, kann die Anpassung bestehender Funktionalitäten und die Entwicklung neuer Funktionalitäten sinnvoll geplant und priorisiert werden.</p>
+<div id="references" class="references">
+<h3 id="referenzen" class="unnumbered">Referenzen</h3>
+<div id="ref-becketal2001">
+<p>Beck, K. et a. (2001). Manifesto for Agile Software Development. URL: <a href="http://agilemanifesto.org/" class="uri">http://agilemanifesto.org/</a>.</p>
+</div>
+<div id="ref-BoemerDegering1951">
+<p>Bömer, A., &amp; Degering, H. (1951–2004). <em>Westfälische Bibliographie zur Geschichte, Landeskunde und Volkskunde</em>., Hrsg. H. K. Westfalens.</p>
+</div>
+<div id="ref-HallerMuehl2006">
+<p>Haller, B., &amp; Mühl, H. (2006). „Die Nordrhein-Westfälische Bibliographie“, in <em>Die Regionalbibliographie im digitalen Zeitalter. Deutschland und seine Nachbarländer</em> Zeitschrift für Bibliothekswesen und Bibliographie. Sonderbände. (Frankfurt am Main: Vittorio Klostermann), 305–318.</p>
+</div>
+<div id="ref-Pichler2009">
+<p>Pichler, R. (2009). <em>Scrum - Agiles Projektmanagement erfolgreich einsetzen</em>. Heidelberg: dpunkt.verlag.</p>
+</div>
+<div id="ref-pohl2015">
+<p>Pohl, A. (2015). Mit der NWBib zu Gast bei Wikipedia. URL: <a href="https://wiki1.hbz-nrw.de/x/lIBTB" class="uri">https://wiki1.hbz-nrw.de/x/lIBTB</a>.</p>
+</div>
+<div id="ref-Schmidt1998">
+<p>Schmidt, R. M. (1998). Die Nordrhein-Westfälische Bibliographie Online. in <em>Bibliographische Datenbanken im Internet: DFG-Kolloquium vom 4. bis 5. Dezember 1997 an der Herzogin Anna Amalia Bibliothek</em> (Online; archivierte Version der Wayback Machine vom 18.10.2000). URL: <a href="http://web.archive.org/web/20000310115644/http://www.weimar-klassik.de/kolloquien/e5i_224d.html" class="uri">http://web.archive.org/web/20000310115644/http://www.weimar-klassik.de/kolloquien/e5i_224d.html</a>.</p>
+</div>
+<div id="ref-Schnasse2015">
+<p>Schnasse, J. (2015). Ein moderner Webauftritt für die NWBib. URL: <a href="https://speakerdeck.com/lobid/ein-moderner-webauftritt-fur-die-nwbib-1" class="uri">https://speakerdeck.com/lobid/ein-moderner-webauftritt-fur-die-nwbib-1</a>.</p>
+</div>
+<div id="ref-Syre2006">
+<p>Syré, L. (2006). „Die deutschen Landes- und Regionalbibliographien“, in <em>Die Regionalbibliographie im digitalen Zeitalter. Deutschland und seine Nachbarländer</em> Zeitschrift für Bibliothekswesen und Bibliographie. Sonderbände. (Frankfurt am Main: Vittorio Klostermann), 33–52.</p>
+</div>
+<div id="ref-wikipedia2016">
+<p>Wikipedia (2015). Schiller-Räuber-Problem — Wikipedia, Die freie Enzyklopädie. URL: <a href="https://de.wikipedia.org/w/index.php?title=Schiller-R%C3%A4uber-Problem&amp;oldid=149608084">https://de.wikipedia.org/w/index.php?title=Schiller-R%C3%A4uber-Problem&amp;oldid=149608084</a>.</p>
+</div>
+<div id="ref-zumsteinstoehr2015">
+<p>Zumstein, P., &amp; Stöhr, M. (2015). Zur Nachnutzung von bibliographischen Katalog- und Normdaten für die persönliche Literaturverwaltung und Wissensorganisation. 35, 210–221. URL: <a href="http://ub-madoc.bib.uni-mannheim.de/39937/" class="uri">http://ub-madoc.bib.uni-mannheim.de/39937/</a>.</p>
+</div>
+</div>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p><a href="https://nwbib.de" class="uri">https://nwbib.de</a><a href="#fnref1">↩</a></p></li>
+<li id="fn2"><p>Die <q>technische Organisation und Präsentation der Nordrhein-Westfälischen Bibliographie</q> ist auch in der Satzung des Hochschulbibliothekszentrums explizit genannt, s. https://www.hbz-nrw.de/ueberuns/satzung/ (§2, Abs. 3 a, Punkt 7).<a href="#fnref2">↩</a></p></li>
+<li id="fn3"><p>Für eine umfassendere Darstellung der NWBib-Vorläufer siehe <span class="citation">Haller &amp; Mühl (2006)</span>, 305ff. Die Landesbibliotheken haben die Vorläufer der NWBib digitalisiert. Unter <a href="http://digital.ub.uni-duesseldorf.de/nav/classification/5975540" class="uri">http://digital.ub.uni-duesseldorf.de/nav/classification/5975540</a> findet sich eine Liste von digitalisierten Bibliographien mit Bezug auf das Rheinland und unter <a href="http://www.ulb.uni-muenster.de/landesbibliothek/recherche/westfaelische-bibliographien/" class="uri">http://www.ulb.uni-muenster.de/landesbibliothek/recherche/westfaelische-bibliographien/</a> mit Bezug auf Westfalen.<a href="#fnref3">↩</a></p></li>
+<li id="fn4"><p>Siehe <span class="citation">Schnasse (2015)</span>, Folie 5.<a href="#fnref4">↩</a></p></li>
+<li id="fn5"><p>Siehe <a href="http://www.landesbibliothek-nrw.de/" class="uri">http://www.landesbibliothek-nrw.de/</a>.<a href="#fnref5">↩</a></p></li>
+<li id="fn6"><p>Dem lobid-Dienst liegt ein Export aus dem Verbundsystem im Format <q>Aleph-Sequentials</q> zugrunde. Ein Beispiel NWBib-Titel in diesem Format findet sich unter <a href="http://lobid.org/hbz01/HT018881872" class="uri">http://lobid.org/hbz01/HT018881872</a>.<a href="#fnref6">↩</a></p></li>
+<li id="fn7"><p>Siehe <a href="http://nwbib.de/classification?t=Sachsystematik" class="uri">http://nwbib.de/classification?t=Sachsystematik</a> und <a href="http://nwbib.de/classification?t=Raumsystematik" class="uri">http://nwbib.de/classification?t=Raumsystematik</a>.<a href="#fnref7">↩</a></p></li>
+<li id="fn8"><p>Siehe <a href="https://wiki1.hbz-nrw.de/x/mYyW" class="uri">https://wiki1.hbz-nrw.de/x/mYyW</a>.<a href="#fnref8">↩</a></p></li>
+<li id="fn9"><p>Siehe <a href="https://wiki1.hbz-nrw.de/x/CoCDAw" class="uri">https://wiki1.hbz-nrw.de/x/CoCDAw</a>.<a href="#fnref9">↩</a></p></li>
+<li id="fn10"><p>Für eine detaillierte Beschreibung des Entwicklungsprozesses im lobid-Team (allerdings in Englisch) siehe http://hbz.github.io/#dev-process. <a href="https://hbz.github.io/#dev-process" class="uri">https://hbz.github.io/#dev-process</a>.<a href="#fnref10">↩</a></p></li>
+<li id="fn11"><p>Siehe das gemeinsame Waffle-Board für alle Projekte des lobid-Teams: https://waffle.io/hbz/lobid<a href="#fnref11">↩</a></p></li>
+<li id="fn12"><p>Siehe <a href="https://guides.github.com/introduction/flow/" class="uri">https://guides.github.com/introduction/flow/</a> sowie die Dokumentation des lobid-Entwicklungsprozesses: <a href="http://hbz.github.io/#dev-process" class="uri">http://hbz.github.io/#dev-process</a>.<a href="#fnref12">↩</a></p></li>
+<li id="fn13"><p>Software und Infrastruktur finden sich unter <a href="http://github.com/hbz/nwbib" class="uri">http://github.com/hbz/nwbib</a><a href="#fnref13">↩</a></p></li>
+<li id="fn14"><p>Siehe <a href="https://wiki1.hbz-nrw.de/display/SEM/Facetten+ueber+hbz01-Daten" class="uri">https://wiki1.hbz-nrw.de/display/SEM/Facetten+ueber+hbz01-Daten</a>.<a href="#fnref14">↩</a></p></li>
+<li id="fn15"><p>Vgl. die Folien der AG RDA zum Thema: <a href="https://wiki.dnb.de/download/attachments/105260204/Modul_2_04_IMD.pptx" class="uri">https://wiki.dnb.de/download/attachments/105260204/Modul_2_04_IMD.pptx</a>.<a href="#fnref15">↩</a></p></li>
+<li id="fn16"><p>Siehe dazu etwa <a href="https://matthew.reidsrow.com/articles/173" class="uri">https://matthew.reidsrow.com/articles/173</a><a href="#fnref16">↩</a></p></li>
+<li id="fn17"><p>Zum Angebot von Katalogdaten für Literaturverwaltungssysteme siehe auch <span class="citation">Zumstein &amp; Stöhr (2015)</span>.<a href="#fnref17">↩</a></p></li>
+<li id="fn18"><p>Siehe zum Beispiel die Digitalisate von <span class="citation">Bömer &amp; Degering (1951–2004)</span> bei der ULB Münster: <a href="http://nbn-resolving.de/urn:nbn:de:hbz:6-85659520092" class="uri">http://nbn-resolving.de/urn:nbn:de:hbz:6-85659520092</a>.<a href="#fnref18">↩</a></p></li>
+</ol>
+</div>
+<hr />
+<p><strong>Adrian Pohl</strong> ist spezialisiert auf den Bereich Datenmodellierung und RDF-Vokabulare und verantwortlich für das Projekt- und Produktmanagement des Linked-Open-Data-Teams am hbz. Er studierte Kommunikationswissenschaft und Philosophie in Aachen sowie Bibliotheks- und Informationswissenschaft an der FH Köln.</p>
+<p><strong>Fabian Steeg</strong> ist Softwareentwickler mit Schwerpunkt Informationssysteme und Open-Source-Software und verantwortlich für Webentwicklung und Datenverarbeitung im Linked-Open-Data-Team am hbz. Er studierte Informationsverarbeitung, Allgemeine Sprachwissenschaft und Geographie an der Universität zu Köln.</p>
+</div>
+
+    
+
+</article>
+
+
+
+
+        <footer class="footer">
+<hr>
+<p><a href="http://creativecommons.org/licenses/by/3.0/">All content licensed under Creative Commons Attribution 3.0 Unported (CC BY 3.0)</a>, if not otherwise stated.
+</p>
+<p>LIBREAS. Library Ideas wird herausgegeben am <a href="https://www.ibi.hu-berlin.de/">Institut für Bibliotheks- und Informationswissenschaft</a> der <a href="https://www.hu-berlin.de/">Humboldt-Universität zu Berlin</a></p>
+<p>Hosted on <a href="http://github.com/libreas/libreas.github.io">GitHub</a>, made with <a href="http://octopress.org/">Jekyll/Octopress.</a> and <a href="http://johnmacfarlane.net/pandoc/">pandoc</a></p>
+
+<p>ISSN: 1860-7950</p>
+
+
+    LIBREAS. Library Ideas
+
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2016-06-19</a>)</p>
+
+</footer>
+
+      </div>
+    </div>
+<label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+  </body>
+</html>

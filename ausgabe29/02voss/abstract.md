@@ -1,0 +1,1 @@
+Der Kommentar weist auf die Bedeutung von Wikidata für die Entwicklung einer Universalbibliographie hin
