@@ -2,7 +2,7 @@ Es gibt wenige große Denker, die sich mit der Bibliothek als Idee
 beschäftigt haben. Die meisten unter ihnen wie Leibniz, Lessing oder
 Goethe waren selber Bibliothekare und deshalb eher mit praktischen
 Dingen beschäftigt oder von ihr geblendet (wie Borges). Es scheint als
-wäre sie ein solches Faszinosum, das sie, wie bei der Heisenbergschen
+wäre sie ein solches Faszinosum, dass sie, wie bei der Heisenbergschen
 Unschärferelation, weder an ihrem Ort noch an ihrer Aktivität (das heißt
 Bewegung) dingfest gemacht werden kann. Zu den wenigen "Großen", die
 sich substantiell zum Phänomen Bibliothek geäußert haben, gehören Michel
@@ -21,7 +21,7 @@ Nutzer mit Körper und in einem sozialen Kontext.[^2] Eine solche Wende
 scheint sich in der Sicht auf Bibliotheken nicht nur aufzudrängen,
 sondern auch durchzusetzen. Einer der ersten, der eindringlich auf die
 blinden Flecke der Bibliothekswissenschaft hingewiesen hat, war Wayne
-Wiegand in einem oft referenzierten Artikel in *Library Quarterly.*[^3]
+Wiegand in einem oft referenzierten Artikel in *Library Quarterly*.[^3]
 Er wies in Zeiten der Umbenennung der Library Schools in die späteren
 iSchools darauf hin, dass wir dem komplexen Phänomen Bibliothek mit dem
 IT-System-Paradigma nicht gerecht werden. Seine Analyse war, dass wir
@@ -136,7 +136,7 @@ dessen bewusst wären.
 ![Abbildung 2: Hochschulbibliothek der BTU Cottbus (2006)](img/hobohm-2.jpg)
 
 Es gibt eine ganze Reihe von Ideen zu besonderen beziehungsweise
-"dritten" Orten: von den *lieux anthropologiques* (im Gegensatz zu den
+"dritten Orten": von den *lieux anthropologiques* (im Gegensatz zu den
 *lieux de passage*) bei Marc Augé, dem "*Third Place*" zwischen privat
 und öffentlich/beruflich bei Ray Oldenbourg, den hybriden Räumen (nicht
 fremd/nicht Heimat) bei Homi Bhabha oder dem "*Third Space*" von Edward
@@ -252,7 +252,7 @@ Die Autorengruppe Pédauque hatte vor dem Hintergrund der zunehmenden
 Digitalisierung der Gesellschaft eine funktional-systemische
 Beschreibung des Dokuments vorgenommen. Das Dokument funktioniert (nicht
 nur im digitalen Zeitalter) in einem dreifachen Spannungsfeld, das
-Pédauque mit *"Vu - Lu - Su"* kennzeichnet: Es muss überhaupt erst
+Pédauque mit "*Vu - Lu - Su*" kennzeichnet: Es muss überhaupt erst
 erkennbar sein (*vu*: gesehen), es muss verstanden und erinnert werden
 (*lu*: gelesen) und es muss bemerkt und rezipiert werden (*su*:
 gewusst). Die Dokument bezogenen Eigenschaften der Bibliothek beschreibt
@@ -265,7 +265,7 @@ rivalisierenden" (das heißt nicht kommerziellen) Aspekt des
 
 | |Funktion |Art |Austausch |Modell |Interface |
 |:--------------|:---------|:---------|:--------|:-----|:------|
-| VU | Kreation | materiell, rivalisierend | Gut, Aneignung | Verlag | Autor, Leser |
+| Vu | Kreation | materiell, rivalisierend | Gut, Aneignung | Verlag | Autor, Leser |
 | Lu | Gedächtnis | immateriell, nicht-rivalisierend | Zugang, Öffentliches Gut | **Bibliothek** | Gemeinschaft, Leser (pl.)|
 | Su | Vermittlung | immateriell, rivalisierend | Aufmerksamkeit, Raum-Zeit | Spektakel (Dialog) | Ankündiger, Zuschauer |
 
@@ -344,8 +344,8 @@ Analyse der "Welt von Rabelais"[^27] auf die gesellschaftliche Narration
 und den sozialen Kontext ausweitet. Ort und Zeit sind das Konstituens
 der performativen Lektürevereinbarung von Geschichte(n), ob textimanent
 oder den Kontext einbeziehend. Nicht von ungefähr ist in vielen Sprachen
-"Geschichte, histoire, storia, history,[…]" das gleiche Wort wie
-"Erzählung, histoire, storia, story, […]".
+"Geschichte, histoire, storia, history, ..." das gleiche Wort wie
+"Erzählung, histoire, storia, story, ...".
 
 Eine Form von Chronotopologie thematisiert auch der deutsche
 Phänomenologe Wilhelm Schapp in seiner Grundlegung des Menschseins als
@@ -354,12 +354,12 @@ Wesen das einzige, das sich der Zeit bewusst ist. Die menschliche
 Fähigkeit der Symbolverarbeitung verbindet sich hier mit seinem
 Empfinden der Eingebundenheit in Geschichten. Andere Lebewesen können
 zwar auch Informationen austauschen, aber nicht weiterverarbeiten; sie
-können sich erinnern, aber diese Erinnerungen nicht "aufheben" – schon
+können sich erinnern, aber diese Erinnerungen nicht "aufheben" -- schon
 gar nicht in Geschichte(n). Aber auch die Sprache ist zeitgebunden und
 ortsgebunden in der Semiose und in ihrer Performanz. Der Mensch erlebt
 sich selbst als Autor und Leser seiner Geschichte und empfindet sich als
-sprachliches Wesen als Teil von anderen Geschichten – ob gewollt oder
-ungewollt – bewusst oder unbewusst. Er lebt mehr oder weniger bewusst in
+sprachliches Wesen als Teil von anderen Geschichten -- ob gewollt oder
+ungewollt -- bewusst oder unbewusst. Er lebt mehr oder weniger bewusst in
 und zwischen Texten, Diskursen und Geschichten, die dazu dienen, die
 Realität zu erfahren, zu beschreiben und zu interpretieren.
 
@@ -558,17 +558,17 @@ Ort und Akteur der Begegnung von Geschichten, die Wissen transferieren.
 
 [^10]: Foucault, Michel (2005): Die Heterotopien. Zwei Radiovorträge ;
     [7. und 21. Dezember 1966]. Frankfurt am Main: Suhrkamp
-    (Zweisprachige Ausg.), S. 46
+    (Zweisprachige Ausg.), S. 46.
 
 [^11]: Chlada, Marvin (2005): Heterotopie und Erfahrung. Abriss der
-    Heterotopologie nach Michel Foucault. Aschaffenburg: Alibri. S. 91
+    Heterotopologie nach Michel Foucault. Aschaffenburg: Alibri. S. 91.
 
-[^12]: Wikipedia: <https://de.wikipedia.org/wiki/Katalysator>, 12.9.2015
+[^12]: Wikipedia: <https://de.wikipedia.org/wiki/Katalysator>, 12.9.2015.
 
 [^13]: Wenn zum Beispiel die FU Berlin oder das Land Brandenburg mit
     ihren ikonischen Bibliotheksbauten Imagebildung betreiben
     (Phililogikum Norman Foster Bau "The Brain"; IKMZ der BTU Cottbus,
-    Herzog & de Meuron)
+    Herzog & de Meuron).
 
 [^14]: Malaguzzi, Loris; Ceppi, Giulio; Zini, Michele (1998): Children,
     spaces, relations. Metaproject for an environment for young
@@ -599,7 +599,7 @@ Ort und Akteur der Begegnung von Geschichten, die Wissen transferieren.
     science. Bangalore: Sarada Ranganathan Endowment for Library Science
     (Nachdruck der 2. Aufl. von 1963). - Buckland, Michael K. (1997):
     What Is a "Document"? In: Journal of the American Society for
-    Information Science 48 (9), S. 804–809; S. 807
+    Information Science 48 (9), S. 804–809; S. 807.
 
 [^20]: Salaün, Jean-Michel (2012): Vu, lu, su. Les architectes de
     l'information face à l'oligopole du Web. Paris: la Découverte
@@ -607,7 +607,7 @@ Ort und Akteur der Begegnung von Geschichten, die Wissen transferieren.
 
 [^21]: "… ein Dokument ist eine Spur, die aufgrund einer
     Lektürevereinbarung erlaubt, ein vergangenes Ereignis zu
-    interpretieren." (a.a.O.)
+    interpretieren." (a.a.O.).
 
 [^22]: Vgl. auch: Ricoeur, Paul (2009): Archiv, Dokument, Spur. In: Knut
     Ebeling und Stephan Günzel (Hg.): Archivologie. Theorien des Archivs
@@ -617,7 +617,7 @@ Ort und Akteur der Begegnung von Geschichten, die Wissen transferieren.
     Schriften zur Literatur. Frankfurt/M u.a.: Ullstein, S. 157–177.
     (Original 1966)
 
-[^24]: Taschenbuch-Ausgabe, München: dtv, 1980, S. 366 (Hervorhebung von
+[^24]: Taschenbuch-Ausgabe, München: dtv, 1980, S. 366. (Hervorhebung von
     mir)
 
 [^25]: Wem dies zu sehr dem überwunden geglaubten Poststrukturalismus
