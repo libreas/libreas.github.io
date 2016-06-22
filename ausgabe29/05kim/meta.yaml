@@ -9,7 +9,7 @@
 	<meta name="author" content="LIBREAS. Library Ideas">
 
 	<!--
-	<meta name="description" content="Zusammenfassung: Im Folgenden soll aufgezeigt werden, wie derzeit das Literaturverwaltungsprogramm Zotero innerhalb des Index Theologicus genutzt &hellip;">
+	<meta name="description" content="Im Folgenden soll aufgezeigt werden, wie derzeit das Literaturverwaltungsprogramm Zotero innerhalb des Index Theologicus genutzt wird, um &hellip;">
 	 -->
 
 <!-- RDFa DC -->
@@ -37,7 +37,7 @@
     <meta property="dc:source" content="LIBREAS. Library Ideas" />
     <meta property="dc:subject" content="Library and Information Science" />
     <meta property="dc:type" content="website" />
-    <meta property="dc:description" content="&lt;b&gt;Zusammenfassung&lt;/b&gt;: Im Folgenden soll aufgezeigt werden, wie derzeit das Literaturverwaltungsprogramm Zotero innerhalb des Index Theologicus genutzt wird, um unselbstständige Literatur in einem bibliothekarischen Katalogisierungssystem zu erfassen. Die modulare und flexible Architektur der Open Source Software erlaubt es, die bereits kollaborativ zusammengetragene Programmierarbeit zur Datenextraktion mitzunutzen. Das vorgestellte semiautomatische Verfahren bringt auch bei der Verknüpfung von Normdaten erhebliche Vorteile für die Medienbearbeitung. &lt;/br&gt; &lt;b&gt;Schlüsselwörter&lt;/b&gt;: Literaturverwaltungsprogramm, Zotero, Katalogisierung, Unselbständige Werke, Aufsatzliteratur, Index Theologicus, Online-Bibliographie, WinIBW, Fachinformationsdienst Theologie &lt;/br&gt; &lt;b&gt;Abstract:&lt;/b&gt; This article presents an approach to use the reference management software Zotero within the theological article database Index Theologicus to catalogue article metadata for a library management system. Zotero&#39;s Open Source nature and flexible architecture allowed us to seamlessly reuse the vast amount of data extraction routines collaboratively developed for the software. We will show how the semi-automatic workflow we developed will make authority linking fun again. &lt;/br&gt; &lt;b&gt;Keywords:&lt;/b&gt; Reference Management System, Zotero, Cataloguing, Journal articles, Index Theologicus, Theological database, Academic Information Services for Theology"/>
+    <meta property="dc:description" content="Im Folgenden soll aufgezeigt werden, wie derzeit das Literaturverwaltungsprogramm Zotero innerhalb des Index Theologicus genutzt wird, um unselbstständige Literatur in einem bibliothekarischen Katalogisierungssystem zu erfassen. Die modulare und flexible Architektur der Open Source Software erlaubt es, die bereits kollaborativ zusammengetragene Programmierarbeit zur Datenextraktion mitzunutzen. Das vorgestellte semiautomatische Verfahren bringt auch bei der Verknüpfung von Normdaten erhebliche Vorteile für die Medienbearbeitung. &lt;/br&gt; &lt;b&gt;Schlüsselwörter&lt;/b&gt;: Literaturverwaltungsprogramm, Zotero, Katalogisierung, Unselbständige Werke, Aufsatzliteratur, Index Theologicus, Online-Bibliographie, WinIBW, Fachinformationsdienst Theologie &lt;hr&gt; This article presents an approach to use the reference management software Zotero within the theological article database Index Theologicus to catalogue article metadata for a library management system. Zotero&#39;s Open Source nature and flexible architecture allowed us to seamlessly reuse the vast amount of data extraction routines collaboratively developed for the software. We will show how the semi-automatic workflow we developed will make authority linking fun again. &lt;/br&gt; &lt;b&gt;Keywords:&lt;/b&gt; Reference Management System, Zotero, Cataloguing, Journal articles, Index Theologicus, Theological database, Academic Information Services for Theology"/>
     <meta property="dc:source" resource="urn:ISSN:1860-7950" /> 
 
 <!-- Google Scholar -->
@@ -184,7 +184,7 @@ ga('send', 'pageview');
 
         
 
-        <p><small itemprop="description"><b>Zusammenfassung</b>: Im Folgenden soll aufgezeigt werden, wie derzeit das Literaturverwaltungsprogramm Zotero innerhalb des Index Theologicus genutzt wird, um unselbstständige Literatur in einem bibliothekarischen Katalogisierungssystem zu erfassen. Die modulare und flexible Architektur der Open Source Software erlaubt es, die bereits kollaborativ zusammengetragene Programmierarbeit zur Datenextraktion mitzunutzen. Das vorgestellte semiautomatische Verfahren bringt auch bei der Verknüpfung von Normdaten erhebliche Vorteile für die Medienbearbeitung. </br> <b>Schlüsselwörter</b>: Literaturverwaltungsprogramm, Zotero, Katalogisierung, Unselbständige Werke, Aufsatzliteratur, Index Theologicus, Online-Bibliographie, WinIBW, Fachinformationsdienst Theologie </br> <b>Abstract:</b> This article presents an approach to use the reference management software Zotero within the theological article database Index Theologicus to catalogue article metadata for a library management system. Zotero's Open Source nature and flexible architecture allowed us to seamlessly reuse the vast amount of data extraction routines collaboratively developed for the software. We will show how the semi-automatic workflow we developed will make authority linking fun again. </br> <b>Keywords:</b> Reference Management System, Zotero, Cataloguing, Journal articles, Index Theologicus, Theological database, Academic Information Services for Theology</small></p>
+        <p><small itemprop="description">Im Folgenden soll aufgezeigt werden, wie derzeit das Literaturverwaltungsprogramm Zotero innerhalb des Index Theologicus genutzt wird, um unselbstständige Literatur in einem bibliothekarischen Katalogisierungssystem zu erfassen. Die modulare und flexible Architektur der Open Source Software erlaubt es, die bereits kollaborativ zusammengetragene Programmierarbeit zur Datenextraktion mitzunutzen. Das vorgestellte semiautomatische Verfahren bringt auch bei der Verknüpfung von Normdaten erhebliche Vorteile für die Medienbearbeitung. </br> <b>Schlüsselwörter</b>: Literaturverwaltungsprogramm, Zotero, Katalogisierung, Unselbständige Werke, Aufsatzliteratur, Index Theologicus, Online-Bibliographie, WinIBW, Fachinformationsdienst Theologie <hr> This article presents an approach to use the reference management software Zotero within the theological article database Index Theologicus to catalogue article metadata for a library management system. Zotero's Open Source nature and flexible architecture allowed us to seamlessly reuse the vast amount of data extraction routines collaboratively developed for the software. We will show how the semi-automatic workflow we developed will make authority linking fun again. </br> <b>Keywords:</b> Reference Management System, Zotero, Cataloguing, Journal articles, Index Theologicus, Theological database, Academic Information Services for Theology</small></p>
 
         
 
@@ -237,7 +237,7 @@ ga('send', 'pageview');
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2016-06-19</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2016-06-22</a>)</p>
 
 </footer>
 

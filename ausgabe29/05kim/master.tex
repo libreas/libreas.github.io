@@ -10,7 +10,7 @@ final
 
 \usepackage{synttree}
 \usepackage{graphicx}
-\setkeys{Gin}{width=.9\textwidth} %default pics size
+\setkeys{Gin}{width=.4\textwidth} %default pics size
 
 \graphicspath{{./plots/}}
 \usepackage[ngerman]{babel}
@@ -100,31 +100,30 @@ breaklinks= true]{hyperref}
 
 %abstracts
 \begin{abstract}
-\small
-\textbf{Zusammenfassung:} Im Folgenden soll aufgezeigt werden, wie
-derzeit das Literaturverwaltungsprogramm Zotero innerhalb des Index
-Theologicus genutzt wird, um unselbstständige Literatur in einem
-bibliothekarischen Katalogisierungssystem zu erfassen. Die modulare und
-flexible Architektur der Open Source Software erlaubt es, die bereits
+Im Folgenden soll aufgezeigt werden, wie derzeit das
+Literaturverwaltungsprogramm Zotero innerhalb des Index Theologicus
+genutzt wird, um unselbstständige Literatur in einem bibliothekarischen
+Katalogisierungssystem zu erfassen. Die modulare und flexible
+Architektur der Open Source Software erlaubt es, die bereits
 kollaborativ zusammengetragene Programmierarbeit zur Datenextraktion
 mitzunutzen. Das vorgestellte semiautomatische Verfahren bringt auch bei
 der Verknüpfung von Normdaten erhebliche Vorteile für die
 Medienbearbeitung.
 
-\textbf{Schlüsselwörter:} Literauturverwaltungsprogramm, Zotero,
+\textbf{Schlüsselwörter:} Literaturverwaltungsprogramm, Zotero,
 Katalogisierung, Unselbständige Werke, Aufsatzliteratur, Index
 Theologicus, Online-Bibliographie, WinIBW, Fachinformationsdienst
 Theologie
 
 \begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
 
-\textbf{Abstract:} This article presents an approach to use the
-reference management software Zotero within the theological article
-database Index Theologicus to catalogue article metadata for a library
-management system. Zotero's Open Source nature and flexible architecture
-allowed us to seamlessly reuse the vast amount of data extraction
-routines collaboratively developed for the software. We will show how
-the semi-automatic workflow we developed will make authority linking fun
+This article presents an approach to use the reference management
+software Zotero within the theological article database Index
+Theologicus to catalogue article metadata for a library management
+system. Zotero's Open Source nature and flexible architecture allowed us
+to seamlessly reuse the vast amount of data extraction routines
+collaboratively developed for the software. We will show how the
+semi-automatic workflow we developed will make authority linking fun
 again.
 
 \textbf{Keywords:} Reference Management System, Zotero, Cataloguing,
@@ -162,9 +161,9 @@ Andere frei zugängliche theologische Spezialbibliographien wie
   die Bibelwissenschaftliche Literaturdokumentation Innsbruck
   (BILDI\footnote{\url{https://www.uibk.ac.at/bildi/index.html.de}}),
 \item
-  die Analytische Bibliographie zum Deuteronomium (AnaBiDeut),
+  die Analytische Bibliographie zum Deuteronomium (AnaBiDeut\footnote{\url{http://anabideut.univie.ac.at/content/site/de/projektinformation/index.html}}),
 \item
-  die Bibliographie biblique informatisée de Lausanne (BiBIL),
+  die Bibliographie biblique informatisée de Lausanne (BiBIL\footnote{\url{https://www.unil.ch/irsb/fr/home/menuguid/bibil.html}}),
 \item
   der Catalogue de l'École Biblique et Archéologique Française in
   Jerusalem (CEBAF\footnote{\url{http://www.ebaf.edu/wp-content/uploads/biblio/en-aide-all.pdf}}),
@@ -261,23 +260,21 @@ bei Recherche im Web zu füllen. Dies geschieht in Zotero vor allem über
 den \emph{Zotero-Speichern-Button (Zotero-Picker)}, mit welchem man mit
 einem Klick die bibliographischen Metadaten der aktuellen Webseite
 extrahieren und speichern kann. Daneben gibt es auch noch weitere
-Möglichkeiten wie etwa das Importieren von bibliographischen Metadaten
+Möglichkeiten wie etwa das Im\-portieren von bibliographischen Metadaten
 oder das Suchen nach bestimmten Identifikatoren mit dem
-\enquote{\emph{Zauberstab}}. Diese drei Funktionalitäten zusammen mit
-den Export-Möglichkeiten werden über sogenannte Zotero
-Translators\footnote{\enquote{Zotero Übersetzer}:
-  \url{https://www.zotero.org/support/dev/translators}} bereitgestellt
-wie in Abb. 1 dargestellt ist.
+\enquote{Zauberstab}. Diese drei Funktionalitäten zusammen mit den
+Export-Möglichkeiten werden über sogenannte Zotero Translators\footnote{\enquote{Zotero
+  Übersetzer}: \url{https://www.zotero.org/support/dev/translators}}
+bereitgestellt wie in Abb. 1 dargestellt ist.
 
 \begin{figure}[htbp]
 \centering
 \includegraphics{img/Zotero-Translators.jpg}
 \caption{Die vier verschiedenen Typen von Zotero translators (web,
-import, search, export) mit Beispielen}
+im\-port, search, export) mit Beispielen}
 \end{figure}
 
-Zotero kann ähnlich einem Simultanübersetzer (oder
-{[}Babelfisch\footnote{\url{https://de.wikipedia.org/wiki/Babelfisch}})
+Zotero kann ähnlich einem Simultanübersetzer (oder Babelfisch\footnote{\url{https://de.wikipedia.org/wiki/Babelfisch}})
 agieren und zwischen verschiedenen Datenformaten übersetzen.
 Beispielsweise ist es mit Zotero über entsprechende Im\-port- sowie
 Export-Schritte möglich, MARC-Daten zusammen mit MODS-Daten in einer
@@ -302,7 +299,7 @@ aus bestimmten Webseiten zu extrahieren.
 
 Das Translator Framework ist modular, das heißt jeder Translator ist
 eine eigene Javascript-Datei mit Metadaten und Testfällen. Wir haben
-zokat\footnote{\url{https://github.com/UB-Mannheim/zotkat}}, eine
+zotkat\footnote{\url{https://github.com/UB-Mannheim/zotkat}}, eine
 Erweiterung für den Einsatz von Zotero bei der Katalogisierung, als Open
 Source entwickelt. Eine zentrale Komponente von zotkat ist ein Export
 Translator für das Pica3-Format des SWB, das für IxTheo eingesetzt wird.
@@ -345,10 +342,10 @@ Fachdatenbanken, OA-Journals und Bibliothekskatalogen et cetera in
 \enquote{Meine Bibliothek} heruntergeladen. Dabei kann je nach Webseite
 zwischen unterschiedlichen Downloadoptionen gewählt werden (Einzel- und
 Mehrfachübernahmen, Persistente Identifikatoren mittels
-``*Zauberstab``*, Importfunktion von anderen Formate). In den meisten
-großen Aufsatzdatenbanken wie JSTOR oder EBSCO ist Mehrfachübernahme,
-das heißt alle Aufsätze eines Zeitschriftenheftes mit einem Klick,
-möglich.
+\enquote{Zauberstab}, Im\-portfunktion von anderen Formate). In den
+meisten großen Aufsatzdatenbanken wie JSTOR oder EBSCO ist
+Mehrfachübernahme, das heißt alle Aufsätze eines Zeitschriftenheftes mit
+einem Klick, möglich.
 
 \begin{figure}[htbp]
 \centering
@@ -650,7 +647,8 @@ Wissensorganisation. \emph{ABI-Technik}, \emph{35}(4), 210--221.
 \url{http://doi.org/10.1515/abitech-2015-0037}
 
 Zur Geschichte des Index theologicus. (2007, January). Retrieved April
-3, 2016, from \url{http://www.ixtheo.de/histger.htm}
+3, 2016, from
+\url{http://web.archive.org/web/20160324045150/http://www.ixtheo.de/histger.htm}
 
 %autor
 

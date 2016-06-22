@@ -1,4 +1,4 @@
-**Zusammenfassung:** Im Folgenden soll aufgezeigt werden, wie derzeit
+Im Folgenden soll aufgezeigt werden, wie derzeit
 das Literaturverwaltungsprogramm Zotero innerhalb des Index Theologicus
 genutzt wird, um unselbstständige Literatur in einem bibliothekarischen
 Katalogisierungssystem zu erfassen. Die modulare und flexible
@@ -15,7 +15,7 @@ Theologie
 
 ---
 
-**Abstract:** This article presents an approach to use the reference
+This article presents an approach to use the reference
 management software Zotero within the theological article database Index
 Theologicus to catalogue article metadata for a library management
 system. Zotero's Open Source nature and flexible architecture allowed us
