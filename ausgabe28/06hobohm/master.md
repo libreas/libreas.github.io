@@ -499,11 +499,11 @@ Bibliothek (vielleicht europäischer) begründen lässt: Die Bibliothek als
 Ort und Akteur der Begegnung von Geschichten, die Wissen transferieren.
 
 [^1]: Kaegbein, Paul (1973): Bibliotheken als spezielle
-    Informationssysteme. In: Zeitschrift für Bibliothekswesen und
+    Informationssysteme. In: Zeitschrift für Bibliothekswesen und
     Bibliographie 20, S. 425–442. – kritisch dazu: Jochum, Uwe (2011):
     Die Selbstabschaffung der Bibliothek. In: Uwe Jochum und Armin
     Schlechter (Hg.): Das Ende der Bibliothek? Vom Wert des Analogen. 1.
-    Aufl. Frankfurt am Main: Klostermann, S. 11–25.
+    Aufl. Frankfurt am Main: Klostermann, S. 11--25.
 
 [^2]: Ingwersen, Peter; Järvelin, Kalervo (2005): The turn: integration
     of information seeking and retrieval in context. Dordrecht u.a.:

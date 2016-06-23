@@ -1,21 +1,19 @@
-Seit Dekaden schon wandert das Bild vom notwendigen Wandel der
-Bibliotheken als der einzigen Konstante für ihre weitere Existenz durch
-die Medien und die Köpfe. Wer die Kombination Wandel und Bibliothek in
-eine Suchmaschine tippt, bekommt mehr als 320.000 Einträge. Dabei geht
-es vor allem um neue Bibliotheksbauten, um Digitalisierung und E-Books
-sowie um virtuelle und Gruppenarbeitsplätze. Auf diesen Gebieten gab und
-gibt es immer noch Nachholbedarf in vielen Regionen. Aber ist damit
-alles erfasst, was mit Wandel gemeint sein könnte? Was soll/muss eine
-Bibliothek in einer Wissensgesellschaft idealerweise leisten?\
-Mögliche Antworten auf diese Frage treffen den Kern bibliothekarischer
-Arbeit. Warum wird was wie und wozu gesammelt? Ist das Sammeln mit der
-Formalerfassung beendet? Wie wird das Sammelgut aufbereitet und
-erschlossen? Was ist eine ideale Bibliothek?\
-Auf jeden Fall stimmt: "Die perfekte Bibliothek ist … Weg und Ziel
-zugleich." (Keller 2009)
-
-Die Zeitschrift LIBREAS hatte diese Perspektive in den bisherigen zehn
-Jahren ihrer Existenz unter den verschiedensten Aspekten im Auge.
+Seit Dekaden schon wandert das Bild vom notwendigen Wandel der Bibliotheken
+als der einzigen Konstante für ihre weitere Existenz durch die Medien und die
+Köpfe. Wer die Kombination Wandel und Bibliothek in eine Suchmaschine tippt,
+bekommt mehr als 320.000 Einträge. Dabei geht es vor allem um neue
+Bibliotheksbauten, um Digitalisierung und E-Books sowie um virtuelle und
+Gruppenarbeitsplätze. Auf diesen Gebieten gab und gibt es immer noch
+Nachholbedarf in vielen Regionen. Aber ist damit alles erfasst, was mit Wandel
+gemeint sein könnte? Was soll/muss eine Bibliothek in einer
+Wissensgesellschaft idealerweise leisten? Mögliche Antworten auf diese Frage
+treffen den Kern bibliothekarischer Arbeit. Warum wird was wie und wozu
+gesammelt? Ist das Sammeln mit der Formalerfassung beendet? Wie wird das
+Sammelgut aufbereitet und erschlossen? Was ist eine ideale Bibliothek? Auf
+jeden Fall stimmt: "Die perfekte Bibliothek ist … Weg und Ziel zugleich."
+(Keller 2009) Die Zeitschrift LIBREAS hatte diese Perspektive in den
+bisherigen zehn Jahren ihrer Existenz unter den verschiedensten Aspekten im
+Auge.
 
 Nebenbei: Dieser zehnte respektive 10. Jahrestag passt zahlenmäßig so
 besonders für diese Open Access-Zeitschrift, weil er aus 1 und 0
@@ -35,8 +33,7 @@ Heute, wo mit Wörtern wie "Arbeit 4.0" oder "Bibliothek 4.0" (Hobohm
 2007) phantasiert wird, sind die Bibliotheken herausgefordert, dieses
 Netz des Wissens sowohl immer enger zu knüpfen als auch gleichzeitig
 weiter zu spannen, damit die publizierte Information immer besser die
-Interessen der Nutzenden leiten kann.\
-Das Bild der Bibliothek als Wissensspeicher, als Ort des Lernens ist für
+Interessen der Nutzenden leiten kann. Das Bild der Bibliothek als Wissensspeicher, als Ort des Lernens ist für
 den Platz von Bibliotheken in der Wissensgesellschaft zentral.
 Betrachten wir die Bibliothek nicht als Raum oder Ort, sondern
 entsprechend ihrer Funktionen, dann wird an erster Stelle meist der
@@ -53,16 +50,13 @@ wissenschaftliche Fragen, also Unwissen, produzieren.
 
 Meine Frage nach einer transdisziplinären Bibliothek soll den ständig
 notwendigen Wandel in Bibliotheken erneut zuspitzen auf die Frage
-Formal- versus Inhaltserschließung.
-
-*Kann die Bibliothek unter diesem Aspekt als transdisziplinäre gedacht
-werden?*
+Formal- versus Inhaltserschließung. *Kann die Bibliothek unter diesem Aspekt als transdisziplinäre gedacht werden?*
 
 Bisher tauchte die Charakteristik transdisziplinäre Bibliothek noch
 nicht explizit in den 27 LIBREAS-Ausgaben auf. Allerdings waren
 "Philosophische Fragen in Bibliothek und Bibliothekswissenschaft" das
 Thema im Winter 2006. Im Editorial schrieb die Redaktion damals zur
-Institution Bibliothek als Bezugssystem der Bibliothekswissenschaft:\
+Institution Bibliothek als Bezugssystem der Bibliothekswissenschaft:
 Dieses Bezugssystem "existiert nicht unabhängig von anderen Systemen,
 sondern … vielmehr mit diesen in Wechselwirkung – ein Faktum, welchem
 unter den Stichworten ‚Inter-‘ bzw. ‚Transdisziplinarität‘ seit der
@@ -136,7 +130,7 @@ sehen genau diese Arbeit als wichtigsten Service für ihre Nutzer_innen:
 
 In vielen traditionellen Bibliotheken divergieren die unterschiedliche
 Aufgaben und Erwartungen in Bezug auf Formal- und Inhaltserschließung
-zwischen Leser_innen und Bibliothek. (Weinheimer 2014)[^6]\
+zwischen Leser_innen und Bibliothek. (Weinheimer 2014)[^6]
 Auch wenn vor Jahren behauptet wurde, die Diskussion "Holding versus
 Access" sei längst beendet und zugunsten eines "Access to Information"
 entschieden (Ball 2008), so scheint mir der Aspekt Inhaltserschließung
@@ -177,20 +171,17 @@ dem Protokoll der EG Sacherschließung (früher RSWK-Anwenderkreis) vom
 > strategische Gruppe gegründet worden, die sich dieser annehmen
 > werde."[^9]
 
-Es wird also dauern!
-
-In der Zwischenzeit bleibt – leider – aktuell, was aus der Sicht der
-Geschlechterforschung kein ausreichender Service ist: die Nichtbeachtung
-wichtiger Grundbegriffe oder ihrer Beziehungen in der aktuell gültigen
-Gemeinsamen Normdatei. Solange diese Zustände existieren, werden
+Es wird also dauern! In der Zwischenzeit bleibt – leider – aktuell, was aus
+der Sicht der Geschlechterforschung kein ausreichender Service ist: die
+Nichtbeachtung wichtiger Grundbegriffe oder ihrer Beziehungen in der aktuell
+gültigen Gemeinsamen Normdatei. Solange diese Zustände existieren, werden
 Forschende und Studierende der Geschlechterstudien in den traditionellen
-Universitätsbibliotheken nicht die Werke finden, die sie benötigen,
-obwohl sie meist sogar vorhanden sind.[^10] Mehrere Beispiele für diese
-Praxis habe ich ausführlicher in dem LIBREAS-Artikel "Die Frau im
-Bibliothekskatalog" beschrieben. (Aleksander 2014)\
-Sie illustrieren, womit zum Beispiel die Geschlechterstudien mit ihrem
-inter-/ transdisziplinären Charakter beim Recherchieren konfrontiert
-sind:
+Universitätsbibliotheken nicht die Werke finden, die sie benötigen, obwohl sie
+meist sogar vorhanden sind.[^10] Mehrere Beispiele für diese Praxis habe ich
+ausführlicher in dem LIBREAS-Artikel "Die Frau im Bibliothekskatalog"
+beschrieben. (Aleksander 2014) Sie illustrieren, womit zum Beispiel die
+Geschlechterstudien mit ihrem inter-/ transdisziplinären Charakter beim
+Recherchieren konfrontiert sind:
 
 1.  Der Vergleich zweier wissenschaftlicher Begriffe zeigt, dass der
     Fachbegriff "Geschlechterverhältnisse" aus den Gender Studies
@@ -289,8 +280,8 @@ eigenen Netz der Inhalte herausfischen können, aus dem eigenen Kopf und
 dem eigenen Katalog, ohne disziplinäre Grenzen. Obwohl die Recall- und
 Precision-Rate unseres GReTA-Katalogs immer besser wird, frage ich mich,
 wie diese individuelle Fähigkeit weiter zu "verobjektivieren" ist, also
-in das Rechercheprogramm zu implementieren.\
-\
+in das Rechercheprogramm zu implementieren.
+
 Um solche Erlebnisse "produzieren" zu können, ist sicher eine andere
 Betrachtungsweise über die Wissensproduktion notwendig. Ihre Ergebnisse
 werden in Bibliotheken schon jahrhundertelang nach dem linearen und
@@ -305,25 +296,23 @@ mehr gelöst werden. Flüssigmachen kann diese alte Ordnung vor allem das
 Denken selbst. Wenn es sich seiner eigenen Beschränktheiten wieder
 bewusst wird.
 
-Was ist damit gemeint?
-Das lässt sich zum Beispiel an der Entwicklung vom geozentrischen zum
-heliozentrischen Weltbild erläutern. Heute vertreten nur sehr wenige
-Personen das geozentrische Weltbild, dass sich die Sonne um die Erde im
-Mittelpunkt dreht. Den meisten ist als Ergebnis ihrer
-Bildungssozialisation rational klar, dass sich die Erde um die Sonne
-dreht und es weitere Sonnensysteme gibt. Wir zweifeln nicht daran,
-obwohl der alltägliche Schein uns weiterhin etwas anderes vorgaukelt.
-Wir haben die Kopernikanische Wende für dieses Gebiet in unserem
-Wissenssystem als "richtiges Wissen" verankert. Aber 100 hundert Jahre
-nach Einsteins Relativitätstheorie besteht die moderne Auffassung darin,
-dass wegen der Relativität kein Bezugspunkt im Raum herausgehoben werden
-kann – und wir diese Unterscheidung gar nicht mehr brauchen! Dieser
-inhaltliche Wandel der Weltbilder war historisch immer mit starken
-Gefühlen verbunden. Welche Gefühle, welche Denktradition hindert uns,
-eine Inhaltserschließung transdisziplinär zu organisieren? Brauchen wir
-eine Kopernikanische Wende für den Aspekt Formal- versus
-Inhaltserschließung und fühlen uns erst "ganz", wenn beide
-gleichberechtigt sind?
+Was ist damit gemeint? Das lässt sich zum Beispiel an der Entwicklung vom
+geozentrischen zum heliozentrischen Weltbild erläutern. Heute vertreten nur
+sehr wenige Personen das geozentrische Weltbild, dass sich die Sonne um die
+Erde im Mittelpunkt dreht. Den meisten ist als Ergebnis ihrer
+Bildungssozialisation rational klar, dass sich die Erde um die Sonne dreht und
+es weitere Sonnensysteme gibt. Wir zweifeln nicht daran, obwohl der
+alltägliche Schein uns weiterhin etwas anderes vorgaukelt. Wir haben die
+Kopernikanische Wende für dieses Gebiet in unserem Wissenssystem als
+"richtiges Wissen" verankert. Aber 100 hundert Jahre nach Einsteins
+Relativitätstheorie besteht die moderne Auffassung darin, dass wegen der
+Relativität kein Bezugspunkt im Raum herausgehoben werden kann – und wir diese
+Unterscheidung gar nicht mehr brauchen! Dieser inhaltliche Wandel der
+Weltbilder war historisch immer mit starken Gefühlen verbunden. Welche
+Gefühle, welche Denktradition hindert uns, eine Inhaltserschließung
+transdisziplinär zu organisieren? Brauchen wir eine Kopernikanische Wende für
+den Aspekt Formal- versus Inhaltserschließung und fühlen uns erst "ganz", wenn
+beide gleichberechtigt sind?
 
 Möglicherweise verkörperte der frühe Professorenbibliothekar noch diese
 Einheit für seine Disziplin(en). Ist das unbewusst transdisziplinär?
@@ -369,7 +358,7 @@ Lebenswelt! "‘Trans‘ steht […] für die Überschreitung der Grenze
 zwischen Wissenschaft und Nichtwissenschaft, […] für eine deutliche
 Anwendungsorientierung" (Hark 2003, S. 83) oder für gemeinsame
 Instrumentenentwicklung sowie die anerkannte Gleichwertigkeit
-wissenschaftlichen und nicht-wissenschaftlichen Wissens.[^14]\
+wissenschaftlichen und nicht-wissenschaftlichen Wissens.[^14]
 Die Basis für den Wandel in der Inhaltserschließung von Bibliotheken
 sind dabei nicht nur die speziellen Termini der Disziplinen, ihre
 Verschränkungen und eine neue Wissensorganisation, sondern darüber
@@ -381,7 +370,7 @@ Minnich schon 1982 für Feministinnen: "Was wir tun, ist vergleichbar mit
 Kopernikus, der unseren Geozentrismus erschütterte, mit Darwin, der
 unseren Artenzentrismus erschütterte. Wir erschüttern den
 Androzentrismus, und dieser Wandel ist ebenso fundamental, wie
-gefährlich und spannend."[^15] (Minnich 1982, S. 311)\
+gefährlich und spannend."[^15] (Minnich 1982, S. 311)
 Das bedeutet: Wer aus einer monodisziplinären Sicht aussteigt,
 erschließt sich multi-, inter- und transdisziplinäre Einsichten und
 Praktiken. Mit Lichtenberg könnten wir lästern: Wer nur Chemie versteht,
@@ -454,7 +443,7 @@ formulieren können. Im erwähnten Horizon-Bericht werden neben lösbaren
 und schweren auch zwei "wicked challenges" benannt: "Managing Knowledge
 Obsolescence" (sicher auch der Irrtümer) und "Embracing the Need for
 Radical Change". Und da ist sie wieder, die notwendige radikale
-Änderung! Sie erfordert neue Wertigkeiten, neue Optiken -– und hier kann
+Änderung! Sie erfordert neue Wertigkeiten, neue Optiken -- und hier kann
 auch die Geschlechterforschung ihre Expertise anbieten:
 
 1.  Die Hauptaufgabe der Bibliothek ist die inhaltliche Erschließung.
@@ -518,7 +507,7 @@ inter-/transdisziplinäre Gebiet.[^16] Oder die Datenbank Gendermedizin
 Fachrichtung oder Kategorie eingeschränkt werden.
 
 Und abschließend ein kurzer Blick auf ein Projekt, das die Frauen-,
-Lesben- und Genderbibliotheken und –-archive des i.d.a.-Dachverbandes im
+Lesben- und Genderbibliotheken und -archive des i.d.a.-Dachverbandes im
 November 2015, auf ihrer 50. Fachtagung in Luxemburg, veröffentlichten.
 Erstmals werden die Bestände von bisher dreißig verschiedenen
 Einrichtungen in einem META-Katalog zugänglich gemacht.[^18] Und zwar
@@ -533,7 +522,7 @@ wir testen. Auf jeden Fall nutzt das Konstruktionsteam mit der Software
 VuFind, ein Instrument, mit dem vielfältigere Funktionen für die Nutzung
 der Resultate selbstständiger entwickelt werden können als bei teuren
 Firmen (Henry 2015), "die die Entwicklung bedarfsgerechter Services seit
-Jahrzehnten lähmen. (Mittelbach 2015, S. 64)
+Jahrzehnten lähmen". (Mittelbach 2015, S. 64)
 
 Wir sind gespannt und wissen gleichzeitig: Wir werden nicht ALLES haben,
 also das Ideal. Aber: Spiegelt sich in einem Wassertropfen nicht die
@@ -601,7 +590,7 @@ grenzüberschreitende Wissens- und Institutionentransfers. Münster :
 Westfälisches Dampfboot (Forum Frauen- und Geschlechterforschung ; 33).
 
 Capurro, Rafael (2001): Skeptisches Wissensmanagement.
-http://www.capurro.de/wm-afta.html.
+<http://www.capurro.de/wm-afta.html>.
 
 Dressel, Gert; Berger, Wilhelm; Heimerl, Katharina; Winiwarter, Verena
 (Hrsg.) (2014): Interdisziplinär und transdisziplinär forschen :
@@ -666,7 +655,7 @@ Oßenbrügge, Jürgen (Hrsg.): Zeiten und Räume der Stadt : Theorie und
 Praxis. Opladen : Budrich, S. 205-228.
 
 Redaktion-LIBREAS (2006): Editorial LIBREAS 4 (Winter 2006) :
-Philosophische Fragen in Bibliothek und Bibliothekswissenschaft". In:
+Philosophische Fragen in Bibliothek und Bibliothekswissenschaft. In:
 LIBREAS. Library Ideas, 4 (2006), S. 1
 <http://libreas.eu/ausgabe4/000edi.htm>.
 
