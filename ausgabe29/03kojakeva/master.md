@@ -449,7 +449,7 @@ Brockhaus Enzyklopädie in 30 Bänden (2006^2^) Leipzig: F.A. Brockhaus
 
 #### B. - Eklektik der Elektrik?
 
-In der Deutschen **Wikipedia**
+In der deutschen **Wikipedia**
 (http://de.wikipedia.org/wiki/Bibliographie, abgerufen: 11. Januar 2016)
 führte dies zur folgenden Umschreibungen:
 

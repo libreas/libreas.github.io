@@ -5,7 +5,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>Semiautomatische Katalogisierung und Normdatenverknüpfung mit Zotero im Index Theologicus - LIBREAS. Library Ideas</title>
+	<title>Zurück ins Web. Die Entwicklung eines neuen Webauftritts für die Nordrhein-Westfälische Bibliographie (NWBib) - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
 	<!--
@@ -16,7 +16,7 @@
 
  <!-- RDFa Metadata (in DublinCore) -->
     
-    <meta property="dc:title" content="Semiautomatische Katalogisierung und Normdatenverknüpfung mit Zotero im Index Theologicus" />
+    <meta property="dc:title" content="Zurück ins Web. Die Entwicklung eines neuen Webauftritts für die Nordrhein-Westfälische Bibliographie (NWBib)" />
     
     
     
@@ -161,7 +161,7 @@ ga('send', 'pageview');
 
 
         
-        <h1 itemprop="name" class="title">Semiautomatische Katalogisierung und Normdatenverknüpfung mit Zotero im Index Theologicus</h1>
+        <h1 itemprop="name" class="title">Zurück ins Web. Die Entwicklung eines neuen Webauftritts für die Nordrhein-Westfälische Bibliographie (NWBib)</h1>
         
 
 
@@ -206,7 +206,7 @@ ga('send', 'pageview');
             
             Fabian Steeg,
             
-            "Semiautomatische Katalogisierung und Normdatenverknüpfung mit Zotero im Index Theologicus". <i itemprop="provider">LIBREAS. Library Ideas</i>, 29 (<span itemprop="datePublished">2016</span>). <a itemprop="url" href="http://libreas.eu/ausgabe29/04pohl/meta.yaml">http://libreas.eu/ausgabe29/04pohl/meta.yaml</a>
+            "Zurück ins Web. Die Entwicklung eines neuen Webauftritts für die Nordrhein-Westfälische Bibliographie (NWBib)". <i itemprop="provider">LIBREAS. Library Ideas</i>, 29 (<span itemprop="datePublished">2016</span>). <a itemprop="url" href="http://libreas.eu/ausgabe29/04pohl/meta.yaml">http://libreas.eu/ausgabe29/04pohl/meta.yaml</a>
         </small>
         <hr>
     </p>
@@ -237,7 +237,7 @@ ga('send', 'pageview');
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2016-06-23</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2016-07-01</a>)</p>
 
 </footer>
 

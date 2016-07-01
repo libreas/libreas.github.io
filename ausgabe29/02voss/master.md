@@ -34,12 +34,12 @@ bibliographischen Daten in/mit Wikidata im Speziellen entwickelt.
 Um es kurz zu machen, möchte ich an dieser Stelle nur meine Einschätzung
 abgeben: *Wikidata hat das Potential für Bibliographien vergleichbares zu
 leisten wie Wikipedia für allgemeine Nachschlagewerke*. Mit allen Vor- und
-Nachteilen.[^2][^3] Insbesondere ist seit Paul Otlets Répertoire
-bibliographique universel^[<http://www.wikidata.org/entity/Q3456262>] das Ziel
+Nachteilen.[^2][^3] Insbesondere ist seit Paul Otlets *Répertoire
+bibliographique universel*^[<http://www.wikidata.org/entity/Q3456262>] das Ziel
 einer wirklichen Universalbibliographie erstmals wieder in greifbare Nähe
 gerückt.[^4]  Diese Einschätzung basiert nicht nur auf meiner allgemeinen Erfahrung
 mit Wikipedia, Wikidata, Social Cataloging, bibliographischen Datenformaten und
-Datenbanken etc., sondern kann auch durch einige Indizien belegt werden:
+Datenbanken et cetera, sondern kann auch durch einige Indizien belegt werden:
 
 [^2]: Diese Vor- und Nachteile wären unter Anderem Gegenstand einer
 genaueren Untersuchung der tatsächlichen und prognostizierten Rolle von

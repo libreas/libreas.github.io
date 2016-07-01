@@ -158,7 +158,7 @@ wissen wünscht, wo und wie es zu erhalten sei, wende sich an mich."[^1]
 Meienreis‘ Bibliographie von 1899 verzeichnet *Alcibiade fanciullo* als
 anonymes Werk und hält den vermeintlichen Autor Pallavicini für den
 Übersetzer aus dem Italienischen. Die Liste der Schriften zur
-Urningsliebe scheint weder Meienreis noch Wilhelm zur Kenntnis genommen
+Urningsliebe scheinen weder Meienreis noch Wilhelm zur Kenntnis genommen
 zu haben.
 
 **Literatur**

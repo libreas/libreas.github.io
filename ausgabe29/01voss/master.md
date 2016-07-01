@@ -49,8 +49,8 @@ Metabibliographien ebenfalls zu bezweifeln ist. In der englischsprachigen
 Wikipedia gibt es zwar einen eigenen kurzen Artikel
 "Metabibliography"^[<https://en.wikipedia.org/wiki/Metabibliography>, Stand
 vom Anfang März 2016], dieser enthält jedoch lediglich einige eher willkürlich
-zusammengestellt Beispiele, so dass diese Liste, zumindest momentan, nicht als
-weitere Meta-Metabibliographie in Frage kommt.
+zusammengestellte Beispiele, so dass diese Liste, zumindest momentan, nicht 
+als weitere Meta-Metabibliographie in Frage kommt.
 
 @Hjorland2008 merkt treffend an, dass ihr praktischer Wert für die Recherche
 beschränkt ist:
@@ -211,7 +211,7 @@ Englischsprachigen Wikipedia
 zwischen 2008 und 2011 von Scott Sisikind zusammengestellte "List of Lists of
 Lists of Lists" (<http://www.raikoth.net/lololol.html>).] Ob die Betrachtung
 solch allgemeiner Meta-Sammlungen zur Erstellung von Sammlungen höherer
-Ordnung zielführend ist, darf bezweifelt werden. Vielmehr macht es Sinn, für
+Ordnung zielführend ist, darf bezweifelt werden. Vielmehr ist es sinnvoll, für
 weitergehende Untersuchungen den Akt des Sammeln und Beschreibens anderer
 Sammlungen und Beschreibungen selbst zu betrachten.^[Ein Ansatz für den
 Bereich von (Meta-)Daten liegt vor [@Voss2013].]
