@@ -65,6 +65,14 @@
         
         
         
+        <rdf:li resource="http://libreas.eu/ausgabe29/13bader/vita.html" />
+        
+        
+        
+        <rdf:li resource="http://libreas.eu/ausgabe29/13bader/meta.yaml" />
+        
+        
+        
         <rdf:li resource="http://libreas.eu/ausgabe29/00editorial/index.html" />
         
         
@@ -2701,6 +2709,38 @@
         <dc:subject>Library and Information Science</dc:subject>
         
         <description>Am Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (hbz) wird seit Anfang 2014 nach Vorgaben und unter Begutachtung der Universitäts- und Landesbibliotheken in Düsseldorf, Münster und Bonn ein neuer Webauftritt für die Landesbibliographie Nordrhein-Westfalens, die Nordrhein-Westfälische Bibliographie (NWBib) entwickelt. Die Entwicklung basiert auf der Web-Schnittstelle des Linked-Open-Data-Dienst lobid und wird vollständig mit Open-Source-Software entwickelt. Aus der Perspektive des Entwicklungsteams am hbz beschreibt der Artikel Kontext und Durchführung des Projekts. Der Beitrag skizziert die historische Entwicklung der NWBib mit Fokus auf die Beziehung der Bibliographie zum World Wide Web (WWW), erläutert die Voraussetzungen für die Neuentwicklung sowie die Leitlinien des Entwicklungsprozesses, gibt einen Überblick über die Nutzung des neuen Webauftritts und die zur Umsetzung verwendete Technologie. Abgeschlossen wir der Artikel mit Lessons-Learned und einem Ausblick auf weitere Entwicklungen.</description>
+        
+      </item>
+      
+    
+      
+      <item rdf:about="http://libreas.eu/ausgabe29/13bader/vita.html">
+        
+        
+        
+        <dc:format>text/html</dc:format>
+        <dc:identifier>http://libreas.eu/ausgabe29/13bader/vita.html</dc:identifier>
+        
+        <dc:rights>https://creativecommons.org/licenses/by/3.0/</dc:rights>
+        
+        <dc:source>LIBREAS. Library Ideas</dc:source>
+        <dc:subject>Library and Information Science</dc:subject>
+        
+      </item>
+      
+    
+      
+      <item rdf:about="http://libreas.eu/ausgabe29/13bader/meta.yaml">
+        
+        
+        
+        <dc:format>text/html</dc:format>
+        <dc:identifier>http://libreas.eu/ausgabe29/13bader/meta.yaml</dc:identifier>
+        
+        <dc:rights>https://creativecommons.org/licenses/by/3.0/</dc:rights>
+        
+        <dc:source>LIBREAS. Library Ideas</dc:source>
+        <dc:subject>Library and Information Science</dc:subject>
         
       </item>
       

@@ -314,7 +314,7 @@ stand bei ihm die Darstellung der "sozialen Facetten der Homosexualität"
 deutlicher im Vordergrund: Bei den von ihm mitgeteilten Beispielen, die
 die Stichhaltigkeit des Standpunkts des WhK belegen sollten, handelte es
 sich nicht um Patienten, sondern um "individuelle Menschen inmitten
-einer spezifischen gesellschaftlichen Situation"[^29]. [^30]Das
+einer spezifischen gesellschaftlichen Situation"[^29]. Das
 Heranziehen einer reichhaltigen 'persönlichen Erfahrung' war allerdings
 nicht ohne Gefahr, verstieß Praetorius doch damit gegen das Gebot
 wissenschaftlicher 'Objektivität'.
@@ -951,7 +951,7 @@ Keilson-Lauritz, Marita / Lang, Rolf F. (Hrsg.) (2000): *Emanzipation
 hinter der Weltstadt. Adolf Brand und die Gemeinschaft der Eigenen*.
 Berlin-Friedrichshagen: Müggel-Verlag Rolf F. Lang.
 
-Kennedy, Hubert (^2^2001): *Karl Heinrich Ulrichs. Leben und Werk*.
+Kennedy, Hubert (2001): *Karl Heinrich Ulrichs. Leben und Werk*.
 Hamburg: MännerschwarmSkript.
 
 Krafft-Ebing, Richard von (1901): Neue Studien auf dem Gebiete der
@@ -1117,8 +1117,6 @@ am Main: Campus.
 [^28]: Praetorius 1901, S. 478.
 
 [^29]: Benkel 2014, S. 399.
-
-[^30]: 
 
 [^31]: Praetorius 1901, S. 382 und 433; 1903, S. 979 und 999.
 
