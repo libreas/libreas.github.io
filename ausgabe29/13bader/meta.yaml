@@ -1,0 +1,262 @@
+
+<!DOCTYPE HTML>
+
+<html lang="de">
+
+<head>
+	<meta charset="utf-8">
+	<title>Open-Access-Repositorien in der Schweiz und Österreich -Auswertung des <i>2014 Census on Open Access Repositories</i> - LIBREAS. Library Ideas</title>
+	<meta name="author" content="LIBREAS. Library Ideas">
+
+	<!--
+	<meta name="description" content="Open-Access-Repositorien und werden in der wissenschaftlichen Kommunikation immer wichtiger. Der 2014 Census on Open Access Repositories in Germany, &hellip;">
+	 -->
+
+<!-- RDFa DC -->
+
+ <!-- RDFa Metadata (in DublinCore) -->
+    
+    <meta property="dc:title" content="Open-Access-Repositorien in der Schweiz und Österreich -Auswertung des &lt;i&gt;2014 Census on Open Access Repositories&lt;/i&gt;" />
+    
+    
+    
+    <meta property="dc:creator" content="Tabea Bader" />
+    
+    
+    
+    <meta property="dc:date" content="2016" />
+    
+    <meta property="dc:format" content="text/html" />
+    <meta property="dc:language" content="de" />
+    <meta property="dc:identifier" content="http://libreas.eu/ausgabe29/13bader/meta.yaml" />
+    
+    <meta property="dc:rigths" prefix="cc: http://creativecommons.org/ns#" rel="cc:license" href="https://creativecommons.org/licenses/by/3.0/" content="CC-BY 3.0" />
+	
+    <meta property="dc:source" content="LIBREAS. Library Ideas" />
+    <meta property="dc:subject" content="Library and Information Science" />
+    <meta property="dc:type" content="website" />
+    <meta property="dc:description" content="Open-Access-Repositorien und werden in der wissenschaftlichen Kommunikation immer wichtiger. Der &lt;q&gt;2014 Census on Open Access Repositories in Germany, Austria and Switzerland&lt;/q&gt; (Census 2014) beschäftigte sich mit der Landschaft der Open-Access-Repositorien (OAR) in den drei deutschsprachigen Ländern. In Bezug auf Deutschland wurden die Daten bereits umfassend ausgewertet. Dieser Artikel gibt einen Überblick über die Situation der Open-Access-Repositorien in der Schweiz und Österreich auf Basis des Census 2014. Die Daten des Census werden anhand der Kriterien Größe, Metadatenqualität, verwendete Software, Rolle der Berliner Erklärung, Langzeitarchivierung, Lizenzierungsmöglichkeiten unter anderem analysiert. &lt;br&gt; Bei den Auswertungen zeigte sich beispielsweise, dass Österreich und die Schweiz wenige, aber dafür vergleichsweise große OAR haben. Die meisten OAR verteilen sich auf Universitäten und außeruniversitäre Forschungseinrichtungen. Fachhochschulrepositorien gibt es kaum, obwohl es in beiden Ländern in etwa so viele Fachhochschulen wie Universitäten gibt. Die Konformität der Metadaten mit den Vorgaben des DINI-Zertifikats 2010 ist eher gering, jedoch muss beachtet werden, dass kein OAR in den Alpenstaaten überhaupt ein Zertifikat besitzt. Weiterhin lässt sich festhalten, dass die Software-Lösung EPrints dominiert."/>
+    <meta property="dc:source" resource="urn:ISSN:1860-7950" /> 
+
+<!-- Google Scholar -->
+
+	<meta name="citation_journal_title" content="LIBREAS. Library Ideas" />
+	<meta name="citation_issue" content="29" />
+	<meta name="citation_issn" content="1860-7950" />
+	
+    <meta name="citation_publication_date" content="2016" />
+    
+
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link href="/atom.xml" rel="alternate" title="LIBREAS. Library Ideas" type="application/atom+xml">
+	
+	<link rel="canonical" href="http://libreas.eu/ausgabe29/13bader/meta.yaml">
+	<link href="/favicon.png" rel="shortcut icon">
+	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+	<script src="/js/jquery.min.js"></script>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-46475342-1', 'libreas.eu');
+ga('send', 'pageview');
+
+</script>
+
+    <!--   
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="public/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" href="favicon.png"> -->
+  
+	
+</head>
+
+
+
+
+  <body class="theme-base-wes">
+
+    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <a href="/">LIBREAS. Library Ideas</a>
+  </div>
+
+  <nav class="sidebar-nav">
+
+    	<a class="sidebar-nav-item" href="/ausgabe28/">Aktuelle Ausgabe</a>
+	<a class="sidebar-nav-item" href="/archiv.htm">Archiv</a>
+	<a class="sidebar-nav-item" href="http://edoc.hu-berlin.de/browsing/libreas/">edoc pdf-Archiv</a>
+	<a class="sidebar-nav-item" href="/autorinnen">AutorInnen</a>
+	<a class="sidebar-nav-item" href="http://libreas.wordpress.com/category/libreas-call-for-papers/">Call for Papers</a>
+	<a class="sidebar-nav-item" href="/authorguides">Hinweise</a>
+	<a class="sidebar-nav-item" href="http://libreas.wordpress.com/">Blog</a>
+	<a class="sidebar-nav-item" href="http://libreas.tumblr.com/">Tumblr</a>
+	<a class="sidebar-nav-item" href="http://www.ib.hu-berlin.de/~libreas/libreas_neu/podcasts/">Podcasts</a>
+	<a class="sidebar-nav-item" href="http://libreas-verein.eu">Verein</a>
+	<a class="sidebar-nav-item" href="/about">Impressum</a>
+
+
+  </nav>
+</div>
+
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <!-- <div class="wrap">
+       <div class="masthead">
+        <div class="container">
+          <h1 class="masthead-title">
+            <a href="/" title="Home">LIBREAS. Library Ideas</a>
+            <small><br></small>
+          </h1>
+        </div>
+      </div> -->
+
+
+      <div class="container content">
+      <!-- GitHub et al icon -->
+      <div align="right" class="icons">
+        <a href="mailto:redaktion@libreas.eu"><i class="fa fa-envelope"></i></a>
+        <a href="https://github.com/libreas"><i class="fa fa-github-square"></i></a>
+        <a href="https://www.facebook.com/libreas"><i class="fa fa-facebook"></i></a>
+        <a href="https://twitter.com/libreas"><i class="fa fa-twitter"></i></a>
+        <a href="https://github.com/libreas.atom"><i class="fa fa-rss"></i></a>
+</div>
+        
+<article class="page" itemscope itemtype="http://schema.org/ScholarlyArticle">
+
+<div align="right">
+
+<strong> > > > <a href="/ausgabe29/inhalt/">LIBREAS. Library Ideas # 29</a></strong> <br><br>
+</div>
+
+
+
+
+    
+    <div align="right">
+      <p><small>
+      <a itemprop="url" href="https://via.hypothes.is/http://libreas.eu/ausgabe29/13bader/meta.yaml">Annotate via hypothes.is </a></small>
+    </p>
+        <small><a itemprop="sameAs" href="http://nbn-resolving.de/urn:nbn:de:kobv:11-100238925">Download PDF @ edoc HU Berlin</a>
+            <br>
+            urn:nbn:de:kobv:11-100238925 </small>
+        </div>
+        
+
+
+        
+        <h1 itemprop="name" class="title">Open-Access-Repositorien in der Schweiz und Österreich -Auswertung des <i>2014 Census on Open Access Repositories</i></h1>
+        
+
+
+        
+        <div class="titelei">
+            
+            
+            
+            <i itemprop="author">Tabea Bader</i>
+            
+            
+        </div>
+        
+
+
+
+        
+
+        <p><small itemprop="description">Open-Access-Repositorien und werden in der wissenschaftlichen Kommunikation immer wichtiger. Der <q>2014 Census on Open Access Repositories in Germany, Austria and Switzerland</q> (Census 2014) beschäftigte sich mit der Landschaft der Open-Access-Repositorien (OAR) in den drei deutschsprachigen Ländern. In Bezug auf Deutschland wurden die Daten bereits umfassend ausgewertet. Dieser Artikel gibt einen Überblick über die Situation der Open-Access-Repositorien in der Schweiz und Österreich auf Basis des Census 2014. Die Daten des Census werden anhand der Kriterien Größe, Metadatenqualität, verwendete Software, Rolle der Berliner Erklärung, Langzeitarchivierung, Lizenzierungsmöglichkeiten unter anderem analysiert. <br> Bei den Auswertungen zeigte sich beispielsweise, dass Österreich und die Schweiz wenige, aber dafür vergleichsweise große OAR haben. Die meisten OAR verteilen sich auf Universitäten und außeruniversitäre Forschungseinrichtungen. Fachhochschulrepositorien gibt es kaum, obwohl es in beiden Ländern in etwa so viele Fachhochschulen wie Universitäten gibt. Die Konformität der Metadaten mit den Vorgaben des DINI-Zertifikats 2010 ist eher gering, jedoch muss beachtet werden, dass kein OAR in den Alpenstaaten überhaupt ein Zertifikat besitzt. Weiterhin lässt sich festhalten, dass die Software-Lösung EPrints dominiert.</small></p>
+
+        
+
+        
+
+        <br>
+
+        <p><small itemprop="description">Open access repositories become more and more important in scholarly research. The <q>2014 Census on Open Access Repositories in Germany, Austria and Switzerland</q> investigated the landscape of Open Access Repositories (OAR) in the three German speaking countries. In relation to Germany the data has been analyzed already. This article gives an overview of the situation of Open Access Repositories in Switzerland and Austria. <br> The Census data are surveyed regarding the criteria size, metadata quality, software used, the role of the Berlin Declaration, long term archiving, licensing options and others. <br> The findings were amongst others that Austria and Switzerland have few but big repositories. Most OAR are connected to universities and non-university research institutions. Repositories at universities of applied sciences are nearly non-existent although there are almost as much universities of applied sciences as there are universities in both countries. Conformity with the DINI metadata standards is low, but one has to keep in mind that no OAR of the alpine states has a DINI-certificate. Furthermore the analysis shows that the software EPrints dominates.</small></p>
+
+        
+
+
+
+        
+        <p>
+          <small>
+            <br>
+            Zitiervorschlag
+            <br>
+            
+            
+            Tabea Bader,
+            
+            "Open-Access-Repositorien in der Schweiz und Österreich -Auswertung des <i>2014 Census on Open Access Repositories</i>". <i itemprop="provider">LIBREAS. Library Ideas</i>, 29 (<span itemprop="datePublished">2016</span>). <a itemprop="url" href="http://libreas.eu/ausgabe29/13bader/meta.yaml">http://libreas.eu/ausgabe29/13bader/meta.yaml</a>
+        </small>
+        <hr>
+    </p>
+    
+
+
+
+
+
+    <div class="entry-content" itemprop="articleBody"></div>
+
+    
+
+</article>
+
+
+
+
+        <footer class="footer">
+<hr>
+<p><a href="http://creativecommons.org/licenses/by/3.0/">All content licensed under Creative Commons Attribution 3.0 Unported (CC BY 3.0)</a>, if not otherwise stated.
+</p>
+<p>LIBREAS. Library Ideas wird herausgegeben am <a href="https://www.ibi.hu-berlin.de/">Institut für Bibliotheks- und Informationswissenschaft</a> der <a href="https://www.hu-berlin.de/">Humboldt-Universität zu Berlin</a></p>
+<p>Hosted on <a href="http://github.com/libreas/libreas.github.io">GitHub</a>, made with <a href="http://octopress.org/">Jekyll/Octopress.</a> and <a href="http://johnmacfarlane.net/pandoc/">pandoc</a></p>
+
+<p>ISSN: 1860-7950</p>
+
+
+    LIBREAS. Library Ideas
+
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2016-07-11</a>)</p>
+
+</footer>
+
+      </div>
+    </div>
+<label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+  </body>
+</html>

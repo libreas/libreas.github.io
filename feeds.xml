@@ -65,6 +65,10 @@
         
         
         
+        <rdf:li resource="http://libreas.eu/ausgabe29/13bader/index.html" />
+        
+        
+        
         <rdf:li resource="http://libreas.eu/ausgabe29/13bader/vita.html" />
         
         
@@ -2714,6 +2718,30 @@
       
     
       
+      <item rdf:about="http://libreas.eu/ausgabe29/13bader/index.html">
+        
+        <dc:title>Open-Access-Repositorien in der Schweiz und Österreich -Auswertung des &lt;i&gt;2014 Census on Open Access Repositories&lt;/i&gt;</dc:title>
+        
+        
+        <dc:creator>Tabea Bader</dc:creator>
+        
+        
+        <dc:date>2016</dc:date>
+        
+        <dc:format>text/html</dc:format>
+        <dc:identifier>http://libreas.eu/ausgabe29/13bader/index.html</dc:identifier>
+        
+        <dc:rights>https://creativecommons.org/licenses/by/3.0/</dc:rights>
+        
+        <dc:source>LIBREAS. Library Ideas</dc:source>
+        <dc:subject>Library and Information Science</dc:subject>
+        
+        <description>Open-Access-Repositorien und werden in der wissenschaftlichen Kommunikation immer wichtiger. Der &lt;q&gt;2014 Census on Open Access Repositories in Germany, Austria and Switzerland&lt;/q&gt; (Census 2014) beschäftigte sich mit der Landschaft der Open-Access-Repositorien (OAR) in den drei deutschsprachigen Ländern. In Bezug auf Deutschland wurden die Daten bereits umfassend ausgewertet. Dieser Artikel gibt einen Überblick über die Situation der Open-Access-Repositorien in der Schweiz und Österreich auf Basis des Census 2014. Die Daten des Census werden anhand der Kriterien Größe, Metadatenqualität, verwendete Software, Rolle der Berliner Erklärung, Langzeitarchivierung, Lizenzierungsmöglichkeiten unter anderem analysiert. &lt;br&gt; Bei den Auswertungen zeigte sich beispielsweise, dass Österreich und die Schweiz wenige, aber dafür vergleichsweise große OAR haben. Die meisten OAR verteilen sich auf Universitäten und außeruniversitäre Forschungseinrichtungen. Fachhochschulrepositorien gibt es kaum, obwohl es in beiden Ländern in etwa so viele Fachhochschulen wie Universitäten gibt. Die Konformität der Metadaten mit den Vorgaben des DINI-Zertifikats 2010 ist eher gering, jedoch muss beachtet werden, dass kein OAR in den Alpenstaaten überhaupt ein Zertifikat besitzt. Weiterhin lässt sich festhalten, dass die Software-Lösung EPrints dominiert.</description>
+        
+      </item>
+      
+    
+      
       <item rdf:about="http://libreas.eu/ausgabe29/13bader/vita.html">
         
         
@@ -2732,7 +2760,13 @@
       
       <item rdf:about="http://libreas.eu/ausgabe29/13bader/meta.yaml">
         
+        <dc:title>Open-Access-Repositorien in der Schweiz und Österreich -Auswertung des &lt;i&gt;2014 Census on Open Access Repositories&lt;/i&gt;</dc:title>
         
+        
+        <dc:creator>Tabea Bader</dc:creator>
+        
+        
+        <dc:date>2016</dc:date>
         
         <dc:format>text/html</dc:format>
         <dc:identifier>http://libreas.eu/ausgabe29/13bader/meta.yaml</dc:identifier>
@@ -2741,6 +2775,8 @@
         
         <dc:source>LIBREAS. Library Ideas</dc:source>
         <dc:subject>Library and Information Science</dc:subject>
+        
+        <description>Open-Access-Repositorien und werden in der wissenschaftlichen Kommunikation immer wichtiger. Der &lt;q&gt;2014 Census on Open Access Repositories in Germany, Austria and Switzerland&lt;/q&gt; (Census 2014) beschäftigte sich mit der Landschaft der Open-Access-Repositorien (OAR) in den drei deutschsprachigen Ländern. In Bezug auf Deutschland wurden die Daten bereits umfassend ausgewertet. Dieser Artikel gibt einen Überblick über die Situation der Open-Access-Repositorien in der Schweiz und Österreich auf Basis des Census 2014. Die Daten des Census werden anhand der Kriterien Größe, Metadatenqualität, verwendete Software, Rolle der Berliner Erklärung, Langzeitarchivierung, Lizenzierungsmöglichkeiten unter anderem analysiert. &lt;br&gt; Bei den Auswertungen zeigte sich beispielsweise, dass Österreich und die Schweiz wenige, aber dafür vergleichsweise große OAR haben. Die meisten OAR verteilen sich auf Universitäten und außeruniversitäre Forschungseinrichtungen. Fachhochschulrepositorien gibt es kaum, obwohl es in beiden Ländern in etwa so viele Fachhochschulen wie Universitäten gibt. Die Konformität der Metadaten mit den Vorgaben des DINI-Zertifikats 2010 ist eher gering, jedoch muss beachtet werden, dass kein OAR in den Alpenstaaten überhaupt ein Zertifikat besitzt. Weiterhin lässt sich festhalten, dass die Software-Lösung EPrints dominiert.</description>
         
       </item>
       

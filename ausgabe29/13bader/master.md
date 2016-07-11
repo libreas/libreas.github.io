@@ -84,6 +84,8 @@ Drittel, sind OAR erfasst. Jedoch muss beachtet werden, dass in elf
 Kantonen keine den Kriterien des Census entsprechende Hochschule
 existiert, die ein Repositorium betreiben könnte.
 
+![Abbildung 1: Schweiz nach Kantonen](img/abb1_anzahl_oar_kantone.jpg)
+
 Abbildung 1 zeigt, dass Genf mit vier OAR auf Kantonebene Vorreiter ist.
 Eine Ursache dafür ist die renommierte Forschungseinrichtung der Physik,
 die Europäische Organisation für Kernforschung (CERN), die dort ihren
@@ -144,6 +146,8 @@ keine außeruniversitären Forschungseinrichtungen aufgeführt, da zur
 Gesamtzahl solcher Einrichtungen in der Schweiz keine Daten ermittelt
 werden konnten.
 
+![Abbildung 2: Schweiz - Institutstypen mit OAR](img/abb2_institutionentypen_oar.jpg)
+
 Laut CRUS (dem Vorgänger des gemeinsamen hochschulpolitischen Organs der
 Schweiz "swissuniversities") gab es 2014 21 Universitäten und
 Fachhochschulen bzw. Fachhochschulverbünde in der Schweiz. Von diesen
@@ -154,6 +158,8 @@ Anzahl der Universitäten mit Repositorium von zehn auf acht reduziert.
 Abbildung 3 zeigt, dass nicht ganz die Hälfte aller
 Hochschuleinrichtungen ein OAR betreiben, jedoch nur vier Schweizer
 Universitäten kein Repositorium haben.
+
+![Abbildung 3: Schweiz - Anzahl der Institutionen mit/ohne OAR](img/abb3_institutionen_ch_oar.jpg)
 
 #### 3.2 Österreich
 
@@ -173,7 +179,7 @@ Diese sehr geringe Anzahl überrascht. Es lässt sich jedoch festhalten,
 dass es durchaus mehr Repositorien geben könnte, die nur durch die
 Census-spezifische Definition nicht erfasst wurden.
 
-### 4. Größe der OAR
+### 4 Größe der OAR
 
 Als Größe eines OAR wird die Anzahl der über die OAI-Schnittstelle
 ausgelieferten Items in einem Repositorium definiert. Der Census 2014
@@ -182,12 +188,16 @@ Repositorien halten ein bis 1.000 Items vor, mittelgroße 1.001 bis 5.000
 Items und als groß werden OAR bezeichnet, die 5.001 oder mehr Items
 besitzen.[^12]
 
+![Abbildung 4: Österreich - Institutionstypen mit OAR](img/abb4_institutionentypen_oar.jpg)
+
 Die Mehrheit der Schweizer Repositorien sind groß. Kleine und mittlere
 Repositorien gibt es zusammengenommen nur fünf.
 
 In Österreich gibt es kein der Kategorisierung zufolge als klein
 einzustufendes OAR. Es gibt drei mittelgroße und zwei große
 Repositorien.
+
+![Abbildung 5: Österreich - Anzahl der Institutionen mit/ohne OAR](img/abb5_institutionen_oar_at.jpg)
 
 #### Größe der OAR nach Institutionstyp – Schweiz
 
@@ -200,9 +210,7 @@ an den gesamten Items in den Repositorien der Schweiz, obwohl es gerade
 einmal fünf ihres Typs gibt. Der außeruniversitäre *CERN Document
 Server* ist mit 455.394 Items das größte OAR der Schweiz.
 
-![](img//media/image1.png){width="3.823611111111111in"
-height="4.096527777777778in"}**Größe der OAR nach Institutionen –
-Österreich**
+![Abbildung 6: Schweiz - Häufigkeit von OAR bestimmter Größe](img/abb6_oar_haeufigkeit.jpg)
 
 Insgesamt werden in den Repositorien Österreichs 69.612 Items zur
 Verfügung gestellt. Das größte Repositorium Österreichs wird von der
@@ -211,6 +219,8 @@ sich mehr als die Hälfte aller Items. Darauf folgen die drei OAR der
 Universität Wien, wobei der Hochschulschriften-Service mit 23.947 Items
 das größte ist. Das kleinste OAR ist das der Wirtschaftsuniversität
 Wien, welches nur 2% der Gesamt-Items ausmacht.
+
+![Abbildung 7: Österreich - Größe der OAR nach Institutionen](img/abb7_groesse_oar_at.jpg)
 
 #### Wachstum der OAR
 
@@ -224,27 +234,143 @@ Repository* vergrößerte seine Item-Anzahl im Verhältnis am zweitmeisten
 und konnte um rund 101% wachsen. Auch dieses Repositorium wird am CERN
 betrieben.
 
-<span id="_Toc417047776" class="anchor"></span>Tabelle 1: Schweiz -
-Wachstum der OAR
+---------------------------------------------------------------------
+OAR                        Anzahl       Anzahl   Absoluter    Zuwachs
+(N=16)                      Items        Items     Zuwachs        von
+                       06.01.2013   06.01.2014         von      Items
+                                                     Items         im
+                                                        im   Zeitraum
+                                                  Zeitraum    2013/14
+                                                   2013/14         in
+                                                              Prozent
+-------------------- ------------ ------------ ----------- ----------
+CERN                        94484       455394      360910    381,98%
+Document                                                             
+Server                                                               
+(CDS)                                                                
 
-  **OAR** (N=16)                                                                                                     **Anzahl Items 06.01.2013**   **Anzahl Items 06.01.2014**   **Absoluter Zuwachs von Items im Zeitraum 2013/14**   **Zuwachs von Items im Zeitraum 2013/14 in Prozent**
-  ------------------------------------------------------------------------------------------------------------------ ----------------------------- ----------------------------- ----------------------------------------------------- ------------------------------------------------------
-  CERN Document Server (CDS)                                                                                         94.484                        455.394                       360.910                                               381,98%
-  OpenAIRE Orphan Record Repository (Open Access Infrastructure Research for Europe)                                 229                           460                           231                                                   100,87%
-  Universität Basel: Dokumentenserver edoc                                                                           19.569                        30.153                        10.584                                                54,09%
-  University of Zurich: ZORA (Zurich Open Repository and Archive)                                                    48.595                        62.075                        13.480                                                27,74%
-  Zentral- und Hochschulbibliothek Luzern: zhb-dokumentenserver                                                      1.032                         1.318                         286                                                   27,71%
-  réro doc Digitale Bibliothek (Westschweizer Bibliotheksverbund / Réseau des bibliothèques de Suisse occidentale)   20.432                        25.584                        5.152                                                 25,22%
-  Université de Genève: Archive ouverte UNIGE                                                                        24.219                        30.112                        5.893                                                 24,33%
-  Université de Lausanne (UNIL): Serval - Serveur académique lausannois                                              28.711                        35.685                        6.974                                                 24,29%
-  Ecole Polytechnique Fédérale de Lausanne (EPFL): Reproducible Research Repository                                  22                            27                            5                                                     22,73%
-  Medecins Sans Frontieres: MSF Field Research                                                                       1.156                         1.369                         213                                                   18,43%
-  Universität St. Gallen: Forschungsplattform Alexandria                                                             34.155                        38.637                        4.482                                                 13,12%
-  SEALS: Digitalisierte Zeitschriften (Schweiz)                                                                      292.200                       327.576                       35.376                                                12,11%
-  ETH Zürich (Eidgenössische Technische Hochschule): ETH E-Collection                                                26.484                        27.834                        1.350                                                 5,10%
-  Ecole Polytechnique Fédérale Lausanne: Infoscience                                                                 keine Angabe                  115.465                       115.465                                               n .a.
-  Hochschule für Technik Rapperswil: HSR - Institutional Repository                                                  keine Angabe                  314                           314                                                   n .a.
-  Universität Bern: BORIS Bern Open Repository and Information System                                                2013 gegründet                38.962                        38.962                                                n .a.
+OpenAIRE                      229          460         231    100,87%
+Orphan                                                               
+Record                                                               
+Repository                                                           
+(Open                                                                
+Access                                                               
+Infrastructure                                                       
+Research                                                             
+for                                                                  
+Europe)                                                              
+
+Universität                 19569        30153       10584     54,09%
+Basel:                                                               
+Dokumentenserver                                                     
+edoc                                                                 
+
+University                  48595        62075       13480     27,74%
+of                                                                   
+Zurich:                                                              
+ZORA                                                                 
+(Zurich                                                              
+Open                                                                 
+Repository                                                           
+and                                                                  
+Archive)                                                             
+
+Zentral-                     1032         1318         286     27,71%
+und                                                                  
+Hochschulbibliothek                                                  
+Luzern:                                                              
+zhb-dokumentenserver                                                 
+
+réro                        20432        25584        5152     25,22%
+doc                                                                  
+Digitale                                                             
+Bibliothek                                                           
+(Westschweizer                                                       
+Bibliotheksverbund                                                   
+/                                                                    
+Réseau                                                               
+des                                                                  
+bibliothèques                                                        
+de                                                                   
+Suisse                                                               
+occidentale)                                                         
+
+Université                  24219        30112        5893     24,33%
+de                                                                   
+Genève:                                                              
+Archive                                                              
+ouverte                                                              
+UNIGE                                                                
+
+Université                  28711        35685        6974     24,29%
+de                                                                   
+Lausanne                                                             
+(UNIL):                                                              
+Serval
+
+Ecole                          22           27           5     22,73%
+Polytechnique                                                        
+Fédérale                                                             
+de                                                                   
+Lausanne                                                             
+(EPFL):                                                              
+Reproducible                                                         
+Research                                                             
+Repository                                                           
+
+Medecins                     1156         1369         213     18,43%
+Sans                                                                 
+Frontieres:                                                          
+MSF                                                                  
+Field                                                                
+Research                                                             
+
+Universität                 34155        38637        4482     13,12%
+St.                                                                  
+Gallen:                                                              
+Forschungsplattform                                                  
+Alexandria                                                           
+
+SEALS:                     292200       327576       35376     12,11%
+Digitalisierte                                                       
+Zeitschriften                                                        
+(Schweiz)                                                            
+
+ETH                         26484        27834        1350      5,10%
+Zürich                                                               
+(Eidgenössische                                                      
+Technische                                                           
+Hochschule):                                                         
+ETH                                                                  
+E-Collection                                                         
+
+Ecole                       keine       115465      115465      n .a.
+Polytechnique              Angabe                                    
+Fédérale                                                             
+Lausanne:                                                            
+Infoscience                                                          
+
+Hochschule                  keine          314         314      n .a.
+für                        Angabe                                    
+Technik                                                              
+Rapperswil:                                                          
+HSR -                                                                
+Institutional                                                        
+Repository                                                           
+
+Universität                  2013        38962       38962      n .a.
+Bern:                   gegründet                                    
+BORIS                                                                
+Bern                                                                 
+Open                                                                 
+Repository                                                           
+and                                                                  
+Information                                                          
+System                                                               
+---------------------------------------------------------------------
+
+Table: Schweiz - Wachstum der OAR
+
 
 In Österreich kann das zweitgrößte OAR das höchste Wachstum vorweisen.
 Von 2013 auf 2014 konnte sich der Bestand des
@@ -253,16 +379,47 @@ vergrößern. Das größte österreichische Repositorium der Akademie der
 Wissenschaften hingegen verzeichnet mit 1,94% das geringste Wachstum.
 (Tab. 2)
 
-<span id="_Toc417047786" class="anchor"></span>Tabelle 2: Österreich -
-Wachstum der OAR
+--------------------------------------------------------------------------
+OAR                             Anzahl       Anzahl   Absoluter    Zuwachs
+(N=5)                            Items        Items     Zuwachs        von
+                             06.1.2013   06.01.2014         von      Items
+                                                          Items         im
+                                                             im   Zeitraum
+                                                       Zeitraum    2013/14
+                                                        2013/14         in
+                                                                   Prozent
+-------------------------- ----------- ------------ ----------- ----------
+Universität                      16917        23947        7030     41,56%
+Wien:                                                                     
+Hochschulschriften-Service                                                
 
-  **OAR** (N=5)                                                                               **Anzahl Items 6.1.2013**   **Anzahl Items 6.1.2014**   **Absoluter Zuwachs von Items im Zeitraum 2013/14**   **Zuwachs von Items im Zeitraum 2013/14 in Prozent**
-  ------------------------------------------------------------------------------------------- --------------------------- --------------------------- ----------------------------------------------------- ------------------------------------------------------
-  Universität Wien: Hochschulschriften-Service                                                16.917                      23.947                      7.030                                                 41,56%
-  Wirtschaftsuniversität Wien: ePubWU                                                         1.334                       1.475                       141                                                   10,57%
-  Universität Wien, Institut für Philosophie: Sammelpunkt. Elektronisch archivierte Theorie   1.572                       1.721                       149                                                   9,48%
-  Universität Wien: u:scholar                                                                 2.361                       2.520                       159                                                   6,73%
-  Österreichische Akademie der Wissenschaften: epub.oeaw                                      39.188                      39.949                      761                                                   1,94%
+Wirtschaftsuniversität            1334         1475         141     10,57%
+Wien:                                                                     
+ePubWU                                                                    
+
+Universität                       1572         1721         149      9,48%
+Wien,                                                                     
+Institut                                                                  
+für                                                                       
+Philosophie:                                                              
+Sammelpunkt.                                                              
+Elektronisch                                                              
+archivierte                                                               
+Theorie                                                                   
+
+Universität                       2361         2520         159      6,73%
+Wien:                                                                     
+u:scholar                                                                 
+
+Österreichische                  39188        39949         761      1,94%
+Akademie                                                                  
+der                                                                       
+Wissenschaften:                                                           
+epub.oeaw                                                                 
+--------------------------------------------------------------------------
+
+Table: Österreich - Wachstum der OAR
+
 
 ### 5 Nutzung von OAR-Software
 
@@ -287,6 +444,7 @@ eine unter "Andere" erfasste Software Verwendung findet. Phaidra ist
 eine eigens von der Universität Wien für ihre OAR entwickelte
 Software-Lösung. Das in Deutschland weit verbreitete deutschsprachige
 OPUS nutzt keines der untersuchten Repositorien in beiden Ländern.
+
 
 ### 6 Metadatenqualität
 
@@ -332,7 +490,7 @@ OAR-Gründungswelle aus.[^16] Heute, über ein
 Jahrzehnt später, gilt es einen Blick darauf zu werfen, wie sich die
 Situation in der Schweiz und Österreich entwickelt hat.
 
-![](img//media/image2.tiff)
+![Abbildung 8: Schweiz - Unterzeichner der Berliner Erklärung](img/unterzeichner-schweiz.jpg)
 
 In der Schweiz unterzeichneten die wichtigsten
 Wissenschaftsorganisationen 2006 die Erklärung.[^17] Zehn Jahre später
@@ -406,8 +564,6 @@ Genf nutzt sowohl PDF/A als auch XML und das OAR für Digitalisierte
 Zeitschriften SEALS nutzt XML sowie ein nicht näher spezifiziertes
 "anderes" Format.
 
-![](img//media/image3.tiff)
-
 ***Autorenidentifikatoren***
 
 Vier OAR nutzen keinerlei Autorenidentifikatoren für die Beschreibung
@@ -420,6 +576,8 @@ hindeutet, dass sich bislang sowohl in der Schweiz als auch in
 Deutschland kein System für Autorenidentifikatoren durchsetzen konnte.
 Weitere 10% nutzen in Deutschland die PND, die in der Schweiz nur von
 einem Repositorium verwendet wird.
+
+![Abbildung 9: Schweiz - Nutzung von Autorenidentifikatoren (N=9)](img/abb9_autorenidentifikatoren.jpg)
 
 #### 8.2 Österreich
 
@@ -450,7 +608,7 @@ wobei PDF/A, XML und "andere" gleichermaßen genutzt werden.
 
 ***Autorenidentifikatoren***
 
-![](img//media/image3.tiff)
+![Abbildung 10: Österreich - Nutzung von Autorenidentifikatoren (N=3)](img/abb10_autorenidentifikatior.jpg)
 
 Das Repositorium der Wirtschaftsuniversität Wien
 nutzt keinerlei Autorenidentifikatoren. Die anderen beiden OAR verwenden
@@ -559,7 +717,7 @@ Universitäten ein OAR. In der Schweiz ist es ein Großteil der
 universitären Hochschulen. Die Situation in Deutschland sieht ähnlich
 aus. Auch dort betreiben hauptsächlich Universitäten OAR.
 
-![](img//media/image4.tiff)
+![Abbildung 11: Größenwerte der OAR in Österreich und der Schweiz](img/abb11_groesse_repos_at_ch.jpg)
 
 Im Vergleich zu Deutschland gibt es in den Alpenstaaten zwar insgesamt
 relativ wenige OAR, dafür halten sie größtenteils viele Items vor und
@@ -622,18 +780,18 @@ Census 2014 folgendermaßen formulieren:
     Open-Access-Repositorien in Deutschland?. LIBREAS. Library Ideas, 26
     (2014). http://libreas.eu/ausgabe26/07vierkantkindling/
 
-[^2]: &lt;http://repositoryranking.org/&gt;, 28.06.2016.
+[^2]: <http://repositoryranking.org/>, 28.06.2016.
 
 [^3]: Kindling, Maxi: Auswertungen und Forschungsdaten zum "2014 Census
     on Open Access Repositories in Germany, Austria and Switzerland”.
-    &lt;https://oanetzwerk.wordpress.com/2015/09/07/forschungsdaten-und-auswertungen-zum-2014-census-on-open-access-repositories-in-germany-austria-and-switzerland/&gt;,
+    <https://oanetzwerk.wordpress.com/2015/09/07/forschungsdaten-und-auswertungen-zum-2014-census-on-open-access-repositories-in-germany-austria-and-switzerland/>,
     18.10.2015
 
 [^4]: Vierkant, Paul; Maxi Kindling u.a.: Dataset Open access
 
     Research Data of the 2014 Census of Open Access Repositories in
     Germany, Austria and Switzerland.
-    &lt;http://www.zenodo.org/record/10734?ln=en\#.VK\_3knvpWXc&gt;,
+    <http://www.zenodo.org/record/10734?ln=en\#.VK\_3knvpWXc>,
     26.02.2015.
 
 [^5]: Vierkant P., M. Kindling: Welche Institutionen betreiben
@@ -646,63 +804,63 @@ Census 2014 folgendermaßen formulieren:
     Januar 2014." Vierkant, P.; M. Kindling: Welche Institutionen
     betreiben Open-Access-Repositorien in Deutschland?.
 
-[^8]: &lt;http://www.opendoar.org/find.php?search=&clID=&ctID=&rtID=&cID=205&lID=&rSoftWareName=&submit=Search&format=summary&step=20&sort=r.rName&rID=&ctrl=new&p=1&gt;;
-    &lt;http://www.opendoar.org/find.php?search=&clID=&ctID=&rtID=&cID=15&lID=&rSoftWareName=&submit=Search&format=summary&step=20&sort=r.rName&rID=&ctrl=new&p=1&gt;,
+[^8]: <http://www.opendoar.org/find.php?search=&clID=&ctID=&rtID=&cID=205&lID=&rSoftWareName=&submit=Search&format=summary&step=20&sort=r.rName&rID=&ctrl=new&p=1>;
+    <http://www.opendoar.org/find.php?search=&clID=&ctID=&rtID=&cID=15&lID=&rSoftWareName=&submit=Search&format=summary&step=20&sort=r.rName&rID=&ctrl=new&p=1>,
     04.01.2016.
 
 [^9]: Aus Informationen der Seite
-    &lt;http://www.swissuniversities.ch/de/hochschulraum/anerkannte-schweizer-hochschulen/&gt;
+    <http://www.swissuniversities.ch/de/hochschulraum/anerkannte-schweizer-hochschulen/>
     recherchiert.
 
 [^10]: Eine auf Kantonebene aufgegliederte Auswertung kann bei der
     Autorin angefordert werden.
 
 [^11]: 2015 gelten die gleichen Zahlen. Gesamtübersicht Universitäten:
-    &lt;http://wissenschaft.bmwfw.gv.at/bmwfw/wissenschaft-hochschulen/universitaeten/gesamtuebersicht-universitaeten/&gt;,
+    <http://wissenschaft.bmwfw.gv.at/bmwfw/wissenschaft-hochschulen/universitaeten/gesamtuebersicht-universitaeten/>,
     24.10.2015.
 
 [^12]: Vierkant, Paul: Eine kurze Geschichte der
     Open-Access-Repositorien-Landschaft in Deutschland von 1991-2013.
     Fußnote 7.
-    &lt;https://libreas.wordpress.com/2014/12/01/eine-kurze-geschichte-der-open-access-repositorien-landschaft-in-deutschland-von-1991-2013/&gt;,
+    <https://libreas.wordpress.com/2014/12/01/eine-kurze-geschichte-der-open-access-repositorien-landschaft-in-deutschland-von-1991-2013/>,
     25.10.2015.
 
 [^13]: Vierkant, Paul: Eine kurze Geschichte der
     Open-Access-Repositorien-Landschaft in Deutschland von 1991-2013.
-    &lt;https://libreas.wordpress.com/2014/12/01/&gt;, 25.10.2015.
+    <https://libreas.wordpress.com/2014/12/01/>, 25.10.2015.
 
 [^14]: Buddenbohm, Stefan: DINI-OAI-Validator verfügbar.
-    &lt;https://oanetzwerk.wordpress.com/2011/11/10/dini-oai-validator-verfugbar/&gt;,
+    <https://oanetzwerk.wordpress.com/2011/11/10/dini-oai-validator-verfugbar/>,
     25.10.2015.
 
 [^15]: Der Validator und die DINI-Check-Regeln:
-    &lt;http://oanet.cms.hu-berlin.de/validator/pages/validation\_dini.xhtml&gt;,
+    <http://oanet.cms.hu-berlin.de/validator/pages/validation\_dini.xhtml>,
     25.10.2015.
 
 [^16]: Vierkant, Paul; Maxi Kindling u.a.: Dataset Open access Research
     Data of the 2014 Census of Open Access Repositories in Germany,
     Austria and Switzerland.
-    &lt;http://www.zenodo.org/record/10734?ln=en\#.VK\_3knvpWXc&gt;,
+    <http://www.zenodo.org/record/10734?ln=en\#.VK\_3knvpWXc>,
     25.10.2015.
 
 [^17]: Open Access an der Universität Basel.
-    &lt;http://www.ub.unibas.ch/ub-hauptbibliothek/dienstleistungen/publizieren/open-access/&gt;,
+    <http://www.ub.unibas.ch/ub-hauptbibliothek/dienstleistungen/publizieren/open-access/>,
     25.10.2015.
 
 [^18]: Signatoren der Berliner Erklärung:
-    &lt;http://openaccess.mpg.de/3883/Signatories&gt;, 10.01.2016.
+    <http://openaccess.mpg.de/3883/Signatories>, 10.01.2016.
 
 [^19]: Signatoren der Berliner Erklärung:
-    &lt;http://openaccess.mpg.de/3883/Signatories&gt;, 10.01.2016.
+    <http://openaccess.mpg.de/3883/Signatories>, 10.01.2016.
 
 [^20]: Persistent Identifier:
-    &lt;https://wiki.dnb.de/display/NESTOR/Persistent+Identifier&gt;,
+    <https://wiki.dnb.de/display/NESTOR/Persistent+Identifier>,
     25.10.2015.
 
 [^21]: Diese und folgende Prozentzahlen zu den Fakten aus der
     Online-Umfrage aus: Vierkant, Paul: 7 Fakten über Deutsche
     Open-Access-Repositorien:
-    &lt;https://zenodo.org/record/13045/files/7-Fakten-ueber-Deutsche-Open-Access-Repositorien.svg&gt;,
+    <https://zenodo.org/record/13045/files/7-Fakten-ueber-Deutsche-Open-Access-Repositorien.svg>,
     25.10.2015.
 
-[^22]: http://repositoryranking.org/
+[^22]: <http://repositoryranking.org/>

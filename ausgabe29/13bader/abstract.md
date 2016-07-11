@@ -1,6 +1,6 @@
 Open-Access-Repositorien und werden in der wissenschaftlichen
-Kommunikation immer wichtiger. Der „2014 Census on Open Access
-Repositories in Germany, Austria and Switzerland“ (Census 2014)
+Kommunikation immer wichtiger. Der "2014 Census on Open Access
+Repositories in Germany, Austria and Switzerland" (Census 2014)
 beschäftigte sich mit der Landschaft der Open-Access-Repositorien (OAR)
 in den drei deutschsprachigen Ländern. In Bezug auf Deutschland wurden
 die Daten bereits umfassend ausgewertet. Dieser Artikel gibt einen
@@ -20,9 +20,11 @@ DINI-Zertifikats 2010 ist eher gering, jedoch muss beachtet werden, dass
 kein OAR in den Alpenstaaten überhaupt ein Zertifikat besitzt. Weiterhin
 lässt sich festhalten, dass die Software-Lösung EPrints dominiert.
 
+---
+
 Open access repositories become more and more important in scholarly
-research. The „2014 Census on Open Access Repositories in Germany,
-Austria and Switzerland” investigated the landscape of Open Access
+research. The "2014 Census on Open Access Repositories in Germany,
+Austria and Switzerland" investigated the landscape of Open Access
 Repositories (OAR) in the three German speaking countries. In relation
 to Germany the data has been analyzed already. This article gives an
 overview of the situation of Open Access Repositories in Switzerland and
