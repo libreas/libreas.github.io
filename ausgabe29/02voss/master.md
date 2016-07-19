@@ -105,5 +105,5 @@ Es kann also davon ausgegangen werden, dass alle, die sich mit der Sammlung
 bibliographischer Daten beschäftigen, mit Wikidata "in interessanten Zeiten
 leben"^[<http://www.wikidata.org/entity/Q14634108>] werden.
 
-# Literaturangaben
+### Literaturangaben
 
