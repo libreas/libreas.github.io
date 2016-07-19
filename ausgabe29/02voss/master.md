@@ -4,29 +4,29 @@ Als ich den Call for Papers für die
 LIBREAS^[<http://www.wikidata.org/entity/Q1798120> Die Hyperlinks im Text
 verweisen auf entsprechende Wikidata-Items oder -Projektseiten.]-Ausgabe #29
 "Bibliographien" zur Kenntnis nahm, war sofort klar: ich muss unbedingt etwas
-zu einem Thema einreichen, dass mir schon länger auf den Nägeln brennt. Wie
+zu einem Thema einreichen, das mir schon länger auf den Nägeln brennt. Wie
 Wikipedia^[<http://www.wikidata.org/entity/Q52>], deren Aufstieg ich vor rund
 zehn Jahren intensiv mit Vorträgen, Publikationen und nicht zuletzt mit aktiver
 Teilnahme begleitete, geht es wieder um ein Projekt der Wikimedia
 Foundation^[<http://www.wikidata.org/entity/Q180>], und zwar um
 Wikidata^[<http://www.wikidata.org/entity/Q2013>]. Wieder habe ich das Gefühl,
-dass hier eine Entwicklung stattfinden, die eine der Kernaufgabe von
-Bibliotheken tangiert, aber in ihrer Tragweite von der Bibliotheks- und
-Informationswissenschaftlichen^[<http://www.wikidata.org/entity/Q13420675>]
+dass hier eine Entwicklung stattfindet, die eine der Kernaufgabe von
+Bibliotheken tangiert, aber in ihrer Tragweite von der bibliotheks- und
+informationswissenschaftlichen^[<http://www.wikidata.org/entity/Q13420675>]
 Fachcommunity noch nicht so richtig wahrgenommen wird. Wieder versuche ich zum
 Thema zu publizieren und nehme an der Entwicklung regen Anteil. Im Gegensatz zu
 vor zehn Jahren ist mein Anteil am Wikidata-Projekt jedoch durch berufliche und
 familiäre Verpflichtungen beschränkt und vielleicht fehlt mir auch etwas die
-naive Unverfrorenheit, die so hilfreich ist um andere für ein Projekt wie
+naive Unverfrorenheit, die so hilfreich ist, um andere für ein Projekt wie
 Wikipedia oder Wikidata zu begeistern.
 
 Inzwischen habe ich den mittlerweile dritten Entwurf eines
 Fachartikels^[<http://www.wikidata.org/entity/Q591041>] mit dem Titel "Wikidata
-als Universalbibliographie" abgebrochen, während die Ideen, Notizen, und offene
+als Universalbibliographie" abgebrochen, während die Ideen, Notizen und offene
 Browsertabs zum Thema immer mehr werden. Falls jemand mit dem Gedanken einer
 Masterarbeit, Promotion oder eines Forschungsprojektes zum Thema spielt, möge
 sie oder er sich bitte bei mir melden. Ein Grundproblem besteht in der
-Geschwindigkeit mit der sich Wikidata im Allgemeinen und die Sammlung von
+Geschwindigkeit, mit der sich Wikidata im Allgemeinen und die Sammlung von
 bibliographischen Daten in/mit Wikidata im Speziellen entwickelt.
 
 ### Wikidata als Universalbibliographie
@@ -101,8 +101,8 @@ einzelne Wikidata-Einträge angelegt.
   mit 50 ExpertInnen statt, um einen konkreten Plan für die Umsetzung der Migration aller Quellenangaben
   aus Wikipedia nach Wikidata festzulegen.
 
-Es kann also davon ausgegangen werden, dass alle die sich mit der Sammlung
-bibliographischer Daten beschäftigen mit Wikidata "in interessanten Zeiten
+Es kann also davon ausgegangen werden, dass alle, die sich mit der Sammlung
+bibliographischer Daten beschäftigen, mit Wikidata "in interessanten Zeiten
 leben"^[<http://www.wikidata.org/entity/Q14634108>] werden.
 
 # Literaturangaben
