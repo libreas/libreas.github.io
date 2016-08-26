@@ -18,12 +18,13 @@
 \raggedbottom
 
 \usepackage{rotating}
-
+%%% disable figure numbering
 
 %%% import
 \usepackage{import}
 
-%%% cc
+%%% captions
+\usepackage{caption}
 
 %%% graphics
 \usepackage{graphicx}
@@ -41,6 +42,10 @@ breaklinks= true]{hyperref}
 
 %%%%%%%bod test
 \linespread{1.15}
+
+%%% microtype
+\usepackage{microtype}
+
 
 % Hurenkinder und Schusterjungen verhindern
 \clubpenalty10000
@@ -109,6 +114,7 @@ breaklinks= true]{hyperref}
 
 \frontmatter
 
+
 \pagestyle{empty}
 \begin{flushright}
 {\LARGE DIE BIBLIOTHEK ALS IDEE} 
@@ -126,29 +132,47 @@ breaklinks= true]{hyperref}
 \parindent 0pt
 \parskip \baselineskip
 \vspace*{\fill}
-\textcopyright{} 2015 / 2016 Die Autorinnen und Autoren
+
+LIBREAS. Verein e.V.(Hrsg.), Die Bibliothek als Idee : Beiträge des Symposiums \enquote{10
+Jahre LIBREAS. Library Ideas} am ICI Kulturlabor Berlin. Berlin, 2016.
+
+\textcopyright{}
+2015 / 2016 Die Autorinnen und Autoren. 
 
 Dieses Werk ist lizenziert unter einer Creative Commons Namensnennung 3.0 Lizenz.
 
-Satz und Layout: Redaktion LIBREAS unter Verwendung von pandoc und \LaTeX\xspace. 
+Satz und Layout: Redaktion LIBREAS unter Verwendung von pandoc und \LaTeX. 
 
-Webausgabe: \url{https://libreas.eu/ausgabe28/}
+Druck: epubli.
 
-Quellcoderepository: \url{https://github.com/libreas/ausgabe28}
+Webausgabe: \url{http://libreas.eu/ausgabe28/}
+
+Quellcoderepository: \url{https://github.com/libreas/ausgabe28/}
+
+LIBREAS. Library Ideas sind: Ben Kaden, Maxi Kindling, Manuela Schulz (
+Herausgeberinnen und Herausgeber), Linda Freyberg, Najko Jahn, Karsten
+Schuldt, Matti Stöhr, Doreen Thiede (Redaktion).
 
     \endgroup
 \newpage
 
-\begin{flushright}
-Wir bedanken uns herzlich bei der |a|S|tec| angewandte Systemtechnik GmbH für die finanzielle Unterstützung des Drucks. 
+\begin{flushright} Wir bedanken uns herzlich bei der |a|S|tec| angewandte
+Systemtechnik GmbH für die finanzielle Unterstützung des Drucks.
 
 \vspace{10mm}
 
-Unser Dank gilt überdies der Firma Citavi und an das ICI Kulturlabor Berlin, die das Symposium unterstützt haben.
+Unser Dank gilt überdies der Firma Citavi und an das ICI Kulturlabor Berlin,
+die das Symposium unterstützt haben.
 
 \vspace{10mm}
 
-Bedanken möchten wir uns bei unseren Referentinnen und Referenten und Gästen. Ein besonderer Dank an Corinna Haas, ... für Ihre Unterstützung. Ohne Euch hätten wir es nicht geschafft.
+Ein ebenso herzlicher Dank gebührt unseren Referentinnen und Referenten und
+zahlreichen Gästen, die nicht nur aus dem Bibliothekswesen stammen und das
+Symposium zu einem lebhaften Austauschort machten. Ein besonderer Dank gilt
+Corinna Haas, die uns mit dem ICI Kulturlabor eine großartige Location
+vermittelt und für den Erfolg des Symposiums massgeblich verantwortlich war.
+Allen Unterstützern, die uns vor, während und nach dem Symposium tatkräftig
+halfen, danken wir ebenso herzlich: ohne Euch hätten wir es nicht geschafft.
 
 \vspace{10mm}
 
@@ -239,7 +263,7 @@ festzustellen.}
 \section*{ABSTRACT}
 
 {\small
-	Schon zur Wende ins 20. Jahrhundert zweifelte der belgische Privatgelehrte Paul Otlet an der Zukunft des Buches und der Bibliothek. Statt dessen begann er damit, eine Dokumentation und euorganisation des Weltwissens anzulegen, und mittels eines Karteikartensystems (Répertoire Bibliographique Universel) zu vernetzen. Dieses Projekt eines flexiblen, abfrageorientierten Wissensbestandes in einem \enquote{Hypermedium} (Otlet) besetzte jene technologische Leerstelle, die inzwischen eine die bibliothekarische Epoche aufsprengende neue Wissenskultur der digitalen Medialität produziert hat.}
+	Schon zur Wende ins 20. Jahrhundert zweifelte der belgische Privatgelehrte Paul Otlet an der Zukunft des Buches und der Bibliothek. Statt dessen begann er damit, eine Dokumentation und Neuorganisation des Weltwissens anzulegen, und mittels eines Karteikartensystems (Répertoire Bibliographique Universel) zu vernetzen. Dieses Projekt eines flexiblen, abfrageorientierten Wissensbestandes in einem \enquote{Hypermedium} (Otlet) besetzte jene technologische Leerstelle, die inzwischen eine die bibliothekarische Epoche aufsprengende neue Wissenskultur der digitalen Medialität produziert hat.}
 
 \vspace{5mm}
 
@@ -259,23 +283,23 @@ festzustellen.}
 \section*{ABSTRACT}
 
 {\small
-	Die moderne Bibliothek geht auf einen Übergang der Saalbibliothek zur 
-Magazinbibliothek zurück, der sich im 19. Jahrhundert vollzieht. Bevor
-erste Magazinbibliotheken ab den 1850er Jahren gebaut werden, existiert
-die moderne Bibliothek in der ersten Hälfte des 19. Jahrhunderts vor
-allem als Idee. Es entsteht eine kaum übersehbare Zahl an
-Bibliotheksentwürfen und -schriften, in denen nach einer
-architektonischen Form gesucht wird, die der Expansion der
+	
+Die moderne Bibliothek geht auf einen Übergang der Saalbibliothek zur
+Magazinbibliothek zurück, der sich im 19. Jahrhundert vollzog. Bevor erste
+Magazinbibliotheken ab den 1850er Jahren gebaut wurden, existierte die moderne
+Bibliothek in der ersten Hälfte des 19. Jahrhunderts vor allem als Idee. Es
+entstand eine kaum übersehbare Zahl an Bibliotheksentwürfen und -schriften, in
+denen nach einer architektonischen Form gesucht wurde, die der Expansion der
 Gutenberggalaxis, der Erweiterung des Nutzerkreises und der räumlichen
-Ausdifferenzierung der Bibliotheksfunktionen gerecht wird. Ausgehend von
-der öffentlichen Bibliotheksdiskussion, wie sie auch und besonders in
-der Architekturpresse geführt wird, untersucht der Beitrag am Beispiel
-der französischen *Bibliothèque royale* den Entwurf der modernen
-Bibliothek als Zentral- bzw. Rundbau mit einem Lesesaal in seiner Mitte.
-In diesen Entwurf schreiben sich in der Zeitspanne von 1790 bis 1840
-vollkommen verschiedene Wissens- und Körperordnungen ein. Ihre
-Verbindung besteht dort, wo das absolute räumliche Zentrum der
-Bibliothek mit einem allsehenden Auge besetzt zu sein scheint.}
+Ausdifferenzierung der Bibliotheksfunktionen entsprach. Ausgehend von der
+öffentlichen Bibliotheksdiskussion, wie sie auch und besonders in der
+Architekturpresse geführt wurde, untersucht der Beitrag am Beispiel der
+französischen Bibliothèque royale den Entwurf der modernen Bibliothek als
+Zentral- bzw. Rundbau mit einem Lesesaal in seiner Mitte. In diesen Entwurf
+schreiben sich in der Zeitspanne von 1790 bis 1850 vollkommen verschiedene
+Wissens- und Körperordnungen ein. Ihre Verbindung besteht dort, wo sich das
+absolute räumliche Zentrum der Bibliothek durch ein allsehendes Auge besetzt
+zeigt.}
 
 \vspace{5mm}
 

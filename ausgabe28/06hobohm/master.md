@@ -525,7 +525,7 @@ Ort und Akteur der Begegnung von Geschichten, die Wissen transferieren.
 [^4]: Koh, Kyungwon (2013): Adolescents' information-creating behavior
     embedded in digital Media practice using scratch. In: Journal of the
     American Society for Information Science and Technology 64 (9), S.
-    1826–1841. DOI: 10.1002/asi.22878.
+    1826–1841. DOI: [10.1002/asi.22878](http://doi.org/10.1002/asi.22878).
 
 [^5]: Hobohm, Hans-Christoph (2013): Bibliothek im Wandel. In: Rainer
     Kuhlen, Wolfgang Semar und Dietmar Strauch (Hg.): Grundlagen der

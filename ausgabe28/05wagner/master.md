@@ -15,7 +15,7 @@ Schönen und Guten am Wahren partizipiere.[^2] Kurz, die öffentliche
 Bibliothek verspricht sowohl Gemüts- als auch Verstandesbildung. Sie
 erweist sich als eines der wichtigsten Instrumente allgemeiner Bildung.
 
-![Abb. 1: Frontispiz der *Revue générale d’architecture
+![Abb. 1: Frontispiz der *Revue générale de l’architecture
 et des travaux publics*, tome 1, 1840.](img/wagner-1.jpg)
 
 Auf der Grundlage statistischer Erhebungen, die im 19. Jahrhundert zu
@@ -80,7 +80,7 @@ Laborde im Anschluss an das in den 1820er Jahren bereits erreichte
 bibliothekarische Selbstverständnis bestimmt; es sei hier nur an
 Leopoldo della Santa und Christian Molbech erinnert:[^9] erstens die
 sichere Aufbewahrung von Büchern, zweitens eine leichte und schnelle
-Recherche und drittens eine ungestörte Lektüre. Jeder dieser Aufgaben
+Recherche und drittens eine ungestörte Lektüre. Jeder Aufgabe
 entspricht ein eigener räumlicher Bereich: der Aufbewahrung das Depot
 oder, wie es in Zusammenhang mit der modernen Bibliothek heißt, das
 Magazin, der Recherche die Theke des Bibliothekars und ihr zugeordnet
@@ -107,7 +107,7 @@ Verwaltungsräumen sowie zusehends einem schmucklosen Magazin mit
 Flachdecken und Doppelrepositorien.[^11]
 
 ![Abb. 3: Tableau mit Grundrissen von Bibliotheksbauten
-in der *Revue générale d’architecture et des travaux publics*, tome 8,
+in der *Revue générale de l’architecture et des travaux publics*, tome 8,
 1849-50.](img/wagner-3.jpg)
 
 Die scheinbar linear verlaufende Entwicklungsgeschichte der modernen
@@ -182,7 +182,7 @@ eingangs zitiertem Beitrag zu sehen ist, auch allgemeine Reflexionen
 über die Bibliotheksarchitektur angestellt.[^18] Für die Darstellung des
 Bibliotheksbaus in der Architekturpresse gilt daher, was Marc Saboya
 generell für das neue Medium der Architekturperiodika festgestellt hat:
-Jene zeichnen ein direktes Bild der im 19. Jahrhundert geführten
+Sie geben ein direktes Bild der im 19. Jahrhundert geführten
 stilistisch-ästhetischen Kontroversen und öffentlichen Meinungsbildung
 über bestimmte Bauaufgaben, so auch über die moderne Bibliothek. Auf
 diese Weise vermitteln die Architekturperiodika zugleich den "caractère
@@ -270,7 +270,7 @@ Boullée selbst als Vorbild für seine Bibliotheksentwürfe Raffaels Fresko
 erstens das kassettierte Gewölbe sowie den Triumphbogen als
 architektonische Zitate,[^27] zweitens die Figurenanordnung – auf der
 rechten Bildhälfte im geometrischen Beweis, auf der linken Hälfte in
-aufgeschlagene Bücher bzw. Kodizes vertiefte Figuren –, drittens die
+aufgeschlagene Bücher beziehungsweise Kodizes vertiefte Figuren –, drittens die
 Konzeption der Bibliothek als eine ebenso kommemorativ wie edukativ
 angelegte Versammlung sämtlicher Geistesgrößen und der durch sie
 verkörperten Wissenschaften und Erkenntnisse in einem Raum.[^28]
@@ -301,7 +301,7 @@ panoptischer Form der Bibliothek gleichsam zu sich selbst kommen.
 
 Die Entwürfe Boullées umspannen im Wesentlichen das Spektrum, zwischen
 dessen Polen sich die Diskussion um die *Bibliothèque royale* in den
-Jahren 1750 bis 1850 bewegte: Zwischen einem Bestandserhalt im Palais
+Jahren 1750 bis 1850 bewegte: zwischen einem Bestandserhalt im Palais
 Mazarin mit entsprechenden Eingriffen in die vorhandene Bausubstanz und
 einem Neubau, für den alle nur erdenklichen Formen und Standorte links
 und rechts der Seine in Betracht gezogen wurden.[^32] Als Alternative
@@ -341,7 +341,7 @@ Erziehungsinstrument für breitere Schichten der Gesellschaft. In
 letzterer Funktion wurde sie zugleich zu einem Gegenstand der
 philanthropischen Bewegung des 19. Jahrhunderts.
 
-![Abb. 6: Erweiterungsbau bzw. Lesesaal und Magazin für
+![Abb. 6: Erweiterungsbau beziehungsweise Lesesaal und Magazin für
 die *Bibliothèque royale* von Henri Labrouste, 1861-1869.](img/wagner-6.jpg)
 
 ### Entwürfe der modernen Bibliothek: zwischen Kolosseum, Pantheon und Panopticon
@@ -971,7 +971,7 @@ genannt worden ist.
     l’architecture et des travaux publics* wird von Daly benannt, an wen
     sich die Zeitschrift gleichermaßen richtet: "[…] à la fois aux
     architects, aux ingénieurs, aux archéologues, aux industriels, aux
-    propriétaires, et enfin aux governments […]." Daly, Introduction, S.
+    propriétaires, et enfin aux gouvernements […]." Daly, Introduction, S.
     4.
 
 [^21]: Anonymus, "La Bibliothèque royale", in: *Revue générale de
@@ -1132,7 +1132,7 @@ genannt worden ist.
     vertus ou leur crimes, morts dans le cours de chaque année; à
     commencer de 1820*, Paris 1821.
 
-[^47]: Zur Verbindung von Mausoleum bzw. Grabmonument und Bibliothek
+[^47]: Zur Verbindung von Mausoleum beziehungsweise Grabmonument und Bibliothek
     schon bei Boullée vgl. Vogt, Boullée sucht «kosmische Größe für
     seine Bibliothek».
 
@@ -1162,7 +1162,7 @@ genannt worden ist.
     gestellt sind. Chevret, De l’éducation dans la République, S. 14.
 
 [^57]: Zur Adaptation dieser Gesellschafts- und Wissensutopien, die für
-    sich früh schon den Rundbau bzw. den Rundtempel und zentralistische
+    sich früh schon den Rundbau beziehungsweise den Rundtempel und zentralistische
     Stadtanlagen beanspruchen, in der Theorie und Praxis der
     Bibliotheksarchitektur vgl. Becker, Theorie und Praxis – zur
     Typologie in der Bibliotheksarchitektur, sowie Hauke, Domus
