@@ -9,7 +9,7 @@
 	<meta name="author" content="LIBREAS. Library Ideas">
 
 	<!--
-	<meta name="description" content="> > > LIBREAS. Library Ideas # 29 Annotate via hypothes.is Download PDF @ edoc HU Berlin urn:nbn:de:kobv:11-100238160 Durch Rezensionen zur &hellip;">
+	<meta name="description" content="> > > LIBREAS. Library Ideas # 29 Download PDF @ edoc HU Berlin urn:nbn:de:kobv:11-100238160 Durch Rezensionen zur Emanzipation? Die Bibliographie &hellip;">
 	 -->
 
 <!-- RDFa DC -->
@@ -96,7 +96,7 @@ ga('send', 'pageview');
 
   <nav class="sidebar-nav">
 
-    	<a class="sidebar-nav-item" href="/ausgabe29/">Aktuelle Ausgabe</a>
+    	<a class="sidebar-nav-item" href="/ausgabe27/">Aktuelle Ausgabe</a>
 	<a class="sidebar-nav-item" href="/archiv.htm">Archiv</a>
 	<a class="sidebar-nav-item" href="http://edoc.hu-berlin.de/browsing/libreas/">edoc pdf-Archiv</a>
 	<a class="sidebar-nav-item" href="/autorinnen">AutorInnen</a>
@@ -107,7 +107,6 @@ ga('send', 'pageview');
 	<a class="sidebar-nav-item" href="http://www.ib.hu-berlin.de/~libreas/libreas_neu/podcasts/">Podcasts</a>
 	<a class="sidebar-nav-item" href="http://libreas-verein.eu">Verein</a>
 	<a class="sidebar-nav-item" href="/about">Impressum</a>
-
 
   </nav>
 </div>
@@ -140,23 +139,18 @@ ga('send', 'pageview');
 
 <div align="right">
 
-<strong> > > > <a href="/ausgabe29/inhalt/">LIBREAS. Library Ideas # 29</a></strong> <br><br>
+<strong> > > > <a href="inhalt.htm">LIBREAS. Library Ideas # 29</a></strong> <br><br>
 </div>
-
 
 
 
     
     <div align="right">
-      <p><small>
-      <a itemprop="url" href="https://via.hypothes.is/http://libreas.eu/ausgabe29/06dubout/meta.yaml">Annotate via hypothes.is </a></small>
-    </p>
         <small><a itemprop="sameAs" href="http://nbn-resolving.de/urn:nbn:de:kobv:11-100238160">Download PDF @ edoc HU Berlin</a>
             <br>
             urn:nbn:de:kobv:11-100238160 </small>
         </div>
         
-
 
         
         <h1 itemprop="name" class="title">Durch Rezensionen zur Emanzipation? Die <q>Bibliographie der Homosexualität</q> (1900-1922) im <i>Jahrbuch für sexuelle Zwischenstufen</i></h1>
@@ -216,17 +210,16 @@ ga('send', 'pageview');
 <p><a href="http://creativecommons.org/licenses/by/3.0/">All content licensed under Creative Commons Attribution 3.0 Unported (CC BY 3.0)</a>, if not otherwise stated.
 </p>
 <p>LIBREAS. Library Ideas wird herausgegeben am <a href="https://www.ibi.hu-berlin.de/">Institut für Bibliotheks- und Informationswissenschaft</a> der <a href="https://www.hu-berlin.de/">Humboldt-Universität zu Berlin</a></p>
-<p>Hosted on <a href="http://github.com/libreas/libreas.github.io">GitHub</a>, made with <a href="http://octopress.org/">Jekyll/Octopress</a> and <a href="http://johnmacfarlane.net/pandoc/">pandoc</a>.</p>
+<p>Hosted on <a href="http://github.com/libreas/libreas.github.io">GitHub</a>, made with <a href="http://octopress.org/">Jekyll/Octopress</a> and <a href="http://johnmacfarlane.net/pandoc/">pandoc</a></p>
 
 <p>ISSN: 1860-7950</p>
 
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2016-08-26</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2016-12-14</a>)</p>
 
 </footer>
-
       </div>
     </div>
 <label for="sidebar-checkbox" class="sidebar-toggle"></label>

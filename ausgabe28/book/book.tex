@@ -34,7 +34,7 @@
 %%%%url
 \usepackage[hyphens]{url}
 \urlstyle{same}
-\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=blue,
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=black,
 breaklinks= true]{hyperref}
 %%% remove chapter
 
@@ -46,6 +46,8 @@ breaklinks= true]{hyperref}
 %%% microtype
 \usepackage{microtype}
 
+%%% footnote margib
+\footmarkstyle{\textsuperscript{#1} }    % indent the footmark 
 
 % Hurenkinder und Schusterjungen verhindern
 \clubpenalty10000
@@ -64,6 +66,8 @@ breaklinks= true]{hyperref}
 \makepagestyle{mystyle}
 \makeevenhead{mystyle}{\small\thepage}{\small \#l10j}{}
 \makeoddhead{mystyle}{}{\small\slshape\leftmark}{\small\thepage}
+\makeoddfoot{plain}{}{\small\thepage}{}
+\makeevenhead{headings}{\small\thepage}{}{\slshape\leftmark}
 \pagestyle{mystyle}
 
 %%
@@ -98,9 +102,9 @@ breaklinks= true]{hyperref}
 {\Huge\bfseries Die Bibliothek als Idee}\\[\baselineskip]
 {\scshape Beiträge des Symposiums \\ -- 10 Jahre LIBREAS. Library Ideas -- \\ am ICI Kulturlabor Berlin}\\[\baselineskip]
 \vfill
-{\large\scshape {\small herausgegeben vom}\\{\large LIBREAS. Verein e.V.}}\par
+{\large\scshape {\small herausgegeben vom}\\{\large LIBREAS. Verein zur Förderung der bibliotheks- und informationswissenschaftlichen Kommunikation e.V.}}\par
 \vfill
-{\scshape Berlin, Chur, Dresden, Exeter, München}\par
+{\scshape Berlin, Bielefeld, Chur, Dresden, Exeter, München}\par
 \vfill
 {\scshape 2016}\par
 %\vspace*{2\drop}
@@ -116,9 +120,9 @@ breaklinks= true]{hyperref}
 
 
 \pagestyle{empty}
-\begin{flushright}
+\begin{center}
 {\LARGE DIE BIBLIOTHEK ALS IDEE} 
-\end{flushright}
+\end{center}
 
 \cleartorecto
 
@@ -133,7 +137,14 @@ breaklinks= true]{hyperref}
 \parskip \baselineskip
 \vspace*{\fill}
 
-LIBREAS. Verein e.V.(Hrsg.), Die Bibliothek als Idee : Beiträge des Symposiums \enquote{10
+
+Mit freundlicher Unterstützung durch
+
+\includegraphics[width=0.5\textwidth]{astec_Logo_300dpi.jpg}
+
+\vspace{10mm}
+
+LIBREAS. Verein (Hrsg.) Die Bibliothek als Idee : Beiträge des Symposiums \enquote{10
 Jahre LIBREAS. Library Ideas} am ICI Kulturlabor Berlin. Berlin, 2016.
 
 \textcopyright{}
@@ -141,43 +152,46 @@ Jahre LIBREAS. Library Ideas} am ICI Kulturlabor Berlin. Berlin, 2016.
 
 Dieses Werk ist lizenziert unter einer Creative Commons Namensnennung 3.0 Lizenz.
 
-Satz und Layout: Redaktion LIBREAS unter Verwendung von pandoc und \LaTeX. 
+Satz und Layout: Redaktion LIBREAS unter Verwendung von pandoc und \LaTeX
 
-Druck: epubli.
+Druck: epubli
 
 Webausgabe: \url{http://libreas.eu/ausgabe28/}
 
 Quellcoderepository: \url{https://github.com/libreas/ausgabe28/}
 
-LIBREAS. Library Ideas sind: Ben Kaden, Maxi Kindling, Manuela Schulz (
-Herausgeberinnen und Herausgeber), Linda Freyberg, Najko Jahn, Karsten
+LIBREAS. Library Ideas sind: Ben Kaden, Maxi Kindling, Manuela Schulz
+(Herausgeberinnen und Herausgeber), Linda Freyberg, Najko Jahn, Karsten
 Schuldt, Matti Stöhr, Doreen Thiede (Redaktion).
 
     \endgroup
 \newpage
 
-\begin{flushright} Wir bedanken uns herzlich bei der |a|S|tec| angewandte
+
+
+
+\noindent Wir bedanken uns bei der Firma |a|S|tec| angewandte
 Systemtechnik GmbH für die finanzielle Unterstützung des Drucks.
 
-\vspace{10mm}
+\vspace{7mm}
 
-Unser Dank gilt überdies der Firma Citavi und an das ICI Kulturlabor Berlin,
+\noindent Unser Dank gilt überdies der Firma Citavi und dem ICI Kulturlabor Berlin,
 die das Symposium unterstützt haben.
 
-\vspace{10mm}
+\vspace{7mm}
 
-Ein ebenso herzlicher Dank gebührt unseren Referentinnen und Referenten und
-zahlreichen Gästen, die nicht nur aus dem Bibliothekswesen stammen und das
-Symposium zu einem lebhaften Austauschort machten. Ein besonderer Dank gilt
-Corinna Haas, die uns mit dem ICI Kulturlabor eine großartige Location
-vermittelt und für den Erfolg des Symposiums massgeblich verantwortlich war.
-Allen Unterstützern, die uns vor, während und nach dem Symposium tatkräftig
-halfen, danken wir ebenso herzlich: ohne Euch hätten wir es nicht geschafft.
+\noindent Ein ebenso herzlicher Dank gebührt unseren Referentinnen und Referenten und
+zahlreichen Gästen, die das Symposium zu einem lebhaften Austauschort machten.
+Ein besonderer Dank gilt Corinna Haas, die uns mit dem ICI Kulturlabor eine
+großartige Location vermittelt und für den Erfolg des Symposiums maßgeblich
+verantwortlich war. Allen Unterstützerinnen und Unterstützern, die uns vor,
+während und nach dem Symposium tatkräftig halfen, danken wir ebenso herzlich:
+ohne Euch hätten wir es nicht geschafft.
 
-\vspace{10mm}
+\vspace{7mm}
 
-Wir widmen den Tagungsband den Mitglieder\_innen des LIBREAS. Verein e.V.
-\end{flushright}
+\noindent Wir widmen den Band den Mitgliedern des LIBREAS. Vereins.
+
 
 \cleartorecto
 
@@ -224,9 +238,9 @@ Wir widmen den Tagungsband den Mitglieder\_innen des LIBREAS. Verein e.V.
 
 \vspace{5mm}
 
-\section*{ABSTRACT}
+{\large \noindent{ABSTRACT}}
 
-{\small Mittels der empirischen Methode der standardisierten, quantitativen
+{\small\noindent Mittels der empirischen Methode der standardisierten, quantitativen
 Inhaltsanalyse werden 51 Fernsehsendungen aus den Subgenres Comedy und
 Komödie untersucht, in welchen Bibliotheken als Schauplatz und
 Bibliothekare als Figur vorkommen. Der betrachtete Zeitraum der
@@ -260,9 +274,9 @@ festzustellen.}
 
 \vspace{5mm}
 
-\section*{ABSTRACT}
+{\large \noindent{ABSTRACT}}
 
-{\small
+{\small\noindent
 	Schon zur Wende ins 20. Jahrhundert zweifelte der belgische Privatgelehrte Paul Otlet an der Zukunft des Buches und der Bibliothek. Statt dessen begann er damit, eine Dokumentation und Neuorganisation des Weltwissens anzulegen, und mittels eines Karteikartensystems (Répertoire Bibliographique Universel) zu vernetzen. Dieses Projekt eines flexiblen, abfrageorientierten Wissensbestandes in einem \enquote{Hypermedium} (Otlet) besetzte jene technologische Leerstelle, die inzwischen eine die bibliothekarische Epoche aufsprengende neue Wissenskultur der digitalen Medialität produziert hat.}
 
 \vspace{5mm}
@@ -280,9 +294,9 @@ festzustellen.}
 
 \vspace{5mm}
 
-\section*{ABSTRACT}
+{\large \noindent{ABSTRACT}}
 
-{\small
+{\small\noindent
 	
 Die moderne Bibliothek geht auf einen Übergang der Saalbibliothek zur
 Magazinbibliothek zurück, der sich im 19. Jahrhundert vollzog. Bevor erste
@@ -325,20 +339,18 @@ zeigt.}
 \addcontentsline{toc}{chapter}{Verzeichnis der Autorinnen und Autoren}
 \refstepcounter{chapter}
 
-\noindent \textbf{Karin Aleksander}, Dr. phil., ist Leiterin der Bibliothek des Zentrum für transdisziplinäre Geschlechterstudien, Humboldt Universität zu Berlin.
+\noindent \textbf{Karin Aleksander}, Dr. phil., ist Leiterin der Bibliothek des Zentrum für transdisziplinäre Geschlechterstudien, Humboldt-Universität zu Berlin.
 
 \vspace{5mm}
 
-\noindent \textbf{Ute Engelkenmeier}: Ausgestattet mit einem ausgiebigen Studium des
+\noindent \textbf{Ute Engelkenmeier}, ausgestattet mit einem ausgiebigen Studium des
 Bibliothekswesens (FHBD Köln, Musikbibliothekarisches Zusatzstudium HBI
-Stuttgart) und der Bibliotheks- und Informationswissenschaft (Humboldt
-Universität zu Berlin) seit 1995 in der Universitätsbibliothek Dortmund
+Stuttgart) und der Bibliotheks- und Informationswissenschaft (Humboldt-Universität zu Berlin) seit 1995 in der Universitätsbibliothek Dortmund
 tätig, dort zehn Jahre lang Öffentlichkeitsarbeiterin und seit vier
 Jahren Geschäftsbereichsleitung Medienbereitstellung und Information
 (Benutzung).
 Interessensschwerpunkte: Nutzerforschung, Lernortentwicklung, Marketing
-und Management
-Kontakt: ute.engelkenmeier@tu-dortmund.de
+und Management.
 
 \vspace{5mm}
 
