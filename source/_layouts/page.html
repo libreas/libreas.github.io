@@ -25,6 +25,12 @@ layout: default
 {% elsif page.issue == "27" %}
 <strong> > > > <a href="/ausgabe27/00inhalt/">{{ page.journal }} # {{ page.issue}}</a></strong> <br><br>
 </div>
+{% elsif page.issue == "28" %}
+<strong> > > > <a href="/ausgabe28/inhalt/">{{ page.journal }} # {{ page.issue}}</a></strong> <br><br>
+</div>
+{% elsif page.issue == "29" %}
+<strong> > > > <a href="/ausgabe29/inhalt/">{{ page.journal }} # {{ page.issue}}</a></strong> <br><br>
+</div>
 
 {% else %}
 <strong> > > > <a href="inhalt.htm">{{ page.journal }} # {{ page.issue}}</a></strong> <br><br>
@@ -36,6 +42,7 @@ layout: default
 
     {% if page.urn %}
     <div align="right">
+    <p><small><a itemprop="sameAs" href="https://via.hypothes.is/{{ site.url }}{{ page.url | remove:'index.html' }}">Annotate via hypthes.is</a></small></p>
         <small><a itemprop="sameAs" href="http://nbn-resolving.de/{{ page.urn }}">Download PDF @ edoc HU Berlin</a>
             <br>
             {{ page.urn }} </small>
