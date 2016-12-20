@@ -145,7 +145,7 @@ Selbstverständnis vieler ForscherInnen als auch mit den traditionellen
 Geschäfts- und Arbeitsmodellen der Wissenschaftsverlage brechen, erhebt
 sich jedoch Widerstand.
 
-### Erkenntnisprozesse wie gedruckt: Das Buch als** '**magischer Körper**' **und die Kritik des Open Access**
+### Erkenntnisprozesse wie gedruckt: Das Buch als 'magischer Körper' und die Kritik des Open Access
 
 Die Kritik an der zunehmenden politischen und institutionellen Förderung
 von Open-Access-Modellen kulminiert in den Geisteswissenschaften im
@@ -505,7 +505,7 @@ Idealfall erstens, in Verlagsverträgen die komplette Abgabe aller Rechte
 durchzustreichen sowie zweitens den folgenden, 2006 von Reto Mantz
 formulierten, Zusatz zu ergänzen:
 
-> Der Urheber erteilt dem Verlag für die elektronische Publikation nur
+> Der Urheber erteilt dem Verlag für die elektronische Publikation nur
 > ein einfaches Nutzungsrecht. Er behält sich vor, das Werk unter eine
 > Open Access-Lizenz, z. B. die 'Digital Peer Publishing License' zu
 > stellen, die die elektronische Verbreitung gestattet.[^54]
@@ -614,12 +614,12 @@ Zukunft mit einem reaktionären Aufstand der verdrängten Texte gegen die
 Computerprogramme rechnen?"[^59] Wie diese Kämpfe aussehen könnten,
 deutet sich in den Debatten um Open Access und das
 Zweitveröffentlichungsrecht bereits an. Noch befinden wir uns in einer
-Phase medialer Transformationen, wovon auch dieser Text zeugt, ~~indem
+Phase medialer Transformationen, wovon auch dieser Text zeugt, \sout{indem
 er digitale Potenziale in einer medialen Form reflektiert, die diese
-Potenziale nicht fruchtbar zu machen weiß~~ indem er als digitale
+Potenziale nicht fruchtbar zu machen weiß} indem er als digitale
 Zweitveröffentlichung in verschiedenen Varianten (html,[^60] als PDF in
-einem Repositorium) erscheint. *~~*Broken*~~* **[Link
-fixed](https://www.merkur-zeitschrift.de/2016/10/24/siggenthesen/).**
+einem Repositorium) erscheint. \sout{Broken} Link
+fixed: <https://www.merkur-zeitschrift.de/2016/10/24/siggenthesen/>.
 
 *Eine überarbeitete Digitalversion von: Thomas Ernst: Wie offen sollten
 die Geisteswissenschaften sein? Print- vs. Digitalpublikationen und die
@@ -722,17 +722,14 @@ Fink 2016, S. 653-667.*[^61]
 [^17]: Vgl. Allianz der Wissenschaftsorganisationen: Gemeinsame
     Erklärung der Wissenschaftsorganisationen. Open Access und
     Urheberrecht: Kein Eingriff in die Publikationsfreiheit, online seit
-    dem 25.03.2009 unter
-
-    [*http://www.wissenschaftsrat.de/download/archiv/allianz\_erklaerung\_25-03-09.pdf*](http://www.wissenschaftsrat.de/download/archiv/allianz_erklaerung_25-03-09.pdf)
+    dem 25.03.2009 unter [*http://www.wissenschaftsrat.de/download/archiv/allianz\_erklaerung\_25-03-09.pdf*](http://www.wissenschaftsrat.de/download/archiv/allianz_erklaerung_25-03-09.pdf)
     \[Stand: 11.11.2016\].
 
 [^18]: Diese Debatte wurde 2009 bereits in Heft 15 von LIBREAS geführt,
     vgl. dazu die folgenden Beiträge:
-
- - Uwe Jochum: Der Souverän: In: LIBREAS. Library Ideas, Heft 15 (2009), [*http://libreas.eu/ausgabe15/texte/006.htm*](http://libreas.eu/ausgabe15/texte/006.htm).
- - Joachim Eberhardt: Wiederholung erzeugt keine Wahrheit. Jochum schreibt immer noch gegen Open Access. In: LIBREAS. Library Ideas, Heft 15 (2009), [*http://libreas.eu/ausgabe15/texte/007.htm*](http://libreas.eu/ausgabe15/texte/007.htm).
- - Joachim Losehand: Moskenstraumen. In: LIBREAS. Library Ideas, Heft 15 (2009), [*http://libreas.eu/ausgabe15/texte/008.htm)*](http://libreas.eu/ausgabe15/texte/008.htm)) \[alle Texte: Stand: 11.11.2016\].
+    - Uwe Jochum: Der Souverän: In: LIBREAS. Library Ideas, Heft 15 (2009), [*http://libreas.eu/ausgabe15/texte/006.htm*](http://libreas.eu/ausgabe15/texte/006.htm).
+    - Joachim Eberhardt: Wiederholung erzeugt keine Wahrheit. Jochum schreibt immer noch gegen Open Access. In: LIBREAS. Library Ideas, Heft 15 (2009), [*http://libreas.eu/ausgabe15/texte/007.htm*](http://libreas.eu/ausgabe15/texte/007.htm).
+    - Joachim Losehand: Moskenstraumen. In: LIBREAS. Library Ideas, Heft 15 (2009), [*http://libreas.eu/ausgabe15/texte/008.htm)*](http://libreas.eu/ausgabe15/texte/008.htm)) \[alle Texte: Stand: 11.11.2016\].
 
 [^19]: Müller, Weiße Magie (Anm. 2), S. 352.
 
@@ -769,17 +766,16 @@ Fink 2016, S. 653-667.*[^61]
     Debattenbeitrag für die *FAZ* bewertet Reuß ein Interview, das
     Bildungsministerin Johanna Wanka der Zeitung *Die Welt* gab, als
     "ein schwer goutierbares Ragout aus krud neoliberalen Vorstellungen
-    von Wissenschaftsmärkten ("Monitoring" darf, natürlich, nicht
+    von Wissenschaftsmärkten ('Monitoring' darf, natürlich, nicht
     fehlen), virtueller DDR 5.0 (mit Enteignung der geistigen
     Produktion) und Staatsautoritarismus wilhelminischer Anmutung."
     Roland Reuß: Staatsautoritarismus, groß geschrieben. In: Frankfurter
     Allgemeine Zeitung, 28.9.2016, S. N4. Vgl. zu Reuß’ Argumentationen
     und Rhetorik auch seine weiteren Debattenbeiträge, u.a.:
-
- - Roland Reuß: Open Access. Eine heimliche technokratische Machtergreifung. In: FAZ, 5.5.2009, online unter [*http://www.faz.net/aktuell/feuilleton/debatten/open-access-eine-heimliche-technokratische-machtergreifung-1775488.html*](http://www.faz.net/aktuell/feuilleton/debatten/open-access-eine-heimliche-technokratische-machtergreifung-1775488.html) \[Stand: 11.11.2016\];
- - Roland Reuß: Autoren- und Urheberrechte. Eine Kriegserklärung an das Buch. In: FAZ, 13.10.2015, online unter [*http://www.faz.net/aktuell/feuilleton/debatten/roland-reuss-ueber-autoren-und-urheberrechte-13852733.html*](http://www.faz.net/aktuell/feuilleton/debatten/roland-reuss-ueber-autoren-und-urheberrechte-13852733.html) \[Stand: 11.11.2016\];
- - Roland Reuß: Open Access. Der Geist gehört dem Staat. In: FAZ, 30.12.2015, online unter [*http://www.faz.net/aktuell/feuilleton/forschung-und-lehre/baden-wuerttemberg-entrechtet-seine-wissenschaftlichen-autoren-13988149.html*](http://www.faz.net/aktuell/feuilleton/forschung-und-lehre/baden-wuerttemberg-entrechtet-seine-wissenschaftlichen-autoren-13988149.html) \[Stand: 11.11.2016\];
- - Roland Reuß: Reform des Urheberrechts. Was freie Autoren brauchen. In: FAZ, 13.4.2016, online unter [*http://www.faz.net/aktuell/feuilleton/forschung-und-lehre/urheberrecht-freiheit-fuer-die-wissenschaft-14173320.html*](http://www.faz.net/aktuell/feuilleton/forschung-und-lehre/urheberrecht-freiheit-fuer-die-wissenschaft-14173320.html) \[Stand: 11.11.2016\].
+    - Roland Reuß: Open Access. Eine heimliche technokratische Machtergreifung. In: FAZ, 5.5.2009, online unter [*http://www.faz.net/aktuell/feuilleton/debatten/open-access-eine-heimliche-technokratische-machtergreifung-1775488.html*](http://www.faz.net/aktuell/feuilleton/debatten/open-access-eine-heimliche-technokratische-machtergreifung-1775488.html) \[Stand: 11.11.2016\];
+    - Roland Reuß: Autoren- und Urheberrechte. Eine Kriegserklärung an das Buch. In: FAZ, 13.10.2015, online unter [*http://www.faz.net/aktuell/feuilleton/debatten/roland-reuss-ueber-autoren-und-urheberrechte-13852733.html*](http://www.faz.net/aktuell/feuilleton/debatten/roland-reuss-ueber-autoren-und-urheberrechte-13852733.html) \[Stand: 11.11.2016\];
+    - Roland Reuß: Open Access. Der Geist gehört dem Staat. In: FAZ, 30.12.2015, online unter [*http://www.faz.net/aktuell/feuilleton/forschung-und-lehre/baden-wuerttemberg-entrechtet-seine-wissenschaftlichen-autoren-13988149.html*](http://www.faz.net/aktuell/feuilleton/forschung-und-lehre/baden-wuerttemberg-entrechtet-seine-wissenschaftlichen-autoren-13988149.html) \[Stand: 11.11.2016\];
+    - Roland Reuß: Reform des Urheberrechts. Was freie Autoren brauchen. In: FAZ, 13.4.2016, online unter [*http://www.faz.net/aktuell/feuilleton/forschung-und-lehre/urheberrecht-freiheit-fuer-die-wissenschaft-14173320.html*](http://www.faz.net/aktuell/feuilleton/forschung-und-lehre/urheberrecht-freiheit-fuer-die-wissenschaft-14173320.html) \[Stand: 11.11.2016\].
 
     Vgl. u.a. Hagner, Zur Sache des Buches (Anm. 2), S. 92.
 
