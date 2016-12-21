@@ -1,0 +1,462 @@
+### Hinführung[^1]
+
+Ohne einen breiten und zuverlässigen Zugang zu Fachpublikationen ist
+wissen­schaftliches Arbeiten nicht möglich. Als Folge von
+Marktkonzentrationen liegt das wissenschaftliche Publikationswesen vor
+allem im Bereich der Zeitschriften derzeit in den Händen einiger weniger
+internationaler Konzernverlage. Diese vertreiben ihre Inhalte für sie
+selbst hoch profitabel an wissenschaftliche Einrichtungen, vor allem an
+Bibliotheken. Da wissenschaftliche Veröffentlichungen im
+Forschungsprozess nicht substituiert werden können, gelingt es einigen,
+besonders wichtigen Verlagen, sehr ambitionierte und zudem stetig
+steigende Preise für ihre Produkte zu verlangen.
+
+Die Erwerbungsetats von Bibliotheken und Forschungseinrichtungen können
+mit diesen Preissteigerungen schon seit vielen Jahren nicht mehr
+mithalten. Die Folge dieser Entwicklung ist auf der einen Seite, dass
+sich viele Forschungseinrichtungen notwendige Fachliteratur nicht mehr
+in der erforderlichen Breite leisten können oder dass der Erwerb der
+Produkte der Konzernverlage zu Lasten von Büchern und anderen
+Publikationen kleiner und mittlerer Wissenschaftsverlage geht. Man
+spricht in diesem Zusammenhang auch von der so genannten
+Zeitschriftenkrise.[^2]
+
+Dem bezahlten Zugang bei den Konzernverlagen stellt die
+Open-Access-Bewegung als Reaktion auf die Zeitschriftenkrise die Idee
+frei zugänglicher wissenschaftlicher Inhalte gegenüber. Sie hat in den
+letzten Jahren beachtliche Erfolge erzielt und ist dabei, insbesondere
+in den Natur- und Technikwissenschaften, zu einem führenden
+Publikationsparadigma zu werden. Dessen ungeachtet spielen
+kostenpflichtige Publikationen in Konzernverlagen immer noch eine große
+Rolle, nicht zuletzt deshalb, weil sie im Wissenschaftsmanagement für
+die Messung wissenschaftlicher Reputation von hoher Bedeutung sind.
+
+Die Zeitschriftenkrise erschwert zwar den Zugang zu wissenschaftlichen
+Publikationen, macht ihn aber nicht unmöglich. So können Bibliotheken
+vor Ort nicht verfügbare Inhalte durch ihre Lieferdienste wie Fernleihe
+oder Dokumentdi­rektlieferung relativ schnell besorgen. Über persönliche
+Kontakte unter Wissen­schaftlerinnen und Wissenschaftlern haben sich
+zudem gut funktionierende Netz­werke etabliert, über die nahezu jede
+Veröffentlichung erreichbar ist. Beide Wege sind legal, denn § 53a UrhG
+gestattet jedenfalls in Papierform die Dokument­lieferung durch
+Bibliotheken, und die zwischen einzelnen Personen übermittelte Kopie ist
+eine nach § 53 Abs. 2 S. 1 Nr. 1 UrhG zulässige Verviel­fältigung zum
+eigenen wissenschaftlichen Gebrauch, die auch ein anderer als der
+Begünstigte herstellen darf.
+
+Bibliotheken und persönliche Kontakte als Alternativen zu einem direkt
+beim Verlag lizenzierten Zugang haben freilich den Nachteil der
+Umständlichkeit und der zeitlichen Verzögerung. Auf dieses Problem
+reagieren so genannte "Schatten­bibliotheken", die über das Internet
+eine große Zahl von Veröffentlichungen an einer Stelle für den
+sofortigen Zugriff verfügbar machen. Die derzeit bekannteste und wohl
+auch größte "Bibliothek" dieser Art ist Sci-Hub aus Kasachstan mit rund
+58 Millionen Wissenschaftspublikationen.[^3]
+
+Die Nutzung von Sci-Hub ist denkbar einfach und funktioniert nach dem
+von Google bekannten "Ein-Schlitz-Prinzip":
+
+![](img/abbildung.png)
+
+Man braucht nur die DOI einer gewünschten Publikation einzugeben und hat
+nach zwei Klicks sofort den Volltext auf dem Bildschirm. Gerade diese
+Einfachheit hat dazu geführt, dass Sci-Hub auch von Wissenschaftlerinnen
+und Wissenschaftlern genutzt wird, die einen legalen Zugang über
+Verlagsangebote an ihren Institutionen haben.[^4]
+
+Es steht außer Frage, dass das Angebot von Sci-Hub eine massive
+Urheberrechts­verletzung darstellt und rechtswidrig ist. Doch gilt dies
+auch für die Nutzung dieser Schattenbibliothek?
+
+### Vervielfältigung zum eigenen wissenschaftlichen Gebrauch?
+
+Die übliche Art, Publikationen über Sci-Hub zu beziehen, besteht darin,
+einen Aufsatz mit Hilfe seiner DOI, die meist leicht auf
+Verlagswebseiten oder in Literatur­datenbanken zu finden ist, aufzurufen
+und den so erhaltenen Text entweder abzu­speichern oder für die
+intensive Lektüre auszudrucken. Die in beiden Fällen erzeugte
+Vervielfältigung greift in das Recht des Urhebers aus § 16 UrhG bzw. in
+dem Verlag meist umfassend und ausschließlich eingeräumte Nutzungsrechte
+ein. Sie ist mangels einer vertraglich mit dem Rechteinhaber
+vereinbarten Nutzung nur dann zulässig, wenn eine Schrankenbestimmung
+eingreift. In Betracht kommt hier insbesondere die Vervielfältigung zum
+eigenen wissenschaftlichen Gebrauch nach § 53 Abs. 2 S. 1 Nr. 1 UrhG.
+
+Auf den ersten Blick scheinen die Voraussetzungen unproblematisch
+gegeben zu sein. Die offensichtliche Rechtswidrigkeit der Vorlage
+schließt nach § 53 Abs. 1 S. 1 UrhG lediglich eine Privatkopie aus. Da
+dieses Erfordernis gerade nicht für die anderen Anwendungsfälle von § 53
+UrhG, also auch nicht bei Vervielfältigungen für den eigenen
+wissenschaftlichen Gebrauch, gilt,[^5] könnte man im Gegenschluss
+folgern, dass es auf die Legalität der Quelle in diesem Fall eben nicht
+ankommt und daher Vervielfältigungen, die über Sci-Hub ermöglicht
+werden, rechtlich nicht zu bean­standen sind.
+
+Doch so einfach ist die Sache nicht. Als im Zuge des so genannten
+"Zweiten Korbes" § 53 Abs. 1 UrhG im Jahr 2007 um das Erfordernis einer
+nicht offen­sichtlich rechtswidrigen Quelle ergänzt worden ist, wollte
+der Gesetzgeber dies nicht als Einschränkung einer vorher nahezu
+schrankenlosen Privatkopierfreiheit, sondern lediglich als Klarstellung
+eines allgemeinen Rechtsgrundsatzes verstanden wissen.[^6]
+
+Es liegt daher nahe, auch bei Vervielfältigungen für den eigenen
+wissenschaftlichen Gebrauch die Verwendung einer rechtmäßig zugänglich
+gemachten Vorlage zu fordern. Als Anknüpfungspunkt im Wortlaut der
+Schrankenbestimmung könnte dabei das Merk­mal der "Gebotenheit" dienen.
+Dieser unbestimmte Rechtsbegriff unterliegt der Auslegung. Ein wichtiger
+Auslegungsmaßstab ist dabei die Richtlinie 2001/29/EG des Europäischen
+Parlaments und des Rates vom 22. Mai 2001 zur Harmonisierung bestimmter
+Aspekte des Urheberrechts und der verwandten Schutzrechte in der
+Informationsgesellschaft (InfoSoc.-Richtlinie).[^7] In seinem Urteil
+über die Verleihbarkeit von E-Books durch Bibliotheken hat der EuGH
+jüngst den allgemeinen Grundsatz angeführt, dass eine Vervielfältigung
+oder sonstige auf einer urheberrechtlichen Ausnahmebestimmung gestützte
+Nutzung auf Grundlage einer unrechtmäßigen Quelle dem Ziel des
+Urheberschutzes, wie er durch die europäischen Richtlinien gewährt wird,
+zuwiderlaufe und daher nicht erlaubt werden könne.[^8]
+
+Von daher wird man auch eine Vervielfältigung für den eigenen
+wissenschaftlichen Gebrauch, die über die Nutzung von Sci-Hub ermöglicht
+wird, als nicht geboten im Sinne von § 53 Abs. 2 S. 1 Nr. 1 UrhG werten
+müssen. Sie ist damit rechtswidrig.
+
+### Rechtmäßige Nutzung?
+
+Diese Rechtswidrigkeit bezieht sich auf eigene Ausdrucke oder dauerhafte
+Abspeicherungen. In beiden Fällen sind jedoch neben dem bloßen Aufruf
+des über Sci-Hub angebotenen Werkes noch weitere Handlungen
+erforderlich. Wie aber ist die Situation zu bewerten, wenn ein Werk bei
+Sci-Hub lediglich aufgerufen und am Bild­schirm gelesen wird, ohne dass
+darüber hinaus dauerhafte Vervielfältigungen erstellt werden? Anders
+gefragt: Ist auch das bloße Lesen eines Werkes bei Sci-Hub ebenfalls
+unzulässig?
+
+Einschlägig zur Beantwortung dieser Frage ist nicht § 53 UrhG, sondern §
+44a Nr. 2 UrhG. Danach sind vorübergehende, rein technisch bedingte
+Vervielfältigungshand­lungen erlaubt, um eine rechtmäßige Nutzung eines
+Werkes zu ermöglichen. Diese Vervielfältigungen dürfen zudem keinen
+eigenen wirtschaftlichen Wert haben.
+
+Die zunächst entscheidende Frage ist, ob das bloße Lesen am Bildschirm
+eines über Sci-Hub bezogenen Werkes eine "rechtmäßige Nutzung" im Sinne
+des Gesetzes ist. Spontan würde man sagen, dass die Nutzung einer
+illegalen Schattenbibliothek wohl kaum rechtmäßig genannt werden
+könne.[^9] Doch darauf kommt es in diesem Fall nicht an. Entscheidend
+bei § 44a UrhG ist nämlich allein die Perspektive des Nutzen­den und
+das, was er oder sie in einer konkreten Nutzungssituation tut.
+
+Bewertet werden muss daher allein der Vorgang des Lesens am Bildschirm.
+Nach ganz herrschender Meinung in der Urheberrechtswissenschaft ist die
+bloße Wahr­nehmung eines urheberrechtlich geschützten Werkes, der rein
+rezeptive Werkgenuss also, von den urheberrechtlichen
+Ausschließlichkeitsrechten gar nicht erfasst und damit eine per se
+rechtmäßige Nutzung.[^10]
+
+In der Literatur wird diese Ansicht, die vor allem im Zusammenhang mit
+dem Streaming von illegal ins Netz gestellten Kinofilmen oder
+Pornographie diskutiert worden ist, von gewichtigen Stimmen
+geteilt.[^11] Selbst das BMJV ist der Ansicht, dass der bloße
+Werkgenuss im Internet urheberrechtlich unbedenklich ist.[^12] Da zudem
+die Vervielfältigung des über Sci-Hub zugänglichen Werkes auf dem
+Bildschirm spätestens mit dem Schließen des Browsers bzw. des
+Herunterfahrens des Rechners gelöscht wird, ist sie auch hinreichend
+flüchtig.[^13] Schließlich kann die Vervielfältigung als solche
+wirtschaftlich nicht verwertet werden, da sie nicht weitergegeben werden
+kann und überdies nicht vollständig ist, weil ja immer nur ein
+Ausschnitt des Werkes am Bildschirm zu sehen ist. Damit wäre das bloße
+Lesen von Aufsätzen aus einer Schattenbibliothek offenbar legal![^14]
+
+An dieser Stelle freilich könnte man das oben genannte Argument des EuGH
+anführen, wonach es nicht sein könne, unrechtmäßige Quellen zum
+Ausgangspunkt für weitere, dann aber legale Nutzungen zu machen. Dieses
+Argument ist jedoch eher schwach.
+
+Zum einen geht es beim bloßen Werkgenuss gerade nicht um Nutzungen im
+Sinne des Urheberrechts. So wie niemand auf die Idee kommt, das Lesen
+von Raubdrucken oder das Anhören illegal gebrannter CDs zu verbieten, so
+wird man auch das Lesen von Raubkopien am Bildschirm nicht anders zu
+beurteilen haben.[^15]
+
+Zum anderen gibt es auch einen entscheidenden Unterschied zu einer
+dauerhaft angefertigten Kopie. Wer sich mit Hilfe einer
+Schattenbibliothek selbst gleichsam eine eigene Schattenbibliothek
+aufbaut, ist in der Lage, die abgespeicherten Inhalte anderen zur
+Verfügung zu stellen und damit selbst Teil eines illegalen Netzwerkes zu
+werden. Diese Möglichkeit besteht beim bloßen Lesen nicht. Um einen
+Aufsatz erneut zu konsultieren, muss er jedes Mal neu in der
+Schattenbibliothek aufgerufen werden. Wird die Schattenbibliothek
+abgeschaltet, ist auch die Lesemöglichkeit nicht mehr gegeben. Hier wird
+deutlich, dass die Anfertigung eigener Kopien gegenüber dem bloßen Lesen
+eine ganz andere Qualität hat.[^16] Rechteinhaber können den Schaden,
+den ihnen eine Schattenbibliothek zufügt, mit Blick auf die "Raubleser"
+sofort unterbinden, wenn es ihnen gelingt, die Schattenbibliothek
+abzuschalten. Kopien jedoch, die Nutzer der Schattenbibliothek
+angefertigt haben, können die Rechteinhaber praktisch nicht mehr
+kontrollieren. Wenn ein hohes Schutzniveau im Bereich des Urheberrechts
+das Ziel ist, muss die Rechtsordnung diesen Kontrollverlust, der beim
+bloßen Lesen nicht eintritt, verhindern.
+
+### Weiterführende Überlegungen
+
+Die offenbar nicht eindeutig rechtswidrige Nutzung einer eindeutig
+rechtswidrigen Schattenbibliothek wirft einige Fragen auf. Zunächst wäre
+zu überlegen, ob eine Auslegung von § 44a UrhG, wie hier vorgeschlagen,
+in einem möglichen Rechtsstreit vor Gericht Bestand hätte. Prognosen
+sind hier natürlich schwierig, einige Grundlinien möglicher
+Argumentationen lassen sich gleichwohl aufzeigen. Denkbar ist zunächst,
+beim Merkmal der "rechtmäßigen Nutzung" anzusetzen und die Nutzung einer
+Schattenbibliothek auch im bloßen Lesezugriff als rechtswidrig zu
+bewerten.[^17] Allerdings müsste dann die sinnvolle Doktrin vom
+urheberrechtsfreien Werkgenuss relativiert werden.[^18]
+
+Interessanter ist es daher, das Merkmal der "eigenen wirtschaftlichen
+Bedeutung" näher zu betrachten.[^19] Bislang wird hier meist auf die
+Vervielfältigungshandlung bzw. die dabei erzeugten Kopien abgestellt und
+nach deren unmittelbarer wirtschaftlicher Bedeutung gefragt. Eine solche
+Bedeutung setzt aber in der Regel die Möglichkeit voraus, dass die
+erzeugten Kopien irgendwie weitergegeben werden können.
+
+Hier freilich stellt sich das Problem, dass eine Weitergabe von
+flüchtigen oder begleitenden Kopien schon vom Begriff schwer möglich
+ist. Soll also das Merkmal der "eigenen wirtschaftlichen Bedeutung"
+einen substanziellen Anwendungsbereich haben, so könnte man überlegen,
+die wirtschaftliche Bedeutung der fraglichen Vervielfältigungen
+umfassender zu bestimmen. Hierfür spricht, dass § 44a UrhG ja nicht vom
+"Wert" der Vervielfältigung spricht, was den Blick auf die Kopie selbst
+verengt, sondern von der "Bedeutung", womit auch ökonomische Umstände
+und Konsequenzen der erzeugten Kopie gemeint sein können. Eine
+"wirtschaftliche Bedeutung" dieser Art kommt einer flüchtigen Lesekopie
+in mehrfacher Hinsicht zu.
+
+Zunächst kann man darauf abstellen, dass der Betrachter eines illegal
+zugänglich gemachten Aufsatzes sich den eigenen Erwerb erspart. Dieses
+Argument ist bei wissenschaftlichen Fachaufsätzen wenig sinnvoll. Das
+liegt daran, dass diese Aufsätze in aller Regel nicht von den Leserinnen
+und Lesern erworben,[^20] sondern über einen durch Bibliotheken und
+Forschungseinrichtungen bereitgestellten und für die Nutzerinnen und
+Nutzer selbst kostenfreien Zugang genutzt werden. Steht ein solcher
+Zugang nicht zur Verfügung, kann der gewünschte Beitrag gegen eine sehr
+geringe Gebühr über die Fernleihe bezogen werden. Die Nutzung einer
+Schattenbibliothek erspart hier offenbar kein Geld. Oder doch?
+
+Tatsächlich ist auch ein bloß lesender Zugriff Gegenstand eigener, auf
+individuelle Endnutzerinnen und Endnutzer zugeschnittener kommerzieller
+Angebote. Ein Beispiel hierfür ist der Dienst "DeepDyve"
+(<https://www.deepdyve.com>). Dort kann
+gegen Zahlung von 40 \$ im Monat auf über 10.000 wissenschaftliche
+Zeitschriften lesend zugegriffen werden. Genau diese Kosten ersparen
+sich Nutzerinnen und Nutzer von Sci-Hub, wenn sie Inhalte, die sie über
+Angebote wie DeepDyve zu angemessenen Bedingungen legal nutzen können,
+nicht dort, sondern über eine Schattenbibliothek beziehen. Insoweit kann
+man mit guten Gründen argumentieren, dass auch flüchtige Kopien für das
+bloße Lesen am Bildschirm eine wirtschaftliche Bedeutung haben,
+jedenfalls dann, wenn eben dieses Lesen gegen ein Entgelt zu angemessene
+Bedingungen angeboten wird, wenn es also ein entsprechendes
+Geschäftsmodell gibt, das durch die Nutzung illegaler Quellen
+unmittelbar beeinträchtigt wird.[^21]
+
+Schließlich kann noch überlegt werden, welche Auswirkung die Nutzung von
+Schattenbibliotheken wie Sci-Hub auf die weitere Verwertung von
+wissenschaftlichen Publikationen hat. Dabei geht es weniger um den
+unmittelbaren Vertrieb von Inhalten, sondern mehr darum, dass im Sinne
+von Big Data die Nutzung digital verfügbarer Publikationen eine immer
+wichtiger werdende Quelle für wissenschaftsunterstützende
+Dienstleistungen wie die Messung von Reputation und dergleichen wird.
+Nutzungsdaten sind aber nur dann aussagekräftig, wenn sie die
+tatsächliche Nutzung auch weitgehend vollständig erfassen. Vor diesem
+Hintergrund stellen Schattenbibliotheken ein ernstes Problem für alle
+Art bibliometrischer Erfassung von Nutzungsvorgängen und darauf
+aufbauender Verwertung in anderen Informationsprodukten dar.[^22]
+
+Auch wenn diese Auswirkungen wohl zu abstrakt sind, um sie im Merkmal
+der "eigenen wirtschaftlichen Bedeutung" im Rahmen von § 44a UrhG zu
+berücksichtigen, so sind sie doch für die informationsfachliche
+Einordnung der Nutzung von Schattenbibliotheken nicht unwichtig. Die
+klammheimliche Freude, dass durch das Angebot von Schattenbibliotheken
+wie Sci-Hub nun den wenig geliebten Konzernverlagen eins ausgewischt
+wird,[^23] könnte so auch für Freunde des offenen Zugangs getrübt
+werden, soweit sie sich für bessere Reputationsmessungen als den hierfür
+im Grunde vollkommen ungeeigneten Impact-Faktor interessieren, denn
+Schattenbibliotheken werden ihre Nutzerdaten sicher nicht dauerhaft und
+zuverlässig zur Verfügung stellen.[^24]
+
+Da hier zudem ein mögliches neues Geschäftsfeld gerade für große
+Konzernverlage liegt, werden auch diese die Herausforderungen, die eine
+Schattenbibliothek wie Sci-Hub nicht nur beim Zugang, sondern vor allem
+beim Nutzungskomfort bietet, sehr ernst nehmen müssen. Diese Verlage
+laufen sonst Gefahr, durch überzogene Renditeerwartungen bei dem von
+ihnen vertriebenen Content, die zu Zugangsengpässen bei Bibliotheken und
+damit zu einem Ausweichen auf Schattenbibliotheken führen, die für sie
+wirtschaftlich hochinteressante Entwicklung neuer Analyseinstrumente für
+die wissenschaftliche Reputationsmessung selbst zu hintertreiben.
+
+Als Ergebnis kann an dieser Stelle festgehalten werden, dass mit Blick
+auf die Existenz legaler kommerzieller Angebote für die bloße Lektüre
+wissenschaftlicher Beiträge im Internet auch das Lesen von Inhalten über
+Sci-Hub von wirtschaftlicher Bedeutung ist, so dass eine Berufung auf §
+44a Nr. 2 UrhG für diese Inhalte ausscheidet, wenn man das Merkmal der
+"eigenen wirtschaftlichen Bedeutung" auch auf ersparte eigene
+Aufwendungen bzw. die Existenz eigenständiger Verwertungs­wege für die
+bei Sci-Hub gewählte Nutzungsform erstrecken möchte.
+
+### Fazit
+
+Im Licht des Urheberrechts ist und bleibt Sci-Hub für den Nutzer eine
+Schattenbibliothek. Ausdrucke und Abspeicherungen von über Sci-Hub
+zugänglich gemachten Werken sind nicht zulässig. Selbst das bloße Lesen
+findet in einer rechtlichen Grauzone statt. Auch wenn die Nutzung von
+Sci-Hub daher nicht un­bedenklich ist, wird in der Praxis vielleicht
+weniger das nicht restlos klare Recht, sondern am Ende das eigene
+Gewissen darüber entscheiden, ob man den Verlockungen von 58 Millionen
+frei zugänglichen Wissenschaftspublikationen nach­geben will oder nicht.
+Rechtliche Gründe sprechen wohl dafür, das besser nicht zu tun.
+
+### Informationsethischer Nachtrag
+
+Die informationsethische Frage, die Schattenbibliotheken mit
+wissenschaftlichen Inhalten aufwerfen, ist nur vordergründig einfach zu
+lösen. Einerseits gilt hier die Besonderheit, dass wissenschaftliche
+Autorinnen und Autoren in aller Regel nicht vergütet werden und ihnen
+daher, im Gegensatz etwa zu Künstlerinnen und Künstlern bei der Musik-
+und Filmpiraterie, kein persönlicher Schaden zugefügt wird.
+
+Andererseits bedingt ein professionelles wissenschaftliches
+Publikationswesen hohe Kosten, so dass die Verlage als wesentliche
+Akteure in diesem System um dessen Funktionsfähigkeit willen auf
+Einnahmen angewiesen sind.
+
+Letztlich ist alles eine Frage der Balance. Schattenbibliotheken
+reagieren hier auf offenbar unausgewogene Entwicklungen der letzten
+Jahre mit dem Risiko freilich, neben den schwarzen Schafen unter den
+Verlagen auch dem für die Wissenschaft unverzichtbaren Publikations- und
+Reputationssystem als solchem einen irreparablen Schaden zuzufügen.
+Daher muss die Bereitstellung einfacher und bezahlbarer legaler
+Zugriffsmöglichkeiten das Ziel sein. Dass populäre Schattenbibliotheken
+aber erst den dafür notwendigen Handlungsdruck erzeugen müssen,
+erschwert mit Blick auf das anzustrebende Ziel eine eindeutige
+informationsethische Einordnung ihrer Nutzung. [^25]
+
+[^1]: Dieser Beitrag stellt lediglich eine persönliche Meinungsäußerung
+des Verfassers dar. Das Manuskript wurde am 14. Dezember 2016
+abgeschlossen.
+
+[^2]: Keller, Alice: Elektronische Zeitschriften im Wandel, Wiesbaden
+2001, S. 78 ff.
+
+[^3]: Zu nennen wäre hier auch Library Genesis oder LibGen mit 52
+Millionen Artikeln.
+
+[^4]: Eine Studie an der Universität Utrecht kommt zu dem Ergebnis, dass
+75% der dort über Sci-Hub bezogenen Artikel auch legal (Lizenzen/Open
+Access) zugänglich waren, vgl. *Kramer*, Sci-Hub: access or convenience?
+A Utrecht case study.
+<https://im2punt0.wordpress.com/2016/06/20/sci-hub-utrecht-case-study-part-1/>
+und
+<https://im2punt0.wordpress.com/2016/06/20/sci-hub-access-or-convenience-a-utrecht-case-study-part-2/>.
+Siehe zur Frage der Nutzergruppen von Sci-Hub auch Bohannon, John: Who‘s
+downloading pirated papers? Everyone. in: Science 352 (2016), S.
+508-512.
+
+[^5]: So ausdrücklich *Loewenheim*, in: Schricker/Loewenheim,
+Urheberrecht, 4. Aufl. 2010, § 53, Rn. 21.
+
+[^6]: Vgl. BT-Drs. 15/1066, S. 2: "Durch Ergänzung des § 53 Abs. 1 Satz
+1 – neu – UrhG wird klargestellt, dass die nach § 53 Abs. 1 – neu – UrhG
+privilegierten Privatkopien nur zulässig sind, wenn sie aus legalem
+Ausgangsmaterial gewonnen werden"; *Busch*, Zur urheberrechtlichen
+Einordnung der Nutzung von Streamingangeboten, in: GRUR 2011, 502.
+
+[^7]: Durch Auslegung des Merkmals der Gebotenheit hat der BGH bereits
+bei § 52a UrhG das mit Blick auf § 53a UrhG naheliegende
+Gegenschlussargument bei der Frage nach dem Vorrang angemessener
+Verlagsangebote neutralisiert, vgl. BGH ZUM 2014, S. 530 (Meilensteine
+der Psychologie).
+
+[^8]: Vgl. EuGH C-174/15, Rn. 66-71.
+
+[^9]: So im Ergebnis Busch, Thomas: Zur urheberrechtlichen Einordnung
+der Nutzung von Streamingangeboten. in: GRUR 2011, 501-503.
+
+[^10]: Vgl. auch Erwägungsgrund 33 der InfoSoc.-Richtlinie: "Eine
+Nutzung sollte als rechtmäßig gelten, soweit sie vom Rechtsinhaber
+zugelassen bzw. nicht durch Gesetze beschränkt ist." Nicht durch Gesetze
+beschränkt wäre eben der rezeptive Werkgenuss.
+
+[^11]: Zum Diskussionsstand vgl. *Dreier*, in: Dreier/Schulze, UrhG, 5.
+Aufl. 2015, § 44a, Rn. 8 sowie *Wiebe*, in: Spindler/Schuster, Recht der
+elektronischen Medien, 3. Aufl. 2015, § 44a UrhG, Rn. 10 f.
+
+[^12]: Vgl. BT-Drs. 18/246, S. 3
+
+[^13]: Vgl*. von Welser*, in: Wandtke/Bullinger, UrhG, 4. Aufl., 2014, §
+44a, Rn. 3.
+
+[^14]: So im Ergebnis auch *Dreier*, in: Dreier/Schulze, UrhG, 5. Aufl.,
+2015, § 53, Rn. 12b, wonach in den Fällen, in denen eine Kopie nach § 53
+UrhG zulässig ist, eine Nutzung nach § 44a UrhG gleichwohl legal sein
+kann. Siehe auch Starcke, Andreas: Kinoticket oder Online-Stream? In:
+JURA 2016, S. 1290-1292.
+
+[^15]: So argumentieren Fangerow, Kathleen; Schulz, Daniela: Die Nutzung
+von Angeboten auf www.kino.to - Eine urheberrechtliche Analyse des
+Film-Streamings im Internet. In: GRUR 2010, S. 681. *Ensthaler*,
+Streaming und Urheberrechtsverletzung, in: NJW 2014, S. 1554 freilich
+wirft die Frage auf, "ob dieser freie Werkgenuss in der digitalen Welt
+erhalten bleiben soll."
+
+[^16]: So differenziert im Ergebnis auch *Wiebe*, in: Spindler/Schuster,
+Recht der elektronischen Medien, 3. Aufl. 2015, § 44a UrhG, Rn. 11,
+anders dagegen Marly, Jochen: Bildschirmkopien, Cache-Kopien und
+Streaming als urheberrechtliche Herausforderungen. In: EuZW 2014, S.
+619.
+
+[^17]: Vgl. *Busch*, Zur urheberrechtlichen Einordnung der Nutzung von
+Streamingangeboten, in: GRUR 2011, 501.
+
+[^18]: Nach *Rehbinder/Peukert*, Urheberrecht, 17. Aufl., 2015, Rn. 608
+soll sie bei der digitalen Werk­nutzung nicht mehr gelten, so auch
+Marly, Jochen: Bildschirmkopien, Cache-Kopien und Streaming als
+urheberrechtliche Herausforderungen. In: EuZW 2014, S. 618: "reine
+Werknutzung zugleich zustimmungspflichtige Vervielfältigung."
+
+[^19]: Vgl. Marly, Jochen: Bildschirmkopien, Cache-Kopien und Streaming
+als urheberrechtliche Heraus­forderungen. In: EuZW 2014, S. 619.
+
+[^20]: Dass einzelne Beiträge für 30 € und mehr einzeln bezogen werden
+können, spielt in der Praxis keine Rolle. Solche Angebote zur
+Phantasiepreisen werden von Leserinnen und Lesern an Hochschulen und
+anderen Forschungseinrichtungen nicht genutzt.
+
+[^21]: Vgl. LG München I, in: MMR 2007, S: 329 sowie im Ergebnis
+Ensthaler, Jürgen: Streaming und Urheberrechtsverletzung. In: NJW 2014,
+S. 1555, der § 44a UrhG immer dann verneint, wenn die in Frage stehende
+Nutzung einer wirtschaftlich bedeutsamen Verwertungsmöglichkeit
+entspricht.
+
+[^22]: Darauf weist etwa McNutt, Marcia: My love-hate of Sci-Hub. In:
+Science 352 (2016), S. 497 hin.
+
+[^23]: Vgl. Russel, Carrie; Sanchez, Ed: Sci-Hub unmasked – Piracy,
+information policy, and your library. In: College and Research Libraries
+News 77 (2016), S. 122.
+
+[^24]: Allerdings gibt es bei Sci-Hub eine bemerkenswerte Offenheit,
+vgl. Elbakyan, Alexandra; Bohannon, John: Data from: Who‘s downloading
+pirated papers? Everyone. Dryad Digital Repository. 2006. Online unter:
+<http://dx.doi.org/10.5061/dryad.q447c>.
+
+[^25]: Gegen die Nutzung von Sci-Hub aus ethischer Sicht sprechen sich
+Saleem, Faheed; Hasaali, Mohamed Azmi; ul Haq, Noman: Sci-Hub & ethical
+issues. In: Research in Social and Administrative Pharmacy 13 (2017), S.
+253 aus. Kritisch aus Bibliothekssicht sind Russel, Carrie; Sanchez, Ed;
+Sci-Hub unmasked – Piracy, information policy, and your library. In:
+College and Research Libraries News 77 (2016), S. 125, die Open Access
+und bessere Dokumentlieferung als Lösung anbieten. Eine realistische
+Sicht auf die seit Jahren übliche Praxis des digitalen Austausches von
+Fachpublikationen bietet Heathers, James: Why Sci-Hub Will Win.
+02.05.2016, online unter:
+<https://medium.com/@jamesheathers/why-sci-hub-will-win-595b53aae9fa#.tscdkaz0v>.
+Siehe auch Steinhauer, Eric W: Urheberrechtsnovelle - Das Urheberrecht
+in der Wissenschaft, oder "The Dirty Way Of Information”. In:
+H-Soz-Kult, 27.09.2007
+<http://www.hsozkult.de/debate/id/diskussionen-938>.
