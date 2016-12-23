@@ -1,0 +1,596 @@
+### Einleitung
+
+Im Sommersemester 2015 wurde im Rahmen des DFG-Projektes 'Future
+Publications in den Humanities' am Institut für Bibliotheks- und
+Informationswissenschaft der Humboldt-Universität zu Berlin ein
+studentisches Projektseminar realisiert. Die Studierenden erarbeiteten
+in Projektgruppen bestimmte Themenfelder. Das Ergebnis einer der
+Projektgruppen soll in diesem Beitrag vorgestellt werden. Die
+Zielsetzung bestand darin, die verschiedenen Varianten des Open Access,
+also den freien Zugang zu wissenschaftlichen Volltexten, in Abwägung
+ihrer jeweiligen Vor- und Nachteile darzustellen. Den Ausgangspunkt
+bildete ein fiktives Publikationsszenario aus den Geisteswissenschaften.
+In dem Szenario geht es um einen Herausgeber eines Printjournals,
+welcher an der Humboldt Universität zu Berlin arbeitet. Er ist in der
+Wissenschaftsgemeinschaft sehr aktiv und hat eine erhebliche Reputation.
+Seit längerem wünscht er sich mehr Offenheit gegenüber dem
+Open-Access-Verfahren und eine effizientere Qualitätssicherung. Letztere
+sollte idealerweise als Peer-Review, statt wie bisher mittels Editorial
+Review, durchgeführt werden. Einen größeren finanziellen und
+organisatorischen Aufwand möchte der Herausgeber wenn möglich vermeiden.
+Sein bisheriger Verlag befindet sich in einer wirtschaftlichen Krise und
+möchte diese mit einer Neustrukturierung überwinden. Aus diesem Grund
+ist die Perspektive der Zeitschrift bei diesem Verlag ungewiss. Es
+besteht jedoch die Möglichkeit, zu einem größeren Verlag zu wechseln und
+gleichzeitig auch eine elektronische Parallelausgabe zu veröffentlichen.
+Beide Verlage setzen eher auf das bestehende Publikationssystem. Jedoch
+ist eine gewisse Verhandlungsbereitschaft zur Realisierung des
+Open-Access-Ansatzes vorhanden. Der größere Verlag würde einer
+Open-Access-Publikation über den hybriden Goldenen Weg mit sehr hohen
+Publikationsgebühren, sogenannten Article Processing Charges (APC),
+zustimmen. Der bisherige Verlag ist aufgrund fehlender Ressourcen nicht
+in der Lage, eine elektronische Ausgabe bereitzustellen, zeigt sich
+jedoch offen gegenüber dem Grünen Weg des Open Access. Darüber hinaus
+verlangt der neue Verlag eine weitreichendere Rechteabtretung seitens
+der Autoren für Nicht-Open-Access-Artikel. Dem Wunsch nach einem
+Peer-Review-Verfahren will der neue Verlag nicht mit eigenen Mitteln
+unterstützen, fordert es aber de facto vom Herausgeber ein. Der
+bisherige Verlag zeigt sich diesbezüglich offener. Beide Verlage
+bestehen zudem auf die Weiterführung der Printausgabe.
+
+Aus dem Szenario ergaben sich folgende Leitfragen:
+
+1.  Soll der Herausgeber bei seinem alten Verlag bleiben und weiter eine
+    Printausgabe produzieren?
+2.  Soll der Herausgeber zu einem anderen Verlag wechseln und
+    Kompromisse eingehen?
+3.  Gibt es andere Möglichkeiten einer Open-Access-Publikation? Wenn ja,
+    mit welchen Partnern, welchem Aufwand und unter welchen Bedingungen?
+4.  Braucht die Publikation ein Peer Review und falls ja, wie lässt sich
+    ein solches Verfahren organisieren?
+
+Anhand dieser Fragen soll nun erläutert werden, welche
+Handlungsmöglichkeiten der Herausgeber für dieses Szenario hat.
+
+### Methodische Beschreibung
+
+Zu Beginn der Projektarbeit wurde sich mit den einzelnen Akteuren,
+Problemen und Themen des Szenarios auseinandergesetzt. Im Anschluss
+wurden die von der Projektleitung vorgegebenen Leitfragen erörtert und
+für die weitere Bearbeitung ein Flussdiagramm erstellt, um die möglichen
+Handlungsoptionen zu entwickeln und darzustellen. Die konkreten
+Handlungsvorschläge wurden unter Zuhilfenahme einschlägiger
+Fachliteratur ausgearbeitet und im weiteren Verlauf gegeneinander
+abgewogen.
+
+### Analyse
+
+Das Publizieren im Open-Access-Verfahren bringt viele Vorzüge mit sich,
+ist aber auch einigen Vorbehalten ausgesetzt. Der wohl entscheidendste
+Grund für Open Access ist der schnelle und kostenfreie Zugang zu
+wissenschaftlichen Informationen und ein damit verbundener,
+uneingeschränkter globaler Zugriff auf Forschungsergebnisse, die auf
+Basis von öffentlich finanzierter Forschung zustande gekommen sind.
+Informationen, die uneingeschränkt und für den Nutzer kostenfrei
+zugänglich sind, werden stärker wahrgenommen als Informationen deren
+Zugang beschränkt ist. Im Internet sind diese Informationen von
+Suchmaschinen und anderen Nachweisdiensten leichter indexierbar.
+Suchmaschinen, wie die Bielefeld Academic Search Engine
+(BASE) und auch das Directory of Open
+Access Journals (DOAJ) sind spezialisiert auf das
+Indexieren von Open-Access-Dokumenten. Durch die zunehmende Verbreitung
+und Sichtbarmachung von Open-Access-Informationen können diese vermehrt
+genutzt und weiterverwendet werden. Die freie Verfügbarkeit von
+Informationen fördert auch die ländergrenzen- und fachübergreifende
+Zusammenarbeit. Auch Staaten, in denen weniger Geld in die Forschung
+investiert wird oder werden kann, erhalten so Zugriffsmöglichkeiten auf
+relevante Informationen und bereits vorhandenes Wissen. Schließlich kann
+auch der Forschungsprozess beschleunigt werden, weil Ergebnisse nicht
+nur schneller publiziert, sondern Dokumente zum selben Zeitpunkt von
+mehreren Personen bearbeitet oder eingesehen werden können. Zweifel am
+Open Access entstehen häufig durch eine Unsicherheit im Umgang mit dem
+Urheberrecht sowie durch Vorbehalte gegenüber der Qualität und der
+Langzeitarchivierung der Dokumente. Nur mit der richtigen Archivierung
+von Informationen im Internet auf entsprechenden Archivservern kann eine
+langfristige Erhaltung und Verfügbarkeit der Informationen gewährleistet
+werden (Georg-August-Universität Göttingen. Niedersächsische Staats- und
+Universitätsbibliothek 2015).
+
+Es gibt verschiedene Ausprägungen des Open Access. Im Folgenden werden
+diese Möglichkeiten mit ihren Vor- und Nachteilen erörtert. Dabei wird
+konkret auf die bereits vorgestellten Leitfragen eingegangen.
+
+#### Soll der Herausgeber bei seinem alten Verlag bleiben und weiter eine Printausgabe produzieren? 
+
+Obgleich sich der bisherige Verlag derzeit in wirtschaftlichen
+Schwierigkeiten befindet und eine Neustrukturierung seines Geschäftes
+vornehmen muss, stellt der Verbleib der Zeitschrift bei diesem Verlag
+dennoch eine attraktive Option dar. Zwar ist die wirtschaftliche
+Perspektive des Verlages ungewiss, jedoch veranlasst die derzeitige
+Krise den alten Verlag auch dazu, sich neuen Möglichkeiten zu öffnen, um
+die renommierten Zeitschrift auch zukünftig an sich zu binden. Für den
+Herausgeber ergibt sich die Chance die bisherige Zusammenarbeit in einer
+neuen Form fortzusetzen und auch seinem Wunsch nach Open Access
+nachzugehen. Da der Verlag aufgrund seiner derzeitigen Schwierigkeiten
+allerdings weder personelle noch technische Ressourcen für die
+Weiterentwicklung der Zeitschrift in Richtung Open Access zur Verfügung
+stellen kann, würde er aber die Öffnung der Zeitschrift für den Grünen
+Weg des Open Access unterstützen. Da es sich aus der Perspektive des
+Verlages hier nur um eine vertragsrechtliche Änderung handelt, wäre
+diese Variante besonders kostengünstig, da lediglich eine entsprechende
+Klausel in den Autorenverträgen angepasst werden müsste.
+
+Konkret bedeutet dies, dass in
+der Zeitschrift veröffentlichte Artikel als elektronische Dokumente
+archiviert und so kostenfrei öffentlich verfügbar gemacht werden können.
+Prinzipiell sind hier drei Varianten möglich: Das Individual-, das
+Institutional- oder das Central-Self-Archiving. Beim
+Individual-Self-Archiving erfolgt die Archivierung und Bereitstellung
+des Artikels durch den Autor, zum Beispiel auf einer privaten Homepage.
+Das Institutional-Self-Archiving meint die Archivierung auf einem
+institutionellen Repositorium, das Central-Self-Archiving die
+Archivierung auf einem disziplinären Repositorium (Müller & Schirmbacher
+2007).
+
+Zwar erfolgt die Archivierung beim Grünen Weg in der Regel durch den
+Autor selbst, allerdings lässt sich dieser Prozess auch durch den
+Herausgeber organisieren, was im vorliegenden Fall auch empfehlenswert
+wäre. Dafür sind die Einholung eines einfachen Nutzungsrechts beim Autor
+sowie die Zustimmung zu einer Deposit-Licence durch den Autor nötig.
+Dieser Prozess ließe sich mit geringem Aufwand durch den Herausgeber
+organisieren. Beispielsweise könnte eine entsprechende
+Zustimmungspflicht der Autoren zur Veröffentlichung ihrer Artikel auf
+einem Repositorium bereits mit dem *Call for Papers* oder auch in einem
+Autorenvertrag, kommuniziert werden. Durch dieses Verfahren wäre
+sichergestellt, dass jeder in der Printausgabe veröffentlichte Artikel
+auch tatsächlich als archiviertes elektronisches Dokument zur Verfügung
+stünde. Außerdem wäre zu klären, ob die elektronische Veröffentlichung
+der Artikel als Preprint oder als Postprint erfolgen soll. Der
+Herausgeber muss zudem - bestenfalls in Absprache mit den Autoren und
+dem Verlag - entscheiden, auf welcher Art Repositorium die Artikel
+veröffentlicht werden sollen. Mit den Verantwortlichen des
+institutionellen Repositoriums der Humboldt-Universität zu Berlin, dem
+edoc-Server, wäre zu klären, ob eine
+Veröffentlichung von Artikeln auch dann möglich ist, wenn die
+Autorenschaft oder Co-Autorschaft nicht bei einem Angehörigen der
+Humboldt-Universität liegt (vgl. AG Elektronisches Publizieren 2014).
+Sollte dem nicht so sein, bliebe als Alternative die Zugänglichmachung
+über ein institutionelles Repositorium. Für sehr viele Fachgebiete
+existiert in Deutschland zumindest ein spezifisches Repositorium, das
+beispielsweise mithilfe des Registry of Open Access Repositories
+(ROAR) oder dem Directory of Open Access
+Repositories (DOAR) ermittelt werden kann.
+
+Besteht die Möglichkeit zwischen mehreren Angeboten zu wählen, sollten
+bestimmte Kriterien die Entscheidung lenken. Erstens sollte die
+Langzeitverfügbarkeit der Dokumente auf dem Repositorium gesichert sein.
+Hier spielt auch die Reputation des Repositorien-Betreibers eine Rolle.
+Zweitens sollten die Betreiber des Repositoriums Hilfe bei der
+Erstellung, dem Upload und der Verwaltung der elektronischen Dokumente
+anbieten. Im Idealfall sollte es zudem über das
+[DINI-Zertifikat verfügen, das
+neben den oben genannten Punkten weitere wichtige Kriterien zur
+Beurteilung eines Repositoriums enthält.
+
+Auch der finanzielle und organisatorische Aufwand hielte sich bei dieser
+Variante relativ in Grenzen. Für den alten Verlag entstände kein
+zusätzlicher Aufwand, was sich positiv auf die wirtschaftliche Erholung
+auswirken könnte. Der Herausgeber beziehungsweise Verlag müsste bei
+diesem Modell einerseits grundlegende Vereinbarungen mit den beteiligten
+Autoren treffen (Autorenvertrag, Einfaches Nutzungsrecht, Deposit
+Licence), ein geeignetes Repositorium auswählen und für die Erstellung
+sowie die Zugänglichmachung der elektronischen Dokumente Sorge tragen,
+wobei ein Großteil dieses Prozesses gegebenenfalls durch die
+Repositorien-Betreiber abgedeckt werden könnte. Schließlich würden die
+Sichtbarkeit und der Verbreitungsgrad der in der Zeitschrift
+veröffentlichten Artikel durch das Verfügbarmachen der elektronischen
+Dokumente erhöht. Die Printausgabe der Zeitschrift würde in dieser
+Variante allerdings nicht überflüssig, da es sich bei der
+Veröffentlichung im Rahmen des Grünen Weges nicht um eine elektronische
+Parallelausgabe handelt. Hierin liegt allerdings auch ein Nachteil, da
+die einzelnen Artikel auf dem Repositorium auch nur als solche
+wahrnehmbar wären. Eine elektronische Entsprechung der gesamten
+Zeitschrift existierte nicht, zumal außerdem nicht garantiert wäre, dass
+tatsächlich alle Artikel verfügbar gemacht werden können. Weitere
+Bestandteile der Printausgabe, wie zum Beispiel Kurzmeldungen,
+Veranstaltungshinweise et cetera fänden sich ebenfalls nicht auf dem
+Repositorium wieder. Abzuwägen wäre ebenfalls die Gefahr, dass
+Abonnenten die Printausgaben abbestellen, wenn ein Großteil der Artikel
+elektronisch verfügbar gemacht wird. Die nicht garantierte
+Vollständigkeit lässt dies allerdings als weniger wahrscheinlich
+erscheinen. Außerdem ist damit zu rechnen, dass viele Printabonnenten
+aus Gewohnheit, Verlagsaffinität oder anderen Gründen auch weiterhin die
+Printzeitschrift bevorzugen.[^1]
+
+Insgesamt betrachtet, ließe sich die Variante der
+Open-Access-Veröffentlichungen auf dem Grünen Weg ohne größere Hürden
+umsetzen, da zwischen Herausgeber und altem Verlag keinerlei
+Interessenkonflikte bestehen.
+
+#### Soll der Herausgeber zu einem anderen Verlag wechseln und Kompromisse eingehen?
+
+Bei einem Wechsel zum neuen Verlag wird dem Herausgeber für seinen
+Wunsch nach mehr Offenheit gegenüber dem Open Access der hybride Goldene
+Weg angeboten. Der einfache Goldene Weg bezeichnet die
+Erstveröffentlichung von wissenschaftlichen Beiträgen, die den
+Bedingungen des Open Access folgen, was bedeutet, dass die Beiträge
+sofort frei verfügbar sind. Die Veröffentlichung erfolgt je nach
+Zeitschrift entweder kostenlos oder durch Zahlung einer
+Veröffentlichungsgebühr in Form von APC, welche in der Regel von
+Forschungsorganisationen und Forschungsförderern übernommen wird,
+mitunter aber auch direkt von den Autorinnen und Autoren,
+beziehungsweise aus deren Forschungsbudgets. Hier können die Autoren
+sich auch über institutionelle Publikationsfonds, diese werden zum
+Beispiel gefördert von der Deutschen Forschungsgemeinschaft (DFG), oder
+durch institutionelle Mitgliedschaften von wissenschaftlichen
+Einrichtungen finanzielle Unterstützung einholen.
+
+Im Gegensatz dazu ist der hybride Goldene Weg eine gesonderte Variante,
+bei denen vor allem den Autoren grundsätzlich zwei Möglichkeiten offen
+liegen. Bezahlen sie eine Publikationsgebühr, wird ihr Artikel sofort
+als Open Access veröffentlicht. Andernfalls wird der Artikel als Closed
+Access nur den Abonnenten der Zeitschrift zur Verfügung gestellt. APC
+beinhalten in der Regel die Publikationskosten sowie die Kosten für das
+Gutachterverfahren, das Online-Hosting und die Verbreitung
+beziehungsweise die Bewerbung des Artikels. Darüber hinaus kann bei
+dieser Finanzierung von einer hohen Gewinnspanne seitens des Verlages
+ausgegangen werden. Hohe Publikationsgebühren können daher dazu führen,
+dass aus Kostengründen nur einzelne Artikel von den Autorinnen und
+Autoren für Open Access freigeschaltet werden können, bzw. in reinen
+Gold-Open-Access-Journals nur Autorinnen und Autoren publizieren können,
+die über entsprechende Mittel verfügen.
+
+Der Einsatz von APC birgt mitunter auch die Gefahr des sogenannten
+"double dippings". Dies bedeutet, dass einerseits durch die Abonnenten
+Subskriptionsgebühren und andererseits durch die Autoren
+Publikationsgebühren für denselben Artikel an den Verlag bezahlt werden.
+Somit verdient der Verlag zusätzlich zu den Einnahmen aus den
+Abonnements ein zweites Mal durch die Open-Access-Gebühren.
+
+Im Szenario wäre das Begutachtungsverfahren der eingereichten Artikel
+eigentlich durch die APC im Prinzip finanziell abgedeckt, jedoch stellt
+der neue Verlag die dafür notwendigen Ressourcen nicht zur Verfügung.
+Außerdem besteht der Verlag auf eine weitreichende Rechteabtretung
+seitens der Autorinnen und Autoren für die Nicht-Open-Access-Artikel. So
+ist beispielsweise eine Zweitverwertung nicht mehr ohne weiteres
+möglich. Wissenschaftliche Einrichtungen müssen dann die Artikel
+entweder einzeln oder über Lizenzverträge und Subskriptionen
+zurückkaufen, sonst können sie nicht mehr auf die gesamte Zeitschrift
+zugreifen. In Anbetracht der Tatsache, dass
+Open-Access-Veröffentlichungen in den Geisteswissenschaften bislang im
+Vergleich zu den Naturwissenschaften weniger etabliert sind, bleiben die
+Akzeptanz sowie der Finanzierungswille seitens der Autoren fraglich
+(vgl.Kleineberg 2016: 16).
+
+Dieses Szenario bietet aber auch eine Reihe an Vorteilen. Wenn der
+Herausgeber diesen Weg mit dem neuen Verlag einschlagen möchte, gelten
+erst einmal die gleichen Bedingungen wie für den einfachen Goldenen
+Open-Access-Weg, nur dass die Publikation von einem Verlag
+veröffentlicht wird und dieser auch die Richtlinien für alle Beteiligten
+vorgibt. Die Betreuung wäre vom Verlag gegeben, womit der Herausgeber
+wenig bis gar keinen organisatorischen Aufwand hat. Die Reputation
+seiner Zeitschrift wäre weiterhin gewährleistet. Auch das bisher bereits
+stattfindende Gutachterverfahren zur Qualitätskontrolle könnte wie
+bisher durchgeführt werden. Ein weiterer Vorteil für den Herausgeber
+könnte, sofern vom Verlag auch gewährleistet, eine Langzeitarchivierung
+und -verfügbarkeit seiner Zeitschrift über die entsprechend angebotenen
+Strukturen des neuen Verlages sein.
+
+#### Gibt es andere Möglichkeiten einer Open-Access-Publikation? Wenn ja, mit welchen Partnern, welchem Aufwand und unter welchen Bedingungen?
+
+
+Bei einer Publikation ohne Verlagsbeteiligung als dritte Alternative
+würde die bisherige Printzeitschrift in eine rein elektronische
+Zeitschrift umgewandelt und nach dem Goldenen Weg des Open
+Access-Verfahrens publiziert. Dieses Verfahren ist auf zwei denkbaren
+Wegen realisierbar. Erstens könnte der Herausgeber eine Partnerschaft
+mit einem sogenannten Open-Access-Verlag eingehen. Dieser bietet neben
+der benötigten Software auch die Absicherung der Mindestanforderungen an
+das Qualitätssicherungsverfahren. Darüber hinaus besitzt er ein
+Mitspracherecht bei der Verteilung der Inhalte und er legt das
+finanzielle Betriebsmodell fest. Letztlich übernimmt er alle Aufgaben
+und Pflichten eines klassischen Verlages, sichert aber die frei
+zugängliche Veröffentlichung der Zeitschrift zu (Reckling 2013: 5–8).
+Zweitens könnte die Zeitschrift wie beim bereits genannten Grünen Weg
+auch ganz ohne Verlagsbeteiligung, dafür in kompletter Eigenregie des
+Herausgebers erscheinen. Der Zugang zu den von der Universität
+bereitgestellten Ressourcen zur Veröffentlichung nach Open Access würde
+sinnvollerweise über eine Zusammenarbeit mit der Arbeitsgruppe
+"Elektronisches
+Publizieren" erfolgen,
+welche sich aus der Universitätsbibliothek und dem Computer- und
+Medienservice zusammensetzt. Während die Universitätsbibliothek die
+Zeitschrift mit Bestandsaufnahme, Metadaten und Erschließung
+unterstützt, sichert der Computer- und Medienservice die Bereitstellung
+auf dem institutionellen Repositorium, dem edoc-Server der HU Berlin ab.
+Diese Art der Bereitstellung gewährleistet gleichzeitig die
+Langzeitarchivierung der Zeitschrift (Dobratz 2007: 28–30; Schirmbacher
+2005: 6).
+
+Bei der Veröffentlichung unter Verzicht auf Verlagsstrukturen fallen
+alle organisatorischen und finanziellen Aufgaben dem Herausgeber zu.
+Insbesondere letztere sind nur zu bewältigen, wenn tragfähige
+Finanzierungswege gefunden und umgesetzt werden. Grundsätzlich fallen
+bei Open-Access-Publikationen geringere Kosten an als bei klassischen
+Printzeitschriften und als bei Closed-Access-Zeitschriften, denn sowohl
+die Druckkosten als auch die Kosten für die Abonnentenverwaltung,
+worunter auch die Identifikation von autorisierten und
+nicht-autorisierten Nutzern sowie das Mahnverfahren fallen, entfallen
+(Gradmann 2007: 42). Die Produktionskosten inklusive eventuell
+anfallender Personalkosten sowie der zeitliche Aufwand können zudem
+durch die Nutzung von Open-Source-Software für elektronische
+Zeitschriften, beispielsweise Open Journals Systems
+(OJS), auf ein Minimum reduziert werden.
+Personelle Ressourcen sind bei diesem Weg die hauptsächlichen
+Kostenfaktoren. Denkbar wäre hier wie beim Goldenen Weg des Open Access
+eine Finanzierung über die Erhebung von APC, wobei diese aus genannten
+Gründen wiederum eine Barriere für die Autorinnen und Autoren bei der
+Wahl ihres Veröffentlichungskanals darstellen könnten (Gradmann 2007:
+43–45; Schmidt 2006: 48–52). Sollen die Kosten nicht von den Autoren
+getragen werden, wäre je nach Renommee der Zeitschrift auch das
+Akquirieren von Sponsoren und Werbekunden eine Finanzierungsoption,
+insbesondere wenn diese eine enge Verbindung zur fachlichen Ausrichtung
+der Zeitschrift aufweisen (Schmidt 2006: 34). Auch die Nutzung von
+öffentlichen Mitteln, beispielsweise aus dem Förderfonds "Elektronisches
+Publizieren" der DFG oder aus eventuellen Publikationsfonds der
+Universität sind denkbar (Deutsche Forschungsgemeinschaft 2014; Schmidt
+2006: 33).
+
+Der letzte und vielleicht langfristig sicherste Finanzierungsweg ist die
+Gründung eines Vereins, in dessen Satzung das Herausbringen der
+Zeitschrift festgelegt wird. Mithilfe der erhobenen Vereinsbeiträge ist
+die Finanzierung der Zeitschrift abgedeckt, weiterer Personal- und
+Zeitaufwand für die Akquirierung von Einnahmen entfallen und
+insbesondere das Renommee des Herausgebers und der Zeitschrift sollte
+Mitglieder der Wissenschaftsgemeinschaft zu diesem Beitrag zur Sicherung
+des Fortbestandes der Zeitschrift bewegen (vgl. LIBREAS e.V. 2013).
+Hierüber könnten auch notwendige Tätigkeiten wie etwa die Kontaktarbeit,
+sowohl mit potentiellen als auch mit bisherigen Autoren, sowie das
+allgemeine Networking innerhalb der Fachcommunity, das Marketing für die
+Zeitschrift und typische Verlagsarbeiten, wie etwa die Layout-Gestaltung
+abgedeckt werden.
+
+Eine Weiterführung der Zeitschrift ohne die Beteiligung eines Verlages
+ist demnach theoretisch auf jeden Fall möglich, stößt in der Praxis aber
+auf einige Hindernisse: Das wohl größte ist der Wegfall der
+Printausgabe, was nicht im Sinne des Herausgebers ist. In erster Linie
+birgt die rein elektronische Erscheinungsweise die Gefahr, dass die
+abonnierenden Bibliotheken und ihre Benutzer den gewohnten Zugangsweg
+verlieren (Gersmann 2007: 78). Deshalb müssen Strategien zur Information
+über die neue Publikationsform entwickelt werden. Dennoch wird es
+wahrscheinlich "traditionell denkende" Geisteswissenschaftler geben, die
+gewohnheitsmäßig und ausschließlich die Printausgabe rezipieren wollen
+und demzufolge dauerhaft als Leser wegfallen. Der zweite Nachteil dieses
+Publikationsweges ist der deutlich steigende Organisationsaufwand, der
+nun allein beim Herausgeber läge. Der Wegfall der Verlagsstrukturen
+sorgt zwar für viel selbst zu leistende Arbeit, ist aber gleichzeitig
+ein Vorteil. Anstatt von Verlagen und ihren Vorgaben abhängig zu sein,
+nähert sich die Wissenschaft dem Ideal, selbstständig und unbeeinflusst
+ihre Ergebnisse allen bereit zu stellen, an (Schirmbacher 2005: 4).
+Mithilfe der richtigen Informations- und Marketingstrategie kann die
+Zeitschrift von ihrer höheren Verbreitung, besseren Zugänglichkeit,
+gesteigerten Rezeption und Nachnutzbarkeit für alle Wissenschaftler und
+Interessenten profitieren (Schmidt 2006: 8).
+
+#### Braucht die Publikation ein Peer Review und falls ja, wie lässt sich ein solches Verfahren organisieren?
+
+Der Herausgeber hat die Qualitätssicherung der Zeitschrift bislang im
+Editorial Review-Verfahren gewährleistet und somit eigenständig die beim
+Verlag eingereichten Artikel und Beiträge von Wissenschaftlern danach
+überprüft, ob sie den gegebenen Anforderungen der Zeitschrift und denen
+einer wissenschaftlichen Publikation gerecht werden. Im besten Fall
+folgte er dabei einer Editorial Policy, welche bestimmte Richtlinien
+aufstellt, nach denen die Bewertung vorgenommen wird. Üblich beim
+Editorial Review sind proaktive Einladungen zu Artikeln seitens des
+Herausgebers, vor allem in geistes- und sozialwissenschaftlichen
+Journalen und Sammelwerken (Herb 2016). Neben dieser etablierten und
+eher klassischen Variante der Qualitätssicherung können auch
+verschiedene Peer Review-Verfahren durchgeführt werden, deren Vorteile
+der Herausgeber im Zuge einer möglichen Open-Access-Version der
+Zeitschrift künftig gern nutzen möchte. Damit ginge die Einrichtung
+eines Herausgebergremiums (Editorial Board) einher. Beim Peer Review
+werden eingereichte Artikel durch Wissenschaftler desselben Fachgebietes
+begutachtet. Damit soll vor allem die Verständlichkeit der Beiträge
+ebenso wie die sachliche Korrektheit, die Validität und die Objektivität
+der eingereichten Arbeiten – sprich: die wissenschaftliche Qualität –
+gewährleistet beziehungsweise erhöht werden. Ein Peer-Review-Verfahren
+kann sehr unterschiedlich organisiert werden. Beim sogenannten
+Single-Blind-Verfahren ist der Name des Autors dem jeweiligen Gutachter
+bekannt, wohingegen beim Double-Blind-Verfahren beide, sowohl der Autor
+als auch der Gutachter, anonym bleiben. Im Folgenden werden die
+jeweiligen Möglichkeiten für die bereits vorgestellten
+Open-Access-Szenarien vorgestellt.
+
+Für den Grünen Weg mit Fortsetzung der Veröffentlichung der Printausgabe
+über den bisherigen Verlag und einer davon unabhängigen
+Open-Access-Ausgabe der einzelnen Artikel ergeben sich mehrere Wege der
+Qualitätssicherung. Hierbei sind noch einmal die wirtschaftliche Lage
+des Verlages und die damit einhergehende Umstrukturierung zu betonen.
+Neuen Review-Verfahren gegenüber zeigt sich der Verlag zwar prinzipiell
+aufgeschlossen, jedoch ist er nicht in der Lage die nötigen Ressourcen
+und Kapazitäten zur Verfügung zu stellen. Entsprechend könnte der
+Herausgeber weiterhin das bewährte Editorial Review praktizieren,
+welches angesichts der guten Reputation der Zeitschrift durchaus
+angemessen erscheint. Die Qualitätssicherung der Artikel würde dann wie
+gehabt über die weiter erscheinende Printausgabe erfolgen. Weiterhin hat
+er die Option mit dem bisherigen Verlag in Verhandlungen zu gehen, um
+eine für beide Seiten umsetzbare Peer-Review-Strategie zu erarbeiten.
+Wichtig für die Open-Access-Version der Zeitschrift ist in jedem Fall
+die Veröffentlichung der Postprints, da nur diese der Printausgabe
+entsprechen. Preprints, also die Manuskripte der Autoren, sind zum einen
+zumindest nicht mit Verweis auf die Zeitschrift zitierbar und zum
+anderen sind sie meist nicht identisch mit den veröffentlichten Artikeln
+in der Printausgabe.
+
+In der Variante einer hybriden Open-Access-Veröffentlichung der
+Zeitschrift bei einem neuen Verlag ist die Qualitätssicherung über Peer
+Review ein schwieriges Vorhaben. Der neue Verlag signalisiert, dass ein
+Verfahren dieser Art zur Qualitätssicherung eingesetzt werden soll,
+verweigert aber die entsprechenden Ressourcen. Hier helfen nur
+Verhandlungen mit dem Verlag und eine solide Argumentationsgrundlage.
+Kann der Verlag nicht dazu bewegt werden von seiner Haltung abzuweichen
+und dem Herausgeber finanziell und personell entgegenzukommen, bleibt
+dem Herausgeber letztlich nur, weiterhin das Editorial Review für die
+Printausgabe fortzuführen. Für die einzelnen Open-Access-Artikel kann
+zusätzlich ein Post-Publication-(Open)-Review beziehungsweise
+Transparent-Peer-Review eingesetzt werden, bei welchem die rezipierende
+Wissenschaftsgemeinschaft über eine bereitgestellte Kommentarfunktion im
+Nachhinein die Qualität des Beitrages bewerten kann.
+
+Auch beim Goldenen Weg im Selbstverlag ist ein Verfahren zur
+Qualitätssicherung zwingend notwendig. Der Herausgeber hat hier neben
+dem Editorial Review-Verfahren alle Freiheiten, die der jeweilige
+finanzielle und personelle Rahmen hergibt. Theoretisch ist also jedes
+Verfahren denkbar, die praktische Umsetzung muss individuell bewertet
+werden. Zu bedenken ist, dass für die Einrichtung eines
+Herausgebergremiums beziehungsweise einer verlässlichen Peer Group
+sowohl das Single-Blind- als auch das Double-Blind-Peer-Review den
+Aufbau und die Pflege eines aktiven Wissenschaftlerkreises
+beziehungsweise die Vernetzung zu einer bereits bestehenden aktiven
+Fachcommunity erfordern. Dies wird möglicherweise durch das
+hervorragende Renommee der Zeitschrift und des Herausgebers erleichtert.
+
+### Zusammenfassung
+
+Alle vorgestellten Vorgehensweisen sind möglich und denkbar, jeder Weg
+hat für sich individuelle Vorzüge, aber auch Nachteile. Beim Goldenen
+Weg des Open Access im Selbstverlag fiele die Printausgabe komplett weg,
+es würden nur noch die einzelnen Artikel publiziert. Eine elektronische
+Parallelausgabe zur Printausgabe der Zeitschrift gäbe es lediglich bei
+Publikation über die Vereinsbildung oder dem Wechsel zum neuen Verlag.
+Die Printausgabe bliebe bei letzterem wie auch mit dem alten Verlag
+weiterhin erhalten. Wie schwerwiegend die wirtschaftliche Krise des
+bisherigen Verlages ist, kann an dieser Stelle nicht endgültig beurteilt
+werden, ebenso wenig wie der Ausgang der geplanten Neustrukturierung.
+Dies bedeutet, dass somit auch die Zukunft der Zeitschrift – zumindest
+in der Printversion – weiterhin ungewiss bliebe, würde sich der
+Herausgeber für eine Fortführung der Zusammenarbeit mit dem alten Verlag
+entscheiden. Der Herausgeber hat jedoch die Möglichkeit in jedem Fall
+gemeinsam mit dem bisherigen Verlag den Grünen Weg des Open Access zu
+gehen. In diesem Fall wird für die Publikation der Artikel im Open
+Access keine zusätzliche Finanzierung benötigt, da bereits vorhandene
+Infrastrukturen, wie etwa ein geeignetes Fachrepositorium, genutzt
+werden können. Man könnte hier aber im Hinblick auf Wirtschaftlichkeit
+und Krisenbewältigung über Möglichkeiten zusätzlicher Finanzeinnahmen
+nachdenken. Kann die Umstrukturierung dem Verlag nicht aus seiner Krise
+helfen, so hat der Herausgeber zu einem späteren Zeitpunkt immer noch
+die Option, die Zeitschrift ohne Printausgabe über den Goldenen Weg im
+Selbstverlag zu publizieren oder sich auf einen neuen Verlag
+einzulassen. Sollte sich die wirtschaftliche Situation des Verlages
+wieder stabilisieren, würde sich diese Option im Nachhinein als
+besonders lukrativ erweisen. Denn die Printversion bliebe beim
+bisherigen Verlag, für die Rezipienten gäbe es dahingehend keine
+Änderung. Da sich der Verlag prinzipiell offen zeigt für
+Open-Access-Verfahren, hätte der Herausgeber außerdem freie Hand bei der
+Organisation.
+
+Durch einen Verlagswechsel bliebe die Reputation der Zeitschrift ohne
+Risiko erhalten beziehungsweise könnte sich je nach Renommee des
+entsprechenden Verlages durchaus sogar noch steigern. Negativ sind die
+weitreichende Rechteabtretung für die Autoren und die hohen APC, wenn
+sie ihre Artikel im Open Access publizieren. Des Weiteren befände sich
+der Herausgeber in einer Abhängigkeit mit wenig Spielraum für die
+Umsetzung eigener Interessen.
+
+Bei der Wahl des Goldenen Weges im Selbstverlag müsste zunächst die
+Finanzierung gesichert und die gesamte Infrastruktur für das Open Access
+geschaffen werden. Positiv betrachtet bietet dieser Weg somit das
+höchste Maß an Unabhängigkeit und organisatorischer Freiheit. Jedoch
+bestünde durch die Abwendung von Verlegern die Gefahr, dass das
+Fortbestehen der Zeitschrift als Open-Access-Version von den Rezipienten
+nicht bemerkt beziehungsweise auch nicht angenommen werden könnte. Im
+schlimmsten Fall stünde die Reputation der Zeitschrift auf dem Spiel.
+Aus diesem Grund ist hier intensive Marketingarbeit und eine sinnvolle
+Strategie erforderlich, um das Fortbestehen der Zeitschrift zu sichern.
+Eine Organisation und Verteilung dieser zahlreichen Aufgaben sowie eine
+Absicherung in Hinblick auf Urheber-, Autoren- und Verlagsrechte wären
+über die Gründung eines Vereins möglich, der neben der Finanzierung auch
+festgelegte und damit dauerhafte Strukturen sicherte.
+
+Die endgültige Entscheidung für einen bestimmten Weg muss letztlich
+durch den Herausgeber getroffen werden. Nach Abwägung des Für und Wider
+erscheint jedoch der Verbleib beim bisherigen Verlag mit dem Grünen Weg
+des Open Access und der Option für eine spätere Erweiterung des
+Review-Verfahrens als sinnvollste Variante. Sollte der Verlag scheitern,
+kann der Herausgeber immer noch eine der anderen Varianten in Betracht
+ziehen.
+
+### Literatur
+
+Arbeitsgruppe Elektronisches Publizieren (2014): Hinweise für
+Open-Access-Autoren. \[abrufbar unter:
+<http://edoc.hu-berlin.de/e_autoren/index-oa.php>\].
+
+Deutsche Forschungsgemeinschaft (2014): Merkblatt Open Access
+Publizieren. Bonn. \[abrufbar unter:
+<http://www.dfg.de/formulare/12_20/12_20_de.pdf>\].
+
+Dobratz, Susanne (2007): Open-Access-Repositories am Beispiel des
+edoc-Servers der Humboldt-Universität zu Berlin. In: Malina, Barbara
+(Hrsg.): Open Access. Chancen und Herausforderungen. Bonn: Deutsche
+UNESCO-Kommission e.V. S. 28–32.
+
+Georg-August-Universität Göttingen. Niedersächsische Staats- und
+Universitätsbibliothek (2015): Informationsplattform Open Access.
+Göttingen.\
+\[abrufbar unter: <https://www.open-access.net/>\].
+
+Gersmann, Gudrun (2007): Open Access in den Geisteswissenschaften. In:
+Malina, Barbara (Hrsg.): Open Access. Chancen und Herausforderungen.
+Bonn: Deutsche UNESCO-Kommission e.V. S. 78–79.
+
+Gradmann, Stefan (2007): Finanzierung von Open-Access-Modellen. In:
+Malina, Barbara (Hrsg.): Open Access. Chancen und Herausforderungen.
+Bonn: Deutsche UNESCO-Kommission e.V. S. 42–45.
+
+Gradmann, Stefan (2009): Publizieren im Open-Access-Modell. Allgemeine
+Einführung und Grundaussagen. In: cms-journal (32). Berlin.\
+\[abrufbar unter:
+<http://edoc.hu-berlin.de/cmsj/32/gradmann-stefan-20/PDF/gradmann.pdf>\].
+
+Herb, Ulrich (2016.): Wissenschaftliches Publizieren. Qualitätssicherung
+und -messung, in: scinoptica \[abrufbar unter:
+<http://www.scinoptica.com/pages/de/materialien/wissenschaftliches-publizieren/wissenschaftliches-publizieren-qualitaetssicherung-und--messung.php>\].
+
+Kleineberg, Michael (2016): Open Humanities? Expertenmeinungen über Open
+Access in den Geisteswissenschaften. In: Berliner Beiträge zu Digital
+Humanities, hrsg. vom Einstein-Zirkel, Berlin. Preprint. \[abrufbar
+unter:
+<https://zenodo.org/record/50598/files/Open_Humanities_Kleineberg.pdf>\].
+
+LIBREAS e.V. (2013): LIBREAS. Vereinssatzung. Berlin.\
+\[abrufbar unter: <http://www.libreas-verein.eu/satzung>\].
+
+Mittermaier, Bernhard (2015): Double Dipping beim Hybrid Open Access –
+Chimäre oder Realität? In: Informationspraxis (1). Heidelberg.\
+\[abrufbar unter: <http://dx.doi.org/10.11588/ip.2015.1.18274>\].
+
+Müller, Uwe; Schirmbacher, Peter (2007): Der "Grüne Weg zu Open Access"
+in Deutschland. ZfBB 54 (4-5). S. 183–193.\
+\[abrufbar unter: <http://edoc.hu-berlin.de/oa/articles/retHrv7eeUFo2/PDF/23tfNyzkDjYo.pdf>\].
+
+Reckling, Falk (2013): Open Access. Aktuelle internationale und
+nationale Entwicklungen. Wien.\
+\[abrufbar unter:
+<http://www.fwf.ac.at/fileadmin/files/Dokumente/News_Presse/News/FWF_OA-2013.pdf>\].
+
+Schirmbacher, Peter (2005): Open Access – die Zukunft des
+wissenschaftlichen Publizierens. In: cms-journal (27). Berlin.\
+\[abrufbar unter:
+<http://edoc.hu-berlin.de/docviews/abstract.php?lang=ger&id=25486>\].
+
+Schmidt, Birgit (2006): Open Access. Freier Zugang zu wissenschaftlichen
+Informationen - das Paradigma der Zukunft? In: Berliner Handreichungen
+zur Bibliotheks- und Informationswissenschaft (144). Berlin. Institut
+für Bibliotheks- und Informationswissenschaft der Humboldt-Universität
+zu Berlin.
+
+Sherpa (2006): Definition and Terms.\
+\[abrufbar unter: <http://www.sherpa.ac.uk/romeoinfo.html>\].
+
+Alle Links wurden letztmalig am 4.12.2016 geprüft.
+
+[^1]: Vgl.
+    <https://info.ub.hu-berlin.de/annualreports/2014/fupush/>.
+
+(unter Mitarbeit von Vivien Damm, Sebastian Grau und Katharina Weile)

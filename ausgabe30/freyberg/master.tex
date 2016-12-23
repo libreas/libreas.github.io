@@ -1,0 +1,455 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage[babel]{csquotes}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+%meta
+%meta
+
+\fancyhead[L]{L. Freyberg \\ %author
+LIBREAS. Library Ideas, 30 (2016). % journal, issue, volume.
+\href{http://nbn-resolving.de/
+}{}} % urn
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\textit{Creative Commons BY 3.0}} %licence
+\fancyfoot[R] {\textit{ISSN: 1860-7950}}
+
+\title{\LARGE{Die Lesbarkeit der Welt} \\ Rezension zu 'The Concept of Information in Library and Information Science. A Field in Search of Its Boundaries: 8 Short Comments Concerning Information'. In: Cybernetics and Human Knowing. Vol. 22 (2015), 1, 57-80. Kurzartikel von Luciano Floridi, Søren Brier, Torkild Thellefsen, Martin Thellefsen,nBent Sørensen, Birger Hjørland, Brenda Dervin, Ken Herold, Per Hasle und Michael Buckland.} %title %title
+\author{Linda Freyberg} %author
+
+\setcounter{page}{1}
+
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=blue,
+breaklinks= true]{hyperref}
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+
+%body
+Es ist wieder an der Zeit den Begriff \enquote{Information} zu
+aktualisieren beziehungsweise einen Bericht zum Status Quo zu liefern.
+Information ist der zentrale Gegenstand der Informationswissenschaft und
+stellt einen der wichtigsten Forschungsgegenstände der Bibliotheks- und
+Informationswissenschaft dar. Erstaunlicherweise findet jedoch ein
+stetiger Diskurs, der mit der kritischen Auseinandersetzung und der
+damit verbundenen Aktualisierung von Konzepten in den
+Geisteswissensschaften vergleichbar ist, zumindest im deutschsprachigen
+Raum\footnote{Siehe dazu
+  \url{http://libreas.eu/ausgabe20/texte/09kaden_kindling_pampel.htm}.}
+nicht konstant statt. Im Sinne einer theoretischen Grundlagenforschung
+und zur Erarbeitung einer gemeinsamen begrifflichen Matrix wäre dies
+aber sicherlich wünschenswert.
+
+Bereits im letzten Jahr erschienen in dem von Søren Brier (Siehe
+\enquote{The foundation of LIS in information science and
+semiotics}\footnote{In: LIBREAS, 4
+  (2006):\url{http://libreas.eu/ausgabe4/001bri.htm}.} sowie
+\enquote{Semiotics in Information Science. An Interview with Søren Brier
+on the application of semiotic theories and the epistemological problem
+of a transdisciplinary Information Science}\footnote{LIBREAS interview,
+  19 (2011):\url{http://libreas.eu/ausgabe19/texte/07treude.htm}.})
+herausgegebenen Journal \enquote{Cybernetics and Human Knowing} acht
+lesenswerte Stellungnahmen von namhaften Philosophen beziehungsweise
+Bibliotheks- und Informationswissenschaftlern zum Begriff der
+Information. Unglücklicherweise ist das Journal \enquote{Cybernetics \&
+Human Knowing} in Deutschland schwer zugänglich, da es sich nicht um ein
+Open-Access-Journal handelt und lediglich von acht deutschen
+Bibliotheken abonniert wird.\footnote{Nämlich von der Staatsbibliothek
+  zu Berlin sowie den Universitätsbibliotheken in Bayreuth, Bielefeld,
+  Friedrichshafen, Hamburg, Köln, Lüneburg und München, siehe
+  Zeitschriftendatenbank:
+  \url{http://dispatch.opac.d-nb.de/DB=1.1/SET=1/TTL=1/SHW?FRST=1\&PRS=HOL}.}
+Aufgrund der schlechten Verfügbarkeit scheint es sinnvoll hier eine
+ausführliche Besprechung dieser acht Kurzartikel anzubieten.
+
+Das Journal, das sich laut Zusatz zum Hauptsachtitel thematisch mit
+\enquote{second order cybernetics, autopoiesis and cyber-semiotics}
+beschäftigt, existiert seit 1992/93 als Druckausgabe. Seit 1998
+(Jahrgang 5, Heft 1) wird es parallel kostenpflichtig elektronisch im
+Paket über den Verlag Imprint Academic in Exeter angeboten. Das Konzept
+Information wird dort aufgrund der Ausrichtung, die man als
+theoretischen Beitrag zu den Digital Humanities (avant la lettre)
+ansehen könnte, regelmäßig behandelt. Insbesondere die phänomenologisch
+und mathematisch fundierte Semiotik von Charles Santiago Sanders Peirce
+taucht in diesem Zusammenhang immer wieder auf. Dabei spielt stets die
+Verbindung zur Praxis, vor allem im Bereich Library- and Information
+Science (LIS), eine große Rolle, die man auch bei Brier selbst, der in
+seinem Hauptwerk \enquote{Cybersemiotics} die Peirceschen
+Zeichenkategorien unter anderem auf die bibliothekarische Tätigkeit des
+Indexierens anwendet,\footnote{Siehe Brier, Søren: Cybersemiotics
+  (2008), 424 ff.} beobachten kann.
+
+Die Ausgabe 1/ 2015 der Zeitschrift fragt nun \enquote{What
+underli\sout{n}es Information?} und beinhaltet unter anderem Artikel zum
+Entwurf einer Philosophie der Information des Chinesen Um Lei Tung ,
+sowie zu Peirce und Spencer Brown. Die acht Kurzartikel zum
+Informationsbegriff in der Bibliotheks- und Informationswissenschaft
+wurden von den Thellefsen-Brüdern (Torkild und Martin) sowie Bent
+Sørensen, die auch selbst gemeinsam einen der Kommentare verfasst haben.
+
+\section*{Acht
+Informationsbegriffe}\label{acht-informationsbegriffe}
+
+Den Anfang macht Luciano Floridi\footnote{Sein Ansatz ist freilich nicht
+  unumstritten, vgl. u.a.
+  \url{http://libreas.tumblr.com/post/101354211366/john-searle-luciano-floridi}.}
+mit seinem Kommentar \enquote{Information -- Reductionist,
+Anti-reductionist and Non-reductionist Approaches}. Floridi ist einer
+der präsentesten und (Social Media) aktivsten zeitgenössischen
+Philiosophen und stellt die Frage \enquote{Was ist Information?} auf
+dieselbe Stufe wie fundamentale Fragen nach dem Sein und der Wahrheit.
+Auf die nach der Information existiere keine triviale Antwort und so,
+seine Hauptthese, können die Antworten in drei Ansätze unterteilt
+werden: \enquote{reductionist, anti-reductionist and non-reductionist}.
+Reduktionistische Zugriffe auf den Informationsbegriff verfolgen die
+Hauptintention, eine einheitliche, für alle Gebiete gleichermaßen valide
+Definition zu erschaffen, eine Unified Theory of Information (UTI).
+Floridi sieht dieses Vorhaben als gescheitert an, was sich seines
+Erachtens in der Tatsache manifestiert, dass diese UTI trotz jahrelangen
+Bestrebungen bis dato nicht existiert. Im deutschsprachigen Raum haben
+sich vor allem Capurro/Fleissner/ Hofkirchner mit dieser Problematik
+auseinandergesetzt und kamen, teilweise aus anderen Gründen, auf
+dasselbe Ergebnis.\footnote{Siehe unter anderem Capurro, Rafael;
+  Fleissner, Peter; Hofkirchner, Wolfgang: Is A Unified Theory of
+  Information Feasible? (1999).} Anti-reduktionistische Ansätze haben
+zusammenfassend hingegen das Problem sich hauptsächlich mit der Negation
+reduktionistischer Ansichten zu beschäftigen. Aus der Ablehnung der
+Shannonschen mathematischen Theorie der Kommunikation als Urquelle des
+Informationsbegriffs sowie der Betonung der Vieldeutigkeit des
+Informationsbegriffs in den jeweiligen Kontexten, resultiert ebenso
+keine Klärung des Informationsbegriffs. Der nicht-reduktionistische
+Ansatz definiert den Informationsbegriff als \enquote{network of
+connected concepts, linked by mutual and dynamic influences that are not
+necessarily genetic or genealogical}, welche \enquote{can be centralized
+in various ways or completely decentralized and perhaps
+multi-centered},\footnote{Floridi (2015), 59.} wobei vor allem die de-
+oder multizentralisierten Ansätze, sich gegen eine UTI beziehungsweise
+die Möglichkeit einer UTI positionieren. Je nach Kontext oder
+Fragestellung kann Information als ``interpretation, power, narrative,
+message or medium, conversation, construction, a
+
+commodity``\footnote{Ebenda.} definiert werden. Information ist in
+diesem Verständnis nicht so sehr auf das Objekt seiner Repräsentation
+bezogen, sondern vielmehr als Medium oder prozesshaftes Element
+anzusehen. Die zentralisierten Ansätze muten noch ätherischer an. Bei
+ihnen liegt der Bezug zur Metaphysik nahe.
+
+Søren Briers Beitrag \enquote{How to Define an Information Concept for a
+Universal Theory of Information?} beginnt mit dem Bezug auf objektive
+Informationsbegriffe wie die Claude Shannons und Norbert Wieners. Diesen
+mangele es an einem intersubjektiven Bezug auf Kommunikation. Sie
+klammern also soziale und kognitive Kontexte aus. In gewohnter Manier
+dekliniert Brier alle von ihm vielzierten Bezugstheoretiker aus dem
+(bio)semiotischen und systemtheoretischen Umfeld durch. Briers Idee ist
+es, \enquote{to develop a theory, which can encompass the living,
+experiencing body and its consciousness's integration with
+communicational networks such as natural and artificial languages in
+humans}.\footnote{Thellefsens/Sørensen (2015), 61.} Information solle
+zunächst, angelehnt an Floridi, \enquote{meaningfulness and
+truthfulness} besitzen, einen Neuigkeitswert (Gregory Bateson)
+aufweisen, der sich prozessual aus dem jeweiligen Kontext ergibt und
+sich nicht nur auf menschliche Kommunikation beziehen, sondern auf alle
+lebenden Systeme. Bezugnehmend auf die Peirce'sche Semiotik sieht Brier
+das Konzept Information als zeichenbasiert an und erweitert es um einen
+biosemiotischen Ansatz, welcher besagt, \enquote{that signs are real
+relational processes manifesting as tokens connecting all living beings
+with each other and with the environment}. Peirces universelles
+Zeichenverständnis, seine Universalkategorien sowie Konzepte wie das des
+Kontinuums machen seinen Ansatz auch in diesem Kontext anwendbar.
+Information ist in den Zeichenprozess (semiosis) zu integrieren
+\enquote{as well as matter/energy if we want a universal concept of
+information}, so Brier in seinem Schlussstatement.
+
+Der Beitrag \enquote{A Semeiotic Account of Information}schließt
+unmittelbar an Brier beziehungsweise an Peirce an. Torkild und Martin
+Thellefsen und Bent Sørensen isolieren für ihre Argumentation zwei
+Dimensionen des Informationsbegriffs: Die ontologische und
+epistemologische. Diese interagieren in der Semiose natürlich
+miteinander und sind somit gleichermaßen vorhanden. Die ontologische
+Dimension bezieht sich auf das Zeichen selbst, wobei die
+epistemologische Sichtweise sich auf die Interpretation bezieht. Das
+Ziel ist es, beide Dimensionen gleichermaßen zu berücksichtigen, vor
+allem, weil, so die These, im Bereich der LIS die ontologische
+Auffassung des Informationsbegriffs vernachlässigt wird. Dies gelingt,
+wie bei Brier, mit der Bezugnahme auf das Peircesche Œuvre, speziell auf
+seine Sichtweise des \enquote{universe as a whole {[}\ldots{}{]}
+{[}as{]} an argument (or type of sign) (CP 1.119)},\footnote{Ebd., 63.}
+sein Kontinuitätskonzept und seine sehr positive Annahme, dass die Welt
+verstehbar sei. Die Schlüsselelemente im Prozess des Verstehens seien
+\enquote{information, emotion and knowledge}.\footnote{Ebd., 64.}
+Information wird zunächst emotional erfasst und anschließend durch einen
+kognitiven Prozess mit vorhandenem Wissen kontextualisiert, wobei sie
+potentiell zu neuem Wissen führen kann. Bedeutung wird also erzeugt,
+indem ein Objekt zunächst emotional als Wahrnehmen eines unspezifischen
+Punktes am Horizont erfasst wird, so deren Beispiel. Im nächsten Schritt
+werden spezifische Eigenschaften des Punktes erkennbar und dieser
+beispielsweise als Hund identifiziert. Schlussendlich überwiegt das
+\enquote{knowledge dominant level},\footnote{Ebd., 66.} bei dem der
+kognitive Prozess des Erkennens und der Informationsverarbeitung
+abgeschlossen ist und der Hund als Nachbarhund Jake erkannt wird. Der
+hier dargestellte Prozess, der Kognition, Emotionen einbezieht, könne
+nun auch für den Bereich LIS fruchtbar sein, da er sowohl die
+epistemologische als auch die ontologische Ebene des
+Informationsbegriffes berücksichtigt.
+
+Birger Hjørland setzt am Dokumentbegriff an, da die LIS nach seiner
+Lesart aus der Dokumentation entstand. Der Titel \enquote{The Concept of
+Information -- Again and Again} impliziert eine gewisse Redundanz dieses
+Themas und Hjørland beantwortet in seinem kurzen Beitrag auch die
+Sinnfrage des ewigen Fragens. Einmal sei die LIS laut Jonathan Furner
+(2004) \enquote{to be able to do so very well without the concept of
+information}.\footnote{Hjørland (2015), 68.} Eine Konzeptdefinition
+sollte daher immer anwendungsbezogen und zielgreichtet sein. Hjørland
+positioniert sich dann aber doch noch als Verfechter eines
+(inter)subjektiven Informationsbegriffs, der das Prozesshafte, das
+Sich-Informieren und den sozialen Kontext mitdenkt. Aus dieser
+Sichtweise , die unter anderem Fritz Machlup, Gregory Bateson und Per
+Hasle vertreten, resultieren 6 Implikationen\footnote{Ebd., 68f.}:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \enquote{Anything can be informative/information}, woraus sich das
+  amüsante Paradox ableiten lässt, dass Informationsspezialisten daher
+  Spezialisten für Alles seien, jedoch ein Spezialist für alles
+  letztendlich kein Spezialist mehr ist und somit
+  Informationsspezialisten Spezialisten für Nichts seien.
+\item
+  \enquote{{[}I{]}nformation is a relational concept}, welches den Zweck
+  und die Perspektive für den Rezipienten berücksichten müsse.
+\item
+  \enquote{The specification of information {[}\ldots{}{]} must be
+  relative to the context and purpose} des Informationssystems.
+\item
+  \enquote{{[}P{]}otential possibilities in documents (and relevance of
+  documents)} im Kontext der jeweiligen Fragestellung innerhalb einer
+  Wissenschaft sind relevanter als der reine Dokumentinhalt.
+\item
+  \enquote{Information science is a meta-field}, welches andere Diskurse
+  verfolgen und berücksichtigen solle.
+\item
+  Aus 5 folgt die Fähigkeit zu \enquote{information criticism and
+  knowledge criticism}, die Informationswissenschaftler gerade bei
+  innerhalb verschiedener Disziplinen umstrittenen Fragestellungen und
+  in Ermangelung einer neutralen Instanz besitzen und pflegen sollen.
+\end{enumerate}
+
+Es folgt mit Brenda Dervin die einzige Frau dieser Runde, die in
+\enquote{Information as Verb: An Information Concept} ein
+interpretatives Paradox postuliert. Bei der Definition von Konzepten
+träte das unlösbare Problem auf, dass man sich Sprache und Symbolen
+bediene, die stets von dem eigentlichen Objekt entfernt sind, was zu
+einem \enquote{ever-present interpretive paradox}\footnote{Dervin
+  (2015), 70.} führt. Diese interpretativen Differenzen können sich
+neben der Sprache-Objekt-Differenz auf eine \enquote{time-space-context
+discrepancy}\footnote{Ebenda.} oder
+
+\enquote{phenomenological, psychological, cultural and/or experiential
+differences}\footnote{Ebd., 71.} beziehen. Dervin Lösung ist die
+Ververbung des Informationsbegriffes, also die Ververbung des
+Informationsbegriffes in ein \enquote{informationing},\footnote{Ebenda.}
+welches den kulturellen, sozialen und kognitiven Kontext mit einbezieht
+und durch seinen Verweis auf die Tätigkeit seine Relativität betont. Der
+Enstehungskontext, die Autorinnen-Person sowie der
+Interpretationskontext schieben sich vor Objektivierungs- und
+Vereinheitlichungsbestrebungen. Den Begriff Information ersetzt sie von
+nun an mit der Plural-Verb-Konstruktion \enquote{informationings}, die
+auch auf andere Konzepte wie Kultur, Geschichte anwendbar sind
+(\enquote{culturings, historyings}\footnote{Ebenda.}). Diese Aktivierung
+des Informationsbegriffs hätte, so ihre These, vor allem eine
+Disziplinierung der Kommunikation zur Folge.
+
+Ken Herold bezieht sich in seiner Begriffsdefinition auf das Verhältnis
+von Wahrnehmung und Intuition. In seinem Kommentar \enquote{Intuiting
+Information} geht er von Elijah Chudnoffs Thesen zum Verhältnis dieser
+Konzepte aus. Alan Turings Schriften zur Nützlichkeit von Intuition im
+Bereich Computertechnologie bilden den Ausgangspunkt, da diese auch auf
+den Informationsbegriff anzuwenden seien. In einem sehr
+naturwissenschaftlichen Stil reiht er nummerierte Kurzthesen zu
+verschiedenen, mit Buchstaben gekennzeichneten Themenblöcken aneinander.
+Auf der dritten Seite seines Kommentar folgen schließlich Thesen zum
+Informationsbegriff, die er aus den oben genannten Konzepten ableitet
+und mit Descartes Zeitbegriff sowie mit Floridis Informationsbegriff
+kontextualisiert. Demnach besäße Information einen repräsentativen
+Charakter (\enquote{(I2) Information experiences possess (replacement)
+presentational phenomenology}\footnote{Herold (2015), 73.}) und,
+angelehnt an Floridi, eine semantische Ebene.
+
+Per Hasle klärt den Informationsbegriff in seinem Beitrag
+\enquote{Information as Representation or as Rhetoric} weitestgehend mit
+Wittgenstein. Die Auffassung, dass Sprache die Realität repräsentiert,
+findet sich im Tractatus und spiegelt sich in der Praxis des Indexierens
+wieder, bei der ebenso angenommen wird, \enquote{that information is
+some kind of object and that the representation system is neutral, at
+least ideally}\footnote{Hasle (2015), 75.}, was bei der Organisation von
+Wissen, vor allem der Auffindbarkeit und Verfügbarmachung von Wissen
+eine sehr zielführende Sichtweise ist. Der späte Wittgenstein wendet nun
+ein, dass Sprache jedoch weit davon entfernt ist, neutral zu sein. Hasle
+weist diese Nichtneutralität der Sprache überzeugend am Beispiel der
+Rhetorik nach, in der Sprache immer etwas will, also von Motivation des
+Sprechenden geleitet ist. Für den Bibliothekskontext bedeutet das nun,
+dass die Verbreitung von Information und Wissen \enquote{not a
+transmission, but a dialogue}\footnote{Hasle (2015), 76.} ist.
+
+Michael Buckland plädiert in seinem Beitrag \enquote{Information
+Suspect} für ein Mißtrauen oder, milder ausgedrückt, eine gesteigerte
+Aufmerksamkeit gegenüber der Verwendung des Informationsbegriffs, da
+einerseits die Beziehung von Objekt und Sprache, aber auch sprachliche
+Unklarheiten generell zu berücksichtigen sind. Die Bezeichnungen eines
+Phänomens sollen sich, so Buckland, nur auf ihren jeweiligen Kontext
+beziehen. Diese Vorgehensweise, die Eigenschaften eines Phänomens zu
+betrachten und zu beschreiben und daraufhin den passenden Term zu
+wählen, gelten gleichermaßen für den Begriff Information. In einigen
+Kontexten sei es angemessener \enquote{{[}to{]} use some other more
+precise word or phrase (such as data, document, or knowledge
+imparted).}\footnote{Buckland (2015), 77.} Buckland lehnt zudem die
+Sichtweise, Information habe wahr zu sein, ab und sieht Ansätze, die die
+gesamte physische Welt als Information ansehen als nicht zielführend an.
+
+\section*{Zusammenfassung}\label{zusammenfassung}
+
+In Bezug auf die Definition des Informationsbegriffs changieren die
+Positionen der Autoren und der Autorin zwischen
+
+\begin{itemize}
+\item
+  dem Willen nach einem (einheitlichen) Konzept,
+\item
+  der Notwendigkeit eines anwendbaren Konzeptes
+\item
+  der Infragestellung der Notwendigkeit, der Anerkennung der
+  Unmöglichkeit oder der Ablehnung eines (einheitlichen)
+  Informationsbegriffs
+\end{itemize}
+
+Die Herausgeber dieser Sammlung unterteilen die Kommentare in
+\enquote{systems-oriented}, \enquote{use-oriented} und
+\enquote{domain-oriented perspective}, die alle parallel sowie ebenso
+als Mischformen im Bereich der LIS koexistieren. Die Überschrift
+\enquote{A Field in Search of Its Boundaries} ist sehr treffend, da in
+jedem Beitrag die Grenzen des Informationsbegriffes ausgelotet und
+abgesteckt werden und dieser auf diese Art greifbarer und somit
+anwendbarer wird.
+
+Der Informationsbegriff wird bei fast allen Autoren auf das Phänomen der
+Sprache beziehungsweise die Zeichenebene bezogen und zu seiner Anwendung
+in Beziehung gesetzt. Dieser Bezug zum (geschriebenen) Wort liegt im
+Bereich LIS nahe. Die Objekte sind oftmals Bücher oder Textdokumente und
+die LIS beschäftigt sich mit der meistens sprach- beziehungsweise
+schriftbasierten Verfügbarmachung von Wissen. Als Unterscheidungsmerkmal
+zwischen den einzelnen Kommentaren kann der Grad an Pragmatismus
+fungieren, also als wie kontextabhängig das Konzept
+\enquote{Information} angesehen wird und ob ein Objektivitätsanspruch
+des jeweilige Informationsbegriffes vorliegt. Die ontologische
+Informationsauffassung, bei der Informationen objektiv die Realität
+repräsentieren, wird jeweils um eine soziale, kognitive und
+kommunikative Dimension erweitert.
+
+Die Repräsentation funktioniert nur durch Relation, also durch
+Kontextualisierung und diese ist prozessual, also ein aktiver Vorgang.
+Die Prozesshaftigkeit und Relationalität kann durch Peircesche
+Endlos-Semiose oder durch die Ververblichung der Information
+(\enquote{informationings}) verdeutlicht werden. Die
+Kommunikationssituation kann in diesem Sinne über menschliche
+Kommunikation hinaus gedacht werden. So wird die ganze Welt als Argument
+lesbar.
+
+\section*{Referenzen}\label{referenzen}
+
+Brier, Søren (2008): Cybersemiotics. Why Information Is Not Enough!
+Toronto Studies in Semiotics and Communication. Toronto : Univ. of
+Toronto Press.
+
+Brier; Søren (2006): The foundation of LIS in information science and
+semiotics. In: LIBREAS. Library Ideas, 4:
+\url{http://libreas.eu/ausgabe4/001bri.htm}.
+
+Capurro, Rafael; Fleissner, Peter; Hofkirchner, Wolfgang (1999): Is A
+Unified Theory of Information Feasible? In: Hofkirchner, Wolfgang
+(Hrsg.): The Quest for a Unified Theory of Information. Proceedings of
+the Second Conference on the Foundations of Information Science.
+Amsterdam etc. : Gordon\&Breach, 9-30.
+
+Kaden, Ben; Kindling, Maxi; Pampel, Heinz (2012) : Stand der
+Informationswissenschaft 2011. In: LIBREAS. Library Ideas, 20:
+\url{http://libreas.eu/ausgabe20/texte/09kaden_kindling_pampel.htm}.
+
+LIBREAS (2014): Luciano Floridis \enquote{4th Revolution} hat ein
+Bewusstseinsproblem. Meint John Searle.
+\url{http://libreas.tumblr.com/post/101354211366/john-searle-luciano-floridi}
+Zu: John R. Searle (2014) What Your Computer Can't Know. In: New York
+Review of Books. October 9-22. 2014 Vol. LXI, Number 15.
+\url{http://www.nybooks.com/articles/2014/10/09/what-your-computer-cant-know/}
+
+Peirce, Charles S. (1903): Lowell Lectures on Logic, CP 1.119.
+
+Treude, Linda (2011): LIBREAS interview: Semiotics in Information
+Science. An Interview with Søren Brier on the application of semiotic
+theories and the epistemological problem of a transdisciplinary
+Information Science``. \emph{LIBREAS. Library Ideas}, 19:
+\url{http://libreas.eu/ausgabe19/texte/07treude.htm}.
+
+%autor
+
+\end{document}

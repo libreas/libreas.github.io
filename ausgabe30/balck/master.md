@@ -10,7 +10,7 @@ Bereiche sollte eine intensivere Bearbeitung wissenschaftlicher
 Fragestellungen ermöglicht werden. Disziplinen bildeten sich um
 Gegenstandsbereiche und Problemstellungen herum und prägten so *"\[…\]
 die kognitive Schematisierung der Wirklichkeit \[…\]."* (Stichweh 1994,
-S. 19)
+S. 19).
 
 In der Wissenschaftsforschung bestehen unterschiedlichste Konzepte zur
 Auslegung des Begriffs *Disziplin*. Besonders im x-disziplinären Diskurs
