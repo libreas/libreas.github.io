@@ -1922,11 +1922,15 @@
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe30/freyberg/</loc>
-        <lastmod>2016-12-23T08:29:54+01:00</lastmod>
+        <lastmod>2016-12-23T12:06:47+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe30/freyberg/meta.yaml</loc>
         <lastmod>2016-12-23T08:29:54+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://libreas.eu/ausgabe30/freyberg/vita.html</loc>
+        <lastmod>2016-12-23T12:05:18+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe30/hartsch/</loc>
@@ -1982,7 +1986,7 @@
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe30/schuldt/</loc>
-        <lastmod>2016-12-23T08:29:54+01:00</lastmod>
+        <lastmod>2016-12-23T12:02:12+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe30/schuldt/meta.yaml</loc>
@@ -1990,7 +1994,7 @@
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe30/schuldt/vita.html</loc>
-        <lastmod>2016-12-22T20:30:12+01:00</lastmod>
+        <lastmod>2016-12-23T12:01:47+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe30/steinhauer/</loc>
