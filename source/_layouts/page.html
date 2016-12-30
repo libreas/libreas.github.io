@@ -31,6 +31,9 @@ layout: default
 {% elsif page.issue == "29" %}
 <strong> > > > <a href="/ausgabe29/inhalt/">{{ page.journal }} # {{ page.issue}}</a></strong> <br><br>
 </div>
+{% elsif page.issue == "30" %}
+<strong> > > > <a href="/ausgabe30/inhalt/">{{ page.journal }} # {{ page.issue}}</a></strong> <br><br>
+</div>
 
 {% else %}
 <strong> > > > <a href="inhalt.htm">{{ page.journal }} # {{ page.issue}}</a></strong> <br><br>
@@ -39,6 +42,13 @@ layout: default
 {% else %}
 <article class="page">
     {% endif %}
+
+    {% if page.issue == "30" %}
+    <div align="right">
+    <p><small><a itemprop="sameAs" href="https://via.hypothes.is/{{ site.url }}{{ page.url | remove:'index.html' }}">Annotate via hypthes.is</a></small></p>
+    </div>
+    {% endif %}
+
 
     {% if page.urn %}
     <div align="right">
