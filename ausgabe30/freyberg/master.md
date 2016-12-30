@@ -83,8 +83,7 @@ decentralized and perhaps multi-centered",[^8] wobei vor allem die de-
 oder multizentralisierten Ansätze, sich gegen eine UTI beziehungsweise
 die Möglichkeit einer UTI positionieren. Je nach Kontext oder
 Fragestellung kann Information als "interpretation, power, narrative,
-message or medium, conversation, construction, a
-
+message or medium, conversation, construction, a 
 commodity"[^9] definiert werden. Information ist in diesem Verständnis
 nicht so sehr auf das Objekt seiner Repräsentation bezogen, sondern
 vielmehr als Medium oder prozesshaftes Element anzusehen. Die
@@ -192,7 +191,6 @@ dem eigentlichen Objekt entfernt sind, was zu einem "ever-present
 interpretive paradox"[^16] führt. Diese interpretativen Differenzen
 können sich neben der Sprache-Objekt-Differenz auf eine
 "time-space-context discrepancy"[^17] oder
-
 "phenomenological, psychological, cultural and/or experiential
 differences"[^18] beziehen. Dervin Lösung ist die Ververbung des
 Informationsbegriffes, also die Ververbung des Informationsbegriffes in
