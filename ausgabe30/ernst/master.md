@@ -474,7 +474,7 @@ ausschließliche Nutzungsrecht einräumen zu lassen, das trotz des neu
 eingeführten Zweitveröffentlichungsrecht für die oben genannten
 spezifischen Fälle noch immer für die Mehrheit aller wissenschaftlichen
 Aufsätze gelten würde. Für diese Fälle haben der Börsenverein des
-deutschen Buchhandels und der DHV im Jahre 2000 gemeinsam Vertragsnormen
+deutschen Buchhandels und der Deutsche Hochschulverband im Jahre 2000 gemeinsam Vertragsnormen
 für wissenschaftliche Werke vorgelegt, die einseitig zu Gunsten der
 Verlage geklärt werden, wie Krujatz 2012 betont: Diese Vertragsnormen
 "sehen in der Regel eine ausschließliche Nutzungsrechtseinräumung vor,
@@ -563,7 +563,7 @@ Geisteswissenschaften. In den letzten Dekaden sorgte die Digitalisierung
 für eine enorme Beschleunigung und Intensivierung der
 Wissenschaftskommunikation. Zudem haben sich in den letzten anderthalb
 Dekaden verschiedene digitale Veröffentlichungsformen in der
-Wissenschaft differenziert und etabliert. Während noch 2002 Manifeste
+Wissenschaft differenziert und etabliert. Während noch im Jahr 2002 Manifeste
 für die Open Science eher wissenschaftspolitische Forderungen
 aufstellten, firmieren Open Scholarship und Open Access inzwischen als
 Standards für viele Forschungspraxen.
@@ -598,7 +598,7 @@ Verhandlungen zwischen den WissenschaftlerInnen und ihrem jeweiligen
 Verlag. Eine Stichprobe zeigte, dass geistes- und
 gesellschaftswissenschaftliche Verlage überraschend permissiv auf die
 Bitte reagieren, WissenschaftlerInnen das Zweitveröffentlichungsrecht an
-ihren Aufsätzen zuzugestehen, selbst wenn die Verlage vertragliche das
+ihren Aufsätzen zuzugestehen, selbst wenn die Verlage vertraglich das
 ausschließliche Nutzungsrecht besitzen.
 
 Vilém Flusser sah bereits 1987 die digitalen Codes in einem intensiven
@@ -868,7 +868,7 @@ Fink 2016, S. 653-667.*[^61]
     [*http://irights-lab.de/assets/Uploads/Documents/Publications/zweitveroeffentlichungsrecht-20150425.pdf*](http://irights-lab.de/assets/Uploads/Documents/Publications/zweitveroeffentlichungsrecht-20150425.pdf)
     \[Stand: 11.11.2016\].
 
-[^54]: Reto Mantz: Open Access-Lizenzen und Rechtsübertragung bei Open
+[^54]: Reto Mantz: Open Access-Lizenzen und Rechtsübertragung bei Open
     Access-Werken. In: Gerald Spindler (Hg.): Rechtliche
     Rahmenbedingungen von Open Access-Publikationen, Göttinger Schriften
     zur Internetforschung. Band 2. Göttingen: Universitätsverlag 2006,

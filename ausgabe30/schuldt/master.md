@@ -55,7 +55,7 @@ Digital Humanities ein – aber nur auf einige, was den Eindruck
 hinterlässt, dass sie auf andere Kritiken nicht antworten will – und
 widerspricht diesen. Insbesondere postuliert sie, dass diese Projekte
 nicht im Übermass Forschungsgelder für Infrastrukturprojekte binden
-würden, die ansonsten in anderer geisteswissenschaftlicher Forschung
+würde, die ansonsten in anderer geisteswissenschaftlicher Forschung
 eingesetzt würde, sondern dass Forschungsgelder in den gesamten
 Humanities immer zu wenig und deshalb umkämpft sind.
 

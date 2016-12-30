@@ -703,7 +703,7 @@ digitalen Medien selbst:
 > "Die Unterscheidung zwischen diskursiver und präsentativer Symbolik
 > eignet sich dazu, auch den Bedeutungsgehalt Digitaler Medien zu
 > bestimmen. \[…\] Digitale Medien präsentieren sich als
-> 'Bedeutungsmischlinge‛ \[…\]. Die diskursive Symbolik Digitaler Medien
+> 'Bedeutungsmischlinge' \[…\]. Die diskursive Symbolik Digitaler Medien
 > zeigt sich in Form von Algorithmen \[…\]. Auf eine präsentative
 > Symbolik trifft man in Gestalt von Internetauftritten und Websites
 > \[…\]. Wenn sich der Bedeutungsinhalt Digitaler Medien aus diskursiven
@@ -1644,9 +1644,9 @@ Frage.
 
 Der Einstieg in die Notwendigkeit digitaler Forschungsmethoden erfolgt
 häufig mit dem Gemeinplatz von der Überfülle computervermittelter
-Wissensobjekte ‒ in Reichweite der Fingerspitzen. David M. Berry (2012)
+Wissensobjekte -- in Reichweite der Fingerspitzen. David M. Berry (2012)
 in einem grundlegenden Werk zum Verständnis der Digital Humanities (DH):
-"This new infinite archive \[…\] at the researcher’s fingertips. \[…\]
+"This new infinite archive \[…\] at the researcher's fingertips. \[…\]
 It is now quite clear that historians will have to grapple with
 abundance, not with scarcity."[^189]
 
@@ -2029,7 +2029,7 @@ einen befremdlichen Blick auf Klaus Ceynowas "haptische Manipulation von
 
 Trotzdem meint eben dieser Autor einige Monate später (März 2016):
 "Zunächst ist festzuhalten: Das Buchzeitalter will nicht vergehen. \[…\]
-Die oft bedrohlich als 'Disruption‛ beschriebene digitale Transformation
+Die oft bedrohlich als 'Disruption' beschriebene digitale Transformation
 ist weitgehend vollzogen, ohne dass dies den Tod des Gedruckten bedeutet
 hätte".[^232]
 
@@ -2309,7 +2309,7 @@ Erde hienieden zurückfallen könnten.
  **Frühwald**, Wolfgang (2011) Gutenbergs Galaxis oder Von der
  Wandlungsfähigkeit des Buches. In: Zintzen, Clemens (Hg., 2011) Die
  Zukunft des Buches. S. 9-21.
-
+ 
  **Füssel**, Stephan (Hg.) Medienkonvergenz – transdisziplinär. Berlin
  : de Gruyter, 2012.
 

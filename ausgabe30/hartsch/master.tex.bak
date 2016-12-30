@@ -19,7 +19,7 @@ final
 \usepackage[utf8x]{inputenc}
 \usepackage [hyphens]{url}
 \usepackage{booktabs} 
-\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,headheight=25.60228pt,includeheadfoot]{geometry}
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
 \usepackage{eurosym}
 \usepackage{multirow}
 \usepackage[ngerman]{varioref}
@@ -34,12 +34,8 @@ final
 \usepackage[babel]{csquotes}
 \usepackage{longtable,lscape}
 \usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
 \usepackage[flushmargin,ragged]{footmisc} % left align footnote
-
-%%url brekas grrr
-\def\UrlBreaks{\do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j\do\k\do\l%
-\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t\do\u\do\v\do\w\do\x\do\y\do\z\do\0%
-\do\1\do\2\do\3\do\4\do\5\do\6\do\7\do\8\do\9\do\-}%
 
 \usepackage{listings}
 
@@ -48,15 +44,6 @@ final
 \usepackage[fleqn]{amsmath}
 
 %adjust fontsize for part
-
-%% geometry
-\clubpenalty = 10000 
-\widowpenalty = 10000 
-\displaywidowpenalty = 10000
-%% tightlist
-
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
 \usepackage{sectsty}
 \partfont{\large}
@@ -166,7 +153,7 @@ Modernisierung verbinden sich zudem mit einer Vorwegnahme des
 vermeintlich Kommenden, wie sie Uwe Jochum (2007) in seiner
 \enquote{Kleinen Bibliotheksgeschichte}, zu recht kritisch,
 vermerkt\footnote{Vgl. Jochum, Uwe (2007), Kleine Bibliotheksgeschichte.
-  3. Aufl., S. 222.}. Sie spuke schon seit den 1970er Jahren als
+  3. Aufl., S. 222.}. Sie spuke schon seit den 70er Jahren als
 implizites Telos\footnote{Für die geschichtsphilosophische
   Unerläßlichkeit der Zukunftsoffenheit siehe Hölscher, Lucian (2009)
   Semantik der Leere. Grenzfragen der Geschichtswissenschaft.} durch die
@@ -203,7 +190,7 @@ Nachdenken über ein Phänomen, das zu einer Art von unauffälligem
 Residuat im steten Wandel ohne Aufmerksamkeitspotential geworden ist,
 das Hybridkonzept, kein leichtes Unterfangen, aber vielleicht ein
 durchaus notwendiges darstellt. Dabei hat ein weitgreifendes Verständnis
-des Hybridbegriffs durchaus das Potenzial, umfassend alle Formen und
+des Hybridbegriffs durchaus das Potential, umfassend alle Formen und
 Begegnungsräume analoger Herkunftswelten mit Digitalisierung abzudecken
 und die Normalität ihrer symbiotischen Beziehung aufzuzeigen.
 
@@ -212,12 +199,12 @@ aktuellen Diskussionsstandes zum digitalen Wandel herauszuarbeiten und
 argumentativ zu untermauern, ist der Fokus und gleichzeitig die
 Beschränkung dieses Versuches einer Diskursanalyse.
 
-\subsubsection{Vorüberlegungen}\label{voruxfcberlegungen}
+\section*{Vorüberlegungen}\label{voruxfcberlegungen}
 
 Ausgangspunkt der Erkundungen ist der Typ der wissenschaftlichen
 Bibliothek im Bereich der Geistes- und Kulturwissenschaften. Der Fokus
-der Überlegungen liegt auf diesem Bibliothekstyp. Allgemeine Aussagen zu
-der Bibliothek als solcher, als kultureller Institution werden nur
+der Überlegungen liegt auf diesem Bibliothekstyp. Allgemeine Aussagen
+zur Bibliothek als solcher, als kultureller Institution werden nur
 vereinzelt getroffen. Eine mangelnde Zielansprache des Bibliothekstyps
 widerfährt oft in Fachbeiträgen, sei es, dass gar nicht präzisiert wird,
 von welchem Bibliothekstyp gesprochen wird, sei es, dass je nach
@@ -360,7 +347,7 @@ kollaborative Schreibprozesse,\footnote{Vgl. dazu Krameritsch, Jakob
 Wissensgenerierung qua Lesen soll in den Blick kommen in ihrer starken
 Abhängigkeit von medialen und räumlichen Bedingungen.
 
-\subsubsection{Systemische Rahmenbedingungen hybrider
+\section*{Systemische Rahmenbedingungen hybrider
 Begegnungsräume}\label{systemische-rahmenbedingungen-hybrider-begegnungsruxe4ume}
 
 Hartmut Rosa (2005) lieferte in seiner wichtigen
@@ -371,7 +358,7 @@ Habilitationsschrift\footnote{Rosa, Hartmut (2005) Beschleunigung.
   18-39. Siehe Bibliographie.} eine sehr umfassende zeitsoziologische
 Untersuchung des oben erwähnten \enquote{Akzelerationismus}\footnote{Vgl.
   weiter oben die Einleitung S. 1, Fußnote 3.}, für den auch er die
-Digitalisierung als gravierenden Beschleunigungsimpuls seit den 90-er
+Digitalisierung als gravierenden Beschleunigungsimpuls seit den 90er
 Jahren ausmacht:
 
 \begin{quote}
@@ -615,7 +602,7 @@ Informationsflut, dem Overload der Informationskanäle, der
 \enquote{Konfrontation mit beständiger Überkomplexität}\footnote{Gumbrecht,
   Hans-Ulrich (2014), FAZ vom 11.03.2014, Nr. 59, S. 14.} vermuten.
 
-Tim Cole (2015, Internetexpert) bilanziert die aktuelle Situation:
+Tim Cole (2015, Internetexperte) bilanziert die aktuelle Situation:
 
 \begin{quote}
 \enquote{Wenn sich {[}\ldots{}{]} das, was wir \enquote{Wirklichkeit}
@@ -671,7 +658,7 @@ Jahrzehnten mit einigen \emph{turns}\footnote{Eine Aufzählung der
   das Handbuch Archiv, hg. von Marcel Lepper et al. 2016, S. 21f. Ein
   \emph{library}- oder \emph{bibliological turn} oder ähnliches konnte
   nicht gesichtet werden.} konfrontiert waren, haben wir es nun mit dem
-d\emph{igital turn} zu tun, auch wenn es noch reichlich unklar ist, was
+\emph{digital turn} zu tun, auch wenn es noch reichlich unklar ist, was
 man sich darunter vorstellen soll.}\footnote{Hagner, Michael ; Hirschi,
   Caspar (2013) Editorial. In: Nach Feierabend 2013 (9), S. 7. Der
   \emph{digital turn} scheint jedoch bereits abgelöst durch \enquote{The
@@ -728,7 +715,7 @@ digitaler Medien im Rahmen eines umfassenden Hybridansatzes gegenüber
 der Flut der Literatur ein Selektionskriterium zu finden, bietet sich
 die Lebenswirklichkeit und Empirie der Autoren selbst gegenüber der
 elektronischen Vernetzungstechnologie als valides Kriterium an. Diese
-Empirie ist vor Mitte der 1990er Jahre eine andere und mit Rücksicht auf
+Empirie ist vor Mitte der 90er Jahre eine andere und mit Rücksicht auf
 die Innovationsdynamik der Computertechnologie 2015/2016 nochmals
 dramatisch anders.
 
@@ -754,9 +741,9 @@ stimmen werde, im abstrakten Sinn.}\footnote{Groebner, Valentin (2014),
 \end{quote}
 
 Es ist demnach wenig sinnvoll, weiter als bis zu der breitenwirksamen
-Phase des Internets Mitte der 90-iger Jahre zurückzuschauen.
+Phase des Internets Mitte der 90er Jahre zurückzuschauen.
 
-\subsubsection{\texorpdfstring{Dauerkonzept
+\section*{\texorpdfstring{Dauerkonzept
 \enquote{Hybridbibliothek}?}{Dauerkonzept Hybridbibliothek?}}\label{dauerkonzept-hybridbibliothek}
 
 Evoziert wurde ein kontinuierlicher Druck zur Positionierung gegenüber
@@ -831,11 +818,11 @@ Notwendigkeit einer Neupositionierung: \enquote{{[}\ldots{}{]} eine
 nachhaltige Informationsinfrastruktur war noch nie so nötig wie
 jetzt!}\footnote{Mittler, Elmar (2014), Nachhaltige Infrastruktur. In:
   BFP 2014 (38),3: S. 364.}, konstatiert Elmar Mittler (2014), der
-selber seit den 70-er Jahren des letzten Jahrhunderts an eben dieser
+selber seit den 70er Jahren des letzten Jahrhunderts an eben dieser
 Infrastruktur maßgeblich mit konstruiert hat.
 
 Wenn diese Infrastruktur sich je etabliert hatte, wie hoch war ihre
-Halbwert-, besser Verfallszeit, wenn jetzt erneut \enquote{nachhaltige
+Halbwerts-, besser Verfallszeit, wenn jetzt erneut \enquote{nachhaltige
 Infrastruktur} notwendig ist wie nie? Und was wäre unter
 \enquote{Nachhaltigkeit} in einem Kontext ständigen Wandels zu
 verstehen? Welche Bestände gälte es zu bewahren? Welche
@@ -874,8 +861,8 @@ Begrifflichkeit, mit der Bibliotheken ihre Positionierung zwischen der
   Ausführungen als Zeichen der Verunsicherung gelesen werden.} benennen
 könnten. Ein besonderer Akzent liegt dabei oft auf dem Evolutiven, damit
 aber auch auf dem bereits zitierten Telos dieser intermediären
-Standortbestimmungen. Denn sind Bibliotheken zu 100\% digital (mit oder
-ohne eigenen \enquote{Standort}), heißen sie ohne Anführungszeichen
+Standortbestimmungen. Denn sind Bibliotheken zu 100 Prozent digital (mit
+oder ohne eigenen \enquote{Standort}), heißen sie ohne Anführungszeichen
 Virtuelle Bibliothek, E-Bibliothek oder Digitale Bibliothek.
 
 Als Benennung von etwas Intermediärem hat sich die Bezeichnung der
@@ -897,18 +884,19 @@ and Information Science in San Jose, CA, USA, 1996.\footnote{Sutton,
 der traditionellen hin zur digitalen Bibliothek als unumgänglich dar:
 \enquote{The figure denotes four types of libraries on a continuum
 running from the traditional to the digital.}\footnote{Ebd., S. 129.}
-Die vier Entwicklungsstufen \enquote{traditionell},
-\enquote{automatisiert}, \enquote{hybrid} und \enquote{digital} werden
-von ihm jeweils kurz skizziert. \enquote{Type III The Hybrid Library}
-ist für Sutton ganz Übergang: \enquote{{[}\ldots{}{]} the balance of
-print and digital meta-information leans increasingly toward the
-digital.}\footnote{Ebd., S. 136.} Die Endstation \enquote{Digital
-Library} hat die beunruhigenden Charakteristika des Virtuellen:
-\enquote{With Type IV {[}Digital Library{]}, we arrive at the library as
-logical entity. It is the library without walls -- the library that does
-not collect tangible information bearing entities but instead provides
-intermediated, geographically unconstrained access to distributed,
-networked digital information.}\footnote{Ebd., S. 138.}
+Die vier Entwicklungsstufen
+\enquote{traditionell},\enquote{automatisiert}, \enquote{hybrid} und
+\enquote{digital} werden von ihm jeweils kurz skizziert. \enquote{Type
+III The Hybrid Library} ist für Sutton ganz Übergang:
+\enquote{{[}\ldots{}{]} the balance of print and digital
+meta-information leans increasingly toward the digital.}\footnote{Ebd.,
+  S. 136.} Die Endstation \enquote{Digital Library} hat die
+beunruhigenden Charakteristika des Virtuellen: \enquote{With Type IV
+{[}Digital Library{]}, we arrive at the library as logical entity. It is
+the library without walls -- the library that does not collect tangible
+information bearing entities but instead provides intermediated,
+geographically unconstrained access to distributed, networked digital
+information.}\footnote{Ebd., S. 138.}
 
 Charles Oppenheim und Daniel Smithson (1999), beide Department of
 Information Science, Loughborough University, UK, sind etwas moderater
@@ -981,7 +969,7 @@ und Konzept der Hybridbibliothek erneut ausdrücklich hingewiesen werden,
 auf ihr Verstetigungspotential, ihre Tragfähigkeit, wenn nicht sogar
 Notwendigkeit für geisteswissenschaftliche Bibliotheken.
 
-\subsubsection{\texorpdfstring{Zur Bezeichnung
+\section*{\texorpdfstring{Zur Bezeichnung
 \enquote{Hybridbibliothek}}{Zur Bezeichnung Hybridbibliothek}}\label{zur-bezeichnung-hybridbibliothek}
 
 Rainer Kuhlen (2002) hielt \enquote{Hybridbibliothek} für eine
@@ -1091,7 +1079,7 @@ allmählich ins Hintertreffen zu geraten drohe,\footnote{Vgl. Haber,
   historiographischer Betriebsausflug. S. 11.} was Verdrängungsszenarien
 Nahrung gäbe.
 
-Die eher unglückliche Suche nach einer neuen Benennungen für eine
+Die eher unglückliche Suche nach einer neuen Benennung für eine
 Traditionseinrichtung, die technikaffin, modern und medienintegrativ
 auch das Aufkommen angeblich \enquote{körperloser} Medien begleitet,
 zeigt die weiter oben bereits vermutete Unsicherheit im
@@ -1100,23 +1088,23 @@ dauerhafte physische Institutionen, denen Hybridität,
 \enquote{Mischverhältnisse}, genuin aneignet.
 
 Wie unglücklich eine Merkmalshervorhebung mittels des Begriffes
-\enquote{Hybrid} für Bibliotheken in multimedialen Zeiten ist, wird
+\enquote{hybrid} für Bibliotheken in multimedialen Zeiten ist, wird
 deutlich in den kommunikationstheoretischen Überlegungen von Christina
 Schachtner und Nicole Duller (2014). Die Autorinnen verwenden den
 Begriff gerade nicht zur Charakterisierung analogmedialer und
 digitalmedialer Begegnungsräume, sondern für das \enquote{hybride}
-Kommunikationspotential von Digitalmedien selbst:
+Kommunikationspotential von digitalen Medien selbst:
 
 \begin{quote}
 \enquote{Die Unterscheidung zwischen diskursiver und präsentativer
 Symbolik eignet sich dazu, auch den Bedeutungsgehalt Digitaler Medien zu
 bestimmen. {[}\ldots{}{]} Digitale Medien präsentieren sich als
-'Bedeutungsmischlinge‛ {[}\ldots{}{]}. Die diskursive Symbolik Digitaler
-Medien zeigt sich in Form von Algorithmen {[}\ldots{}{]}. Auf eine
-präsentative Symbolik trifft man in Gestalt von Internetauftritten und
-Websites {[}\ldots{}{]}. Wenn sich der Bedeutungsinhalt Digitaler Medien
-aus diskursiven und präsentativen Elementen speist, so kann man sie als
-hybride Medien bezeichnen. Hybridität ist Bestandteil einer
+\enquote{Bedeutungsmischlinge} {[}\ldots{}{]}. Die diskursive Symbolik
+Digitaler Medien zeigt sich in Form von Algorithmen {[}\ldots{}{]}. Auf
+eine präsentative Symbolik trifft man in Gestalt von Internetauftritten
+und Websites {[}\ldots{}{]}. Wenn sich der Bedeutungsinhalt Digitaler
+Medien aus diskursiven und präsentativen Elementen speist, so kann man
+sie als hybride Medien bezeichnen. Hybridität ist Bestandteil einer
 übergeordneten Symbolik, die sich bei Digitalen Medien zeigt
 {[}\ldots{}{]}. Dieses Objektverständnis kontrastiert mit der
 verbreiteten Auffassung, dass zwischen Materialität und Immaterialität
@@ -1137,7 +1125,7 @@ Funktionsweisen von Medien in ihrer Materialität (oder ihrem Fehlen) und
 ihrem diskursiven Potential vorbereitet wird, wie er im Folgenden hier
 ins Visier genommen wird.
 
-\subsubsection{Mediensymbiose --
+\section*{Mediensymbiose --
 Medienkonkurrenz}\label{mediensymbiose-medienkonkurrenz}
 
 Für die intermediale Hybridproblematik, wie sie hier in den Blick
@@ -1160,14 +1148,14 @@ Mediensystematik (1972) von Harry Pross.
 
 Dabei wird im Hintergrund hier von der Idee einer Medienevolution
 ausgegangen, wie sie Rudolf Stöber in seiner Mediengeschichte (2013)
-vorgestellt hat.\footnote{Stöber, Rudolf (2013) Neue Medien. Geschichte.
-  Von Gutenberg bis Apple und Google. Medieninnovation und Evolution.
+vorstellte.\footnote{Stöber, Rudolf (2013) Neue Medien. Geschichte. Von
+  Gutenberg bis Apple und Google. Medieninnovation und Evolution.
   {[}Gründlich revidierte, aktualisierte Neuaufl.{]} -- Bremen : edition
   lumière, 2013.}
 
 Eine medienevolutionäre Annäherung an das Thema erscheint schon deshalb
 angemessen, weil seit dem Aufkommen des \enquote{Hybridkonzeptes} Mitte
-der 1990-er Jahre und seiner Verstetigung im Bereich der
+der 90er Jahre und seiner Verstetigung im Bereich der
 Geisteswissenschaften seit 20 Jahren eigentlich kaum mehr von
 revolutionärem Umbruch gesprochen werden kann. Das analoge Buch erfüllt
 beharrlich und relativ unspektakulär in seinem Wirtschaftssegment und
@@ -1230,7 +1218,7 @@ kompliziert erfahren.}\footnote{Stalder, Felix (2016) Kultur der
   Digitalität, S. 282.}
 
 Neue Medien entstehen, so die Hypothese hier, aus Unzulänglichkeiten
-Alter Medien oder auf Grund spezifisch neuer Entwicklungen,
+Alter Medien oder aufgrund spezifisch neuer Entwicklungen,
 gesellschaftlicher Bedürfnisse und technischer Neuerungen. Dieser
 evolutionär zu betrachtende Prozess führt zu technologiegestützten
 Übernahmen von Funktionen durch Neue Medien. Dies kann zu einer
@@ -1335,17 +1323,17 @@ vermeiden. Beim Aufkommen von Mikrofiches und Mikrofilm ohne allzu
 großes Aufmerksamkeitspotential hat keine Bibliothek mit dem Gedanken
 gespielt, sich Mikrobibliothek zu nennen. Gerät nun der Mikrofiche in
 Vergessenheit, gerät auch die Bibliothek in Vergessenheit? Verschwindet
-die Videokassette, verschwindet auch die Bibliothek usf.? Digitalisieren
-sich Formen des \enquote{Lesens} und werden mobil und ortlos,
-digitalisiert sich auch die Bibliothek und wird virtuell und fluide?
+die Videokassette, verschwindet auch die Bibliothek undsofort?
+Digitalisieren sich Formen des \enquote{Lesens} und werden mobil und
+ortlos, digitalisiert sich auch die Bibliothek und wird virtuell und
+fluide?
 
 Im Folgenden wird dafür plädiert, Funktionsverschiebung nur auf der
-medialen Ebene und im Vergleich der Medien untereinander in den Blick zu
-nehmen. \emph{Hier liegt tatsächlich der Kern der Hybridproblematik.
-Welche Funktionen können oder müssen innerhalb der
-geisteswissenschaftlichen Forschung dem Digitalmedium bzw. dem
-Analogmedium zugeordnet bleiben, wo sind sie austauschbar, wo kann man
-Alleinstellungsmerkmale ausmachen?}
+medialen Ebene und im Vergleich der Medien untereinander zu betrachten.
+\emph{Hier liegt tatsächlich der Kern der Hybridproblematik. Welche
+Funktionen können oder müssen innerhalb der geisteswissenschaftlichen
+Forschung dem Digitalmedium bzw. dem Analogmedium zugeordnet bleiben, wo
+sind sie austauschbar, wo kann man Alleinstellungsmerkmale ausmachen?}
 
 Die aus dem Riepl'schen Ansatz abzuleitende Frage ist folglich:
 \enquote{Welche Aufgabe haben analoge Bücher zu erfüllen, wenn sie
@@ -1376,7 +1364,7 @@ Grenzen.}\footnote{Krameritsch, Jakob (2007) Geschichte(n) im Netzwerk,
   S. 23.}
 
 Es ist in diesem Punkt nicht uninteressant zu beobachten, wie von Hard-
-und Softwareseite aus mimetische Anstrengungen unternommen werden, um
+und Softwareseite aus, mimetische Anstrengungen unternommen werden, um
 das analoge Buch zu suggerieren. Man denke an die Versuche zur
 Reduzierung des \enquote{Selbstleuchtens}\footnote{Zur zentralen
   Bedeutung von Sendelicht, Zeigelicht und Beleuchtungslicht für den
@@ -1384,11 +1372,12 @@ Reduzierung des \enquote{Selbstleuchtens}\footnote{Zur zentralen
   Augenlichtes als Eigenlicht seit der Frühscholastik siehe Illich, Ivan
   (1991) Im Weinberg des Textes, hier S. 25-27.} der Digitaltexte, die
 visuelle und akustische Imitation der \enquote{Blätterfunktion}, die
-Digitalwerkzeuge für Textmarkierung oder Marginalien usw.\footnote{Zum
-  Stand der Entwicklung von E-Books und ihrer gerätetechnischen Basis,
-  den E-Readern siehe: Jungbluth, Anja (2015) Vor Kindle. Die Anfänge
-  des E-Books. In: Perspektive Bibliothek, 4(2015)2, S. 87-106. Hier
-  besonders Kapitel 2.4: Vor- und Nachteile gegenüber Print.}
+Digitalwerkzeuge für Textmarkierung oder Marginalien und s
+weiter.\footnote{Zum Stand der Entwicklung von E-Books und ihrer
+  gerätetechnischen Basis, den E-Readern siehe: Jungbluth, Anja (2015)
+  Vor Kindle. Die Anfänge des E-Books. In: Perspektive Bibliothek,
+  4(2015)2, S. 87-106. Hier besonders Kapitel 2.4: Vor- und Nachteile
+  gegenüber Print.}
 
 Zwecks Verdeutlichung der technisch unterschiedlichen Herkunftswelten
 kann hier das unterschiedliche Funktionieren eines vergleichbaren
@@ -1498,7 +1487,7 @@ Wissensarbeit zunehmend wieder geleistet wird.
 
 Erst hier kommt dann auch wieder richtig die Institution Bibliothek ins
 Spiel mit ihren \enquote{Strategiebausteinen} Lernort, Makerspace,
-Wissenschaftssalon oder was da in den letzten Jahren, teils als
+Wissenschaftssalon oder alles das, was in den letzten Jahren, teils als
 Resultate konzeptionellen Driftens, auch immer in Vorschlag gebracht
 wurde. Selbst die Idee der barocken Kunst- und Wunderkammer wurde jüngst
 von Achim Bonte (2015, SLUB Dresden) wiederbelebt.\footnote{Bonte, Achim
@@ -1606,7 +1595,7 @@ v. Chr.) oder jedes jahrhundertealte Druckwerk. Das \enquote{Anschalten}
 und Auslesen des \enquote{Device} (im Sinne von Daniel J. Boorstin,
 siehe Fußnote 31) erfolgt durch \enquote{In-Augenschein-nehmen}.
 
-Das e-book beziehungsweise jedes digitale Medium und sein
+Das E-Book beziehungsweise jedes digitale Medium und sein
 Kommunikationsangebot ist technikvermittelt auf Sender- und
 Empfängerseite. Damit gehört alles Digitale in die Klasse der tertiären,
 doppelseitig technisch vermittelten Medien.
@@ -1925,7 +1914,7 @@ sollte.\footnote{Zum Forschungsstand von Geschichtswissenschaft und
 
 Zum Zweiten verweist sie auf die Massendatenhaltung (Big Data als
 tertiäre Medien). Diese Massendaten, so wird immer deutlicher, enthalten
-ein noch nicht ausgelotetes Potenzial an Latenz. Allein auf Grund ihrer
+ein noch nicht ausgelotetes Potential an Latenz. Allein auf Grund ihrer
 Quantität erlangen sie sozialstatistisch eine nie vorher gekannte
 Relevanz, die quasi zwangsläufig zu qualitativen Aussagen tendiert.
 Hinzu kommt ihr schier unbegrenztes Korrelationspotenzial mit Hilfe von
@@ -1969,7 +1958,7 @@ Die Mediensystematik von Harry Pross von 1972 erweist sich folglich,
 trotz ungebremster Innovation im Bereich der tertiären Medien, als ein
 überraschend weitreichendes Analyseinstrument.
 
-\subsubsection{Blended Library}\label{blended-library}
+\section*{Blended Library}\label{blended-library}
 
 Während in dem Wort \enquote{hybrid} die Verschiedenheit, das
 Zwitterhafte von zweierlei Herkunft stets richtig mitschwingt, hat das
@@ -2082,7 +2071,7 @@ Analogien zu oder Ausweitungen von Sinnesorganen des Leibes.}\footnote{Karpenste
   Christa (2004) Einführung in die Kulturwissenschaft der Medien, S. 68.}
 \end{quote}
 
-\subsubsection{Fluide Bibliothek}\label{fluide-bibliothek}
+\section*{Fluide Bibliothek}\label{fluide-bibliothek}
 
 Als Steigerungsstufe von \enquote{hybrid} versteht Olaf Eigenbrodt
 (2014, Staats- und Universitätsbibliothek Hamburg) sein Konzept der
@@ -2302,7 +2291,7 @@ Aus dem Umfeld der \enquote{Digital Humanities} sind zu dem
 kulturtechnischen Verständnis von digitalem Code und hybridem
 Nebeneinander ebenfalls zahlreiche Anregungen zu entnehmen.
 
-\subsubsection{Digital Humantities}\label{digital-humantities}
+\section*{Digital Humantities}\label{digital-humantities}
 
 Im Hinblick auf die Hybridproblematik und die Bibliothek als Werkstatt
 der Geisteswissenschaften darf eine Sondierung der Digital Humanities
@@ -2357,7 +2346,7 @@ spekulative Frage.
 
 Der Einstieg in die Notwendigkeit digitaler Forschungsmethoden erfolgt
 häufig mit dem Gemeinplatz von der Überfülle computervermittelter
-Wissensobjekte ‒ in Reichweite der Fingerspitzen. David M. Berry (2012)
+Wissensobjekte -- in Reichweite der Fingerspitzen. David M. Berry (2012)
 in einem grundlegenden Werk zum Verständnis der Digital Humanities (DH):
 \enquote{This new infinite archive {[}\ldots{}{]} at the researcher's
 fingertips. {[}\ldots{}{]} It is now quite clear that historians will
@@ -2693,7 +2682,7 @@ Diskurs, der sich vom gängigen textuellen Diskurs unterscheidet
 Vor dem Hintergrund dieser Ankündigungen wird das eingangs erwähnte
 Aufschrecken des Hermeneutikers Hans Ulrich Gumbrecht verständlicher.
 
-\subsubsection{Schlussüberlegungen}\label{schlussuxfcberlegungen}
+\section*{Schlussüberlegungen}\label{schlussuxfcberlegungen}
 
 \begin{quote}
 \enquote{Was ist eigentlich der Kern des gegenwärtigen Medienwandels?
@@ -2899,7 +2888,7 @@ Originals}.\footnote{Ebd., S. 274. Ceynowa lässt hier offen, ob er hier
 
 Trotzdem meint eben dieser Autor einige Monate später (März 2016):
 \enquote{Zunächst ist festzuhalten: Das Buchzeitalter will nicht
-vergehen. {[}\ldots{}{]} Die oft bedrohlich als 'Disruption‛
+vergehen. {[}\ldots{}{]} Die oft bedrohlich als \enquote{Disruption}
 beschriebene digitale Transformation ist weitgehend vollzogen, ohne dass
 dies den Tod des Gedruckten bedeutet hätte}.\footnote{Ceynowa, Klaus
   (2016) Anker im Fluss des Wissens. Begehrte \enquote{Ruinen}. Die
@@ -3104,7 +3093,7 @@ wiedergewinnen,\footnote{Wersig, Gernot (2000) Zur Zukunft der Metapher
   angesprochen hatte."} damit sie in der digitalen Cloud kondensieren
 und realweltlich wieder auf die Erde hienieden zurückfallen könnten.
 
-\subsubsection{Literaturverzeichnis}\label{literaturverzeichnis}
+\section*{Literaturverzeichnis}\label{literaturverzeichnis}
 
 \textbf{Alt}, Peter-André (2014), Artikelflut und Forschungsmüll. In:
 Süddeutsche Zeitung vom 23.06.2014, Nr. 141, S.12.
@@ -3758,7 +3747,7 @@ Klasse der Literatur in der Akademie der Wissenschaften und der
 Literatur, Mainz, am 20. Mai 2010. Mainz : Akademie der Wissenschaften
 und der Literatur {[}u.a.{]}, 2011.
 
-\subsubsection{Online-Ressourcen}\label{online-ressourcen}
+\section*{Online-Ressourcen}\label{online-ressourcen}
 
 \emph{Letzte Prüfung der Verfügbarkeit: 30. Juni 2016.}
 

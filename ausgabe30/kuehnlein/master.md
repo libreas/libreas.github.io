@@ -8,12 +8,13 @@ in Projektgruppen bestimmte Themenfelder. Das Ergebnis einer der
 Projektgruppen soll in diesem Beitrag vorgestellt werden. Die
 Zielsetzung bestand darin, die verschiedenen Varianten des Open Access,
 also den freien Zugang zu wissenschaftlichen Volltexten, in Abwägung
-ihrer jeweiligen Vor- und Nachteile darzustellen. Den Ausgangspunkt
-bildete ein fiktives Publikationsszenario aus den Geisteswissenschaften.
-In dem Szenario geht es um einen Herausgeber eines Printjournals,
-welcher an der Humboldt Universität zu Berlin arbeitet. Er ist in der
-Wissenschaftsgemeinschaft sehr aktiv und hat eine erhebliche Reputation.
-Seit längerem wünscht er sich mehr Offenheit gegenüber dem
+ihrer jeweiligen Vor- und Nachteile darzustellen. 
+
+Den Ausgangspunkt bildete ein fiktives Publikationsszenario aus 
+den Geisteswissenschaften. In dem Szenario geht es um einen Herausgeber 
+eines Printjournals, welcher an der Humboldt Universität zu Berlin arbeitet.
+Dieser ist in der Wissenschaftsgemeinschaft sehr aktiv und hat eine erhebliche 
+Reputation. Seit längerem wünscht er sich mehr Offenheit gegenüber dem
 Open-Access-Verfahren und eine effizientere Qualitätssicherung. Letztere
 sollte idealerweise als Peer-Review, statt wie bisher mittels Editorial
 Review, durchgeführt werden. Einen größeren finanziellen und
@@ -38,7 +39,7 @@ unterstützen, fordert es aber de facto vom Herausgeber ein. Der
 bisherige Verlag zeigt sich diesbezüglich offener. Beide Verlage
 bestehen zudem auf die Weiterführung der Printausgabe.
 
-Aus dem Szenario ergaben sich folgende Leitfragen:
+Aus diesem Szenario ergaben sich folgende Leitfragen:
 
 1.  Soll der Herausgeber bei seinem alten Verlag bleiben und weiter eine
     Printausgabe produzieren?
@@ -76,21 +77,22 @@ zugänglich sind, werden stärker wahrgenommen als Informationen deren
 Zugang beschränkt ist. Im Internet sind diese Informationen von
 Suchmaschinen und anderen Nachweisdiensten leichter indexierbar.
 Suchmaschinen, wie die Bielefeld Academic Search Engine
-(BASE) und auch das Directory of Open
-Access Journals (DOAJ) sind spezialisiert auf das
-Indexieren von Open-Access-Dokumenten. Durch die zunehmende Verbreitung
-und Sichtbarmachung von Open-Access-Informationen können diese vermehrt
-genutzt und weiterverwendet werden. Die freie Verfügbarkeit von
-Informationen fördert auch die ländergrenzen- und fachübergreifende
-Zusammenarbeit. Auch Staaten, in denen weniger Geld in die Forschung
-investiert wird oder werden kann, erhalten so Zugriffsmöglichkeiten auf
-relevante Informationen und bereits vorhandenes Wissen. Schließlich kann
-auch der Forschungsprozess beschleunigt werden, weil Ergebnisse nicht
-nur schneller publiziert, sondern Dokumente zum selben Zeitpunkt von
-mehreren Personen bearbeitet oder eingesehen werden können. Zweifel am
-Open Access entstehen häufig durch eine Unsicherheit im Umgang mit dem
-Urheberrecht sowie durch Vorbehalte gegenüber der Qualität und der
-Langzeitarchivierung der Dokumente. Nur mit der richtigen Archivierung
+(BASE) und auch das Directory of Open Access Journals (DOAJ) 
+sind spezialisiert auf das Indexieren von Open-Access-Dokumenten. 
+Durch die zunehmende Verbreitung und Sichtbarmachung von 
+Open-Access-Informationen können diese vermehrt genutzt und 
+weiterverwendet werden. 
+
+Die freie Verfügbarkeit von Informationen fördert auch die 
+ländergrenzen- und fachübergreifende Zusammenarbeit. Auch Staaten, 
+in denen weniger Geld in die Forschung investiert wird oder werden kann, 
+erhalten so Zugriffsmöglichkeiten auf relevante Informationen und bereits 
+vorhandenes Wissen. Schließlich kann auch der Forschungsprozess beschleunigt
+werden, weil Ergebnisse nicht nur schneller publiziert, sondern Dokumente 
+zum selben Zeitpunkt von mehreren Personen bearbeitet oder eingesehen werden 
+können. Zweifel am Open Access entstehen häufig durch eine Unsicherheit im 
+Umgang mit dem Urheberrecht sowie durch Vorbehalte gegenüber der Qualität 
+und der Langzeitarchivierung der Dokumente. Nur mit der richtigen Archivierung
 von Informationen im Internet auf entsprechenden Archivservern kann eine
 langfristige Erhaltung und Verfügbarkeit der Informationen gewährleistet
 werden (Georg-August-Universität Göttingen. Niedersächsische Staats- und
@@ -120,11 +122,10 @@ Verlages hier nur um eine vertragsrechtliche Änderung handelt, wäre
 diese Variante besonders kostengünstig, da lediglich eine entsprechende
 Klausel in den Autorenverträgen angepasst werden müsste.
 
-Konkret bedeutet dies, dass in
-der Zeitschrift veröffentlichte Artikel als elektronische Dokumente
-archiviert und so kostenfrei öffentlich verfügbar gemacht werden können.
-Prinzipiell sind hier drei Varianten möglich: Das Individual-, das
-Institutional- oder das Central-Self-Archiving. Beim
+Konkret bedeutet dies, dass in der Zeitschrift veröffentlichte Artikel 
+als elektronische Dokumente archiviert und so kostenfrei öffentlich 
+verfügbar gemacht werden können. Prinzipiell sind hier drei Varianten möglich: 
+Das Individual-, das Institutional- oder das Central-Self-Archiving. Beim
 Individual-Self-Archiving erfolgt die Archivierung und Bereitstellung
 des Artikels durch den Autor, zum Beispiel auf einer privaten Homepage.
 Das Institutional-Self-Archiving meint die Archivierung auf einem
@@ -150,15 +151,14 @@ Herausgeber muss zudem - bestenfalls in Absprache mit den Autoren und
 dem Verlag - entscheiden, auf welcher Art Repositorium die Artikel
 veröffentlicht werden sollen. Mit den Verantwortlichen des
 institutionellen Repositoriums der Humboldt-Universität zu Berlin, dem
-edoc-Server, wäre zu klären, ob eine
-Veröffentlichung von Artikeln auch dann möglich ist, wenn die
-Autorenschaft oder Co-Autorschaft nicht bei einem Angehörigen der
-Humboldt-Universität liegt (vgl. AG Elektronisches Publizieren 2014).
-Sollte dem nicht so sein, bliebe als Alternative die Zugänglichmachung
-über ein institutionelles Repositorium. Für sehr viele Fachgebiete
-existiert in Deutschland zumindest ein spezifisches Repositorium, das
-beispielsweise mithilfe des Registry of Open Access Repositories
-(ROAR) oder dem Directory of Open Access
+edoc-Server, wäre zu klären, ob eine Veröffentlichung von Artikeln auch 
+dann möglich ist, wenn die Autorenschaft oder Co-Autorschaft nicht bei 
+einem Angehörigen der Humboldt-Universität liegt (vgl. AG Elektronisches 
+Publizieren 2014). Sollte dem nicht so sein, bliebe als Alternative 
+die Zugänglichmachung über ein institutionelles Repositorium. 
+Für sehr viele Fachgebiete existiert in Deutschland zumindest ein 
+spezifisches Repositorium, das beispielsweise mithilfe des Registry
+of Open Access Repositories (ROAR) oder dem Directory of Open Access
 Repositories (DOAR) ermittelt werden kann.
 
 Besteht die Möglichkeit zwischen mehreren Angeboten zu wählen, sollten
@@ -167,8 +167,7 @@ Langzeitverfügbarkeit der Dokumente auf dem Repositorium gesichert sein.
 Hier spielt auch die Reputation des Repositorien-Betreibers eine Rolle.
 Zweitens sollten die Betreiber des Repositoriums Hilfe bei der
 Erstellung, dem Upload und der Verwaltung der elektronischen Dokumente
-anbieten. Im Idealfall sollte es zudem über das
-[DINI-Zertifikat verfügen, das
+anbieten. Im Idealfall sollte es zudem über das DINI-Zertifikat verfügen, das
 neben den oben genannten Punkten weitere wichtige Kriterien zur
 Beurteilung eines Repositoriums enthält.
 
@@ -296,14 +295,12 @@ auch ganz ohne Verlagsbeteiligung, dafür in kompletter Eigenregie des
 Herausgebers erscheinen. Der Zugang zu den von der Universität
 bereitgestellten Ressourcen zur Veröffentlichung nach Open Access würde
 sinnvollerweise über eine Zusammenarbeit mit der Arbeitsgruppe
-"Elektronisches
-Publizieren" erfolgen,
-welche sich aus der Universitätsbibliothek und dem Computer- und
-Medienservice zusammensetzt. Während die Universitätsbibliothek die
-Zeitschrift mit Bestandsaufnahme, Metadaten und Erschließung
-unterstützt, sichert der Computer- und Medienservice die Bereitstellung
-auf dem institutionellen Repositorium, dem edoc-Server der HU Berlin ab.
-Diese Art der Bereitstellung gewährleistet gleichzeitig die
+"Elektronisches Publizieren" erfolgen, welche sich aus der Universitätsbibliothek
+und dem Computer- und Medienservice zusammensetzt. Während die 
+Universitätsbibliothek die Zeitschrift mit Bestandsaufnahme, Metadaten
+und Erschließung unterstützt, sichert der Computer- und Medienservice 
+die Bereitstellung auf dem institutionellen Repositorium, dem edoc-Server 
+der HU Berlin ab. Diese Art der Bereitstellung gewährleistet gleichzeitig die
 Langzeitarchivierung der Zeitschrift (Dobratz 2007: 28–30; Schirmbacher
 2005: 6).
 
@@ -321,6 +318,7 @@ anfallender Personalkosten sowie der zeitliche Aufwand können zudem
 durch die Nutzung von Open-Source-Software für elektronische
 Zeitschriften, beispielsweise Open Journals Systems
 (OJS), auf ein Minimum reduziert werden.
+
 Personelle Ressourcen sind bei diesem Weg die hauptsächlichen
 Kostenfaktoren. Denkbar wäre hier wie beim Goldenen Weg des Open Access
 eine Finanzierung über die Erhebung von APC, wobei diese aus genannten

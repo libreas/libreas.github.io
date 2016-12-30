@@ -31,9 +31,7 @@ Zitationen und Material aus Archivquellen wird Transklusion eingesetzt. Durch
 typisierte Links können Provenienz von Primär- und Sekundärquellen annotiert
 werden.
 
-![Diagramm der Verlinkung und Transklusion der Forschungsliteratur für den
-Hypertext-Arbeitsplatzes eines Historikers (ursprünglich in Nelson, 1965) (aus
-Nelson u. a., 2007)](img/abb1.png)
+![Diagramm der Verlinkung und Transklusion der Forschungsliteratur für den Hypertext-Arbeitsplatzes eines Historikers (ursprünglich in Nelson, 1965) (aus Nelson u. a., 2007)](img/abb1.png)
 
 Die Idee ist nun, durch schrittweise Umsetzung (Hodel, 2013) teilweise alter
 bibliotheks- und informationswissenschaftlicher Ansätze einen modernen
@@ -49,22 +47,20 @@ umfasst[^1]. Um das zu bewerkstelligen, ist insbesondere das Problem der
 Modellierung der Granularität und Provenienz von Dokumenten zu lösen. Das
 Problem erstreckt sich über mehrere Ebenen:
 
--   Textebene – Aufbereitung und Annotation natürlicher Sprache (NIF
-(Hellmann u. a., 2013), NAF (Fokkens u. a., 2014), etc.))
+-   Textebene – Aufbereitung und Annotation natürlicher Sprache (NIF (Hellmann u. a., 2013), NAF (Fokkens u. a., 2014), etc.))
 -   Dokumentebene – Modellierung der Dokumentstruktur (TEI, METS/ALTO, etc.) und
 -   bibliographische und archivarische Metadaten (z. B. MARC, FRBR und EAD)
--   Ontologieebene – Informationsintegration (CRM, SKOS, SEM/GAF (Fokkens
-u. a., 2014), etc.)
+-   Ontologieebene – Informationsintegration (CRM, SKOS, SEM/GAF (Fokkens u. a., 2014), etc.)
 
 Idealerweise sollte eine Lösung eine Art ontologischer Hypertext sein (siehe
 auch Nurmikko- Fuller u. a., 2015), über den die bibliographischen Daten von
 Publikationen und Metadaten von Dokumenten bereitgestellt werden können und
-der die Transklusion von Inhalten von Dokumenten zur Nachnutzung (z. B.
+der die Transklusion von Inhalten von Dokumenten zur Nachnutzung (zum Beispiel
 Zitation) erlaubt. Im Kontext des WWW, deren Hypertext-Konzept die
 angesprochenen Probleme nicht zu berücksichtigen vermag, äußert sich Ted
-Nelson in einem anderen Interview wie folgt: “We are using a degenerate form
+Nelson in einem anderen Interview wie folgt: "We are using a degenerate form
 of itv\[Hypertext\] that has been standardised by people who, I think, do not
-understand the real problems.” (Nelson, 2001)
+understand the real problems." (Nelson, 2001)
 
 Der Bibliothekskatalog bildet den Zugang zu einer Forschungsinfrastruktur zur
 Bereitstellung der bibliographischen Daten als Linked Open Data inklusive
@@ -81,8 +77,7 @@ Denkwerkzeugs für Geisteswissenschaftler im Sinne von J.C.R. Licklider (1965)
 gemäß des Intelligence-Augmentation-Ansatzes (Rheingold, 2000) realisiert
 werden (Sumner und Shum, 1998).
 
-![Handgezeichnete Skizze der Struktur des semantischen
-Zusammenhangs des wissenschaftlichen Diskurses in der Forschungsliteratur (aus Buckingham Shum u.a., 2007)](img/abb2.png)
+![Handgezeichnete Skizze der Struktur des semantischen Zusammenhangs des wissenschaftlichen Diskurses in der Forschungsliteratur (aus Buckingham Shum u.a., 2007)](img/abb2.png)
 
 Dazu kann auf alte Ansätze zum Dialogue Mapping und Argument Mapping aus der
 Informationswissenschaft (Conklin und Begeman, 1988, 1989; Conklin u. a.,
@@ -112,14 +107,13 @@ Die Notwendigkeit, beim Formalisierungsansatz explizit werden zu müssen, führt
 die Geisteswissenschaftler außerdem zu formalen Modellen, die nicht nur die
 Grundlage für gemeinsames Forschen mit anderen Wissenschaftlern bildet (vgl.
 Piotrowski, 2016), sondern mittels eines entsprechenden Hypertext-Werkzeugs
-quasi auch als Dialogpartner im kreativen Schaffensprozess dient: „Hypertext
-kann eine Mittelposition \[zwischen lebendigem Dialog und geschriebenem Text\] einnehmen.“(Hammwöhner, 1997, S. 72 ff.)
+quasi auch als Dialogpartner im kreativen Schaffensprozess dient: "Hypertext
+kann eine Mittelposition \[zwischen lebendigem Dialog und geschriebenem Text\] einnehmen."
+(Hammwöhner, 1997, S. 72 ff.)
 
 Um auch auf einen alten Beitrag aus der Informatik zu verweisen, möchte ich
 noch Heinz Zemanek (1992, S. 185) zitieren, der auf den besonderen Anspruch an
-geisteswissenschaftliche
-
-Wissensrepräsentation hinweist:
+geisteswissenschaftliche Wissensrepräsentation hinweist:
 
 > Diese Formalismen müssen – das kann man nicht oft genug betonen – den
 > Geisteswissenschaften äquivalent sein, und dürfen keine platten Anleihen
@@ -142,11 +136,11 @@ grundlegenden Funktionen zur Verfügung:
 -   Verlinkung von Entitäten (Personen, Organisationen, Orte, Ereignisse) mit Normdaten (GND, VIAF, ORCID)
 -   Verlinkung auf Publikationen oder auch Forschungsdaten als empirische Belege in Dialogue und Argument Mapping (z. B. über IBIS Reference-Element)
 
-### Post-Digital Humanities – Tools, not Toys!
+### Post-Digital Humanities -- Tools, not Toys!
 
-Piotrowski (2016) definiert Digital Humanities wie folgt: „The digital
+Piotrowski (2016) definiert Digital Humanities wie folgt: "The digital
 humanities study the means and methods of constructing formal models in the
-humanities.” Ein Modell als Repräsentation eines geisteswissenschaftlichen
+humanities." Ein Modell als Repräsentation eines geisteswissenschaftlichen
 Untersuchungsgegenstands zu verstehen und formal bedeutet soviel wie logisch
 kohärent, nicht mehrdeutig und explizit. Weil Text im
 geisteswissenschaftlichen Bereich als Daten behandelt werden muss (Fleer,
@@ -159,13 +153,13 @@ Granularität notwendig (Piotrowski, 2015).
 
 Reiner Text kann etwa in Form eines historischen Narrativs zwar sogar eine
 mechanistische Erklärung sein (vgl. Glennan, 2010, 2014), aber eben nur als informale
-Beschreibung, die erstmal nicht automatisch Computer-gestützt
+Beschreibung, die erstmal nicht automatisch computergestützt
 weiterverarbeitet werden kann und darüber hinaus womöglich nicht logisch
-kohärent sondern mehrdeutig und vage ist. Das ist dann auch nicht unbedingt
+kohärent, sondern mehrdeutig und vage ist. Das ist dann auch nicht unbedingt
 redliche Geistes- bzw. Geschichtswissenschaft, denn wie es so schön treffend
-im Rückentext von Lothar Kolmer (2008) heißt: „Wer sich nicht von der
+im Rückentext von Lothar Kolmer (2008) heißt: "Wer sich nicht von der
 Beredsamkeit der Historiker blenden lassen will, muss das Gerüst entdecken
-können, das ihre Erzählungen trägt.“
+können, das ihre Erzählungen trägt."
 
 Die zuvor vorgestellten Hypertext-Werkzeuge passen sehr gut in dieses Bild und
 sollen im Rahmen von Post-Digital-Humanities-Projekten die formale
@@ -174,10 +168,9 @@ basierten Systemen als Denkwerkzeuge für die Geisteswissenschaften lässt sich
 ab 1987 in der Geschichte der Bibliotheks- und Informationswissenschaft
 beobachten, wie der Rückblick von Erwin Welsch (1992) zeigt.
 
-Jef Raskin (1987) kritisiert zur Blütezeit der Hypertext-Entwicklungen – als
-Hypertext-Werkzeuge 
-auch deutlich vermehrt für geisteswissenschaftliche Forschung entwickelt
-wurden (siehe Welsch, 1992) – allerdings die vernachlässigte
+Jef Raskin (1987) kritisiert zur Blütezeit der Hypertext-Entwicklungen – 
+als Hypertext-Werkzeuge  auch deutlich vermehrt für geisteswissenschaftliche
+Forschung entwickelt wurden (siehe Welsch, 1992) – allerdings die vernachlässigte
 Benutzerfreundlichkeit der Hypertext-Systeme. Usability Engineering wird
 bisher tatsächlich auch weitgehend in den Digital Humanities vernachlässigt.
 Die Informationswissenschaft könnte hier mit ihrem Bewusstsein für Aspekte der
@@ -189,21 +182,16 @@ in alte Anforderungskataloge für Hypertext-Systeme (z. B. Halasz, 1987), um
 nützlichere und gebrauchstauglichere Post-Digital Humanities-Werkzeuge zu
 bauen. Man kann allerdings auch dafür argumentieren, in erster Linie auf den
 direkten Gebrauch von Auszeichnungs- und Modellierungssprachen zu setzen
-(siehe z. B. Groza u. a., 2007) statt auf aufwändige Modellierungs- und
+(siehe z. B. Groza u. a., 2007) statt auf aufwendige Modellierungs- und
 Annotationswerkzeuge mit grafischer Benutzeroberfläche, die sehr viel
 Usability Engineering bei der Entwicklung erfordern. Hier sei passenderweise
 kurz auf die Ankündigung von Ted Nelsons Vortrag Computers, Creativity, and
 the Nature of the Written Word am 27. Januar 1965 im Vassar College verwiesen
-(siehe Barnet, 2013, S. 73): „whole new attitudes will be needed, and liberal-
+(siehe Barnet, 2013, S. 73): "whole new attitudes will be needed, and liberal-
 arts personages will have to learn to program, before computers can make their
-real contribution to civilization.”
+real contribution to civilization."
 
-Mit einem programmiersprachlichen Ansatz dürfte auch der Dialog mit sich
-selbst (wie
-
-oben schon erwähnt) fließender und damit ungestörter vonstatten gehen. Zemanek
-(1966, S. 141) beschreibt Programmiersprachen als Werkzeug zur Formalisierung
-und Kommunikation mit sich selbst:
+Mit einem programmiersprachlichen Ansatz dürfte auch der Dialog mit sich selbst (wie oben schon erwähnt) fließender und damit ungestörter vonstatten gehen.  Zemanek (1966, S. 141) beschreibt Programmiersprachen als Werkzeug zur Formalisierung und Kommunikation mit sich selbst:
 
 > The language is the carrier and the implementation of ideas; since it is
 > very hard to handle ideas in an abstract form, the language is an important
@@ -220,7 +208,7 @@ zum doch recht anspruchsvollen Ziel abzukommen:
 > will think as no human brain has ever thought and process data in a way not
 > approached by the information-handling machines we know today.
 
-Die Schwierigkeit für derartige Post-Digital Humanities-Projekte besteht nun
+Die Schwierigkeit für derartige post-digitale Humanities-Projekte besteht nun
 darin, die tatsächlichen Bedürfnisse der Geisteswissenschaften zu bedienen –
 also vielmehr die Unterstützung qualitativer als quantitativer Forschung
 (siehe z. B. Carvalho, 2012; Little, 2010) – und dabei gemäß dem Motto Nelsons
@@ -274,7 +262,7 @@ Biology and History. Dordrecht : Springer Netherlands, 2014.
 
 \[Gnoli und Poli 2004\] Gnoli, Claudio ; Poli, Roberto: Levels of Reality and
 Levels of Representation. In: Knowledge Organization 31 (2004), Nr. 3, S.
-151–160 
+151–160. 
 
 \[Halasz 1987\] Halasz, Frank G.: Reflections on NoteCards: Seven
 Issues for the Next Generation of Hypermedia Systems, ACM Press, 1987, S.
@@ -286,7 +274,7 @@ Kontext, Habilitation, 1997 6.
 
 \[Hennicke 2013\] Hennicke, Steffen: Representation of Archival User Needs
 using CIDOC CRM. In: Workshop Practical Experiences with CIDOC CRM and its
-Extensions (CRMEX 2013), 2013 
+Extensions (CRMEX 2013), 2013. 
 
 \[Henrichs 1994\] Henrichs, Norbert:
 Begriffswandel in Datenbanken: Kontextuelle Inhaltsanalyse für Disambiguierung
@@ -301,7 +289,7 @@ Kleinkorpora und gegen Großprojekte wie Googles Ngram-Viewer. In: Gugerli,
 David (Hrsg.) ; Hagner, Michael (Hrsg.) ; Hirschi, Caspar (Hrsg.) ; Kilcher,
 Andreas B. (Hrsg.) ; Purtschert, Patricia (Hrsg.) ; Sarasin, Philipp (Hrsg.) ;
 Tanner, Jakob (Hrsg.): Nach Feierabend 2013: Digital Humanities Bd. 9. Zürich
-: diaphanes, 2013, S. 103–119 
+: diaphanes, 2013, S. 103–119.
 
 \[Johansson 2016\] Johansson, Lars-Göran:
 Qualitative Data and Methods. In: Philosophy of Science for Scientists.
@@ -314,7 +302,7 @@ Springer International Publishing, 2016, S. 81-102.
 Transactions on Human Factors in Electronics HFE-1 (1960), März, S. 4-1.
 
 \[Licklider 1965\] Licklider, Joseph Carl R.: Libraries of the Future. MIT
-Press, 1965
+Press, 1965.
 
 \[Mancini und Buckingham Shum 2006\] Mancini, Clara ; Buckingham Shum, Simon
 J.: Modelling Discourse in Contested Domains: A Semiotic and Cognitive
@@ -344,7 +332,7 @@ of the Eighteenth Conference on Hypertext and Hypermedia, ACM, 2007, S.
 
 \[Piotrowski 2015\] Piotrowski, Michael: Document Engineering and Digital
 Humanities. In: NLP for Historical Texts: Computational linguistics and
-digital humanities. URL <http://nlphist.hypotheses.org/263>, Mai 2015. – Blog
+digital humanities. URL <http://nlphist.hypotheses.org/263>, Mai 2015. – Blog.
 
 \[Piotrowski 2016\] Piotrowski, Michael: Digital Humanities, Computational
 Linguistics, and Natural Language Processing. Lectures on Language Technology
@@ -363,7 +351,7 @@ History and Future of Mind-Expanding Technology. MIT Press, 2000.
 
 \[Stock 2016\] Stock, Wolfgang G.: Norbert Henrichs (1935–2016): Pionier der
 Informationswissenschaft in Deutschland. In: Information - Wissenschaft &
-Praxis 67 (2016), Januar, Nr. 4
+Praxis 67 (2016), Januar, Nr. 4, S. 257–268.
 
 \[Sumner und Shum 1998\] Sumner, Tamara ; Shum, Simon B.: From Documents to
 Discourse: Shifting Conceptions of Scholarly Publishing. In: Proceedings of
@@ -379,7 +367,7 @@ In: Library Trends 40: Electronic Information for the Humanities (1992), Nr.
 4, S. 614-646.
 
 \[Zemanek 1966\] Zemanek, Heinz: Semiotics and Programming Languages. In:
-Communications of the ACM 9 (1966), März, Nr. 3, S. 139143.
+Communications of the ACM 9 (1966), März, Nr. 3, S. 139-143.
 
 \[Zemanek 1992\] Zemanek, Heinz: Computer für die Geisteswissenschaften,
 Geisteswissenschaften für den Computer. S. 166-234. In: Das geistige Umfeld
@@ -388,7 +376,7 @@ der Informationstechnik, Springer, 1992.
 \[Zumstein und Stöhr 2015\] Zumstein, Philipp ; Stöhr, Matti: Zur Nachnutzung
 von bibliographischen Katalog- und Normdaten für die persönliche
 Literaturverwaltung und Wissensorganisation. In: ABI Technik 35 (2015),
-Januar, Nr. 4 8.
+Januar, Nr. 4, S. 210-221.
 
 [^1]: Besonders interessant als Grundlage für inhaltliche Analysen sind
 auch Korpora wie Dokumentenkollektionen wissenschaftlicher

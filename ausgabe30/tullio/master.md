@@ -4,6 +4,7 @@ Der vorliegende Artikel spiegelt Ergebnisse meiner im Oktober 2014 als
 Abschlussarbeit an der Universität Duisburg-Essen eingereichten
 Exploration der Legitimation Öffentlicher Bibliotheken aus einer
 neoinstitutionalistischen Perspektive der Organisationssoziologie.
+
 Bibliotheken stehen eher selten im Mittelpunkt soziologischer
 Betrachtungen und sind noch seltener in den soziologischen
 Nachschlagewerken des 21. Jahrhunderts zu finden. Der soziologischen
@@ -16,14 +17,14 @@ Legitimation als eine sekundäre Objektivation von Sinn, die einer
 Institution zugeschrieben wird, verstehen. Dies geschieht durch
 Legitimatoren, die einer Institution Sinnhaftigkeit im Kontext einer
 symbolischen Sinnwelt zuschreiben.[^1] In Bezug auf die als Öffentliche
-Bibliotheken verstanden Einrichtungen wurden hierfür die Erklärungen und
+Bibliotheken verstandenen Einrichtungen wurden hierfür die Erklärungen und
 Rechtfertigungen der Bibliothekswissenschaft in Betracht gezogen. Im
 vorliegenden Artikel wird der Steuerung sowie der Definition der
 Bibliothek besondere Aufmerksamkeit geschenkt. Quellen hierfür sind
 Lehrbücher, Monographien und Nachschlagewerke der
 Bibliothekswissenschaft.
 
-Das Buch Studien zur Soziologie der Bibliotheken von Peter Karstedt aus
+Das Buch *Studien zur Soziologie der Bibliotheken* von Peter Karstedt aus
 dem Jahre 1965, welches ich auf meiner Suche nach einer
 Bibliothekssoziologie fand, wurde zum intellektuellen Ausgangspunkt
 meiner Arbeit. Karstedt merkte dort eine Fremdheit zwischen Soziologie
@@ -49,7 +50,7 @@ Kontext soziologischen Denkens bis heute nicht. Es lässt sich
 feststellen, dass trotz diverser nennenswerter Beiträge wie denen von
 Karstedt (1965) und Heidtmann (1974) kaum Literatur existiert, die sich
 explizit mit der Bibliothek als Organisation respektive Institution aus
-Soziologischer Perspektive befasst. Das Bibliotheken seit 2008 nicht
+Soziologischer Perspektive befasst. Dass Bibliotheken seit 2008 nicht
 mehr im Datenreport des Bundesamt für Statistik aufgeführt werden, sei
 hier nur angemerkt. Der vorliegende Artikel kann letztlich nur
 deskriptiven Charakters sein und kann in dem Sinne keine Analyse der
@@ -66,8 +67,7 @@ unwiderruflicher Prozess. Berger und Luckmann schrieben hierzu:
 > werden.[^2]
 
 Wenn Institutionen problematisch werden, spielt die Legitimation eine
-entscheidende Rolle für das Überleben der Institution. Berger und
-Luckmann schrieben hierzu:
+entscheidende Rolle für das Überleben der Institution:
 
 > Legitimation sagt dem Einzelnen nicht nur, warum er eine Handlung
 > ausführen *soll* und die andere nicht ausführen darf. Sie sagt ihm auch,
@@ -101,8 +101,7 @@ und zu verstehen, während es die Funktion der Legitimierung ist:
 Der Grund für die Legitimation, so Berger und Luckmann, ist gelegt,
 sobald ein System sprachlicher Objektivationen menschlicher Erfahrung
 weitergegeben wird. Die Weitergabe eines Vokabulars legitimiert in
-diesem Verständnis aus sich heraus. Berger und Luckmann schreiben
-hierzu:
+diesem Verständnis aus sich heraus:
 
 > Die fundamentalen, legitimierenden Erklärungen sind sozusagen in das
 > Vokabular eingebaut.[^7]
@@ -121,7 +120,7 @@ Ursprungs:
 > Er konnte nur dort liegen, wo politische Macht zuerst als nicht mehr an
 > eine Person gebunden in Erscheinung trat.[^9]
 
-Das war nach Karstedt in den Städten mit Ratsverfassungen im 12
+Das war nach Karstedt in den Städten mit Ratsverfassungen im 12.
 Jahrhundert der Fall.[^10] Karstedt schreibt hierzu:
 
 > Erst jetzt, da das Sozialgebilde Stadt, in seiner verfassungsmäßigen
@@ -144,7 +143,7 @@ historischen Betrachtung des Weges der Öffentlichen Bibliothek in die
 > erneut gegeben war, kommt es auch wieder zu neuen Gründungen
 > öffentlicher Bibliotheken.[^12]
 
-Regional zeitversetzt ist im Europa des 19 Jahrhundert die Forderung auf
+Regional zeitversetzt ist im Europa des 19. Jahrhunderts die Forderung auf
 den Mitgebrauch der Bildungsmittel verschiedentlich eingelöst worden,
 was sich insbesondere in den Geschichten der Nationalbibliotheken oder
 der Anwesenheit eines Bibliotheksgesetzes widerspiegelt.
@@ -194,7 +193,7 @@ bis weit ins 20. Jahrhundert hinein, so schrieb Rolf Kluth 1970:
 
 Eine Vielzahl uneingeschränkt Öffentlicher Bibliotheken hat sich aus
 Stiftungen, Lesegesellschaften, Gründungsbewegungen und Vereinen heraus
-entwickelt, die im Laufe der Zeit der öffentlichen Hand übergeben
+entwickelt, die im Laufe der Zeit der Öffentlichen Hand übergeben
 wurden. Dass Öffentliche Bibliotheken in Deutschland weitestgehend als
 kommunalisiert bezeichnet werden können, lässt sich etwa ab der Zeit der
 Weimarer Republik feststellen.[^18] Die Definition bestimmter
@@ -295,7 +294,7 @@ hierzu:
 > pflegt man auch die allgemeine Verwaltungs- oder Bürokunde mehr oder
 > weniger ausführlich dabei abzuhandeln.
 
-Im Blick auf die Erklärung der Bibliotheksverwaltung durch die
+Im Hinblick auf die Erklärung der Bibliotheksverwaltung durch die
 Bibliothekswissenschaft, fiel mir das Lehrbuch von Wilhelm Krabbe und
 dessen Entwicklung auf. Als Kurzgefasstes Lehrbuch der
 Bibliotheksverwaltung im Jahre 1937 erschienen, ist es erweitert und mit

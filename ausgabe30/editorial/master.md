@@ -53,7 +53,7 @@ dem stetigen "prognostischen Unbehagen" zu entwickeln, das Bibliotheken
 regelmäßig gegenüber medialen Veränderungsprozessen hegen. (Ausführlich
 schreibt dazu Andreas Hartsch in seinem Beitrag.)
 
-![Redaktionsorte: Akzession der Jubiläumsausgabe (Berlin, 16. November 2016)](redaktionssitzung.jpg)
+![Redaktionsorte IX: Akzession der Jubiläumsausgabe (Berlin-Mitte, 16. November 2016)](redaktionssitzung.jpg)
 
 Wenigstens aus unserer Sicht ist das zeitgemäße Forschungsfeld der
 Bibliotheks- und Informationswissenschaft weniger, wie Bibliotheken
@@ -66,7 +66,7 @@ Erfahrung in puncto Digitalisierung von Kulturobjekten als auch ihre
 Expertise in der Elektronisierung von wissenschaftlichen Arbeitsabläufen
 einbringen.
 
-### Postinternet / postdigitale Wissenschaften - eine Begriffsbestimmung
+### Postinternet / postdigitale Wissenschaften -- eine Begriffsbestimmung
 
 Die Idee, Begriff und Bezeichnung des Post-Digitalen kommt zunächst aus
 der Kunst beziehungsweise eigentlich aus der elektronischen Musik, woran
@@ -309,7 +309,7 @@ sich über dem Diskurs.In: LIBREAS. Weblog, 07.11.2016,
 <https://libreas.wordpress.com/2016/11/07/stroemfeld/>.
 
 Ben Kaden (b): Wissenschaftskommunikation auf Gut Siggen. Und zehn
-Thesen als Ergebnis. In: LIBREAS. Weblog, 24.10.2016
+Thesen als Ergebnis. In: LIBREAS. Weblog, 24.10.2016, 
 <https://libreas.wordpress.com/2016/10/24/siggener-thesen-wissenschaftskommunikation/>.
 
 Katja Kwastek: Wir sind nie digital gewesen. Postdigitale Kunst als
@@ -320,9 +320,9 @@ LIBREAS.Redaktion: Post-Digital Humanities aus bibliotheks- und
 informationswissenschaftlicher Sicht. In: LIBREAS. Weblog, 04.05.2016 <https://libreas.wordpress.com/2016/05/04/libreas-cfp-digital-humanities/>.
 
 Eric Steinhauer: Die Nutzung einer "Schattenbibliothek" im Licht des Urheberrechts.
-Einige Überlegungen am Beispiel von Sci-Hub - ein Diskussionspapier. 14.12.2016
-https://ub-deposit.fernuni-hagen.de/receive/mir_mods_00000825
+Einige Überlegungen am Beispiel von Sci-Hub - ein Diskussionspapier. 14.12.2016, 
+<https://ub-deposit.fernuni-hagen.de/receive/mir_mods_00000825>.
 
 Hito Steyerl: Too Much World: Is the Internet Dead? In: e-flux Journal
-\#49 - November 2013
-<http://www.e-flux.com/journal/49/60004/too-much-world-is-the-internet-dead/>
+\#49 - November 2013, 
+<http://www.e-flux.com/journal/49/60004/too-much-world-is-the-internet-dead/>.

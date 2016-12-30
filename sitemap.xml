@@ -1102,7 +1102,7 @@
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe24/00inhalt/</loc>
-        <lastmod>2016-12-23T08:29:54+01:00</lastmod>
+        <lastmod>2016-12-23T17:37:12+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe24/01editorial/meta.yaml</loc>
@@ -1206,7 +1206,7 @@
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe25/00inhalt/</loc>
-        <lastmod>2016-12-23T08:29:54+01:00</lastmod>
+        <lastmod>2016-12-23T17:37:02+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe25/01editorial/author.html</loc>
@@ -1310,7 +1310,7 @@
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe26/00inhalt/</loc>
-        <lastmod>2016-12-23T08:29:54+01:00</lastmod>
+        <lastmod>2016-12-23T17:36:54+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe26/01editorial/</loc>
@@ -1422,7 +1422,7 @@
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe27/00inhalt/</loc>
-        <lastmod>2016-12-23T08:29:54+01:00</lastmod>
+        <lastmod>2016-12-23T17:36:45+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe27/01editorial/</loc>
@@ -1666,7 +1666,7 @@
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe28/inhalt/</loc>
-        <lastmod>2016-12-23T08:29:54+01:00</lastmod>
+        <lastmod>2016-12-23T17:36:30+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe29/00editorial/</loc>
@@ -1826,7 +1826,7 @@
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe29/inhalt/</loc>
-        <lastmod>2016-12-23T08:29:54+01:00</lastmod>
+        <lastmod>2016-12-23T17:36:19+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe3/001ed1.html</loc>
@@ -1886,7 +1886,7 @@
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe30/balck/</loc>
-        <lastmod>2016-12-23T08:29:54+01:00</lastmod>
+        <lastmod>2016-12-29T18:18:40+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe30/balck/meta.yaml</loc>
@@ -1898,7 +1898,7 @@
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe30/editorial/</loc>
-        <lastmod>2016-12-23T09:12:09+01:00</lastmod>
+        <lastmod>2016-12-29T17:31:03+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe30/editorial/meta.yaml</loc>
@@ -1906,19 +1906,27 @@
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe30/ernst/</loc>
-        <lastmod>2016-12-23T08:29:54+01:00</lastmod>
+        <lastmod>2016-12-30T14:09:04+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe30/ernst/meta.yaml</loc>
         <lastmod>2016-12-23T08:29:54+01:00</lastmod>
     </url>
     <url>
+        <loc>http://libreas.eu/ausgabe30/ernst/vita.html</loc>
+        <lastmod>2016-12-30T14:05:47+01:00</lastmod>
+    </url>
+    <url>
         <loc>http://libreas.eu/ausgabe30/frank/</loc>
-        <lastmod>2016-12-23T08:29:54+01:00</lastmod>
+        <lastmod>2016-12-30T14:25:44+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe30/frank/meta.yaml</loc>
         <lastmod>2016-12-23T08:29:54+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://libreas.eu/ausgabe30/frank/vita.html</loc>
+        <lastmod>2016-12-30T14:25:04+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe30/freyberg/</loc>
@@ -1934,7 +1942,7 @@
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe30/hartsch/</loc>
-        <lastmod>2016-12-23T08:29:54+01:00</lastmod>
+        <lastmod>2016-12-29T18:13:26+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe30/hartsch/meta.yaml</loc>
@@ -1950,7 +1958,7 @@
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe30/inhalt/</loc>
-        <lastmod>2016-12-23T08:31:21+01:00</lastmod>
+        <lastmod>2016-12-23T17:35:48+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe30/kaden-rez/</loc>
@@ -1959,6 +1967,10 @@
     <url>
         <loc>http://libreas.eu/ausgabe30/kaden-rez/meta.yaml</loc>
         <lastmod>2016-12-23T09:52:56+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://libreas.eu/ausgabe30/kaden-rez/vita.html</loc>
+        <lastmod>2016-12-29T17:38:12+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe30/kuehnlein/</loc>
@@ -1970,23 +1982,31 @@
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe30/notiz/</loc>
-        <lastmod>2016-12-23T08:29:54+01:00</lastmod>
+        <lastmod>2016-12-29T17:44:03+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe30/notiz/meta.yaml</loc>
         <lastmod>2016-12-23T08:29:54+01:00</lastmod>
     </url>
     <url>
+        <loc>http://libreas.eu/ausgabe30/notiz/vita.html</loc>
+        <lastmod>2016-12-29T17:42:40+01:00</lastmod>
+    </url>
+    <url>
         <loc>http://libreas.eu/ausgabe30/roeder/</loc>
-        <lastmod>2016-12-23T08:29:54+01:00</lastmod>
+        <lastmod>2016-12-29T18:34:09+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe30/roeder/meta.yaml</loc>
         <lastmod>2016-12-23T08:29:54+01:00</lastmod>
     </url>
     <url>
+        <loc>http://libreas.eu/ausgabe30/roeder/vita.html</loc>
+        <lastmod>2016-12-29T18:28:28+01:00</lastmod>
+    </url>
+    <url>
         <loc>http://libreas.eu/ausgabe30/schuldt/</loc>
-        <lastmod>2016-12-23T12:02:12+01:00</lastmod>
+        <lastmod>2016-12-30T14:35:34+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe30/schuldt/meta.yaml</loc>
@@ -1998,15 +2018,19 @@
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe30/steinhauer/</loc>
-        <lastmod>2016-12-23T08:29:54+01:00</lastmod>
+        <lastmod>2016-12-30T14:30:11+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe30/steinhauer/meta.yaml</loc>
         <lastmod>2016-12-23T08:29:54+01:00</lastmod>
     </url>
     <url>
+        <loc>http://libreas.eu/ausgabe30/steinhauer/vita.html</loc>
+        <lastmod>2016-12-30T14:27:24+01:00</lastmod>
+    </url>
+    <url>
         <loc>http://libreas.eu/ausgabe30/tullio/</loc>
-        <lastmod>2016-12-23T08:29:54+01:00</lastmod>
+        <lastmod>2016-12-30T14:32:56+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe30/tullio/meta.yaml</loc>

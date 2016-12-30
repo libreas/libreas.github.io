@@ -8,10 +8,10 @@ Gaststätte auf der Marzahner Promenade in Berlin-Marzahn einnimmt.
 Das Wandbild trägt den Titel *Frieden* und ist leider furchtbar aktuell
 angesichts der erschreckenden Eskalation des Krieges in Syrien, dem man
 in der globalen Perspektive erschreckend hilflos gegenüberzustehen
-verpflichtet ist - ein Gefühl, das dieser Tweet 
+verpflichtet ist -- ein Gefühl, das dieser Tweet 
 <https://twitter.com/sshaked/status/809112310119800833> 
 des Bibliothekswissenschaftlers Shaked Spear deprimierend präzise fasst
-- und auf einer lokalen Ebene immerhin mit der Bereitschaft zur Aufnahme
+-- und auf einer lokalen Ebene immerhin mit der Bereitschaft zur Aufnahme
 von Flüchtlingen einhergehen kann und aus unserer Sicht auch muss. In
 diesem Zusammenhang sei noch einmal auf die hevorragende Institution der
 Asylotheken verwiesen: <http://www.asylothek.de/>.
@@ -23,7 +23,7 @@ sich als Unterlagerung ein Porträt an. In diesem Ausschnitt wirkt es wie
 ein Aufruf, zwischen den Zeilen zu lesen, genau hinzuschauen, wie eine
 Erinnerung also daran, dass sich hinter dem vordergründig und
 unmittelbar Wirkenden Variationen und andere Perspektiven befinden. Der
-sinnliche Fokus - Auge und Mund - liegt auf dem Sehen und Sprechen.
+sinnliche Fokus -- Auge und Mund -- liegt auf dem Sehen und Sprechen.
 Überraschenderweise fehlt auch in der Gesamtsicht das Ohr, als wäre das
 Zuhören in der späten DDR ohne Belang. Wenn Sprache wahrgenommen wird,
 dann wird sie von den Lippen gelesen.
@@ -40,7 +40,7 @@ Alltagsillustration, wie sie für den Städtebau der DDR typisch war und
 der neuen Fußgängerzone im neuen Wohngebiet der vor ihrem Ende stehenden
 Deutschen Demokratischen Republik einen Symbolreigen des sozialistischen
 Narrativs vermitteln sollte. Picassos Friedenstaube trifft die
-Ingenieure des Menschlichen - das ist die Bildsprache nicht nur dieser
+Ingenieure des Menschlichen -- das ist die Bildsprache nicht nur dieser
 Marzahner Promenadenmischung.
 
 Wenigstens ein Teil der Redaktion trägt Spurenelemente dieser

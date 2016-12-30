@@ -58,7 +58,7 @@ ist die Migration von Software,[^2] welches an dieser Stelle jedoch
 nicht näher einbezogen werden soll – hier geht es ausschließlich um die
 Migration von Daten.
 
-Levine 2009 beschrieb das Datenmigrationsproblem wie folgt:
+Levine, 2009, beschrieb das Datenmigrationsproblem wie folgt:
 
 > *"Data migration is the process of making a copy of data and moving it
 > from one device or system to another, preferably without disrupting or
