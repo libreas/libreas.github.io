@@ -45,14 +45,14 @@ layout: default
 
     {% if page.issue == "30" %}
     <div align="right">
-    <p><small><a itemprop="sameAs" href="https://via.hypothes.is/{{ site.url }}{{ page.url | remove:'index.html' }}">Annotate via hypthes.is</a></small></p>
+    <p><small><a itemprop="sameAs" href="https://via.hypothes.is/{{ site.url }}{{ page.url | remove:'index.html' }}">Annotate via hypothes.is</a></small></p>
     </div>
     {% endif %}
 
 
     {% if page.urn %}
     <div align="right">
-    <p><small><a itemprop="sameAs" href="https://via.hypothes.is/{{ site.url }}{{ page.url | remove:'index.html' }}">Annotate via hypthes.is</a></small></p>
+    <p><small><a itemprop="sameAs" href="https://via.hypothes.is/{{ site.url }}{{ page.url | remove:'index.html' }}">Annotate via hypothes.is</a></small></p>
         <small><a itemprop="sameAs" href="http://nbn-resolving.de/{{ page.urn }}">Download PDF @ edoc HU Berlin</a>
             <br>
             {{ page.urn }} </small>
@@ -62,6 +62,9 @@ layout: default
 
         {% if page.title %}
         <h1 itemprop="name" class="title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
+        {% if page.subtitle %}
+        <h2><small>{{ page.subtitle }}</small></h2>
+        {% endif %}
         {% endif %}
 
 
@@ -116,7 +119,7 @@ layout: default
             {% else %}
             {{ author }},
             {% endif %}
-            {% endfor %}"{{ page.title }}". <i itemprop="provider">{{ page.journal }}</i>, {{ page.issue }} (<span itemprop="datePublished">{{ page.year }}</span>). <a itemprop="url" href="{{ site.url }}{{ page.url | remove:'index.html' }}">{{ site.url }}{{ page.url | remove:'index.html' }}</a>
+            {% endfor %}"{{ page.title }}{{ page.subtitle | prepend:'. ' }}". <i itemprop="provider">{{ page.journal }}</i>, {{ page.issue }} (<span itemprop="datePublished">{{ page.year }}</span>). <a itemprop="url" href="{{ site.url }}{{ page.url | remove:'index.html' }}">{{ site.url }}{{ page.url | remove:'index.html' }}</a>
         </small>
         <hr>
     </p>
