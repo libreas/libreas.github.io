@@ -150,7 +150,7 @@ ga('send', 'pageview');
 
     
     <div align="right">
-    <p><small><a itemprop="sameAs" href="https://via.hypothes.is/http://libreas.eu/ausgabe26/03blumer/meta.yaml">Annotate via hypthes.is</a></small></p>
+    <p><small><a itemprop="sameAs" href="https://via.hypothes.is/http://libreas.eu/ausgabe26/03blumer/meta.yaml">Annotate via hypothes.is</a></small></p>
         <small><a itemprop="sameAs" href="http://nbn-resolving.de/urn:nbn:de:kobv:11-100222616">Download PDF @ edoc HU Berlin</a>
             <br>
             urn:nbn:de:kobv:11-100222616 </small>
@@ -159,6 +159,9 @@ ga('send', 'pageview');
 
         
         <h1 itemprop="name" class="title">Urban Revitalization, Gentrification, and the Public Library: The Case of Lausanne, Switzerland</h1>
+        
+        <h2><small></small></h2>
+        
         
 
 
@@ -203,7 +206,7 @@ ga('send', 'pageview');
             
             Karsten Schuldt,
             
-            "Urban Revitalization, Gentrification, and the Public Library: The Case of Lausanne, Switzerland". <i itemprop="provider">LIBREAS. Library Ideas</i>, 26 (<span itemprop="datePublished">2014</span>). <a itemprop="url" href="http://libreas.eu/ausgabe26/03blumer/meta.yaml">http://libreas.eu/ausgabe26/03blumer/meta.yaml</a>
+            "Urban Revitalization, Gentrification, and the Public Library: The Case of Lausanne, Switzerland. ". <i itemprop="provider">LIBREAS. Library Ideas</i>, 26 (<span itemprop="datePublished">2014</span>). <a itemprop="url" href="http://libreas.eu/ausgabe26/03blumer/meta.yaml">http://libreas.eu/ausgabe26/03blumer/meta.yaml</a>
         </small>
         <hr>
     </p>
@@ -234,7 +237,7 @@ ga('send', 'pageview');
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2016-12-30</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2016-12-31</a>)</p>
 
 </footer>
       </div>

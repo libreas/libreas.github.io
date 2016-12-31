@@ -153,6 +153,9 @@ ga('send', 'pageview');
         
         <h1 itemprop="name" class="title">Editorial #28: Das Bild der Bibliothek</h1>
         
+        <h2><small></small></h2>
+        
+        
 
 
         
@@ -184,7 +187,7 @@ ga('send', 'pageview');
             
             Redaktion LIBREAS,
             
-            "Editorial #28: Das Bild der Bibliothek". <i itemprop="provider">LIBREAS. Library Ideas</i>, 28 (<span itemprop="datePublished">2015</span>). <a itemprop="url" href="http://libreas.eu/ausgabe28/00editorial/meta.yaml">http://libreas.eu/ausgabe28/00editorial/meta.yaml</a>
+            "Editorial #28: Das Bild der Bibliothek. ". <i itemprop="provider">LIBREAS. Library Ideas</i>, 28 (<span itemprop="datePublished">2015</span>). <a itemprop="url" href="http://libreas.eu/ausgabe28/00editorial/meta.yaml">http://libreas.eu/ausgabe28/00editorial/meta.yaml</a>
         </small>
         <hr>
     </p>
@@ -215,7 +218,7 @@ ga('send', 'pageview');
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2016-12-30</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2016-12-31</a>)</p>
 
 </footer>
       </div>

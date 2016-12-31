@@ -158,6 +158,7 @@ ga('send', 'pageview');
         
         <h1 itemprop="name" class="title">Rezension zu: Ulrich Herb (2015). <i>Open Science in der Soziologie: Eine interdisziplinäre Bestandsaufnahme zur offenen Wissenschaft und eine Untersuchung ihrer Verbreitung in der Soziologie</i>. Glückstadt: vwh.</h1>
         
+        
 
 
         
@@ -189,7 +190,7 @@ ga('send', 'pageview');
             
             Jens Wonke-Stehle,
             
-            "Rezension zu: Ulrich Herb (2015). <i>Open Science in der Soziologie: Eine interdisziplinäre Bestandsaufnahme zur offenen Wissenschaft und eine Untersuchung ihrer Verbreitung in der Soziologie</i>. Glückstadt: vwh.". <i itemprop="provider">LIBREAS. Library Ideas</i>, 30 (<span itemprop="datePublished">2016</span>). <a itemprop="url" href="http://libreas.eu/ausgabe30/wonke-stehle/meta.yaml">http://libreas.eu/ausgabe30/wonke-stehle/meta.yaml</a>
+            "Rezension zu: Ulrich Herb (2015). <i>Open Science in der Soziologie: Eine interdisziplinäre Bestandsaufnahme zur offenen Wissenschaft und eine Untersuchung ihrer Verbreitung in der Soziologie</i>. Glückstadt: vwh.. ". <i itemprop="provider">LIBREAS. Library Ideas</i>, 30 (<span itemprop="datePublished">2016</span>). <a itemprop="url" href="http://libreas.eu/ausgabe30/wonke-stehle/meta.yaml">http://libreas.eu/ausgabe30/wonke-stehle/meta.yaml</a>
         </small>
         <hr>
     </p>
@@ -220,7 +221,7 @@ ga('send', 'pageview');
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2016-12-30</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2016-12-31</a>)</p>
 
 </footer>
       </div>

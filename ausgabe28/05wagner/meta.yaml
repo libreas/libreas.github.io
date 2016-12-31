@@ -153,6 +153,7 @@ ga('send', 'pageview');
         
         <h1 itemprop="name" class="title">Die architektonische Idee der modernen Bibliothek</h1>
         
+        
 
 
         
@@ -188,7 +189,7 @@ ga('send', 'pageview');
             
             Kirsten Wagner,
             
-            "Die architektonische Idee der modernen Bibliothek". <i itemprop="provider">LIBREAS. Library Ideas</i>, 28 (<span itemprop="datePublished">2015</span>). <a itemprop="url" href="http://libreas.eu/ausgabe28/05wagner/meta.yaml">http://libreas.eu/ausgabe28/05wagner/meta.yaml</a>
+            "Die architektonische Idee der modernen Bibliothek. ". <i itemprop="provider">LIBREAS. Library Ideas</i>, 28 (<span itemprop="datePublished">2015</span>). <a itemprop="url" href="http://libreas.eu/ausgabe28/05wagner/meta.yaml">http://libreas.eu/ausgabe28/05wagner/meta.yaml</a>
         </small>
         <hr>
     </p>
@@ -219,7 +220,7 @@ ga('send', 'pageview');
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2016-12-30</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2016-12-31</a>)</p>
 
 </footer>
       </div>

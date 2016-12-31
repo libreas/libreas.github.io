@@ -9,7 +9,7 @@
 	<meta name="author" content="LIBREAS. Library Ideas">
 
 	<!--
-	<meta name="description" content="> > > LIBREAS. Library Ideas # 29 Annotate via hypthes.is Download PDF @ edoc HU Berlin urn:nbn:de:kobv:11-100238139 Bibliographien: Einsichten &hellip;">
+	<meta name="description" content="> > > LIBREAS. Library Ideas # 29 Annotate via hypothes.is Download PDF @ edoc HU Berlin urn:nbn:de:kobv:11-100238139 Bibliographien: Einsichten &hellip;">
 	 -->
 
 <!-- RDFa DC -->
@@ -149,7 +149,7 @@ ga('send', 'pageview');
 
     
     <div align="right">
-    <p><small><a itemprop="sameAs" href="https://via.hypothes.is/http://libreas.eu/ausgabe29/03kojakeva/meta.yaml">Annotate via hypthes.is</a></small></p>
+    <p><small><a itemprop="sameAs" href="https://via.hypothes.is/http://libreas.eu/ausgabe29/03kojakeva/meta.yaml">Annotate via hypothes.is</a></small></p>
         <small><a itemprop="sameAs" href="http://nbn-resolving.de/urn:nbn:de:kobv:11-100238139">Download PDF @ edoc HU Berlin</a>
             <br>
             urn:nbn:de:kobv:11-100238139 </small>
@@ -158,6 +158,7 @@ ga('send', 'pageview');
 
         
         <h1 itemprop="name" class="title">Bibliographien: Einsichten eines ihrer möglichen Leser - ein Rundgang</h1>
+        
         
 
 
@@ -190,7 +191,7 @@ ga('send', 'pageview');
             
             Krisztof Ján Kojakeva,
             
-            "Bibliographien: Einsichten eines ihrer möglichen Leser - ein Rundgang". <i itemprop="provider">LIBREAS. Library Ideas</i>, 29 (<span itemprop="datePublished">2016</span>). <a itemprop="url" href="http://libreas.eu/ausgabe29/03kojakeva/meta.yaml">http://libreas.eu/ausgabe29/03kojakeva/meta.yaml</a>
+            "Bibliographien: Einsichten eines ihrer möglichen Leser - ein Rundgang. ". <i itemprop="provider">LIBREAS. Library Ideas</i>, 29 (<span itemprop="datePublished">2016</span>). <a itemprop="url" href="http://libreas.eu/ausgabe29/03kojakeva/meta.yaml">http://libreas.eu/ausgabe29/03kojakeva/meta.yaml</a>
         </small>
         <hr>
     </p>
@@ -221,7 +222,7 @@ ga('send', 'pageview');
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2016-12-30</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2016-12-31</a>)</p>
 
 </footer>
       </div>

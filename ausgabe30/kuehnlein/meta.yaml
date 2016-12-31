@@ -160,6 +160,7 @@ ga('send', 'pageview');
         
         <h1 itemprop="name" class="title">Rahmenbedingungen für das Publizieren eines Open-Access-Journals. Ein Szenario</h1>
         
+        
 
 
         
@@ -203,7 +204,7 @@ ga('send', 'pageview');
             
             Mareen Reichardt,
             
-            "Rahmenbedingungen für das Publizieren eines Open-Access-Journals. Ein Szenario". <i itemprop="provider">LIBREAS. Library Ideas</i>, 30 (<span itemprop="datePublished">2016</span>). <a itemprop="url" href="http://libreas.eu/ausgabe30/kuehnlein/meta.yaml">http://libreas.eu/ausgabe30/kuehnlein/meta.yaml</a>
+            "Rahmenbedingungen für das Publizieren eines Open-Access-Journals. Ein Szenario. ". <i itemprop="provider">LIBREAS. Library Ideas</i>, 30 (<span itemprop="datePublished">2016</span>). <a itemprop="url" href="http://libreas.eu/ausgabe30/kuehnlein/meta.yaml">http://libreas.eu/ausgabe30/kuehnlein/meta.yaml</a>
         </small>
         <hr>
     </p>
@@ -234,7 +235,7 @@ ga('send', 'pageview');
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2016-12-30</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2016-12-31</a>)</p>
 
 </footer>
       </div>

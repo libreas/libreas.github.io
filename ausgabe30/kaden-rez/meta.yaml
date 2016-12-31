@@ -9,7 +9,7 @@
 	<meta name="author" content="LIBREAS. Library Ideas">
 
 	<!--
-	<meta name="description" content="> > > LIBREAS. Library Ideas # 30 Annotate via hypothes.is Bibliothek und Poesie Ben Kaden Zitiervorschlag Ben Kaden, "Bibliothek und Poesie". &hellip;">
+	<meta name="description" content="> > > LIBREAS. Library Ideas # 30 Annotate via hypothes.is Bibliothek und Poesie Rezension zu: Raymund Dittrich (Hrsg.) (2016): Bibliothek der &hellip;">
 	 -->
 
 <!-- RDFa DC -->
@@ -158,6 +158,9 @@ ga('send', 'pageview');
         
         <h1 itemprop="name" class="title">Bibliothek und Poesie</h1>
         
+        <h2><small>Rezension zu: Raymund Dittrich (Hrsg.) (2016): <i>Bibliothek der Dichter. Eine Auswahl deutschsprachiger Bibliotheksgedichte vom 16. Jahrhundert bis in die Gegenwart</i>. Leipzig: Engelsdorfer Verlag</small></h2>
+        
+        
 
 
         
@@ -189,7 +192,7 @@ ga('send', 'pageview');
             
             Ben Kaden,
             
-            "Bibliothek und Poesie". <i itemprop="provider">LIBREAS. Library Ideas</i>, 30 (<span itemprop="datePublished">2016</span>). <a itemprop="url" href="http://libreas.eu/ausgabe30/kaden-rez/meta.yaml">http://libreas.eu/ausgabe30/kaden-rez/meta.yaml</a>
+            "Bibliothek und Poesie. Rezension zu: Raymund Dittrich (Hrsg.) (2016): <i>Bibliothek der Dichter. Eine Auswahl deutschsprachiger Bibliotheksgedichte vom 16. Jahrhundert bis in die Gegenwart</i>. Leipzig: Engelsdorfer Verlag". <i itemprop="provider">LIBREAS. Library Ideas</i>, 30 (<span itemprop="datePublished">2016</span>). <a itemprop="url" href="http://libreas.eu/ausgabe30/kaden-rez/meta.yaml">http://libreas.eu/ausgabe30/kaden-rez/meta.yaml</a>
         </small>
         <hr>
     </p>
@@ -220,7 +223,7 @@ ga('send', 'pageview');
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2016-12-30</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2016-12-31</a>)</p>
 
 </footer>
       </div>

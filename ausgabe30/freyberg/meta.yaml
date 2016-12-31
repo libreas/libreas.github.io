@@ -5,18 +5,18 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>Die Lesbarkeit der Welt. Rezension zu 'The Concept of Information in Library and Information Science. A Field in Search of Its Boundaries: 8 Short Comments Concerning Information'. In: Cybernetics and Human Knowing. Vol. 22 (2015), 1, 57-80. Kurzartikel von Luciano Floridi, Søren Brier, Torkild Thellefsen, Martin Thellefsen, Bent Sørensen, Birger Hjørland, Brenda Dervin, Ken Herold, Per Hasle und Michael Buckland. - LIBREAS. Library Ideas</title>
+	<title>Die Lesbarkeit der Welt - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
 	<!--
-	<meta name="description" content="> > > LIBREAS. Library Ideas # 30 Annotate via hypothes.is Die Lesbarkeit der Welt. Rezension zu 'The Concept of Information in Library and &hellip;">
+	<meta name="description" content="> > > LIBREAS. Library Ideas # 30 Annotate via hypothes.is Die Lesbarkeit der Welt Rezension zu 'The Concept of Information in Library and &hellip;">
 	 -->
 
 <!-- RDFa DC -->
 
  <!-- RDFa Metadata (in DublinCore) -->
     
-    <meta property="dc:title" content="Die Lesbarkeit der Welt. Rezension zu &#39;The Concept of Information in Library and Information Science. A Field in Search of Its Boundaries: 8 Short Comments Concerning Information&#39;. In: Cybernetics and Human Knowing. Vol. 22 (2015), 1, 57-80. Kurzartikel von Luciano Floridi, Søren Brier, Torkild Thellefsen, Martin Thellefsen, Bent Sørensen, Birger Hjørland, Brenda Dervin, Ken Herold, Per Hasle und Michael Buckland." />
+    <meta property="dc:title" content="Die Lesbarkeit der Welt" />
     
     
     
@@ -156,7 +156,10 @@ ga('send', 'pageview');
         
 
         
-        <h1 itemprop="name" class="title">Die Lesbarkeit der Welt. Rezension zu 'The Concept of Information in Library and Information Science. A Field in Search of Its Boundaries: 8 Short Comments Concerning Information'. In: Cybernetics and Human Knowing. Vol. 22 (2015), 1, 57-80. Kurzartikel von Luciano Floridi, Søren Brier, Torkild Thellefsen, Martin Thellefsen, Bent Sørensen, Birger Hjørland, Brenda Dervin, Ken Herold, Per Hasle und Michael Buckland.</h1>
+        <h1 itemprop="name" class="title">Die Lesbarkeit der Welt</h1>
+        
+        <h2><small>Rezension zu 'The Concept of Information in Library and Information Science. A Field in Search of Its Boundaries: 8 Short Comments Concerning Information'. In: Cybernetics and Human Knowing. Vol. 22 (2015), 1, 57-80. Kurzartikel von Luciano Floridi, Søren Brier, Torkild Thellefsen, Martin Thellefsen, Bent Sørensen, Birger Hjørland, Brenda Dervin, Ken Herold, Per Hasle und Michael Buckland.</small></h2>
+        
         
 
 
@@ -220,7 +223,7 @@ ga('send', 'pageview');
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2016-12-30</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2016-12-31</a>)</p>
 
 </footer>
       </div>
