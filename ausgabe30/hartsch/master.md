@@ -56,7 +56,7 @@ das Hybridkonzept, kein leichtes Unterfangen, aber vielleicht ein
 durchaus notwendiges darstellt. Dabei hat ein weitgreifendes Verständnis
 des Hybridbegriffs durchaus das Potential, umfassend alle Formen und
 Begegnungsräume analoger Herkunftswelten mit Digitalisierung abzudecken
-und die Normalität ihrer symbiotischen Beziehung aufzuzeigen.
+und die Normalität ihrer notwendig symbiotischen Beziehung aufzuzeigen.
 
 Dies mit Blick auf die Geisteswissenschaften vor dem Hintergrund des
 aktuellen Diskussionsstandes zum digitalen Wandel herauszuarbeiten und
@@ -85,7 +85,7 @@ Bei einem solchen theoriegeleiteten Versuch geht es letztlich um die
 Klärung aus bibliothekarischer Sicht, inwieweit der Hybridansatz als
 Dauerkonzept unerlässlich sein könnte für die "Werkstatt”,[^14] das
 "Laboratorium"[^15] der Geisteswissenschaften. Wäre sogar von einer
-Notwendigkeit für textorientierte Buchwissenschaften zu sprechen? Ist es
+Notwendigkeit für textorientierte Buchwissenschaften zu sprechen? Ist er
 dauerhafter Ausdruck eines Komplementaritätsprinzips von analogen
 Herkunftswelten und digitalen Simulacra? Ist die mediale Andersartigkeit
 zwischen Analogem und Digitalem für die Geisteswissenschaften
@@ -116,7 +116,7 @@ ansatzweise deutlich werden können.
 
 Der Ort der Bibliothek gehört von seinen Möglichkeiten her, wie die
 Profession dies gerade trendsicher wiederentdeckt, zu den realen Räumen
-von Wissensgenerierung auch im digitalen Zeitalter. Wer von
+von Wissensgenerierung auch im digitalen Zeitalter.[^aa] Wer von
 Wissensgenerierung spricht, wird selbstredend von der medialen
 Vermittlung von Informationen und Wissen zu sprechen haben, also
 Anleihen bei der Medienwissenschaft machen müssen, die Hybridität als
@@ -218,9 +218,9 @@ Boorstin:
 > communication in our country today \[…\] will have no difficulty in
 > writing his own prescription for the ideal communication device. \[…\]
 > There is no better example of the technological amnesia that afflicts
-> the most highly developed civilizations – our tendency to forget
+> the most highly developed civilizations -- our tendency to forget
 > simple ways of doing things in our desperate preoccupation with
-> complex ways of doing them – than our need to be reminded that we
+> complex ways of doing them -- than our need to be reminded that we
 > already possess precisely this device. The name for it (a wonderful
 > four-letter word) is \[…\].”[^31]
 
@@ -403,7 +403,7 @@ Buchdruckkultur \[…\]."[^59]
 Ähnlich ganzheitlich äußert sich auch der Mitbegründer und ehemalige
 Direktor des Media Lab am Massachusetts Institute of Technology Nicholas
 Negroponte 1995: "Der Umgang mit dem Computer hat nichts mehr mit
-Rechnen und Berechnen zu tun – er ist ein Lebensstil geworden."[^60]
+Rechnen und Berechnen zu tun -- er ist ein Lebensstil geworden."[^60]
 
 Um für die Untersuchung zur notwendigen Komplementarität analoger und
 digitaler Medien im Rahmen eines umfassenden Hybridansatzes gegenüber
@@ -434,7 +434,7 @@ Vordenkern der digitalen Revolution gefolgt werden:
 Es ist demnach wenig sinnvoll, weiter als bis zu der breitenwirksamen
 Phase des Internets Mitte der 90er Jahre zurückzuschauen.
 
-### Dauerkonzept "Hybridbibliothek"?
+### Dauerkonzept "Hybridbibliothek"
 
 
 Evoziert wurde ein kontinuierlicher Druck zur Positionierung gegenüber
@@ -464,8 +464,8 @@ und hat den Eindruck, "dass intellektuelle Debatten im Netz allzu
 schnell in reflexartige Befindlichkeitsartikulationen und Stereotypen
 münden." Das sei angesichts der Bedeutung, die das Internet als
 Kommunikationsforum haben könnte, schlimm. Für die Steigerung der
-Qualität des Internet als Reflexionsraum "wäre eine – mit Hartmut Rosa
-gesprochen – Loslösung von der Diktatur der Schnelligkeit
+Qualität des Internet als Reflexionsraum "wäre eine -- mit Hartmut Rosa
+gesprochen -- Loslösung von der Diktatur der Schnelligkeit
 notwendig."[^65]
 
 Valentin Groebner (2012) verweist trotz allgegenwärtiger
@@ -551,7 +551,7 @@ Die vier Entwicklungsstufen "traditionell","automatisiert", "hybrid" und
 increasingly toward the digital.”[^76] Die Endstation "Digital Library”
 hat die beunruhigenden Charakteristika des Virtuellen: "With Type IV
 \[Digital Library\], we arrive at the library as logical entity. It is
-the library without walls – the library that does not collect tangible
+the library without walls -- the library that does not collect tangible
 information bearing entities but instead provides intermediated,
 geographically unconstrained access to distributed, networked digital
 information.”[^77]
@@ -660,7 +660,7 @@ der Tribunalsucht" beschrieben hat:
 > Legitimationskrise geben, wird sie notfalls erfunden: im Interesse der
 > Ubiquisierung des Rechtfertigungsverlangens. Denn heute bedarf
 > offenbar alles der Rechtfertigung: \[…\] das Leben, die Bildung, die
-> Badehose, nur eines bedarf – warum eigentlich? – keiner
+> Badehose, nur eines bedarf -- warum eigentlich? -- keiner
 > Rechtfertigung: die Notwendigkeit der Rechtfertigung von allem und
 > jedem."[^93]
 
@@ -724,7 +724,7 @@ Funktionsweisen von Medien in ihrer Materialität (oder ihrem Fehlen) und
 ihrem diskursiven Potential vorbereitet wird, wie er im Folgenden hier
 ins Visier genommen wird.
 
-### Mediensymbiose – Medienkonkurrenz
+### Mediensymbiose -- Medienkonkurrenz
 
 Für die intermediale Hybridproblematik, wie sie hier in den Blick
 genommen wird für Bibliotheken mit geisteswissenschaftlichem
@@ -778,7 +778,7 @@ die Kraft des Urteils, kommt es zu dem, was Felix Stalder (2016) für
 einen "dramatischen Wechsel" im Verhalten seiner Studierenden hält: "Für
 die Studierenden von heute ist das 'Neue' nicht mehr neu, sondern
 selbstverständlich \[sic!\], während sie vieles, das bis vor Kurzem als
-normal galt – etwa dass man ein Buch physisch in der Bibliothek abholen
+normal galt -- etwa dass man ein Buch physisch in der Bibliothek abholen
 muss –, inzwischen als unnötig kompliziert erfahren."[^99]
 
 Neue Medien entstehen, so die Hypothese hier, aus Unzulänglichkeiten
@@ -804,6 +804,10 @@ Innovation nicht unterschätzt werden. Es ist anzunehmen, dass gerade sie
 ein auslösender Faktor für den Glauben an Verdrängungstelos oder den
 Eindruck von Änderungsszenarien "galaktischen" Ausmaßes oder der
 Empfindung von "tektonischen" Verschiebungen ist.
+
+"Durch die überwiegende Nachahmung des Neuen gerät das, was man das ‚kulturelle Erbe‘ -- die mehraltrig bewährte Nachahmung -- nannte, in jähen Verfall und macht der einaltrigen Nachahmung, der Orientierung an aktuellen und unerwiesenen[sic] Mustern, Platz."[^aa1]
+
+mit entsprechender Fußnote: Sloterdijk (2014), ebd. S. 226.
 
 #### Riepl'sches Komplementaritätsgesetz (1913)
 
@@ -1066,8 +1070,8 @@ Medienevolutionsstufe als "Verbreitungs-Medien".[^122] Für ihn ist Harry
 Pross' mediale Dreiteilung überzeugend und einfach, weil sie in ihrem
 Kern auf das Kriterium der Technik abhebt.[^123] Das Analogmedium Buch
 gehört nach diese Einteilung zu den Sekundärmedien. Jedes Digitalmedium
-gehört zu den Tertiärmedien. *Damit ist das Hybridkonzept im Kern der
-Versuch einer Symbiose zweier Medienklassen mit ganz unterschiedlichen
+gehört zu den Tertiärmedien. *Damit ist das Hybridkonzept im Kern stets der
+Versuch einer Symbiose von Medienklassen mit ganz unterschiedlichen
 medialen Charakteristika.* Im Folgenden soll durchgespielt werden, wie
 weit die Mediensystematik von Harry Pross zu einer Klärung zentraler
 Begriffe der Hybridproblematik wie Symbiose, Konvergenz, Verdrängung
@@ -1080,8 +1084,7 @@ Dehnung und Verzögerung für die Rezeption eines ausgesendeten
 Kommunikationsangebotes in Schriftform diese Freistellung des Empfängers
 von Technik und Gerät ermöglicht, veranschaulicht der Rosettastein (196
 v. Chr.) oder jedes jahrhundertealte Druckwerk. Das "Anschalten" und
-Auslesen des "Device" (im Sinne von Daniel J. Boorstin, siehe Fußnote
-31) erfolgt durch 'In-Augenschein-nehmen'.
+Auslesen des "Device" (im Sinne von Daniel J. Boorstin) erfolgt durch 'In-Augenschein-nehmen'.
 
 Das E-Book beziehungsweise jedes digitale Medium und sein
 Kommunikationsangebot ist technikvermittelt auf Sender- und
@@ -1209,14 +1212,14 @@ digitaler verlinkter Wissensobjekte häufig als ihre Qualität
 herausgestellt gegenüber sequenzieller, linearer Enge gutenbergscher
 Wissenscontainer. Rafael Ball (2013): "Die Nachteile des gedruckten
 Buchs als Medium sind evident: Es lässt nur eine einzige Antwort auf
-gestellte Fragen zu und – einmal gedruckt – muss es nahezu
+gestellte Fragen zu und -- einmal gedruckt -- muss es nahezu
 unwidersprochen bleiben und beansprucht scheinbar ein für allemal
 Gültigkeit. Dynamische Dokumente hingegen konterkarieren diese Gefahr
 mit dem Angebot der digitalen Beliebigkeit und permanenten
 Veränderbarkeit von Information und Inhalten."[^135]
 
-Wenn also Digitalobjekte – zumal im Rahmen kollaborativer
-Arbeitsprozesse in den Geisteswissenschaften – permanentem Palimpsest
+Wenn also Digitalobjekte -- zumal im Rahmen kollaborativer
+Arbeitsprozesse in den Geisteswissenschaften -- permanentem Palimpsest
 zugänglich werden, haben sie allerdings alle Eigenschaften eines
 "fluiden" Dokumentes. In welchen "Petrischalen", metaphorisch
 gesprochen, solche fluiden entgrenzten Wissensobjekte dann in digitalen
@@ -1353,7 +1356,7 @@ nichtkommerzieller Hand (in Hochschulrechenzentren oder auf
 media" beruhen auf der Inanspruchnahme von Diensten multinationaler
 Wirtschaftsunternehmen und sind damit öffentlich-institutionellem
 Zugriff im Bemühen um Archivierung oder Auswertung grundsätzlich
-entzogen. Man denke zum Beispiel an eine für öffentlich finanzierte
+entzogen.[^aa3] Man denke zum Beispiel an eine für öffentlich finanzierte
 Forschung wünschenswerte, aber unzugängliche Komplettkopie der aktuellen
 Facebook- oder Google-Datenbanken.
 
@@ -1435,7 +1438,7 @@ maßgeblich durch körperliche und soziale Interaktion mit Objekten und
 Lebewesen der Umwelt und umfassendes Ansprechen aller Sinnesorgane, des
 Körperbewusstseins und der Orientierung in Realräumen beeinflusst
 wird,[^156] basieren auf aktuellen Erkenntnissen der
-Kognitionsforschung. Sie werden aber ausschließlich auf die – in der Tat
+Kognitionsforschung. Sie werden aber ausschließlich auf die -- in der Tat
 – sehr notwendige Optimierung von Mensch-Maschine-Schnittstellen und
 digitale Usability angewendet, heilen jedoch nicht die unvermeidbaren
 Medienbrüche eines hybriden Informationsraumes, wie ihn die
@@ -1448,7 +1451,7 @@ bebilderten Aufsatz von Harald Reiterer (et al.) nutzt zu keinem
 Zeitpunkt und bei keinem "Blend", die allesamt tertiäre Medien sind, ein
 aufgeschlagenes Sekundärmedium "Buch".[^157] Von "Verschmelzung" kann
 folglich nicht die Rede sein und es bleibt im Kern in diesem Konzept
-ungeklärt, wie Analoges und Digitales sich "vermischen".
+ungeklärt, wie Analoges und Digitales sich "vermischen". Es geht auch wohl weniger um die unverändert utopisch bleibende Vorstellung einer "Verschmelzung" von digitaler und analoger Welt als um das Problem eines funktionierenden Medienpluralismus oder um gelungene Usability-Formen von Mediensymbiosen.
 
 Der Frage, die gänzlich auf das Feld der Medienwissenschaft führt, soll
 nicht weiter nachgegangen werden, wie überhaupt sich Rivalitäten oder
@@ -1491,8 +1494,8 @@ und Medien und Möbel fänden dann technikvermittelt zueinander per
 RFID-Kommunikation.[^163] Nur mit einem entsprechenden "mobilen
 Endgerät", das man auszuleihen oder mitzuführen habe, fände der Nutzer
 Zusammenhängendes in Regalen (die in Grenzen auch "Fließen" lernen
-könnten nach diesem Konzept, obwohl Eigenbrodt – eine analoge
-Reminiszenz – klar erkennt, dass "insbesondere mit Büchern bestückte
+könnten nach diesem Konzept, obwohl Eigenbrodt -- eine analoge
+Reminiszenz -- klar erkennt, dass "insbesondere mit Büchern bestückte
 Regale sehr schwer und damit auch potentiell kippgefährdet"[^164]
 seien!).
 
@@ -1570,7 +1573,7 @@ bestätigt:
 
 Es wäre an dieser Stelle sicher eine vertiefende Analyse der
 "Hieroglyphe" im Sinne Kracauers bzw. des Jargonbegriffs "Fluid"
-geboten, die hier aber nicht geleistet werden kann.[^176] Nach Hartmut
+geboten[^aa2], die hier aber nicht geleistet werden kann.[^176] Nach Hartmut
 Rosa in aller Kürze bezeichne die Metapher des "flows" oder "fluids" die
 Wahrnehmung einer eher unbestimmten Situation mit hohen,
 unvorhersehbaren Veränderungsraten. Sie sei unter anderem eine
@@ -1598,7 +1601,7 @@ eines "socio-epistemological creative turn"[^180] wichtige theoretische
 Hinweise für Konzepte von Mensch-Raum-Technik-Schnittstellen und die
 Möglichkeitsbedingungen für kreative kognitive Prozesse. Die Autoren
 Peschl und Fundneider (2012) stellen die Frage, "wie Räume aussehen
-müssten, in denen – aus einer epistemologischen Perspektive betrachtet –
+müssten, in denen -- aus einer epistemologischen Perspektive betrachtet –
 Prozesse der *Wissensgenerierung* und Innovation an erster Stelle
 stehen."[^181] Sie liefern den Begriff der "enabling spaces" und den
 theoretischen Rahmen, aber bedauerlicher Weise nicht auch ganz konkrete
@@ -1688,7 +1691,7 @@ hier nur "maschinelles", also computergetriebenes Lesen.
 
 In diese Richtung zielt auch die Reflexion von Rigoberto Carvajal (2015,
 Informatiker): "Naheliegend wäre es, Big Data über die Größe der Daten
-zu definieren. Doch wo setzen wir die Grenze – bei 100 Gigabyte, 10
+zu definieren. Doch wo setzen wir die Grenze -- bei 100 Gigabyte, 10
 Terabyte, 1 Petabyte? \[…\] Da sich das, was wir unter groß verstehen,
 mit der Zeit ändert, müssen wir Big Data anders definieren, und zwar in
 Bezug auf unsere Fähigkeit, die Datenmengen zu verarbeiten."[^196] Also
@@ -1718,19 +1721,19 @@ zwangsläufig auch der Sammlungsbegriff problematisch und es muss über
 Archivierung, Speicherung, dauerhafte Verfügbarkeit und auch
 verantwortungsbewusstes Vergessen neu nachgedacht werden.
 
-Das denkbare Handlungsspektrum im Angesicht des Viel-zu-viel geht von
-Ohnmacht bis 'Sammelwut'. Das Umkippen von qualifizierten Sammlungen in
-bloße Vorratshaltung von 'Informationen' erweist sich als ein
-ernstzunehmendes Problem.[^201] Es kann zu ausufernden Formen von
-analoger Lagerhaltung (Stichwort: Speicherbibliothek) oder digitaler
-Massendatenspeicherung auf Vorrat ohne akute Fragestellungen führen.
-Eine rein auf das Quantitative zielende Daten-'Sammelwut' verursacht zu
-einem bedeutenden Teil das mit, was als Informationsüberflutung
-wahrgenommen wird und was kaum noch als Information auswertbar ist noch
-als Wissen integrierbar.
+Das denkbare Handlungsspektrum im Angesicht des Viel-zu-viel geht von Ohnmacht
+bis 'Sammelwut'. Das Umkippen von qualifizierten Sammlungen in bloße
+Vorratshaltung von 'Informationen' erweist sich als ein ernstzunehmendes
+Problem.[^201] Es kann zu ausufernden Formen von analoger Lagerhaltung
+(Stichwort: Speicherbibliothek) oder digitaler Massendatenspeicherung auf
+Vorrat ohne akute Fragestellungen führen. Eine rein auf das Quantitative
+zielende Daten-'Sammelwut' verursacht zu einem bedeutenden Teil das mit, was
+als Informationsüberflutung wahrgenommen wird und was kaum noch als
+Information auswertbar ist, als  Verfügungswissen vom Verstand integrierbar
+und als Orientierungswissen vernunftmäßig anwendbar ist.[^aa4] 
 
 Peter Haber (2005): "Wie kann eine Gesellschaft mit dieser Menge von
-Wissen – wenn es sich denn wirklich um Wissen handelt – umgehen? Zwei
+Wissen -- wenn es sich denn wirklich um Wissen handelt -- umgehen? Zwei
 Aspekte werden die Diskussion zu diesem Thema in Zukunft prägen: Zum
 einen werden bei der Informationsbeschaffung und -authentifizierung neue
 Kompetenzen nötig sein. Zum anderen wird die Wissensgesellschaft neu
@@ -1738,14 +1741,14 @@ lernen müssen, zu *vergessen*."[^202]
 
 Von kaum zu unterschätzender Wichtigkeit beim Nachdenken über die
 Ursachen der digitalen Informationsflut ist, dass jedes Wissensobjekt –
-wenn es nicht schon originär digitalen Ursprungs ist – immerhin
+wenn es nicht schon originär digitalen Ursprungs ist -- immerhin
 willentlich eine Konversion ins Digitale erfahren muss, um einer
 digitalen Sammlung hinzugefügt zu werden. Nicht selten mit erheblichem
 Aufwand und unter hohen Kosten.
 
 Hierhin gehören alle Formen der Retrokonversion. Man könnte John Locke
 und G.W. Leibniz paraphrasieren und sagen: Nichts ist im Digitalen, was
-nicht vorher durch die Konversion gegangen ist – außer dem Digitalen
+nicht vorher durch die Konversion gegangen ist -- außer dem Digitalen
 selbst. Unter Letzerem wäre die immense Menge von "digital
 born"-Objekten zu verstehen sowie die Ableitungen von sekundären
 digitalen Wissensbeständen aus primären digitalen Grunddaten, also das,
@@ -1775,7 +1778,7 @@ a grid of numbers that can be stored as a representation which can then
 be manipulated using algorithms.”[^204]
 
 "Everything \[…\] from the continuous flow of everyday life”. Der
-Sammlungsgedanke wird hier – das Wort darf gewagt werden – total.
+Sammlungsgedanke wird hier -- das Wort darf gewagt werden -- total.
 Beachtenswert ist hier auch, dass das wollende Subjekt des oben
 genannten Satzes der "computational device" ist, welcher zu verstehen
 verlangt. Daher mahnt Peter Haber (2000) zu Recht an: "Letztlich wird es
@@ -1844,7 +1847,7 @@ Jana Klawitter (2011) und ihre Ko-Autoren positionieren sich dezidiert
 > Kulturwissenschaften wird in diesem Band anstelle einer Ablösung der
 > klassischen, nicht-digitalen Forschung von einer Erweiterung dieser um
 > 'das Digitale' und somit von einem verzahnten Komplex zwischen
-> digitalen und nichtdigitalen Phänomenen ausgegangen – dies sowohl im
+> digitalen und nichtdigitalen Phänomenen ausgegangen -- dies sowohl im
 > intra- als auch im interdisziplinären Zusammenspiel. \[…\]
 > Berücksichtigung muss somit finden, dass nicht allein auf
 > computerbasierte Repräsentationen digital und im Internet referenziert
@@ -1946,7 +1949,7 @@ Buschhaus)[^221] sichtbar, was meint, dass über Jahre beziehungsweise
 Jahrzehnte Argumente des Für und Wider im Kern gleich bleiben und trotz
 einer technikgetriebenen Wandlungsgeschwindigkeit der
 Oberflächenphänomene und trotz modischer Anpassungen des Diskursjargons
-die Landschaft der Problemlagen – häufig ungelöster – die selbe
+die Landschaft der Problemlagen -- häufig ungelöster -- die selbe
 bleibt.[^222]
 
 Exemplarisch wurde von einem als zentral zu bewertenden Zitat des
@@ -1969,7 +1972,7 @@ kulturwissenschaftlichen Hinweisen auf Mechanismen von
 Aufmerksamkeitsentzug, von Antiquation und Obsolezenz als kultureller
 technikgetriebener Ersetzungsmechaniken (nach Aleida Assmann 2001,
 2013)[^223] in Gesellschaften, die zunehmend als in permanenter
-Transformation befindlich sich begreifen.
+Transformation befindlich sich begreifen.[^aa5]
 
 Verstetigung wurde auch sichtbar in der Form einer teleologisch
 unterlegten, letztlich unwissenschaftlichen Rhetorik zu permanentem
@@ -2113,7 +2116,7 @@ kulturellen Gedächtnis."[^237]
 > Wissensformen werden, dann könnte die Fähigkeit zum selbstständigen
 > Denken \[…\] weniger wichtig werden. \[…\] Das Denken könnte sich
 > stattdessen einer \[…\] Denkmethode zuwenden, \[…\] wie man die
-> Technik nutzen muss, um ein brauchbares Ergebnis zu erzielen – ein
+> Technik nutzen muss, um ein brauchbares Ergebnis zu erzielen -- ein
 > umwälzender Prozess des reflexiven Denkens und des gemeinschaftlichen
 > Überdenkens. \[…\] Das computergestützte Subjekt ist entscheidend für
 > ein datenzentriertes Zeitalter \[…\]. Kurzum, Bildung ist noch immer
@@ -2155,8 +2158,16 @@ geschichtswissenschaftlichen "Werkstätten" könnte es sich vom Ergebnis
 her um eine "Reauratisierung der Leseerfahrung"[^242] handeln, um eine
 Wiederentdeckung der "Eigenzeiten"[^243] von wissensgenerierenden
 Leseprozessen gegenüber digital induzierter systemischer Beschleunigung,
-um einen "Gegenfluss von Aufmerksamkeit"[^244] für analoge
-Herkunftswelten.
+um einen "Gegenfluss von Aufmerksamkeit"[^244] für analoge Festkörperwelten, einen "material turn": 
+
+> "Möglicherweise besteht mittelfristig das Privileg nicht mehr darin, im
+> Digitalen präsent zu sein […], sondern eher darin, im Analogen zu
+> existieren. Durch das Ausweichen ins Analoge könnte man einerseits der
+> Gefahr der digitalen Überwachung entgehen, andererseits aber auch der
+> Gefahr des digitalen Vergessens entgegenwirken. Denn das Analoge (in Form
+> des säurefreien Papiers, des Pergaments oder noch besser: des gemeißelten
+> Steins[sic]) ist am ehesten dazu in der Lage, langfristiges Überleben im
+> kulturellen Gedächtnis zu sichern."
 
 Diese Wiederentdeckung analoger Herkunftswelten verweist in letzter
 Konsequenz eigentlich auf nichts anderes als die Bewahrung
@@ -2165,7 +2176,7 @@ und bedeutungslos gewordenen "Informationswissenschaften", wie Winfried
 Gödert alarmiert konstatierte,[^246] müssten vermutlich deutlicher den
 Fokus "Mensch" [^247] in spätmodernen Zeiten wiedergewinnen,[^248] damit
 sie in der digitalen Cloud kondensieren und realweltlich wieder auf die
-Erde hienieden zurückfallen könnten.
+Erde zurückfallen könnten.
 
 ### Literaturverzeichnis
 
@@ -2174,6 +2185,8 @@ Erde hienieden zurückfallen könnten.
 
  **Assmann, Aleida** (Hg. et al. 2001) Aufmerksamkeiten. Archäologie
  der literarischen Kommunikation VII. München : Fink, 2001.
+
+**Assmann, Aleida** (2016) Formen des Vergessens. Göttingen : Wallstein, 2016.
 
  **Assmann, Aleida** (2013) Ist die Zeit aus den Fugen? Aufstieg und
  Fall des Zeitregimes der Moderne. München : Hanser, 2013.
@@ -2216,12 +2229,14 @@ Erde hienieden zurückfallen könnten.
  **Borscheid**, Peter (2004): Das Tempo-Virus. Eine Kulturgeschichte
  der Beschleunigung. Frankfurt, Main : Campus, 2004.
 
+ **Bredekamp**, Horst (2016) Die Insistenz des Homo imaginens. In: Mittelstraß, Jürgen (Hg. et al. 2016) Die Zukunft der Wissensspeicher. Konstanz ; München : UVK Verlagsgesellschaft, 2016, S. 131-143.
+
  **Burke**, Peter (zuerst 2012, dt. Übers. 2014) Die Explosion des
  Wissens. Von der Encyclopédie bis Wikipedia. Berlin : Wagenbach, 2014.
 
  **Buschhaus**, Markus (2008) Am einen & am anderen Ende der
  Gutenberg-Galaxis. In: Grampp, Sven (Hg. et al., 2008)
- Revolutionsmedien – Medienrevolutionen, S. 205-228.
+ Revolutionsmedien -- Medienrevolutionen, S. 205-228.
 
  **Carstensen**, Tanja (Hg. et al. 2014) Digitale Subjekte. Praktiken
  der Subjektivierung im Medienumbruch der Gegenwart. Bielefeld :
@@ -2235,7 +2250,7 @@ Erde hienieden zurückfallen könnten.
 
  **Ceynowa**, Klaus (2015) Vom Wert des Sammelns und vom Mehrwert des
  Digitalen. Verstreute Bemerkungen zur gegenwärtigen Lage der
- Bibliothek. In: Bibliothek – Forschung und Praxis, 39(2015)3, S.
+ Bibliothek. In: Bibliothek -- Forschung und Praxis, 39(2015)3, S.
  268-276.
 
  **Ceynowa**, Klaus (2016) Anker im Fluss des Wissens. Begehrte
@@ -2253,7 +2268,7 @@ Erde hienieden zurückfallen könnten.
  Kulturaustausch 65(2015)4, S. 36-37.
 
  **Deutsches Historisches Institut Paris** : Jahresbericht 1. September
- 2011 – 31. August 2012. Paris : Deutsches Historisches Institut Paris,
+ 2011 -- 31. August 2012. Paris : Deutsches Historisches Institut Paris,
  2012.
 
  **Diekmann**, Stefanie (Hg. et al. 2007) Latenz. 40 Annäherungen an
@@ -2285,7 +2300,7 @@ Erde hienieden zurückfallen könnten.
  Probleme, Methoden, Domänen. München, 2002.
 
  **Faulstich**, Werner (1998) Medien zwischen Herrschaft und Revolte.
- Die Medienkultur der frühen Neuzeit (1400 – 1700). Göttingen :
+ Die Medienkultur der frühen Neuzeit (1400 -- 1700). Göttingen :
  Vandenhoeck & Ruprecht, 1998.
 
  **Faulstich**, Werner (2005) Begann die Neuzeit mit dem Buchdruck? Ist
@@ -2310,10 +2325,9 @@ Erde hienieden zurückfallen könnten.
  Wandlungsfähigkeit des Buches. In: Zintzen, Clemens (Hg., 2011) Die
  Zukunft des Buches. S. 9-21.
  
- **Füssel**, Stephan (Hg.) Medienkonvergenz – transdisziplinär. Berlin
- : de Gruyter, 2012.
+ **Füssel**, Stephan (Hg.) Medienkonvergenz -- transdisziplinär. Berlin : de Gruyter, 2012.
 
- **Fuhrmans**, Marc (2016) Change Management – Mainstream oder
+ **Fuhrmans**, Marc (2016) Change Management -- Mainstream oder
  unverzichtbarer Werkzeugkasten? In: Perspektive Bibliothek, 5.1(2016),
  S. 3-24.
 
@@ -2342,7 +2356,9 @@ Erde hienieden zurückfallen könnten.
  **Grampp**, Sven (Hg. et al. 2008) Revolutionsmedien –
  Medienrevolutionen. Konstanz : UVK, 2008.
 
- **Groebner**, Valentin (2012) Wissenschaftssprache – eine
+ **Griebel**, Rolf (Hg. et al. 2015) Praxishandbuch Bibliotheksmanagement. Berlin [u.a.] : de Gruyter Saur, 2015. 2 Bde.
+
+ **Groebner**, Valentin (2012) Wissenschaftssprache -- eine
  Gebrauchsanweisung. Konstanz : Konstanz university press, 2012.
 
  **Groebner**, Valentin (2014) Wissenschaftssprache digital. Konstanz :
@@ -2365,7 +2381,7 @@ Erde hienieden zurückfallen könnten.
  nationaler Eigensinn. Europäische und anglo-amerikanische Positionen
  der Kulturwissenschaftren. Göttingen : Wallstein, 2004.
 
- **Hacker**, Gerhard (2005) Die Hybridbibliothek – Blackbox oder
+ **Hacker**, Gerhard (2005) Die Hybridbibliothek -- Blackbox oder
  Ungeheuer? In: Ders. (Hg. et al. 2005) Bibliothek leben. Das deutsche
  Bibliothekswesen als Aufgabe für Wissenschaft und Politik. Wiesbaden,
  2005, S. 278-295.
@@ -2498,7 +2514,7 @@ Erde hienieden zurückfallen könnten.
 
  **Krakauer**, Siegfried (zuerst 1929) Über Arbeitsnachweise.
  Konstruktion eines Raumes. In: Ders., Werke, Bd. 5,3: Essays,
- Feuilletons, Rezensionen 1928 – 1931. Hrsg. von Mülder-Bach, Inka.
+ Feuilletons, Rezensionen 1928 -- 1931. Hrsg. von Mülder-Bach, Inka.
  Berlin : Suhrkamp, 2011. S. 249-257.
 
  **Krameritsch**, Jakob (2007) Geschichte(n) im Netzwerk. Hypertext und
@@ -2511,6 +2527,10 @@ Erde hienieden zurückfallen könnten.
 
  **Kuhlen**, Rainer (2002): Abendländisches Schisma. Der Reformbedarf
  der Bibliotheken. In: FAZ Nr. 81.2002 vom 08.04.2002, S. 46.
+
+ **Landwehr**, Achim (2016) Die anwesende Abwesenheit der Vergangenheit. Essay zur Geschichtstheorie. Frankfurt, Main : Fischer, 2016. 
+
+ **Lemke**, Matthias (Hg. et al. 2016) Text Mining in den Sozialwissenschaften. Grundlagen und Anwendungen zwischen qualitativer und quantitativer Diskursanalyse. Wiesbaden : Springer, 2016.
 
  **Lepper**, Marcel (Hg. et al. 2016) Handbuch Archiv. Geschichte,
  Aufgaben, Perspektiven. Stuttgart : Metzler, 2016.
@@ -2561,7 +2581,7 @@ Erde hienieden zurückfallen könnten.
  Hamburg, 2011.
 
  **Meier**, Urs (2014) 100 Jahre Riepl’sches Gesetz. In: Kappes,
- Christoph (Hg. et al. 2014) Medienwandel kompakt 2011 – 2013.
+ Christoph (Hg. et al. 2014) Medienwandel kompakt 2011 -- 2013.
  Netzveröffentlichungen zu Medienökonomie, Medienpolitik &
  Journalismus. Wiesbaden : Springer VS, 2014, S. 11-17.
 
@@ -2572,9 +2592,13 @@ Erde hienieden zurückfallen könnten.
  **Metzinger**, Thomas (2016) Wer, ich? Spiegel-Gespräch. In: Der
  Spiegel 2016, Nr. 19 vom 7.5.2016, S. 68-71.
 
+ **Mittelstraß**, Jürgen (Hg. et al. 2016) Die Zukunft der Wissensspeicher. Forschen, Sammeln und Vermitteln im 21. Jahrhundert. Konstanz ; München : UVK Verlagsgesellschaft, 2016.
+
+ **Mittelstraß**, Jürgen (2016) Die Zukunft der Wissensspeicher. Eine Einführung. In: Ders. (Hg. et al. 2016) Die Zukunft der Wissensspeicher. Forschen, Sammeln und Vermitteln im 21. Jahrhundert. Konstanz ; München : UVK Verlagsgesellschaft, 2016, S. 11-13.
+
  **Mittler**, Elmar (2012) Wissenschaftliche Forschung und
  Publikationen im Netz. In: Füssel, Stephan (Hg. 2012) Medienkonvergenz
- – transdisziplinär, S. 31-80.
+ -- transdisziplinär, S. 31-80.
 
  **Müller-Funk**, Wolfgang (1995) Erfahrung und Experiment. Studien zur
  Theorie und Geschichte des Essayismus. Berlin : Akademie-Verlag, 1995.
@@ -2586,13 +2610,13 @@ Erde hienieden zurückfallen könnten.
  (1995). München : Goldmann, überarb. Ausg. 1997.
 
  **Oexle**, Otto Gerhard (Hg. 1998) Naturwissenschaft,
- Geisteswissenschaft, Kulturwissenschaft. Einheit – Gegensatz –
+ Geisteswissenschaft, Kulturwissenschaft. Einheit -- Gegensatz –
  Komplementarität? Göttingen : Wallstein, 1998.
 
  **Olbertz**, Jan-Hendrik (2014), Kein Grund für Kulturpessimismus,
  aber … In: Die Politische Meinung 59.2014, Nr. 526, S. 47-51.
 
- **Olms**, Dietrich: Bücher ohne Verlage – Verlage ohne Bücher. Stand
+ **Olms**, Dietrich: Bücher ohne Verlage -- Verlage ohne Bücher. Stand
  und Zukunft der Informationsvermittlung in den Geisteswissenschaften.
  In: Zintzen, Clemens (Hg., 2011) Die Zukunft des Buches. Mainz :
  Akademie der Wissenschaften und der Literatur \[u.a.\], 2011. S. 65-74
@@ -2636,17 +2660,13 @@ Erde hienieden zurückfallen könnten.
  **Raulff**, Ulrich (2003) Wilde Energien. Vier Versuche zu Aby
  Warburg. Göttingen : Wallstein, 2003.
 
- **Rautenberg**, Ursula (Hg. 2003) Reclams Sachlexikon des Buches. 2.,
- verb. Aufl., Stuttgart : Reclam, 2003.
-
- **Rautenberg**, Ursula (Hg. 2015) Reclams Sachlexikon des Buches. 3.,
- vollst. überarb. u. aktual. Aufl., Stuttgart : Reclam, 2015.
-
  **Reichert**, Ramón (Hg. 2014) Big Data. Analysen zum digitalen Wandel
  von Wissen, Macht und Ökonomie. Bielefeld : transcript, 2014.
 
  **Reiterer**, Harald (2014) Blended Interaction. Ein neues
  Interaktionsparadigma. In: Informatik-Spektrum, 37(2014)5, S. 459-463.
+
+ **Reiterer**, Harald (2016) Blended Interaction. Konzepte für die Bibliothek der Zukunft. In: Mittelstraß, Jürgen (2016 et al.) Die Zukunft der Wissensspeicher, S. 161-172.
 
  **Riepl**, Wolfgang (zuerst 1913) Das Nachrichtenwesen des Altertums
  (Nachdr.) Hildesheim : Olms, 1972.
@@ -2712,6 +2732,10 @@ Erde hienieden zurückfallen könnten.
  Ernst-Robert-Curtius-Preises für Essayistik. Bonn : Bouvier, 1993. S.
  43-56.
 
+ **Sloterdijk**, Peter (1999) Sphären II, Globen. Frankfurt, Main : Suhrkamp, 1999. 
+
+ **Sloterdijk**, Peter (2014) Die schrecklichen Kinder der Neuzeit. Über das anti-genealogische Experiment der Moderne. Berlin : Suhrkamp, 2014.
+
  **Stalder**, Felix (2016) Kultur der Digitalität. Berlin : Suhrkamp,
  2016.
 
@@ -2726,7 +2750,7 @@ Erde hienieden zurückfallen könnten.
 
  **Stöber**, Rudolf (2013) Neue Medien. Geschichte. Von Gutenberg bis
  Apple und Google. Medieninnovation und Evolution. \[Gründlich
- revidierte, aktualisierte Neuaufl.\] – Bremen : edition lumière, 2013.
+ revidierte, aktualisierte Neuaufl.\] -- Bremen : edition lumière, 2013.
 
  **Strauss**, Simon (2015) Und wo sind hier die Bücher. Bibliothek der
  Zukunft. In: FAZ Nr. 229 vom 2. Okt. 2015, S. 20.
@@ -2752,7 +2776,7 @@ Erde hienieden zurückfallen könnten.
  Forschungsinfrastrukturen auf. In: FAZ Nr. 171 vom 25. Juli 2012, S.
  N5.
 
- **Ulucan**, Sibel: Hybride Bibliotheken – eine Begriffsneubestimmung.
+ **Ulucan**, Sibel: Hybride Bibliotheken -- eine Begriffsneubestimmung.
  In: Libreas, 21(2012)2, S. 87-92.
 
  **Umlauf**, Konrad (Hg. et al. 2012) Handbuch Bibliothek. Geschichte,
@@ -2764,10 +2788,9 @@ Erde hienieden zurückfallen könnten.
  Saur, 2013.
 
  **Waquet**, Françoise (2015) L’ordre matériel du savoir. Comment les
- savants travaillent. XVIe – XXIe siècles. Paris : CNRS Éditions, 2015.
+ savants travaillent. XVIe -- XXIe siècles. Paris : CNRS Éditions, 2015.
 
- **Warwick**, Claire (Hg. 2012), Digital Humanities in practice. London
- : Facet, 2012.
+ **Warwick**, Claire (Hg. 2012), Digital Humanities in practice. London : Facet, 2012.
 
  **Weidenbach**, Lukas (2015) Buchkultur und digitaler Text. Zum
  Diskurs der Mediennutzung und Medienökonomie. Hamburg :
@@ -2860,7 +2883,7 @@ der Karl-Preusker-Medaille am 30. Okt. 2015.
 [^2]: Motto des Bibliothekartags 1998, Frankfurt am Main.
 
 [^3]: Zu dessen Problematisierung vgl. Fuhrmans, Marc (2016) Change
-    Management – Mainstream oder unverzichtbarer Werkzeugkasten? In:
+    Management -- Mainstream oder unverzichtbarer Werkzeugkasten? In:
     Perspektive Bibliothek, 5.1(2016), S. 3-24.
 
 [^4]: Umlauf, Konrad (Hg. et al. 2012) Handbuch Bibliothek, hier S.
@@ -2919,7 +2942,7 @@ der Karl-Preusker-Medaille am 30. Okt. 2015.
 
 [^17]: Zur Problematisierung dieser Unterscheidung siehe Oexle, Otto
     Gerhard (Hg. 1998) Naturwissenschaft, Geisteswissenschaft,
-    Kulturwissenschaft. Einheit – Gegensatz – Komplementarität?
+    Kulturwissenschaft. Einheit -- Gegensatz -- Komplementarität?
     Göttingen, 1998.
 
 [^18]: Begriff für die komplexe Logik von Aufwärtskausalität, d.h. die
@@ -2949,8 +2972,8 @@ der Karl-Preusker-Medaille am 30. Okt. 2015.
 [^23]: Vgl. dazu Krameritsch, Jakob (2007) Geschichte(n) im Netzwerk.
     Hypertext und dessen Potenziale für die Produktion, Repräsentation
     und Rezeption der historischen Erzählung. Münster : Waxmann, 2007.
-    S. 18: "Das Medium Internet – speziell die 'Potenzialität' Hypertext
-    – kommt wie kein anderes Medium vernetzten kollektiven
+    S. 18: "Das Medium Internet -- speziell die 'Potenzialität' Hypertext
+    -- kommt wie kein anderes Medium vernetzten kollektiven
     Schreibprozessen \[…\] entgegen."
 
 [^24]: Rosa, Hartmut (2005) Beschleunigung. Frankfurt, Main : Suhrkamp,
@@ -2997,7 +3020,7 @@ der Karl-Preusker-Medaille am 30. Okt. 2015.
 
 [^35]: Vgl. Buschhaus, Markus (2008) Am einen & am anderen Ende der
     Gutenberg-Galaxis. In: Grampp, Sven (Hg. et al., 2008)
-    Revolutionsmedien – Medienrevolutionen, S. 205-228. Hier S. 212 f.
+    Revolutionsmedien -- Medienrevolutionen, S. 205-228. Hier S. 212 f.
 
 [^36]: Assmann, Aleida (2013) Ist die Zeit aus den Fugen?, S. 203.
     Buchvorstellung am Deutschen Historischen Institut Paris am 13.
@@ -3026,7 +3049,7 @@ der Karl-Preusker-Medaille am 30. Okt. 2015.
     do-it-yourself, energy-free communication device. In: Harpers
     Magazine, Jan. 1, 1974 (248), S. 83-86.
 
-[^42]: Ausführlich dazu siehe weiter unten S. 21ff.
+[^42]: Ausführlich dazu siehe weiter unten Kapitel: Riepl'sches Komplementaritätsgesetz (1913).
 
 [^43]: Eine Aneinanderreihung von Tempophänomenen durch die Jahrhunderte
     bei Borscheid, Peter (2004): Das Tempo-Virus. Eine Kulturgeschichte
@@ -3047,7 +3070,7 @@ der Karl-Preusker-Medaille am 30. Okt. 2015.
 
 [^49]: Schmale, Wolfgang (2015), Einleitung Digital Humanities, S. 13.
 
-[^50]: Gumbrecht, Hans-Ulrich (2014), FAZ vom 11.03.2014, Nr. 59, S. 14.
+[^50]: Gumbrecht, Hans-Ulrich (2014), FAZ vom 11.03.2014, Nr. 59, S. 14. Peter Sloterdijk über Hans-Ulrich Gumbrecht im selben Jahr 2014 in "Die schrecklichen Kinder der Neuzeit", S. 70, Fußnote 2: "Hans Ulrich Gumbrecht ist der Anreger wichtiger Versuche, die Geisteswissenschaften durch ihre Anpassung an das Niveau der digitalen Revolution wieder gegenwartsfähig zu machen."
 
 [^51]: Cole, Tim (2015) Kein Grund zur Panik. In: Kulturaustausch
     65(2015)4, S. 18.
@@ -3179,7 +3202,7 @@ der Karl-Preusker-Medaille am 30. Okt. 2015.
     (2004) 'Discontenting, surely, even for those versed in French
     intellectual pyrotechnics’, S. 228.
 
-[^85]: Hacker, Gerhard (2005) Die Hybridbibliothek – Blackbox oder
+[^85]: Hacker, Gerhard (2005) Die Hybridbibliothek -- Blackbox oder
     Ungeheuer?, S. 283.
 
 [^86]: Gantert, Klaus (2011) Elektronische Informationsressourcen für
@@ -3224,10 +3247,10 @@ der Karl-Preusker-Medaille am 30. Okt. 2015.
 
 [^97]: Stöber, Rudolf (2013) Neue Medien. Geschichte. Von Gutenberg bis
     Apple und Google. Medieninnovation und Evolution. \[Gründlich
-    revidierte, aktualisierte Neuaufl.\] – Bremen : edition lumière,
+    revidierte, aktualisierte Neuaufl.\] -- Bremen : edition lumière,
     2013.
 
-[^98]: Zur Dialektik kultureller Ersetzungsmechanismen von Alt durch Neu
+[^98]: Zur kulturellen Ersetzungsmechanik von Alt durch Neu
     vgl. Hermann Lübbe (1988) Der verkürzte Aufenthalt in der Gegenwart,
     dort exemplifiziert am Beispiel des "Buches" vor dem Hintergrund
     seiner "These vom abnehmenden Verpflichtungscharakter des Neuen mit
@@ -3246,7 +3269,7 @@ der Karl-Preusker-Medaille am 30. Okt. 2015.
     Geltung des Alten. \[…\] Die Geschwindigkeit, mit der Altes noch
     älter wird, nimmt mit dem historischen Abstand vom gegenwärtigen
     Fortschritt ab. \[…\] 'Ikonische' Konstanz' hat Hans Blumenberg das
-    genannt. \[…\] Klassik – das ist \[…\] nichts anderes als erwiesene
+    genannt. \[…\] Klassik -- das ist \[…\] nichts anderes als erwiesene
     Selektionsresistenz in den Prozessen der \[…\] Umorganisation
     \[…\]." S. 159ff. Lübbe beendet diesen konzentrierten Gedankengang
     mit dem bedenkenswerten Fazit: " \[…\] wenn die Menge des Guten
@@ -3255,7 +3278,7 @@ der Karl-Preusker-Medaille am 30. Okt. 2015.
     Permanenz schließlich größer, als der Vorteil denkbarer Entdeckungen
     von etwas noch Besserem es jemals sein könnte." (S. 163).
 
-[^99]: Stalder, Felix (2016) Kultur der Digitalität, S. 282.
+[^99]: Stalder, Felix (2016) Kultur der Digitalität, S. 282. Über das "Neue" als kulturverändernde Macht vlg. Sloterdijk, Peter (2014) Die schrecklichen Kinder der Neuzeit: „Wie wäre es, wenn wirklich erst das unerwartet Neu-Gekommene, das nie zuvor Geschehene und völlig Unerwiesene uns dereinst entschlüsselten, was das Heutige, das Gestrige und das Alte davor bedeutet haben werden?“, S. 34. "Was besteht und beharrt, wird im Unrecht sein; was vorwärts geht \[…\], hat alles Recht auf seiner Seite.", S. 38.
 
 [^100]: Rösch, Hermann (2005) Wissenschaftliche Kommunikation und
     Bibliotheken im Wandel. S. 92.
@@ -3268,7 +3291,7 @@ der Karl-Preusker-Medaille am 30. Okt. 2015.
 [^103]: Ebd., S. 441.
 
 [^104]: Meier, Urs (2014) 100 Jahre Riepl’sches Gesetz. In: Kappes,
-    Christoph (Hg. et al. 2014) Medienwandel kompakt 2011 – 2013, S.
+    Christoph (Hg. et al. 2014) Medienwandel kompakt 2011 -- 2013, S.
     12f.
 
 [^105]: "Man darf \[…\] nicht den Niedergang gedruckter Medien im
@@ -3325,7 +3348,7 @@ der Karl-Preusker-Medaille am 30. Okt. 2015.
     Neues Erbe, S. 39-67. Hier S. 49.
 
 [^116]: Siehe Werner Faulstichs fünfbändige "Geschichte der Medien"
-    (1996 – 2004). "Die Publizistikwissenschaften nennt sie
+    (1996 -- 2004). "Die Publizistikwissenschaften nennt sie
     Primärmedien, aber das ist eher verschleiernd. Ich nenne sie
     Menschmedien \[…\]." In: Podiumsdiskussion 'Begann die Neuzeit mit
     dem Buchdruck?' 2005, S. 21 (siehe Bibliographie).
@@ -3358,7 +3381,7 @@ der Karl-Preusker-Medaille am 30. Okt. 2015.
     Kadmos, 2012.
 
 [^125]: Jochum, Uwe (2015) Bücher. Vom Papyrus zum E-Book. S. 9ff.
-    Ebenso Werner Faulstich: "Schreibmedien gab es von Anfang an – die
+    Ebenso Werner Faulstich: "Schreibmedien gab es von Anfang an -- die
     Wand, später die Tafel \[…\]. Der sogenannten Höhlen’malerei’
     beispielsweise, einer von Tierbildern und Inzisionen geprägten
     Nutzung des Kommunikationsmediums Wand, wird dabei
@@ -3401,8 +3424,8 @@ der Karl-Preusker-Medaille am 30. Okt. 2015.
 [^136]: Christiane Heibach (2011) (De)Let(h)e, S. 61: "\[…\] *Hypercard*
     von Apple, das erste Programm, mit dem Mitte der 1980er Jahre
     Hypertexte erstellt werden konnten, sind so schnell wieder
-    verschwunden, daß die Texte – darunter die ersten literarischen
-    Hyperfictions – heute nicht mehr lesbar sind. Die Flüchtigkeit und
+    verschwunden, daß die Texte -- darunter die ersten literarischen
+    Hyperfictions -- heute nicht mehr lesbar sind. Die Flüchtigkeit und
     beständige Veränderung der Software steht dem Ziel der nachhaltigen
     Speicherung diametral entgegen."
 
@@ -3429,7 +3452,7 @@ der Karl-Preusker-Medaille am 30. Okt. 2015.
 
 [^145]: Mittler, Elmar (2012) Wissenschaftliche Forschung und
     Publikation im Netz. In: Füssel, Stephan (Hg. 2012) Medienkonvergenz
-    – transdisziplinär, S. 80.
+    -- transdisziplinär, S. 80.
 
 [^146]: Ceynowa, Klaus (2016) Anker im Fluss des Wissens. Begehrte
     "Ruinen". Die Bibliothek der Zukunft muss dynamischen Objekten Dauer
@@ -3472,8 +3495,8 @@ der Karl-Preusker-Medaille am 30. Okt. 2015.
     Blended Library, Abb. 10 und Text S. 238.
 
 [^158]: Uwe Jochum (2015) Bücher, S. 134: "Der Verdacht, Schrift und
-    Buch seien zur Speicherung des menschlichen Denkens – der Fülle des
-    Gedachten und der Denkprozesse – nicht geeignet, reicht bis zu
+    Buch seien zur Speicherung des menschlichen Denkens -- der Fülle des
+    Gedachten und der Denkprozesse -- nicht geeignet, reicht bis zu
     Platon \[…\] zurück, der darauf hingewiesen hat, dass Schriftzeichen
     an sich bedeutungslos seien, solange sie nicht durch miteinander
     sprechende und denkende Menschen mit Bedeutung aufgeladen werden."
@@ -3528,7 +3551,7 @@ der Karl-Preusker-Medaille am 30. Okt. 2015.
 
 [^173]: Krakauer, Siegfried (zuerst 1929) Über Arbeitsnachweise.
     Konstruktion eines Raumes. In: Ders., Werke, Bd. 5,3: Essays,
-    Feuilletons, Rezensionen 1928 – 1931. Hrsg. von Inka Mülder-Bach.
+    Feuilletons, Rezensionen 1928 -- 1931. Hrsg. von Inka Mülder-Bach.
     Berlin : Suhrkamp, 2011, S. 250. Im Typoskript des Krakauer
     Nachlasses lautet der letzte Teilsatz: " \[…\], dort sind die
     Ideologien durchschaut, und der Grund der sozialen Wirklichkeit
@@ -3631,7 +3654,7 @@ der Karl-Preusker-Medaille am 30. Okt. 2015.
 [^195]: Ebd., S. 156.
 
 [^196]: Carvajal, Rigoberto (2015) Wie groß ist Big Data? In:
-    Kulturaustausch 65(2015)4, S. 52.
+    Kulturaustausch 65(2015)4, S. 52. Luciano Floridi (dt. 2015) Die 4. Revolution, geht das Problem hemdsärmelig-pragmatisch an: "Niemand zwingt uns, jedes verfügbare Byte im Geiste zu verdauen. (S. 34) \[…\] die Hälfte unserer Daten ist Schrott, wir wissen nur nicht welche." (S. 41).
 
 [^197]: Assmann, Aleida (Hg. 2001) Aufmerksamkeiten. Einleitung, S. 11.
     Zeitgleich Dieter E. Zimmer, Redakteur der ZEIT (2000) Die
@@ -3688,8 +3711,7 @@ der Karl-Preusker-Medaille am 30. Okt. 2015.
     Digitalisierung. Der Wissenschaftsrat wertet
     Forschungsinfrastrukturen auf.
 
-[^207]: Warwick, Claire (Hg., 2012), Digital Humanities in practice.
-    Hier: Introduction, S. XV.
+[^207]: Warwick, Claire (Hg., 2012), Digital Humanities in practice. Hier: Introduction, S. XV.
 
 [^208]: Berry, David M. (2012), Unterstanding digital humanities. Hier:
     Introduction, S. 3.
@@ -3795,7 +3817,7 @@ der Karl-Preusker-Medaille am 30. Okt. 2015.
 [^229]: Ebd., S. 157.
 
 [^230]: Vgl. Ceynowa, Klaus (2015) Vom Wert des Sammelns und vom
-    Mehrwert des Digitalen. In: Bibliothek – Forschung und Praxis,
+    Mehrwert des Digitalen. In: Bibliothek -- Forschung und Praxis,
     39(2015)3, hier S. 274.
 
 [^231]: Ebd., S. 274. Ceynowa lässt hier offen, ob er hier willentlich
@@ -3812,7 +3834,7 @@ der Karl-Preusker-Medaille am 30. Okt. 2015.
     … In: Bub 68(2016)4, S. 152-153.
 
 [^233]: Bruijnzeels, Rob (2015): Die Bibliothek: aussterben, überleben
-    oder erneuern? In: Bibliothek – Forschung und Praxis, 39(2015)2, S.
+    oder erneuern? In: Bibliothek -- Forschung und Praxis, 39(2015)2, S.
     225-234.
 
 [^234]: Klawitter, Jana (et al., 2011) Kulturwissenschaftliche
@@ -3836,13 +3858,13 @@ der Karl-Preusker-Medaille am 30. Okt. 2015.
     erwarten scheinen, sobald sich die Narration von der leidigen
     Linearität befreit, dürfte jedoch auf sich warten lassen." Ähnlich
     resümiert Jakob Krameritsch (2007) Geschichte(n) im Netzwerk, S.
-    21f: "Nach dem – vor allem auf der Diskursebene inszenierten Hype
+    21f: "Nach dem -- vor allem auf der Diskursebene inszenierten Hype
     rund um den Hypertext, begann sich angesichts der spärlichen
     überzeugenden Hypertext-Produkte bzw. –Prozesse Anfang des 21.
     Jahrhunderts zunehmend Ernüchterung breit zu machen."
 
 [^240]: Vgl. Waquet, Françoise (2015) L’ordre matériel du savoir.
-    Comment les savants travaillent. XVIe – XXIe siècles, S. 14: "Cet
+    Comment les savants travaillent. XVIe -- XXIe siècles, S. 14: "Cet
     inventaire laisse apercevoir la nature hybride de bien des
     techniques intellectuelles."
 
@@ -3876,9 +3898,23 @@ der Karl-Preusker-Medaille am 30. Okt. 2015.
     Informationswissenschaften das Bedürfnis nach einer Wissenschaft
     verborgen hat, die sich einfach mit Menschen befaßt, die für ihr
     ständiges Handeln verschiedene Formen von Handlungsgrundlagen
-    brauchen – Wissen, Vernunft, Werte, Urteile usw. – und diese sich
+    brauchen -- Wissen, Vernunft, Werte, Urteile usw. -- und diese sich
     auf unterschiedliche Art und Weise aneignen und für unterschiedliche
     Handlungszusammenhänge benutzen. \[…\] Und vielleicht hatten sie
     alle gemeinsam, daß ihnen vor einer solchen Wissenschaft
     schwindelte, die zumindest Elias einmal als "Menschenwissenschaft"
     angesprochen hatte."
+
+[^aa]: Siehe Werner, Klaus Urlich (2015) Bibliothek als Ort. In: Praxishandbuch Bibliotheksmanagement, Bd. 1, S. 95-107.
+
+[^aa1]: Sloterdijk (2014), ebd. S. 226.
+
+[^aa3]: Vgl. Metze-Mangold, Verena (2016) Wissensgesellschaft als Idee des neuen Humanismus. In: Mittelstraß, Jürgen (2016 et al.) Die Zukunft der Wissensspeicher, S. 17-33, hier S. 26: "Es gibt, wie wir jeden Tag erfahren, zunehmende Begehrlichkeiten, 'proprietäre Systeme' zu entwickeln, d.h., \[…\] den Zugang nur unter bestimmten Bedingungen zu gewähren, beispielsweise der Bedingung zu zahlen oder abgeschöpft zu werden, und so Wissen kontrolliert zu verteilen."
+
+[^aa2]: Welche Dimensionen eine solche vertiefende Analyse des Begriffs "Fluid" annehmen könnte, deutet sich bei Sloterdijk (1999) Sphären II, S. 867ff. an: "Das neuzeitliche \[…\] Fluxusdenken bricht die Hegemonie der Substanzscholastik (obwohl es mindestens vier Jahrhunderte[sic] dauert, bis der euro-amerikanische Alltag die Umstellung ethisch und logisch ganz vollzogen haben wird und sich zu dem neuen kategorischen Imperativ bekennt: Verflüssigt alles!".
+
+[^aa4]: Zum Wissensbegriff knapp und treffend siehe Mittelstraß,
+Jürgen (2016) Die Zukunft der Wissensspeicher. Eine Einführung. In: Ders. (Hg.
+et al. 2016) Die Zukunft der Wissensspeicher, S. 11-13.
+
+[^aa5]: Zu Traditionsabrissen, Hiatus und der Verstetigung von Veränderung im Aufbruch in die Moderne siehe Sloterdijk, Peter (2014) Die schrecklichen Kinder der Neuzeit.
