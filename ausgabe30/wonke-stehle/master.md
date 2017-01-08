@@ -177,6 +177,8 @@ eine klare Erläuterung der Terminologie, ein knapper Einstieg in die
 Diskussion und ein tiefer Einblick in die aktuelle Wissenschaftspraxis
 gegeben wird.
 
+TL; DR:
+
 ![Quelle: <https://twitter.com/wonkestehle/status/776371238210002944>](img/abbildung.png)
 
 ### Literatur
