@@ -14,25 +14,20 @@ Namentlich gekennzeichnete Beiträge geben nicht in jedem Fall die Meinung von H
 
 Kontakt: redaktion@libreas.eu
 
-### Herausgeberteam
+### Editorial Board
 
-Ben Kaden M.A. - ben@libreas.eu
-
-Maxi Kindling M.A. - maxi@libreas.eu
-
-Manuela Schulz M.A. - manuela@libreas.eu
-
-### Redaktion
-
-Linda Freyberg M.A. - linda@libreas.eu
-
-Najko Jahn M.A. - najko@libreas.eu
-
-Dr. Karsten Schuldt - karsten@libreas.eu
-
-Matti Stöhr M.A. - matti@libreas.eu
-
-Doreen Thiede M.A.- doreen@libreas.eu
+<ul>
+<li>Ben Kaden M.A. (University Library / Humboldt-Universität zu Berlin) – ben@libreas.eu</li>
+<li>Maxi Kindling M.A. (Berlin School of Library and Information Science / Humboldt-Universität zu Berlin)  – maxi@libreas.eu</li>
+<li>Manuela Schulz M.A. (LIBREAS e.V. / Berlin) – manuela@libreas.eu</li>
+</ul>
+<ul>
+<li>Linda Freyberg M.A.(Research Group Knowledge Cultures / Digital Media, Leuphana Universität Lüneburg) – linda@libreas.eu</li>
+<li>Najko Jahn M.A. (SUB Göttingen) – najko@libreas.eu </li>
+<li>Dr. Karsten Schuldt (Schweizerisches Institut für Informationswissenschaft, HTW Chur) – karsten@libreas.eu</li>
+<li>Matti Stöhr M.A. (SLUB Dresden) – matti@libreas.eu</li>
+<li>Doreen Thiede M.A. (aStec angewandte Systemtechnik GmbH)– doreen@libreas.eu</li>
+</ul>
 
 #### ehemalige Redaktionsmitglieder   	 
 
