@@ -9,7 +9,7 @@
 	<meta name="author" content="LIBREAS. Library Ideas">
 
 	<!--
-	<meta name="description" content="> > > LIBREAS. Library Ideas # 30 Annotate via hypothes.is Die Lesbarkeit der Welt Rezension zu 'The Concept of Information in Library and &hellip;">
+	<meta name="description" content="> > > LIBREAS. Library Ideas # 30 Annotate via hypothes.is Download PDF @ edoc HU Berlin urn:nbn:de:kobv:11-100244249 Die Lesbarkeit der Welt &hellip;">
 	 -->
 
 <!-- RDFa DC -->
@@ -145,14 +145,14 @@ ga('send', 'pageview');
 
 
 
+
     
     <div align="right">
     <p><small><a itemprop="sameAs" href="https://via.hypothes.is/http://libreas.eu/ausgabe30/freyberg/meta.yaml">Annotate via hypothes.is</a></small></p>
-    </div>
-    
-
-
-    
+        <small><a itemprop="sameAs" href="http://nbn-resolving.de/urn:nbn:de:kobv:11-100244249">Download PDF @ edoc HU Berlin</a>
+            <br>
+            urn:nbn:de:kobv:11-100244249 </small>
+        </div>
         
 
         
@@ -223,7 +223,7 @@ ga('send', 'pageview');
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2017-01-23</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2017-03-17</a>)</p>
 
 </footer>
       </div>
