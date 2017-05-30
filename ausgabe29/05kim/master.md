@@ -371,7 +371,7 @@ unmittelbar für die Bibliotheksnutzer weitere Zusammenhänge wie etwa die
 Suche nach Publikationen eines bestimmten Autors oder eine
 automatische Verlinkung verschiedener Datenbankeinträge desselben
 Autors^[<https://tools.wmflabs.org/persondata/index.php>] über sogenannte
-BEACON-Dateien^[<http://www.ixtheo.de/beacon/ixtheo.txt>],
+BEACON-Dateien^[<https://ixtheo.de/docs/ixtheo-beacon.txt>],
 wie zum Beispiel zwischen Wikipediaartikel und anderen
 Online-Bibliographien. Allgemeiner kann man dies als weiteren
 Informationsteil der LOD Cloud ansehen.
