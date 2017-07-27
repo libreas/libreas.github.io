@@ -22,7 +22,7 @@ pandoc abstract.md -o abstract.tex
 Create `tex`
 
 ```
-pandoc --template=../header.sty --include-in-header=meta.tex  --smart --include-before=abstract.tex --include-after=vita.tex -N  --toc master.md -o master.tex
+pandoc --template=../header.sty --include-in-header=meta.tex  --smart  --include-after=vita.tex -N master.md -o master.tex
 ```
 
 Control sections
@@ -43,3 +43,5 @@ pandoc -S --include-before=meta.yaml --include-after=vita.html --html-q-tags --t
 ```
 
 Delete head manually before comiling with Jekyll.
+
+

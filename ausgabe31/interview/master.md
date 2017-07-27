@@ -19,7 +19,7 @@ zunächst, aber nicht ungemütlich. Es gibt Tee und wir schauen gemeinsam
 auf eine große Tafel. Die ist sehr gut gefüllt. Bestandsaufnahme trifft
 auf To-Do-Listen trifft auf Kinderzeichnungen, was fast zwingend wirkt,
 machen doch je nach Standort Kinderbücher bis zu 60 % der Entleihungen
-aus. Am meisten im Standort an der per Klischee mittlerweile
+aus. Am meisten am Standort an der per Klischee mittlerweile
 wohlhabendsten Ecke des Bezirks – in der Bibliothek am Wasserturm an der
 Prenzlauer Allee. Warum eigentlich? Wo kultureller und materieller
 Wohlstand sich so gelungen verbinden, wie dort, braucht man doch die
@@ -40,8 +40,8 @@ Nutzer\_innen fordern mehr, dass die Bibliothek in ihrem Dienst steht.
 Was vor allem die Mitarbeiter\_innen herausfordert, die größtenteils in
 einem anderem Bibliothekssystem, nämlich dem der DDR, gelernt haben.
 Diese Dynamik gilt es aufzufangen und wir lernen alle immer sehr viel
-dazu." Dass das Bibliothekssystem in Pankow lange Jahre ohne richtigen
-Leitung war ist für diese Praxis gar nicht nur schlecht. "Man lernte,
+dazu." Dass das Bibliothekssystem in Pankow lange Jahre ohne richtige
+Leitung war, ist für diese Praxis gar nicht nur schlecht. "Man lernte,
 sich selbst zu organisieren." Obwohl eine solche Aussage vermutlich mehr
 in Richtung Zweckoptimismus weist. Und die Frage aufwirft, ob sich die
 Mitarbeiter\_innen dann aber **motiviert** unter einer neuen Leitung
@@ -51,7 +51,7 @@ habe die ersten Monate genutzt, um mich wirklich mit allen zu
 Einzelgesprächen zu treffen." Es gab Tee, Signale des aufrichtigen
 Interesses, die Bereitschaft zum Zuhören und dank dieser Mischung den
 Abbau von **Vorurteilen** und **Ängsten**. "Das war schon eine
-interessante Erfahrungen. Das Bibliothekswesen im Bezirk war über
+interessante Erfahrung. Das Bibliothekswesen im Bezirk war über
 Jahrzehnte vor allem durch Abbau, Einsparungen und Kürzungsmaßnahmen
 gekennzeichnet. Einzelgespräche in diesen Einrichtungen bedeuteten nie
 etwas Gutes. Entweder wurde eine Umorientierung angeregt, eine
@@ -110,7 +110,7 @@ haben."
 Dass einige Engpässe durch Ehrenamtliche aufgefangen werden, sieht
 Danilo nicht als problematisch an, zumal ein Standort im Bezirk seit
 Jahren ausschließlich durch Ehrenamtliche geführt wird. Sicherlich
-schürt der Einsatz von Ehrenamtlichen auch dahingehend Ängste bei den
+schürt der Einsatz von Ehrenamtlichen auch dahingehend **Ängste** bei den
 Mitarbeiter\_innen, dass sie ersetzbar sind und der Bezirk auf diese Art
 ausgebildetes Personal einsparen könnte. Eine Ehrenamtlichen-Bibliothek
 sei aber erstmal besser als keine Bibliothek, so Danilo sinngemäß. Und
@@ -141,11 +141,11 @@ für die wenigen, natürlich *zu* wenigen, Webterminals abzuschaffen und
 eine unbegrenzte Nutzung zuzulassen. Das Problem ist jedoch, dass hier
 der frühe Nutzer auch die Maus manchmal den ganzen Tag nicht mehr
 loslässt und andere Nutzer\_innen nach zwei Stunden Wartezeit entweder
-ihre Frustration ventilieren oder einfach frustriert gehen. Hier wünscht
+ihre Frustration ventilieren oder einfach **frustriert** gehen. Hier wünscht
 sich Danilo, dass auch die Nutzer\_innen achtsamer sind und wissen, dass
 die Infrastruktur nicht ihr Privatbesitz ist. Und er plant die
 Anschaffung von Tablets, um den Bedarf auffangen zu können. Im Zuge des
-Projektes "Digitale Welten" wurde bereits ein IPad-Koffer angeschafft
+Projektes "Digitale Welten" wurde bereits ein iPad-Koffer angeschafft
 und auch ein Budget für Apps ist vorhanden.
 
 Andere außerplanmäßige Ausgaben können beziehungsweise müssen auch durch

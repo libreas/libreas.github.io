@@ -29,6 +29,8 @@ Körper, Sexualität, Krankheit und Tod, Glaube, Gewalt und vieles mehr.
 Rund 4300 Titel gehören derzeit zum Bestand – ergänzt um vielfältige
 Spielmaterialien und Hörbücher.[^1]
 
+![](img/abbildung1.jpg)
+
 ### "Ich finde nicht die richtigen Worte"
 
 In ihrem Buch "Ich finde nicht die richtigen Worte"[^2] hat Marlies
@@ -84,6 +86,8 @@ Nicht zufällig trägt dieser Ort den Namen jenes Mannes, der genau dieses
 feine Wechselspiel, die immer wieder zu suchende Balance zwischen den
 Geschichten der Bücher und den Geschichten des eigenen Lebens gesucht,
 geschützt und beschrieben hat: Janusz Korczak.
+
+![](img/abbildung2.jpg)
 
 ### "Ein Dichter – das ist ein Mensch, der starke Gefühle hat"
 
