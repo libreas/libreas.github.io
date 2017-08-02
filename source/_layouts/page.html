@@ -34,6 +34,9 @@ layout: default
 {% elsif page.issue == "30" %}
 <strong> > > > <a href="/ausgabe30/inhalt/">{{ page.journal }} # {{ page.issue}}</a></strong> <br><br>
 </div>
+{% elsif page.issue == "31" %}
+<strong> > > > <a href="/ausgabe31/inhalt/">{{ page.journal }} # {{ page.issue}}</a></strong> <br><br>
+</div>
 
 {% else %}
 <strong> > > > <a href="inhalt.htm">{{ page.journal }} # {{ page.issue}}</a></strong> <br><br>
@@ -53,6 +56,12 @@ layout: default
         </div>
         {% else %}
         {% endif %}
+    {% if page.pdf %}
+    <div align="right">
+    <p><small><a itemprop="sameAs" href="https://via.hypothes.is/{{ site.url }}{{ page.url | remove:'index.html' }}">Annotate via hypothes.is</a></small></p>
+        <small><a itemprop="sameAs" href="{{ page.pdf }}">Download PDF</a></small>
+        </div>
+    {% endif %}
 
         {% if page.title %}
         <h1 itemprop="name" class="title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
@@ -113,20 +122,17 @@ layout: default
             {% else %}
             {{ author }},
             {% endif %}
-            {% endfor %}"{{ page.title }}{{ page.subtitle | prepend:'. ' }}". <i itemprop="provider">{{ page.journal }}</i>, {{ page.issue }} (<span itemprop="datePublished">{{ page.year }}</span>). <a itemprop="url" href="{{ site.url }}{{ page.url | remove:'index.html' }}">{{ site.url }}{{ page.url | remove:'index.html' }}</a>
+            {% endfor %}
+            {% if page.subtitle %}
+            "{{ page.title }}{{ page.subtitle | prepend:'. ' }}".
+            {% else %} 
+            "{{ page.title }}".
+            {% endif %}
+            <i itemprop="provider">{{ page.journal }}</i>, {{ page.issue }} (<span itemprop="datePublished">{{ page.year }}</span>). <a itemprop="url" href="{{ site.url }}{{ page.url | remove:'index.html' }}">{{ site.url }}{{ page.url | remove:'index.html' }}</a>
         </small>
         <hr>
     </p>
-    {% elsif page.subtitle %}
-    <p>
-        <small>
-            <br>
-            Zitiervorschlag
-            <br>
-            {{ page.contributor }}. {{ page.year }}. {{ page.title }}, {{ page.subtitle }}. <i>{{ page.journal }}</i>, {{ page.issue }}.
-        </small>
-        <hr>
-    </p>
+   
     {% endif %}
 
 

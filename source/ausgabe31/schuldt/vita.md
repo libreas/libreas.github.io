@@ -1,0 +1,2 @@
+---
+**Karsten Schuldt**, Dr. Wissenschaftlicher Mitarbeiter am Schweizerischen Institut für Informationswissenschaft, HTW Chur, Redakteur LIBREAS. Library Ideas. Forschung und Publikationen unter anderem zu Schulbibliotheken in Deutschland und der Schweiz.
