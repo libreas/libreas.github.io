@@ -15,8 +15,7 @@ Ergebnis ist eine Tabelle, die jedem Kommentar einen Wert zwischen 0 (negativ) u
 
 
 
-Der so gewonnene Datensatz ist unter [sentiment_publikationsfreiheit.csv](sentiment_publikationsfreiheit.csv) verfügbar. Die Sentimentwerte wurden abschließend als Säulendiagramm visualisiert, das jeden Kommentar mit seinem Sentimentwert abbildet:
-
+Der so gewonnene Datensatz haben wir über GitHub[^7] verfügbar gemacht. Die Sentimentwerte wurden abschließend als Säulendiagramm visualisiert, das jeden Kommentar mit seinem Sentimentwert abbildet:
 
 ![Sentimentanalyse Appell Publikationsfreiheit](img/sentiment_abbbildung.png)
 
@@ -28,6 +27,11 @@ Die als negativ ermittelten Aussagen sind oft leider wenig einleuchtend, auch we
 
 Eine weitere notwendige Einschränkung ist also, dass das Verfahren selbst zwar quantitativ sauber ist, die bekannten semantischen Herausforderungen natürlichsprachlicher Kommunikation aber nur eingeschränkt berücksichtigt. Der Blick ins Detail zeigt, wie sehr viele Kommentare hinsichtlich der Konnotationsermittlung tatsächlich eine intellektuelle Interpretation benötigten. Bei nicht wenigen der Kommentare ermöglicht auch diese keine eindeutige Zuordnung. Aussagen wie: "...ich nicht möchte, dass die Leistung von AutorInnen und Verlagen entwertet wird" werden vom verwendeten sprachanalytischen Cloud-Dienst als stärker negativ eingeschätzt.  Die Aussage "...ich in den Plänen der Bundesregierung zum Urheberrecht eine massive Bedrohung der Wissenschaftsfreiheit sehe" wird dagegen eher überraschend als stärker positiv bewertet. "Ich unterstütze die Publikationsfreiheit, weil vor allem Bildung wichtig ist" tendiert wider Erwarten ins Negative.  Zwei Dinge lassen sich daraus schlussfolgern: Einerseits ist die Stimmung nicht immer so eindeutig, dass sie sich in wenigen Schritten algorithmisch sauber und nachvollziehbar sortieren lässt. Und daher, zweitens, eignen sich Verfahren wie das Beschriebene mit ihrem aktuellen Stand vor allem dazu, Auffälligkeiten zu identifizieren, denen man über eine qualitative Folgeanalyse nachspüren kann. Wir laden unsere Leserinnen und Leser herzlich dazu ein und erklären uns gern bereit, entsprechende Arbeiten in kommenden Ausgaben von LIBREAS oder auch im LIBREAS. Weblog nachzureichen.
 
+### Supplements
+
+**Datensatz** als `csv`-Tabelle: <https://github.com/libreas/ausgabe31/blob/master/notiz/sentiment_publikationsfreiheit.csv>
+
+**Analyse** als dynamisches R Markdown Dokument: <https://github.com/libreas/ausgabe31/blob/master/notiz/master.Rmd>
 
 [^1]: <https://www.publikationsfreiheit.de/>
 
@@ -40,3 +44,5 @@ Eine weitere notwendige Einschränkung ist also, dass das Verfahren selbst zwar 
 [^5]: <http://tidytextmining.com/>
 
 [^6]: [https://github.com/libreas/ausgabe31/blob/master/notiz/master.Rmd](https://github.com/libreas/ausgabe31/blob/master/notiz/master.Rmd)
+
+[^7]: <https://github.com/libreas/ausgabe31/blob/master/notiz/sentiment_publikationsfreiheit.csv>
