@@ -1,12 +1,3 @@
-
-Rezension zu:
-
-Dale E. Schaffer, Public Collectors (2017 [1977]): LIBRARY EXCAVATIONS
-#5: A HANDBOOK OF LIBRARY IDEAS. Chicago, Il: Public Collectors, 40
-Seiten, 6 $
-
-von Ben Kaden
-
 Ganze elf Jahre und einiges an Zufällen brauchte es, bis wir von
 LIBREAS. Library Ideas unsere Vorgängerpublikation entdecken konnten.
 Dabei weist der Worldcat Dale E. Shaffers 1977 im Eigenverlag
@@ -46,14 +37,14 @@ Reorganisation und Betrieb der Bibliothek unterstützten und die hier
 ruhig mal für eine Sekunde kurzen Aufschimmerns aus dem Schatten der
 Vergangenheit geholt werden können:
 
-"Thirteen students are working in the library during second semester.
-David Gillespie, Janice Underwood, Marie Jewell, Helen Cunningham, Sandy
-Williams, Louis Friel and Greta James work at the circulation desk.
-Virginia Gallaher is typist and Carl Paxton helps with the processing of
-books. Ron Hill and Paul Taylor do general work. Mrs. Dorothy Peterson
-is assistant librarian and Miss Mary Susan Brown is in charge of
-circulation." (Janet Long: GSC Librarian begins Work. IN: The Glenville
-Mercury, 13.02.1963, S. 1/4)
+> "Thirteen students are working in the library during second semester.
+> David Gillespie, Janice Underwood, Marie Jewell, Helen Cunningham, Sandy
+> Williams, Louis Friel and Greta James work at the circulation desk.
+> Virginia Gallaher is typist and Carl Paxton helps with the processing of
+> books. Ron Hill and Paul Taylor do general work. Mrs. Dorothy Peterson
+> is assistant librarian and Miss Mary Susan Brown is in charge of
+> circulation." (Janet Long: GSC Librarian begins Work. IN: The Glenville
+> Mercury, 13.02.1963, S. 1/4)
 
 Dies also als kurzer Einblick in die Personalausstattung einer
 US-College Bibliothek der 1960er Jahre. Nicht viel später wechselte Dale
@@ -94,8 +85,8 @@ Abstraktionsvermögen, Unabhängigkeit, Ausdauer und Mut. Interessant und
 als schöne Variation zu stereotypen Vorstellungen ist der Punkt
 Nummer 9 – Challenged by Disorder:
 
-"He \[der Kreativbibliothekar\] thrives on chaos and disorganization,
-considering it a problem to be solved."
+> "He \[der Kreativbibliothekar\] thrives on chaos and disorganization,
+> considering it a problem to be solved."
 
 Die Unordnung ist das Material, an dem sich die Ordnungskraft entfaltet.
 
@@ -104,11 +95,10 @@ eindrücklich, wie alt all das ist, was heute unter dem Label Makerspaces
 diskutiert wird. Genau genommen ist der Grundansatz noch deutlich älter,
 wie man bei der Idee Nummer 140 – Tool-Lending Pool – lernt:
 
-"Tool lending was originally established by Rotarians during the
-shortages of World War II. Now, power tools can be borrowed from some
-libraries for three days; hand tools for a week. Included are
-tachometersm strobe lights, and various items for automobile tuneups."
-(S. 35)
+> "Tool lending was originally established by Rotarians during the
+> shortages of World War II. Now, power tools can be borrowed from some
+> libraries for three days; hand tools for a week. Included are
+> tachometersm strobe lights, and various items for automobile tuneups." (S. 35)
 
 Und plötzlich erkennt man, dass auch Baumärkte und Bibliotheken ihr
 Serviceprofil einander annähern können.
@@ -131,12 +121,12 @@ pflegte und betrieb, 2011 verschwanden.[^1]
 Das zur Gewichtsprüfkultur gegenläufige Programm verbirgt sich hinter
 einem "Hamburgers for Overdues"-Programm (59):
 
-"Rather than spend money on mailing overdue notices to patrons, one
-library is offering free hamburger coupons to those who return library
-materials. It is done in cooperation with a large fast-food-chain, which
-also tends to benefit from the idea. \[...\] For promotional purposes,
-the food chain also offers free hamburgers to children who fulfill the
-library’s summer reading requirements."
+> "Rather than spend money on mailing overdue notices to patrons, one
+> library is offering free hamburger coupons to those who return library
+> materials. It is done in cooperation with a large fast-food-chain, which
+> also tends to benefit from the idea. \[...\] For promotional purposes,
+> the food chain also offers free hamburgers to children who fulfill the
+> library’s summer reading requirements."
 
 Auch abgesehen davon, dass dieses Programm vegetarischen und veganen
 Ernährungsmodellen wenig Rechnung trägt, wirkt der
@@ -184,16 +174,16 @@ Videokassetten – "as a new system of delivering information" – und
 Videodiscs (148) spielen heute so wenig eine Rolle wie morgen DVDs. Ein
 Satz wie
 
-"Libraries will soon be loaning movies such as 'Jaws', 'The Sting',
-'Airport', and many 'how-to' films on videodiscs."
+> "Libraries will soon be loaning movies such as 'Jaws', 'The Sting',
+> 'Airport', and many 'how-to' films on videodiscs."
 
 wird sich in wenigen Jahren vermutlich noch sonderbarer lesen, wenn sich
 Videostreaming als Standard durchgesetzt hat. Fast vergessen aber
 deswegen nicht uninteressant ist die Idee des Microfragrance Catalog
 (98). Allerdings ist die Idee in Bezug auf ihre Schilderung ausbaufähig:
 
-"By scratching the card under the subject "garlic", for example, the
-patron receives a strong whiff of the potent herb."
+> "By scratching the card under the subject "garlic", for example, the
+> patron receives a strong whiff of the potent herb."
 
 Für das Geruchsarchiv von Sissel Tolaas wäre das dagegen ein sehr
 schönes Nachweismittel.[^2]
@@ -201,9 +191,9 @@ schönes Nachweismittel.[^2]
 Die Idee des Wire Service (153) muss dagegen auch zu den überholten
 Varianten zählen:
 
-"In the lobby of one public library you will see people watching the
-latest headline news from wire service dispatches. It is a common
-gathering place for office workers during lunch time."
+> "In the lobby of one public library you will see people watching the
+> latest headline news from wire service dispatches. It is a common
+> gathering place for office workers during lunch time."
 
 Diese Versorgungsaufgabe haben dank 24-Stunden-Nachrichtensendern und
 Flachbildfernsehern heute zum Beispiel Berliner Spätis übernommen. Sehr

@@ -1,4 +1,4 @@
-\documentclass[a4paper,
+  \documentclass[a4paper,
 fontsize=11pt,
 %headings=small,
 oneside,
@@ -36,6 +36,8 @@ final
 \usepackage{mathpazo}
 \usepackage[normalem]{ulem} %emphasize weiterhin kursiv
 \usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+\usepackage{hyperxmp}
 
 \usepackage{listings}
 
@@ -68,8 +70,8 @@ LIBREAS. Library Ideas, 31 (2017). % journal, issue, volume.
 \href{http://nbn-resolving.de/}
 {}} % urn
 \fancyhead[R]{\thepage} %page number
-\fancyfoot[L] {\textit{Creative Commons BY 3.0}} %licence
-\fancyfoot[R] {\textit{ISSN: 1860-7950}}
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/3.0/}{\color{black}Creative Commons BY 3.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
 
 \title{\LARGE{\enquote{Lesen, dass ein anderer ebenso fühlt.}\\ Die
     Janusz-Korczak-Geschwisterbücherei}} %title %title
@@ -78,7 +80,13 @@ LIBREAS. Library Ideas, 31 (2017). % journal, issue, volume.
 \setcounter{page}{1}
 
 \usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=blue,
-breaklinks= true]{hyperref}
+breaklinks= true,]{hyperref}
+
+\hypersetup{%
+      pdfcopyright={CC BY 4.0},
+      pdflicenseurl={https://creativecommons.org/licenses/by/4.0/},
+      baseurl={http://libreas.eu/}
+     }
 
 \date{}
 \begin{document}
@@ -128,7 +136,7 @@ Spielmaterialien und Hörbücher.\footnote{Biete Erfahrung -- suche
 %\caption{}
 \end{figure}
 
-\subsubsection{\texorpdfstring{\enquote{Ich finde nicht die richtigen
+\section*{\texorpdfstring{\enquote{Ich finde nicht die richtigen
 Worte}}{Ich finde nicht die richtigen Worte}}\label{ich-finde-nicht-die-richtigen-worte}
 
 In ihrem Buch \enquote{Ich finde nicht die richtigen Worte}\footnote{Winkelheide,
@@ -195,7 +203,7 @@ geschützt und beschrieben hat: Janusz Korczak.
 %\caption{}
 \end{figure}
 
-\subsubsection{\texorpdfstring{\enquote{Ein Dichter -- das ist ein
+\section*{\texorpdfstring{\enquote{Ein Dichter -- das ist ein
 Mensch, der starke Gefühle
 hat}}{Ein Dichter -- das ist ein Mensch, der starke Gefühle hat}}\label{ein-dichter-das-ist-ein-mensch-der-starke-gefuxfchle-hat}
 

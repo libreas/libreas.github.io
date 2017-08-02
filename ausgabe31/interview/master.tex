@@ -36,6 +36,8 @@ final
 \usepackage{mathpazo}
 \usepackage[normalem]{ulem} %emphasize weiterhin kursiv
 \usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+\usepackage{hyperxmp}
 
 \usepackage{listings}
 
@@ -67,8 +69,8 @@ LIBREAS. Library Ideas, 31 (2017). % journal, issue, volume.
 \href{http://nbn-resolving.de/
 }{}} % urn
 \fancyhead[R]{\thepage} %page number
-\fancyfoot[L] {\textit{Creative Commons BY 3.0}} %licence
-\fancyfoot[R] {\textit{ISSN: 1860-7950}}
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/3.0/}{\color{black}Creative Commons BY 3.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
 
 \title{\LARGE{Ein Ortsbesuch im Prenzlauer Berg. Eine Reportage basierend auf einem Interview mit Danilo Vetter}} %title %title
 \author{Linda Freyberg \& Ben Kaden} %author
@@ -77,6 +79,12 @@ LIBREAS. Library Ideas, 31 (2017). % journal, issue, volume.
 
 \usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=blue,
 breaklinks= true]{hyperref}
+
+\hypersetup{%
+      pdfcopyright={CC BY 4.0},
+      pdflicenseurl={https://creativecommons.org/licenses/by/4.0/},
+      baseurl={http://libreas.eu/}
+     }
 
 \date{}
 \begin{document}
@@ -108,7 +116,7 @@ Gewöhnungsbedürftig ist dies zunächst, aber nicht ungemütlich. Es gibt
 Tee und wir schauen gemeinsam auf eine große Tafel. Die ist sehr gut
 gefüllt. Bestandsaufnahme trifft auf To-Do-Listen trifft auf
 Kinderzeichnungen, was fast zwingend wirkt, machen doch je nach Standort
-Kinderbücher bis zu 60 \% der Entleihungen aus. Am meisten am Standort
+Kinderbücher bis zu 60\,\% der Entleihungen aus. Am meisten am Standort
 an der per Klischee mittlerweile wohlhabendsten Ecke des Bezirks -- in
 der Bibliothek am Wasserturm an der Prenzlauer Allee. Warum eigentlich?
 Wo kultureller und materieller Wohlstand sich so gelungen verbinden, wie
@@ -124,7 +132,7 @@ erreichbar liegt.
 \begin{figure}
 \centering
 \includegraphics{img/danilo-bibliothek-2.jpg}
-\caption{}
+%\caption{}
 \end{figure}
 
 Dienstleister ist das Stichwort, das vielleicht nicht auf eine
@@ -185,7 +193,7 @@ Manipulatives hat.
 \begin{figure}
 \centering
 \includegraphics{img/libreas-boell-apr-2017.jpg}
-\caption{}
+%\caption{}
 \end{figure}
 
 Dass so eine Leitung nicht als Dienst nach Vorschrift, sondern teils
@@ -287,7 +295,7 @@ Situationen führt.
 \begin{figure}
 \centering
 \includegraphics{img/pankow-volksbuecherei.jpg}
-\caption{}
+%\caption{}
 \end{figure}
 
 Noch eine Herausforderung also für den neuen Leiter. Und auch die gilt
