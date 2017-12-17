@@ -1,0 +1,501 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage[babel]{csquotes}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+%URLs hart brechen
+\makeatletter 
+\g@addto@macro\UrlBreaks{ 
+  \do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j 
+  \do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t 
+  \do\u\do\v\do\w\do\x\do\y\do\z\do\&\do\1\do\2\do\3 
+  \do\4\do\5\do\6\do\7\do\8\do\9\do\0} 
+% \def\do@url@hyp{\do\-} 
+\makeatother 
+
+%meta
+%meta
+
+\fancyhead[L]{Redaktion LIBREAS \\ %author
+LIBREAS. Library Ideas, 32 (2017). % journal, issue, volume.
+\href{http://nbn-resolving.de/}
+{}} % urn 
+% recommended use
+%\href{http://nbn-resolving.de/}{\color{black}{urn:nbn:de...}}
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/3.0/}{\color{black}Creative Commons BY 3.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{Das liest die LIBREAS, Nummer \#1 (Sommer / Herbst 2017)}} % title
+\author{Redaktion LIBREAS} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={Das liest die LIBREAS, Nummer \#1 (Sommer / Herbst 2017)},
+      pdfauthor={Redaktion LIBREAS},
+      pdfcopyright={CC BY 3.0 Unported},
+      pdfsubject={LIBREAS. Library Ideas, 32 (2017).},
+      pdfkeywords={Open Access},
+      pdflicenseurl={https://creativecommons.org/licenses/by/3.0/},
+      pdfcontacturl={http://libreas.eu},
+      baseurl={http://libreas.eu},
+      pdflang={de},
+      pdfmetalang={de}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+
+%body
+Beiträge von Ben Kaden (bk), Karsten Schuldt (ks), Alexander Struck
+(as), Michaela Voigt (mv)
+
+\hypertarget{zur-kolumne}{%
+\section*{Zur Kolumne}\label{zur-kolumne}}
+
+Ziel dieser Kolumne ist es, eine Übersicht zu geben über die in der
+letzten Zeit erschienene bibliothekarische, informations- und
+bibliothekswissenschaftliche sowie für diesen Bereich interessante
+Literatur. Enthalten sind Beiträge, die der LIBREAS-Redaktion oder
+anderen Beitragenden als relevant erschienen.
+
+Themenvielfalt sowie ein Nebeneinander von wissenschaftlichen und
+nicht-wissenschaftlichen Ansätzen wird angestrebt und auch in der Form
+sollen traditionelle Publikationen ebenso erwähnt werden wie
+Blogbeiträge oder Videos beziehungsweise TV-Beiträge.
+
+Gerne gesehen sind Hinweise auf erschienene Literatur oder Beiträge in
+anderen Formaten, diese bitte an die Redaktion richten. (Siehe
+Impressum: \url{http://libreas.eu/about/}), Mailkontakt für diese
+Kolumne ist
+\href{mailto:zeitschriftenschau@libreas.eu}{\nolinkurl{zeitschriftenschau@libreas.eu}}.)
+Die Koordination der Kolumne liegt bei Karsten Schuldt, verantwortlich
+für die Inhalte sind die jeweiligen Beitragenden. Die Kolumne
+unterstützt den Vereinszweck des LIBREAS-Vereins zur Förderung der
+bibliotheks- und informationswissenschaftlichen Kommunikation.
+
+\hypertarget{artikel-und-zeitschriftenausgaben}{%
+\section*{Artikel und
+Zeitschriftenausgaben}\label{artikel-und-zeitschriftenausgaben}}
+
+Der Schwerpunkt \enquote{Metadata} der \emph{Mitteilungen der
+Vereinigung Österreichischer Bibliothekarinnen \& Bibliothekare} (70
+(2017) 2, \url{https://ojs.univie.ac.at/index.php/voebm/issue/view/178}
+vereinigt die Vorträge eines Workshops im Rahmen des
+Infrastrukturprojektes e-infrastructures. In diesen werden einige
+Projekte aus Österreich vorgestellt, aber vor allem noch einmal
+grundsätzliche Überlegungen zum Metadatenmanagement an
+Hochschulbibliotheken dargelegt. (ks)
+
+Das Sammeln, Erschliessen und Anbieten von Medien in Bibliotheken und
+Archiven wird allgemein als ethisch problemlos verstanden, obwohl es das
+selbstverständlich auch nicht ist. In Sammlungen sind Machtstrukturen
+und Geschichte eingeschrieben, Kataloge und Infrastruktur sind nicht
+objektiv. Solche Aussagen sind manchmal nur schwer fassbar, der
+Schwerpunkt der \emph{Collection Development} \enquote{Sharing Knowledge
+and Smashing Stereotypes: Representing Native American, First Nation,
+and Indigenous Realities in Library Collections} (42 (2017) 3-4,
+\url{http://www.tandfonline.com/toc/wcol20/42/3-4?nav=tocList}
+{[}größtenteils Paywall{]}), welcher sich auf Sammlungen über (weniger,
+das ist die Kritik, mit) American Natives / First Nations in den USA und
+Kanada konzentriert, macht diese Strukturen greifbarer. In diesen
+Sammlung treffen nicht nur koloniale Geschichte und Forderungen nach
+De-Kolonialisierung, sondern auch unterschiedliche Wissensansprüche (zum
+Beispiel der wissenschaftliche Drang, alles darzustellen im Gegensatz
+zum Anspruch, bestimmtes Wissen über Rituale abgeschirmt zu halten)
+aufeinander. (ks)
+
+Eine bemerkenswerte ethnologische Studie zur Praxis der
+Vorleseveranstaltungen in (schwedischen) Öffentlichen Bibliotheken
+erschien in der \emph{New Review of Children's Literature and
+Librarianship}. (Åse Hedemark: Telling Tales. An Observational Study of
+Storytelling for Children in Swedish Public Libraries. In: \emph{New
+Review of Children's Literature and Librarianship} 23 (2017) 02,
+106-125, \url{https://doi.org/10.1080/13614541.2017.1367574}
+{[}Paywall{]}) Grundsätzlich versuchen die Bibliothekarinnen und
+Bibliothekare in diesen Veranstaltungen ein vorgängig festgelegtes
+Programm durchzuziehen, welches auch mit vielen, oft zu vielen,
+pädagogischen Zielen verknüpft sei. Gleichzeitig gibt es von ihnen kaum
+ernsthafte Kommunikation mit den Kindern. Es werden viele rhetorische
+Fragen gestellt, zumeist zum vorgelesenen Text und den gezeigten
+Bildern, aber auf andere Anregungen und Verhaltensweise der Kinder wird
+nicht eingegangen. Die Kinder werden, so die Autorin, selten als
+Partizipierende wahrgenommen; auch wenn sie dies einfordern. (ks)
+
+In \enquote{Studying the Night Shift} (Schwieder, David ; Spears, Lauras
+I.: Studying the Night Shift: A Multi-method Analysis of Overnight
+Academic Library Users. In: \emph{Evidence Based Library and Information
+Practice} 12 (2017) 3, \url{https://doi.org/10.18438/B8BM1F}) berichten
+David Schwieder und Laura I. Spears von einer Untersuchung der
+Interessen von Studierenden, welche an einer US-amerikanischen
+Universitätsbibliothek die 24/7-Öffnungszeiten nutzen, um die Nächte
+durchzuarbeiten. Im Ergebnis bestätigen Sie, was auch in anderen Ländern
+und Bibliotheken vermutet wird: Dass zumindest Studierende vor allem
+Interesse am Raum Bibliothek und der gebotenen Infrastruktur haben, aber
+kaum an bibliothekarischer Beratung oder am Kontakt mit dem
+Bibliothekspersonal. (ks)
+
+Ein überraschend negatives Bild zeichnet Kaetrena Davis Kendrick (Davis
+Kendrick, Kaetrena: The Low Morals Experience of Academic Librarians: A
+Phenomenological Study. In: \emph{Journal of Library Administration} 57
+(2017), 846-878, \url{https://doi.org/10.1080/01930826.2017.1368325}
+{[}Paywall{]}) in einer Untersuchung über die Wissenschaftlichen
+Bibliotheken (in den USA) als Arbeitsplatz, an dem eine Arbeitskultur
+herrscht, in denen das Personal beleidigt, unterbewertet oder auch
+psychologisch beschädigt wird. Davis Kendrick beschreibt dabei, auf der
+Basis von Interviews, wie diese negative Kultur auf das Personal wirkt.
+(ks)
+
+Wissenschaftliche Bibliotheken streben immer wieder an, direkt mit
+Forschenden in Kontakt zu kommen, um diese zu beraten und direkt bei
+ihrer Arbeit unterstützen zu können. Ein Ausdruck davon sind
+\enquote{Library Liaison Programs}, die mit großem Personalaufwand
+betrieben werden. Laura Banfield und Jo-Anne Petropoulos bieten in einem
+Artikel, der eigentlich eine spezifische Bibliothek beschreiben soll,
+eine umfassende Übersicht zu verschiedenen Modellen dieser Liaison
+Programme. (Banfield, Laura ; Petropoulos, Jo-Anne: Re-visioning a
+Library Liaison Program in Light of External Forces and Internal
+Pressures. In: \emph{Journal of Library Administration} 57 (2017),
+827-845, \url{https://doi.org/10.1080/01930826.2017.1367250}
+{[}Paywall{]}) (ks)
+
+In einer recht umfangreichen Studie (n=1000) untersuchten Dirk
+Lewandowski, Friederike Kerkmann, Sandra Rümmele und Sebastian Sünkler
+die Kompetenz deutscher Internetnutzer, Anzeigen auf Google als solche
+zu erkennen und von den eigentlichen Suchergebnissen zu unterscheiden.
+Dies gelang nur einem sehr geringen Teil von Proband*innen vollständig.
+Darüber hinaus ermittelte die Forschungsgruppe, dass bei den
+Proband*innen nur ein begrenztes Wissen zum Geschäftsmodell der
+Suchmaschine vorliegt. Die Autor*innen schlussfolgern, dass die
+Kennzeichnung der Anzeigen auf Google nicht ausreichend ist.
+
+(Lewandowski, Dirk ; Kerkmann, Friederike; Rümmele, Sandra: An empirical
+investigation on search engine ad disclosure. In: \emph{JASIST}, Early
+View. 10.1002/asi.23963, \url{https://doi.org/10.1002/asi.23963}
+{[}Paywall{]}
+{[}OA-Version{]}(\url{https://arxiv.org/abs/1710.08389}){]} (bk)
+
+\enquote{Die Datenstelle ermöglicht den Übergang von der Spekulation zur
+faktenbasierten Handlung.} -- so fasst Bernhard Mittermaier die
+Zielsetzung des \enquote{Nationale{[}n{]} Kontaktpunkt Open Access}
+(NOAK) zusammen. Das Interview führte Konstanze Söllner und thematisiert
+neben der Entstehungsgeschichte die künftigen Schwerpunkte und Aufgaben
+des NOAK. (Mittermaier, Bernhard: Datenarbeit und \enquote{Nationaler
+Kontaktpunkt Open Access} -- ein Interview mit Dr.~Bernhard Mittermaier.
+In: \emph{ABI Technik} 37 (2017) 4, S. 293--296.
+{[}\url{https://doi.org/10.1515/abitech-2017-0062}) (mv)
+
+Andreas Ledl hat verschiedene Open-Access-Zeitschriften (unter anderem
+aus dem deutschsprachigen LIS-Bereich) untersucht und gibt einen
+Überblick darüber, welche Plattformen und Werkzeuge diese Journale für
+Hosting, Workflowmanagement und Satz nutzen. Es wird deutlich, dass OJS
+zwar der Platzhirsch auf dem Markt der Open-Source-Software für
+Zeitschriftenhosting ist, aber bei weitem nicht die einzige in der
+Praxis verwendet Lösung. Für Interessierte, die selbst Workflows für
+Zeitschriften aufbauen bzw. optimieren wollen, liefert der Beitrag
+zahlreiche praktische Hinweise -- in Bezug auf Plattform, Hosting, Satz
+sowie Indexierung. (Ledl, Andreas: Software, Server, Suchmaschine --
+Technische Kriterien der Gründung und des Betriebs von (Diamond) Open
+Access-Zeitschriften. In: \emph{ABI Technik} 37 (2017) 4, S. 30--38.
+\url{https://doi.org/10.1515/abitech-2017-0005} {[}Paywall{]}
+{[}OA-Version: (\url{http://edoc.unibas.ch/54846/}){]}) (mv)
+
+\hypertarget{monographien}{%
+\section*{Monographien}\label{monographien}}
+
+In einer Abschlussarbeit, die letztlich auch als Monographie in der
+Reihe Leipziger Arbeiten zur Bibliotheks- und Informationswissenschaft
+publiziert wurde, stellt Christian Schmidt anhand einer Umfrage klar,
+dass der Tausch von gedruckten Schriften für Wissenschaftliche
+Spezialbibliotheken weiterhin Relevanz hat, zumeist zwar mit abnehmender
+Tendenz, teilweise aber auch zunehmend. Der digitale Wandel sei nur ein
+Grund, dass sich der Schriftentausch ändere. Budget- und Personalabbau
+seien ebenso relevant. (Schmidt, Christian: \emph{Schriftentausch und
+Digitaler Wandel: Eine empirische Untersuchung am Beispiel
+wissenschaftlicher Spezialbibliotheken}. Berlin: BibSpider, 2017) (ks)
+
+Offensichtlich für eine breite Öffentlichkeit, und nicht die
+Fachcommunity, geschrieben, ist die an Illustrationen reiche Monographie
+zur Geschichte der Bibliothek des Deutschen Museums in München, die ihr
+Leiter Helmut Hilz im Verlag des Museums vorgelegt hat. (Hilz, Helmut:
+\emph{Die Bibliothek des Deutschen Museums.} München: Deutsches Museum
+Verlag, 2017) Das im Coffee Table Book Format gehaltene Buch gibt eine
+-- teilweise sehr langatmige, weil auf den Akten von Sitzungen und
+Verwaltungsvorgängen basierende -- Übersicht zur Entwicklung der
+Bibliothek, zu ausgewählten Beständen und im Bestand enthaltenen Werken.
+Der Gründungszeit wird weit mehr Platz eingeräumt als den späteren
+Jahrzehnten bis heute. Dennoch ein sehr schönes Buch. (ks)
+
+Aus einer selbstorganisierten Lerngruppe von Bibliothekarinnen und
+Bibliothekaren ging eine Monographie zur Nutzung von Autoethnographie in
+der Bibliothekspraxis und -forschung hervor. (Deitering, Anne-Marie ;
+Schroeder, Robert ; Stoddart, Richard (Hrsg.): \emph{The Self as
+Subject: Autoethnographic Research into Identity, Culture, and Academic
+Librarianship}. Chicago: Association of College and Research Libraries,
+2017) Das Buch umfasst, neben einer Einführung und einer Reflektion am
+Ende, 15 Kapitel, die jeweils autoethnographische Forschungen in
+(US-amerikanischen und kanadischen) Wissenschaftlichen Bibliotheken
+präsentieren. Obwohl nicht alle Themen auf Bibliotheken im DACH-Raum zu
+übertragen sind (was auch der Methode widersprechen würde), zeigt dieses
+Sammlung die Stärken solcher selbst-reflektiven Forschungen auf.
+Nachahmenswert ist aber vor allem der Ansatz, dass Kolleginnen und
+Kollegen selbsttätig Lerngruppen organisieren und in ihnen gemeinsam
+Lernprojekte durchführen -- um bessere Menschen und Bibliothekarinnen,
+Bibliothekare zu werden. (ks)
+
+\hypertarget{social-media}{%
+\section*{Social Media}\label{social-media}}
+
+Elsevier hat bepress gekauft, den Hersteller der Repositorienplattform
+Digital Commons, welche vor allem in Nordamerika für den Betrieb
+institutioneller Repositorien eingesetzt wird. Die Bibliothek der
+University of Pennsylvania hat angekündigt, die Partnerschaft mit
+bepress zu beenden und berichtet nun über den Umstieg zu einer neuen
+Repositorienlösung im eigens gestarteten Blog und Twitter-Account:
+\url{https://beprexit.wordpress.com/} und
+\url{https://twitter.com/beprexit/} (mv)
+
+Hinweis von @oa\_intact:
+\url{https://twitter.com/oa_intact/status/922790669013389312}: Welches
+Land hat den höchsten Gold-OA-Anteil weltweit? Brasilien führt vor
+Serbien und Pakistan; Nigeria ist in den Top 10. Weitere überraschende
+und weniger überraschende Zahlen finden sich in einer im Oktober 2017
+veröffentlichten Studie,
+\url{http://nbn-resolving.de/urn:nbn:de:0070-pub-29128079}. (mv)
+
+Was schreibt man auf die letzte Folie einer Vortragspräsentation? Eine
+klare Meinung zu dieser Frage hat @AndreasZeller
+\url{https://twitter.com/AndreasZeller/status/926116900651896835}:
+\enquote{Why final "Thank you" slides drive me nuts}
+\url{https://andreas-zeller.blogspot.de/2013/10/summarizing-your-presentation-with.html}
+(mv)
+
+Ablehnung eines Artikels in einer Elsevier-Zeitschrift durch den Journal
+Editor nach 39 Minuten, das erlebte @ManuelPorcar1
+\url{https://twitter.com/ManuelPorcar1/status/928251836406083584} und
+vermutet dahinter ein Geschäftsmodell. (mv)
+
+Clone Wars sind nur noch einen Wimpernschlag entfernt: Boston Dynamics
+zeigt die Fähigkeiten ihrer aktuellen (Kriegs-)Roboterentwicklung
+\url{https://twitter.com/mrmedina/status/931291808394440706}, die zu
+informationsethischer Diskussion einladen. (as)
+
+Die Nutzung von Standardbibliotheken bei häufig auftretenden
+Programmierproblemen empfiehlt sich. Aber einige solcher
+Standardbibliotheken enthalten auch unerwartete Features -- so enthält
+etwa libxml2 auch einen FTP-Client, berichtet @moyix
+\url{https://twitter.com/moyix/status/932324519427141635}. Jedes Feature
+erhöht die Komplexität, was IT-Sicherheit schwerer handhabbar macht.
+(as)
+
+Rein in die Organisation und von innen aufmischen? SpringerNature geht
+wohl an die Börse, voraussichtlich im Sommer 2018 -- das berichtet
+Christian Gutknecht im Gemeinschaftsblog wisspub.net
+(\url{https://wisspub.net/2017/11/28/springernature-vor-boersengang/}).
+Voraussichtlich wird ein beachtlicher Anteil der Aktien frei an der
+Börse zu handeln sein. (mv)
+
+\hypertarget{konferenzen-konferenzberichte}{%
+\section*{Konferenzen,
+Konferenzberichte}\label{konferenzen-konferenzberichte}}
+
+{[}Diesmal keine Hinweise.{]}
+
+\hypertarget{populuxe4re-medien-zeitungen-radio-tv-etc.}{%
+\section*{Populäre Medien (Zeitungen, Radio, TV
+etc.)}\label{populuxe4re-medien-zeitungen-radio-tv-etc.}}
+
+Anhand der Ausstellung \enquote{Frank Lloyd Wright at 150: Unpacking the
+Archive} im Guggenheim-Museum in New York (12. Juni-01. Oktober 2017)
+reflektiert Julian Rose grundsätzliche Aspekte, des Umgangs mit
+Archivalien im Museumszusammenhang. Er stellt dabei zunächst (mit Walter
+Benjamin) die grundlegende Spannung zwischen Ordnung und Unordnung
+heraus und betont, dass Museen bei der Auswahl von Archivialien für die
+Präsentation unvermeidlich eine bestimmte Form von Geschichte
+konstruieren sowie die prinzipielle Unabschließbarkeit eines Archivs und
+seiner Erschließung. Neuigkeit, und damit die Freude am Entdecken, sind
+verführerisch, als Auswahlkriterien aber häufig zu eng. Er plädiert
+vielmehr für die grundlegende Verschiebung der Archivarbeit von der
+Auswahl (\emph{Selection}) zur Deutung (\emph{Analysis}), \enquote{from
+material to method}. Nicht die Entdeckung des Unbekannten muss
+vorrangiges Ziel sein sondern das Entdecken (beziehungsweise neue
+Betrachten) des Bekannten. Anhand des Wright-Archivs und dem
+Guggenheim-Museum selbst betrachtet er schließlich Gebäude selbst als
+dynamische Medien, in denen sich soziale und politische Effekte sammeln
+und lesen lassen. Gebautes wird, wie die Archivalien zu ihnen
+verdeutlichen, \enquote{geschrieben}. Während Julian Rose
+\enquote{material-to-method}-Verschiebung gut in das Selbstverständnis
+der Digital Humanities passen dürfte, ist der Ansatz des Gebäudes
+sozio-politisches Konstrukt unmittelbar für das Forschungsfeld
+Bibliotheksbau und -architektur relevant. (Julian Rose: Archive Fever.
+In: \emph{ARTFORUM}, October 2017, S. 85f.) (bk)
+
+2005 wurde die neue gemeinsame Universitätsbibliothek der Technischen
+Universität Berlin und der Universität der Künste Berlin eröffnet. Der
+Neubau konnte dank einer Spende des Volkswagen-Konzerns fertiggestellt
+werden; die Bibliothek trug fortan dessen Namen. Ein Antrag der Partei
+DIE LINKE wirft nun die Diskussion auf, ob die Bibliothek umbenannt
+werden sollte. (Thomas Loy: Linke will Volkswagen-Bibliothek umbenennen.
+In: \emph{Tagesspiegel},
+\url{http://www.tagesspiegel.de/berlin/charlottenburg-wilmersdorf-linke-will-volkswagen-bibliothek-umbenennen/20602480.html},
+So 19.11.2017) (mv)
+
+\hypertarget{weitere-medien}{%
+\section*{Weitere Medien}\label{weitere-medien}}
+
+Relevant für das Management elektronischer Medien in Bibliotheken ist
+selbstverständlich die Veröffentlichung der Version 5 des COUNTER Code
+of Practice:
+\url{https://www.projectcounter.org/release-5-code-practice/} Die neue
+Version versucht die unterschiedlichen Daten zu den unterschiedlichen
+Formen elektronischer Medien in möglichst wenigen, dafür flexiblen
+Formularen abzubilden. (ks)
+
+\hypertarget{rezensionen}{%
+\section*{Rezensionen}\label{rezensionen}}
+
+Frustriert von einer wahrgenommen sinkenden Qualität des
+wissenschaftlichen Publizierens und generell einer
+\enquote{Kommodifizierung der Autorschaft} spielt der Autor in seiner
+Kolumne mit der Idee einer fixen Beschränkung der Gesamtwortzahl pro
+Wissenschaftler*in. (Brian C. Martinson: Give reasearchers a lifetime
+word limit. In: Nature, 19. October 2017. Volume 550 Number 7676.
+\url{https://doi.org/10.1038/550303a} ) Er schildert zahlreiche Vorteile
+und wenige Nachteile dieses Ansatzes und übersieht erstaunlicherweise
+das totalitäre und dystopische Potential einer solchen Verordnung. (bk /
+ausführlicher:
+\url{http://libreas.tumblr.com/post/166779373311/word-limits})
+
+Besprechung zur Festschrift für Rafael Capurro. Die Autorin würdigt den
+Bibliotheks- und Informationswissenschaftler, umreißt anhand des
+Sammelbandes dessen Forschungsfelder und seinen Einfluss und arbeitet
+heraus, dass der Band als einführendes Buch in sein Werk vermutlich zu
+komplex ist. (Kristene Unsworth (2017): Book Review: Information
+Cultures in the Digital Age: A Festschrift in Honor of Rafael Capurro.
+Matthew Kelly and Jared Bielby. Wiesbaden, Germany: Springer VS, 2016.
+479 pp. \$129.00 (Paperback). (ISBN 978-3-658-14679-5). In: JASIST.
+Early View. 17 October 2017. \url{https://doi.org/10.1002/asi.23891}
+{[}Paywall{]}) (bk / ausführlicher:
+\url{http://libreas.tumblr.com/post/166747888776/libreas-lektueren})
+
+\hypertarget{debatten}{%
+\section*{Debatten}\label{debatten}}
+
+Birger Hjørland: Does informetrics need a theory? A rejoinder to
+professor Anthony Van Raan. Letter to the Editor. In: JASIST Volume 68,
+Issue 12 December 2017 Page 2846.
+\url{https://doi.org/10.1002/asi.23964} {[}Paywall{]}
+
+Birger Hjørland annotiert eine Rezension von Anthony van Raan und weist
+auf eine mögliche Fehleinschätzung des Rezensenten hin, die besagte,
+dass die Informetrie ohne wissenschaftstheoretisches Fundament auskommen
+würde. Auslöser war eine Kritik Hjørlands am Web of Science, das als
+System der Wissensorganisation laut Hjørland die Sichtbarkeit von
+Inhalten und damit Wissen aktiv beeinflusst. Hjørland erhält diese
+Position einer fehlenden Neutralität des Web of Science aufrecht,
+betont, dass unterschiedliche Ansätze der Informationswissenschaft
+verschiedene theoretische Grundlagen haben und plädiert seinerseits für
+eine explizite Verständigung über diese theoretischen Grundlagen. (bk)
+
+\hypertarget{vermischtes}{%
+\section*{Vermischtes}\label{vermischtes}}
+
+Die kurze, mit zwei Fotografien des Pressefotografen Heinz Schönfeld
+illustrierte Redaktionsmeldung, informiert darüber, dass der Neubau der
+Stadtbezirksbibliothek Prenzlauer Berg in der Greifswalder Straße 87 am
+07. April 1981 eröffnet wurde und montags bis freitags von 10-19 Uhr und
+samstags von 09-12 Uhr geöffnet sein wird. Welche Ausnahme
+\enquote{außer mittwochs} darstellt, führt die Meldung nicht aus. (ND:
+Ein Literaturtreff in der Greifswalder Straße. In: Neues Deutschland,
+Mi. 8. April 1981, S.8) (bk)
+
+In der Rubrik Berliner Chronik meldet die Redaktion der Berliner Zeitung
+kurz, dass Dr.~Joris Vorstius, Direktor der Katalogabteilung der
+Öffentlichen Wissenschaftlichen Bibliothek Berlin, einen Lehrauftrag für
+Bibliothekswissenschaft an der Philosophischen Fakultät der
+Humboldt-Universität erhielt. (Berliner Zeitung: Lehrauftrag für
+Bibliothekswissenschaft. In: Berliner Zeitung, Fr. 14. März 1947, S. 4)
+(bk)
+
+%autor
+
+\end{document}

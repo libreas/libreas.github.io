@@ -1,0 +1,485 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[english]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[english]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage[babel]{csquotes}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+
+%meta
+%meta
+
+\fancyhead[L]{B. Mittermaier \\ %author
+LIBREAS. Library Ideas, 32 (2017). % journal, issue, volume.
+\href{http://nbn-resolving.de/}
+{}} % urn 
+% recommended use
+%\href{http://nbn-resolving.de/}{\color{black}{urn:nbn:de...}}
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/3.0/}{\color{black}Creative Commons BY 3.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{From the DEAL engine room -- an interview with Bernhard Mittermaier}} % title
+\author{Bernhard Mittermaier} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={From the DEAL engine room -- an interview with Bernhard Mittermaier},
+      pdfauthor={Bernhard Mittermaier},
+      pdfcopyright={CC BY 3.0 Unported},
+      pdfsubject={LIBREAS. Library Ideas, 32 (2017).},
+      pdfkeywords={Open Access, DEAL, Transformation, Elsevier, Springer Nature, Wiley},
+      pdflicenseurl={https://creativecommons.org/licenses/by/3.0/},
+      pdfcontacturl={http://libreas.eu},
+      baseurl={http://libreas.eu},
+      pdflang={en},
+      pdfmetalang={en}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+
+%body
+A few years ago it seemed far out of reach (at least for OA advocates
+and maybe even for the heads of acquisition) and for more than two years
+now something has been on everybody's lips: Whether management in higher
+education, scholars, librarians, or science journalists --
+\enquote{DEAL} is repeatedly associated with a project that aims at
+closing a national deal for scholarly publications, first and foremost
+with the three top dog publishers Elsevier, Springer~Nature and Wiley,
+and -- later on -- maybe even further academic publishers.
+
+What's special about that? The deal shall not only include access to
+scholarly journals, with one price tag and transparent pricing. It shall
+also include an open access component for all \enquote{German} articles.
+In other words, authors affiliated with institutions that are part of
+the DEAL consortium shall be able to publish their articles open access.
+Publish and Read (PAR), one deal at one transparent price. It would mean
+a huge step for the open access transformation of the journal market.
+
+The (tough) negotiations with Elsevier have in particular been in the
+national and international spot. Since the beginning of 2017 as many as
+76 German research or higher education institutions did not have a
+license agreement with the publisher. Scholars from these institutions
+cannot access Elsevier journals directly.\footnote{In the meantime
+  Elsevier has restored access for most institutions, see
+  \url{http://www.sciencemag.org/news/2017/02/elsevier-journals-are-back-online-60-german-institutions-had-lost-access}}
+Some feared scholars would riot, this fear turned out to be
+unsubstantiated, though.\footnote{See e.g.
+  \url{http://www.nature.com/news/german-scientists-regain-access-to-elsevier-journals-1.21482},
+  \url{https://www.helmholtz.de/en/current_topics/press_releases/artikel/artikeldetail/helmholtz_zentren_kuendigen_die_vertraege_mit_elsevier/}
+  or
+  \url{https://www.berliner-zeitung.de/berlin/hohe-preise-berliner-universitaeten-kuendigen-vertrag-mit-grossem-wissenschaftsverlag-27926974}}
+As of end of October 2017, 109 institutions have announced not to renew
+individual agreements with Elsevier when the year closes. Thus, from
+January 2018 on 185 institutions\footnote{Since beginning of 2017 there
+  has been 76 institutions without license agreement: 30 universities,
+  16 universities of applied science, 27 research institutions as well
+  as 3 state libraries. In total, 109 institutions with subscriptions
+  ending by December 2017 have announced not to renew their individual
+  license agreements, whereof 29 universities, 57 universities of
+  applied science and 23 research institutions. See
+  \url{https://www.projekt-deal.de/vertragskundigungen-elsevier-2017/}
+  (as of 12.11.2017)} will either be part of a national DEAL consortium,
+or Elsevier journals cannot not be accessed.
+
+Reports on the DEAL project have been numerous, on the project's aims as
+well as the negotiation progress (or rather negotiation
+deadlock).\footnote{See press review on the project website
+  \url{https://www.projekt-deal.de/press-review/}} Our primary interest
+was different though. The endeavor is of high relevance for the current
+and future publishing landscape in German academia. How can it be
+accomplished? Which wheels have to mesh to complete the project
+successfully? What do the negotiations require from people and
+institutions involved? We have interviewed Bernhard Mittermaier, member
+of the DEAL negotiating team. The interview was led and translated by
+Michaela Voigt and Maxi Kindling.
+
+\hypertarget{chronology-and-team}{%
+\section*{Chronology and team}\label{chronology-and-team}}
+
+\emph{\textbf{LIBREAS}: When was the idea for project DEAL born? Is
+there a point in time that can be considered as starting point?}
+
+\textbf{BM}: In summer 2013 the rector of the Universität Leipzig
+approached the German Rectors' Conference
+(\enquote{Hochschulrektorenkonferenz} or \enquote{HRK} in short) and
+suggested to negotiate licensing agreements with the major journal
+publishers on a national level.\footnote{\url{http://www.tagesspiegel.de/wissen/teure-fachzeitschriften-nationallizenzen-fuer-uni-bibliotheken-gefordert/8624114.html}}
+The HRK in turn approached the Alliance of Science Organisations in
+Germany that finally commissioned an already existing working group
+(\enquote{AG Lizenzen}) to investigate the matter. The expert report
+should assess under which conditions the portfolio of major academic
+publishers could be part of a national license agreement. Anne Lipp
+(German Research Foundation), Hildegard Schäffler (Bavarian State
+Library) and myself were then jointly heading the working group AG
+Lizenzen and took on the matter on behalf of the working group. Building
+on this expertise the Alliance of Science Organisations in Germany set
+up a project team -- a group that, with a few additions, exists to this
+very day.\footnote{\url{https://www.projekt-deal.de/about-deal/}} The
+project team was later joined by the steering committee and, in 2016,
+the negotiating group. Furthermore, two full-time positions have been
+funded since 2015.
+
+\emph{\textbf{LIBREAS}: That sounds rather straightforward. With some
+insight in the landscape of libraries and higher education in Germany,
+one can suspect this to be rather difficult. What did it take to turn
+the idea into a project?}
+
+\textbf{BM}: Two things are essential -- many institutions, whether
+higher education sector and other research organisations, want central
+negotiations and want them to be led in a completely new context, and
+they are prepared to conduct these negotiations with the necessary
+severity. It is equally important to have support from all areas --
+management, scholars and libraries.
+
+\emph{\textbf{LIBREAS:} The team is quite heterogeneous. Coincidence or
+intention?}
+
+\textbf{BM}: The team as such consists of three groups -- the actual
+project team, the negotiating group and the project steering
+committee.\footnote{See figure \enquote{Project structure} at
+  \url{https://www.projekt-deal.de/about-deal/}} Care was taken to
+ensure that libraries and academics, the various disciplines and various
+types of institutions were adequately represented in all three groups.
+The widest representation of all perspectives is given in the project
+steering committee. The project team consists of librarians only,
+whereas academics dominate the negotiation team. To use a nautical
+analogy: The engine room is staffed with librarians, the ship's bridge
+is staffed with academics.
+
+\emph{\textbf{LIBREAS:} And you are certainly also exchanging ideas with
+colleagues from abroad?}
+
+\textbf{BM}: Well, we are talking with others, during conferences for
+example. But the negotiations are conducted separately.
+
+\emph{\textbf{LIBREAS:} There are two project positions -- \enquote{only
+two} or \enquote{two after all}, whichever way you prefer. Do all others
+contribute to DEAL as part of their official duties? How much time do
+you invest in the project, for example?}
+
+\textbf{BM}: DEAL massively ties up resources, this holds true for both
+members of the project and the negotiation team. Personally, I probably
+invest at least 20 hours a week.
+
+\hypertarget{the-publishers}{%
+\section*{The publishers}\label{the-publishers}}
+
+\emph{\textbf{LIBREAS}: How was the DEAL initiative taken up by
+publishers?}
+
+\textbf{BM}: The publishers initially assured themselves that the DEAL
+negotiations were indeed mandated by the German research institutions.
+Consequently, they were open for negotiations.
+
+\emph{\textbf{LIBREAS:} How many persons are involved on the publisher's
+side, can you give a rough estimate?}
+
+\textbf{BM}: During negotiation talks, five people are present on the
+publisher's side on average -- at least two hierarchical levels from
+sales, as well as dedicated experts, also in the field of Open Access.
+We can not estimate how many persons are involved behind the scenes.
+
+\emph{\textbf{LIBREAS}: Press reports suggest that both parties pull no
+punches. How would you describe the appearance of the publishers -- both
+during the negotiating sessions and in public?}
+
+\textbf{BM}: Overall, the appearance is correct and professional. Still,
+neither party gives something away for free. For official announcements
+we have come to good terms with both Wiley and Springer Nature: We
+coordinate what information is released to institutions and retailers;
+in the meantime there were even joint press releases. Details are
+released very discreetly. This does not satisfy the understandable need
+for information of the public. But it helps to continue negotiations
+without major disruptions.
+
+Looking at Elsevier, the situation is more difficult: Although we agreed
+not to release details publicly, Elsevier gradually shied away -- when
+communicating with individual institutions at first, and little by
+little even when communicating with journal editors. Meanwhile, the
+present offer is fairly open -- some \enquote{dirty details} are missing
+though and, above all, financial aspects are left in the dark.
+
+\emph{\textbf{LIBREAS}: In general, how is the project received by the
+(national and international) publishing market? Are you in contact with
+other publishers already?}
+
+\textbf{BM}: Other publishers are following the project closely. It is
+understandable that deals with the three largest publishers in Germany,
+which account for more than half of the market, would have an impact on
+other publishers in Germany as well as on publishers' international
+business. At the beginning there was an antitrust complaint of the
+Börsenverein, the interest group of German publishers. The lobby
+expressed concerns that by joining the DEAL consortium the entire budget
+would be consumed and libraries would not have the funds for other
+publishers. This concern was apparently based on the assumption that one
+would have to spend more on a DEAL contract than before. The German
+Federal Cartel Office (Bundeskartellamt) did not take up on this path,
+but apparently some publishers submit to the propaganda of their own
+association: they now want to conduct own DEAL negotiations in order to
+get a (supposedly larger) piece of the cake. For reasons of capacity the
+DEAL negotiating team currently can not take up negotiations with other
+publishers. However, there are some negotiations under the umbrella of
+the proposal "Open Access Transformation Contracts" of the German
+Research Foundation DFG. They are negotiated by individual institutions,
+similar to the DFG funded \enquote{Alliance licenses}.
+
+\hypertarget{getting-prepared-and-negotiations}{%
+\section*{Getting prepared and
+negotiations}\label{getting-prepared-and-negotiations}}
+
+\emph{\textbf{LIBREAS:} How is the DEAL office organised?}
+
+\textbf{BM}: There is no actual DEAL office. The Alliance of Science
+Organisations in Germany funds two project positions: One position has a
+focus on data collection and analysis, located at the Max Planck Digital
+Library in Munich, one position has a focus on public relations, located
+at the University Library Freiburg. Furthermore, we are supported by the
+office of the regional consortium Baden-Wuerttemberg, which is also
+located at the University Library Freiburg.
+
+\emph{\textbf{LIBREAS:} The DEAL team is preparing for a new negotiating
+session. How does that look like? Is there a flood of emails, strategy
+papers...?}
+
+\textbf{BM}: Initially, there were many meetings, face to face and
+videoconferencing, for example to set the DEAL negotiating goals. In the
+meantime, the preparation mainly takes place via email and before the
+actual negotiating session, in the form of preliminary meetings. The
+negotiating team is now very well established.
+
+\emph{\textbf{LIBREAS:} How do negotiations come about, who sets the
+dates?}
+
+\textbf{BM}: The office of Professor Hippler proposes dates, which are
+then coordinated in the negotiating group -- we doodle, to put it
+briefly. We always try to gather as many academics as possible and at
+least one librarian. The result will then be coordinated with the
+publishers. It's easy to imagine that finding a date is not easy, also
+because based in the Netherlands, Great Britain and even the USA are
+involved on the publishers' side.
+
+\emph{\textbf{LIBREAS:} How should one envision the atmosphere in the
+negotiating room?}
+
+\textbf{BM}: The sessions last between two and four hours and usually
+take place in the rooms of the German Rectors' Conference in Bonn or
+Berlin. Professor Hippler, President of the German Rectors' Conference
+HRK, is the main negotiator for the DEAL team. As already mentioned, the
+negotiation team consists of academics and librarians, the team is very
+well established. Sure, the mood is tense more often than it is
+resolved, most of the time words are not minced. But there has always
+been a handshake -- even at the farewells.
+
+\emph{\textbf{LIBREAS:} How common is the term "SciHub" during such a
+session?}
+
+\textbf{BM:} In the meantime, only rarely. The publishers know that
+ultimately we are interested in signing a deal -- and not in choosing
+between a DEAL contract and Sci-Hub. Conversely, if it is claimed that a
+research institution could not do without the publisher's journals, we
+point out that the experience of Elsevier dropouts teaches something
+different: various legal ways of alternative document delivery are used
+to ensure the literature supply at the individual institutions.
+
+\hypertarget{criticism}{%
+\section*{Criticism}\label{criticism}}
+
+\emph{\textbf{LIBREAS:} You negotiate a DEAL with publishers that have a
+focus on the traditional publishing model. What does this actually have
+to do with Open Access? }
+
+\textbf{BM}: A lot, by now. Sure, the initial focus was negotiating
+subscription deals. But all parties realized very quickly that this
+could not be the end of the road. Apart from access to all of the
+publisher's journals for all participating institutions, the
+negotiations also aim at unleashing articles by academics of the
+participating institutions. That is to ensure that if an academic from a
+participating institution is corresponding author, the article is
+published Open Access and under CC BY, an Open Access compliant license.
+In addition, the costs incurred should be fair and forward-thinking --
+and they should be based on the number of articles. In other words, for
+all subscription journals of the publishers concerned the DEAL project
+would put participating institutions almost in the same position as if
+it were open access journals: own articles are Gold OA and are published
+under CC BY. All other articles can be accessed, but not used under the
+terms of a Creative Commons license. No further costs are incurred for
+publishing Gold Open Access. The same goes for all gold open access
+journals -- they would be included in the DEAL contract with the
+according publisher, authors would not have to pay additional article
+processing charges.
+
+\emph{\textbf{LIBREAS:} OA advocates criticize that DEAL leads to a
+further commercialization of the scholarly publication market and gives
+preference to the "big ones" -- while grassroots initiatives and newly
+founded OA publishers, especially in the field of OA monographs, are
+under constant financial pressure. What do you think about this?}
+
+\textbf{BM}: DEAL wants to make a contribution to the Open Access
+transformation of scholarly publishing. It is true that the actual DEAL
+negotiations are limited to these three publishers. However, there are
+also discussions with other publishers in connection with the call for
+proposals "Open Access Transformation Contracts" by the German Research
+Foundation DFG. All publishers who are ready to embark on a journey to
+transformation are invited to participate. Apart from that, DEAL does
+not presume to intervene in the freedom of research and teaching
+guaranteed by the constitution. Also, we do not want to dictate scholars
+where to publish, but we want to make sure the publishing options that
+scholars can select freely from meet the needs of the scholarly system.
+In our view, this means that they should become open access if they are
+not already.
+
+\hypertarget{outlook}{%
+\section*{Outlook}\label{outlook}}
+
+\emph{\textbf{LIBREAS}: When will we have reached a DEAL?}
+
+\textbf{BM:} Talks with Springer Nature and Wiley are well on their way.
+When it became apparent in September 2017 that the agreement could not
+be concluded by the end of the year, a transitional solution had to be
+found in order to avoid a contractless status from January 2018
+on.\footnote{\url{https://www.projekt-deal.de/vertragskundigungen-elsevier-2017/}}
+Such a transitional solution was possible with both publishers and
+agreed upon via email, in telephone conferences and at the recent
+Frankfurt book fair. Due to the good atmosphere during these talks and
+the publishers' willingness to sign up for the DEAL route, which has now
+become contractually evident, I am optimistic that a deal can be
+reached, probably in the first or second quarter of 2018.
+
+With Elsevier the situation is very different. Although the negotiations
+have lasted almost a year longer, they are less advanced than those with
+Springer Nature and Wiley. Elsevier has not yet accepted the approach of
+exclusively paying for publishing. Also, the mutual setup is much more
+confronting: institutions have not extended their expiring contracts. At
+the beginning of 2017, this involved almost 70 institutions, and now the
+number is up to 180 and more. At the beginning of October, the first
+resignations of editors were handed over to Elsevier and announced
+publicly.\footnote{\url{https://www.projekt-deal.de/herausgeber_elsevier/}}
+Elsevier, on the other hand, is reaching out to individual institutions
+-- even though there are no negotiations to be held. Editors are
+contacted and invited to "Editors Dinners", and contact with rectorates
+and ministries is sought. The alleged purpose is to break up the lines
+on the side of DEAL -- so far without success. One can only hope that
+the transitional solutions with Wiley and Springer Nature, which have
+met great interest in the public, trigger some action on Elsevier's
+side. If this does not happen, there will be further escalation: more
+institutions will terminate agreements, editors will resign at regular
+intervals. Eventually DEAL will announce Elsevier's latest offer to the
+institutions, including financial details. At the latest when deals with
+Wiley and Springer Nature are concluded, Elsevier will have to put their
+cards on the table. If there is still no progress to be seen, one must
+assume that Elsevier would rather forego sales in Germany than to
+question their business model. But even that would be very risky for the
+publisher: After all, it is a large field trial to the question of
+whether you can live without Elsevier journals.
+
+\emph{\textbf{LIBREAS}: From the DEAL team's perspective -- what is
+desirable?}
+
+\textbf{BM:} That involved institutions remain calm. Rarely, if ever,
+has there been such an attempt. It receives international attention, not
+to say admiration. And it has the best chance of success.
+
+\emph{\textbf{LIBREAS}: Dear Mr.~Mittermaier, thank you very much for
+your time!}
+
+%autor
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\textbf{Dr.~Bernhard Mittermaier} holds degrees in Chemistry (Diplom),
+Library and Information Science (M.A.) and Analytical Chemistry (Ph.D.).
+He is Head of the Central Library of Forschungszentrum Jülich. Apart
+from being a member of the DEAL negotiating team and the National Open
+Access Contact OA2020-DE he is part of the steering committee ``Zukunft
+der Digitalen Informationsversorgung'' (``Future of the Digital
+Information Supply'') of the Alliance of Science Organisations in
+Germany. (ORCID: \url{http://orcid.org/0000-0002-3412-6168})
+
+\textbf{Michaela Voigt} is member of the Open Access Team at Technische
+Universität Berlin and editorial board member of LIBREAS. Library Ideas.
+(ORCID: \url{http://orcid.org/0000-0001-9486-3189})
+
+\textbf{Maxi Kindling} is researcher and lecturer at Berlin School of
+Library and Information Science (Humboldt-Universität zu Berlin). She is
+co-founder and co-editor of LIBREAS. Library Ideas. (ORCID:
+\url{http://orcid.org/0000-0002-0167-0466}
+
+\end{document}

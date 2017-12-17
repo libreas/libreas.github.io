@@ -1,0 +1,732 @@
+### Überblick
+
+Lange Zeit war es hierzulande in Wissenschaft, Politik und Recht weithin
+Konsens, dass Wissenschaftler/innen Open Access publizieren *können*
+aber nicht dazu von Rechts wegen verpflichtet sein sollen. Diese
+Auffassung vertritt aus mannigfaltigen Gründen auch der Verfasser dieses
+Beitrags.[^1]
+
+Neuland betreten hat im Frühjahr 2014 die Wissenschaftsministerin in
+Baden-Württemberg. Nach dem neuen Landeshochschulgesetz[^2] (LHG BaWü)
+*müssen* die Hochschulangehörigen ihre wissenschaftlichen Beiträge frei
+zugänglich zweitveröffentlichen.
+
+Eine rechtliche Verpflichtung zur Open Access-Zweitveröffentlichung
+verankerte als bundesweit erste Hochschule im Dezember 2015 die
+Universität Konstanz. Sie gibt ihren Hochschulangehörigen seitdem in der
+"Satzung zur Ausübung des wissenschaftlichen
+Zweitveröffentlichungsrechts gemäß § 38 Abs. 4 UrhG" ein Open
+Access-Mandat vor.
+
+Dagegen sind 17 Professoren/innen der Universität Konstanz vor Gericht
+gezogen. Der Verwaltungsgerichtshof Baden-Württemberg hat die
+Normenkontrollklage (Aktenzeichen 9 S 2056/16) im September 2016 dem
+Bundesverfassungsgericht vorgelegt. Die obersten Verfassungshüter in
+Karlsruhe könnten so (endlich) den Rahmen für grundlegende Fragen von
+Open Access, (elektronischem) Publizieren und Urheberrecht abstecken.
+Zutreffend kommentiert daher *Ulrich Rüdiger*, Rektor der Universität
+Konstanz: "Die rechtliche Prüfung wird eine entscheidende
+Weichenstellung für den Bereich Open Access in der Wissenschaft
+insgesamt sowie für das Landeshochschulgesetz Baden-Württemberg
+darstellen."[^3]
+
+Im Folgenden soll auf die zwölf häufigsten Rechtsfragen eingegangen
+werden, welche sich den Hochschulen und in der Wissenschaft insgesamt
+dazu stellen.
+
+### Was genau beinhaltet die Zweitveröffentlichungs*pflicht* in Baden-Württemberg?
+
+
+Nach dem im Frühjahr 2014 eingeführten § 44 Absatz 6 LHG BaWü sollen die
+Hochschulen ihre Angehörigen dazu verpflichten, wissenschaftliche
+Beiträge[^4] ein Jahr nach Erscheinen zweitzuveröffentlichen. Betroffen
+sind Beiträge, die im Rahmen der Dienstaufgaben erstellt wurden. Mit der
+Satzung können die Hochschulen vorsehen, dass die Zweitveröffentlichung
+auf dem hochschuleigenen oder einem anderen bestimmten Repositorium
+erfolgt. Ferner können die Hochschulen in eigener Regie Ausnahmen von
+der Zweitveröffentlichungspflicht festlegen. Die Universität Konstanz
+hat in der strittigen Satzung in einem eigenen Paragraphen solche
+Ausnahmefälle und ein Verfahren dafür definiert.[^5]
+
+### Was hat die strittige Zweitveröffentlichungs*pflicht* in Baden-Württemberg mit dem Zweitveröffentlichungs*recht* des Bundes zu tun?
+
+
+Die Präambel und der Titel der Satzung nehmen ausdrücklich Bezug auf das
+seit Januar 2014 nach § 38 Abs. 4 Urheberrechtsgesetz (UrhG)
+gewährleistete Recht auf Zweitveröffentlichung. Nach den Worten der
+Präambel klingt es nur folgerichtig, wenn Bundesländer und Hochschulen
+die Stärkung wissenschaftlicher Autoren/innen des § 38 Abs. 4 UrhG
+aufgreifen: "Die Erkenntnisse wissenschaftlicher Forschung sollten
+möglichst frei zugänglich sein. Das Landeshochschulgesetz nimmt deshalb
+in § 44 Abs. 6 LHG BaWü den Open Access-Gedanken in der Form auf, dass
+die Hochschulen ihre Wissenschaftlerinnen und Wissenschaftler durch
+Satzung verpflichten sollen, das Recht auf Zweitveröffentlichung, das
+seit Januar 2014 nach § 38 Abs. 4 UrhG gewährleistet ist, auch
+tatsächlich in Anspruch zu nehmen."[^6]
+
+Wissenschaftspolitisch liegen zwischen dem Zweitveröffentlichungsrecht
+nach § 38 Abs. 4 UrhG und der Zweitveröffentlichungspflicht des § 44
+Abs. 6 LHG BaWü Welten. Der Bund hat im Urheberrechtsgesetz seit 2014
+festgelegt, dass wissenschaftliche Autoren/innen unter bestimmten
+Vorgaben wissenschaftliche Beiträge zweitveröffentlichen *können*. In
+Baden-Württemberg hingegen *müssen* nun Hochschulangehörige eine frei
+zugängliche Zweitveröffentlichung vornehmen.
+
+Ferner verweisen, nicht ohne rechtliche Finesse, das Land
+Baden-Württemberg und die Universität Konstanz umfassend auf die
+Vorgaben des § 38 Abs. 4 UrhG: Nur falls ein Zweitveröffentlichungsrecht
+nach § 38 Abs. 4 UrhG besteht, muss es gemäß § 44 Abs. 6 LHG BaWü
+beziehungsweise nach den Hochschulsatzungen auch ausgeübt werden. An
+entscheidender Stelle aber verkehrt das Land Baden-Württemberg mit § 44
+Abs. 6 LHG BaWü den Willen des Bundesgesetzgebers: Denn nach § 44 Abs. 6
+LHG BaWü sind vor allem die Professoren/innen dazu verpflichtet, ihre
+"im Rahmen der Dienstaufgaben" entstandenen wissenschaftlichen Beiträge
+zweitzuveröffentlichen. Die Bundesregierung hatte indes in die
+Gesetzesbegründung[^7] zu § 38 Abs. 4 UrhG ausdrücklich aufgenommen,
+dass das Zweitveröffentlichungsrecht nur für Publikationen aus
+staatlichen Projektförderungen, nicht aber für die grundfinanzierte
+universitäre Forschung gelten soll.[^8]
+
+Zu den weiteren einzelnen, teils umstrittenen Vorgaben des
+Zweitveröffentlichungsrecht in § 38 Abs. 4 UrhG hat das "Aktionsbündnis
+Urheberrecht für Bildung und Wissenschaft" einen Flyer[^9] erstellt, zur
+Vertiefung sei darauf verwiesen, dass zahlreiche Rechtsfragen in einem
+ein FAQ[^10] zum Zweitveröffentlichungsrecht der Schwerpunktinitiative
+"Digitale Information" der Allianz der deutschen
+Wissenschaftsorganisationen behandelt werden.[^11]
+
+### Wer steht vor Gericht?
+
+(Muster-)Kläger sind 17 Professoren/innen der Universität Konstanz. Mit
+einer Ausnahme stammen sie alle aus der juristischen Fakultät. Die
+Normenkontrollklage wird unterstützt von der Professorenvereinigung
+Deutscher Hochschulverband (DHV).[^12] Die Kläger vertritt vor Gericht
+der Bonner Jura-Professor *Klaus Gärditz*.
+
+Beklagt wird die Universität Konstanz, die *Alexander Peukert*,
+Jura-Professor an der Goethe Universität Frankfurt vor Gericht
+verteidigt. Zu Peukerts rechtswissenschaftlichen Forschungsschwerpunkten
+im Exzellenzcluster Normative Ordnung zählen Gemeinfreiheit,
+Zugangsrecht und das Urheberrecht im Wandel des wissenschaftlichen
+Kommunikationssystems.
+
+Brisant also: Einzelne Professoren/innen verklagen ihre eigene
+Universität wegen einer Satzung, die in den Universitätsgremien (mehr
+dazu unten) verabschiedet wurde. Zudem sind auf beiden Seiten des
+Prozesses Jura-Professoren die Hauptakteure, die offenbar auch ein
+grundlegend unterschiedliches Verständnis des Publikationssystems in der
+Jurisprudenz pflegen.
+
+Eine Reportage zur Verhandlung am Verwaltungsgerichtshof Mannheim ist am
+27.09.2017 erschienen bei der Legal Tribune Online.[^13]
+
+### Was motiviert Professoren/innen, gegen Open Access zu klagen?
+
+Rechtlich wird das Normenkontrollverfahren von den 17 Professoren/innen
+vor allem angestrengt, weil sie einen unzulässigen Eingriff in das
+Grundrecht der Wissenschaftsfreiheit (Art. 5 Abs. 3 Grundgesetz)
+beanstanden.
+
+Einer der 17 klagenden Professoren/innen ist Christoph Schönberger,
+Professor für öffentliches Recht an der Universität Konstanz. Er
+begründet die Klage gegenüber dem Deutschlandfunk im Januar 2017
+folgendermaßen:
+
+> "Wir, also die Kollegen, die sich beteiligt haben, sind nicht
+> grundsätzlich gegen Open Access. (...) Wir entscheiden ja bis jetzt
+> selbst, in welchen Publikationsformaten, in welchen Zeitschriften, wir
+> unsere Ergebnisse publizieren. Und nach unserer Meinung gehört es zu
+> unserer Wissenschaftsfreiheit, dass auch selbst entscheiden zu können.
+> (...) In dem Augenblick, in dem wir gezwungen werden, die Ergebnisse
+> in irgendeiner Form auf einem Server bereit zu legen, geben wir diese
+> Hoheit über diese Forschungsergebnisse, über die Art, wie wir sie
+> präsentieren wollen, auf. Das möchten wir nicht. (...) Es ist für
+> unsere Reputation bedeutsam, in welcher Zeitschrift wir publizieren.
+> Wir sind darauf angewiesen, dass es diese qualifizierten Fachverlage
+> gibt. Und der Fachverlag ist natürlich in großen Schwierigkeiten, für
+> jedes Forschungsvorhaben hinzunehmen, dass es nach einer gewissen Zeit
+> von der Universität frei veröffentlicht wird."[^14]
+
+Nachdem die Universitätssatzung im Senat der Universität Konstanz Ende
+2015 verabschiedet worden war, hatte der universitätseigene Fachbereich
+Rechtswissenschaft "einmütig" am 01.02.2016 ein Protestschreiben an den
+Rektor der Universität Konstanz geschickt. Darin erläutern die
+Jura-Professoren ihre Kritik an der satzungsgemäßen Open
+Access-Zweitveröffentlichungspflicht und fordern schließlich ihre
+Universität "als lernende Organisation" dazu auf, die Möglichkeit einer
+Selbstkorrektur zu nutzen und "die Satzung schnellstmöglich
+aufzuheben".[^15]
+
+### Weshalb steht eine *Universitätssatzung* im Zentrum der Aufmerksamkeit?
+
+Die Verpflichtung zu einer frei zugänglichen Zweitveröffentlichung
+ergibt sich für die Hochschulangehörigen in Konstanz aus der "Satzung
+zur Ausübung des wissenschaftlichen Zweitveröffentlichungsrechts gemäß §
+38 Abs. 4 UrhG". Eine solche Universitätssatzung entfaltet für die
+Universitätsangehörigen eine vergleichbare, vor allem rechtsverbindliche
+Wirkung wie Gesetze, darf also nicht unterschätzt werden.
+
+Die Parallelen zwischen Parlamentsgesetzen und Hochschulsatzungen sind
+vielen Wissenschaftler/innen wenig bewusst, an sich aber offenkundig:
+Bundesgesetze werden vom Deutschen Bundestag beschlossen und gelten für
+das Bundesgebiet. Landesgesetze werden jeweils von den Landtagen
+beschlossen und gelten für die jeweiligen Bundesländer.
+Hochschulsatzungen werden von den akademischen Senaten der jeweiligen
+Hochschulen beschlossen und gelten für die Angehörigen der jeweiligen
+Hochschulen. Dies ist übrigens vergleichbar mit Sportvereinen, deren
+rechtliche Grundlage die Vereinssatzung ("Statuten") bildet, die von den
+Vereinsmitgliedern entschieden werden.
+
+Neben dieser *normativen Wirkung* von Satzungen werden die
+Selbstverwaltungsgremien in academia ebenso wie Parlamente nach den
+allgemeinen Wahlgrundsätzen von den Hochschulangehörigen gewählt.[^16]
+Regelungen von Bundesgesetzen treten nach Veröffentlichung im
+Bundesgesetzblatt in Kraft, vergleichbar geben die Hochschulen
+regelmäßig amtliche Bekanntmachungen heraus. In diesem Fall betroffen
+ist die "Amtliche Bekanntmachung der Universität Konstanz Nr. 90/2015".
+
+### Warum hat das Land Baden-Württemberg die Veröffentlichungsverpflichtung auf die einzelnen Hochschulen abgewälzt?
+
+Die Vorgabe, eine Open Access-Zweitveröffentlichung einzufordern,
+richtet sich gemäß § 44 Abs. 6 LHG BaWü zunächst an die Hochschulen. Sie
+sind dazu verpflichtet, ihre eigenen Wissenschaftler/innen mittels einer
+Satzung (siehe oben) zur Open Access-Zweitveröffentlichung verbindlich
+anzuhalten. Vermutlich wäre auch der direkte Weg möglich gewesen: Ein
+Entwurf der Novelle zum Landeshochschulgesetz 2014 hatte noch eine
+direkte, landesgesetzliche Pflicht aller Hochschulangehörigen zur Open
+Access-Zweitveröffentlichung vorgesehen.
+
+Jenseits politischer Motive spricht juristisch die grundrechtlich
+verbürgte Hochschulautonomie dafür, dass die einzelnen Hochschulen
+jeweils selbst Satzungen erlassen und nicht ein zentrales,
+wissenschaftsexternes Parlament. Die damit verbundene Beratung und
+Beschlussfassung in den jeweiligen Universitätsgremien kann zudem die
+Akzeptanz in den einzelnen Einrichtungen befördern und
+universitätsspezifische Umsetzungsanforderungen berücksichtigen; dabei
+ist insbesondere an die jeweilige Infrastruktur wie institutionelle
+Repositorien und Dokumentenserver zu denken. Ausdrücklich kann nach dem
+letzten Satz des strittigen § 44 Abs. 6 LHG BaWü von den Hochschulen
+festgelegt werden, "dass die Zweitveröffentlichung auf einem
+Repositorium (...) zu erfolgen hat."
+
+Dass die Musterklage an der Universität Konstanz ausgetragen wird,
+verwundert nicht: Die Universität Konstanz ist seit langem intensiv für
+Open Access engagiert. Konsequent sind insoweit die positiven
+Kommentierungen der Universitätsleitung[^17] zu dem langwierigen
+Gerichtsverfahren und dem umfassenden Medienecho. Andererseits kann
+hinterfragt werden, weshalb die zuständige Wissenschaftsministerin
+Theresia Bauer ihren politischen Willen nicht wie bei anderen Themen
+selbst im Landesgesetz durchsetzt und die wissenschaftspolitische
+Verantwortung und rechtlich absehbare Risiken den einzelnen Hochschulen
+zuweist.
+
+### Welche Bedeutung hat die Zweitveröffentlichungspflicht in Baden-Württemberg für die anderen Bundesländer?
+
+Die meisten Bundesländer verfolgen mit hoher Aufmerksamkeit, ob eine
+Open Access-Zweitveröffentlichungspflicht im Landeshochschulrecht den
+verfassungsrechtlichen Anforderungen genügt. Sollte die Open
+Access-Pionierbestimmung aus Baden-Württemberg der
+verfassungsrechtlichen Prüfung standhalten, könnte ein Domino-Effekt
+eintreten. Andere Bundesländer, die sich (wissenschafts-)politisch auch
+klar für Open Access positionieren und engagieren, könnten ebenso wie in
+Baden-Württemberg den politischen Handlungsspielraum für Open
+Access-Vorgaben nutzen. In Berlin etwa verabschiedeten Ende 2015 Senat
+und Abgeordnetenhaus eine landeseigene Open Access-Strategie mit
+umfangreichem Maßnahmenpaket.[^18] Ein Jahr zuvor legte präsentiere die
+Landesregierung in Kiel die "Strategie 2020 der Landesregierung
+Schleswig-Holstein für Open Access".[^19]
+
+Rückenwind geben könnte zudem eine der Empfehlungen, welche die
+Enquete-Kommission Internet und Digitale Gesellschaft des Deutschen
+Bundestages bereits im Jahr 2013 erteilt hat: Die Zuwendung öffentlicher
+Mittel für Forschungsprojekte sollte "an die rechtlich verpflichtende
+Bedingung" geknüpft werden, "dass die daraus entstehenden,
+qualitätsgesicherten Publikationen in Periodika, Sammelbänden (\...)
+zeitnah nach der Erstveröffentlichung frei zugänglich gemacht
+werden."[^20]
+
+### Welche Bedeutung hat der Fall für die außeruniversitäre Wissenschaft?
+
+Zunächst geht es bei dem Konstanzer Fall (nur) um Hochschulrecht, das
+für Hochschulangehörige gilt. Die zugrunde liegende Rechtsfrage stellt
+sich im Kern aber vergleichbar auch an den Instituten der
+Leibniz-Gemeinschaft, der Helmholtz-Gemeinschaft, der Max Planck
+Gesellschaft und anderen außeruniversitären Forschungseinrichtungen:
+Dürfen staatliche oder staatlich finanzierte Wissenschaftseinrichtungen
+ihr wissenschaftlich tätiges Personal zu einer Zweitveröffentlichung
+verpflichten, ohne dass dies gegen deren grundgesetzlich verbürgte
+Wissenschaftsfreiheit verstößt?
+
+An außeruniversitären Einrichtungen dürften eher entsprechende Vorgaben
+in den Arbeitsverträgen des wissenschaftlichen Personals verankert sein.
+Deswegen werden diese Forschungseinrichtungen den Konstanzer Fall mit
+hohem Interesse verfolgen.
+
+### Bestehen vergleichbare Open Access-Publikationspflichten außerhalb Deutschlands?
+
+Ja, die Ausgangslage, das verbreitete Verständnis und der rechtliche
+Rahmen für Publikationsvorgaben im Wissenschaftsbereich unterscheiden
+sich oftmals gravierend. In den USA etwa wird die
+Work-Made-for-Hire-Doktrin auch im Wissenschaftsbereich eingesetzt, die
+einen umfänglichen Rechteübergang von Autoren/innen zu Einrichtungen und
+Verlagen bedeuten kann. [^21] In den direkten Nachbarländern sind etwa
+die großen staatlichen Fördereinrichtungen zunehmend zu Open
+Access-Mandaten übergegangen, also zu Open Access-Publikationspflichten.
+Der Schweizerische Nationalfonds zur Förderung der wissenschaftlichen
+Forschung (SNF) gibt prinzipiell vor, dass die Forschungsergebnisse
+geförderter Forschung in Open Access-Publikationen veröffentlicht werden
+müssen.[^22] In Österreich "verpflichtet und fördert" der Fonds zur
+Förderung der wissenschaftlichen Forschung (FWF) "alle
+ProjektleiterInnen und ProjektmitarbeiterInnen, ihre referierten
+Forschungsergebnisse im Internet frei zugänglich zu machen."[^23] Große
+Schritte hin zu umfassenden rechtlichen Open Access-Publikationsvorgaben
+sind auch in den Niederlanden zu konstatieren.[^24]
+
+Als Motor erweist sich die Europäische Union: Sie hat für ihre
+Förderprojekte des Forschungsrahmenprogramms Horizon 2020 eine Open
+Access-Zweitveröffentlichung wissenschaftlicher Aufsätze zur
+verbindlichen Förderauflage gemacht.[^25]
+
+Die besondere rechtliche Brisanz von (Open Access-)Publikationspflichten
+speziell in Deutschland ergibt sich aus dem Grundrecht der
+Wissenschaftsfreiheit (Art. 5 Abs. 3 Grundgesetz). Dieses mit seiner
+nationalen Verfassungshistorie besteht so nicht beziehungsweise
+juristisch nicht vergleichbar in anderen Staaten. Diese diffizile
+Rechtslage trägt in Deutschland zu einer gewissen Zurückhaltung bei der
+Deutschen Forschungsgemeinschaft (DFG) und dem Bundesministerium für
+Bildung und Forschung (BMBF) bei:[^26] Zwar haben sie sich klar zur
+Förderung von Open Access bekannt, zuletzt startete das BMBF am
+20.09.2016 eine umfassende Open Access-Strategie,[^27] allerdings haben
+sie (noch) keine rechtlich bindenden Veröffentlichungspflichten
+etabliert. Die DFG gab im Jahr 2014 ein Rechtsgutachten[^28] in Auftrag,
+das die nationale Rechtslage abgestuft einschätzt: Open
+Access-Publikationspflichten seien demzufolge nur dann möglich, wenn sie
+an die Vergabe zusätzlicher Gelder gekoppelt ist. Der Gutachter knüpft
+die Zulässigkeit von (Open Access-)Publikationspflichten zudem an
+vielseitige Bedingungen. Nach dieser Rechtsauffassung könnten die DFG
+und BMBF in einem gewissen Umfang fördervertraglich Open
+Access-Publikationspflichten rechtsbindend vorgeben, Bundesländer und
+Universitäten jedoch dürften demnach ihren Professoren/innen bei deren
+institutioneller Forschung keine Open Access-Publikationspflichten
+auferlegen.
+
+### Wie wird das Bundesverfassungsgericht entscheiden?
+
+Wie oftmals kann die Entscheidung des Bundesverfassungsgerichts kaum
+prognostiziert werden. Zu wünschen ist allerdings, dass sich das
+Bundesverfassungsgericht überhaupt inhaltlich mit der
+Normenkontrollklage der 17 Professoren/innen befasst: Diese reklamieren,
+dass die Satzung mit der Zweitveröffentlichungspflicht gegen ihr
+Grundrecht der Wissenschaftsfreiheit (Art. 5 Abs. 3 Grundgesetz)
+verstoße. Dabei geht es um die bislang wenig ausgeleuchtete Rechtsfrage,
+inwieweit Wissenschaftseinrichtungen ihren Wissenschaftlern/innen
+rechtlich verpflichtende Publikationsvorgaben auferlegen dürfen.
+
+Leider könnte sich das Bundesverfassungsgericht aber auch "nur" mit
+Zuständigkeitsfragen befassen: Darf ein Bundesland wie Baden-Württemberg
+überhaupt § 44 Abs. 6 LHG BaWü erlassen, wenn das Urheberrecht allein in
+die Gesetzgebungskompetenz des Bundes[^29] fällt? Diese Rechtsauffassung
+vertreten die Richter des Verwaltungsgerichtshofs Baden-Württemberg, die
+deshalb den Fall dem Bundesverfassungsgericht vorgelegt haben. In dem
+Vorlagebeschluss schreibt der zuständige Senat des Mannheimer Gerichts:
+"Nach der Überzeugung des 9. Senats hat das Land keine Befugnis, den
+Hochschullehrern eine Zweitveröffentlichungspflicht aufzuerlegen." Es
+geht damit grundlegend um unsere staatliche, föderale Ordnung: Die
+Bundesländer sind weithin autonom für die Wissenschaft, der Bund ist
+allein für das Urheberrecht zuständig.[^30]
+
+Falls sich das Bundesverfassungsgericht demnach der Rechtsauffassung des
+VGH Mannheim anschließt, könnte § 44 Abs. 6 LHG BaWü als
+verfassungswidrig erklärt werden, ohne dass es zu einer gerichtlichen
+Beurteilung der Rechtsfragen rund um Publikationspflichten, Open Access
+und der grundrechtlichen Wissenschaftsfreiheit kommt. Ein Vorgeschmack
+auf dieses Szenario bietet die Pressemitteilung des VGH Mannheim vom
+06.11.2017 zu dessen Vorlagebeschluss an das
+Bundesverfassungsgericht.[^31]
+
+### Wie schätzen Fachjuristen/innen die Rechtslage ein?
+
+Mittlerweile gibt es doch einige rechtswissenschaftliche
+Fachpublikationen. Die hochschulrechtlichen Veröffentlichungs- und
+urheberrechtlichen Anbietungspflichten des Hochschulprofessors behandelt
+eingehend die an der Technischen Universität Dresden eingereichte
+Dissertationsschrift von Nicole Schmidt.[^32] Recht aktuell ist auch ein
+Rechtsgutachten, das der Jura-Professor Michael Fehling im Auftrag der
+Deutschen Forschungsgemeinschaft (DFG) erstellt hat.[^33] Es spricht zum
+Beispiel auch die Rechtsfrage an, ob Forschungsdaten der
+Wissenschaftseinrichtung oder den Hochschulprofessoren/innen gehören.
+Einen freiheitlicheren Weg zu Open Access anstatt rechtlichen
+Veröffentlichungspflichten wünschte sich der Experte für Hochschulrecht,
+Manfred Löwisch, schon bei der Verabschiedung von § 44 Abs. 6 LHG
+BaWü.[^34]
+
+Zum Normenkontrollverfahren an der Universität Konstanz jetzt hat Georg
+Sandberger, vormals Rektor der Universität Tübingen, einen Beitrag
+verfasst zur "Zukunft wissenschaftlichen Publizierens, Open Access und
+Wissenschaftsschranke. Anmerkungen zu den Kontroversen über die
+Weiterentwicklung des Urheberrechts."[^35]
+
+Insgesamt ist die Rechtslage jedoch wenig konturiert, was wesentlich
+daran liegen mag, dass bislang keine Fälle zu elektronischem Publizieren
+im juristischen Kontext von Urheberrecht, Eigentumsgarantie und
+Wissenschaftsfreiheit vom Bundesverfassungsgericht verhandelt wurden.
+Vor allem hat das Bundesverfassungsgericht in den letzten Jahren keine
+der Verfassungsbeschwerden von Wissenschaftsverlagen verhandelt. Schon
+am 20.10.2015 hatte beispielsweise der Eugen Ulmer Verlag mit
+Unterstützung des Börsenvereins des Deutschen Buchhandels eine
+Verfassungsbeschwerde in Karlsruhe eingereicht.[^36] Ob das
+Bundesverfassungsgericht diese Klage gegen die geltend gemachte
+Enteignung durch den Bibliotheksparagraphen 52b im Urheberrechtsgesetz
+aber überhaupt zur Verhandlung zulässt, ist weiterhin ungewiss.
+
+### Welche Reaktionen gibt es zum Fall?
+
+Die Aufmerksamkeit ist hoch und vielseitig. Die Universität Konstanz
+begleitete das Normenkontrollverfahren bislang vergleichsweise offensiv
+mit mehreren Presseinformationen, welche die Position der
+Universitätsleitung unterstreichen.[^37]
+
+Zu beachten sind der Börsenverein des Deutschen Buchhandels und der
+Deutsche Hochschulverband (DHV), welche die
+Zweitveröffentlichungspflicht prinzipiell ablehnen. Der Deutsche
+Hochschulverband (DHV) unterstützt die nun angestrengte Musterklage. Der
+Justitiar des Börsenvereins, Christian Sprang, formulierte schon im
+Gesetzgebungsverfahren Anfang 2014 eine elfseitige Stellungnahme, um die
+nun eingeklagte Rechtswidrigkeit der Zweitveröffentlichungspflicht näher
+zu begründen.[^38] Anlässlich des Normenkontrollverfahrens appelliert am
+09.11.2017 der Börsenverein des Deutschen Buchhandels "an die
+baden-württembergische Landesregierung und die Landtagsabgeordneten, die
+Zweitveröffentlichungsregelung im Landeshochschulgesetz ersatzlos zu
+streichen."[^39] Beim Bundesverfassungsgericht siegesgewiss kommentiert
+der Vorsitzende des Verleger-Ausschusses des Börsenverein, Matthias
+Ulmer: \"Die verantwortlichen Politikerinnen und Politiker in
+Baden-Württemberg sollten die Entscheidung des VGH zum Anlass nehmen,
+ihre bei der Verabschiedung des Landeshochschulgesetzes getroffene
+Entscheidung zu revidieren, noch bevor das Bundesverfassungsgericht die
+Regelung ohnehin für nichtig erklären wird.\"[^40]
+
+In der Frankfurter Allgemeinen Zeitung (Ausgabe vom 29.11.2017) bezieht
+der Literaturwissenschaftler Roland Reuß klar Position: Sein Gastartikel
+"Ende eines Blindflugs" beschreibt, dass 17 Konstanzer Professoren der
+Entrechtung durch Open Access die Grenze aufzeige. "Karlsruhe muss jetzt
+entscheiden", so Reuß einleitend, "ob der Staat Wissenschaftler zur
+Publikation zwingen darf."
+
+Die Normenkontrollklage wesentlich auch mit Blickwinkeln zu Open Access
+aufgegriffen haben regionale Tageszeitungen. Mehrfach berichtete bislang
+der Südkurier, am 23.11.2016 mit dem Titel "Konstanzer Professoren
+klagen gegen ihre eigene Universität"[^41], dann etwa am 03.11.2017
+"Öffentliches Geld, öffentliches Wissen: Warum Konstanzer Professoren
+gegen ihre Uni klagen und der Fall bis vor das Bundesverfassungsgericht
+geht".[^42] Die Stuttgarter Zeitung brachte am 26.09.2017 einen Beitrag
+"Streit um Recht zur Zweitveröffentlichung: Profs klagen gegen ihre
+Uni."[^43]
+
+### Am Rande I: Geht es um *Open Access* bei der Satzung mit Zweitveröffentlichungspflicht?
+
+Wenn Fachpublikationen frei zugänglich sein sollen, geht es natürlich um
+Open Access. Dies ist auch das Anliegen der neuen Gesetzesbestimmung im
+Landeshochschulrecht Baden-Württemberg und der darauf fußenden
+Universitätssatzung in Konstanz. In dieser ist den einzelnen
+Satzungsvorschriften eine Präambel vorangestellt, die entsprechend wie
+folgt beginnt:
+
+> "Die Erkenntnisse wissenschaftlicher Forschung sollten möglichst frei
+> zugänglich sein. Das Landeshochschulgesetz nimmt deshalb in § 44 Abs.
+> 6 LHG den Open Access-Gedanken in der Form auf, dass die Hochschulen
+> ihre Wissenschaftlerinnen und Wissenschaftler durch Satzung
+> verpflichten sollen, das Recht auf Zweitveröffentlichung (...) auch
+> tatsächlich in Anspruch zu nehmen."[^44]
+
+Allerdings bleibt festzuhalten, dass die Zweitveröffentlichungspflicht
+nicht Open Access gemäß der "Berliner Erklärung über den offenen Zugang
+zu wissenschaftlichem Wissen vom 22. Oktober 2003"[^45] ist. Zwar wird
+ein freier Zugang zu den wissenschaftlichen Beiträgen gewährt
+(Zugangsrecht). Jedoch können die Wissenschaftler/innen lizenzrechtlich
+nicht beziehungsweise lizenzrechtlich nicht umfassend[^46] erlauben, die
+Zweitveröffentlichung "-- in jedem beliebigen digitalen Medium und für
+jeden verantwortbaren Zweck -- zu kopieren, zu nutzen, zu verbreiten, zu
+übertragen und öffentlich wiederzugeben sowie Bearbeitungen davon zu
+erstellen und zu verbreiten, sofern die Urheberschaft korrekt angegeben
+wird."[^47] So dürfen die wissenschaftlichen Autoren/innen ihre
+Zweitveröffentlichung insbesondere nicht mit der für Open Access
+empfohlenen[^48] Creative Commons-Lizenz CC BY etwa in ein Repository
+einstellen.
+
+### Am Rande II: Welche Bedeutung für Open Access *Policy* hat eine Satzung mit Zweitveröffentlichungspflicht?
+
+Policy und Satzung sind juristisch strikt zu unterscheiden: Satzungen
+beinhalten rechtlich verbindliche und (notfalls gerichtlich)
+durchsetzbare Pflichten und Rechte. Sie wirken damit gleichsam Gesetzen,
+allerdings nur im Geltungsbereich, das heißt eine Satzung der
+Universität Konstanz betrifft eben speziell die Angehörige dieser
+Universität. Im Unterschied dazu beinhalten Policies typischerweise
+Empfehlungen, Richtlinien, Standards, Positionen, Verfahrensabläufe oder
+Zuständigkeiten. Sie sollen gerade nicht juristisch wasserdicht
+abgeklopft sein, sondern einen flexiblen Handlungsrahmen aufzeigen.
+
+Dennoch ähnelt die Satzung der Universität Konstanz inhaltlich
+institutionellen Open Access Policies. Das Anliegen, Open Access zu
+befördern, ist Satzung und Policy gemein. Nach einer Phase der Bewährung
+und steigenden Akzeptanz in der Wissenschaftseinrichtung liegt es häufig
+nahe, Empfehlungen und Leitlinien einer Open Access Policy zu rechtlich
+verbindlichen Standards fortzuschreiben. Eine in der Publikationspraxis
+gereifte Open Access Policy kann damit als Vorläufer einer
+rechtsverbindlichen Satzung mit Open Access-Publikationspflichten
+dienen.[^49]
+
+### Am Rande III: Welche Bedeutung für digitale Forschungsdaten hat der Fall?
+
+Die Auseinandersetzung an der Universität Konstanz jetzt könnte man
+zusammenfassen: Haben allein die Wissenschaftler/innen die Rechte und
+damit Publikations- und Verwertungsbefugnisse an ihren Fachaufsätzen
+oder (auch) deren Universität beziehungsweise Wissenschaftseinrichtung?
+Diese Frage stellt sich vergleichbar auch bei (digitalen)
+Forschungsdaten.
+
+Juristisch interessant: An den Forschungsdaten, die im Rahmen der
+finanzierten Forschungstätigkeit entstehen, lässt sich schon seit langem
+manche Wissenschaftseinrichtung Nutzungen beziehungsweise Rechte im
+Arbeits- beziehungsweise Dienstrecht einräumen. Nicht weiter beleuchtet
+wurde bislang, inwiefern dies -- mit ähnlicher rechtlicher Argumentation
+wie nun in Konstanz -- die Wissenschaftsfreiheit nach Art. 5 Abs. 3
+Grundgesetz berühren könnte.
+
+[^1]: *Hartmann* (2017), Open Access rechtlich absichern -- warum es ein
+    Opt-in braucht. In: Söllner/Mittermaier (Hrsg.), Praxishandbuch Open
+    Access, S. 45-52, Berlin, De Gruyter Saur. Als Zweitveröffentlichung
+    abrufbar unter
+    [http://hdl.handle.net/11858/00-001M-0000-002D-6F30-3](http://hdl.handle.net/11858/00-001M-0000-002D-6F30-3).
+
+[^2]: § 44 Abs. 6 Landeshochschulgesetz Baden-Württemberg (LHG BaWü) in
+    der Fassung vom 01.04.2014 lautet: "Die Hochschulen sollen die
+    Angehörigen ihres wissenschaftlichen Personals durch Satzung
+    verpflichten, das Recht auf nichtkommerzielle Zweitveröffentlichung
+    nach einer Frist von einem Jahr nach Erstveröffentlichung für
+    wissenschaftliche Beiträge wahrzunehmen, die im Rahmen der
+    Dienstaufgaben entstanden und in einer periodisch mindestens zweimal
+    jährlich erscheinenden Sammlung erschienen sind. Die Satzung regelt
+    die Fälle, in denen von der Erfüllung der Pflicht nach Satz 1
+    ausnahmsweise abgesehen werden kann. Sie kann regeln, dass die
+    Zweitveröffentlichung auf einem Repositorium nach § 28 Absatz 3 zu
+    erfolgen hat."
+
+[^3]: Vgl. Pressemitteilung Nr. 90/2016 der Universität Konstanz vom
+    21.11.2016, abrufbar unter
+    [https://www.uni-konstanz.de/universitaet/aktuelles-und-medien/aktuelle-meldungen/aktuelles/aktuelles/open-access-satzung-auf-juristischem-pruefstand/](https://www.uni-konstanz.de/universitaet/aktuelles-und-medien/aktuelle-meldungen/aktuelles/aktuelles/open-access-satzung-auf-juristischem-pruefstand/).
+
+[^4]: Um welche Beiträge es sich handelt und in welchem Rahmen diese
+    zweitveröffentlicht werden dürfen, siehe unten bei "Was hat die
+    strittige Zweitveröffentlichungspflicht in Baden-Württemberg mit dem
+    Zweitveröffentlichungsrecht des Bundes zu tun?".
+
+[^5]: § 4 Ausnahmen von der Zweitveröffentlichung
+
+    \(1) Von einer Zweitveröffentlichung kann abgesehen werden, wenn diese
+    berechtigte Interessen der gemäß § 1 Verpflichteten verletzt. Dies ist
+    insbesondere dann der Fall, wenn
+
+    a\) die erstveröffentlichten Erkenntnisse zwischenzeitlich überholt sind
+    oder sich als falsch erwiesen haben,
+
+    b\) die Erstpublikation aufgrund gesetzlicher Vorschriften zurückgezogen
+    worden ist,
+
+    c\) die Publikation Rechte Dritter verletzt oder
+
+    d\) die erstveröffentlichten Erkenntnisse bereits auf einem von einer
+    Universität oder von einer Forschungseinrichtung betriebenen
+    Repositorium zweitveröffentlicht worden sind und eine entsprechende
+    Mitteilung gemäß § 3 Abs. 1 erfolgt ist und ein entsprechender Verweis
+    im Repositorium KOPS eingetragen ist.
+
+    \(2) Ausnahmen von einer Zweitveröffentlichung von wissenschaftlichen
+    Beiträgen, in denen der Autor oder die Autorin ein
+    Zweitveröffentlichungsrecht gemäß § 38 Abs. 4 UrhG hat, sind beim
+    Ausschuss für Kommunikation und Information (AKI) mit der Meldung gemäß
+    § 3 zu beantragen und zu begründen.
+
+    Aus: Universität Konstanz, Satzung zur Ausübung des
+    wissenschaftlichen Zweitveröffentlichungsrechts gemäß § 38 Abs. 4
+    UrhG. Abrufbar via
+    [https://www.uni-konstanz.de/universitaet/aktuelles-und-medien/aktuelle-meldungen/aktuelles/aktuelles/open-access-satzung-auf-juristischem-pruefstand/](https://www.uni-konstanz.de/universitaet/aktuelles-und-medien/aktuelle-meldungen/aktuelles/aktuelles/open-access-satzung-auf-juristischem-pruefstand/).
+
+[^6]: Universität Konstanz, Satzung zur Ausübung des wissenschaftlichen
+    Zweitveröffentlichungsrechts gemäß § 38 Abs. 4 UrhG, S. 2.
+
+[^7]: Vgl. Bundestag-Drucksache 17/13423, S. 9. Abrufbar unter
+    [http://dip21.bundestag.de/dip21/btd/17/134/1713423.pdf](http://dip21.bundestag.de/dip21/btd/17/134/1713423.pdf).
+
+[^8]: Vgl. zur Begründung und rechtlichen Wirksamkeit der
+    Differenzierung nach staatlich grundfinanzierter Forschung und
+    staatlicher Förderung mit Forschungsprojekten insbesondere die
+    Fragen Nr. 15 bis 21 des FAQ zum Zweitveröffentlichungsrecht der
+    Schwerpunktinitiative "Digitale Information" der Allianz der
+    deutschen Wissenschaftsorganisationen, abrufbar unter
+    [http://www.allianzinitiative.de/handlungsfelder/rechtliche-rahmenbedingungen/faq-zvr.html](http://www.allianzinitiative.de/handlungsfelder/rechtliche-rahmenbedingungen/faq-zvr.html).
+
+[^9]: Siehe
+    [http://urheberrechtsbuendnis.de/docs/zvr-folder-2015-a4.pdf](http://urheberrechtsbuendnis.de/docs/zvr-folder-2015-a4.pdf).
+
+[^10]: Siehe
+    [http://www.allianzinitiative.de/handlungsfelder/rechtliche-rahmenbedingungen/faq-zvr.html](http://www.allianzinitiative.de/handlungsfelder/rechtliche-rahmenbedingungen/faq-zvr.html).
+
+[^11]: Siehe dazu ferner Vortragsaufzeichnung "Neues gesetzliches
+    Zweitveröffentlichungsrecht \-- Update zu den Anforderungen an
+    Bibliotheken und Wissenschaftseinrichtungen" in Session "Rechtliche
+    Aspekte des Open Access" auf den Open-Access-Tagen 2013 Hamburg,
+    abrufbar unter
+    [https://youtu.be/DmIh\_orxRX8](https://youtu.be/DmIh_orxRX8).
+
+[^12]: Siehe
+    [https://www.boersenblatt.net/artikel-boersenverein\_zu\_open-access-regelung\_.1398729.html](https://www.boersenblatt.net/artikel-boersenverein_zu_open-access-regelung_.1398729.html).
+
+[^13]: [https://www.lto.de/recht/hintergruende/h/vgh-mannheim-normenkontrollantrag-9-s-2056-16-professoren-universitaet-konstanz-open-access-wissenschaft-urheberrecht/](https://www.lto.de/recht/hintergruende/h/vgh-mannheim-normenkontrollantrag-9-s-2056-16-professoren-universitaet-konstanz-open-access-wissenschaft-urheberrecht/).
+
+[^14]: Zitiert nach: Deutschlandfunk vom 25.01.2017: "Open Access:
+    Professoren klagen gegen kostenfreie Artikel-Zweitnutzung". Abrufbar
+    unter
+    [http://www.deutschlandfunk.de/open-access-professoren-klagen-gegen-kostenfreie-artikel.680.de.html?dram:article\_id=377280](http://www.deutschlandfunk.de/open-access-professoren-klagen-gegen-kostenfreie-artikel.680.de.html?dram:article_id=377280).
+
+[^15]: Das Schreiben des Fachbereichs Rechtswissenschaft der Universität
+    Konstanz an den Rektor derselben Universität ist vollständig
+    veröffentlicht in: Ordnung der Wissenschaft, Nr. 2/2016, S. 135 f.
+    (Editorial). Abrufbar unter
+    [http://www.ordnungderwissenschaft.de/2016-2/07\_Infoteil/14\_loewisch\_konstanzer-juristenfakultaet\_verweigert\_zweitveroeffentlichungspflicht\_odw\_2016.pdf](http://www.ordnungderwissenschaft.de/2016-2/07_Infoteil/14_loewisch_konstanzer-juristenfakultaet_verweigert_zweitveroeffentlichungspflicht_odw_2016.pdf).
+
+[^16]: Vgl. Art. 38 Abs. 1 Satz 1 Grundgesetz: "Die Abgeordneten des
+    Deutschen Bundestages werden in allgemeiner, unmittelbarer, freier,
+    gleicher und geheimer Wahl gewählt."
+
+[^17]: Zuletzt zum Beispiel: "Dass sich das Bundesverfassungsgericht nun
+    der grundsätzlichen Frage annimmt, ob hier das Urheberrecht
+    betroffen und damit ob der Bund oder das Land zuständig ist,
+    begrüßen wir voll und ganz. Damit wird juristische Klarheit
+    geschaffen. (...)", wird der Rektor der Universität Konstanz, Ulrich
+    Rüdiger, in einer Presseinformation der Universität Konstanz vom
+    02.11.2017 zitiert (siehe
+    [https://www.uni-konstanz.de/universitaet/aktuelles-und-medien/aktuelle-meldungen/aktuelles/aktuelles/verpflichtendes-zweitveroeffentlichungs-recht/](https://www.uni-konstanz.de/universitaet/aktuelles-und-medien/aktuelle-meldungen/aktuelles/aktuelles/verpflichtendes-zweitveroeffentlichungs-recht/)).
+
+[^18]: Vgl. Regierender Bürgermeister, Pressemitteilung vom 13.10.2015:
+    Freier Zugang zu wissenschaftlichen Publikationen: Senat beschließt
+    Open-Access-Strategie. Abrufbar unter
+    [https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2015/pressemitteilung.384964.php](https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2015/pressemitteilung.384964.php).
+
+[^19]: Abrufbar unter
+    [https://www.schleswig-holstein.de/DE/Landesregierung/VIII/Presse/PI/PDF/2014/141118\_msgwg\_OpenAccessStrategie.pdf?\_\_blob=publicationFile&v=3](https://www.schleswig-holstein.de/DE/Landesregierung/VIII/Presse/PI/PDF/2014/141118_msgwg_OpenAccessStrategie.pdf?__blob=publicationFile&v=3).
+
+[^20]: Dazu *Hartmann*. Einstimmige Agenda für ein
+    innovationsfreundliches Urheberrecht. ZWD-Magazin Bildung,
+    Gesellschaft und Politik, Nr. 1/2013, S. 18 f. Abrufbar unter
+    [http://hdl.handle.net/11858/00-001M-0000-0014-5D38-C](http://hdl.handle.net/11858/00-001M-0000-0014-5D38-C).
+
+[^21]: Vgl. dazu The Registry of Open Access Repository Mandates and
+    Policies (ROARMAP) unter
+    [http://roarmap.eprints.org/](http://roarmap.eprints.org/).
+
+[^22]: Vgl.
+    [http://www.snf.ch/de/derSnf/forschungspolitische\_positionen/open\_access/Seiten/default.aspx\#Open-Access-Politik%20und%20-Bestimmungen%20des%20SNF](http://www.snf.ch/de/derSnf/forschungspolitische_positionen/open_access/Seiten/default.aspx#Open-Access-Politik%20und%20-Bestimmungen%20des%20SNF)
+    ; mehr dazu bei *Hirschmann/Verdicchio* (2017), Open Access in der
+    Schweiz. In: Söllner/Mittermaier (Hrsg.), Praxishandbuch Open Access
+    (S. 215-222). Berlin: De Gruyter Saur.
+
+[^23]: [https://www.fwf.ac.at/de/forschungsfoerderung/open-access-policy/](https://www.fwf.ac.at/de/forschungsfoerderung/open-access-policy/).
+
+[^24]: Vgl z.Bsp. *Wijk* (2017), Open access in the Netherlands. In:
+    Söllner/Mittermaier (Hrsg.), Praxishandbuch Open Access (S.
+    223-237). Berlin: De Gruyter Saur.
+
+[^25]: Vgl. dazu z.Bsp. Max Planck Digital Library (2014), MPDL Fact
+    Sheets on Open Science: Open Access to Scientific Publications in
+    Horizon 2020. Abrufbar unter
+    [https://openaccess.mpg.de/2076825/Horizon-2020\_MPDLFactSheet\_Apr2014.pdf](https://openaccess.mpg.de/2076825/Horizon-2020_MPDLFactSheet_Apr2014.pdf).
+
+[^26]: *Fournier* (2017), Open-Access-Policies und ihre Gestaltung durch
+    Forschungsförderer. In: Söllner/Mittermaier (Hrsg.), Praxishandbuch
+    Open Access (S. 21-27). Berlin: De Gruyter Saur.
+
+[^27]: BMBF, Pressemitteilung Nr. 109/2016: Freier Zugang schafft mehr
+    Wissen. Abrufbar unter
+    [https://www.bmbf.de/de/freier-zugang-schafft-mehr-wissen-3340.html](https://www.bmbf.de/de/freier-zugang-schafft-mehr-wissen-3340.html).
+
+[^28]: Eine Zusammenfassung des Rechtsgutachtens von *Fehling* ist als
+    Beitrag "Verfassungskonforme Ausgestaltung von DFG-Förderbedingungen
+    zur Open-Access-Publikation" erschienen in: Ordnung der
+    Wissenschaft, Nr. 4/2014, S. 179-214. Abrufbar unter
+    [http://www.ordnungderwissenschaft.de/Print\_2014/24\_fehling\_dfg\_odw\_ordnung\_der\_wissenschaft\_2014.pdf](http://www.ordnungderwissenschaft.de/Print_2014/24_fehling_dfg_odw_ordnung_der_wissenschaft_2014.pdf)
+    .
+
+[^29]: Art. 73 Abs. 1 Nr.9 GG, Art. 71 GG
+
+[^30]: Zur Bundeskompetenz Urheberrecht schon *Hartmann*, Mantra
+    Rechtssicherheit. In: LIBREAS. Library Ideas, 22 (2013). Abrufbar
+    unter
+    [http://libreas.eu/ausgabe22/01hartmann.htm](http://libreas.eu/ausgabe22/01hartmann.htm).
+
+[^31]: Siehe
+    [http://vghmannheim.de/pb/,Lde/Startseite/Medien/Zweitveroeffentlichungspflicht+von+Hochschullehrern\_+Verwaltungsgerichtshof+ruft+Bundesverfassungsgericht+an/](http://vghmannheim.de/pb/,Lde/Startseite/Medien/Zweitveroeffentlichungspflicht+von+Hochschullehrern_+Verwaltungsgerichtshof+ruft+Bundesverfassungsgericht+an/).
+
+[^32]: *N. Schmidt*, Open Access (2016).
+
+[^33]: Vgl. Zusammenfassung dazu: *Fehling*, Verfassungskonforme
+    Ausgestaltung von DFG-Förderbedingungen zur Open-Access-Publikation.
+    Erschienen in: Ordnung der Wissenschaft, Nr. 4/2014, S. 179-214.
+    Abrufbar unter
+    [http://www.ordnungderwissenschaft.de/Print\_2014/24\_fehling\_dfg\_odw\_ordnung\_der\_wissenschaft\_2014.pdf](http://www.ordnungderwissenschaft.de/Print_2014/24_fehling_dfg_odw_ordnung_der_wissenschaft_2014.pdf).
+
+[^34]: *Löwisch*, Förderung statt Zwang -- Neue Open Access Strategie in
+    Baden-Württemberg. In: Ordnung der Wissenschaft, Nr. 1/2017, S. 59f.
+    Abrufbar unter
+    [http://www.ordnungderwissenschaft.de/2017-1/10\_Gesamt/08\_2017\_01\_loewisch\_foerderung\_statt\_zwang\_odw.pdf](http://www.ordnungderwissenschaft.de/2017-1/10_Gesamt/08_2017_01_loewisch_foerderung_statt_zwang_odw.pdf).
+
+[^35]: In: Ordnung der Wissenschaft, Nr. 2/2017, S. 75-96. Abrufbar
+    unter
+    [http://www.ordnungderwissenschaft.de/2017-2/11\_Sandberger/11\_2017\_02\_sandberger\_die%20zukunft%20des%20wissenschaftlichen%20publizierens\_odw.pdf](http://www.ordnungderwissenschaft.de/2017-2/11_Sandberger/11_2017_02_sandberger_die%20zukunft%20des%20wissenschaftlichen%20publizierens_odw.pdf).
+
+[^36]: Vgl. Meldung am 20.10.2015 auf boersenblatt.net. Abrufbar unter
+    [http://www.boersenblatt.net/artikel-urheberrecht\_\_oettingers\_plaene\_und\_der\_streit\_um\_paragraf\_52b.1038692.html](http://www.boersenblatt.net/artikel-urheberrecht__oettingers_plaene_und_der_streit_um_paragraf_52b.1038692.html).
+
+[^37]: Vgl. z.Bsp. Pressemeldung der Universität Konstanz vom
+    21.11.2016, abrufbar unter
+    [https://www.uni-konstanz.de/universitaet/aktuelles-und-medien/aktuelle-meldungen/aktuelles/aktuelles/open-access-satzung-auf-juristischem-pruefstand/](https://www.uni-konstanz.de/universitaet/aktuelles-und-medien/aktuelle-meldungen/aktuelles/aktuelles/open-access-satzung-auf-juristischem-pruefstand/).
+
+[^38]: Siehe
+    [http://www.boersenverein.de/sixcms/media.php/976/Stellungnahme\_3.HRAG\_BaWu\_20131128.pdf](http://www.boersenverein.de/sixcms/media.php/976/Stellungnahme_3.HRAG_BaWu_20131128.pdf).
+
+[^39]: [https://www.boersenblatt.net/artikel-boersenverein\_zu\_open-access-regelung\_.1398729.html\#](https://www.boersenblatt.net/artikel-boersenverein_zu_open-access-regelung_.1398729.html).
+
+[^40]: [https://www.boersenblatt.net/artikel-boersenverein\_zu\_open-access-regelung\_.1398729.html\#](https://www.boersenblatt.net/artikel-boersenverein_zu_open-access-regelung_.1398729.html).
+
+[^41]: [https://www.suedkurier.de/region/kreis-konstanz/konstanz/Konstanzer-Professoren-klagen-gegen-ihre-eigene-Universitaet;art372448,9013200](https://www.suedkurier.de/region/kreis-konstanz/konstanz/Konstanzer-Professoren-klagen-gegen-ihre-eigene-Universitaet;art372448,9013200).
+
+[^42]: [https://www.suedkurier.de/region/kreis-konstanz/konstanz/OEffentliches-Geld-oeffentliches-Wissen-Warum-Konstanzer-Professoren-gegen-ihre-Uni-klagen-und-der-Fall-bis-vor-das-Bundesverfassungsgericht-geht;art372448,9480592](https://www.suedkurier.de/region/kreis-konstanz/konstanz/OEffentliches-Geld-oeffentliches-Wissen-Warum-Konstanzer-Professoren-gegen-ihre-Uni-klagen-und-der-Fall-bis-vor-das-Bundesverfassungsgericht-geht;art372448,9480592).
+
+[^43]: [https://www.stuttgarter-zeitung.de/inhalt.streit-recht-zur-zweitveroeffentlichung-professoren-klagen-gegen-ihre-uni.7fa75c01-d550-4ef5-9c3a-d3438e80540b.html](https://www.stuttgarter-zeitung.de/inhalt.streit-recht-zur-zweitveroeffentlichung-professoren-klagen-gegen-ihre-uni.7fa75c01-d550-4ef5-9c3a-d3438e80540b.html).
+
+[^44]: Universität Konstanz, Satzung zur Ausübung des wissenschaftlichen
+    Zweitveröffentlichungsrechts gemäß § 38 Abs. 4 UrhG, S. 2.
+
+[^45]: Berliner Erklärung über den offenen Zugang zu wissenschaftlichem
+    Wissen vom 22. Oktober 2003, abrufbar unter
+    [https://openaccess.mpg.de/Berliner-Erklaerung](https://openaccess.mpg.de/Berliner-Erklaerung).
+
+[^46]: Vgl. insbesondere Frage Nr. 24 des FAQ zum
+    Zweitveröffentlichungsrecht der Schwerpunktinitiative "Digitale
+    Information" der Allianz der deutschen Wissenschaftsorganisationen,
+    abrufbar unter
+    [http://www.allianzinitiative.de/handlungsfelder/rechtliche-rahmenbedingungen/faq-zvr.html](http://www.allianzinitiative.de/handlungsfelder/rechtliche-rahmenbedingungen/faq-zvr.html).
+
+[^47]: Vgl. Berliner Erklärung über den offenen Zugang zu
+    wissenschaftlichem Wissen vom 22. Oktober 2003, abrufbar unter
+    [https://openaccess.mpg.de/Berliner-Erklaerung](https://openaccess.mpg.de/Berliner-Erklaerung).
+
+[^48]: Vgl. Allianz der deutschen Wissenschaftsorganisationen, Appell
+    zur Nutzung offener Lizenzen in der Wissenschaft (2014). Abrufbar
+    unter
+    [http://www.allianzinitiative.de/fileadmin/user\_upload/www.allianzinitiative.de/Appell\_Offene\_Lizenzen\_2014.pdf](http://www.allianzinitiative.de/fileadmin/user_upload/www.allianzinitiative.de/Appell_Offene_Lizenzen_2014.pdf).
+
+[^49]: Dazu mehr: Vortragsaufzeichnung "Compliance-Anforderungen für das
+    Forschungs- und Publikationsmanagement" in Session "Umsetzung und
+    Erfahrung mit Richtlinien und Guidelines" auf den Open Access-Tagen
+    2014 Köln, abrufbar unter
+    [https://youtu.be/BegYmuqD804](https://youtu.be/BegYmuqD804).
