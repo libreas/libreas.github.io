@@ -97,9 +97,10 @@ lange als eine der wesentlichen Grundlagen von moderner Wissenschaft
 angesehen wird, zu deren Sicherung (wissenschaftliche) Bibliotheken
 bekanntlich genuin beitragen sollen.
 
-Die Ausgabe enthält diesmal drei Interviews. Neben dem schon genannten,
+Die Ausgabe enthält diesmal vier Interviews. Neben dem schon genannten,
 zwei weitere mit Akteuren aus der Open Access-Community, die sich
-reichlich kritisch zu den Entwicklungen der letzten Jahre äußern. Die
+reichlich kritisch zu den Entwicklungen der letzten Jahre äußern sowie eines 
+zu den aktuellen DEAL-Verhandlungen. Die
 LIBREAS. Library Ideas ist neben wissenschaftlichen Artikeln und Essays
 immer offen für unterschiedliche Textformate. Die Interviews können
 (neben ihrem Inhalt) als Beispiel dafür gelten, was möglich ist. Wir als

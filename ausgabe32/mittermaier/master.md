@@ -327,13 +327,13 @@ Gespräch!*
 
 [^1]: Zwischenzeitlich hat Elsevier allerdings bei den meisten
     Einrichtungen die Zugänge wieder freigeschaltet. Vgl.
-    [*http://www.sciencemag.org/news/2017/02/elsevier-journals-are-back-online-60-german-institutions-had-lost-access*](http://www.sciencemag.org/news/2017/02/elsevier-journals-are-back-online-60-german-institutions-had-lost-access)
+    [http://www.sciencemag.org/news/2017/02/elsevier-journals-are-back-online-60-german-institutions-had-lost-access](http://www.sciencemag.org/news/2017/02/elsevier-journals-are-back-online-60-german-institutions-had-lost-access)
 
 [^2]: Vgl. z.B.
-    [*http://www.nature.com/news/german-scientists-regain-access-to-elsevier-journals-1.21482*](http://www.nature.com/news/german-scientists-regain-access-to-elsevier-journals-1.21482),
-    [*https://www.helmholtz.de/aktuell/presseinformationen/artikel/artikeldetail/helmholtz\_zentren\_kuendigen\_die\_vertraege\_mit\_elsevier/*](https://www.helmholtz.de/aktuell/presseinformationen/artikel/artikeldetail/helmholtz_zentren_kuendigen_die_vertraege_mit_elsevier/)
+    [http://www.nature.com/news/german-scientists-regain-access-to-elsevier-journals-1.21482](http://www.nature.com/news/german-scientists-regain-access-to-elsevier-journals-1.21482),
+    [https://www.helmholtz.de/aktuell/presseinformationen/artikel/artikeldetail/helmholtz\_zentren\_kuendigen\_die\_vertraege\_mit\_elsevier/](https://www.helmholtz.de/aktuell/presseinformationen/artikel/artikeldetail/helmholtz_zentren_kuendigen_die_vertraege_mit_elsevier/)
     oder
-    [*https://www.berliner-zeitung.de/berlin/hohe-preise-berliner-universitaeten-kuendigen-vertrag-mit-grossem-wissenschaftsverlag-27926974*](https://www.berliner-zeitung.de/berlin/hohe-preise-berliner-universitaeten-kuendigen-vertrag-mit-grossem-wissenschaftsverlag-27926974)
+    [https://www.berliner-zeitung.de/berlin/hohe-preise-berliner-universitaeten-kuendigen-vertrag-mit-grossem-wissenschaftsverlag-27926974](https://www.berliner-zeitung.de/berlin/hohe-preise-berliner-universitaeten-kuendigen-vertrag-mit-grossem-wissenschaftsverlag-27926974)
 
 [^3]: Ohne Vertrag sind seit Anfang 2017 insgesamt 76 Einrichtungen: 30
     Universitäten, 16 Hochschulen, 27 Forschungseinrichtungen sowie 3
@@ -341,19 +341,19 @@ Gespräch!*
     angekündigt, ihre Einzelverträge mit Elsevier über 2017 hinaus nicht
     zu verlängern, darunter 29 Universitäten, 57 Hochschulen und 23
     Forschungseinrichtungen. Vgl.
-    [*https://www.projekt-deal.de/vertragskundigungen-elsevier-2017/*](https://www.projekt-deal.de/vertragskundigungen-elsevier-2017/)
+    [https://www.projekt-deal.de/vertragskundigungen-elsevier-2017/](https://www.projekt-deal.de/vertragskundigungen-elsevier-2017/)
     (Stand 12.11.2017)
 
 [^4]: Siehe Pressespiegel auf der Projektwebseite
-    [*https://www.projekt-deal.de/pressespiegel/*](https://www.projekt-deal.de/pressespiegel/)
+    [https://www.projekt-deal.de/pressespiegel/](https://www.projekt-deal.de/pressespiegel/)
 
-[^5]: [*http://www.tagesspiegel.de/wissen/teure-fachzeitschriften-nationallizenzen-fuer-uni-bibliotheken-gefordert/8624114.html*](http://www.tagesspiegel.de/wissen/teure-fachzeitschriften-nationallizenzen-fuer-uni-bibliotheken-gefordert/8624114.html)
+[^5]: [http://www.tagesspiegel.de/wissen/teure-fachzeitschriften-nationallizenzen-fuer-uni-bibliotheken-gefordert/8624114.html](http://www.tagesspiegel.de/wissen/teure-fachzeitschriften-nationallizenzen-fuer-uni-bibliotheken-gefordert/8624114.html)
 
-[^6]: [*https://www.projekt-deal.de/aktuelles/*](https://www.projekt-deal.de/aktuelles/)
+[^6]: [https://www.projekt-deal.de/aktuelles/](https://www.projekt-deal.de/aktuelles/)
 
 [^7]: Siehe Abbildung "Projektstruktur" unter
-    [*https://www.projekt-deal.de/aktuelles/*](https://www.projekt-deal.de/aktuelles/)
+    [https://www.projekt-deal.de/aktuelles/](https://www.projekt-deal.de/aktuelles/)
 
-[^8]: [*https://www.projekt-deal.de/vertragskundigungen-elsevier-2017/*](https://www.projekt-deal.de/vertragskundigungen-elsevier-2017/)
+[^8]: [https://www.projekt-deal.de/vertragskundigungen-elsevier-2017/](https://www.projekt-deal.de/vertragskundigungen-elsevier-2017/)
 
-[^9]: [*https://www.projekt-deal.de/herausgeber\_elsevier/*](https://www.projekt-deal.de/herausgeber_elsevier/)
+[^9]: [https://www.projekt-deal.de/herausgeber\_elsevier/](https://www.projekt-deal.de/herausgeber_elsevier/)

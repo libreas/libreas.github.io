@@ -182,12 +182,11 @@ Publikationsprozess.[^21] Die im folgenden Abschnitt vorgestellte
 Auswertung richtet den Fokus auf das Prinzip der Offenheit in drei
 Schwerpunktbereichen:
 
-Open Publication: Zur Offenheit von klassischen narrativen Publikationen.
-=========================================================================
+1. Open Publication: Zur Offenheit von klassischen narrativen Publikationen.
 
-1.  Open Research Data: Zur Offenheit von Forschungsdaten und Zusatzmaterialien.
+2. Open Research Data: Zur Offenheit von Forschungsdaten und Zusatzmaterialien.
 
-2.  Open Review: Zur Offenheit von Qualitätssicherungs- und Kreditierungsverfahren.
+3. Open Review: Zur Offenheit von Qualitätssicherungs- und Kreditierungsverfahren.
 
 Ergebnisse der ExpertInneninterviews
 ====================================

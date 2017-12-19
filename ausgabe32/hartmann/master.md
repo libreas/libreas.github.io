@@ -232,7 +232,7 @@ klar für Open Access positionieren und engagieren, könnten ebenso wie in
 Baden-Württemberg den politischen Handlungsspielraum für Open
 Access-Vorgaben nutzen. In Berlin etwa verabschiedeten Ende 2015 Senat
 und Abgeordnetenhaus eine landeseigene Open Access-Strategie mit
-umfangreichem Maßnahmenpaket.[^18] Ein Jahr zuvor legte präsentiere die
+umfangreichem Maßnahmenpaket.[^18] Ein Jahr zuvor präsentiere die
 Landesregierung in Kiel die "Strategie 2020 der Landesregierung
 Schleswig-Holstein für Open Access".[^19]
 
@@ -257,7 +257,7 @@ ihr wissenschaftlich tätiges Personal zu einer Zweitveröffentlichung
 verpflichten, ohne dass dies gegen deren grundgesetzlich verbürgte
 Wissenschaftsfreiheit verstößt?
 
-An außeruniversitären Einrichtungen dürften eher entsprechende Vorgaben
+An außeruniversitären Einrichtungen dürften entsprechende Vorgaben eher 
 in den Arbeitsverträgen des wissenschaftlichen Personals verankert sein.
 Deswegen werden diese Forschungseinrichtungen den Konstanzer Fall mit
 hohem Interesse verfolgen.
@@ -301,7 +301,7 @@ sie (noch) keine rechtlich bindenden Veröffentlichungspflichten
 etabliert. Die DFG gab im Jahr 2014 ein Rechtsgutachten[^28] in Auftrag,
 das die nationale Rechtslage abgestuft einschätzt: Open
 Access-Publikationspflichten seien demzufolge nur dann möglich, wenn sie
-an die Vergabe zusätzlicher Gelder gekoppelt ist. Der Gutachter knüpft
+an die Vergabe zusätzlicher Gelder gekoppelt sind. Der Gutachter knüpft
 die Zulässigkeit von (Open Access-)Publikationspflichten zudem an
 vielseitige Bedingungen. Nach dieser Rechtsauffassung könnten die DFG
 und BMBF in einem gewissen Umfang fördervertraglich Open
@@ -398,7 +398,7 @@ zu begründen.[^38] Anlässlich des Normenkontrollverfahrens appelliert am
 baden-württembergische Landesregierung und die Landtagsabgeordneten, die
 Zweitveröffentlichungsregelung im Landeshochschulgesetz ersatzlos zu
 streichen."[^39] Beim Bundesverfassungsgericht siegesgewiss kommentiert
-der Vorsitzende des Verleger-Ausschusses des Börsenverein, Matthias
+der Vorsitzende des Verleger-Ausschusses im Börsenverein, Matthias
 Ulmer: \"Die verantwortlichen Politikerinnen und Politiker in
 Baden-Württemberg sollten die Entscheidung des VGH zum Anlass nehmen,
 ihre bei der Verabschiedung des Landeshochschulgesetzes getroffene
@@ -477,14 +477,14 @@ dienen.[^49]
 
 ### Am Rande III: Welche Bedeutung für digitale Forschungsdaten hat der Fall?
 
-Die Auseinandersetzung an der Universität Konstanz jetzt könnte man
+Die Auseinandersetzung an der Universität Konstanz jetzt könnte man wie folgt
 zusammenfassen: Haben allein die Wissenschaftler/innen die Rechte und
 damit Publikations- und Verwertungsbefugnisse an ihren Fachaufsätzen
 oder (auch) deren Universität beziehungsweise Wissenschaftseinrichtung?
 Diese Frage stellt sich vergleichbar auch bei (digitalen)
 Forschungsdaten.
 
-Juristisch interessant: An den Forschungsdaten, die im Rahmen der
+Juristisch interessant: An den Forschungsergebnissen, die im Rahmen der
 finanzierten Forschungstätigkeit entstehen, lässt sich schon seit langem
 manche Wissenschaftseinrichtung Nutzungen beziehungsweise Rechte im
 Arbeits- beziehungsweise Dienstrecht einräumen. Nicht weiter beleuchtet

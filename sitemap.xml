@@ -2194,7 +2194,7 @@
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe32/editorial/</loc>
-        <lastmod>2017-12-17T20:54:35+01:00</lastmod>
+        <lastmod>2017-12-19T19:45:45+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe32/editorial/meta.yaml</loc>
@@ -2238,11 +2238,15 @@
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe32/hartmann/</loc>
-        <lastmod>2017-12-17T20:54:35+01:00</lastmod>
+        <lastmod>2017-12-19T19:43:20+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe32/hartmann/meta.yaml</loc>
         <lastmod>2017-12-17T20:54:35+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://libreas.eu/ausgabe32/hartmann/vita.html</loc>
+        <lastmod>2017-12-19T19:41:15+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe32/havemann/</loc>
@@ -2258,7 +2262,7 @@
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe32/herb/</loc>
-        <lastmod>2017-12-17T20:54:35+01:00</lastmod>
+        <lastmod>2017-12-19T15:50:57+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe32/herb/meta.yaml</loc>
@@ -2266,7 +2270,7 @@
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe32/herb/vita.html</loc>
-        <lastmod>2017-11-29T20:43:39+01:00</lastmod>
+        <lastmod>2017-12-19T15:50:35+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe32/</loc>
@@ -2278,7 +2282,7 @@
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe32/kleineberg/</loc>
-        <lastmod>2017-12-17T20:54:35+01:00</lastmod>
+        <lastmod>2017-12-19T15:26:25+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe32/kleineberg/meta.yaml</loc>
@@ -2290,7 +2294,7 @@
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe32/mittermaier/</loc>
-        <lastmod>2017-12-17T20:54:35+01:00</lastmod>
+        <lastmod>2017-12-19T15:47:40+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe32/mittermaier/meta.yaml</loc>
@@ -2323,6 +2327,18 @@
     <url>
         <loc>http://libreas.eu/ausgabe32/schuldt/vita.html</loc>
         <lastmod>2017-12-10T20:39:54+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://libreas.eu/ausgabe32/scihub/</loc>
+        <lastmod>2017-12-19T16:22:32+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://libreas.eu/ausgabe32/scihub/meta.yaml</loc>
+        <lastmod>2017-12-19T16:12:19+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://libreas.eu/ausgabe32/scihub/vita.html</loc>
+        <lastmod>2017-12-19T16:10:39+01:00</lastmod>
     </url>
     <url>
         <loc>http://libreas.eu/ausgabe32/volkmann/</loc>

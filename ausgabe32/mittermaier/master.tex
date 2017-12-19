@@ -74,6 +74,15 @@ final
 \usepackage{hyperxmp}
 \usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
 breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+%URLs hart brechen
+\makeatletter 
+\g@addto@macro\UrlBreaks{ 
+  \do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j 
+  \do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t 
+  \do\u\do\v\do\w\do\x\do\y\do\z\do\&\do\1\do\2\do\3 
+  \do\4\do\5\do\6\do\7\do\8\do\9\do\0} 
+% \def\do@url@hyp{\do\-} 
+\makeatother 
 
 %meta
 %meta
@@ -115,17 +124,6 @@ LIBREAS. Library Ideas, 32 (2017). % journal, issue, volume.
 \thispagestyle{fancyplain} 
 
 %abstracts
-\begin{abstract}
-Ein Thema hält die deutsche Wissenschaft seit über einem Jahr in Atem:
-der DEAL mit den drei dominierenden Wissenschaftsverlagen Elsevier,
-Springer Nature und Wiley. Das Ziel ist ein deutschlandweiter Vertrag,
-der neben dem Zugang zu den Zeitschriftenportfolios auch eine
-Open-Access-Komponente für Publikationen von deutschen
-Wissenschaftler*innen regeln soll. Im Interview berichtet Bernhard
-Mittermaier als Mitglied des DEAL-Verhandlungsteams, wie man solche
-Verhandlungen plant, organisiert und durchführt, ohne sich dabei in die
-Irre führen zu lassen.
-\end{abstract}
 
 %body
 Was vor wenigen Jahren nicht vorstellbar war (jedenfalls nicht aus Sicht
@@ -156,13 +154,13 @@ vertragslosen Zustand. Konkret heißt das für die Forschenden der
 Einrichtungen, dass sie nicht mehr direkt auf Elsevier-Zeitschriften
 zugreifen können.\footnote{Zwischenzeitlich hat Elsevier allerdings bei
   den meisten Einrichtungen die Zugänge wieder freigeschaltet. Vgl.
-  \href{http://www.sciencemag.org/news/2017/02/elsevier-journals-are-back-online-60-german-institutions-had-lost-access}{\emph{http://www.sciencemag.org/news/2017/02/elsevier-journals-are-back-online-60-german-institutions-had-lost-access}}}
+  \url{http://www.sciencemag.org/news/2017/02/elsevier-journals-are-back-online-60-german-institutions-had-lost-access}}
 Der von einigen befürchtete Aufstand aus der Wissenschaft blieb
 aus.\footnote{Vgl. z.B.
-  \href{http://www.nature.com/news/german-scientists-regain-access-to-elsevier-journals-1.21482}{\emph{http://www.nature.com/news/german-scientists-regain-access-to-elsevier-journals-1.21482}},
-  \href{https://www.helmholtz.de/aktuell/presseinformationen/artikel/artikeldetail/helmholtz_zentren_kuendigen_die_vertraege_mit_elsevier/}{\emph{https://www.helmholtz.de/aktuell/presseinformationen/artikel/artikeldetail/helmholtz\_zentren\_kuendigen\_die\_vertraege\_mit\_elsevier/}}
+  \url{http://www.nature.com/news/german-scientists-regain-access-to-elsevier-journals-1.21482},
+  \url{https://www.helmholtz.de/aktuell/presseinformationen/artikel/artikeldetail/helmholtz_zentren_kuendigen_die_vertraege_mit_elsevier/}
   oder
-  \href{https://www.berliner-zeitung.de/berlin/hohe-preise-berliner-universitaeten-kuendigen-vertrag-mit-grossem-wissenschaftsverlag-27926974}{\emph{https://www.berliner-zeitung.de/berlin/hohe-preise-berliner-universitaeten-kuendigen-vertrag-mit-grossem-wissenschaftsverlag-27926974}}}
+  \url{https://www.berliner-zeitung.de/berlin/hohe-preise-berliner-universitaeten-kuendigen-vertrag-mit-grossem-wissenschaftsverlag-27926974}}
 Bis Ende Oktober 2017 haben 109 wissenschaftliche Einrichtungen
 angekündigt, einen individuellen Vertrag mit Elsevier zum Jahresende
 nicht zu erneuern. Für insgesamt 185\footnote{Ohne Vertrag sind seit
@@ -172,7 +170,7 @@ nicht zu erneuern. Für insgesamt 185\footnote{Ohne Vertrag sind seit
   Einzelverträge mit Elsevier über 2017 hinaus nicht zu verlängern,
   darunter 29 Universitäten, 57 Hochschulen und 23
   Forschungseinrichtungen. Vgl.
-  \href{https://www.projekt-deal.de/vertragskundigungen-elsevier-2017/}{\emph{https://www.projekt-deal.de/vertragskundigungen-elsevier-2017/}}
+  \url{https://www.projekt-deal.de/vertragskundigungen-elsevier-2017/}
   (Stand 12.11.2017)} Einrichtungen gilt ab Januar 2018 also: Entweder
 es gibt einen deutschlandweiten DEAL, oder es gibt keinen Zugang zu
 Elsevier-Zeitschriften.
@@ -180,9 +178,9 @@ Elsevier-Zeitschriften.
 Über die Ziele des DEAL-Projektes und das (Nicht-)Vorankommen der
 Verhandlungen wurde bereits viel geschrieben.\footnote{Siehe
   Pressespiegel auf der Projektwebseite
-  \href{https://www.projekt-deal.de/pressespiegel/}{\emph{https://www.projekt-deal.de/pressespiegel/}}}
-Doch uns interessiert, wie man ein solches Projekt mit einer derartigen
-Relevanz für die derzeitige und zukünftige Publikationslandschaft in der
+  \url{https://www.projekt-deal.de/pressespiegel/}} Doch uns
+interessiert, wie man ein solches Projekt mit einer derartigen Relevanz
+für die derzeitige und zukünftige Publikationslandschaft in der
 deutschen Wissenschaft konkret organisiert. Welche Räder müssen
 ineinandergreifen, damit es (hoffentlich erfolgreich) abgeschlossen
 wird? Welche Anforderungen stellen die Verhandlungen an die beteiligten
@@ -190,7 +188,8 @@ Personen und Einrichtungen? Wir haben mit Bernhard Mittermaier als
 Mitglied des DEAL-Verhandlungsteams gesprochen. Die Fragen stellten
 Michaela Voigt und Maxi Kindling.
 
-\section{Chronologie und Team}\label{chronologie-und-team}
+\hypertarget{chronologie-und-team}{%
+\section*{Chronologie und Team}\label{chronologie-und-team}}
 
 \emph{\textbf{LIBREAS}: Wann kam die Idee zum DEAL-Projekt auf? Gab es
 einen bestimmten Zeitpunkt, der als Startpunkt angesehen werden kann?}
@@ -198,7 +197,7 @@ einen bestimmten Zeitpunkt, der als Startpunkt angesehen werden kann?}
 \textbf{BM}: Im Sommer 2013 trat die Rektorin der Universität Leipzig an
 die Hochschulrektorenkonferenz (HRK) mit dem Vorschlag heran,
 Lizenzverträge auf nationaler Ebene mit den großen Zeitschriftenverlagen
-zu verhandeln\footnote{\href{http://www.tagesspiegel.de/wissen/teure-fachzeitschriften-nationallizenzen-fuer-uni-bibliotheken-gefordert/8624114.html}{\emph{http://www.tagesspiegel.de/wissen/teure-fachzeitschriften-nationallizenzen-fuer-uni-bibliotheken-gefordert/8624114.html}}}.
+zu verhandeln\footnote{\url{http://www.tagesspiegel.de/wissen/teure-fachzeitschriften-nationallizenzen-fuer-uni-bibliotheken-gefordert/8624114.html}}.
 Die HRK trug das Anliegen in die Allianz der
 Wissenschaftsorganisationen, die schließlich die AG Lizenzen mit der
 Erstellung einer Expertise beauftragt. In dieser sollte ausgeführt
@@ -208,7 +207,7 @@ Lizenzen nahmen sich Anne Lipp (DFG), Hildegard Schäffler (BSB München)
 und ich selbst des Themas an, da wir seinerzeit die AG Lizenzen
 gemeinsam geleitet haben. Auf Grundlage dieser Expertise hat die Allianz
 der Wissenschaftsorganisationen dann eine Projektgruppe eingesetzt, die
-mit einigen Ergänzungen bis heute besteht\footnote{\href{https://www.projekt-deal.de/aktuelles/}{\emph{https://www.projekt-deal.de/aktuelles/}}}.
+mit einigen Ergänzungen bis heute besteht\footnote{\url{https://www.projekt-deal.de/aktuelles/}}.
 Zum Projektteam kamen später ein Projektlenkungsausschuss sowie ab 2016
 das Verhandlungsteam hinzu. Seit 2015 werden außerdem zwei
 Projektstellen finanziert.
@@ -225,8 +224,6 @@ neuen Kontext und auch, diese Verhandlungen mit der nötigen Härte zu
 führen. Und diese Bereitschaft musste sowohl auf Leitungsebene als auch
 in der Wissenschaft und bei den Bibliotheken vorhanden sein.
 
-\pagebreak
-
 \textbf{LIBREAS:} \emph{Das Team ist ja durchaus heterogen in der
 Zusammenstellung. Zufall oder Absicht?}
 
@@ -234,15 +231,15 @@ Zusammenstellung. Zufall oder Absicht?}
 eigentlichen Projektteam, dem Verhandlungsteam und dem
 Projektlenkungsausschuss.\footnote{Siehe Abbildung
   \enquote{Projektstruktur} unter
-  \href{https://www.projekt-deal.de/aktuelles/}{\emph{https://www.projekt-deal.de/aktuelles/}}}
-Bei der Zusammensetzung aller Gremien wurde darauf geachtet, dass
-Bibliotheken und Wissenschaft, die verschiedenen Fachdisziplinen und
-verschiedene Einrichtungstypen angemessen vertreten sind. Die breiteste
-Repräsentanz aller Perspektiven ist im Projektlenkungsausschuss gegeben.
-Im Projektteam sind ausschließlich Bibliothekar*innen tätig, im
-Verhandlungsteam dominiert die Wissenschaft. Um ein Bild aus der
-Seefahrt zu verwenden: Im Maschinenraum sind Bibliothekar*innen, auf der
-Brücke sind Wissenschaftler*innen.
+  \url{https://www.projekt-deal.de/aktuelles/}} Bei der Zusammensetzung
+aller Gremien wurde darauf geachtet, dass Bibliotheken und Wissenschaft,
+die verschiedenen Fachdisziplinen und verschiedene Einrichtungstypen
+angemessen vertreten sind. Die breiteste Repräsentanz aller Perspektiven
+ist im Projektlenkungsausschuss gegeben. Im Projektteam sind
+ausschließlich Bibliothekar*innen tätig, im Verhandlungsteam dominiert
+die Wissenschaft. Um ein Bild aus der Seefahrt zu verwenden: Im
+Maschinenraum sind Bibliothekar*innen, auf der Brücke sind
+Wissenschaftler*innen.
 
 \emph{\textbf{LIBREAS}: Und sicher tauschen Sie sich auch mit
 Kolleg*innen aus dem Ausland aus?}
@@ -260,7 +257,8 @@ viel Zeit investieren Sie beispielsweise in das Projekt?}
 Ressourcen. Bei mir persönlich schätze ich es auf nicht unter 20 Stunden
 pro Woche.
 
-\section{Die Verlage}\label{die-verlage}
+\hypertarget{die-verlage}{%
+\section*{Die Verlage}\label{die-verlage}}
 
 \emph{\textbf{LIBREAS}: Wie wurde die Initiative DEAL seitens der
 Verlage aufgenommen?}
@@ -325,8 +323,9 @@ Es laufen aber einige Verhandlungen im Rahmen der DFG-Ausschreibung
 \enquote{Open-Access-Transformationsverträge}. Diese werden von
 einzelnen Verhandlungsführern analog zu den Allianz-Lizenzen verhandelt.
 
-\section{Vorbereitung und
-Verhandlung}\label{vorbereitung-und-verhandlung}
+\hypertarget{vorbereitung-und-verhandlung}{%
+\section*{Vorbereitung und
+Verhandlung}\label{vorbereitung-und-verhandlung}}
 
 \emph{\textbf{LIBREAS}: Wie ist die DEAL-Geschäftsstelle organisiert?}
 
@@ -385,7 +384,8 @@ Sie nutzen verschiedene legale Wege der alternativen Dokumentlieferung
 und können so die Informationsversorgung ihrer Einrichtung
 sicherstellen.
 
-\section{Kritik}\label{kritik}
+\hypertarget{kritik}{%
+\section*{Kritik}\label{kritik}}
 
 \emph{\textbf{LIBREAS}: Sie verhandeln für DEAL mit klassisch
 ausgerichteten Verlagen. Was hat das eigentlich mit Open Access zu tun?
@@ -433,14 +433,15 @@ wählbaren Publikationsorte wissenschaftsadäquat gestalten. Aus unserer
 Sicht gehört dazu, dass sie Open Access werden, wenn sie es nicht schon
 sind.
 
-\section{Prognosen}\label{prognosen}
+\hypertarget{prognosen}{%
+\section*{Prognosen}\label{prognosen}}
 
 \emph{\textbf{LIBREAS}: Wann kommt der DEAL?}
 
 \textbf{BM}: Die Gespräche mit Springer Nature und Wiley sind auf einem
 guten Weg. Als sich im September 2017 abzeichnete, dass bis Jahresende
 kein Abschluss möglich war, musste zur Vermeidung eines vertragslosen
-Zustands Anfang 2018 eine Übergangslösung gefunden werden.\footnote{\href{https://www.projekt-deal.de/vertragskundigungen-elsevier-2017/}{\emph{https://www.projekt-deal.de/vertragskundigungen-elsevier-2017/}}}
+Zustands Anfang 2018 eine Übergangslösung gefunden werden.\footnote{\url{https://www.projekt-deal.de/vertragskundigungen-elsevier-2017/}}
 Die war mit beiden Verlagen in hochkonzentrierter Arbeit in einigen
 Abstimmungen per E-Mail, in Telefonkonferenzen und zuletzt bei der
 Buchmesse möglich. Die gute Atmosphäre in diesen Gesprächen und die nun
@@ -457,7 +458,7 @@ Auch ist die wechselseitige Aufstellung wesentlich offensiver:
 Einrichtungen haben ihre auslaufenden Verträge nicht verlängert. Anfang
 2017 waren dies knapp 70 Einrichtungen, inzwischen sind es über 180.
 Anfang Oktober wurden die ersten Rücktritte von Editor*innen an Elsevier
-übergeben und veröffentlicht.\footnote{\href{https://www.projekt-deal.de/herausgeber_elsevier/}{\emph{https://www.projekt-deal.de/herausgeber\_elsevier/}}}
+übergeben und veröffentlicht.\footnote{\url{https://www.projekt-deal.de/herausgeber_elsevier/}}
 Elsevier wiederum sucht das Gespräch mit einzelnen Einrichtungen --
 obwohl gar keine Verhandlungen anstehen. Man schreibt Editor*innen an
 und lädt zu \enquote{Editors Dinners} ein, sucht auch den Kontakt zu
@@ -496,7 +497,7 @@ und Informationswissenschaft (M.A.) studiert und in Analytischer Chemie
 promoviert. Er leitet die Zentralbibliothek des Forschungszentrums
 Jülich und ist Mitglied in den Projektgruppen von DEAL und im Nationalen
 Open Access Kontaktpunkt OA2020-DE sowie im Steuerungsgremium der
-Allianz-Initiative \enquote{Zukunft der Digitalen Informationsversorgung}.
+Allianz-Initiative ``Zukunft der Digitalen Informationsversorgung''.
 (ORCiD: \url{https://orcid.org/0000-0002-3412-6168})
 
 \textbf{Michaela Voigt}, Open-Access-Team der TU Berlin, Redakteurin
