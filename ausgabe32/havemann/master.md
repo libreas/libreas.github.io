@@ -142,7 +142,7 @@ Entwicklung" hin: "Open Journal Systems (OJS) ist eine
 Open-Source-Software zur Verwaltung und Veröffentlichung von
 wissenschaftlichen Zeitschriften, die kontinuierlich von verschiedenen
 Institutionen und Einzelpersonen weiterentwickelt wird. Der Code ist
-frei zugänglich, und das Programm kann kostenfrei verwendet werden."
+frei zugänglich, und das Programm kann kostenfrei verwendet werden."
 (Grötschel 2016, S. 255, vergleiche <http://www.ojs-de.net/index.html>)
 
 Ein Beispiel für ein seit 2005 funktionierendes und für Leser wie
@@ -162,7 +162,7 @@ Zum Einen sind die Herausgeber und die Mitglieder des Editorial Board
 offenbar namhafte Vertreterinnen und Vertreter ihres Fachgebiets.
 Editor-in-Chief ist zum Beispiel Lars Birkedal, Professor an der Aarhus
 University und Ko-Autor einer Reihe von hochzitierten Publikationen
-(vgl. <http://cs.au.dk/\~birke/>). Zum anderen werden hohe Maßstäbe an die
+(vgl. <http://cs.au.dk/~birke/>). Zum anderen werden hohe Maßstäbe an die
 publizierten Artikel angelegt. (vgl.
 <https://lmcs.episciences.org/page/authors-information>) Das beteuern
 sicher alle Herausgeber von Fachzeitschriften, aber bei diamantenen
