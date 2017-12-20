@@ -9,7 +9,7 @@ der Bewegung erst kürzlich eine Kritik der Entwicklungen der letzten
 Jahre vorgelegt (Herb 2017). Das folgende Interview mit LIBREAS. Library
 Ideas schließt an diese Äußerungen an.
 
-*Wenn man die Effekte und Entwicklungen im Open Access-Feld in den
+***LIBREAS:**Wenn man die Effekte und Entwicklungen im Open Access-Feld in den
 letzten Jahren betrachtet – insbesondere die Durchsetzung von Gold-OA
 als Publikationsstandard für Zeitschriftenaufsätze – erscheint es dann
 nicht so, als wäre das eigentliche Transformationspotential von Open
@@ -17,7 +17,7 @@ Access bestenfalls in verwässerter Form spürbar? Haben wir heute nicht
 ganz ähnliche Abhängigkeiten und Probleme wie in der
 Wissenschaftskommunikation vor Open Access?*
 
-Meiner Meinung nach kannte Open Access in seinen Kindertagen zwei
+**Herb:**Meiner Meinung nach kannte Open Access in seinen Kindertagen zwei
 prägende Elemente: Zum einen sollte er Wissenschaft transparent und
 überprüfbar machen, beschleunigen und wissenschaftliches Arbeiten
 erleichtern. Dieses Versprechen hält er, zumal er ein quantitativer
@@ -64,14 +64,14 @@ Binse unter Soziologen: Soziales Kapital schlägt ökonomisches, denn es
 lässt sich recht einfach in ökonomisches ummünzen, der umgekehrte
 Prozess hingegen ist sehr aufwändig, sein Erfolg ungewiss.
 
-*In Ihrem Artikel "Open Access zwischen Revolution und Goldesel" (Herb
+***LIBREAS:**In Ihrem Artikel "Open Access zwischen Revolution und Goldesel" (Herb
 2017) zeichnen Sie ein eher negatives Bild. Die einzigen Akteure im
 Wissenschaftssystem, die mit Open Access gewonnen hätten, wären die
 Verlage. Dabei seien am Anfang der Diskussionen vor allem Forschende,
 Forschungsfördereinrichtungen und Bibliotheken aktiv gewesen. Sehen Sie
 heute noch Möglichkeiten, diesen Trend umzudrehen?*
 
-Das ist schwierig, aber vielleicht bin ich in Sachen Open Access
+**Herb:**Das ist schwierig, aber vielleicht bin ich in Sachen Open Access
 desillusioniert. Entwicklungen verlaufen in aller Regel pfadabhängig.
 Bis in die 1960er Jahre wurden wissenschaftliche Journale meist noch in
 Eigeninitiative der Wissenschaftler verlegt, die Expansion der
@@ -92,11 +92,11 @@ nationalen Open-Access-Konsortien, die mit Elsevier, Springer Nature und
 Wiley getroffen oder geplant werden, ist dies natürlich nur eine
 Fußnote.
 
-*Insbesondere interessant scheint ja, dass Forschende – für die Open
+***LIBREAS:**Insbesondere interessant scheint ja, dass Forschende – für die Open
 Access ja eigentlich die meisten Vorteile bringen soll – wenig aktiv
 scheinen. Wurden deren Interessen die ganze Zeit falsch eingeschätzt?*
 
-Dem stimme ich leider zu, aus mehreren Gründen: Zum einen aus der oben
+**Herb:**Dem stimme ich leider zu, aus mehreren Gründen: Zum einen aus der oben
 beschriebenen Bedeutung des sozialen Kapitals oder Renommees. Eine
 andere Soziologen-Binse ist, dass eine Technik nie ein soziales Problem
 löst. Ob man die Bindung der Wissenschaftler an die Verlage als Problem
@@ -124,14 +124,14 @@ ohne selbst als Verleger tätig sein zu müssen. Dieses
 All-Inclusive-Paket bekommen sie am einfachsten bei bekannten,
 kommerziellen Verlagen.
 
-*Sie stellen die nationalen Vereinbarungen zu Open Access, die in der
+***LIBREAS:**Sie stellen die nationalen Vereinbarungen zu Open Access, die in der
 Literatur gemeinhin positiv bewertet werden, als vor allem für die
 großen Verlage vorteilhaft dar. Würde Sie stattdessen für etwas anderes
 plädieren? Wären die mit diesen Vereinbarungen geschaffenen Strukturen
 nicht auch ein Ansatzpunkt, später eine andere Form von Open Access
 durchzusetzen?*
 
-Ich hoffe ausdrücklich, dass dies gelingt und wünsche mir sehr, dass zum
+**Herb:**Ich hoffe ausdrücklich, dass dies gelingt und wünsche mir sehr, dass zum
 Beispiel DEAL seine Ziele erreicht. Dennoch bin ich skeptisch, denn ich
 sehe hier keine neuen Strukturen. Die öffentliche Hand zahlt bald
 vielleicht anstelle vieler großer Rechnungen eine *sehr* große Rechnung
@@ -173,7 +173,7 @@ etwas Selbstmörderisches einlassen?
 Machen wir es kurz: Ich fürchte die nationalen Konsortien stärken den
 kommerziellen Open Access. Warten wir ab.
 
-*In Ihrer Dissertation (Herb 2015) haben Sie die Soziologie und die
+***LIBREAS:**In Ihrer Dissertation (Herb 2015) haben Sie die Soziologie und die
 dortigen OA-Publikationsstrukturen untersucht und kamen zu weniger
 negativen Einschätzungen. Insbesondere sei die Publikation als Green-OA
 verbreitet. Würden Sie die Entwicklungen bei OA in unterschiedlichen
@@ -181,7 +181,7 @@ Forschungsfeldern auch unterschiedlich beurteilen? Welches Feld kommt
 den ursprünglichen Idealen von OA, wie sie Anfang der 2000er Jahre
 formuliert wurden, am nächsten?*
 
-In der Tat, die Soziologie hat mich da recht positiv überrascht. Man hat
+**Herb:**In der Tat, die Soziologie hat mich da recht positiv überrascht. Man hat
 hier einen pragmatischen Umgang mit Open Access entwickelt: Es gibt zwar
 teils respektable Gold-Open-Access-Journale, allerdings nimmt der Green
 Open Access mehr Raum ein, vor allem weil viele Subskriptionsjournale
@@ -210,7 +210,7 @@ Beispiel oder Verlagen wie Language Science Press. Mein Eindruck ist,
 dass sich nicht-kommerzieller Open Access in den Fächern besser
 entwickelt, in denen nicht sehr viel Geld zirkuliert.
 
-*Wenn man der Darstellung im oben genannten Text folgt, haben sich mit
+***LIBREAS:**Wenn man der Darstellung im oben genannten Text folgt, haben sich mit
 Gold-OA und den Vereinbarungen auf nationaler Ebene Strukturen der
 Wissenschaftskommunikation etabliert, die wieder den globalen Norden
 bevorzugen und den globalen Süden weiter in Abhängigkeit halten. In dem
@@ -221,7 +221,7 @@ Situation in Deutschland – wenig mit den großen Verlagen zu tun hat.
 Sehen Sie das auch so? Wäre dieses Vorgehen nicht ein Vorbild für
 Forschende in Europa?*
 
-Bei der Diskussion um den globalen Süden wäre Joachim sicher ein
+**Herb:**Bei der Diskussion um den globalen Süden wäre Joachim sicher ein
 besserer Ansprechpartner als ich es bin. Allerdings erscheint Anfang
 2018 mit *Open Divide? Critical Studies on Open Access* ein Sammelband,
 den Joachim und ich herausgeben. Dort finden sich Artikel zu
@@ -249,12 +249,12 @@ Springer- oder Elsevier-Zeitschriften, dann ist die Indexierung in den
 wichtigsten Fachdatenbanken, Plattformen und Zitationsdatenbanken schon
 erledigt – warum Selbstorganisation, wenn alles organisiert ist?
 
-*Wie könnte man den gesamten OA-Diskurs wieder auf ein sachliches Level
+***LIBREAS:**Wie könnte man den gesamten OA-Diskurs wieder auf ein sachliches Level
 bringen? Oder werden wir in absehbarer Zeit in einer antagonistischen
 Situation zwischen Verlagen auf der einen Seite und Bibliotheken und
 Forschungsförderung auf der anderen Seite verbleiben?*
 
-Ich weiß gar nicht, ob es einen Open-Access-Diskurs gibt. Jeder will
+**Herb:**Ich weiß gar nicht, ob es einen Open-Access-Diskurs gibt. Jeder will
 etwas anderes von Open Access, Bibliotheken wollen Geld sparen, Verlage
 wollen Geld einnehmen, Wissenschaftler wollen Jobs und Karriere,
 Forschungsförderer wollen Impact. Dazu franst Open Access auch aus:

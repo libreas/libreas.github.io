@@ -1,15 +1,15 @@
 ### Vorbemerkung
 
 Die so genannten Schattenbibliotheken sind vermutlich die radikalste
-Form um Beschränkungen des Zugangs zu wissenschaftlicher Literatur zu
+Form, um Beschränkungen des Zugangs zu wissenschaftlicher Literatur zu
 umgehen. Sie nutzen die Möglichkeiten digitaler Medien und Netze und
 vermitteln konsequent, niedrigschwellig und umfangreich den Zugang zu
 digitalen Kopien von Monographien und Aufsätzen. Obschon offensichtlich
 in vielen Fällen urheberrechtswidrig, erfreuen sich diese Plattformen
 einer regen Nachfrage und zwar naturgemäß vor allem aus dem Bereich der
 Wissenschaft. Es scheint, als würden die Schattenbibliotheken
-Versorgungslücken schließen, die auch an vergleichsweise gut
-ausgestatteten Hochschulbibliotheken bleiben. Einer weiterer Aspekt
+Versorgungslücken schließen, die auch vergleichsweise gut
+ausgestattete Hochschulbibliotheken haben. Einer weiterer Aspekt
 könnte sein, dass die sehr einfache Benutzbarkeit verbunden mit der
 Aussicht, ein Paper garantiert herunterladen zu können, den Umweg über
 VPN-Einwahl und Bibliotheks-Login unattraktiv macht. Werden
@@ -40,7 +40,7 @@ seines rechtlichen Status nicht ignoriert werden. Wir haben versucht,
 einzelne Behauptungen im Text mit Quellen zu belegen. Naturgemäß sind
 jedoch nicht sämtliche Angaben verifizierbar. Daher haben wir uns
 entschlossen größtenteils möglichst direkt die Aussagen des
-Interviewpartners wieder zu geben.
+Interviewpartners wiederzugeben.
 
 Alle redaktionellen Anmerkungen sind durch eckige Klammern
 gekennzeichnet.
@@ -52,9 +52,9 @@ Das Gespräch für LIBREAS führten Linda Freyberg und Ben Kaden.
 ***LIBREAS**: Wie kam Alexandra Elbakyan eigentlich dazu, Sci-Hub ins Leben
 zu rufen?*
 
-Soweit bekannt studierte Alexandra Elbakyan, \[die von Nature 2016 in
+Soweit bekannt war Alexandra Elbakyan, \[die von Nature 2016 in
 die Top 10 der wichtigsten Personen der Wissenschaft gewählt wurde
-(siehe Van Noorden 2016)\], am Freiburg *Institute of Advanced Studies*
+(siehe Van Noorden 2016)\], am *Freiburg Institute of Advanced Studies*
 und beschäftigte sich dort mit Wissenschaftskommunikation, genauer
 gesagt mit jener der frühen Neuzeit. Sie näherte sich dem Thema also
 wissenschaftshistorisch und nicht als die subversive Hackerin, als die
@@ -83,7 +83,7 @@ mitarbeitenden Person.\]
 
 ***LIBREAS**: Wie arbeitet Sci-Hub?*
 
-Der Schlüssel bei Sci-Hub sind die DOI. Darüber werden die Paper
+Der Schlüssel bei Sci-Hub sind die DOIs. Darüber werden die Paper
 identifiziert, abgeholt und ausgeben. Gibt man eine solche in die
 Suchmaske ein, wird eine Abfrage generiert, bei der wissenschaftliche
 Bibliotheken oder auch große Landesbibliotheken als Proxy funktionieren.
@@ -94,15 +94,15 @@ Zugänge von Bibliotheken und vermittelt daher prinzipiell lizenzierte
 Inhalte. Nur eben an die Allgemeinheit. Das funktioniert natürlich nur,
 weil es in diesen Einrichtungen Leute gibt, die mit Sci-Hub kooperieren,
 nämlich Bibliothekar\*innen und technische Mitarbeiter\*innen. \[Dies
-wird auch von der Gründerin so wiedergegeben: \"According to founder
+wird auch von der Gründerin so wiedergegeben: "According to founder
 Alexandra Elbakyan, the website uses donated library credentials of
 contributors to circumvent publishers' paywalls and thus downloads large
-parts of their collections\" (Greshake, 2017). Auf der UWM-Website wird
+parts of their collections" (Greshake, 2017). Auf der UWM-Website wird
 dies einerseits auch so wiedergegeben, aber daneben auch das Erhalten
-der Zugangsdaten durch Phising behauptet: \"Sci-Hub appears to obtain
+der Zugangsdaten durch Phising behauptet: "Sci-Hub appears to obtain
 institutional credentials from both people who support the program and
 willingly surrender their account information to Sci-Hub; and phishing
-victims who unwittingly give Sci-Hub access to their accounts.\"
+victims who unwittingly give Sci-Hub access to their accounts."
 ([http://guides.library.uwm.edu/scihub](http://guides.library.uwm.edu/scihub))\]
 
 Dahinter stehen durchaus wissenschaftsethische Motivationen, sicher auch
@@ -141,9 +141,9 @@ wird Sci-Hub aber wenig gerecht. Denn das Hacken spielt eigentlich gar
 keine Rolle. Wie beschrieben vermittelt Sci-Hub zumindest lokale legale
 Zugänge über die Bibliotheken und Rechenzentren.
 
-**Libreas**: Warum nutzen Leute Sci-Hub und auch andere Schattenbibliotheken,
+***Libreas**: Warum nutzen Leute Sci-Hub und auch andere Schattenbibliotheken,
 obwohl man ja weiß, dass das Angebot rechtlich eigentlich nicht zulässig
-ist?**
+ist?*
 
 Schattenbibliotheken bedienen ganz klassisch eine Lücke zwischen
 Nachfrage, Angebot und Zugangsmöglichkeit. Denkt man an die Tradition
@@ -268,7 +268,7 @@ Das ist wirklich eine interessante Frage. Es
 ist durchaus vorstellbar, dass Sci-Hub in absehbarer Zeit auch den
 gesamten Google-Books-Korpus vermittelt, wobei es Google selbst \[wie
 oben genannt\] mittlerweile relativ gleichgültig zu sein scheint, was
-mit diesem Bestand geschieht . Über eine verteilte Struktur lassen sich
+mit diesem Bestand geschieht. Über eine verteilte Struktur lassen sich
 die Volltexte vergleichsweise leicht harvesten. Wenn Bibliotheken darauf
 reagieren wollen, müssen sie vermutlich vor allem erst einmal genauer
 wissen, was ihre Zielgruppe, nämlich die Wissenschaftler\*innen wollen.
@@ -312,7 +312,7 @@ Scherschel, F. Guerilla-Forschungsbibliothek: US-Gericht fällt hartes
 Urteil gegen Sci-Hub. 08.11.2017.
 [https://www.heise.de/newsticker/meldung/Guerilla-Forschungsbibliothek-US-Gericht-faellt-hartes-Urteil-gegen-Sci-Hub-3884267.html](https://www.heise.de/newsticker/meldung/Guerilla-Forschungsbibliothek-US-Gericht-faellt-hartes-Urteil-gegen-Sci-Hub-3884267.html)
 
-Strecker, D. Schattenbibliotheken: Ein Krisensymptom der Wissenschaft. 11.08. 2017.
+Strecker, D. Schattenbibliotheken: Ein Krisensymptom der Wissenschaft. 11.08.2017.
 [https://irights.info/artikel/schattenbibliotheken-ein-krisensymptom-der-wissenschaft/28663](https://irights.info/artikel/schattenbibliotheken-ein-krisensymptom-der-wissenschaft/28663)
 
 Van Noorden, R. ALEXANDRA ELBAKYAN: Paper pirate. The founder of an
