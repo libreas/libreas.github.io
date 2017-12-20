@@ -74,6 +74,15 @@ final
 \usepackage{hyperxmp}
 \usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
 breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+%URLs hart brechen
+\makeatletter 
+\g@addto@macro\UrlBreaks{ 
+  \do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j 
+  \do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t 
+  \do\u\do\v\do\w\do\x\do\y\do\z\do\&\do\1\do\2\do\3 
+  \do\4\do\5\do\6\do\7\do\8\do\9\do\0} 
+% \def\do@url@hyp{\do\-} 
+\makeatother 
 
 %meta
 %meta
@@ -147,12 +156,13 @@ Ausgaben anzufragen, wuchs mit der Frustration, die ich zunehmend in
 meiner damaligen Arbeit an der Universität Bern empfand. Auf der einen
 Seite forderten wir Forschende gemäss der verabschiedeten OA-Policy dazu
 auf, nicht in klassischen Subskriptionszeitschriften zu publizieren,
-sondern OA-Zeitschriften zu wählen. Die dafür nötigen Gelder wollten die
-Universitätsbibliotheken dann aber nicht oder nur beschränkt zur
-Verfügung stellen. Gleichzeitig bezahlte man Jahr für Jahr nahezu
-unbestritten immer höhere Subskriptionskosten für genau die Verlage,
-welche sich offenkundig gegen OA positionierten. Fast niemand in der
-Bibliotheksszene schien dies überhaupt als Widerspruch wahrzunehmen.
+sondern OA-Zeitschriften zu wählen. Die dafür nötigen Gelder wollten
+oder konnten die Universitätsbibliotheken dann aber nicht oder nur
+beschränkt zur Verfügung stellen. Gleichzeitig bezahlte man Jahr für
+Jahr nahezu unbestritten immer höhere Subskriptionskosten für genau die
+Verlage, welche sich offenkundig gegen OA positionierten. Fast niemand
+in der Bibliotheksszene schien dies überhaupt als Widerspruch
+wahrzunehmen.
 
 Im Kontakt mit Forschenden zeigte sich auch, dass diese häufig keine
 Vorstellung hatten, zu welchen Bedingungen die Bibliothek Literatur
@@ -165,12 +175,13 @@ Abteilungsleiterin -- auf dem öffentlichen OA-Blog der Bibliothek.
 Fortan verwies ich bei meiner Arbeit zur Sensibilisierung zu OA gerne
 auf diese Zahlen, was durchaus einige erstaunte Reaktionen auslöste.
 
-Einige Monate später wurde die Leiterin der Geschäftsstelle des
-Schweizer Konsortiums auf den Blogbeitrag aufmerksam und schrieb mir in
-einem erzürnten E-Mail, dass ich diese Zahlen weder haben noch
-veröffentlichen dürfte, da es Vertragsbruch sei und die Position
-gegenüber Elsevier schwächen würde. Anstatt mich in einer langen E-Mail
-zu erklären, entschied ich mich, mit privaten Anfragen an alle Schweizer
+Einige Monate später, als ich bereits nicht mehr bei der Universität
+Bern arbeitete, wurde die Leiterin der Geschäftsstelle des Schweizer
+Konsortiums auf den Blogbeitrag aufmerksam und schrieb mir in einem
+erzürnten E-Mail, dass ich diese Zahlen weder haben noch veröffentlichen
+dürfte, da es Vertragsbruch sei und die Position gegenüber Elsevier
+schwächen würde. Anstatt mich in einer langen E-Mail zu erklären,
+entschied ich mich, mit privaten Anfragen an alle Schweizer
 Hochschulbibliotheken zu deren Ausgaben an Elsevier, Wiley und Springer
 zu überprüfen, ob die Praxis von Geheimhaltungsklauseln tatsächlich mit
 dem Öffentlichkeitsgesetz vereinbar ist. Damals musste gerade die
@@ -221,8 +232,8 @@ auch ohne Transparenz, da ja BibliotheksdirektorInnen sich informell
 untereinander absprechen, ist reichlich naiv. Die Dokumente zum Konflikt
 der ETH Zürich und der EPF Lausanne von 2010 bis 2012 über die Schweizer
 Elsevier-Lizenz,\footnote{\url{https://wisspub.net/2016/01/14/der-eth-bereich-und-elsevier-teil-1/}}
-zeigt enthüllend, wie wenig Informationen Bibliotheken wirklich für gute
-Verhandlungen zu Verfügung haben und auf welche Weise
+zeigen enthüllend, wie wenig Informationen Bibliotheken wirklich für
+gute Verhandlungen zu Verfügung haben und auf welche Weise
 Non-Disclosure-Agreements problematisch sind.
 
 Ich finde es zudem sehr irritierend, dass wir zwar seit über zehn Jahren
@@ -612,7 +623,9 @@ für wissenschaftliche Publikationen.
 
 \textbf{Christian Gutknecht} arbeitet beim Schweizer Nationalfonds und
 schreibt im Gruppenblog \url{http://www.wisspub.net}. (ORCID:
-\url{http://orcid.org/0000-0002-7265-1692})
+\url{http://orcid.org/0000-0002-7265-1692}). Die im Interview
+geäusserten Aussagen geben seine persönliche Sicht wider und sind nicht
+mit dem SNF abgestimmt.
 
 \textbf{Karsten Schuldt}, Wissenschaftlicher Mitarbeiter Schweizerisches
 Institut für Informationswissenschaft, HTW Chur. Redakteur LIBREAS.

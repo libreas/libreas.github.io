@@ -27,9 +27,7 @@ anzufragen, wuchs mit der Frustration, die ich zunehmend in meiner
 damaligen Arbeit an der Universität Bern empfand. Auf der einen Seite
 forderten wir Forschende gemäss der verabschiedeten OA-Policy dazu auf,
 nicht in klassischen Subskriptionszeitschriften zu publizieren, sondern
-OA-Zeitschriften zu wählen. Die dafür nötigen Gelder wollten die
-Universitätsbibliotheken dann aber nicht oder nur beschränkt zur
-Verfügung stellen. Gleichzeitig bezahlte man Jahr für Jahr nahezu
+OA-Zeitschriften zu wählen. Die dafür nötigen Gelder wollten oder konnten die Universitätsbibliotheken dann aber nicht oder nur beschränkt zur Verfügung stellen. Gleichzeitig bezahlte man Jahr für Jahr nahezu
 unbestritten immer höhere Subskriptionskosten für genau die Verlage,
 welche sich offenkundig gegen OA positionierten. Fast niemand in der
 Bibliotheksszene schien dies überhaupt als Widerspruch wahrzunehmen.
@@ -45,9 +43,7 @@ Abteilungsleiterin -- auf dem öffentlichen OA-Blog der Bibliothek.
 Fortan verwies ich bei meiner Arbeit zur Sensibilisierung zu OA gerne
 auf diese Zahlen, was durchaus einige erstaunte Reaktionen auslöste.
 
-Einige Monate später wurde die Leiterin der Geschäftsstelle des
-Schweizer Konsortiums auf den Blogbeitrag aufmerksam und schrieb mir in
-einem erzürnten E-Mail, dass ich diese Zahlen weder haben noch
+Einige Monate später, als ich bereits nicht mehr bei der Universität Bern arbeitete, wurde die Leiterin der Geschäftsstelle des Schweizer Konsortiums auf den Blogbeitrag aufmerksam und schrieb mir in einem erzürnten E-Mail, dass ich diese Zahlen weder haben noch
 veröffentlichen dürfte, da es Vertragsbruch sei und die Position
 gegenüber Elsevier schwächen würde. Anstatt mich in einer langen E-Mail
 zu erklären, entschied ich mich, mit privaten Anfragen an alle Schweizer
@@ -100,7 +96,7 @@ Dies ist eine nicht zu unterschätzende Entwicklung. Zu denken, es geht
 auch ohne Transparenz, da ja BibliotheksdirektorInnen sich informell
 untereinander absprechen, ist reichlich naiv. Die Dokumente zum Konflikt
 der ETH Zürich und der EPF Lausanne von 2010 bis 2012 über die Schweizer
-Elsevier-Lizenz,[^3] zeigt enthüllend, wie wenig Informationen
+Elsevier-Lizenz,[^3] zeigen enthüllend, wie wenig Informationen
 Bibliotheken wirklich für gute Verhandlungen zu Verfügung haben und auf
 welche Weise Non-Disclosure-Agreements problematisch sind.
 
