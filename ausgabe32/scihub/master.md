@@ -315,9 +315,10 @@ Urteil gegen Sci-Hub. 08.11.2017.
 Strecker, D. Schattenbibliotheken: Ein Krisensymptom der Wissenschaft. 11.08.2017.
 [https://irights.info/artikel/schattenbibliotheken-ein-krisensymptom-der-wissenschaft/28663](https://irights.info/artikel/schattenbibliotheken-ein-krisensymptom-der-wissenschaft/28663)
 
+UWM Libraries.
+[http://guides.library.uwm.edu/scihub](http://guides.library.uwm.edu/scihub)
+
 Van Noorden, R. ALEXANDRA ELBAKYAN: Paper pirate. The founder of an
 illegal hub for paywalled papers has attracted litigation and acclaim.
 19.12.2016. [http://www.nature.com/news/nature-s-10-1.21157\#/elbakyan](http://www.nature.com/news/nature-s-10-1.21157#/elbakyan)
 
-UWM Libraries.
-[http://guides.library.uwm.edu/scihub](http://guides.library.uwm.edu/scihub)
