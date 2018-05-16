@@ -1,0 +1,242 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage[babel]{csquotes}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+%URLs hart brechen
+\makeatletter 
+\g@addto@macro\UrlBreaks{ 
+  \do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j 
+  \do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t 
+  \do\u\do\v\do\w\do\x\do\y\do\z\do\&\do\1\do\2\do\3 
+  \do\4\do\5\do\6\do\7\do\8\do\9\do\0} 
+% \def\do@url@hyp{\do\-} 
+\makeatother 
+
+%meta
+%meta
+
+\fancyhead[L]{P. Strunk \\ %author
+LIBREAS. Library Ideas, 33 (2018). % journal, issue, volume.
+\href{http://nbn-resolving.de/}
+{}} % urn 
+% recommended use
+%\href{http://nbn-resolving.de/}{\color{black}{urn:nbn:de...}}
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/3.0/}{\color{black}Creative Commons BY 3.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{Personalentwicklung vor Ort}} % title
+\author{Petra Strunk} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={Personalentwicklung vor Ort},
+      pdfauthor={Petra Strunk},
+      pdfcopyright={CC BY 3.0 Unported},
+      pdfsubject={LIBREAS. Library Ideas, 33 (2018).},
+      pdfkeywords={Personalentwicklung, TU9, Universitätsbibliothek, TU Berlin, Austausch, BibHOP, Weiterbildung},
+      pdflicenseurl={https://creativecommons.org/licenses/by/3.0/},
+      pdfcontacturl={http://libreas.eu},
+      baseurl={http://libreas.eu},
+      pdflang={de},
+      pdfmetalang={de}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+
+%body
+Ortsangabe: Aachen, Berlin, Braunschweig, Darmstadt, Dresden, Hannover,
+Karlsruhe, München, Stuttgart.
+
+Ortszeit: 13 Uhr. Los geht's: Acht Bibliotheksmitarbeiter*innen sind zu
+Gast bei der neunten. Sie haben den Vormittag mit ihrer Anreise aus
+unterschiedlich weit entfernten Städten verbracht und werden nun mit
+belegten Brötchen, Obst und alkoholfreien Getränken begrüßt. Sie kennen
+sich nicht, kommen aber dennoch sehr schnell ins Gespräch miteinander:
+über die Anfahrt, das Wetter, den Anlass ihres Zusammentreffens. In
+Berlin ist es eine bunt gemischte Frauengruppe aus Fachangestellten für
+Medien- und Informationsdienste, Bibliothekarinnen und einer
+Fachreferentin. Die ersten 45 Minuten nach der Ankunft dienen dem
+gegenseitigen Kennenlernen. Jede erzählt kurz, seit wann sie im
+Bibliothekswesen tätig ist, welche Aufgaben sie aktuell hat und wieso
+sie hier gerade vor Ort ist. In den Bibliotheken, aus denen sie kommen,
+arbeiten sie in der Ausleihe, im Team Bestandsentwicklung und Metadaten,
+im Bereich Elektronisches Publizieren, in der Zeitschriftenbearbeitung,
+im Auskunftsdienst, in der Medienbearbeitung, in der Bibliothekstechnik
+und im IT-Service. Die Vorstellungsrunde wird kurz unterbrochen, als
+Jürgen Christof, der Direktor der Universitätsbibliothek der Technischen
+Universität Berlin, herein schaut und die Gäste herzlich begrüßt. Trotz
+schlechter Lichtverhältnisse wird schnell ein Gruppenbild mit Herr
+erstellt. Wenig später folgt eine Führung durch die Bibliothek, bei der
+immer wieder Smartphones gezückt werden, um Eindrücke für die
+Kolleg*innen in der Heimatbibliothek festzuhalten. Selbstverbucher und
+Rückgabeautomat, Workbay und Carrel, Bücherbox und Doktorandenwagen
+werden genauso abgelichtet wie Hinweisschilder, Sitzgelegenheiten und
+Informationstheken. Danach beginnen die Hospitationen. Jede Teilnehmerin
+konnte schon Wochen im Voraus angeben, welche Arbeitsgebiete sie
+besonders interessieren, in welches Team sie hineinschnuppern möchte und
+auf welche Fragen sie Antworten sucht. Allein, zu zweit oder zu dritt
+informieren sie sich nun über die Open-Access-Aktivitäten der TU Berlin,
+die Teaching Library, das Fachreferat Informatik, die Bearbeitung von
+Periodika und E-Ressourcen sowie RDA in der Praxis. Sie gehen in die
+Büros und an die Schreibtische der Spezialist*innen zu diesen Themen.
+Die Fachleute vor Ort zeigen und erläutern ihre Arbeitsprozesse,
+informieren über beachtenswerte Aspekte ihrer Aufgaben und beantworten
+Fragen der Gäste. Überraschend schnell vermischen sich Geben und Nehmen,
+denn die Gäste berichten von ihren eigenen Bemühungen und Erfahrungen,
+so dass es für beide Seiten zu einem intensiven Austausch von Hinweisen
+und Tipps kommt. Der mit vielfältigen Eindrücken ausgefüllte Tag endet
+in einem italienischen Restaurant. Bei Pasta und Prosecco vermischt sich
+Bibliothekarisches mit Berlintouristischem.
+
+Die „tatsächliche Bibliotheksarbeit``, die bis hierhin beschrieben
+wurde, heißt „BibHOP TU9-Austauschprogramm``. Seit 2006 gibt es den
+Zusammenschluss der TU9\footnote{\href{http://www.tu9.de/}{http://www.tu9.de/}}:
+Neun technische Universitäten haben eine gemeinsame Geschäftsstelle
+eingerichtet, um ihre Presse- und Öffentlichkeitsarbeit zu koordinieren,
+um Kontakte zu Politik, Wirtschaft und Gesellschaft zu pflegen sowie ein
+internationales Marketing zu betreiben. Seit 2014 treffen sich auch die
+Bibliotheksleitungen dieser TU9-Universitäten. Sie prüfen, welche Pläne
+und Projekte sich für eine Zusammenarbeit eignen. Im Rahmen dieser
+Treffen ist unter anderem ein gemeinsames Personalentwicklungsprogramm
+konzipiert worden: das BibHOP TU9-Austauschprogramm. Im Oktober 2016
+trafen sich die Fort- und Weiterbildungsbeauftragten der neun
+Universitätsbibliotheken in Berlin und entwickelten in zwei halben Tagen
+dieses Angebot. Sie benannten die Ziele, schrieben die fachliche
+Ausrichtung der Hospitationen fest, einigten sich auf den Namen BibHOP
+und vereinbarten den genauen Ablauf von Planung und Durchführung eines
+möglichen Austauschprogramms. Ihre Arbeitsergebnisse übergaben sie als
+Beschlussvorlage den Bibliotheksleitungen, die bereits im Folgemonat
+zustimmten, so dass BibHOP 2017 an den Start gehen konnte.
+
+Das Hospitationsprogramm dient dem fachlichen Erfahrungs-und
+Informationsaustausch. Es bietet die Möglichkeit, über den Tellerrand zu
+schauen, sich zu vernetzen und sich gegenseitig zu inspirieren. Der
+kollegiale Austausch begünstigt den Perspektivwechsel und stärkt in
+mehrfacher Hinsicht das Zusammengehörigkeitsgefühl: \emph{Wir als
+TU9-Bibliotheken, Wir als Bibliothekspersonal, Wir als Mitglieder des
+Teams XYZ} und so weiter. Über das gegenseitige Kennenlernen wird ein
+\enquote{kurzer Draht} für Fragen, kollegiale Unterstützung und
+gemeinsame Projekte geschaffen. Pro Jahr werden insgesamt 72 Plätze
+angeboten: Jede Bibliothek betreut acht Personen und kann acht Personen
+in die anderen Bibliotheken entsenden. Das bedeutet, dass jede*r allein
+unterwegs ist, vor Ort aber neue Kolleg*innen kennenlernt. Ein
+Aufenthalt dauert inklusive Hin- und Rückfahrt zwei Tage. Vor Ort können
+sich die Kolleg*innen bei einer Hausführung über die Dienstleistungen
+der besuchten Bibliothek informieren und zudem in zuvor ausgewählten
+Arbeitsbereichen hospitieren. Die mittlerweile so genannten BibHopper
+oder auch BibHopser müssen sich bewerben und angeben, welche Bibliothek
+sie besuchen möchten und was genau sie dort interessiert. Dafür stellt
+jede TU9-Bibliothek ein Portfolio zusammen. Bei der Auswahl werden vor
+allem Mitarbeiter*innen berücksichtigt, die sonst wenig oder keine
+Gelegenheit zu Dienstreisen haben. Kosten und Aufwand werden so gering
+wie möglich gehalten. Wir rechnen für die notwendigen Dienstreisen mit
+insgesamt nicht mehr als 2.640 Euro je Bibliothek pro Jahr. Neben diesen
+Kosten müssen die durch die Hospitation gebundenen Personalressourcen
+sowie der Arbeitsaufwand der betreuenden Mitarbeiter*innen beachtet
+werden.
+
+Nicht unerwähnt bleiben soll die konstruktive und unkomplizierte
+Zusammenarbeit der Fort- und Weiterbildungsbeauftragten in den
+TU9-Bibliotheken. Gemeinsam haben wir Bewerbungsformular, Feedbackbogen
+und Teilnahmebestätigung entwickelt. Wir nutzen als Arbeitsplattform das
+Confluence-Projects-Wiki der TIB Hannover und als Kommunikationsmittel
+eine Mailingliste, die in München eingerichtet wurde. Alle
+Teilnehmer*innen waren nach ihren Aufenthalten begeistert über die
+offene Atmosphäre, in der Einblicke in Arbeitsabläufe gewährt wurde, die
+so nicht auf Tagungen oder bei anderen offiziellen Zusammenkünften
+vermittelt werden können. Fotos und Berichte wurden in den eigenen Teams
+präsentiert und Vergleiche zur eigenen Situation gezogen. Das Programm
+ist in allen TU9-Bibliotheken gleichermaßen gut angenommen worden und
+wird deshalb ein zweites Mal durchgeführt. Ende 2018 werden wir beraten,
+ob es eine Fortsetzung geben wird. BibHOP -- ein echter Ortstermin!
+
+%autor
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\textbf{Petra Strunk} leitet das Querschnittsreferat Personalentwicklung
+/ Ausbildung der Universitätsbibliothek der Technischen Universität
+Berlin.
+
+\end{document}

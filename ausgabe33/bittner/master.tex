@@ -1,0 +1,284 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage[babel]{csquotes}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+%URLs hart brechen
+\makeatletter 
+\g@addto@macro\UrlBreaks{ 
+  \do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j 
+  \do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t 
+  \do\u\do\v\do\w\do\x\do\y\do\z\do\&\do\1\do\2\do\3 
+  \do\4\do\5\do\6\do\7\do\8\do\9\do\0} 
+% \def\do@url@hyp{\do\-} 
+\makeatother 
+
+%meta
+%meta
+
+\fancyhead[L]{B. C. Bittner \\ %author
+LIBREAS. Library Ideas, 33 (2018). % journal, issue, volume.
+\href{http://nbn-resolving.de/}
+{}} % urn 
+% recommended use
+%\href{http://nbn-resolving.de/}{\color{black}{urn:nbn:de...}}
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/3.0/}{\color{black}Creative Commons BY 3.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{Was steckt hinter der Eule?\\ Das Workshopangebot der Universitätsbibliothek der Technisches Universität Wien im Rahmen der KinderuniTechnik Wien}} % title
+\author{Birgit Christine Bittner} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={Das Workshopangebot der Universitätsbibliothek der Technisches Universität Wien im Rahmen der KinderuniTechnik Wien},
+      pdfauthor={Birgit Christine Bittner},
+      pdfcopyright={CC BY 3.0 Unported},
+      pdfsubject={LIBREAS. Library Ideas, 33 (2018).},
+      pdfkeywords={Wissenschaftliche Bibliothek, Berufspraxis, Kind},
+      pdflicenseurl={https://creativecommons.org/licenses/by/3.0/},
+      pdfcontacturl={http://libreas.eu},
+      baseurl={http://libreas.eu},
+      pdflang={de},
+      pdfmetalang={de}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+
+%body
+Im Jahr 2017 fand die 10. KinderuniTechnik im Rahmen der 15.
+KinderuniWien statt. Die KinderuniWien zählt zu den größten
+Wissenschaftsvermittlungsprojekten in Europa mit jährlich mehr als 4.000
+teilnehmenden Kindern, 600 WissenschafterInnen und rund 450
+Lehrveranstaltungen an sechs Wiener Universitäten und einer
+Fachhochschule. Seit dem Jahr 2009 nimmt auch die Universitätsbibliothek
+der Technischen Universität Wien an der KinderuniTechnik im
+Rahmenprogramm teil. Es werden in der zweiten Juliwoche, über das
+Kinderunivorlesungsverzeichnis, zwei jeweils eineinhalbstündige
+Workshops für maximal 15 Kinder im Alter von 10 bis 12 Jahren angeboten.
+
+Wir haben unseren Workshop anfangs mit dem Titel
+\enquote{Bibliotheks-ErforscherInnen gesucht!} und danach unter
+\enquote{Was versteckt sich hinter der Eule?} angeboten, da unser
+Bibliotheksgebäude durch eine 18 Meter große Eule an der Außenfassade
+geprägt wird.
+
+\begin{figure}
+\centering
+\includegraphics{img/image_1.jpg}
+\caption{Eule an der Außenfassade (Foto: Birgit Christine Bittner)}
+\end{figure}
+
+Nach einer sehr kurzfristigen Übernahme des
+Kinderuni-Bibliotheks-Workshops von einem sehr erfahrenen Kollegen, der
+den Vergleich des Internets mit gedruckten Büchern zum Schwerpunkt hatte
+, wollten meine Kollegin Christa Glaser und ich ein neues
+Workshopkonzept den KinderunistudentInnen anbieten und waren damit in
+den vergangenen fünf Jahren sehr erfolgreich.
+
+Der Workshop hat mehrere Stationen und führt die TeilnehmerInnen vom
+vierten Obergeschoss bis ins dritte Untergeschoss unseres
+Bibliotheksgebäudes. Sie schlüpfen zuerst in die Rolle eines
+Bibliotheksbesuchers / einer -besucherin und im zweiten Teil dann in die
+eines Bibliothekars / einer Bibliothekarin. Nach einer kurzen Begrüßung,
+einer Vorstellung des Ablaufs sowie der Personen werden sie anhand von
+Schätzfragen an die Bibliothekszahlen und Benutzungsregeln herangeführt.
+Die Kinder werden anschließend gemäß den Benutzungsregeln mit unseren
+durchsichtigen Bibliobags ausgestattet, die vorbereitete Suchaufgaben
+beinhalten.
+
+Zuerst wird den Kindern die Funktionsweise des Online-Katalogs, der eine
+Suche nach ganz konkreten wissenschaftlichen Inhalten oder Werken
+ermöglicht, erklärt. Danach wird das Prinzip der Freihandaufstellung,
+der Aufstellungssystematik und der Adjustierung der Bücher in den
+Bücherregalen gezeigt. Mit diesem Wissen suchen die Kinder im
+Online-Katalog nun selbständig nach dem Standort \enquote{ihrer} Bücher.
+Bei der Auswahl der Suchbeispiele wird darauf geachtet, dass sich die
+Bücher nicht über Augenhöhe der Kinder sowie in einem überschaubaren
+Regalbereich der Bibliothek befinden und auch möglichst weit von den
+Benutzerarbeitsplätzen entfernt sind, um die StudentInnen, die
+normalerweise sehr tolerant und auch durch Plakate auf den Besuch der
+KinderunistudentInnen aufmerksam gemacht worden sind, möglichst wenig zu
+stören. Es ist sehr schön mitzuerleben, welches Erfolgserlebnis es für
+die Kinder bedeutet, das \enquote{richtige} Buch dann aus der Vielzahl
+an Büchern aus dem Regal zu ziehen.
+
+Jetzt beginnt der Teil des Workshops, der sich mit Wissenspeicherung
+abseits der digitalen Erfassung widmet. Die nächste Station ist der
+Mikrofichearbeitsplatz, wo alle verfügbaren Geräte aufgestellt werden.
+Nach einem Ratespiel, einem kurzen geschichtlichen Abriss und der
+Erklärung der Geräte wird von den Kindern eine Suchaufgabe auf den
+Mikrofichen gelöst. Besondere Begeisterung ruft immer der lesbare
+Papierausdruck eines negativen Fiches hervor.
+
+\begin{figure}
+\centering
+\includegraphics{img/image_2.jpg}
+\caption{Mikrofichelesegerät (Foto: Marie Knull)}
+\end{figure}
+
+Da ein Großteil unseres alten Autorenkataloges (bis 1930) noch nicht
+über den Online-Katalog recherchierbar ist, lassen wir auch Bücher aus
+unserem alten Zettelkatalog suchen. Dafür haben wir einige geeignete
+Beispiele ausgewählt und Kopien der in Kurrentschrift beschriebenen
+Katalogzettel foliert. Die Transkription für den Eintrag der notwendigen
+Felder auf unseren Bestellscheinformularen können die Kinder mit Hilfe
+von Transkriptionslisten meist in Zweiergruppen bewerkstelligen.
+
+\begin{figure}
+\centering
+\includegraphics{img/image_3.jpg}
+\caption{Transkription der alten Karteikarten (Foto: Marie Knull)}
+\end{figure}
+
+Mit den ausgefüllten Bestellscheinen in der Hand switchen alle
+TeilnehmerInnen in die Rolle von BibliothekarInnen und haben nun die
+Möglichkeit in die verschlossenen Magazinsbereiche im dritten
+Untergeschoss der Bibliothek zu gelangen, wo unsere alten Bücher
+aufbewahrt werden. Die mit alten Büchern gefüllten Kompaktregalanlagen
+versetzen die meisten Kinder in ehrfürchtiges Staunen. Es wird ihnen
+schon vorab erklärt, nach welchem System hier die Bücher aufgestellt
+sind (innerhalb der Formate im Numerus Currens). Auch hier ist jedes
+gefundene Buch ein Erfolgserlebnis und der dafür als Platzhalter
+eingelegte Bestellschein erleichtert uns im Nachhinein auch die
+Rücksortierung.
+
+\begin{figure}
+\centering
+\includegraphics{img/image_4.jpg}
+\caption{Suche im Magazin (Foto: Marie Knull)}
+\end{figure}
+
+Das Bewegen der einzelnen Kompaktregale, die ein mit einem kleinen
+Elefanten vergleichbares Gewicht haben, macht den Kindern großen Spaß.
+Die gefundenen Bücher werden dann mit Hilfe unseres Bücherlifts in das
+Erdgeschoß geschickt, wo sich die Ortsleihe befindet, und von dort auch
+gleich von den jungen BibliothekarInnen abgeholt.
+
+\begin{figure}
+\centering
+\includegraphics{img/image_5.jpg}
+\caption{Bücherlift (Foto: Marie Knull)}
+\end{figure}
+
+Um den logischen Kreislauf zu schließen, können hier von den Kindern --
+wieder in der Rolle als BibliotheksbenutzerInnen -- die Bücher entweder
+am Schalter oder eigenständig am Selbstverbucher ordnungsgemäß entlehnt
+werden. Es wird auch getestet, was passiert, wenn man mit einem
+unverbuchten, also nicht entsicherten Buch durch die Sicherungsschranke
+geht. Als Andenken bekommen die TeilnehmerInnen von uns ein Lesezeichen,
+auf dem unsere Eule abgebildet ist, sowie einen Stempel in ihrem
+Studienausweis, den sie ausgefüllt für ihre Sponsion
+(Urkundenverleihung) benötigen.
+
+\begin{figure}
+\centering
+\includegraphics{img/image_6.jpg}
+\caption{Selbstverbucher (Foto: Marie Knull)}
+\end{figure}
+
+Wir haben uns beide spontan und freiwillig dazu entschlossen, diesen
+Workshop zusätzlich zu unserer alltäglichen Arbeit in dieser Form zu
+organisieren, da wir davon überzeugt sind, damit einen nicht unwichtigen
+Beitrag zur Bibliothekskompetenz recht junger Menschen zu leisten. Wir
+konnten immer wieder feststellen, welch große Wirkung unser Workshop auf
+etwaige zukünftige BibliotheksbenutzerInnen hat, da wir schon mehrfach
+gefragt wurden, ab welchem Alter man bei uns eine
+Bibliotheksbenützerkarte lösen kann oder von einer sehr aufgeweckten
+jungen Dame sogar \enquote{Was muss ich tun, damit ich Bibliothekarin
+werde?}. Das Erfolgsgeheimnis ist eine sehr gute Vorbereitung
+hinsichtlich des zeitlichen und räumlichen Ablaufs und bei der Erklärung
+sämtlicher Zahlen und Fakten möglichst bildhafte Beschreibungen zu
+verwenden. Der Workshop ist auch durch ständiges gegenseitiges
+Fragenstellen gekennzeichnet. Es machte uns jedes Jahr aufs Neue sehr
+große Freude, nicht nur das bibliothekarische Wissen, sondern auch die
+Begeisterung für unseren Beruf den KinderunistudentInnen zu vermitteln.
+
+%autor
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\textbf{Birgit Christine Bittner} ist im Bereich Erwerbung \&
+Institutsdienst der Universitätsbibliothek der Technischen Universität
+Wien beschäftigt. Kontakt: birgit.bittner@tuwien.ac.at
+
+\end{document}
