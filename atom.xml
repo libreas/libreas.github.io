@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[LIBREAS. Library Ideas]]></title>
-  <link href="http://libreas.eu/atom.xml" rel="self"/>
-  <link href="http://libreas.eu/"/>
-  <updated>2018-05-16T17:56:04+02:00</updated>
-  <id>http://libreas.eu/</id>
+  <link href="https://libreas.eu/atom.xml" rel="self"/>
+  <link href="https://libreas.eu/"/>
+  <updated>2018-05-16T18:07:40+02:00</updated>
+  <id>https://libreas.eu/</id>
   <author>
     <name><![CDATA[LIBREAS. Library Ideas]]></name>
     <email><![CDATA[redaktion@libreas.eu]]></email>
