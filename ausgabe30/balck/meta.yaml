@@ -8,9 +8,6 @@
 	<title>(X)Disziplinarität der Informationswissenschaft - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
-	<!--
-	<meta name="description" content="In zahlreichen informationswissenschaftlichen Texten wird auf die x-disziplinäre Ausrichtung der Disziplin hingewiesen. Der Beitrag befasst sich mit &hellip;">
-	 -->
 
 <!-- RDFa DC -->
 
@@ -148,17 +145,25 @@
         
         
 
+        <div class="titelei">
+        
+        <i itemprop="author">Sandra Balck</i>
+        
+    </div>
+
+<!-- 
 
         
         <div class="titelei">
             
+              
+              
+            <i itemprop="author">Sandra Balck</i> 
             
-            
-            <i itemprop="author">Sandra Balck</i>
             
             
         </div>
-        
+ -->
 
 
 
@@ -218,7 +223,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-16</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-17</a>)</p>
 
 </footer>
       </div>

@@ -8,9 +8,6 @@
 	<title>Partizipation in Bibliotheken. Ein Experiment, eine Collage - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
-	<!--
-	<meta name="description" content="> > > LIBREAS. Library Ideas # 32 Annotate via hypothes.is Download PDF Partizipation in Bibliotheken. Ein Experiment, eine Collage Karsten Schuldt &hellip;">
-	 -->
 
 <!-- RDFa DC -->
 
@@ -149,21 +146,29 @@
         
         
 
+        <div class="titelei">
+        
+        <i itemprop="author">Karsten Schuldt, Rudolf Mumenthaler</i>
+        
+    </div>
+
+<!-- 
 
         
         <div class="titelei">
             
+              
+              
+            <i itemprop="author">Karsten Schuldt</i> 
             
             
-            <i itemprop="author">Karsten Schuldt</i>
+               
+            </i><i itemprop="author">Rudolf Mumenthaler</i>
             
-            
-            
-            <i>&amp;</i> <i itemprop="author">Rudolf Mumenthaler</i>
             
             
         </div>
-        
+ -->
 
 
 
@@ -223,7 +228,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-16</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-17</a>)</p>
 
 </footer>
       </div>

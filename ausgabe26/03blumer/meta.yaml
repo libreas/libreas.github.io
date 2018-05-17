@@ -8,9 +8,6 @@
 	<title>Urban Revitalization, Gentrification, and the Public Library: The Case of Lausanne, Switzerland - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
-	<!--
-	<meta name="description" content="Gentrification – a process of replacement of a poorer population in an urban neighborhood with a richer one and the change of the looks of this &hellip;">
-	 -->
 
 <!-- RDFa DC -->
 
@@ -151,21 +148,29 @@
         
         
 
+        <div class="titelei">
+        
+        <i itemprop="author">Eliane Blumer, Karsten Schuldt</i>
+        
+    </div>
+
+<!-- 
 
         
         <div class="titelei">
             
+              
+              
+            <i itemprop="author">Eliane Blumer</i> 
             
             
-            <i itemprop="author">Eliane Blumer</i>
+               
+            </i><i itemprop="author">Karsten Schuldt</i>
             
-            
-            
-            <i>&amp;</i> <i itemprop="author">Karsten Schuldt</i>
             
             
         </div>
-        
+ -->
 
 
 
@@ -229,7 +234,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-16</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-17</a>)</p>
 
 </footer>
       </div>

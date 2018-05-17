@@ -8,9 +8,6 @@
 	<title>Menschen – Bücher – Wissenssuche - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
-	<!--
-	<meta name="description" content="> > > LIBREAS. Library Ideas # 33 Annotate via hypothes.is Download PDF Menschen – Bücher – Wissenssuche Eine Woche in der UB Erlangen-Nürnberg (20 &hellip;">
-	 -->
 
 <!-- RDFa DC -->
 
@@ -150,17 +147,25 @@
         
         
 
+        <div class="titelei">
+        
+        <i itemprop="author">Steffi Hotze</i>
+        
+    </div>
+
+<!-- 
 
         
         <div class="titelei">
             
+              
+              
+            <i itemprop="author">Steffi Hotze</i> 
             
-            
-            <i itemprop="author">Steffi Hotze</i>
             
             
         </div>
-        
+ -->
 
 
 
@@ -216,7 +221,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-16</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-17</a>)</p>
 
 </footer>
       </div>

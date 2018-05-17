@@ -8,9 +8,6 @@
 	<title>Wiberat. Eine Frauengestalt aus dem Frühmittelalter als Patronin der Bibliothekare und Bibliophilen. Oder: Feiern Sie den 2. Mai? - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
-	<!--
-	<meta name="description" content="> > > LIBREAS. Library Ideas # 25 Annotate via hypothes.is Download PDF @ edoc HU Berlin urn:nbn:de:kobv:11-100219277 Wiberat. Eine Frauengestalt &hellip;">
-	 -->
 
 <!-- RDFa DC -->
 
@@ -150,17 +147,25 @@
         
         
 
+        <div class="titelei">
+        
+        <i itemprop="author">Marion Voigt</i>
+        
+    </div>
+
+<!-- 
 
         
         <div class="titelei">
             
+              
+              
+            <i itemprop="author">Marion Voigt</i> 
             
-            
-            <i itemprop="author">Marion Voigt</i>
             
             
         </div>
-        
+ -->
 
 
 
@@ -216,7 +221,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-16</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-17</a>)</p>
 
 </footer>
       </div>

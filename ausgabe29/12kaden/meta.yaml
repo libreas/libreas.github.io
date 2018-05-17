@@ -8,9 +8,6 @@
 	<title>Hinweis auf ein Buch. Christoph Tempel: Zweckfigur wird Ornament. Bauten und Projekte [von] Rolf Ramcke. Berlin: jovis, 2016 - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
-	<!--
-	<meta name="description" content="> > > LIBREAS. Library Ideas # 29 Annotate via hypothes.is Download PDF @ edoc HU Berlin urn:nbn:de:kobv:11-100238225 Hinweis auf ein Buch. &hellip;">
-	 -->
 
 <!-- RDFa DC -->
 
@@ -148,17 +145,25 @@
         
         
 
+        <div class="titelei">
+        
+        <i itemprop="author">Ben Kaden</i>
+        
+    </div>
+
+<!-- 
 
         
         <div class="titelei">
             
+              
+              
+            <i itemprop="author">Ben Kaden</i> 
             
-            
-            <i itemprop="author">Ben Kaden</i>
             
             
         </div>
-        
+ -->
 
 
 
@@ -214,7 +219,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-16</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-17</a>)</p>
 
 </footer>
       </div>

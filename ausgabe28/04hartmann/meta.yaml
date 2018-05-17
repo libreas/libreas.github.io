@@ -8,9 +8,6 @@
 	<title>Paul Otlets Hypermedium. Dokumentation als Gegenidee zur Bibliothek - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
-	<!--
-	<meta name="description" content="Schon zur Wende ins 20. Jahrhundert zweifelte der belgische Privatgelehrte Paul Otlet an der Zukunft des Buches und der Bibliothek. Statt dessen &hellip;">
-	 -->
 
 <!-- RDFa DC -->
 
@@ -142,17 +139,25 @@
         
         
 
+        <div class="titelei">
+        
+        <i itemprop="author">Frank Hartmann</i>
+        
+    </div>
+
+<!-- 
 
         
         <div class="titelei">
             
+              
+              
+            <i itemprop="author">Frank Hartmann</i> 
             
-            
-            <i itemprop="author">Frank Hartmann</i>
             
             
         </div>
-        
+ -->
 
 
 
@@ -212,7 +217,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-16</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-17</a>)</p>
 
 </footer>
       </div>

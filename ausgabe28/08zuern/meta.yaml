@@ -8,9 +8,6 @@
 	<title>Gebaute Signatur: Die Seattle Public Library von Rem Koolhaas - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
-	<!--
-	<meta name="description" content="Dass sich der Leser im Freihandmagazin einer Bibliothek heute selbst mit Büchern versorgen kann, ist das Ergebnis eines langwierigen Prozesses der &hellip;">
-	 -->
 
 <!-- RDFa DC -->
 
@@ -142,17 +139,25 @@
         
         
 
+        <div class="titelei">
+        
+        <i itemprop="author">Tina Zürn</i>
+        
+    </div>
+
+<!-- 
 
         
         <div class="titelei">
             
+              
+              
+            <i itemprop="author">Tina Zürn</i> 
             
-            
-            <i itemprop="author">Tina Zürn</i>
             
             
         </div>
-        
+ -->
 
 
 
@@ -212,7 +217,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-16</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-17</a>)</p>
 
 </footer>
       </div>

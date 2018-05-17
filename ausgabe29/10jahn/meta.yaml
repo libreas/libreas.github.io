@@ -8,9 +8,6 @@
 	<title>Rezension zu: Pomerantz, Jeffrey. Metadata. The MIT Press Essential Knowledge Series. The MIT Press, 2015. ISBN: 978-0-262-52851-1. $15,95 - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
-	<!--
-	<meta name="description" content="> > > LIBREAS. Library Ideas # 29 Annotate via hypothes.is Download PDF @ edoc HU Berlin urn:nbn:de:kobv:11-100238209 Rezension zu: Pomerantz, &hellip;">
-	 -->
 
 <!-- RDFa DC -->
 
@@ -148,17 +145,25 @@
         
         
 
+        <div class="titelei">
+        
+        <i itemprop="author">Najko Jahn</i>
+        
+    </div>
+
+<!-- 
 
         
         <div class="titelei">
             
+              
+              
+            <i itemprop="author">Najko Jahn</i> 
             
-            
-            <i itemprop="author">Najko Jahn</i>
             
             
         </div>
-        
+ -->
 
 
 
@@ -214,7 +219,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-16</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-17</a>)</p>
 
 </footer>
       </div>

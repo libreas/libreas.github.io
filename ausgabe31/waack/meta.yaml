@@ -8,9 +8,6 @@
 	<title>Meine Bibliothek. Eine Erinnerung - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
-	<!--
-	<meta name="description" content="> > > LIBREAS. Library Ideas # 31 Annotate via hypothes.is Download PDF Meine Bibliothek. Eine Erinnerung Juliane Waack Zitiervorschlag Juliane &hellip;">
-	 -->
 
 <!-- RDFa DC -->
 
@@ -147,17 +144,25 @@
         
         
 
+        <div class="titelei">
+        
+        <i itemprop="author">Juliane Waack</i>
+        
+    </div>
+
+<!-- 
 
         
         <div class="titelei">
             
+              
+              
+            <i itemprop="author">Juliane Waack</i> 
             
-            
-            <i itemprop="author">Juliane Waack</i>
             
             
         </div>
-        
+ -->
 
 
 
@@ -213,7 +218,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-16</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-17</a>)</p>
 
 </footer>
       </div>

@@ -8,9 +8,6 @@
 	<title>Vom Ort zum Akteur. Heterotopologie + Akteur-Network-Theorie auf die Bibliothek bezogen - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
-	<!--
-	<meta name="description" content="> > > LIBREAS. Library Ideas # 28 Vom Ort zum Akteur. Heterotopologie + Akteur-Network-Theorie auf die Bibliothek bezogen Hans-Christoph Hobohm &hellip;">
-	 -->
 
 <!-- RDFa DC -->
 
@@ -142,17 +139,25 @@
         
         
 
+        <div class="titelei">
+        
+        <i itemprop="author">Hans-Christoph Hobohm</i>
+        
+    </div>
+
+<!-- 
 
         
         <div class="titelei">
             
+              
+              
+            <i itemprop="author">Hans-Christoph Hobohm</i> 
             
-            
-            <i itemprop="author">Hans-Christoph Hobohm</i>
             
             
         </div>
-        
+ -->
 
 
 
@@ -208,7 +213,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-16</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-17</a>)</p>
 
 </footer>
       </div>

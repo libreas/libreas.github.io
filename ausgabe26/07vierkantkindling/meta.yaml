@@ -8,9 +8,6 @@
 	<title>Welche Institutionen betreiben Open-Access-Repositorien in Deutschland? - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
-	<!--
-	<meta name="description" content="> > > LIBREAS. Library Ideas # 26 Annotate via hypothes.is Download PDF @ edoc HU Berlin urn:nbn:de:kobv:11-100222687 Welche Institutionen betreiben &hellip;">
-	 -->
 
 <!-- RDFa DC -->
 
@@ -151,21 +148,29 @@
         
         
 
+        <div class="titelei">
+        
+        <i itemprop="author">Paul Vierkant, Maxi Kindling</i>
+        
+    </div>
+
+<!-- 
 
         
         <div class="titelei">
             
+              
+              
+            <i itemprop="author">Paul Vierkant</i> 
             
             
-            <i itemprop="author">Paul Vierkant</i>
+               
+            </i><i itemprop="author">Maxi Kindling</i>
             
-            
-            
-            <i>&amp;</i> <i itemprop="author">Maxi Kindling</i>
             
             
         </div>
-        
+ -->
 
 
 
@@ -225,7 +230,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-16</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-17</a>)</p>
 
 </footer>
       </div>

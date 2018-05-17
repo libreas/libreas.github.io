@@ -8,9 +8,6 @@
 	<title>A Textbook for Infinite Learning. It’s a Small World, After All – Review of Sandra Hirsch [Ed.] (2015): Information Services Today: An Introduction. Lanham, MD: Rowman & Littlefield. 514 p., ISBN 978-1-4422-3957-9 - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
-	<!--
-	<meta name="description" content="> > > LIBREAS. Library Ideas # 27 Annotate via hypothes.is Download PDF @ edoc HU Berlin urn:nbn:de:kobv:11-100229865 A Textbook for Infinite &hellip;">
-	 -->
 
 <!-- RDFa DC -->
 
@@ -148,17 +145,25 @@
         
         
 
+        <div class="titelei">
+        
+        <i itemprop="author">Alison Peters</i>
+        
+    </div>
+
+<!-- 
 
         
         <div class="titelei">
             
+              
+              
+            <i itemprop="author">Alison Peters</i> 
             
-            
-            <i itemprop="author">Alison Peters</i>
             
             
         </div>
-        
+ -->
 
 
 
@@ -214,7 +219,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-16</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-17</a>)</p>
 
 </footer>
       </div>

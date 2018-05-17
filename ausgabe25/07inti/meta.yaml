@@ -8,9 +8,6 @@
 	<title>Frauen in bibliothekarischen Führungspositionen – Ein Gespräch im Mai 2014 - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
-	<!--
-	<meta name="description" content="> > > LIBREAS. Library Ideas # 25 Frauen in bibliothekarischen Führungspositionen – Ein Gespräch im Mai 2014 Maria-Inti Metzendorf &amp; Antje &hellip;">
-	 -->
 
 <!-- RDFa DC -->
 
@@ -146,21 +143,29 @@
         
         
 
+        <div class="titelei">
+        
+        <i itemprop="author">Maria-Inti Metzendorf, Antje Kellersohn</i>
+        
+    </div>
+
+<!-- 
 
         
         <div class="titelei">
             
+              
+              
+            <i itemprop="author">Maria-Inti Metzendorf</i> 
             
             
-            <i itemprop="author">Maria-Inti Metzendorf</i>
+               
+            </i><i itemprop="author">Antje Kellersohn</i>
             
-            
-            
-            <i>&amp;</i> <i itemprop="author">Antje Kellersohn</i>
             
             
         </div>
-        
+ -->
 
 
 
@@ -220,7 +225,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-16</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-17</a>)</p>
 
 </footer>
       </div>

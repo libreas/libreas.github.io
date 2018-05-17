@@ -8,9 +8,6 @@
 	<title>Spurensuche: Bibliothekarinnen, Berufsgeschichte, Sprache in Nachrufen. Ein Dialog - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
-	<!--
-	<meta name="description" content="> > > LIBREAS. Library Ideas # 25 Annotate via hypothes.is Download PDF @ edoc HU Berlin urn:nbn:de:kobv:11-100219329 Spurensuche: Bibliothekarinnen &hellip;">
-	 -->
 
 <!-- RDFa DC -->
 
@@ -152,21 +149,29 @@
         
         
 
+        <div class="titelei">
+        
+        <i itemprop="author">Heike Stadler, Karsten Schuldt</i>
+        
+    </div>
+
+<!-- 
 
         
         <div class="titelei">
             
+              
+              
+            <i itemprop="author">Heike Stadler</i> 
             
             
-            <i itemprop="author">Heike Stadler</i>
+               
+            </i><i itemprop="author">Karsten Schuldt</i>
             
-            
-            
-            <i>&amp;</i> <i itemprop="author">Karsten Schuldt</i>
             
             
         </div>
-        
+ -->
 
 
 
@@ -226,7 +231,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-16</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-17</a>)</p>
 
 </footer>
       </div>

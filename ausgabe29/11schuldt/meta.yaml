@@ -8,9 +8,6 @@
 	<title>Textarbeit und nervöses Pochen darauf, dass sich alles ändern wird. Muss. Rezension zu: Stefan Alker ; Achim Hölter (Hrsg.). Literaturwissenschaft und Bibliotheken. (Bibliothek im Kontext; 2) Wien: Vienna University Press, 2015. 30.00 €. (Auch als Open Access http://doi.org/10.14220/9783737004541) - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
-	<!--
-	<meta name="description" content="> > > LIBREAS. Library Ideas # 29 Annotate via hypothes.is Download PDF @ edoc HU Berlin urn:nbn:de:kobv:11-100238216 Textarbeit und nervöses Pochen &hellip;">
-	 -->
 
 <!-- RDFa DC -->
 
@@ -148,17 +145,25 @@
         
         
 
+        <div class="titelei">
+        
+        <i itemprop="author">Karsten Schuldt</i>
+        
+    </div>
+
+<!-- 
 
         
         <div class="titelei">
             
+              
+              
+            <i itemprop="author">Karsten Schuldt</i> 
             
-            
-            <i itemprop="author">Karsten Schuldt</i>
             
             
         </div>
-        
+ -->
 
 
 
@@ -214,7 +219,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-16</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-17</a>)</p>
 
 </footer>
       </div>

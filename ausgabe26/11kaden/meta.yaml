@@ -8,9 +8,6 @@
 	<title>Konzepte für den Gegenwartsdiskurs. Heute: Linguistic Capitalism. Rezension zu: Frederic Kaplan (2014) Linguistic Capitalism and Algorithmic Mediation. In: Representations, Vol. 127, No. 1 (Summer 2014), S. 57-63 &amp; Thomas McCarthy, Simon Critchley (2014) Declaration on Digital Capitalism. In: Artforum International. October 2014, S. 254-259 - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
-	<!--
-	<meta name="description" content="> > > LIBREAS. Library Ideas # 26 Annotate via hypothes.is Download PDF @ edoc HU Berlin urn:nbn:de:kobv:11-100222668 Konzepte für den &hellip;">
-	 -->
 
 <!-- RDFa DC -->
 
@@ -149,17 +146,25 @@
         
         
 
+        <div class="titelei">
+        
+        <i itemprop="author">Ben Kaden</i>
+        
+    </div>
+
+<!-- 
 
         
         <div class="titelei">
             
+              
+              
+            <i itemprop="author">Ben Kaden</i> 
             
-            
-            <i itemprop="author">Ben Kaden</i>
             
             
         </div>
-        
+ -->
 
 
 
@@ -215,7 +220,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-16</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2018-05-17</a>)</p>
 
 </footer>
       </div>
