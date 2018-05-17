@@ -18,6 +18,8 @@ eigentliche Ziel einer Bibliothek ist nicht die Lektüre selbst. Sondern
 es sind die vielfältigen möglichen Lektüren. Je mehr, je mannigfaltiger,
 desto besser. Die Bibliothek symbolisiert Möglichkeit.
 
+![Obergeschoss](img/image_1.jpg)
+
 Der Bestand der Stadtbibliothek Eisenhüttenstadt ist, wie jeder
 Bibliotheksbestand, eine Repräsentation solcher Möglichkeiten. Für die
 Kommunalbürokratie ist er freilich zu groß. Diese fragt nämlich
@@ -84,6 +86,8 @@ Eisenhüttenstadt nicht finden. Und vermutlich auch in anderen Städten
 kaum. Sie belegt die oberen beiden Etagen des an der Haupteinkaufsstraße
 gelegenen ehemaligen Textilkaufhauses.
 
+![Bühne](img/image_2.jpg)
+
 Im obersten Stockwerk befand sich vor 1989 der so genannten Club der
 Intelligenz, also ein Veranstaltungszentrum, das vermutlich regen
 Gebrauch von der üppigen Dachterrasse machte, einem hervorragenden
@@ -115,6 +119,8 @@ Disposition, ein Alleinstellungsmerkmal, das die Stadt aktuell nicht
 einmal etwas kostet, weil der Vermieter des Hauses versteht, dass ein
 Auszug der Bibliothek teurer ist, als ihr ein Geschoss quasi gratis zu
 überlassen.
+
+![Kunst im Bau](img/image_3.jpg)
 
 Warum die Stadtverwaltung also derart vehement darauf pocht, dass die
 Zahl der Medieneinheiten reduziert werden, von aktuell 44.000 auf
@@ -154,6 +160,8 @@ eingelöst wird, steht auf einem anderen Blatt. Wie gesagt: Die
 Bibliothek symbolisiert Möglichkeit. Das allein besitzt bereits für eine
 Stadt und ihre Gesellschaft einen erheblichen Wert.
 
+![Lesungsspuren](img/image_4.jpg)
+
 Das von der gegenüberliegenden Straßenseite in die Bibliothek
 hineinleuchtende Rathaus sendet dahingehend allerdings mitunter
 gemischte Signale. Der neue Bürgermeister hatte sich im Wahlkampf auf
@@ -183,6 +191,8 @@ oft nicht. Aber der Wert einer solchen Institution lässt sich naturgemäß
 niemals exakt bestimmen. Wie gesagt: Eine Bibliothek verkörpert nicht
 Gewissheit, sondern Möglichkeit.
 
+![Autoren](img/image_5.jpg)
+
 Ursprüngliches Ziel meines Ausflugs war, die fünf Fragen des
 LIBREAS-Aufrufes abzuarbeiten. Aber jedes Gespräch steuerte automatisch
 auf eine Sorge und einen Wunsch zurück. Die Menschen sorgen sich um die
@@ -208,6 +218,8 @@ man, dass man diesen Stand und diesen Standort auch in fünf oder zehn
 Jahren noch sicher hat, könnte man mit den vorhandenen Mitteln deutlich
 zielgerichteter arbeiten, planen, Angebote für die Nutzer\*innen und die
 Stadtbevölkerung schaffen. Die Menschen der Stadt sind ihre Möglichkeit.
+
+![Kunstbibliothek](img/image_6.jpg)
 
 Ungewöhnlich ist diese Bestandsaufnahme nach dem Ortstermin nun
 keinesfalls. Vermutlich entsprechen die Wünsche ebenso dem, was viele
