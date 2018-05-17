@@ -40,6 +40,9 @@ layout: default
 {% elsif page.issue == "32" %}
 <strong> > > > <a href="/ausgabe32/inhalt/">{{ page.journal }} # {{ page.issue}}</a></strong> <br><br>
 </div>
+{% elsif page.issue == "33" %}
+<strong> > > > <a href="/ausgabe33/inhalt/">{{ page.journal }} # {{ page.issue}}</a></strong> <br><br>
+</div>
 
 {% else %}
 <strong> > > > <a href="inhalt.htm">{{ page.journal }} # {{ page.issue}}</a></strong> <br><br>
@@ -73,6 +76,13 @@ layout: default
         {% endif %}
         {% endif %}
 
+        <div class="titelei">
+        {% if page.contributor  %}
+        <i itemprop="author">{{ page.contributor | join: ', ' }}</i>
+        {% endif %}
+    </div>
+
+<!-- 
 
         {% assign authorCount = page.contributor | size %}
         <div class="titelei">
@@ -81,17 +91,18 @@ layout: default
             {% elsif authorCount == 1 %}
             {{ page.contributor | first }}
             {% else %}
-            {% for author in page.contributor %}
-            {% if forloop.first %}
-            <i itemprop="author">{{ author }}</i>
-            {% elsif forloop.last %}
-            <i>&amp;</i> <i itemprop="author">{{ author }}</i>
+              {% for author in page.contributor %}
+              {% if forloop.first %}
+            <i itemprop="author">{{ author }}</i> 
+            {% elsif forloop.last %} 
+            </i><i itemprop="author">{{ author }}</i>
             {% else %}
-            <i>,</i> <i itemprop="author">{{ author }}</i>
+            <i itemprop="author">{{ author | split: ", " }}</i>
             {% endif %}
             {% endfor %}
+            {% endif %}
         </div>
-        {% endif %}
+ -->
 
 
 
