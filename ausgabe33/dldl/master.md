@@ -37,13 +37,6 @@ Button (<https://openaccessbutton.org/>) zu nutzen oder auf
 Twitter mit \#icanhazpdf (<https://twitter.com/hashtag/icanhazpdf?src=hash>)
 um Hilfe bei der legalen Dokumentenbeschaffung zu bitten.
 
-Hauptthemen in der bibliothekswissenschaftlichen Literatur der letzten
-Monate waren vor allem die Suche nach Gott in der Literatur und die
-Diskussion zu disruptiven Formen des Metadatenmanagement. Überschattet
-wurden alle Diskussionen aber vom Eklat auf dem Deutschen
-Bibliothekstag, über den allerdings schon anderweitig hinreichend
-berichtet wurde. Es sollte klar sein, auf welcher Seite die LIBREAS in
-dieser Angelegenheit steht!
 
 ### Artikel und Zeitschriftenausgaben
 

@@ -578,7 +578,7 @@ anzupassenden Prioritäten?!
 
 ### Telefonbücher und noch viel mehr: Die Bibliothek des Museums für Kommunikation
 
-Claudia Loest
+*Claudia Loest*
 
 Die Bibliothek im Museum für Kommunikation Berlin[^7] -- heute eine der
 beiden Bibliotheken der Museumsstiftung Post und Telekommunikation,
@@ -1033,7 +1033,7 @@ Uhr. Rund 50 Buchungsvorgänge und 20 Tickets gab es heute.
 ![Blick in die Bibliothek](img/SAM_1436.JPG)
 
 
-### Vom kindlichen Spracherwerb bis zur Erwerbung von Büchern: Die Bibliothek des Leibniz-Zentrums Allgemeine Sprachwissenschaf
+### Vom kindlichen Spracherwerb bis zur Erwerbung von Büchern: Die Bibliothek des Leibniz-Zentrums Allgemeine Sprachwissenschaft
 
 *Christina Beckmann*
 
@@ -1227,7 +1227,7 @@ einem zufriedenen Gefühl schließe ich die geöffneten Programme am PC.
 
 ### Mehrgleisig bei Wind und Wetter: Technische Bibliothek Bombardier Transportation
 
-von Ute Czerwinski
+*Ute Czerwinski*
 
 Die Technische Bibliothek am Standort Hennigsdorf des
 Schienenfahrzeugunternehmens Bombardier Transportation (BT)[^14] besteht

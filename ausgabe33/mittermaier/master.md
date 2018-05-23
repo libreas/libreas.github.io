@@ -56,7 +56,7 @@ es außer Frage, dass ebenso wenig wie WissenschaftlerInnen heute für das
 Lesen einzelner Artikel selber zahlen, diese nach der Transformation zu
 Open Access selbst für das Publizieren aufkommen müssen. Ganz im
 Gegenteil beweisen gerade die großen Initiativen wie DEAL oder
-alternative Modelle wie arXiv und SCOAP,³ dass es auch künftig die
+alternative Modelle wie arXiv und SCOAP³ dass es auch künftig die
 Bibliotheken sein sollen und werden, die hier für die
 WissenschaftlerInnen die Publikationskosten tragen. Somit entfällt auch
 das Argument, dass *"eine Verschiebung von rein fachlichen Argumenten
