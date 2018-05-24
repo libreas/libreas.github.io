@@ -254,6 +254,10 @@ vielerlei Hinsicht eine außerordentliche Möglichkeit.
 
 (Berlin, Februar 2018)
 
+### Erratum
+
+Im Beitrag heißt es, dass die Stadtverwaltung auf einer Bestandsreduzierung besteht. Dies ist nicht korrekt. Richtig ist, dass sich ein von der Stadtverordnetenversammlung verabschiedetes Kulturstättenkonzept für eine Reduzierung des Bestandes ausspricht. (24. Mai 2018)
+
 [^1]: <https://www.moz.de/artikel-ansicht/dg/0/1/1633265/>
 
 [^2]: Vgl.
