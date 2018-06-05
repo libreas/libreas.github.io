@@ -29,7 +29,7 @@ Eine der ersten Aufgaben unseres neuen Berlin/Brandenburger
 Arbeitskreises nach dem wechselseitigen Kennenlernen unserer
 Einrichtungen bestand darin, sich mit den Inhalten dieser Philosophie
 vertraut zu machen. Unter der Leitung von Frau Morgenstern übersetzten
-einige unserer Mitglieder\_innen zum Beispiel wichtige
+einige unserer Mitglieder zum Beispiel wichtige
 OPL-Publikationen. Damit gab es weitere Checklisten und Praxisbeispiele
 als Orientierungshilfe für den Betrieb von OPLs in deutscher Sprache.
 Fleißig tauschten wir den OPL-Newsletter aus den USA untereinander.
@@ -50,7 +50,7 @@ beschreiben, sondern diese auch mit dem fremden Blick der Fotokamera und
 der persönlichen Sicht der Fotografierenden doppelt gespiegelt werden.
 
 Nun -- zu unserem 20. Jahrestag -- legen wir mit einem kollektiven
-Tagebuch aus dem Arbeitsalltag von neun OPLs unseres Arbeitskreises ein
+Tagebuch aus dem Arbeitsalltag von zehn OPLs unseres Arbeitskreises ein
 wieder anderes Gemeinschaftsprojekt vor. Auch hier wird deutlich: Wir
 sind verschieden. Gerade das Spezielle ist das Primäre. Und gerade das
 Spezielle wird zum verbindenden Element, denn alle arbeiten wir in einer
@@ -168,7 +168,7 @@ umfangreichste Büchersammlung rund um den Künstler Josef Hegenbarth
 Spezialgebiete dieser kleinen Studienbibliothek sind unter anderem die
 verschiedensten Facetten und Beispiele der Illustrationskunst,
 graphische Techniken sowie Kunst der DDR. Besucher\*innen steht die
-Präsenz- und Forschungsbibliothek während der Ausstellung von 12 bis 18
+Präsenz- und Forschungsbibliothek während der Ausstellung von 16 bis 18
 Uhr oder nach vorheriger Anmeldung zur Verfügung.
 
 ![Die Bibliothek der Hegenbarth Sammlung (Fotografien: Katja Schöppe-Carstensen)](img/Schoeppe_1.jpg) 
@@ -358,7 +358,7 @@ Fachliteratur und Zeitschriften auch Noten, CDs und DVDs. Die Services
 (Nutzung, Ausleihe und Beratung) und Workshops stehen nur den
 Angehörigen der drei SRH Hochschulen Berlin zur Verfügung.
 
-![Die hdpk-Bibliothek (Foto: Pamela Schmidt)](img/Schmidt_1.JPG)
+![Die hdpk-Bibliothek (Foto: Pamela Schmidt)](img/Schmidt_1.jpg)
 
 
 **25.10.2017** Heute bin ich wieder "Gastdozentin" im Seminar zur
@@ -413,7 +413,7 @@ dann hierher, wenn ich eigentlich krank bin. Heute geht es aber nicht
 anders, also: Bescheid sagen, auf Facebook mein "Krankbild" posten und
 hoffen, dass es morgen dann doch wieder geht.
 
-![(ranksein ist doof (Screenshot: Pamela Schmidt unter Verwendung eines Fotos von Pixabay/congerdesign)](img/Schmidt_2_b.jpg)
+![Kranksein ist doof (Screenshot: Pamela Schmidt unter Verwendung eines Fotos von Pixabay/congerdesign)](img/Schmidt_2_b.jpg)
 
 **23.11.2017** Der jährliche Besuch meiner Buchhandelspartnerin steht
 an. Das heißt: vorher endlich das Altpapier wegbringen, Kaffee kochen
@@ -1004,7 +1004,7 @@ dieser Frage ergibt sich dann gleichzeitig eine Antwort auf eine andere
 Frage, die sich mir vor zwei Wochen stellte. Wie doch die Dinge auf
 ungeahnte Weise zusammenhängen!
 
-![Lehrer mit Arbeitsgruppen beim Unterricht in der Bibliothek 2018](img/LV_2018_1.jpg)
+![Lehrer mit Arbeitsgruppen beim Unterricht in der Bibliothek 2018 (Foto: Monika Ziemssen Wiemann)](img/LV_2018_1.jpg)
 
 **15:00 Uhr:** Nach einer kurzen Kaffeepause -- eine Klasse aus der
 Abteilung Ernährung und Versorgung hat mir ein leckeres Dessert
@@ -1030,7 +1030,7 @@ Druckerproblem. Außerdem ist noch etwas zum WLAN zu besprechen.
 Noch ein Blick in den Kalender für morgen, und dann ist Feierabend: 17
 Uhr. Rund 50 Buchungsvorgänge und 20 Tickets gab es heute.
 
-![Blick in die Bibliothek](img/SAM_1436.JPG)
+![Blick in die Bibliothek (Foto: Monika Ziemssen Wiemann)](img/SAM_1436.jpg)
 
 
 ### Vom kindlichen Spracherwerb bis zur Erwerbung von Büchern: Die Bibliothek des Leibniz-Zentrums Allgemeine Sprachwissenschaft
@@ -1081,12 +1081,8 @@ dieser Artikel kostet offenbar etwas! Erfreulicherweise hilft mir aber
 eine einfache Google-Suche weiter, unter deren Treffern auch ein
 Fachrepositorium gelistet ist. Tatsächlich bietet diese Quelle nicht nur
 den Literaturnachweis, sondern auch den Zugriff auf den Volltext. Ich
-bin angenehm überrascht und zweifle kurz an der
-
-Rechtmäßigkeit meines Fundes, aber nach Sichtung einiger Angaben kann
-ich davon ausgehen, dass der Artikel ganz legal frei zur Verfügung
-gestellt wurde, da das Zweitveröffentlichungsrecht gemäß § 38 Abs. 4
-UrhG erfüllt ist.
+bin angenehm überrascht und zweifle kurz an der Rechtmäßigkeit meines Fundes, aber nach Sichtung einiger Angaben kann ich davon ausgehen, dass der Artikel ganz legal frei zur Verfügung
+gestellt wurde, da das Zweitveröffentlichungsrecht gemäß § 38 Abs. 4 UrhG erfüllt ist.
 
 Als ich den nachgefragten Zeitschriftenartikel gefunden habe, erinnere
 ich mich an den Tag vor etwa zwei Monaten, an dem Elsevier
@@ -1406,7 +1402,7 @@ unserer Besucherinnen und Besucher nun für Atmosphäre im Lesesaal sorgt.
 Also muss ich die Kuratorin der Möbelsammlung und die
 Metallrestauratorin auch noch gleich mit informieren.
 
-![Antiker Bücherschrank im Lesesaal (Foto: Iris Schewe; Stadtmuseum Berlin / Bibliothek)](img/Schewe_2.JPG)
+![Antiker Bücherschrank im Lesesaal (Foto: Iris Schewe; Stadtmuseum Berlin / Bibliothek)](img/Schewe_2.jpg)
 
 
 Auf dem Rückweg in mein Büro höre ich entnervtes Stöhnen aus dem
@@ -1537,15 +1533,14 @@ Auch an diesem Beispiel zeigt sich, wie wichtig die Schlagwortvergabe
 ist und wie wertvoll die speziellen Kataloge der Frauen- und
 Geschlechterforschung für eine gezielte Suche sind.
 
-**06.12.207 Weblog des Women's Information Network Europe**[^26]**.
+**06.12.2017 Weblog des Women's Information Network Europe**[^26]**.
 GenderOpen is online!**[^27]
 
 by Gender Library HU[^28]
 
 ![Logo](img/Aleksander_2.jpg)
 
-"This week we celebrated the launch of the worldwide first repository
-for gender studies and gender research [repository for gender studies
+"This week we celebrated the launch of the worldwide first [repository for gender studies
 and gender research](http://www.genderopen.de/)[^29]. Based on the
 collaboration of the gender studies centres of the three universities in
 Berlin we started our repository according to schedule with the first
