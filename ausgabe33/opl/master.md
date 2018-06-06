@@ -1072,7 +1072,7 @@ inzwischen Hybridlösungen an, die allerdings nicht den Prinzipien des
 Fair Open Access entsprechen, denn der freie Zugang zu einzelnen
 Beiträgen bildet nur die Ausnahme und die bereitgestellte Information
 wird bei hybriden Zeitschriften zweimal bezahlt: Zum einen wird das Abo
-aus dem Bibliotheksetat und zum anderen mussten die Autor\_innen oder
+aus dem Bibliotheksetat gezahlt und zum anderen mussten die Autor\_innen oder
 ihre Institutionen bereits vorher für Article Processing Charges (APC)
 aufkommen. Im vorliegenden Fall handelt es sich aber um ein klassisches
 Modell: Wenn ich das Journal nicht abonnieren möchte, kaufe ich entweder
