@@ -1,0 +1,224 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage[babel]{csquotes}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+%URLs hart brechen
+\makeatletter 
+\g@addto@macro\UrlBreaks{ 
+  \do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j 
+  \do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t 
+  \do\u\do\v\do\w\do\x\do\y\do\z\do\&\do\1\do\2\do\3 
+  \do\4\do\5\do\6\do\7\do\8\do\9\do\0} 
+% \def\do@url@hyp{\do\-} 
+\makeatother 
+
+%meta
+%meta
+
+\fancyhead[L]{V. Nagel\\ %author
+LIBREAS. Library Ideas, 34 (2018). % journal, issue, volume.
+\href{http://nbn-resolving.de/}
+{}} % urn 
+% recommended use
+%\href{http://nbn-resolving.de/}{\color{black}{urn:nbn:de...}}
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/3.0/}{\color{black}Creative Commons BY 3.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{Feel the Elements}}% title
+\subtitle{Im Rahmen des 11. BibCamps 2018 in Hamburg wurden neue Ideen rund um das
+Bibliothekswesen gesät und weiterentwickelt}
+\author{Vanessa Nagel} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={Feel the Elements. Im Rahmen des 11. BibCamps 2018 in Hamburg wurden neue Ideen rund um das
+Bibliothekswesen gesät und weiterentwickelt},
+      pdfauthor={Vanessa Nagel},
+      pdfcopyright={CC BY 3.0 Unported},
+      pdfsubject={LIBREAS. Library Ideas, 34 (2018).},
+      pdfkeywords={Bibliothekswissenschaft, Bibcamp, Studium, Anwendung},
+      pdflicenseurl={https://creativecommons.org/licenses/by/3.0/},
+      pdfcontacturl={http://libreas.eu},
+      baseurl={http://libreas.eu},
+      pdflang={de},
+      pdfmetalang={de}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+
+%body
+Unter dem Motto \enquote{Feel The Elements} fand am 13. und 14. Juli
+2018 das 11. BibCamp statt, ein BarCamp für Bibliothekar*innen im
+deutschsprachigen Raum. Die Hochschule für Angewandte Wissenschaften in
+Hamburg präsentierte nach 2011 bereits zum zweiten Mal das BibCamp am
+Kunst- und Mediencampus. Organisiert wurde die Veranstaltung von
+Studierenden der Studiengänge Bibliotheks- und Informationsmanagement
+sowie Medien und Information im Rahmen eines Wahlpflichtseminars unter
+der Leitung von Dipl.-Bibl. Nicole Filbrandt. Parallel zum BibCamp fand
+als besonderes Plus der alljährliche Rundgang Finkenau statt, bei dem
+Abschluss- und Studienarbeiten aller Studiengänge der Fakultät Design,
+Medien und Information präsentiert wurden und von den Teilnehmer*innen
+des BibCamps abends besucht werden konnten.
+
+In 13 verschiedenen Sessions wurde über Themen wie interne Kommunikation
+und vernetztes Arbeiten sowie über Team- und Communitybuilding intensiv
+diskutiert. Auch Wissensorganisation, Öffentlichkeitsarbeit und das
+Berufsbild im Allgemeinen sowie die Zukunft der Bibliothek wurden
+thematisiert. Darüber hinaus wurde über Projektmanagement gesprochen und
+Erfolgsfaktoren für Projekte aus den Erfahrungen der Teilnehmenden
+zusammengetragen. Ein hitzig diskutiertes und sich durch fast alle
+Sessions durchziehendes Thema war zudem die Datenschutz-Grundverordnung
+(DSGVO) und ihre Auswirkungen auf die Berufspraxis.
+
+Besonders das Thema vernetztes Arbeiten anhand der Methode
+\enquote{Working Out Loud} fand unter den Teilnehmer*innen großen
+Anklang und wurde spontan an beiden Veranstaltungstagen als Session
+angeboten. Die Methode basiert auf einem 12-Wochen-Programm, dem
+sogenannten Circle Guide, und soll in kleinen Schritten ein soziales und
+interdisziplinäres Netzwerk aufbauen. Dabei hat jeder ein eigenes Ziel,
+auf das er individuell hinarbeitet, erhält Unterstützung durch den
+Circle und nutzt so das gesamte Potenzial der Gemeinschaft. Dank
+Querverbindungen und Rückmeldungen wird die Arbeit verbessert und die
+Veröffentlichung von Zwischenergebnissen schafft eine Transparenz der
+Arbeit. Die Referentinnen konnten das Thema -- auch durch eine
+praktische Übung -- gut vermitteln, da sie bereits eigene Circle Guides
+entwickelt haben, die für den Einsatz im Studium geeignet sind. Eine
+Veröffentlichung ihrer Circle Guides ist geplant; sie werden
+gegebenenfalls über den Hochschulserver Hannover zur Verfügung gestellt.
+
+Ein weiteres beliebtes Thema unter den Teilnehmenden war das
+\enquote{Communitybuilding mit Hintern und Schenkeln}, eine Form des
+Team- und Communitybuildings durch Stadtradeln. Teilnehmende sind dabei
+nicht nur die Belegschaft, sondern auch Leser*innen der Bibliothek. Das
+Marketing erfolgt hierbei durch Mund-zu-Mund-Propaganda und vor allem
+die Leser*innen tragen dazu bei -- unter anderem in sozialen Netzwerken.
+Die Belegschaft und die Leser*innen können so ins Gespräch kommen und
+Kontakte knüpfen. Zudem wird die Bibliothek im Stadtbild und in den
+Medien sichtbarer. Das Stadtradeln wird von der Strava-App begleitet, so
+dass jede*r Teilnehmende immer sehen kann, wer wie viel geradelt ist. In
+Krefeld wird dieses Konzept bereits erfolgreich durchgeführt.
+
+Auch das Book Bike trägt, im Rahmen des Leseförderungskonzeptes als
+klassische Außenbibliotheksarbeit, zur Öffentlichkeitsarbeit bei. Bei
+dem Book Bike handelt sich um ein Lastenfahrrad, in dem neben Büchern
+auch Bastel-Equipment, Stühle und ein Sonnenschirm untergebracht sind.
+Das Book Bike kann für ein paar Stunden an einen Ort bestellt und dort
+verwendet werden. Die Idee stammt ursprünglich aus einem Jugendzentrum
+in Dortmund. Derzeit befindet sich das Book Bike noch in der Testphase,
+wobei überprüft wird, ob es sich lohnt, Sponsoren zu gewinnen um die
+Idee weiter auszubauen. Insgesamt beteiligen sich bereits fünf Städte in
+NRW, unter anderem hat bereits die Mediothek in Krefeld das Konzept
+erfolgreich angewendet.
+
+Aufgrund der Bildproduktion für die sozialen Netzwerke entbrannte
+speziell in dieser Session eine Diskussion über die DSGVO. Bei der
+Bildproduktion einer solchen Veranstaltung muss stets eine
+DSGVO-konforme Einverständniserklärung vorhanden sein, die die
+Teilnehmer*innen unterzeichnen müssen. Dies ist zwar mit einem gewissen
+Aufwand verbunden, kann allerdings auch die Glaubwürdigkeit der
+Bibliothek erhöhen. Durch einen korrekten Umgang mit der
+Datenschutz-Grundverordnung wird gezeigt, dass man als positives
+Beispiel \enquote{durch den digitalen Wandel} führt.
+
+Abschließend lässt sich festhalten, dass auch in diesem Jahr das BibCamp
+wieder für einen gelungenen Erfahrungsaustausch innerhalb der Community
+sorgte. Viele Diskussionen und Gespräche rund um das Bibliothekswesen
+sowie die Begegnung der Teilnehmer*innen auf Augenhöhe schufen eine
+angenehme Atmosphäre. Dazu hat sicherlich auch die rege Beteiligung auf
+Twitter und anderen Social Media-Kanälen beigetragen. Neu in diesem
+Jahr: Vereinzelte Sessions wurden erstmalig mit einem Livestream über
+den aktuell eingerichteten Instagram-Account begleitet. Wer jetzt Lust
+bekommen hat: Das nächste BibCamp findet am 15. und 16. November 2019 an
+der Technischen Hochschule in Köln statt.
+
+%autor
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\textbf{Vanessa Nagel}, geboren 1989 in Hamburg, studiert Bibliotheks-
+und Informationsmanagement (B.A.) im fünften Semester am Department
+Information der HAW Hamburg. Ihre thematischen Schwerpunkte liegen im
+Bereich Öffentliche Bibliotheken, Social Media und IT.
+
+\end{document}

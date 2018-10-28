@@ -1,0 +1,261 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage[babel]{csquotes}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+%URLs hart brechen
+\makeatletter 
+\g@addto@macro\UrlBreaks{ 
+  \do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j 
+  \do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t 
+  \do\u\do\v\do\w\do\x\do\y\do\z\do\&\do\1\do\2\do\3 
+  \do\4\do\5\do\6\do\7\do\8\do\9\do\0} 
+% \def\do@url@hyp{\do\-} 
+\makeatother 
+
+%meta
+%meta
+
+\fancyhead[L]{K. Schuldt, B. Kaden\\ %author
+LIBREAS. Library Ideas, 34 (2018). % journal, issue, volume.
+\href{http://nbn-resolving.de/}
+{}} % urn 
+% recommended use
+%\href{http://nbn-resolving.de/}{\color{black}{urn:nbn:de...}}
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/3.0/}{\color{black}Creative Commons BY 3.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{Anmerkungen zur Geschichte der Frage: „Was ist Bibliothekswissenschaft“}}% title
+\subtitle{Einführung in die historische Abteilung}
+\author{Karsten Schuldt, Ben Kaden} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={Anmerkungen zur Geschichte der Frage: „Was ist Bibliothekswissenschaft“ : Einführung in die historische Abteilung},
+      pdfauthor={Karsten Schuldt, Ben Kaden},
+      pdfcopyright={CC BY 3.0 Unported},
+      pdfsubject={LIBREAS. Library Ideas, 34 (2018).},
+      pdfkeywords={Bibliothekswissenschaft, Geschichte, Institut für Bibliothekswissenschaft, Humboldt-Universität zu Berlin},
+      pdflicenseurl={https://creativecommons.org/licenses/by/3.0/},
+      pdfcontacturl={http://libreas.eu},
+      baseurl={http://libreas.eu},
+      pdflang={de},
+      pdfmetalang={de}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+
+%body
+Als 1928 das Bibliothekswissenschaftliche Institut an der Berliner
+Universität eingerichtet und dafür der Lehrstuhl für
+Bibliothekhilfswissenschaften von der Universität Göttingen verlegt
+wurde, geschah dies nicht ohne Kontext. Vielmehr gab es in den 1920er
+und 1930er Jahren im deutschsprachigen Raum eine relativ intensive
+Debatte darüber, (a) warum eine Ausbildung des Personals zumindest für
+die Wissenschaftlichen Bibliotheken an Universitäten erfolgen und (b)
+was der Inhalt einer Bibliothekswissenschaft sein sollte. Preussen ging
+mit der Einrichtung des Instituts in Berlin voran -- genauso wie zuvor
+mit der Einrichtung der ersten ordentlichen Professur für
+Bibliothekswissenschaft in Göttingen, die Karl Dziatzko bekleidete. In
+der Schweiz folgte die Universität Bern 1935 diesem Vorbild. Die darum
+kreisende Debatte scheint heute vergessen zu sein, vermutlich jedoch
+nicht, weil die damals gestellten Fragen geklärt wären.
+
+Wir republizieren hier drei Beiträge dieser Debatte.\footnote{Gerne
+  erwähnen wir, dass wir dazu auf Transkribus zurückgegriffen und sehr
+  von der Arbeit, die hinter diesem Projekt steht, profitiert haben.
+  (\url{https://transkribus.eu/Transkribus/})} Der Beitrag George
+Leidingers von 1928 postuliert eine Bibliothekswissenschaft, die
+explizit auf die Arbeit in Wissenschaftlichen Bibliotheken ausgerichtet
+sein und die vier Abteilungen (1) Buchkunde, (2) Literaturkunde, (3) die
+Lehre vom Bibliothekswesen der Vergangenheit (Geschichte des
+Bibliothekswesens) und (4) die Lehre vom Bibliothekswesen der Gegenwart
+umfassen soll. Sichtbar wird in diesem Beitrag, dass das, was später --
+sowie auch heute noch -- als Bibliotheksmanagement den Hauptteil der
+Lehre im Bibliothekswesen umfasst, zur Gründungszeit des Instituts in
+Berlin stark in Geschichte und Buchkunde verankert war. Bibliotheken zu
+leiten und zu entwickeln sei nur möglich, wenn auch Ursprung und
+Entwicklung der Bibliotheken, der Literatur und des Buches und zwar von
+den griechischen Wurzelen beginnend, bekannt seien. Diese Position
+vertritt auch Fritz Milkau, dessen Einführung in sein einflussreiches
+\enquote{Handbuch der Bibliothekswissenschaft, Band 1} (von insgesamt
+drei Bänden) wir neu publizieren. Was Milkau ergänzt, ist eine
+Geschichte der Diskussion zur Frage, was Inhalt der
+Bibliothekswissenschaft sein soll. Er bemerkt, dass auch der Begriff
+\enquote{Wissenschaft} eine Geschichte habe, in deren Kern die
+Bedeutungsverschiebung von \enquote{alles Wissen zu einem Thema} hin zu
+\enquote{systematisches Wissen zu einem Thema} steht. Diese Bemerkung
+führt uns zurück zur Kardinalfrage, welche Bedeutung
+\enquote{Wissenschaft} in Bibliothekswissenschaft in der Gegenwart
+besitzt. Sind wir in ihr wieder zurückgekehrt zu einem sehr breiten,
+post-systematischen Verständnis von Wissenschaft? Wenn ja, ist das gut?
+
+Die Antrittsvorlesung von Hans Lutz in Bern (der leider kurz darauf
+verstarb) fasst die zeitgenössischen Diskussionen sehr gut zusammen.
+Zugleich war die Vorlesung auch als ein Programm seiner zukünftigen
+Professur gedacht. Die Publikation des Textes in der damals einzigen
+bibliothekarischen Zeitschrift der Schweiz sollte diese Systematik einer
+Bibliothekswissenschaft zudem dem Bibliothekswesen des Landes
+vorstellen. Auch Lutz betont eine Verankerung der
+Bibliothekswissenschaft in der Bibliotheks- und Literaturgeschichte,
+führt dies aber weiter zu konkreten Fragen wie dem Bibliotheksbau, der
+Katalogisierung und dem Benutzungsdienst.
+
+Sichtbar wird in den drei Texten, wie man zu der Zeit, als das Institut
+in Berlin eingerichtet wurde, davon ausging, dass gehobenes
+bibliothekarisches Personal ein umfassendes Wissen über
+Bibliotheksmanagement (wenn auch nicht unter diesem Namen), Bibliotheks-
+und Buchgeschichte und Literatur haben müsste und dass es Aufgabe einer
+Bibliothekswissenschaft sei, dieses Wissen systematisch zu erarbeiten
+und zu vermitteln und zwar immer aus dem konkreten Blickwinkel der
+Bibliothek. Dies ermöglicht auch, wie Leidinger ausführt, eine
+konkurrenzlose Kooexistenz mit anderen mehr oder weniger
+Medienwissenschaften wie eben der Buchkunde oder der aufblühenden
+Zeitungswissenschaft.
+
+Die Diskussion um die Frage, was Bibliothekswissenschaft ist und sein
+soll, scheint heute, 90 Jahre später, quasi nicht mehr stattzufinden.
+Sie brach aber nicht einfach ab oder wurde durch erfolgreiche
+Verankerung des Fachs im Wissenschaftsgefüge aufgehoben. Die Situation
+der Bibliothekswissenschaft blieb fast durchgängig prekär. Die
+Diskussion um ihren Sinn und Inhalt rückte gerade deshalb schubweise
+immer wieder neu und mit wenig nachhaltiger Klärung in den Vordergrund,
+zuletzt auch in Beiträgen der am IBI entstandenen Publikationen
+\emph{Bibliothekswissenschaft -- quo vadis?} (herausgegeben von Petra
+Hauke, München, 2005) sowie \emph{Vom Wandel der Wissensorganisation im
+Informationszeitalter} (herausgegeben von Petra Hauke und Konrad Umlauf,
+Bad Honnef, 2006). Auch zuvor zeigt der Blick in Publikationen wie das
+\enquote{Zentralblatt für Bibliothekswesen}, die \enquote{Zeitschrift
+für Bibliothekswesen und Bibliographie} und \enquote{Bibliothek.
+Forschung und Praxis}, dass die Frage bis in die frühen 1990er Jahre
+immer wieder aufgegriffen wurde. Ähnlich wie auch später die teils unter
+anderem am IBI mit harten Bandagen gefochtenen Diskussionen zur
+richtigen Definition des Verhältnisses von \enquote{Information} und
+\enquote{Wissen}, führten all diese Diskurse und Diskursversuche nie zu
+einer verbindlichen und anerkannten Selbstverortung und auch eine für
+Wissenschaften lange typische Bildung von Schulen ließ sich kaum
+ableiten. Wo sie geschah, geschah dies eher zufällig anhand konkreter
+Forschungs- und Arbeitsschwerpunkte. Leidingers Ansicht \enquote{die
+Pflege der Bibliothekswissenschaft ist in erster Linie eine
+Persönlichkeitsfrage} erwies sich als zutreffend. Aber nicht immer in
+der von ihm intendierten Weise.
+
+Die Ursache für die schwankende Stellung der Bibliothekswissenschaft
+liegt vermutlich erstens im Fach selbst, das mit dem Abschluss den
+Großteil der Absolventinnen und Absolventen in Praxisfelder und
+weitgehend aus der Wissenschaft selbst entlässt. Und zweitens an der
+geringen akademischen Integration sowohl was die Ressourcen als auch die
+Verortung im Kontext eines übergeordneten Wissenschaftsgefüges betrifft.
+Auch wenn das Berliner Institut einer Philosophischen Fakultät
+zugeordnet ist, herrscht keinesfalls Konsens, ob die Disziplin überhaupt
+zu den Geisteswissenschaften gezählt werden sollte. Die informatische
+Wende und die lange ausgeprägte Fokussierung auf das
+Bibliotheksmanagement haben zudem geisteswissenschaftliche und
+insbesondere historische Aspekte weitgehend aus den Curricula gedrängt.
+Dass das Fach lange Zeit auch stark von nicht genuin
+bibliothekswissenschaftlich ausgebildeten Quereinsteigern geprägt wurde,
+die oft entweder die Perspektive ihrer Herkunftsdisziplinen forcierten
+oder aber gerade darauf zu achten schienen, sie nicht zu integrieren --
+was ebenso zu blinden Flecken führte --, dürfte einer Konsolidierung des
+Selbstverständnisses dieses lange Zeit auch noch durch die Heterogenität
+von Bibliothek und Dokumentation zusätzlich diversifizierten Faches
+ebenfalls im Wege gestanden haben. Entsprechend verwundert es nicht,
+wenn die Frage, was eine Bibliothekswissenschaft ist beziehungsweise
+sein kann oder sein sollte, bis heute nur jeweils aus einer subjektiven
+Warte, aber nicht als allgemeiner Konsens beantwortet werden kann. Wir
+hoffen, mit der Republizierung der Texte aus der Wissenschaftsgeschichte
+des Fachs zu zeigen, dass eine solche Diskussion möglich ist und dass
+sie weiterhin (wieder) sinnvoll wäre.
+
+%autor
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\textbf{Ben Kaden} ist Bibliothekswissenschaftler und arbeitet an der
+Universitätsbibliothek der Humboldt-Universität zu Berlin.
+
+\textbf{Karsten Schuldt} (Chur / Berlin) ist Wissenschaftlicher
+Mitarbeiter am Schweizerischen Institut für Informationswissenschaft,
+HTW Chur.
+
+\end{document}

@@ -1,0 +1,362 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage[babel]{csquotes}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+%URLs hart brechen
+\makeatletter 
+\g@addto@macro\UrlBreaks{ 
+  \do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j 
+  \do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t 
+  \do\u\do\v\do\w\do\x\do\y\do\z\do\&\do\1\do\2\do\3 
+  \do\4\do\5\do\6\do\7\do\8\do\9\do\0} 
+% \def\do@url@hyp{\do\-} 
+\makeatother 
+
+%meta
+%meta
+
+\fancyhead[L]{S. Schneider\\ %author
+LIBREAS. Library Ideas, 34 (2018). % journal, issue, volume.
+\href{http://nbn-resolving.de/}
+{}} % urn 
+% recommended use
+%\href{http://nbn-resolving.de/}{\color{black}{urn:nbn:de...}}
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/3.0/}{\color{black}Creative Commons BY 3.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{Wie vielfältig kann und sollte Open Access sein?}}% title
+\subtitle{Bericht zu den Open-Access-Tagen 2018 in Graz}
+\author{Sophie Schneider} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={Wie vielfältig kann und sollte Open Access sein? Bericht zu den Open-Access-Tagen 2018 in Graz},
+      pdfauthor={Sophie Schneider},
+      pdfcopyright={CC BY 3.0 Unported},
+      pdfsubject={LIBREAS. Library Ideas, 34 (2018).},
+      pdfkeywords={Open Access, Tagungsbericht, DEAL},
+      pdflicenseurl={https://creativecommons.org/licenses/by/3.0/},
+      pdfcontacturl={http://libreas.eu},
+      baseurl={http://libreas.eu},
+      pdflang={de},
+      pdfmetalang={de}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+
+%body
+Das Motto \enquote{Vielfalt von Open Access} bildete den Rahmen für die
+diesjährigen 12. Open-Access-Tage vom 24. bis 26.09.2018 in Graz. Die
+Konferenz richtete sich dabei vor allem an Expert*innen aus dem Bereich
+Open Access (OA), \enquote{die sich mit den Möglichkeiten, Bedingungen
+und Perspektiven des wissenschaftlichen Publizierens befassen}\footnote{\url{https://open-access.net/AT-DE/community/open-access-tage/open-access-tage-2018-graz/}
+  (Abgerufen am 04.10.2018).}. Die Folien der Beiträge können in der
+Zenodo-Community \enquote{Open-Access-Tage 2018} abgerufen
+werden.\footnote{\url{https://zenodo.org/communities/oat2018/}
+  (Abgerufen am 04.10.2018).}
+
+Der langsam fortschreitende Transformationsprozess von Closed zu Open
+Access war ein zentraler Gegenstand der Open-Access-Tage 2018. Dieser
+gegenwärtig stattfindende Wandel hat eine stark zunehmende Facettierung
+zur Folge, welche verschiedenste Modelle zur Finanzierung, Publikation,
+Vermittlung und schlussendlich Durchsetzung von Open Access in
+Forschung, Politik und Gesellschaft beinhaltet. Zusammengefasst:
+\enquote{{[}...{]} vielfältige Strömungen fächern das Themenfeld Open
+Access zusehends auf}\footnote{Ebd.}. Einen Ursprung dieser Diversität
+könnten womöglich die beteiligten Akteure selbst darstellen:
+Entscheidungsträger aus Politik und Gesellschaft, Verlage, Bibliotheken
+und anderen Informationseinrichtungen sowie Wissenschaftlerinnen und
+Wissenschaftler verfolgen sehr unterschiedliche Ziele und für die
+Erreichung von Fortschritten in der gemeinsamen Schnittmenge ist eine
+gegenseitige Annäherung dieser Akteure und ihrer Ziele unabdingbar.
+
+Die Vielfalt von Open Access zeichnete sich daher auf den
+Open-Access-Tagen insbesondere in folgenden Bereichen ab:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Vielfalt von Wissenschaft als Ausgangslage
+\item
+  Vielfalt von existierenden Publikationsformaten
+\item
+  Vielfalt von Open Access Policies und Strategien
+\item
+  Vielfalt in der Finanzierung von Open Access und den daraus
+  hervorgehenden Publikationsmodellen
+\end{enumerate}
+
+\hypertarget{vielfalt-von-wissenschaft}{%
+\section{Vielfalt von
+Wissenschaft}\label{vielfalt-von-wissenschaft}}
+
+Open Access muss als fachübergreifendes Modell zur Publikation
+wissenschaftlicher Ergebnisse auch auf die diversen Ausgangslagen
+eingehen, etwa auf unterschiedliche Publikationskulturen in den
+naturwissenschaftlichen sowie geistes- und sozialwissenschaftlichen
+Bereichen. Neben fachspezifischen sollten in diesem Kontext auch
+gesellschaftliche und kulturelle Einflussfaktoren berücksichtigt werden.
+In Bezug auf Open Science, eines der Schwerpunktthemen der diesjährigen
+Open-Access-Tage, sollten solche Unterschiede in die entsprechenden
+Richtlinien für die Umsetzung einfließen, sodass die damit verbundenen
+visionären Vorstellungen nicht als solche stagnieren. In einem Vortrag
+wurde exemplarisch der \enquote{Matthew Effect in Open Science}
+\footnote{Ross-Hellauer, Tony, \& Wieser, Bernhard. (2018): The Matthew
+  Effect in Open Science. \url{https://doi.org/10.5281/zenodo.1441267}.}
+besprochen, bei dem es sich um ein ursprünglich von Robert K. Merton
+formuliertes Prinzip handelt, nach welchem der Erfolg eines Autors bzw.
+einer Autorin von umstrittenen Wertvorstellungen wie Prestige (zum
+Beispiel der Affiliation oder der Zeitschrift, in der publiziert wurde)
+sowie persönlichen Einstellungen und Eigenschaften abhängig sei. Die
+Referenten kritisierten, dass wenngleich neuartige Strömungen wie Open
+Science diese Unausgeglichenheit versuchen zu umgehen, die
+verschiedenartigen Voraussetzungen der Autor*innen, wie zum Beispiel der
+reine Zugang zum Internet oder die historisch bzw. gesellschaftlich
+geprägte Bevorzugung oder Benachteiligung einzelner Personen, auch bei
+Open Access und Open Science noch nicht in ausreichendem Maße bedacht
+werden.
+
+\hypertarget{vielfalt-von-publikationsformaten}{%
+\section{Vielfalt von
+Publikationsformaten}\label{vielfalt-von-publikationsformaten}}
+
+Bei Open Access stehen nicht mehr nur Zeitschriften und Bücher im
+Vordergrund, OA lässt sich inzwischen auf diverse Publikationsformate
+beziehen. Ein gutes Beispiel hierfür sind die Open Educational Resources
+(OER), welche ebenfalls im Fokus der 12. Open-Access-Tage standen. OER,
+das sind \enquote{jegliche Bildungsressourcen (einschließlich
+Lehrplänen, Kursmaterialien, Lehrbüchern, Streaming-Videos,
+Multimedia-Anwendungen, Podcasts sowie jegliches weitere Material,
+welches zu Lehr- und Lernzwecken entwickelt wurde), die Lehrenden und
+Lernenden frei zur Verfügung stehen, ohne dass diese für die Anwendung
+Nutzungs- oder Lizenzgebühren zahlen müssten}\footnote{Butcher, Neil
+  (2013), S. 6.}. Die vielfältigen Arten von Ressourcen, die als OER in
+Frage kommen, bedeuten gleichermaßen vielfältige Möglichkeiten der
+Entwicklung von und Arbeit mit solchen Ressourcen. Diese müssen aktuell
+noch viel kommuniziert und weiterentwickelt werden. In einer Session zum
+Projekt \enquote{Open Education Austria} (OEA) wurde insbesondere auf
+die Relevanz der Bekanntmachung von OER sowie die entsprechende
+Unterstützung Lehrender bei der Produktion und Bereitstellung solcher
+Ressourcen eingegangen. Sogenannte E-Producer*innen helfen im Rahmen von
+Open Education Austria zum Beispiel bei der Erstellung von
+Animationsvideos zu didaktischen Zwecken. Auch das Open Science Training
+Handbook\footnote{Vgl.
+  \url{https://open-science-training-handbook.gitbook.io/book/}
+  (Abgerufen am 04.10.2018).} wurde auf den Open-Access-Tagen
+vorgestellt. Dieses präsentiert sich nicht nur als eine idealtypisch
+kollaborativ entstandene, frei zugängliche und nachnutzbare Ressource,
+sondern fällt auch inhaltlich mit Anregungen zur Vermittlung von
+Kompetenzen im Umgang mit offenen Ressourcen auf.
+
+\hypertarget{vielfalt-von-strategien-und-policies}{%
+\section{Vielfalt von Strategien und
+Policies}\label{vielfalt-von-strategien-und-policies}}
+
+Die Liste an Strategien und Policies zur Umsetzung von Open Access und
+Open Science ist lang und zeigt ein gestiegenes Interesse an diesen
+Themen, gerade auch aus Sicht der Politik und Trägerinstitutionen. Dabei
+sind die bislang entwickelten Strategien keineswegs konträrer Natur,
+vielmehr lassen sie sich als einzelne, sich gegenseitig ergänzende
+Bausteine auf dem Weg zu einer \enquote{offeneren} Wissenschaft
+betrachten.\footnote{Schäffler, Hildegard (2018).} Sowohl nationale als
+auch internationale Open-Access-Initiativen standen auf den
+Open-Access-Tagen 2018 wiederholt im Fokus, darunter
+
+\begin{itemize}
+\item
+  die Berliner Erklärung als eine konsensfähige und grundlegende
+  Definition von Open Access,
+\item
+  Open Access im Forschungsrahmenprogramm Horizon 2020,
+\item
+  die European Open Science Agenda,
+\item
+  Jussieu Call for Open Science and Bibliodiversity,
+\item
+  das DEAL-Projekt sowie
+\item
+  cOAlition S.
+\end{itemize}
+
+Auch Kriterien wie FAIR (Findable, Accessible, Interoperable,
+Reusable)\footnote{Vgl. \url{https://www.go-fair.org/fair-principles/}
+  (Abgerufen am 04.10.2018).} und die Vienna Principles\footnote{Vgl.
+  \url{https://viennaprinciples.org} (Abgerufen am 04.10.2018).} wurden
+besprochen. Diese können unter anderem zur Evaluierung genutzt werden.
+Dass Metriken wie der Journal Impact Factor (JIF) vor dem Hintergrund
+solcher Kriterien allein aufgrund fehlender Offenheit überkommen sind
+und Alternativen gefunden werden müssen, wurde beispielsweise in dem
+Vortrag \enquote{Der Journal Impact Factor auf dem Prüfstand
+{[}\ldots{}{]}}\footnote{Wohlgemuth, Michael, Adam, Michaele, \& Musiat,
+  Jutta. (2018): Der Journal Impact Factor auf dem Prüfstand: Grenzen
+  und Potentiale in der Qualitätsbewertung von OA-Zeitschriften.
+  \url{https://doi.org/10.5281/zenodo.1441258}.} sowie in der Keynote
+\enquote{Open Science: Where do we go from here?}\footnote{Mayer, Katja.
+  (2018): Open Science: Where do we go from here?.
+  \url{https://doi.org/10.5281/zenodo.1443171}.} herausgestellt. In
+diesem Zusammenhang könnten auch grundlegende Fragen erneut aufgeworfen
+werden, zum Beispiel ob quantitative Metriken generell als Maß genutzt
+werden dürfen, wenn es über die reine Popularität von Zeitschrift oder
+Autor*in hinaus um das Treffen qualitativer Aussagen geht. Was ist dann
+textuelle Qualität, und wie kann Wissenschaftlichkeit in diesem Sinne
+gemessen werden? An solche Fragen anknüpfend wurde in den Diskursen die
+Entwicklung vergleichbarer und aussagekräftiger, wenngleich
+kontrastierend zum JIF transparent gemachter Metriken gefordert.
+
+\hypertarget{vielfalt-von-finanzierungs--und-publikationsmodellen}{%
+\section{Vielfalt von Finanzierungs- und
+Publikationsmodellen}\label{vielfalt-von-finanzierungs--und-publikationsmodellen}}
+
+Ebenfalls als relevant angesehen wurde die Generierung neuer Modelle zur
+Finanzierung und Publikation von OA-Ressourcen, denn -- diesbezüglich
+waren sich die Teilnehmer*innen der Tagung größtenteils einig -- die
+entstehenden Kosten in Form einer sogenannten Article Processing Charge
+(APC) sollten weder von den Leser*innen noch den Autor*innen getragen
+werden müssen. Einen Ausweg dafür stellen Publikationsfonds dar, sie
+gelten als das \enquote{am weitesten verbreitete
+Open-Access-Förderinstrument} für Zeitschriftenartikel innerhalb
+Deutschlands.\footnote{TU Graz Bibliothek und Archiv (2018), S. 35.}
+Auch Services wie DeepGreen\footnote{Vgl.
+  \url{https://deepgreen.kobv.de/de/deepgreen/} (Abgerufen am
+  04.10.2018).}, welches das automatisierte Hochladen von Dokumenten mit
+Zweitveröffentlichungsrecht in OA-Repositorien nach dem Ablauf der
+entsprechenden Frist ermöglicht, können einen maßgeblichen Beitrag zum
+Wachstum des OA-Anteils und zur Etablierung von OA als Zugriffsparadigma
+leisten. Die Vielfalt in den zur Verfügung stehenden Abstufungen von
+Grün und Gold OA wurde dabei auf den Open-Access-Tagen eher als Chance
+für die Durchsetzungs- und Anpassungsfähigkeit von Open Access und
+weniger als Risiko im Sinne eines höheren organisatorischen und
+strukturellen Aufwands angesehen.
+
+\hypertarget{ausblick}{%
+\section{Ausblick}\label{ausblick}}
+
+Die Vielfalt ist somit ein Aspekt, der vor dem Kontext aktueller
+Entwicklungen im Bereich OA nicht zu stark in den Hintergrund rücken
+darf. Man könnte diese Vielfalt allerdings auch als Risiko für die
+Offenheit sehen, falls die verschiedenen Strömungen und Akteure nicht in
+ausreichendem Maße aufeinander eingehen und sich damit in den einzelnen
+Entwicklungen zu stark voneinander isolieren. So ruft beispielsweise
+Katja Mayer in ihrer Keynote dazu auf, dass sich die OA-Community mehr
+in die Entwicklung von Strategien einmischen sollte, da es aktuell nur
+wenig der aktiven Arbeit innerhalb der Community in die offiziellen
+Policies schafft. Genau deshalb sind Veranstaltungen wie die
+Open-Access-Tage so wichtig, da sie in vorbildlicher Weise Personen aus
+den verschiedensten Ebenen, Organisationen und Disziplinen
+zusammenbringen und Kommunikation über solche Hürden hinweg ermöglichen.
+
+Abschließend möchte ich mich ganz herzlich bei LIBREAS und beim
+LIBREAS-Verein für die Unterstützung in Form der Reise zu und Teilnahme
+an den \enquote{Open-Access-Tagen 2018} bedanken. Dadurch erhielt ich
+nicht nur den Zugang zu aktuellen Diskussionen rund um Open Access,
+sondern gleichermaßen die Möglichkeit, mich bereits als Studentin aktiv
+in diese einzubringen.
+
+\hypertarget{literatur}{%
+\section{Literatur}\label{literatur}}
+
+Butcher, Neil (2013) \emph{Was sind Open Educational Resources? Und
+andere häufig gestellte Fragen zu OER}. Deutsche Fassung bearbeitet von
+Barbara Marina und Jan Neumann. Bonn: Deutsche UNESCO-Kommission.
+Bearbeitete Übersetzung von: Butcher, Neil (2011) \emph{A Basic Guide to
+Open Educational Resources (OER)}. Commonwealth of Learning und UNESCO,
+S. 1-22.
+
+Schäffler, Hildegard (2018, 25. September) \emph{Projekt DEAL:
+Open-Access-Transformation im Publish \& Read-Modell}. Keynote bei den
+Open-Access-Tagen 2018, Technische Universität Graz. {[}Eigene
+Mitschrift{]}
+
+TU Graz Bibliothek und Archiv (2018) \emph{Open Access Tage 2018;
+Vielfalt durch Open Access}. Verfügbar unter:
+\url{http://diglib.tugraz.at/open-access-tage-2018-graz-vielfalt-durch-open-access-technische-universitaet-graz-24-26-september-2018--2018}.
+
+%autor
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\textbf{Sophie Schneider} war die erste Stipendiat*in des LIBREAS.
+Verein
+
+\end{document}

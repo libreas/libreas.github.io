@@ -1,0 +1,526 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage[babel]{csquotes}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+%URLs hart brechen
+\makeatletter 
+\g@addto@macro\UrlBreaks{ 
+  \do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j 
+  \do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t 
+  \do\u\do\v\do\w\do\x\do\y\do\z\do\&\do\1\do\2\do\3 
+  \do\4\do\5\do\6\do\7\do\8\do\9\do\0} 
+% \def\do@url@hyp{\do\-} 
+\makeatother 
+
+%meta
+%meta
+
+\fancyhead[L]{B. Kaden, K. Schuldt\\ %author
+LIBREAS. Library Ideas, 34 (2018). % journal, issue, volume.
+\href{http://nbn-resolving.de/}
+{}} % urn 
+% recommended use
+%\href{http://nbn-resolving.de/}{\color{black}{urn:nbn:de...}}
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/3.0/}{\color{black}Creative Commons BY 3.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{Bibliographie Geschichte der Berliner und restlichen deutschsprachigen Bibliothekswissenschaft (1946–2018)}}% title
+\author{Ben Kaden, Karsten Schuldt} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={Bibliographie Geschichte der Berliner und restlichen deutschsprachigen Bibliothekswissenschaft (1946–2018)},
+      pdfauthor={Ben Kaden, Karsten Schuldt},
+      pdfcopyright={CC BY 3.0 Unported},
+      pdfsubject={LIBREAS. Library Ideas, 34 (2018).},
+      pdfkeywords={Bibliothekswissenschaft, Geschichte, Bibliographie},
+      pdflicenseurl={https://creativecommons.org/licenses/by/3.0/},
+      pdfcontacturl={http://libreas.eu},
+      baseurl={http://libreas.eu},
+      pdflang={de},
+      pdfmetalang={de}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+
+%body
+\hypertarget{vorbemerkung}{%
+\section{Vorbemerkung}\label{vorbemerkung}}
+
+Die Bibliothekswissenschaft in (zumeist) Berlin -- aber auch manchmal
+Köln, Göttingen, München oder Leipzig -- fragt sich seit je \enquote{quo
+vadis}. Oder auch einfach was sie ist und sein will. Es braucht gar
+nicht viel der Recherche, um zu entdecken, dass von ihrer Idee bis im
+Prinzip in die Gegenwart zwar mit unterschiedlicher Konjunktur aber doch
+regelmäßig Versuche einer Selbstverständigung darüber unternommen
+werden, was dieses Fach eigentlich sein kann. Sie ist naturgemäß ein
+wenig artifiziell und ergibt sich nicht zwangsläufig aus der Evolution
+wissenschaftlicher Disziplinarität. Ihre engste Verwandtschaft hat sie
+traditionell mit der Metaebene der Wissens- oder
+Wissenschaftsorganisation. Naheliegend hätte man sie sich beispielsweise
+als eine Art Ableger der Epistemologie denken, vorstellen und entwickeln
+können. Dass dies nicht die konsequente Entwicklungslinie wurde, hat nun
+vermutlich damit zu tun, dass sie im Herzen gar nicht so sehr
+wissenschaftlich im engeren Sinne sein konnte und sollte.\footnote{Vgl.
+  auch: Kaden, Ben: Zur Geschichte der Dauerfrage \enquote{Was ist
+  Bibliothekswissenschaft?} In: LIBREAS.Tumblr. 14. August 2018
+  \url{http://libreas.tumblr.com/post/176987186291/was-ist-bibliothekswissenschaft}}
+Sondern damit, dass es ihr darum ging, die sich nicht zuletzt durch die
+wachsende Menge an Druckwerken, in denen die Resultate der
+expandierenden Wissenschaft und auch anderer Wissenskulturen in die
+Büchersammlungen immer auch mit der Bedrohung einer Unbeherrschbarkeit
+drängte, an Komplexität gewinnenden Aufgaben zu bewältigen. Die
+Bibliothekswissenschaft war keine des kritischen Hinterfragens, auch
+keine der Theoriekonstruktion und des Strebens nach neuen Erkenntnissen.
+Vielmehr lag ihre Aufgabe in der Entwicklung praktischer und
+praktikabler Lösungen für die sich wandelnde Überinstitution der
+Bibliothek. Sie sollte, wenn man so will, Lösungen entwickeln, mit dem,
+was man Publikations- oder auch Informationsflut, nie jedoch
+Wissensflut, nannte und nennt, umzugehen, die Effizienz zu steigern
+sowie Fähigkeiten und Anforderungsprofile für diejenigen entwickeln,
+denen die Aufgabe der Organisation des buchgewordenen, später auch
+zeitschriftenfixierten Wissens zukam. In diesem Sinne, also als eine Art
+angewandte Wissenschaft, war die Bibliothekswissenschaft durch und durch
+sehr modern. Zugleich wurde und wird deutlich, woran es ihr fehlte und
+bis heute zumindest teilweise fehlt. Die kritische, hinterfragende,
+abstrahierende, modell- und methodenbildende Erkenntnissuche und oft
+sogar eine systematische, auf dem Konsens einer Community beruhende
+Selbstorganisation und verbindende Forschungsagenda bleibt über weite
+Strecken ein Desiderat. Ebenso leider auch über weite Strecken der Blick
+auf die Ideen- und Wissenschaftsgeschichte, die in den Curricula des IBI
+bestenfalls zufällig eine Rolle zu spielen scheint. Wir sind nicht in
+der Position diese Fehlstellen zu schließen. Aber immerhin können und
+möchten wir allen, die ein Interesse daran haben, wenigstens eine
+Quellenliste zur Hand geben, die eine Auswahl, vielleicht sogar einen
+Kanon, zu den Selbstbestimmungsdebatten der Bibliothekswissenschaft
+benennt.
+
+\hypertarget{bibliografie}{%
+\section{Bibliografie}\label{bibliografie}}
+
+\hypertarget{section}{%
+\subsection*{2001--2018}\label{section}}
+
+Hauke, Petra: Bibliothekswissenschaft -- quo vadis? : eine Disziplin
+zwischen Traditionen und Visionen : Programme -- Modelle --
+Forschungsaufgaben. München: KG Saur, 2005.
+
+Kaden, Ben: Gegenwart, Zukunft und Ende der Bibliothekswissenschaft. In:
+Hauke, Petra; Umlauf, Konrad: Vom Wandel der Wissensorganisation im
+Informationszeitalter -- Festschrift für Walther Umstätter zum 65.
+Geburtstag. Bad Honnef: Bock + Herchen, 2006, S. 29--48.\\
+\href{https://doi.org/10.18452/2322}{https://doi.org/10.18452/2322}.
+
+Schröter, Marcus: Bücher, Bildung, Bibliotheken -- Altes Buch und Neue
+Medien an der Universität Rostock. Bibliothekswissenschaft für
+Historiker. In: Bibliothek. Forschung und Praxis, Heft~1, 2005, S. 25--37.
+\url{https://doi.org/10.1515/BFUP.2005.25}.
+
+Umstätter, Walther: Bibliothekswissenschaft im Wandel, von den
+geordneten Büchern zur Wissensorganisation. In: Bibliothek. Forschung
+und Praxis, Heft~3, 2009, 327--331.
+\url{https://doi.org/10.1515/bfup.2009.036}.
+
+Wagner-Döbler, Roland et al.: Literaturversorgung auf fünf
+Sondersammelgebieten 1991--2000. Bestandsstruktur und -entwicklung in
+Wirtschaftswissenschaften, Mathematik, Sprach- und
+Literaturwissenschaft, Bibliothekswissenschaft, Keltologie. In:
+Bibliothek. Forschung und Praxis, Heft~2, 2003, S. 189--193.
+\url{https://doi.org/10.1515/BFUP.2003.189}.
+
+\hypertarget{section-1}{%
+\subsection*{1991--2000}\label{section-1}}
+
+Bornhöft, Margrit: Bibliothekswissenschaft in Deutschland -- Eine
+Bestandsaufnahme. Aachen: Wissenschaftsverlag Mainz, 1999.
+
+Rohde, Renate: Zur Geschichte der bibliothekswissenschaftlichen
+Ausbildung in Berlin. In: Kunze, Horst (Hrsg.): Bibliothekswissenschaft
+in Berlin. Wiesbaden: Harrassowitz, 1999, S. 11--46.
+
+Strzolka, Rainer: Repertorium der Bibliothekswissenschaft. Hannover:
+Koechert, 1996.
+
+\hypertarget{section-2}{%
+\subsection*{1986--1990}\label{section-2}}
+
+Freytag, Jürgen: Das Forschungsprofil in den 80er Jahren. In:
+Zentralblatt für Bibliothekswesen. Heft~9, 1985, S. 390--393.
+
+Freytag, Jürgen: Mythen in der Bibliotheks- und
+Informationswissenschaft? Diskussionsbeitrag. In: Zentralblatt für
+Bibliothekswesen. Heft~8, 1989, S. 350--356.
+
+Greguletz, Alexander: Bibliothekswissenschaft -- Überlegen zu künftigen
+Forschungsstrategien und -inhalten im Zeitalter neuer
+Informationstechnologien. In: Zentralblatt für Bibliothekswesen. Heft~1,
+1990, S. 4--14.
+
+Greguletz, Alexander: Die Bibliothekswissenschaft und die Informations-
+und Kommunikationstechnologien. In: Zentralblatt für Bibliothekswesen.
+Heft~8, 1987, S. 290--298.
+
+Knoche, Michael: Bibliothekswissenschaft als spezielle
+Informationswissenschaft : Zweites Kölner Kolloquium aus Anlaß des
+zehnjährigen Bestehens des Lehrstuhls für Bibliothekswissen- schaft der
+Universität zu Köln am 9./10. Mai 1985. In: Bibliothek. Forschung und
+Praxis, Heft~3, 1985, S. 308--312.
+\url{https://doi.org/10.1515/bfup.1985.9.3.308}.
+
+Kubitschek, Helmut: Forschungsergebnisse und Forschungsstrategien am
+Institut für Bibliothekswissenschaft und wissenschaftliche Information.
+Heft~9, 1985, S. 387--390.
+
+Marks, Erwin: Nachdenken über ehemalige Professoren und Dozenten der
+Berliner Instituts für Bibliothekswissenschaft. In: Zentralblatt für
+Bibliothekswesen. Heft~9, 1990, S. 399--406.
+
+Marks, Erwin: Die Gründung des Methodischen Zentrums für
+wissenschaftliche Bibliotheken und Informations- und
+Dokumentationseinrichtungen. In: Zentralblatt für Bibliothekswesen. Heft
+8, 1989, S. 337--342.
+
+Nestler, Friedrich: Entwicklung und Perspektiven des Direktstudiums am
+Institut für Bibliothekswissenschaft und wissenschaftliche Information
+der Humboldt-Universität zu Berlin. In: Zentralblatt für
+Bibliothekswesen. Heft~9, 1990, S. 393--398.
+
+Plassmann, Engelbert; Schmitz, Wolfgang; Vodosek, Peter (Hrsg.): Buch
+und Bibliothekswissenschaft im Informationszeitalter : internationale
+Festschrift für Paul Kaegbein zum 65. Geburtstag. München u.\,a.: K.G.
+Saur, 1990.
+
+Rohde, Renate: Das Bibliothekswissenschaftliche Institut an der Berliner
+Universität -- Vorläufer des heutigen Instituts für
+Bibliothekswissenschaft und wissenschaftliche Information der
+Humboldt-Universität zu Berlin. In: Zentralblatt für Bibliothekswesen.
+Heft~1, 1985, S. 24--29.
+
+Rohde, Renate; Klink, Renate: \enquote{Katalographie} -- eine neue
+bibliothekswissenschaftliche Disziplin? In: Zentralblatt für
+Bibliothekswesen. Heft~2, 1987, S. 72--76.
+
+\hypertarget{section-3}{%
+\subsection*{1981--1985}\label{section-3}}
+
+Dube, Werner: Allgemeine Bibliothekswissenschaft. In: Zentralblatt für
+Bibliothekswesen. Heft~1, 1985, S. 9--17.
+
+Fröschner, Günter: Methodologische Probleme der Bibliothekswissenschaft.
+In: Zentralblatt für Bibliothekswesen. Heft~8, 1983, S. 344--348.
+
+Golczewski, Mechthild: Die Darstellung der russischen
+Bibliotheksgeschichte in der sowjetischen Bibliothekswissenschaft nach
+dem Zweiten Weltkrieg. In: Bibliothek. Forschung und Praxis. Heft~1,
+1983, 32--59. \url{https://doi.org/10.1515/bfup.1983.7.1.32}.
+
+Kołodziejska, Jadwiga: Bibliothekswissenschaft in Polen. In: Bibliothek.
+Forschung und Praxis, Heft~1, 1981, 66--70.
+\url{https://doi.org/10.1515/bfup.1981.5.1.66}.
+
+Kubitschek, Helmut: Überlegungen zur Stellung der
+Bibliothekswissenschaft im System der Wissenschaften. In: Zentralblatt
+für Bibliothekswesen. Heft~8, 1983, S. 339--344.
+
+Mittenzwei, Karin: Zur Entwicklung des Verhältnisses der
+Bibliothekswissenschaft zur Informa\-tions- und Dokumentationswissenschaft
+1968--1978 : eine kritische Analyse. (Veröffentlichungen des
+Wissenschaftlichen Informationszentrums der Bergakademie Freiberg, Nr.
+96) Freiberg: Bergakademie Freiberg, 1982.
+
+Pannier, Gertrud; Schmidt, Karin: Jugendobjekte im Direktstudium
+Bibliothekswissenschaft. In: Zentralblatt für Bibliothekswesen. Heft~3,
+1983, S. 120--123.
+
+Schmidmaier, Dieter: Bibliothekswissenschaftliche Bestrebungen an der
+Altdorfer Universitätsbibliothek zwischen 1630 und 1800. In:
+Zentralblatt für Bibliothekswesen. Heft~1, 1984, S. 17--22.
+
+Schmidt, Karla; Stäber, Peter: Wissenschaftskunde und
+Bibliothekswissenschaft. Überlegungen und Fragen zum gegenseitigen
+Zusammenhang. In: Zentralblatt für Bibliothekswesen. Heft~8, 1983, S. 348--352.
+
+Stelmach, Valeria D.: Die Organisation und Koordinierung der
+Forschungsarbeit auf dem Gebiet der Bibliothekswissenschaft in der
+Sowjetunion. In: Bibliothek. Forschung und Praxis. Heft~1, S. 27--31.
+\url{https://doi.org/10.1515/bfup.1983.7.1.27}.
+
+Sokolov, Arkadij V.: Vergleichende Analyse des Objektes und des
+Gegenstandes von Bibliothekswissenschaft, Bibliografie und Informatik.
+In: Zentralblatt für Bibliothekswesen. Heft~11, 1981, S. 493--502.
+
+Wilbert, Gerd: Die Bibliothekswissenschaft in der Sowjetunion: Zentrale
+Probleme im Spiegel der Diskussion des letzten Jahrzehnts. In:
+Bibliothek. Forschung und Praxis, Heft~1. 1983, S. 5--26.
+\url{https://doi.org/10.1515/bfup.1983.7.1.5}.
+
+\hypertarget{section-4}{%
+\subsection*{1976--1980}\label{section-4}}
+
+Dietze, Joachim: Bibliotheks- und Informationswissenschaft -- ein
+Postulat. In: Zentralblatt für Bibliothekswesen. Heft~9, 1977, S. 411--416.
+
+Dima-Drǎgan, Corneliu: Zur Geschichte der Bibliothekswissenschaft als
+Hochschuldisziplin in der SR Rumänien. In: Zentralblatt für
+Bibliothekswesen. Heft~9, 1976, S. 394--397.
+
+Ewert, Gisela: Zehn Jahre Erwachsenenqualifizierung am Institut für
+Bibliothekswissenschaft und wissenschaftliche Information der
+Humboldt-Universität zu Berlin. In: Zentralblatt für Bibliothekswesen.
+Heft~2, 1979, S. 54--61.
+
+Fröschner, Günter: Bemerkungen zum Studienplan der Grundstudienrichtung
+Bibliothekswissenschaft, Direktstudium. In: Zentralblatt für
+Bibliothekswesen. Heft~9, 1979, S. 397--403.
+
+Kaegbein, Paul: Einige Bemerkungen zur gegenwärtigen Situation der
+Bibliothekswissenschaft in der Bundesrepublik Deutschland. In:
+Bibliothek. Forschung und Praxis, Heft~3, 1978, S. 209--212.
+\url{https://doi.org/10.1515/bfup.1978.2.3.209}.
+
+Konferenz \enquote{Entwicklungsprobleme der Bibliothekswissenschaft und
+der Informations- und Dokumentationswissenschaft als
+Hochschuldisziplinen} : aus Anlass des 20jährigen Bestehens des
+Institutes für Bibliothekswissenschaft und wissenschaftliche Information
+der Humboldt-Univer\-sität zu Berlin; Berlin, 4.--5.November 1975.
+(Wissenschaftliche Schriftenreihe der Humboldt-Universität zu Berlin).
+Berlin: Humboldt Universität zu Berlin, 1977.
+
+Kubitschek, Helmut: Zur Wiederaufnahme des Direktstudiums
+Bibliothekswissenschaft. In: Zentralblatt für Bibliothekswesen. Heft~9,
+1979, S. 393.
+
+Stäber, Peter: Bibliothekswissenschaft, Informationswissenschaft und
+Gesellschaft. Eine Polemik.In: Zentralblatt für Bibliothekswesen. Heft
+1, 1979, S. 23--29.
+
+\hypertarget{section-5}{%
+\subsection*{1970--1975}\label{section-5}}
+
+10 Jahre methodisches Zentrum für wissenschaftliche Bibliotheken. In:
+Zentralblatt für Bibliothekswesen. Heft~7, 1974.
+
+Bibliothekswissenschaft und öffentliche Bibliothek : Referate und
+Ergebniszusammenfassungen eines Fortbildungsseminars der FHB Stuttgart :
+(Stuttgart, 12.--14.Oktober 1972). In: Bibliotheksdienst, Beiheft 1974.
+
+Čubar'jan, Ogan S.; Fröschner, Günther (übers. \& bearb.): Allgemeine
+Bibliothekswissenschaft : Entwicklungsergebnisse und Probleme. Berlin:
+Bibliotheksverband der DDR, 1975.
+
+Dietze, Joachim: Konferenz über die Methodologie der Bibliotheks- und
+Informationswissenschaft am 17. und 18.12.1974 in Poznań. In:
+Zentralblatt für Bibliothekswesen. Heft~8, 1975, S. 373--374.
+
+Dube, Werner: Bibliothekswissenschaft und Bibliothekspraxis in der
+Sowjetunion. In: Zentralblatt für Bibliothekswesen. Heft~10, 1974, S. 639--642.
+
+Dube, Werner: Informationswissenschaft -- Bibliothekswissenschaft --
+Informations- und Dokumentationswissenschaft. Bemerkungen zu einer
+Konzeption von Josef Koblitz. In: Zentralblatt für Bibliothekswesen.
+Heft~6, 1971, S. 336--347.
+
+Ewert, Gisela: Bibliothekswissenschaft. Versuch e. Begriffsbestimmung in
+Referaten u. Diskussionen bei d. Kölner Kolloquium (27.--29. Oktober
+1969) {[}Rezension{]} In: Zentralblatt für Bibliothekswesen. Heft~5,
+1972, S. 289--290.
+
+Freytag, Jürgen; Kubitschek, Helmut: Zum Stand und zu Problemen der
+Entwicklung des Instituts für Bibliothekswissenschaft und
+wissenschaftliche Information der Humboldt-Universität zu Berlin. In:
+Zentralblatt für Bibliothekswesen. Heft~6, 1975, S. 241--247.
+
+Grundwald, Wilhelm; Krieg, Werner: Die Bibliothekswissenschaft in Lehre
+und Forschung. In: Bibliotheksdienst Heft~4, 1970, S. 175--180.
+
+Haake, Rolf: Über die Forschungstätigkeit des Instituts für
+Bibliothekswissenschaft und wissenschaftliche Information. In:
+Zentralblatt für Bibliothekswesen. Heft~6, 1975, S. 247--252.
+
+Hagelweide, Gert: Das Kolloquium über Bibliothekswissenschaft in Köln.
+In: Zeitschrift für Bibliothekswesen und Bibliographie. Heft~1, 1970, S. 58--61.
+
+Krieg, Werner: Bibliothekswissenschaft: Versuch einer Begriffsbestimmung
+in Referaten und Diskussionen bei dem Kölner Kolloquium (27.--29.
+Oktober 1969). Köln: Greven Verlag, 1970.
+
+Kunze, Horst: 15 Jahre Institut für Bibliothekswissenschaft -- 5 Jahre
+Promotionen am Institut für Bibliothekswissenschaft und
+wissenschaftliche Information 1970. In: Zentralblatt für
+Bibliothekswesen. Heft~10, 1970, S. 608.
+
+Kunze, Horst: 20 Jahre Zentralinstitut für Bibliothekswesen. In:
+Zentralblatt für Bibliothekswesen. Heft~3, 1970, S. 163--164.
+
+Kluth, Rolf: Gibt es eine Bibliothekswissenschaft? In: Zeitschrift für
+Bibliothekswesen und Bibliographie. Heft~4/5, 1970, S. 227--246.
+
+Roloff, Heinrich: Zum Standort der Bibliothekswissenschaft. In:
+Zentralblatt für Bibliothekswesen. Heft~10, 1970, S. 595--602.
+
+Schwarz, Gerhard: Leser -- Bibliothek -- Lektüre. Sowjetische
+Forschungsarbeiten zu aktuellen Problemen der Bibliothekswissenschaft.
+In: Zentralblatt für Bibliothekswesen. Heft~12, 1972, S. 707--723.
+
+Wendt, Hartmut: Zum Charakter der Bibliothekswissenschaft als
+Wissenschaftsdisziplin. In: Zentralblatt für Bibliothekswesen. Heft~9,
+1971, S. 529--537.
+
+\hypertarget{section-6}{%
+\subsection*{1966--1970}\label{section-6}}
+
+Čubar'jan, Ogan S.: 50 Jahre sowjetische Bibliothekswissenschaft. In:
+Zentralblatt für Bibliothekswesen. Heft~12, 1967, S. 705--721.
+
+Koblitz, Josef: Die Stellung der Bibliothekswissenschaft und der
+Informations- und Dokumentationswissenschaft in der
+Informationswissenschaft. In: Zentralblatt für Bibliothekswesen. Heft
+12, 1969, S. 689--720.
+
+Methodischen Zentrum für wissenschaftliche Bibliotheken (Hrsg.):
+Entwicklungstendenzen der Bürgerlichen Bibliothekswissenschaft : eine
+Sammlung von Aufsätzen. Berlin: Deutsche Staatsbibliothek, 1966.
+
+Nestler, Friedrich: Das bibliothekswissenschaftliche
+\enquote{Vollstudium}. Aus der Arbeit der Kommission für Berufsnachwuchs
+und Weiterbildung des Deutschen Bibliotheksverbandes. In: Zentralblatt
+für Bibliothekswesen. Heft~5, 1966, S. 290--297.
+
+Nestler, Friedrich: III. Konfe­renz über bibliothekswissenschaftliche
+Hochschulausbildung in den sozia­listischen Ländern in Leningrad. In:
+Zentralblatt für Bibliothekswesen. Heft~12, 1968, S. 677--680.
+
+Tröger, Erika: Ungarische Schnellinformation über Literatur zur
+Bibliothekswissenschaft und Dokumentation. In: Zentralblatt für
+Bibliothekswesen. Heft~8, 1966, S. 476--477.
+
+\hypertarget{section-7}{%
+\subsection*{1960--1965}\label{section-7}}
+
+Drtina, Jaroslav: Zur Klassifikation der Bibliotheks­wissenschaft. In:
+Zentralblatt für Bibliothekswesen. Heft~5, 1961, S. 193--206.
+
+Gegenstand und Methoden der Bibliothekswissenschaft unter besonderer
+Berücksichtigung der Bibliothekswissenschaft als Hochschuldisziplin:
+Referate, Materialien, Diskussionen, Ergebnisse und Empfehlungen.
+Leipzig: Verlag für Buch- und Bibliothekswesen, 1963.
+
+Kunze, Horst: II. Konferenz der bibliothekswissenschaftlichen
+Hochschulen und Institute in den sozialistischen Ländern. In:
+Zentralblatt für Bibliothekswesen. Heft~10, 1962, S. 433--439.
+
+Kunze, Horst: Zur Vorbereitung einer internationalen Konferenz über
+Gegenstand und Methode der Bibliothekswissenschaft. In: Zentralblatt für
+Bibliothekswesen. Heft~3, 1961, S. 97--110.
+
+Kunze, Horst: Zehn Jahre Institut für Bibliothekswissenschaft der
+Humboldt-Universität zu Berlin. In: Zentralblatt für Bibliothekswesen.
+Heft~11, 1965, S. 641--698.
+
+Vicentini, Abner Lellis Corrêa: Bibliothekswissenschaft und
+Dokumentation. In: Zentralblatt für Bibliothekswesen. Heft~1, 1963, S. 2--8.
+
+Vicentini, Abner Lellis Corrêa: Bibliothekswissenschaft und
+Dokumentation : einige grundsätzliche Betrachtungen im Hinblick auf die
+Entwicklung in Brasilien. In: Zentralblatt für Bibliothekswesen. Heft~1,
+1961, S. 2--8.
+
+\hypertarget{section-8}{%
+\subsection*{1946--1959}\label{section-8}}
+
+Vorstius, Joris: Bibliothek, Bibliothekar, Bibliothekswissenschaft. In:
+Zentralblatt für Bibliothekswesen. Heft~5/6, 1949, S. 172--185.
+
+%autor
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\textbf{Ben Kaden} ist Bibliothekswissenschaftler und arbeitet an der
+Universitätsbibliothek der Humboldt-Universität zu Berlin.
+
+\textbf{Karsten Schuldt} (Chur / Berlin) ist Wissenschaftlicher
+Mitarbeiter am Schweizerischen Institut für Informationswissenschaft,
+HTW Chur.
+
+\end{document}
