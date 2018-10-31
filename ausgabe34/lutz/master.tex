@@ -16,8 +16,6 @@ final
 \usepackage[ngerman]{babel}
 \usepackage[T1]{fontenc}
 %\usepackage{amsmath}
-\usepackage{nicefrac}
-
 \usepackage[utf8x]{inputenc}
 \usepackage [hyphens]{url}
 \usepackage{booktabs} 
@@ -39,6 +37,7 @@ final
 \usepackage[normalem]{ulem} %emphasize weiterhin kursiv
 \usepackage[flushmargin,ragged]{footmisc} % left align footnote
 \usepackage{ccicons} 
+\setcapindent{0pt} % no indentation in captions
 
 %%%% fancy LIBREAS URL color 
 \usepackage{xcolor}
@@ -54,10 +53,6 @@ final
 
 \usepackage{sectsty}
 \partfont{\large}
-
-% center section
-\usepackage{titlesec}
-\titleformat{\subsection}[block]{\filcenter}{\thesubsection}{1em}{}
 
 %Das BibTeX-Zeichen mit \BibTeX setzen:
 \def\symbol#1{\char #1\relax}
@@ -130,32 +125,12 @@ LIBREAS. Library Ideas, 34 (2018). % journal, issue, volume.
 \thispagestyle{fancyplain} 
 
 %abstracts
-\begin{abstract}
-\noindent Erstabdruck in Vereinigung schweizerischer Bibliothekare Nachrichten 12
-(1936) 3--7
-
-\noindent 12. Jg. (1936), Nr. 3, S. 15--21
-\url{https://doi.org/10.5169/seals-770479}\\
-12. Jg. (1936), Nr. 4, S. 23--28
-\url{https://doi.org/10.5169/seals-770480}\\
-12. Jg. (1936), Nr. 5, S. 31--36
-\url{https://doi.org/10.5169/seals-770481}\\
-12. Jg. (1936), Nr. 6, S. 39--42
-\url{https://doi.org/10.5169/seals-770482}\\
-12. Jg. (1936), Nr. 7, S. 47--51
-\url{https://doi.org/10.5169/seals-770483}
-\end{abstract}
 
 %body
-
-\vspace*{1em}
-
 Dr.~Hans Lutz
 
 Probevortrag, gehalten am 15. Juli 1935 vor der Philosophischen Fakultät
 I der Berner Hochschule. (Für den Druck in Einzelheiten erweitert.)
-
-\vspace*{1em}
 
 Hochgeehrter Herr Dekan!
 
@@ -197,8 +172,8 @@ des Vortrages die äussere Entwicklung der Bibliothekwissenschaft
 darlege, im zweiten ihre Arbeitsgebiete umreisse und im dritten die
 quaestio iuris behandle.
 
-
-\subsection*{1.}
+\hypertarget{section}{%
+\subsection{1.}\label{section}}
 
 Zweifellos gab es schon in den assyrischen und ägyptischen Bibliotheken,
 von den griechisch-römischen ganz zu schweigen, aus der Erfahrung
@@ -284,20 +259,20 @@ sind bis 1870 und 1886 erschienen. Dann folgt 1876 «The Library
 Journal», NewYork; 1884 das «Zentralblatt für Bibliothekswesen», «The
 Library Chronicle», London, und das «Bulletin des bibliothèques et des
 archives», welche alle bis heute laufen, zum Teil unter verändertem
-Titel. Das «Schweizerische Gutenbergmuseum», 1915\,ff. von K. J. Lüthi
+Titel. Das «Schweizerische Gutenbergmuseum», 1915 ff. von K. J. Lüthi
 herausgegeben, und die «Nachrichten der Vereinigung schweizerischer
-Bibliothekare» N. F. 1928\,ff. (in der Zeitschrift «Der Schweizer Sammler
+Bibliothekare» N. F. 1928 ff. (in der Zeitschrift «Der Schweizer Sammler
 und Familienforscher» erscheinend) geben kein vollständiges Bild von der
 bibliothekwissenschaftlichen Arbeit in der Schweiz, weil mancher Aufsatz
 in deutschen und französischen Zeitschriften erscheint.
 
 An Reihen sind zu nennen: Die «Sammlung bibliothekwissenschaftlicher
-Arbeiten» hg. v. Dziatzko 1886\,ff., die «Beihefte zum Zentralblatt für
-Bibliothekwesen» 1888\,ff. und die «Publikationen der Vereinigung
-schweizerischer Bibliothekare» 1907\,ff. Eine jährliche Bibliographie
+Arbeiten» hg. v. Dziatzko 1886 ff., die «Beihefte zum Zentralblatt für
+Bibliothekwesen» 1888 ff. und die «Publikationen der Vereinigung
+schweizerischer Bibliothekare» 1907 ff. Eine jährliche Bibliographie
 erscheint seit 1905, seit 1926 ist sie zu einer «Internationalen
 Bibliographie des Buch- und Bibliothekwesens» erweitert worden. Mit
-Milkaus «Handbuch der Bibliothekswissenschaft» 1931\,ff. haben wir die
+Milkaus «Handbuch der Bibliothekswissenschaft» 1931 ff. haben wir die
 erste, grosse Zusammenfassung der bibliothekwissenschaftlichen Forschung
 erhalten.
 
@@ -371,7 +346,8 @@ aus kleinen Anfängen zu einer weltumspannenden Organisation. Die
 Bibliothekwissenschaft wird erst von dieser Zeit an zusammenhängend
 bearbeitet.
 
-\subsection*{2.}
+\hypertarget{section-1}{%
+\subsection{2.}\label{section-1}}
 
 Was für \emph{Arbeitgebiete} umfasst die Bibliothekwissenschaft?
 
@@ -412,7 +388,7 @@ Ergebnisse erzielt worden.
 
 Da ist zunächst das \emph{Bibliothekgebäude}, das zwei Hauptprobleme
 umschliesst: Die grösste Raumausnutzung im Magazin und die
-zweckmässigste Aneinanderreihung der Benutzer- und Diensträume. Für
+zweckmässigste Aneinanderreihung der Benutzer- und Dienst\-räume. Für
 beide Fragen ist die Schweizerische Landesbibliothek einstweilen der
 Musterbau.
 
@@ -469,7 +445,7 @@ Riesenleistungen der Kataloge des Britischen Museums, der
 Nationalbibliothek in Paris und des preussischen Gesamtkatalogs
 entwickelt. Jeder wird nach seiner Vollendung etwa 2 Millionen Titel
 umfassen\footnote{Vgl. Handbuch der Bibliothekswissenschaft II, S. 302
- \,ff.}.
+  ff.}.
 
 Ueber die Regeln, nach denen wir die Bücher für den Katalog aufnehmen,
 kann ich auch nur das Allgemeinste sagen. «Nichts erscheint leichter»,
@@ -553,7 +529,7 @@ und 20. Jahrhundert der Spezialisierung der Wissenschaften nach, bis
 schliesslich 1925 im Auftrag des Völkerbundes von Marcel Godet ein Index
 bibliographicus geschaffen werden muss, damit man nur die Uebersicht
 hat, nicht über die Einzelbibliographien, -- denn 1885 zählte die
-Abteilung Bibliographie in der Pariser Nationalbibliothek bereits 39\,000
+Abteilung Bibliographie in der Pariser Nationalbibliothek bereits 39 000
 Nummern -- sondern nur über die bibliographischen Periodica. Die zweite
 Auflage 1931 zählt 1900 Titel auf.
 
@@ -648,8 +624,8 @@ Lettern, welches sind echte Erzeugnisse Gutenbergs usw. Diese Frage
 können freilich nur Spezialisten lösen.
 
 Daran schliesst sich die \emph{Wiegendruckforschung} an. Aus der Zeit
-von etwa 1445 bis 1500 sind von 1100 Druckern 30--40\,000 verschiedene
-Drucke in 450\,000 Exemplaren erhalten. Eine stattliche Anzahl von ihnen
+von etwa 1445 bis 1500 sind von 1100 Druckern 30--40 000 verschiedene
+Drucke in 450 000 Exemplaren erhalten. Eine stattliche Anzahl von ihnen
 gibt Erscheinungsjahr, Druckort und Drucker nicht an. Die Aufgabe ist,
 sie alle ausfindig zu machen, zu vergleichen, sie nach allerhand
 Anhaltspunkten, besonders aus dem Typenmaterial nach der
@@ -705,7 +681,7 @@ Thurneysen, Mechel, Haas noch keinen Bearbeiter gefunden. Besser steht
 \emph{Genf} da. Durch die Arbeit von E. H. Gaullieur: Etude sur la
 typographie genevoise du 15\textsuperscript{e} jusqu'au
 19\textsuperscript{e} siecle, 1855, haben wir einen guten Ueberblick
-über die Drucker der Reformationszeit und der Aufklärung\footnotemark[15]\textsuperscript{a}\footnotetext[15]{\textsuperscript{a}Weigelt,
+über die Drucker der Reformationszeit und der Aufklärung\footnote{Weigelt,
   Gertrude. Les éditions Fick. Gutenbergmuseum Jg. 21, 1935.}. In
 \emph{Lausanne} blüht Grasset, der Drucker Hallers, und in
 \emph{Yverdon} F. B. de Felice, von dem K. J. Lüthi\footnote{Gutenbergstube,
@@ -714,7 +690,7 @@ Geschichte des \emph{Berner} Buchdrucks besitzen wir wertvolle
 Vorarbeiten von Dr.~Adolf Fluri\footnote{Lüthi, Karl J. Versuch einer
   Bibliographie zur heimischen Druck- und Pressegeschichte.
   Gutenbergmuseum Jg. 10, 1924. Fluri, Ad.: Gutenbergmuseum Jg. 6, 1920
- \,ff., 16, 1930. Die Arbeit von A. M. Lacroix ist nur handschriftlich in
+  ff., 16, 1930. Die Arbeit von A. M. Lacroix ist nur handschriftlich in
   Genf vorhanden.}. Sein Aufsatz über den ersten Berner Drucker Apiarius
 ist durch seinen zu frühen Tod leider Bruchstück geblieben. Wertvoll ist
 sein «Versuch einer Bibliographie der heidnischen Kirchengesangbücher».
@@ -725,7 +701,7 @@ Wichtigkeit dieser anonymen Kirchen- und Schulliteratur als Lesestoff
 der breiten Schichten herausgestellt hat. Für die Obrigkeitliche
 Buchdruckerei ist die Aufgabe noch zu lösen. Für \emph{Luzern} und die
 Urschweiz haben R. und Fritz Blaser\footnote{Gutenbergstube Jg. 2, 1916,
-  Gutenbergmuseum Jg. 18, 1932\,ff.} tüchtige Arbeiten geliefert. Die
+  Gutenbergmuseum Jg. 18, 1932 ff.} tüchtige Arbeiten geliefert. Die
 Tätigkeit Froschauers in \emph{Zürich} hat Rudolphi zusammengestellt.
 Zwingli und Conrad Gessner sind dessen berühmteste Autoren. Max Rychner
 hat einen allgemeinenen Ueberblick über den Verlag Orell Füssli und
@@ -754,7 +730,7 @@ Zentralbibliothek Zürich ein grosses Werk heraus.
 An die Geschichte des Buchdrucks schliesst sich die Geschichte des
 \emph{Buchhandels} an, für die wir für das deutsche Sprachgebiet auf das
 grundlegende Werk von Fr. Kapp und J. Goldfriedrich «Geschichte des
-deutschen Buchhandels» 1886\,ff. angewiesen sind. Die «Festgabe zum
+deutschen Buchhandels» 1886 ff. angewiesen sind. Die «Festgabe zum
 75jährigen Jubiläum des schweizerischen Buchhändlervereins 1849--1924»
 ist nur eine Skizze.
 
@@ -792,8 +768,8 @@ Lessing, Wieland, Herder, Goethe, Schiller fiel, war die Bahn frei für
 die Klassikerausgaben, die sich dann bis zum Weltkrieg auf die Höhe der
 Ausgaben des Georg Müller Verlages entwickelt haben. Reclams
 Universalbibliothek hat seit 1867 Klassiker in 18 Millionen Nummern
-verbreitet, die antiken Schriftsteller in 8\,$\nicefrac{1}{2}$, philosophische Literatur
-in 5 (Kant 800\,000), Ibsen 4\,$\nicefrac{1}{2}$ Millionen. Die Verlegergeschichte kann
+verbreitet, die antiken Schriftsteller in 8 ½, philosophische Literatur
+in 5 (Kant 800 000), Ibsen 4 ½ Millionen. Die Verlegergeschichte kann
 für die Geschichte der führenden Geister nur äusserliche Daten liefern,
 dafür erfasst sie geistige Massenerscheinungen, die Geschichte des
 Publikumsgeschmackes\footnote{Schulze, Friedrich. Der deutsche
@@ -863,7 +839,8 @@ besonders befähigt sein sollte, etwa die Geschichte der Schweizerischen
 Naturforschenden Gesellschaft zu schreiben. Beide Gebiete scheiden als
 Arbeitsfelder der Bibliothekwissenschaft aus.
 
-\subsection*{3.}
+\hypertarget{section-2}{%
+\subsection{3.}\label{section-2}}
 
 Wir kommen endlich zur \emph{quaestio juris}.
 
@@ -984,8 +961,8 @@ Bestreben sein.
 %autor
 \begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
 
-\textbf{Dr.~Hans Lutz}, Bibliothekar an der Universität Basel,
-schweizerische Landesbibliothek, ab 1936 Privatdozent für
-Bibliothekswissenschaft (Univeristät Bern). († 1938)
+\textbf{Dr.~Hans Lutz}, Bibliothekar an der Universität Basel, später an der schweizerischen Landesbibliothek, ab 1936 Privatdozent für
+Bibliothekswissenschaft (Universität Bern). († 1938)
+
 
 \end{document}

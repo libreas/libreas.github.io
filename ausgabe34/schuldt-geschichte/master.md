@@ -57,7 +57,7 @@ und Buchgeschichte und Literatur haben müsste und dass es Aufgabe einer
 Bibliothekswissenschaft sei, dieses Wissen systematisch zu erarbeiten
 und zu vermitteln und zwar immer aus dem konkreten Blickwinkel der
 Bibliothek. Dies ermöglicht auch, wie Leidinger ausführt, eine
-konkurrenzlose Kooexistenz mit anderen mehr oder weniger
+konkurrenzlose Koexistenz mit anderen mehr oder weniger
 Medienwissenschaften wie eben der Buchkunde oder der aufblühenden
 Zeitungswissenschaft.
 

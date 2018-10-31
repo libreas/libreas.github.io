@@ -1,0 +1,276 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage[babel]{csquotes}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+\setcapindent{0pt} % no indentation in captions
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+%URLs hart brechen
+\makeatletter 
+\g@addto@macro\UrlBreaks{ 
+  \do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j 
+  \do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t 
+  \do\u\do\v\do\w\do\x\do\y\do\z\do\&\do\1\do\2\do\3 
+  \do\4\do\5\do\6\do\7\do\8\do\9\do\0} 
+% \def\do@url@hyp{\do\-} 
+\makeatother 
+
+%meta
+%meta
+
+\fancyhead[L]{K. Schuldt\\ %author
+LIBREAS. Library Ideas, 34 (2018). % journal, issue, volume.
+\href{http://nbn-resolving.de/}
+{}} % urn 
+% recommended use
+%\href{http://nbn-resolving.de/}{\color{black}{urn:nbn:de...}}
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/3.0/}{\color{black}Creative Commons BY 3.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{Zu disparat als Debattenbeitrag}}% title
+\subtitle{Rezension zu: Schöpfel, Joachim ; Herb, Ulrich (edit.). Open Divide: Critical Studies on Open Access. Sacramento, CA: Library Juice Press, 2018}
+\author{Karsten Schuldt} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={Zu disparat als Debattenbeitrag. Rezension zu: Schöpfel, Joachim ; Herb, Ulrich (edit.). Open Divide: Critical Studies on Open Access. Sacramento, CA: Library Juice Press, 2018},
+      pdfauthor={Karsten Schuldt},
+      pdfcopyright={CC BY 3.0 Unported},
+      pdfsubject={LIBREAS. Library Ideas, 34 (2018).},
+      pdfkeywords={Open Science, Kritik},
+      pdflicenseurl={https://creativecommons.org/licenses/by/3.0/},
+      pdfcontacturl={http://libreas.eu},
+      baseurl={http://libreas.eu},
+      pdflang={de},
+      pdfmetalang={de}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+
+%body
+Dass Open Access durch die Etablierung kommerzieller Formen, also vor
+allem die Durchsetzung von Open Access Gebühren, vulgo Article
+Processing Charges, bei Publikation in Zeitschriften der grossen
+Wissenschaftsverlage und die Übernahme dieser Gebühren durch
+Bibliotheken, Forschungseinrichtungen und Forschungsförderer, nicht mehr
+das ist, was am Anfange dieser \enquote{Bewegung} diskutiert wurde, ist
+eine weit verbreitete Einschätzung. Egal, was man als den Beginn dieser
+Bewegung ansieht (zumeist wird bekanntlich auf die Budapest Open Access
+Initiative von 2002 oder die Berlin Declaration on Open Access von 2003
+verwiesen), ist dies auch einfach ersichtlich. Das Versprechen -- um
+daran nochmal zu erinnern --, mit Open Access einen weltweiten Zugang zu
+wissenschaftlichem Wissen zu schaffen, damit die Wissensunterschiede
+zwischen dem globalen Norden und Süden aufzuheben, eine bessere und
+fairere gesellschaftliche Nutzung dieses Wissens zu ermöglichen und
+grundsätzlich zu einer besseren Welt beizutragen, scheint verschwunden
+zu sein. Auch diese Zeitschrift thematisierte diesen Eindruck in einem
+Schwerpunkt in der Ausgabe \#32 (2017).
+
+Das nun zu besprechende, dünne Buch tritt an, diese Einschätzung weiter
+zu vertiefen und vor allem auch Blickwinkel aus dem globalen Süden
+einzubeziehen. Notwendig ist dies. Das Unbehagen mit der jetzigen
+Situation zu thematisieren, Möglichkeiten zu schaffen, dieses Unbehagen
+zu diskutieren und zu analysieren, ist wohl der einzige Weg, eine
+Position zu entwickeln, um den grossen Wissenschaftsverlagen die
+Deutungshoheit im Bereich Open Access wieder zu nehmen. Dass das
+notwendig ist, sollte spätestens nach der Lektüre der besseren Artikel
+in diesem Buch verständlich sein. Insoweit ist das Buch zu begrüssen. Es
+bedürfte mehr solcher Publikationen.
+
+Allerdings: Das Buch ist ein Herausgeberwerk und als solches erstaunlich
+divergent, sowohl was den Inhalt und die Ziele der Texte angeht als auch
+die Textformen und die Qualität der Texte. Die ordnende Hand des
+Herausgeberteams -- die an sich beide inhaltlich durch vorhergehende
+Publikationen gut als kritische Experten im Themenfeld positioniert sind
+--, welche in einem solchen Werk zu erwarten wäre, fehlt. Die Texte
+stehen, wie in einer Zeitschrift, ohne jeden Bezug nebeneinander.
+Teilweise widersprechen sie sich direkt. Dies ist direkt bei den beiden,
+hintereinanderstehenden Texten von Florence Piron und Iryna Kuchma zu
+sehen. Im ersten wird die neokoloniale Ausrichtung des Open
+Access-Diskurses (dazu unten mehr) kritisiert, vor allem die Idee, der
+globale Süden müsste die Wissenschaftsentwicklung des globalen Nordens
+\enquote{aufholen}, im zweiten wird praktisch in einem Jubelartikel eine
+Initiative vorgestellt, die dem globalen Süden genau dieses
+\enquote{Aufholen} ermöglichen soll. Diese Divergenz zieht sich durch
+das ganze Buch und macht es schwierig zu lesen. Es gibt auch einige
+Texte, bei denen der Bezug zum Thema des Buches selber gar nicht klar
+ist, besonders der von Soenke Zehle, dessen Inhalt dem Rezensenten auch
+bei zweifachen Lesen nicht verständlich wurde, der aber mit Open Access
+offenbar nicht wirklich etwas zu tun hat, und der von Beatriz de los
+Arcos und Martin Weller, welcher gar nicht über Open Access, sondern
+über Open Educational Ressources spricht.
+
+Es soll aber nicht der Eindruck entstehen, alle Texte im Band wären
+unwichtig oder beliebig. Sie sind einfach nicht als Gesamtheit
+wahrnehmbar. Im ersten von zwei Teilen finden sich vor allem Texte, die
+sich mit der Geschichte von Open Access beschäftigen. Hier wird auch
+offen diskutiert, ob sich die ursprünglichen Versprechen eigentlich
+halten lassen oder ob sie nicht eher schon von Beginn an als neoliberal
+zu bezeichnen wären. Hat Open Access nicht eher den Effekt, dass nicht
+die Gesellschaft -- die ja, so die verbreitete Argumentation, für die
+Produktion wissenschaftlichen Wissens zahlt -- profitiert, sondern vor
+allem die Wirtschaft, die so noch direkter und ohne eigene Kosten auf
+dieses Wissen zurückgreifen kann, während die Gesellschaft wenig mit
+diesem Wissen anzufangen weiss, da zur sinnvollen Nutzung von Wissen
+mehr gehört, als das es frei ist? Ist Open Access nicht zu einem
+weiteren Werkzeug geworden, um die Arbeit von Wissenschaftlerinnen und
+Wissenschaftlern zu kontrollieren? Und sicher: Ist der Fakt, dass die
+grossen Wissenschaftsverlage Open Access als Geschäftsmodell integriert
+haben -- aber was sollen Verlage als Wirtschaftsunternehmen auch sonst
+tun -- ein starker Hinweis dafür, dass Open Access sich in eine falsche
+Richtung entwickelt hat? Es ist, wie gesagt, wichtig, solche Fragen zu
+stellen und zu diskutieren, wenn zum Beispiel Forschende oder
+Bibliotheken (wieder) zu proaktiven Beteiligten der Debatten werden
+wollen.
+
+Der zweite Teil des Buches beschäftigt sich mit dem globalen Süden.
+Hierzu hatte einer der Herausgeber, Joachim Schöpfel, vor drei Jahren
+schon ein Buch vorgelegt (vergleiche Schöpfel 2015), allerdings werden
+jetzt nicht nur, wie noch 2015, die BRICS-Staaten betrachten, sondern
+weitere Staaten einbezogen. In diesem Teil finden sich, wie schon
+erwähnt, sehr disparate Texte. Gewichtig sind hier die Texte, welche
+explizit diskutieren, ob Open Access in seiner jetzigen, kommerziellen
+Form nicht zu einen \enquote{neocolonial tool} geworden ist und ob dies
+nicht auch schon in der frühen Bewegung angelegt war. Wenn Open Access
+heute vor allem daran gebunden wird, ob Universitäten oder Staaten die
+allfälligen Open Access Gebühren zahlen (können) oder nicht, ist es dann
+nicht so, dass die eh schon vorhandenen Unterschiede in der
+Dissemination von Wissen verstärkt werden? Also: Ist es dann nicht nur
+so, dass Forschende aus dem globalen Süden ihre Forschungsergebnisse
+nicht nur nicht mehr sichtbar veröffentlichen können, sondern dass zudem
+das Wissen, welches sie selber wahrnehmen, das aus dem globalen Norden
+ist? Werden dann nicht Forschungsinteressen und -perspektiven aus dem
+globalen Norden als \enquote{das gesamte mögliche Wissen} präsentiert,
+noch mehr als jetzt schon? Und: Ist dies erst ein Ergebnis der
+Kommerzialisierung von Open Access oder war dies schon angelegt in der
+Vorstellung, eine Lösung für die Ungleichheit in der Welt wäre, wenn das
+Wissen des globalen Nordens auch dem globalen Süden zugänglich gemacht
+würde? Waren die eher technischen Debatten -- wie das Wissen zugänglich
+machen, welche Technik nutzen -- der frühen Open Access-Bewegung, in
+denen kaum über eine systematische Änderung der Wissensproduktion selber
+nachgedacht wurde, nicht schon ein Problem? Wurde hier nicht auch schon
+vertreten, dass der Rest der Welt den Forschungstraditionen des globalen
+Nordens folgen sollte, ohne dass sich dieser selbst verändern müssten?
+Einige der Texte im zweiten Teil des Buches diskutieren, wie angesichts
+der Realität in verschiedenen Staaten und schon vorhandener Versuche von
+Open Access im globalen Süden, dieses grundsätzlich an den Überzeugungen
+zu Open Access ansetzenden Probleme anzugehen seien. Zu erwähnen sind
+der Text von Florence Piron, welche auch fordert, über andere Modelle
+von Wissenschaft nachzudenken, und das Interview mit Leslie Chan, einem
+der Gründer von Bioline, welche die Publikation von Wissen aus der
+Biologie aus dem globalen Süden ermöglicht. Chan, der aus der
+Perspektive eines kanadischen Forschenden, welcher Wissen aus dem
+globalen Süden nutzt, spricht, erwähnt aber auch -- und das ist ein
+wichtiges Ende dieses Buches, welches zeigt, wie die Situation gerade
+tatsächlich ist -- das Beispiel von Zeitschriften aus Indien, die über
+Bioline so gewichtig wurden, dass sie von einem der grossen
+Wissenschaftsverlage aufgekauft, in dessen System integriert und dem
+ursprünglichen Redakteur, der jetzt verschwunden ist, entrissen wurden.
+Neokolonialismus in seiner am einfachsten zu fassenden Form.
+
+Das Buch ist zu empfehlen als Teil einer notwendigen Debatte, solange
+das Ziel dieser Debatte ist, Open Access sinnvoll zu entwickeln, also
+nicht nur den grossen Verlagen abspenstig zu machen, sondern auch über
+die impliziten Annahmen im Diskurs um Open Access nachzudenken und diese
+zu verändern (was auch heisst, über die Ungerechtigkeiten der heutigen
+Form von Wissensproduktion nachzudenken). Aber nur Teile des Buches
+tragen tatsächlich zu dieser Debatte bei. Andere lenken davon ab. Dies
+sollte beim Lesen beachtet werden. Es ist aber zu hoffen --
+insbesondere, wenn immer noch das Ziel gilt, dass die Welt durch
+Wissenschaft und Wissenschaftskommunikation besser werden soll -- dass
+die Debatte selbst weitergeführt wird.
+
+Literatur
+
+Schöpfel, Joachim (edit). Learning from the BRICS: Open Access to
+Scientific Information in Emerging Countries. Sacramento, CA: Litwin,
+2015
+
+%autor
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\textbf{Karsten Schuldt} (Chur / Berlin) ist Wissenschaftlicher
+Mitarbeiter am Schweizerischen Institut für Informationswissenschaft,
+HTW Chur und Redaktor der LIBREAS. Library Ideas.
+
+\end{document}

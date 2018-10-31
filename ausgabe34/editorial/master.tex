@@ -1,0 +1,223 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage[babel]{csquotes}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+\setcapindent{0pt} % no indentation in captions
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+%URLs hart brechen
+\makeatletter 
+\g@addto@macro\UrlBreaks{ 
+  \do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j 
+  \do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t 
+  \do\u\do\v\do\w\do\x\do\y\do\z\do\&\do\1\do\2\do\3 
+  \do\4\do\5\do\6\do\7\do\8\do\9\do\0} 
+% \def\do@url@hyp{\do\-} 
+\makeatother 
+
+%meta
+%meta
+
+\fancyhead[L]{Redaktion LIBREAS \\ %author
+LIBREAS. Library Ideas, 34 (2018). % journal, issue, volume.
+\href{http://nbn-resolving.de/}
+{}} % urn 
+% recommended use
+%\href{http://nbn-resolving.de/}{\color{black}{urn:nbn:de...}}
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/3.0/}{\color{black}Creative Commons BY 3.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{Editorial \#34: 90 Jahre Bibliotheks*wissenschaft in Berlin}} % title
+\author{Redaktion LIBREAS} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={Editorial \#34: 90 Jahre Bibliotheks*wissenschaft in Berlin},
+      pdfauthor={Redaktion LIBREAS},
+      pdfcopyright={CC BY 3.0 Unported},
+      pdfsubject={LIBREAS. Library Ideas, 34 (2018).},
+      pdfkeywords={Open Access, Bibliothekswissenschaft, Berlin},
+      pdflicenseurl={https://creativecommons.org/licenses/by/3.0/},
+      pdfcontacturl={http://libreas.eu},
+      baseurl={http://libreas.eu},
+      pdflang={de},
+      pdfmetalang={de}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+
+%body
+Die Redaktion der LIBREAS. Library Ideas ist -- was wohl bekannt ist --
+eng mit dem Institut für Bibliotheks- und Informationswissenschaft
+verbunden, ohne dass Institut und Redaktion zusammengehören würden. Das
+Institut hat die LIBREAS mehrfach unterstützt, als sie als Projekt
+gegründet wurde, als sie in den ersten Jahren die Infrastruktur des
+Instituts nutzen durfte und auch in Auseinandersetzungen für die
+Namensrechte -- und tut dies weiterhin, zuletzt als das Institut den
+Besitz der Wortmarke LIBREAS für weitere zehn Jahre sicherte, wofür wir
+natürlich sehr dankbar sind. Grundsätzlich aber ist die LIBREAS schon
+länger \enquote{ausgezogen}, mit eigenem Verein und selbst-organisierter
+(und finanzierter) Infrastruktur.
+
+Kurz: Die LIBREAS ist nicht die Hauszeitschrift des Instituts. Zugleich
+besteht die gesamte Redaktion aus ehemaligen Studierenden des Instituts,
+die zu einem großen Teil dort auch gearbeitet haben, zum Teil weiter
+arbeiten, promovierten oder noch promovieren. In der Geschichte der
+Redaktion war das nicht immer so und es muss auch nicht so bleiben. Die
+Verbindungen zum Institut aber bleiben. Fraglos hat es unser aller Leben
+entscheidend beeinflusst.
+
+Dass dieses nun eine 90-Jahr-Feier plant -- genauer, wie Hans Lutz in
+einem Beitrag bemerkt, den wir in dieser Ausgabe republizieren, 90 Jahre
+der Verlegung des Lehrstuhls nach Berlin -- war für die Redaktion
+Anlass, danach zu fragen, was in diesen 90 Jahren in der
+Bibliotheks*wissenschaft in Berlin eigentlich passiert ist. Das ist
+interessant, schon weil diese 90 Jahre mehrere Diktaturen und
+Gesellschaftsformen umfassen, eine Vielzahl von Personen und ihre
+Biographien, viele Neuanfänge und wohl auch Diskussionen, die wieder
+aufblühten, verblassten und häufig über die Zeit wieder vergessen
+wurden.
+
+Das jetzt entstandene Heft gibt einen gewissen ersten Einblick in diese
+Geschichte, aber selbstverständlich lässt sich dies in alle Richtungen
+erheblich weiter ausbauen. Es fällt zum Beispiel auf, dass vor allem die
+letzten Jahre -- also nach 1990 -- thematisiert werden. Die
+Gründungsgeschichte wird durch drei wiederveröffentlichte Texte
+repräsentiert. Alles andere dazwischen fehlt praktisch. Auch wird kaum
+über den Gegenstand, Benennung oder Methodik der Bibliothekswissenschaft
+nachgedacht. Wir hoffen deshalb, wie immer übrigens, dass die Beiträge
+in der Ausgabe Ausgangspunkt weiterer Diskussionen und historischer
+Nachforschungen werden. Ein Einfluss, den unsere Ausbildungen am
+Institut auf unser Leben hatte, war nämlich, dass wir alle im Nachhinein
+den Eindruck hatten, dass gerade die Diskussion über die
+Wissenschaftlichkeit und Methodik der Bibliotheks*wissenschaft zu kurz
+kam. Dies überraschte und überrascht im Prinzip jede Generation von
+Studierenden neu, vor allem, da es sich beim IBI bekanntlich um die
+einzige bibliotheks- und informationswissenschaftliche Institution mit
+Promotionsrecht im gesamten deutschsprachigen Raum handelt, eine gewisse
+theoretische Orientierung und Fundierung also vorausgesetzt werden kann.
+Man könnte es auch positiv formulieren: Wo feste Vorgaben hinsichtlich
+wissenschaftlicher Methode und Ausrichtung des Faches fehlen, fällt der
+Diskurs umso lebhafter und freier aus. Und ohne diese Freiheit gäbe es
+die LIBREAS vermutlich nicht.
+
+Diese Ausgabe ist auch deshalb eine besondere, weil sie zusammen mit
+Studierenden des IBI-Projektseminars \enquote{90 Jahre IBI} im
+Sommersemester 2018 entstanden ist. Das Seminar wurde von Kirsten
+Schlebbe geleitet. Unter dem Motto \enquote{Vergangenheit, Gegenwart und
+Zukunft des IBI} haben die Studierenden Interviews mit aktuellen und
+ehemaligen Professorinnen und Professoren, Mitarbeitenden und
+Studierenden des Instituts geführt. Für die Zusammenarbeit und das
+Engagement danken wir dem \enquote{Team LIBREAS} sehr -- diese
+Kooperation ist umso schöner, weil die LIBREAS von Anfang an auch als
+Publikationsort für Studierende gedacht war und ist, um
+Publikationserfahrungen zu sammeln.
+
+\begin{figure}
+\centering
+\includegraphics{image.jpg}
+\caption{Redaktionsorte XIII. Berlin-Friedrichshain, während der
+Hitzewelle 2018.}
+\end{figure}
+
+In dieser Tradition wollen wir als LIBREAS. Library Ideas, nicht nur in
+dieser Ausgabe, einen Ort für Debatten, Diskussionen und Reflexionen zur
+Verfügung stellen.
+
+Das IBI haben die meisten Redaktionsmitglieder*innen in ihrer
+Studienzeit als angenehmen, offenen und unterstützenden Ort in
+Erinnerung. Wir sind froh, dass das Institut heute weiter existiert und
+damit die Möglichkeit bietet, sich an den genannten Fragen abzuarbeiten.
+Wir sind auch weiterhin dankbar für die Unterstützung des Instituts und
+auch für seine Offenheit gerade uns, die ja gerne Kritik äußern, zu
+unterstützen. Und wir hoffen, dass die Einblicke in die Geschichte von
+Institut und Profession, welche dieses Heft bietet, Sie, die
+Leser*Innen, interessiert und zu eigenen Arbeiten anregt.
+
+Ihre / Eure Redaktion LIBREAS. Library Ideas
+
+(Berlin, Chur, Dresden, Göttingen, München)
+
+%autor
+
+\end{document}
