@@ -130,7 +130,7 @@ insbesondere, wenn immer noch das Ziel gilt, dass die Welt durch
 Wissenschaft und Wissenschaftskommunikation besser werden soll -- dass
 die Debatte selbst weitergeführt wird.
 
-Literatur
+### Literatur
 
 Schöpfel, Joachim (edit). Learning from the BRICS: Open Access to
 Scientific Information in Emerging Countries. Sacramento, CA: Litwin,
