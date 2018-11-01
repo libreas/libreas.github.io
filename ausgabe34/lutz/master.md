@@ -24,7 +24,7 @@ darlege, im zweiten ihre Arbeitsgebiete umreisse und im dritten die
 quaestio iuris behandle.
 
 1.
----
+==
 
 Zweifellos gab es schon in den assyrischen und ägyptischen Bibliotheken,
 von den griechisch-römischen ganz zu schweigen, aus der Erfahrung
@@ -126,7 +126,7 @@ erste, grosse Zusammenfassung der bibliothekwissenschaftlichen Forschung
 erhalten.
 
 Dieser Entwicklung des Berufstandes folgt alsbald die *Entwicklung der
-bibliothekwissenschaftlichen Einrichtungen an den* *Hochschulen und
+bibliothekwissenschaftlichen Einrichtungen an den Hochschulen und
 ähnlichen Instituten*[^4]. Im 17. und 18. Jahrhundert wurden an den
 Universitäten Vorlesungen unter dem Titel bibliothecaria peritia u. dgl.
 gehalten, das ist Bibliographie und Gelehrtengeschichte[^5]. 1821 wurde
@@ -179,7 +179,7 @@ einer weltumspannenden Organisation. Die Bibliothekwissenschaft wird
 erst von dieser Zeit an zusammenhängend bearbeitet.
 
 2.
----
+==
 
 Was für *Arbeitgebiete* umfasst die Bibliothekwissenschaft?
 
@@ -428,7 +428,7 @@ Spezialarbeiten und Zeitschriftenaufsätze ein[^13].
 Wir kommen zum zweiten Gebiet, mit dem sich die Bibliothekwissenschaft
 befasst, zur *Buch- und Büchereigeschichte*.
 
-Für die Geschichte der *Schrift*, der verschiedenen Schreibstoffe:
+Für die Geschichte der *Schrift,* der verschiedenen Schreibstoffe:
 Stein, Ton, Papyrus, Pergament usw., sowie über die verschiedenen
 Schriftsysteme, Bilder-, Silben- und Buchstabenschrift übernimmt die
 Bibliothekwissenschaft die fertigen Ergebnisse von der Völkerkunde und
@@ -499,10 +499,10 @@ Thurneysen, Mechel, Haas noch keinen Bearbeiter gefunden. Besser steht
 *Genf* da. Durch die Arbeit von E. H. Gaullieur: Etude sur la
 typographie genevoise du 15^e^ jusqu'au 19^e^ siecle, 1855, haben wir
 einen guten Ueberblick über die Drucker der Reformationszeit und der
-Aufklärung[^15a]. In *Lausanne* blüht Grasset, der Drucker Hallers, und
-in *Yverdon* F. B. de Felice, von dem K. J. Lüthi[^16] eine
+Aufklärung[^16]. In *Lausanne* blüht Grasset, der Drucker Hallers, und
+in *Yverdon* F. B. de Felice, von dem K. J. Lüthi[^17] eine
 Bibliographie zusammengestellt hat. Für die Geschichte des *Berner*
-Buchdrucks besitzen wir wertvolle Vorarbeiten von Dr. Adolf Fluri[^17].
+Buchdrucks besitzen wir wertvolle Vorarbeiten von Dr. Adolf Fluri[^18].
 Sein Aufsatz über den ersten Berner Drucker Apiarius ist durch seinen zu
 frühen Tod leider Bruchstück geblieben. Wertvoll ist sein «Versuch einer
 Bibliographie der heidnischen Kirchengesangbücher». Den Wert solcher
@@ -512,7 +512,7 @@ Schweiz im 18. Jahrhundert, der gerade die Wichtigkeit dieser anonymen
 Kirchen- und Schulliteratur als Lesestoff der breiten Schichten
 herausgestellt hat. Für die Obrigkeitliche Buchdruckerei ist die Aufgabe
 noch zu lösen. Für *Luzern* und die Urschweiz haben R. und Fritz
-Blaser[^18] tüchtige Arbeiten geliefert. Die Tätigkeit Froschauers in
+Blaser[^19] tüchtige Arbeiten geliefert. Die Tätigkeit Froschauers in
 *Zürich* hat Rudolphi zusammengestellt. Zwingli und Conrad Gessner sind
 dessen berühmteste Autoren. Max Rychner hat einen allgemeinenen
 Ueberblick über den Verlag Orell Füssli und seine Vorgänger gegeben,
@@ -521,7 +521,7 @@ hat das Werk der Stiftsdruckerei *Einsiedeln* behandelt, ebenso hat die
 Tipografia elvetica in *Capolago*, welche 1830--53 für das Risorgimento
 eine wichtige Rolle gespielt hat, von Rinaldo Caddeo in Mailand die
 abschliessende, reich ausgestattete Geschichte und Bibliographie in zwei
-Bänden erhalten. K. J. Lüthi[^19] hat eine Geschichte der *romanischen*
+Bänden erhalten. K. J. Lüthi[^20] hat eine Geschichte der *romanischen*
 *Bibelausgaben* des 16.--18. Jahrhunderts geliefert, sowie
 Zusammenstellungen der *hebräischen*, *äthiopischen* und *chinesischen*
 Drucke der Schweiz.
@@ -544,7 +544,7 @@ deutschen Buchhandels» 1886 ff. angewiesen sind. Die «Festgabe zum
 75jährigen Jubiläum des schweizerischen Buchhändlervereins 1849--1924»
 ist nur eine Skizze.
 
-Interessanter ist die Geschichte der grossen *Verleger.* Das 18.
+Interessanter ist die Geschichte der grossen *Verleger*. Das 18.
 Jahrhundert bringt die endgiltige Trennung von Druckerei und Verlag, der
 technischen Druckkunst und des Unternehmens mit Geistesgut. Wenn ich die
 Namen Friedrich Nicolai, Göschen, Cotta, Hoffmann und Campe, Georg
@@ -562,7 +562,7 @@ klassischen Altertumswissenschaft. Für die Schweiz wäre für das 18.
 Jahrhundert Orell, Gessner, Füssli und Co. zu nennen, für die 1840er
 Jahre das Literarische Comptoir in Zürich und Winterthur und die
 gleichgesinnten Verlage, deren Tätigkeit Werner Näf und Hans Gustav
-Keller dargestellt haben[^20].
+Keller dargestellt haben[^21].
 
 Aber auch der Einfluss der Verleger auf das Publikum zeigt
 aufschlussreiche Zusammenhänge. 1840--1865 wurden Scott (schon seit
@@ -577,7 +577,7 @@ verbreitet, die antiken Schriftsteller in 8 ½, philosophische Literatur
 in 5 (Kant 800 000), Ibsen 4 ½ Millionen. Die Verlegergeschichte kann
 für die Geschichte der führenden Geister nur äusserliche Daten liefern,
 dafür erfasst sie geistige Massenerscheinungen, die Geschichte des
-Publikumsgeschmackes[^21].
+Publikumsgeschmackes[^22].
 
 Zu den historischen Aufgaben des Bibliothekars gehört auch die
 *Geschichte der Bibliotheken*. Vorbild ist immer noch die Darstellung,
@@ -596,7 +596,7 @@ Bibliothek (84. Neujahrsblatt zum Besten des Waisenhauses in Zürich
 1921).
 
 Adolf von *Harnack* hat in einem Aufsatz: «Die Professur für
-Bibliothekswissenschaften in Preussen»[^22] der Bibliothekwissenschaft
+Bibliothekswissenschaften in Preussen»[^23] der Bibliothekwissenschaft
 eine grosse Aufgabe für die Zukunft gestellt. Er meint, alle bisher
 aufgeführten Aufgaben genügten nicht, um eine ordentliche Professur zu
 rechtfertigen, deren Aufgabe sei vielmehr eine volkswirtschaftliche,
@@ -634,7 +634,7 @@ und die bis jetzt noch kaum in Angriff genommen ist.
 
 Endlich wird gelegentlich behauptet, die Bibliothekare sollten sich auf
 dem Gebiete der Gelehrtengeschichte und der Geschichte der
-Universitäten, Akademien usw. betätigen[^23]. Gewiss sollen sie für
+Universitäten, Akademien usw. betätigen[^24]. Gewiss sollen sie für
 ihren Beruf gute Kenntnisse davon haben, aber hier selbständig zu
 arbeiten ist nicht ihre Aufgabe. Sie können als solche nur Vorarbeit
 leisten. Es ist nicht einzusehen, warum ein Bibliothekar besonders
@@ -643,7 +643,7 @@ Naturforschenden Gesellschaft zu schreiben. Beide Gebiete scheiden als
 Arbeitsfelder der Bibliothekwissenschaft aus.
 
 3.
----
+==
 
 Wir kommen endlich zur *quaestio juris*.
 
@@ -657,7 +657,7 @@ einer Bibliothek, also nur Bibliotheklehre. Ihm folgen die ältern
 Vertreter Ebert, Molbech und Zoller. Friedrich Buhmann ist m. W. der
 erste, der 1874 unter Bibliothekwissenschaft sowohl Bibliotheklehre wie
 Bibliothekkunde versteht. Ihm schliessen sich Arnim Graesel 1890,
-Ferdinand Eichler 1897 und Karl Dziatzko 1900 an[^24]. Eichler fasst
+Ferdinand Eichler 1897 und Karl Dziatzko 1900 an[^25]. Eichler fasst
 unsern Gegenstand als Buch- und Bibliothekwesen, Dziatzko als Schrift-,
 Buch- und Bibliothekwesen zusammen. Dieser Begriff ist für die Gegenwart
 massgebend geworden (Leidinger) und wird sich mit Milkaus Handbuch ganz
@@ -720,7 +720,7 @@ viel wie möglich zugänglich zu machen; ein Buch, das nicht gelesen wird,
 hat seinen Zweck verfehlt. Wenn er daneben noch Hörer findet, welche
 sich für die Geschichte des Buches begeistern, um so besser. Ist doch
 das Buch immer noch das wichtigste Handwerkzeug des Wissenschafters, bei
-dem es sich wohl lohnt, seine Geschichte zu kennen[^25].
+dem es sich wohl lohnt, seine Geschichte zu kennen[^26].
 
 Ich glaube mit meinen Ausführungen den Beweis erbracht zu haben, dass
 Bibliothekwissenschaft ein streng wissenschaftlich betriebenes Fach ist,
@@ -749,10 +749,12 @@ Zweck ist der Haupt- und Endzweck dieser «Wissenschaft», -- auf
 *Dienstleistung* ist sie ganz und gar eingestellt. Nennt sich der
 Geistliche «minister verbi divini», so soll sich der Bibliothekar
 «minister verbi scripti et impressi» nennen und zugleich «minister
-litterarum et artium studiosorum»[^26].
+litterarum et artium studiosorum»[^27].
 
 In diesem Sinne Harnacks Bibliothekwissenschaft zu treiben, soll mein
 Bestreben sein.
+
+*\[Anm. d. Red.: Aus technischen Gründen weist die Fußnoten-Zählung von der Zählungsweise des Originalbeitrags ab der Fußnote 15 ab. Die Original-Fußnote 15a wird als Fußnote 16 dargestellt und die weiteren Fußnoten – im Original 16 bis 19 – an dieser Stelle als Fußnoten 17 bis 20 gezählt.\]*
 
 [^1]: Ueber die Frage der Bibliothekwissenschaft haben sich geäussert:
     *Rullmann*, Friedrich. Die Bibliothekseinrichtungskunde zum Theile
@@ -827,42 +829,42 @@ Bestreben sein.
     in: Archiv für Geschichte des deutschen Buchhandels, Bd. 11--12,
     1887--88.
 
-[^15a]: Weigelt, Gertrude. Les éditions Fick. Gutenbergmuseum Jg. 21,
+[^16]: Weigelt, Gertrude. Les éditions Fick. Gutenbergmuseum Jg. 21,
     1935.
 
-[^16]: Gutenbergstube, Jg. 1, 1915 f.
+[^17]: Gutenbergstube, Jg. 1, 1915 f.
 
-[^17]: Lüthi, Karl J. Versuch einer Bibliographie zur heimischen Druck-
+[^18]: Lüthi, Karl J. Versuch einer Bibliographie zur heimischen Druck-
     und Pressegeschichte. Gutenbergmuseum Jg. 10, 1924. Fluri, Ad.:
     Gutenbergmuseum Jg. 6, 1920 ff., 16, 1930. Die Arbeit von A. M.
     Lacroix ist nur handschriftlich in Genf vorhanden.
 
-[^18]: Gutenbergstube Jg. 2, 1916, Gutenbergmuseum Jg. 18, 1932 ff.
+[^19]: Gutenbergstube Jg. 2, 1916, Gutenbergmuseum Jg. 18, 1932 ff.
 
-[^19]: Gutenbergstube Jg. 3, 1917.
+[^20]: Gutenbergstube Jg. 3, 1917.
 
-[^20]: Näf, W. Das literarische Comptoir Zürich und Winterthur.
+[^21]: Näf, W. Das literarische Comptoir Zürich und Winterthur.
     Neujahrsblatt der Literar. Gesellschaft in Bern, N. F. Heft 7, Bern
     1929. Keller, Hans Gustav. Die politischen Verlagsanstalten und
     Druckereien in der Schweiz und ihre Bedeutung für die Vorgeschichte
     der deutschen Revolution von 1848. Diss. Bern 1935 = Berner
     Untersuchungen zur allg. Geschichte, H. 8.
 
-[^21]: Schulze, Friedrich. Der deutsche Buchhandel und die geistigen
+[^22]: Schulze, Friedrich. Der deutsche Buchhandel und die geistigen
     Strömungen der letzten 100 Jahre. 1925.
 
-[^22]: Vossische Zeitung, 24. Juli 1921. Abgedruckt in Erforschtes und
+[^23]: Vossische Zeitung, 24. Juli 1921. Abgedruckt in Erforschtes und
     Erlebtes, 1923, S. 218--223.
 
-[^23]: ZfB 1933, S. 528--35
+[^24]: ZfB 1933, S. 528--35
 
-[^24]: K. Dziatzko. Die Beziehungen des Bibliothekwesens zum Schulwesen
+[^25]: K. Dziatzko. Die Beziehungen des Bibliothekwesens zum Schulwesen
     und zur Philologie. Neue Jahrbücher f. d. klass. Altertum, Jg. 3,
     1900 II, S. 94--102.
 
-[^25]: Die Bibliotheken gewinnen ihrerseits durch die Verbindung mit den
+[^26]: Die Bibliotheken gewinnen ihrerseits durch die Verbindung mit den
     Hochschulen. Die Beziehungen zu ihren wichtigsten Benützern
     gestalten sich enger und der Bibliothekbetrieb wird dadurch vor der
     Gefahr bewahrt, sich einem Sonderdasein zu ergeben.
 
-[^26]: ZfB 1923, S. 532.
+[^27]: ZfB 1923, S. 532.

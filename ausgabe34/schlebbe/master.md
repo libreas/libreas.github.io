@@ -19,7 +19,7 @@ geschäftsführenden Direktors Prof. Dr. Robert Funk, wurde das Kolloquium
 im Wintersemester 1997/98 ins Leben gerufen. Eine Einladung (Abb. 1)
 erinnert an den ersten Termin am Dienstag, dem 20. Januar 1998.
 
-![Einladung zum ersten BBK am 20.01.1998 (Quelle: Privatarchiv Dr. Gertrud Pannier](img/Abbildung1.png)
+![Einladung zum ersten BBK am 20.01.1998 (Quelle: Privatarchiv Dr. Gertrud Pannier](img/Abbildung1.jpg)
 
 Hintergrund für die Idee einer institutseigenen Veranstaltungsreihe war
 nach Aussage von Michael Heinz "einerseits das Bedürfnis, die
@@ -88,7 +88,7 @@ ersten Jahren einigermaßen konstant blieb und dass in den längeren
 Wintersemestern (blau) naturgemäß mehr Vorträge stattfanden als in den
 kürzeren Sommersemestern (orange).
 
-![Anzahl der Vorträge pro Semester](img/Abbildung2.JPG)
+![Anzahl der Vorträge pro Semester](img/Abbildung2.png)
 
 
 ReferentInnen
@@ -106,7 +106,7 @@ um Diskussionsveranstaltungen handelt oder die ReferentInnen nicht alle
 namentlich benannt sind (Beispielsweise Person X und Studierende).
 Abbildung 3 zeigt die Verteilung in der Übersicht.
 
-![Anzahl der ReferentInnen pro Vortrag](img/Abbildung3.JPG)
+![Anzahl der ReferentInnen pro Vortrag](img/Abbildung3.png)
 
 Bei der Anzahl von ReferentInnen pro Vortrag zeigt sich auch im Verlauf
 der Jahre keine große Veränderung. Der "Trend zum Kollektiv" in der
@@ -114,7 +114,7 @@ Wissenschaft (FAZ, 07.06.2018) kann also im Zusammenhang mit dem BBK
 nicht bestätigt werden. Abbildung 4 bildet die Mittelwerte (Anzahl
 ReferentInnen / Vortrag) für die einzelnen Semester ab.
 
-![Mittelwerte für die Anzahl der ReferentInnen pro Vortrag pro Semester](img/Abbildung4.JPG)
+![Mittelwerte für die Anzahl der ReferentInnen pro Vortrag pro Semester](img/Abbildung4.png)
 
 ### Anzahl der Vorträge pro ReferentIn
 
@@ -221,7 +221,7 @@ aufgeführt wird (extern). Hier zeigt sich über die Jahre eine klare
 Tendenz zu einem verstärkten Anteil von externen ReferentInnen (siehe
 Abb. 6).
 
-![Verhältnis von Vorträgen IBI-intern bzw. extern](img/Abbildung6.JPG)
+![Verhältnis von Vorträgen IBI-intern bzw. extern](img/Abbildung6.png)
 
 ### Internationale Kontakte
 
@@ -236,7 +236,7 @@ die Personalia des Instituts sowie durch die bestehenden Kooperationen
 und Partnerschaften (iSchool Organisation; ERASMUS et cetera) entstanden
 ist.
 
-![Internationale Institutionen zu Gast im BBK](img/Abbildung7.jpg)
+![Internationale Institutionen zu Gast im BBK](img/Abbildung7.png)
 
 Auch an dieser Stelle zeigen sich interessante Entwicklungen im Laufe
 der Zeit, die in gewisser Weise die Geschichte des Instituts
@@ -391,9 +391,7 @@ Anderl, Sybille: Trend zum Kollektiv: Die Forschung der vielen, in:
 
 [^2]: Siehe die BBK-Websites [https://www.ibi.hu-berlin.de/de/bbk/bbk-archiv](https://www.ibi.hu-berlin.de/de/bbk/bbk-archiv) (Sommersemester 2007 bis heute) sowie [http://www.ib.hu-berlin.de/about/veranst/bbk/index.html](http://www.ib.hu-berlin.de/about/veranst/bbk/index.html) (Sommersemester 2005 bis Wintersemester 2006/07) und [http://www.ib.hu-berlin.de/about/veranst/bbk/archiv/index.html](http://www.ib.hu-berlin.de/about/veranst/bbk/archiv/index.html) (Wintersemester 1998 bis Wintersemester 2004/2005) \[zuletzt abgerufen am 3.10.2018\]
 
-[^3]: Eine tabellarische Übersicht der BBK-Termine sowie weitere
-    Statistiken sind als (Roh-)Datendokumente im XLSX-Format dem Artikel
-    als Supplement beigefügt, vgl. [http://libreas.eu/ausgabe34/schlebbe/data](http://libreas.eu/ausgabe34/schlebbe/data).
+[^3]: Eine tabellarische Übersicht der BBK-Termine sowie weitere Statistiken sind als (Roh-)Datendokumente im XLSX-Format dem Artikel als Supplement beigefügt, vgl. "BBK-Veranstaltungen (01/1998-07/2018)" [https://doi.org/10.18452/19506](https://doi.org/10.18452/19506) bzw. "Materialien zur Statistik des Berliner Bibliothekswissenschaftlichen Kolloquiums (BBK)" [https://doi.org/10.18452/19507](https://doi.org/10.18452/19507).
 
 [^4]: Nicht vollständig ausgeschlossen werden kann, dass Personen durch
     eine Namensänderung nach einer Eheschließung bei der Analyse als
