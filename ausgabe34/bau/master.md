@@ -69,7 +69,7 @@ Glas Richtung Vorlesungssaal, denn den Luxus einer
 bibliothekswissenschaftlichen Institutsbibliothek gibt es nicht mehr.
 Die Dinge, die verschwinden.
 
-![Wandbild IBI](img/wandbild-ibi.jpg)
+![Wandbild in der ehemaligen Zweigbibliothek Bibliothekswissenschaft im zweiten Obergeschoss (Foto: Ben Kaden, Juli 2018)](img/wandbild-ibi.jpg)
 
 Ist das zu bedauern? Vielleicht. Aber natürlich sind für das Institut
 für Bibliothekswissenschaft auch Dinge verschwunden. Und ebenso für das
@@ -399,7 +399,7 @@ Nicolaische Verlagsbuchhandlung Berlin, 1996, 55--59.
 
 Hiller, Karl: Der Bauplastiker Ernst Westphal (1851--1926). Berlin 2013.
 [http://www.karl-hiller.de/wp-content/uploads/2013/01/Karl%20Hiller%20%282013%29%20Der%20Bauplastiker%20Ernst%20Westphal.pdf](http://www.karl-hiller.de/wp-content/uploads/2013/01/Karl%20Hiller%20%282013%29%20Der%20Bauplastiker%20Ernst%20Westphal.pdf)
-\[zuletzt aufgerufen: 3.10.2018\].
+\[zuletzt aufgerufen: 1.11.2018\].
 
 Institut für Denkmalpflege (Hrsg.): Die Bau- und Kunstdenkmale in der
 DDR. Hauptstadt Berlin I. Abteilung Forschung Gesamtredaktion Heinrich
@@ -407,7 +407,7 @@ Trost. Henschelverlag Berlin, 1984.
 
 Landesdenkmalamt Berlin: Handelskammer Berlin.
 [http://www.stadtentwicklung.berlin.de/denkmal/liste\_karte\_datenbank/de/denkmaldatenbank/daobj.php?obj\_dok\_nr=09080414](http://www.stadtentwicklung.berlin.de/denkmal/liste_karte_datenbank/de/denkmaldatenbank/daobj.php?obj_dok_nr=09080414)
-\[zuletzt aufgerufen: 3.10.2018\].
+\[zuletzt aufgerufen: 1.11.2018\].
 
 Probst, Bettina: Das Institut und Museum für Meereskunde -- Eine bewegte
 Geschichte. In: Museum für Verkehr und Technik Berlin (1996):
@@ -423,11 +423,12 @@ Berlin : \[Museum für Meereskunde\], \[1929\].
 
 Technische Abteilung der Humboldt-Universität zu Berlin: Dorotheenstr.
 26,
-[https://www.hu-berlin.de/de/ueberblick/campus/mitte/standorte/dorotheenstrasse-26/dorotheenstrasse-26](https://www.hu-berlin.de/de/ueberblick/campus/mitte/standorte/dorotheenstrasse-26/dorotheenstrasse-26).
+[https://www.hu-berlin.de/de/ueberblick/campus/mitte/standorte/dorotheenstrasse-26/dorotheenstrasse-26](https://www.hu-berlin.de/de/ueberblick/campus/mitte/standorte/dorotheenstrasse-26/dorotheenstrasse-26)
+\[zuletzt aufgerufen: 1.11.2018\].
 
 Dorotheenstr. 26 Dacherneuerung,
 [https://www.ta.hu-berlin.de/915](https://www.ta.hu-berlin.de/915)
-\[zuletzt aufgerufen: 3.10.2018\].
+\[zuletzt aufgerufen: 1.11.2018\].
 
 Wenzel, Gerhard: "Dein Armer!": Das diakonische Engagement der
 Hugenotten in Berlin von 1672 bis 1772. Diakonie zwischen Ohnmacht,
@@ -457,7 +458,5 @@ Seemann, Leipzig 1942, 455.
 [^7]: Siehe ebenda:
     [https://www.ta.hu-berlin.de/915](https://www.ta.hu-berlin.de/915)
 
-[^8]: Vgl das Interview mit Prof. Vivien Petras, PhD und Prof. Dr. Elke
-    Greifeneder\
-    geführt von Thomas Roesnick (20.06.2018) in dieser Ausgabe.\
-    \....
+[^8]: Vgl. das Interview mit Prof. Vivien Petras, PhD und Prof. Dr. Elke
+    Greifeneder geführt von Thomas Roesnick (20.06.2018) in dieser Ausgabe: [http://libreas.eu/ausgabe34/interview-roesnick/].

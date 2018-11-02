@@ -16,7 +16,7 @@ Projektes zu feiern, haben wir ein Interview mit Dr. Petra Hauke, seit
 15 Jahren Leiterin des Projektseminars, geführt.
 
 
-![Dr. Petra Hauke mit Seminarteilnehmern im Wintersemester 2017/2018
+![Petra Hauke mit Seminarteilnehmern im Wintersemester 2017/2018
 (Fotografie: Valentina Dimitriadu)](img/Bild-01.jpg)
 
 

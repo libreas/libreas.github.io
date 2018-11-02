@@ -391,7 +391,7 @@ Wahlpflichtmodulen zusammensetzt (Tabelle 4).
   BP5: Human Information Behavior                                          BWP5: Wirtschaftliche Grundlagen des Informationssektors
 
 Table: Übersicht der Module aus der Studienordnung BA Bibliotheks-
-und Informationswissenschaft 2017.
+und Informationswissenschaft 2017
 
 Noch in diesem Jahr wird auch die neue Master-Studienordnung eingeführt.
 Diese setzt sich aus zwei Basismodulen und 11 Wahlpflichtmodulen
@@ -413,7 +413,7 @@ zusammen (Tabelle 5).
                                                     MWP11: Management
 
 Table: Übersicht der Module aus der Studienordnung MA Information
-Science 2018.
+Science 2018
 
 Vieles aus der Befragung und den Fokusgruppen floss in die neuen
 Studienordnungen ein. Eine der größten Veränderungen im Bachelorstudium
@@ -622,7 +622,7 @@ to Information Science, David Bawden and Lyn Robinson (Hrsg.). S.
 XXIV--XXV.
 
 Der Zugriff auf die verwendeten Online-Ressourcen wurden zuletzt am
-04.08.2018 geprüft.
+01.11.2018 geprüft.
 
 [^1]: [https://gremien.hu-berlin.de/de/amb?selectedType=Studienordnung\#B](https://gremien.hu-berlin.de/de/amb?selectedType=Studienordnung#B)
 
