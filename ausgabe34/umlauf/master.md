@@ -16,7 +16,10 @@ Zeichen in weichen Ton. So entstand die Keilschrift auf Tontafeln. Damit
 der Zusammenhang im Sinn eines Buches erkennbar blieb, nummerierte der
 Schreiber die Tontafeln.
 
-![](img/image1.jpg)
+
+<div style="border:solid;">
+<i>Als ich bei meiner Rückkehr aus Griechenland nach Italien zu Brundusium anlangte und aus dem Schiffe ans Land gestiegen, da sah ich einige Bündel Bücherpakete zum Verkauf ausliegen. Allerdings strotzten diese Scharteken von Moder und Schmutz. Trotzdem trat ich näher, erkundigte mich nach ihrem Preis und wurde durch die un-verhoffte Billigkeit bewogen, die meisten Werke um ein Spottgeld an mich zu bringen. In den zwei darauf folgenden Nächten las ich sie rasch durch.</i> Aulus Gellius (2. Jh. n. Chr.): Die attischen Nächte, IX. Buch, 4. Kap., gekürzt.
+</div>
 
 ### Buch und Buchhandel in Antike und Mittelalter
 
@@ -254,7 +257,10 @@ Buches und des Buchhandels von vier Haupttendenzen geprägt:
     Versandhandel; Buchhandlungen als Schmökerstuben oder als Bühne
     des Lifestyles und so weiter).
 
-![](img/image2.jpg)
+<div style="border:solid;">
+<i>Seit dem "tintenklecksenden Saeculum", wie es Friedrich Schiller beklagte, weil zu viel kursierender Lektürestoff seine ästhetische Erziehung des Menschengeschlechts behindere, waren die Weichen des Lesemarktes auf Pluralisierung und Konkurrenzkampf um Deutungsmacht und Aufmerksamkeit gestellt.</i> Hübinger, Gangolf: Intellektuelle im Strukturwandel der Öffentlichkeit. In: Das evangelische Intellektuellenmilieu in Deutschland… Hrsg. von M. Grunwald u.a. Bern 2008, S. 25-40, Zitat S. 28-29.
+</div>
+
 
 ### Perspektiven des Buchs und des Buchhandels im 21. Jahrhundert
 
@@ -317,3 +323,5 @@ lassen:
     fläzen sich gerne in solchen Sesseln, die sie zuhause nicht haben.
     Vielleicht verkauft die Sortimentsbuchhandlung der Zukunft mehr
     Aufenthaltsqualität als Bücher...
+
+*Dieser Beitrag erscheint außerhalb des Schwerpunktes unter der Rubrik Streiflicht als Ausdruck der langjährigen Verbundenheit des IBIs mit Konrad Umlauf.*
