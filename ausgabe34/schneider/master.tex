@@ -74,15 +74,7 @@ final
 \usepackage{hyperxmp}
 \usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
 breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
-%URLs hart brechen
-\makeatletter 
-\g@addto@macro\UrlBreaks{ 
-  \do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j 
-  \do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t 
-  \do\u\do\v\do\w\do\x\do\y\do\z\do\&\do\1\do\2\do\3 
-  \do\4\do\5\do\6\do\7\do\8\do\9\do\0} 
-% \def\do@url@hyp{\do\-} 
-\makeatother 
+\usepackage{breakurl}
 
 %meta
 %meta
@@ -94,7 +86,7 @@ LIBREAS. Library Ideas, 34 (2018). % journal, issue, volume.
 % recommended use
 %\href{http://nbn-resolving.de/}{\color{black}{urn:nbn:de...}}
 \fancyhead[R]{\thepage} %page number
-\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/3.0/}{\color{black}Creative Commons BY 3.0}}  %licence
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/4.0/}{\color{black}Creative Commons BY 4.0}}  %licence
 \fancyfoot[R] {ISSN: 1860-7950}
 
 \title{\LARGE{Wie vielfältig kann und sollte Open Access sein?}}% title
@@ -106,10 +98,10 @@ LIBREAS. Library Ideas, 34 (2018). % journal, issue, volume.
 \hypersetup{%
       pdftitle={Wie vielfältig kann und sollte Open Access sein? Bericht zu den Open-Access-Tagen 2018 in Graz},
       pdfauthor={Sophie Schneider},
-      pdfcopyright={CC BY 3.0 Unported},
+      pdfcopyright={CC BY 4.0 International},
       pdfsubject={LIBREAS. Library Ideas, 34 (2018).},
       pdfkeywords={Open Access, Tagungsbericht, DEAL},
-      pdflicenseurl={https://creativecommons.org/licenses/by/3.0/},
+      pdflicenseurl={https://creativecommons.org/licenses/by/4.0/},
       pdfcontacturl={http://libreas.eu},
       baseurl={http://libreas.eu},
       pdflang={de},
@@ -351,12 +343,14 @@ Mitschrift{]}
 
 TU Graz Bibliothek und Archiv (2018) \emph{Open Access Tage 2018;
 Vielfalt durch Open Access}. Verfügbar unter:
-\url{http://diglib.tugraz.at/open-access-tage-2018-graz-vielfalt-durch-open-access-technische-universitaet-graz-24-26-september-2018--2018}.
+\href{http://diglib.tugraz.at/open-access-tage-2018-graz-vielfalt-durch-open-access-technische-universitaet-graz-24-26-september-2018--2018}{http://diglib.tugraz.at/open-access-tage-2018-graz-vielfalt-durch-open-access-tech\-nische-universitaet-graz-24-26-september-2018--2018}.
+
+\pagebreak
 
 %autor
 \begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
 
 \textbf{Sophie Schneider} war die erste Stipendiat*in des LIBREAS.
-Verein
+Verein.
 
 \end{document}

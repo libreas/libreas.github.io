@@ -74,15 +74,7 @@ final
 \usepackage{hyperxmp}
 \usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
 breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
-%URLs hart brechen
-\makeatletter 
-\g@addto@macro\UrlBreaks{ 
-  \do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j 
-  \do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t 
-  \do\u\do\v\do\w\do\x\do\y\do\z\do\&\do\1\do\2\do\3 
-  \do\4\do\5\do\6\do\7\do\8\do\9\do\0} 
-% \def\do@url@hyp{\do\-} 
-\makeatother 
+%\usepackage{breakurl}
 
 %meta
 %meta
@@ -94,7 +86,7 @@ LIBREAS. Library Ideas, 34 (2018). % journal, issue, volume.
 % recommended use
 %\href{http://nbn-resolving.de/}{\color{black}{urn:nbn:de...}}
 \fancyhead[R]{\thepage} %page number
-\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/3.0/}{\color{black}Creative Commons BY 3.0}}  %licence
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/4.0/}{\color{black}Creative Commons BY 4.0}}  %licence
 \fancyfoot[R] {ISSN: 1860-7950}
 
 \title{\LARGE{„Weil ich glaube, die wenigsten wollen überhaupt in die Forschung gehen … “}}% title
@@ -106,10 +98,10 @@ LIBREAS. Library Ideas, 34 (2018). % journal, issue, volume.
 \hypersetup{%
       pdftitle={„Weil ich glaube, die wenigsten wollen überhaupt in die Forschung gehen … “ : Entwicklung der aktuellen Studienordnungen am IBI},
       pdfauthor={Vera Hillebrand},
-      pdfcopyright={CC BY 3.0 Unported},
+      pdfcopyright={CC BY 4.0 International},
       pdfsubject={LIBREAS. Library Ideas, 34 (2018).},
       pdfkeywords={Bibliothekswissenschaft, Institut für Bibliotheks- und Informationswissenschaft, Humboldt-Universität zu Berlin, Studienordnung, Bachelor, Master, Umfrage},
-      pdflicenseurl={https://creativecommons.org/licenses/by/3.0/},
+      pdflicenseurl={https://creativecommons.org/licenses/by/4.0/},
       pdfcontacturl={http://libreas.eu},
       baseurl={http://libreas.eu},
       pdflang={de},
@@ -183,10 +175,10 @@ IBI. All diese Persönlichkeiten hinterließen in der Modulplanung
 Einschnitte, vor allem da mit ihnen auch vier Lehrstühle das IBI
 verließen: Öffentliche Bibliotheken (Prof.~Umlauf),
 Informationsmanagement (Prof.~Schirmbacher), Wissensmanagement (
-Prof.~Gradmann) und Digitale Bibliotheken (Prof.~Seadle). In den letzten
+Prof. Gradmann) und Digitale Bibliotheken (Prof.~Seadle). In den letzten
 sieben Jahren gab es aber nicht nur Verabschiedungen, sondern auch drei
 Neuzugänge bei den Professuren: Prof.~Vivien Petras, PhD, die 2014 die
-Tenure auf ihre Juniorprofessorenstelle bekommen hatte, Prof.~Dr.~Elke
+Tenure auf ihre Juniorprofessorenstelle bekommen hatte, Prof.~Dr. Elke
 Greifeneder, die 2014 den Lehrstuhl Information Behavior gründete und
 Prof.~Dr.~Robert Jäschke, der seit 2017 den Lehrstuhl Information
 Processing and Analytics aufbaut. Für die Zukunft sind weitere
@@ -563,8 +555,7 @@ erwünscht.
 
 Weitere Ergebnisse aus den beiden Studien wurden in einem
 BBK-Vortrag\footnote{Saß, Nico und Hillebrand, Vera (2016) : Evaluierung
-  der Lehrinhalte am IBI. Abrufbar auf der BBK Webseite: https:
-  //\href{http://www.ibi.hu-berlin.de/de/bbk/abstracts/ws1617/eva}{www.ibi.hu-berlin.de/de/bbk/abstracts/ws1617/eva}.}
+  der Lehrinhalte am IBI. Abrufbar auf der BBK Webseite: \href{http://www.ibi.hu-berlin.de/de/bbk/abstracts/ws1617/eva}{http://www.ibi.hu-berlin.de/de/bbk/abstracts/ws1617/eva}.}
 im Herbst 2016 vorgetragen.
 
 %\pagebreak

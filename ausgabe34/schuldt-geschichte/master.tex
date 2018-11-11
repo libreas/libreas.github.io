@@ -74,15 +74,7 @@ final
 \usepackage{hyperxmp}
 \usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
 breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
-%URLs hart brechen
-\makeatletter 
-\g@addto@macro\UrlBreaks{ 
-  \do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j 
-  \do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t 
-  \do\u\do\v\do\w\do\x\do\y\do\z\do\&\do\1\do\2\do\3 
-  \do\4\do\5\do\6\do\7\do\8\do\9\do\0} 
-% \def\do@url@hyp{\do\-} 
-\makeatother 
+\usepackage{breakurl}
 
 %meta
 %meta
@@ -94,7 +86,7 @@ LIBREAS. Library Ideas, 34 (2018). % journal, issue, volume.
 % recommended use
 %\href{http://nbn-resolving.de/}{\color{black}{urn:nbn:de...}}
 \fancyhead[R]{\thepage} %page number
-\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/3.0/}{\color{black}Creative Commons BY 3.0}}  %licence
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/4.0/}{\color{black}Creative Commons BY 4.0}}  %licence
 \fancyfoot[R] {ISSN: 1860-7950}
 
 \title{\LARGE{Anmerkungen zur Geschichte der Frage: „Was ist Bibliothekswissenschaft“}}% title
@@ -106,10 +98,10 @@ LIBREAS. Library Ideas, 34 (2018). % journal, issue, volume.
 \hypersetup{%
       pdftitle={Anmerkungen zur Geschichte der Frage: „Was ist Bibliothekswissenschaft“ : Einführung in die historische Abteilung},
       pdfauthor={Karsten Schuldt, Ben Kaden},
-      pdfcopyright={CC BY 3.0 Unported},
+      pdfcopyright={CC BY 4.0 International},
       pdfsubject={LIBREAS. Library Ideas, 34 (2018).},
       pdfkeywords={Bibliothekswissenschaft, Geschichte, Institut für Bibliothekswissenschaft, Humboldt-Universität zu Berlin},
-      pdflicenseurl={https://creativecommons.org/licenses/by/3.0/},
+      pdflicenseurl={https://creativecommons.org/licenses/by/4.0/},
       pdfcontacturl={http://libreas.eu},
       baseurl={http://libreas.eu},
       pdflang={de},
