@@ -16,7 +16,7 @@ LIBREAS. Library Ideas | Copyright Information for publication in LIBREAS. Libra
 In LIBREAS. Library Ideas (in the following LIBREAS) published
 contributions should be provided according to the Berlin Declaration on
 Open Access for free use on the internet. Authors agree that their
-contributions get licenced with Creative Commons 3.0 (BY). They are also
+contributions get licenced with Creative Commons 4.0 (BY). They are also
 responsible for compliance with the legal license conditions. In case of
 unlawful acts of exploitation on contributers LIBREAS refrained from
 taken liability. If authors wish a more restrictive license they are
@@ -34,7 +34,7 @@ previously has been published in LIBREAS. Library Ideas.
 Bei LIBREAS. Library Ideas (im Folgenden LIBREAS) veröffentlichte
 Beiträge sollen gemäß der Berliner Erklärung zu Open Access zur freien
 Nutzung im Internet bereitgestellt werden. Dazu stellen die AutorInnen
-mit der Einreichung ihren Beitrag unter eine Creative Commons 3.0 CC BY
+mit der Einreichung ihren Beitrag unter eine Creative Commons 4.0 CC BY
 Lizenz. Für die Einhaltung der Lizenzbedingungen sind die Nutzerinnen
 und Nutzer verantwortlich, LIBREAS übernimmt für rechtswidrige
 Nutzungshandlungen keine Haftung Wünschen die AutorInnen davon

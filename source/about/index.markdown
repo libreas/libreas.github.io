@@ -19,19 +19,20 @@ Kontakt: redaktion@libreas.eu
 <ul>
 <li>Ben Kaden M.A. (University Library / Humboldt-Universität zu Berlin) – ben@libreas.eu</li>
 <li>Maxi Kindling M.A. (Berlin School of Library and Information Science / Humboldt-Universität zu Berlin)  – maxi@libreas.eu</li>
-<li>Manuela Schulz M.A. (LIBREAS e.V. / Berlin) – manuela@libreas.eu</li>
 </ul>
 <ul>
-<li>Linda Freyberg M.A.(Research Group Knowledge Cultures / Digital Media, Leuphana Universität Lüneburg) – linda@libreas.eu</li>
+<li>Eva Bunge M.S., M.A. (Deutsches Museum) - eva@libreas.eu</li>
+<li>Linda Freyberg M.A. (Research Group Knowledge Cultures / Digital Media, Leuphana Universität Lüneburg) – linda@libreas.eu</li>
 <li>Najko Jahn M.A. (SUB Göttingen) – najko@libreas.eu </li>
+<li>Jana Rumler M.A. (Leibniz-Zentrum für Agrarlandschaftsforschung (ZALF)) - jana@libreas.eu</li>
 <li>Dr. Karsten Schuldt (Schweizerisches Institut für Informationswissenschaft, HTW Chur) – karsten@libreas.eu</li>
 <li>Matti Stöhr M.A. (SLUB Dresden) – matti@libreas.eu</li>
-<li>Doreen Thiede M.A. (aStec angewandte Systemtechnik GmbH)– doreen@libreas.eu</li>
+<li>Michaela Voigt M.A. (Technische Universität Berlin) - michaela@libreas.eu</li>
 </ul>
 
 #### ehemalige Redaktionsmitglieder   	 
 
-Sandra Lechelt | Boris Jacob M.A. | Elisabeth Simon | Heike Stadler | Walburga Lösch | Julia Pagel | Christoph Szepanski
+Sandra Lechelt | Boris Jacob M.A. | Elisabeth Simon | Heike Stadler | Walburga Lösch | Julia Pagel | Manuela Schulz (Gründungsherausgeberin und Redaktion)| Christoph Szepanski | Doreen Thiede
  	 
 ### Postanschrift
 
@@ -59,7 +60,7 @@ LIBREAS ist im Directory of Open Access Journals (DOAJ) gelistet und beteiligt s
 
 
 LOCKSS system has permission to collect, preserve, and serve this open access Archival Unit. 
-(Stand 15. Mai 2013)
+(Stand 2. November 2018)
 
 
 
