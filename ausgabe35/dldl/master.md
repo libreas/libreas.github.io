@@ -63,9 +63,8 @@ Untersuchung in einigen Jahren zu widerholen. Positiv zu erwähnen ist
 auch, dass sich das Präsidium des Bibliotheksverbandes dieser Fragen des
 Personals angenommen hat. Dies könnte für die Verbände in anderen
 Ländern ein Vorbild sein. (Wödl, Ute (2018). Prekäre Arbeitsverhältnisse
-im Bibliothekswesen. In: *Mitteilungen der VÖB* 71 (2018) 3/4, 433-450,
-[https://doi.org/10.31263/voebm.v71i3-4.2164](https://doi.org/10.31263/voebm.v71i3-4.2164))
-( (ks)
+im Bibliothekswesen. In: *Mitteilungen der VÖB* 71 (2018) 3/4, 433--450,
+[https://doi.org/10.31263/voebm.v71i3-4.2164](https://doi.org/10.31263/voebm.v71i3-4.2164)) (ks)
 
 Einen Überblick zu verschiedenen Strategien, mittels der Definition
 spezifischer Positionen und Aufgabenfelder für das Bibliothekspersonal
@@ -608,7 +607,7 @@ alle Punkte auf Deutschland übertragen werden können. (Cirasella, J. &
 Thistlethwaite, P. (2017). Open Access and the Graduate Author. A
 Dissertation Anxiety Manual. In K. L. Smith & K. A. Dickson (Eds.), Open
 access and the future of scholarly communication: Implementation (pp.
-203-224). Lanham, MD: Rowman & Littlefield) \[Paywall\] \[OA-Version:
+203--224). Lanham, MD: Rowman & Littlefield) \[Paywall\] \[OA-Version:
 [https://academicworks.cuny.edu/gc\_pubs/286/](https://academicworks.cuny.edu/gc_pubs/286/)\]
 (eb)
 
@@ -649,7 +648,7 @@ Bundesgerichtshof hatten Freunde der Gemeinfreiheit wenig zu lachen." Am
 20.12.18 berichtete Torsten Kleinz bei Heise über das ergangene Urteil,
 welches für Verfechter\*innen der Gemeinfreiheit eine Hiobsbotschaft
 darstellt. Der Volltext des Urteils ist online zugänglich, woran Ellen
-Euler (\@EllenEUler) auf Twitter erinnert. (Thomas Hartmann:
+Euler (\@EllenEuler) auf Twitter erinnert. (Thomas Hartmann:
 Urheberrecht abgelaufen, trotzdem abgemahnt? Wikimedia kämpft vor
 Gericht für Gemeinfreiheit
 [https://netzpolitik.org/2018/urheberrecht-abgelaufen-trotzdem-abgemahnt-wikimedia-kaempft-vor-gericht-fuer-gemeinfreiheit/\#comments](https://netzpolitik.org/2018/urheberrecht-abgelaufen-trotzdem-abgemahnt-wikimedia-kaempft-vor-gericht-fuer-gemeinfreiheit/#comments),
@@ -710,7 +709,7 @@ Akademiearchiv über den Anschluss an Portale wie die Deutsche Digitale
 Bibliothek oder Kalliope realisiert werden soll. Zudem ist geplant, so
 genannte "Beacon-Files" in die Datenstruktur der Akademiebestände
 einzubinden. (Haiko Hübner: Why use data standards? In: Journal der
-Künste, 08, December 2018. Special Issue: The Archives. S.81) (bk)
+Künste, 08, December 2018. Special Issue: The Archives. S. 81) (bk)
 
 Ein Editorial im NEJM, dem New England Journal of Medicine, hat für
 Furore gesorgt: Charlotte Haug, sie ist internationale Korrespondentin
@@ -729,13 +728,13 @@ Salzberg, Professor an der Johns Hopkins University, greift dieses
 Editorial auf -- er ist nicht der Einzige -- und seziert Haugs
 Positionen beziehungsweise Argumente, die seines Erachtens zum einem
 großen Teil aus Falschaussagen und Scheinargumenten bestehen. (Haug, C.
-J. (2019). No Free Lunch --- What Price Plan S for Scientific
+J. (2019). No Free Lunch -- What Price Plan S for Scientific
 Publishing? *New England Journal of Medicine*, 380 (2018), 12,
 1181--1185.
 [https://doi.org/10.1056/nejmms1900864](https://doi.org/10.1056/nejmms1900864).
 Steven Salzberg: Highly Profitable Medical Journal Says Open Access
 Publishing Has Failed. Right. In: *Forbes*, 1.4.2019,
-[https://www.forbes.com/sites/stevensalzberg/2019/04/01/nejm-says-open-access-publishing-has-failed-right/\#](https://www.forbes.com/sites/stevensalzberg/2019/04/01/nejm-says-open-access-publishing-has-failed-right/#).)
+[https://www.forbes.com/sites/stevensalzberg/2019/04/01/nejm-says-open-access-publishing-has-failed-right/\#](https://www.forbes.com/sites/stevensalzberg/2019/04/01/nejm-says-open-access-publishing-has-failed-right/#))
 (mv)
 
 In der Arte-Reihe "Baukunst" wird die Bibliothek der US-amerikanischen
@@ -745,7 +744,7 @@ durch ein "Raum-im-Raum"-Konzept aus; statt Gemeinschaftsarbeitsplätzen
 gibt es für jede\*n Leser\*in eine Art Carrel. (Copans, Richard (Regie)
 (2015): Die Bibliothek von Exeter von Louis Kahn. 27 Min. In
 Arte-Mediathek verfügbar bis 25.06.2019:
-[https://www.arte.tv/de/videos/061747-000-A/die-bibliothek-von-exeter-von-louis-kahn/](https://www.arte.tv/de/videos/061747-000-A/die-bibliothek-von-exeter-von-louis-kahn/).)
+[https://www.arte.tv/de/videos/061747-000-A/die-bibliothek-von-exeter-von-louis-kahn/](https://www.arte.tv/de/videos/061747-000-A/die-bibliothek-von-exeter-von-louis-kahn/))
 (mv)
 
 ### 7. Abschlussarbeiten
@@ -762,7 +761,7 @@ Universität Leiden.
 [http://hdl.handle.net/1887/68465](http://hdl.handle.net/1887/68465).;
 Universität Leiden: Open access books attract many more readers and
 slightly more citations, Pressemitteilung 28.01.2019,
-[https://www.universiteitleiden.nl/en/news/2019/01/open-access-books-attract-many-more-readers-and-slightly-more-citations](https://www.universiteitleiden.nl/en/news/2019/01/open-access-books-attract-many-more-readers-and-slightly-more-citations).
+[https://www.universiteitleiden.nl/en/news/2019/01/open-access-books-attract-many-more-readers-and-slightly-more-citations](https://www.universiteitleiden.nl/en/news/2019/01/open-access-books-attract-many-more-readers-and-slightly-more-citations))
 (mv)
 
 Melanie Janßen hat sich in ihrer Bachelorarbeit im Fachgebiet
@@ -776,7 +775,7 @@ Melanie (2019). Vergleich und Analyse von Forschungsdatenrepositorien:
 Exemplarische Untersuchung des Umgangs mit Forschungsdaten unter
 besonderer Betrachtung der Ressource Video. Bachelorarbeit.
 Fachhochschule Potsdam.
-[https://nbn-resolving.org/urn:nbn:de:kobv:525-23302](https://nbn-resolving.org/urn:nbn:de:kobv:525-23302)).
+[https://nbn-resolving.org/urn:nbn:de:kobv:525-23302](https://nbn-resolving.org/urn:nbn:de:kobv:525-23302))
 (mv)
 
 ### 8. Weitere Medien
@@ -828,7 +827,7 @@ Feedback on Plan S Implementation Guidance,
 11.02.2019. Office of Scholarly Communication: Plan S -- links,
 commentary and news items,
 [https://unlockingresearch-blog.lib.cam.ac.uk/?p=2433](https://unlockingresearch-blog.lib.cam.ac.uk/?p=2433),
-10.02.2019.) (mv)
+10.02.2019) (mv)
 
 [^1]: Siehe hierzu auch Eintrag zu Plan S in der Rubrik "8. Weitere
     Medien" in dieser Ausgabe von "Das liest die LIBREAS".

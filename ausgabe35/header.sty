@@ -75,6 +75,10 @@ $endif$
 \renewcommand\@seccntformat[1]{}
 \makeatother
 
+% typo setup
+\clubpenalty = 10000
+\widowpenalty = 10000
+\displaywidowpenalty = 10000
 
 \usepackage{hyperxmp}
 \usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
@@ -97,6 +101,7 @@ $endfor$
 %abstracts
 $for(include-before)$
 \begin{abstract}
+\noindent
 $include-before$
 \end{abstract}
 $endfor$
