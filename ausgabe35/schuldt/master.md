@@ -1,4 +1,4 @@
-### Einleitung
+### 1 Einleitung
 
 Dass Bibliotheken bei Bestandsaufbau und -vermittlung die inhaltliche
 Neutralität als Leitbild haben, ist Ausdruck eines konkreten Weltbildes.
@@ -45,7 +45,7 @@ auch etwas über die Weltanschauung sagt, aus der heraus heute die
 "Neutralität" von Bibliotheken als anzustrebendes Ziel hergeleitet wird,
 oder ob sie ein rein historischer Fakt ist. (5)
 
-### Was waren "Arbeiterbibliotheken"? Ein kurzer Überblick
+### 2 Was waren "Arbeiterbibliotheken"? Ein kurzer Überblick
 
 Die Kritik an den "bürgerlichen Bibliotheken" -- den Volksbüchereien,
 den Lesehallen und ähnlichen kommunal oder durch Philanthropie
@@ -57,7 +57,7 @@ Hintergrund die "Arbeiterbewegung" Ende des 19. und Anfang des 20.
 Jahrhunderts geschildert (2.1), anschliessend die Arbeit der
 Bibliotheken dieser Bewegung (2.2) und ihre Bestandsarbeit (2.3).
 
-#### Die damalige sozialistische Bewegung in Deutschland und Österreich
+#### 2.1 Die damalige sozialistische Bewegung in Deutschland und Österreich
 
 Die Industrialisierung in Deutschland und Österreich ging bekanntlich
 einher mit dem Entstehen der "Arbeiterbewegung" mit all ihren
@@ -146,7 +146,7 @@ Strömung, aus der sie hervorgegangen waren, zu übernehmen.[^3] Auch dies
 machte vor den Bibliotheken nicht halt. Die "Arbeiterbibliotheken", um
 die es hier gehen soll, müssen vor diesem Hintergrund gesehen werden.
 
-#### "Arbeiterbibliotheken"
+#### 2.2 "Arbeiterbibliotheken"
 
 "Arbeiterbibliotheken" waren Bibliotheken, die aus der
 "Arbeiterbewegung" heraus für Mitglieder dieser Bewegung gegründet
@@ -242,7 +242,7 @@ Simmering", Wien (in: Bildungsarbeit. Blätter für sozialistisches
 Bildungswesen, XIV (1927) 1, 15 (Digitalisat der Österreichischen
 Nationalbibliothek)](img/Schuldt02.jpg)
 
-#### Der Bestand: Kein Schmutz, kein Schund -- für die Selbstbefreiung des Proletariats
+#### 2.3 Der Bestand: Kein Schmutz, kein Schund -- für die Selbstbefreiung des Proletariats
 
 Zum Bestand der "Arbeiterbibliotheken" fallen im Rückblick von heute
 zwei Dinge auf: Die Sorge um die literarische Qualität und die
@@ -375,7 +375,7 @@ die in allen standen oder in keinen. Es ging nicht nur um die Frage der
 literarischen Qualität, sondern auch um den konkreten Inhalt -- nicht
 nur um "Schmutz und Schund", sondern auch um Ideologie.
 
-### Kritik am "bürgerlichen Büchereiwesen": Neutralität als Ideologie
+### 3 Kritik am "bürgerlichen Büchereiwesen": Neutralität als Ideologie
 
 In der "Arbeiterbewegung" wurde, wie gesagt, davon ausgegangen, dass es
 (a) einen zentralen Antagonismus zwischen verschiedenen Klassen gäbe,
@@ -422,33 +422,33 @@ benötigen würde. Als Vorbild wurden Public Libraries in den USA
 angegeben. Diese neuen Lesehallen sollten sich auszeichnen durch:
 
 (1) Einen demokratischen Zugang in dem Sinne, dass sie für alle
-    > Schichten offen ständen und sich auch um alle bemühten -- was dazu
-    > führte, dass man sich über die Interessen, Voraussetzungen und
-    > Lebensumstände von Menschen in unterschiedlichen sozialen
-    > Schichten Gedanken machte und zum Beispiel begann, unter diesen
-    > Befragungen über Leseverhalten und Leseinteressen durchzuführen.
+    Schichten offen ständen und sich auch um alle bemühten -- was dazu
+    führte, dass man sich über die Interessen, Voraussetzungen und
+    Lebensumstände von Menschen in unterschiedlichen sozialen
+    Schichten Gedanken machte und zum Beispiel begann, unter diesen
+    Befragungen über Leseverhalten und Leseinteressen durchzuführen.
 
 (2) Dem Verfolgen von Bildungszielen, die sich einerseits an die
-    > "Volksbildungsbewegung" anlehnten -- also dem gleichen Diskurs um
-    > literarische Qualität, der angeblichen Gefahr "schlechter
-    > Literatur" und der Notwendigkeit der Lenkung beziehungsweise
-    > Beratung der Leserinnen und Leser folgte, wie die
-    > "Arbeiterbibliotheken" -- und andererseits der individuellen Fort-
-    > und Weiterbildung für den Beruf -- als Förderung aller Potentiale
-    > der Bevölkerung -- dienen sollte.
+    "Volksbildungsbewegung" anlehnten -- also dem gleichen Diskurs um
+    literarische Qualität, der angeblichen Gefahr "schlechter
+    Literatur" und der Notwendigkeit der Lenkung beziehungsweise
+    Beratung der Leserinnen und Leser folgte, wie die
+    "Arbeiterbibliotheken" -- und andererseits der individuellen Fort-
+    und Weiterbildung für den Beruf -- als Förderung aller Potentiale
+    der Bevölkerung -- dienen sollte.
 
 (3) Dabei jeweils die Nutzung der modernsten Formen der
-    > "Bibliothekstechnik" -- als Oberbegriff für die Organisation
-    > bibliothekarischer Arbeiten und gleichzeitig für technische
-    > Hilfsmittel -- um möglichst viele Leserinnen und Leser zu bedienen
-    > und zu beraten sowie möglichst schnell die richtigen Bücher an die
-    > richtigen Personen verleihen zu können -- was zu vielen
-    > bibliothekstechnischen Experimenten führte.
+    "Bibliothekstechnik" -- als Oberbegriff für die Organisation
+    bibliothekarischer Arbeiten und gleichzeitig für technische
+    Hilfsmittel -- um möglichst viele Leserinnen und Leser zu bedienen
+    und zu beraten sowie möglichst schnell die richtigen Bücher an die
+    richtigen Personen verleihen zu können -- was zu vielen
+    bibliothekstechnischen Experimenten führte.
 
 (4) Die Ausstattung der Bibliotheken mit den Lesesälen, welche der
-    > Bewegung ihren Namen gaben. Diese Säle, in welchen sich Leserinnen
-    > und Leser direkt aufhalten, lesen und schreiben konnten, waren
-    > zuvor nicht normal in Bibliotheken für breite Massen.
+    Bewegung ihren Namen gaben. Diese Säle, in welchen sich Leserinnen
+    und Leser direkt aufhalten, lesen und schreiben konnten, waren
+    zuvor nicht normal in Bibliotheken für breite Massen.
 
 Mit der Lesehallenbewegung wurden sie immer mehr zum Normalfall. Neue
 oder umgestaltete Bibliotheken erhielten mit der Zeit solche Säle, in
@@ -503,60 +503,60 @@ diese Ideologie dann aus, welche aus Sicht der "Arbeiterbewegung" den
 Lesehallen vorgeworfen (oder nachgewiesen) werden konnte?
 
 (1) Der Antagonismus, welcher für das Denken der "Arbeiterbewegung"
-    > zentral war, würde zwar nicht per se bestritten -- auch die
-    > Bücherhallenbewegung ging explizit von unterschiedlichen sozialen
-    > Schichten aus --, aber seine Bedeutung wurde gänzlich anders
-    > eingeschätzt: (a) Dass die ökonomische Struktur diese Schichten
-    > hervorbrächte, sei natürlich und kein grundsätzliches Problem,
-    > welches überwunden werden müsse. (b) Der Wechsel zwischen den
-    > Schichten sei durch Bildung möglich; wichtig sei, dass Menschen
-    > Zugang zu Bildung hätten, dann würden die Tüchtigsten der unteren
-    > Schichten aufsteigen können. (c) Es gäbe übergreifende Interessen,
-    > welche für die ganze Bevölkerung gelten würden. Jede politische
-    > Bewegung würde dagegen Partikularinteressen vertreten. (d) Die
-    > Welt sei nicht anhand der ökonomischen Verhältnisse und Strukturen
-    > geteilt, sondern anhand anderer Strukturen (zum Beispiel Nationen,
-    > Kulturen, "Rassen").
+    zentral war, würde zwar nicht per se bestritten -- auch die
+    Bücherhallenbewegung ging explizit von unterschiedlichen sozialen
+    Schichten aus --, aber seine Bedeutung wurde gänzlich anders
+    eingeschätzt: (a) Dass die ökonomische Struktur diese Schichten
+    hervorbrächte, sei natürlich und kein grundsätzliches Problem,
+    welches überwunden werden müsse. (b) Der Wechsel zwischen den
+    Schichten sei durch Bildung möglich; wichtig sei, dass Menschen
+    Zugang zu Bildung hätten, dann würden die Tüchtigsten der unteren
+    Schichten aufsteigen können. (c) Es gäbe übergreifende Interessen,
+    welche für die ganze Bevölkerung gelten würden. Jede politische
+    Bewegung würde dagegen Partikularinteressen vertreten. (d) Die
+    Welt sei nicht anhand der ökonomischen Verhältnisse und Strukturen
+    geteilt, sondern anhand anderer Strukturen (zum Beispiel Nationen,
+    Kulturen, "Rassen").
 
 (2) Hieraus ergäbe sich, dass man durch Bildung und Kultur die
-    > unterschiedlichen sozialen Voraussetzungen ausgleichen könnte,
-    > also zum Beispiel durch Lesehallen auch Arbeiterinnen und
-    > Arbeitern eine Möglichkeit bieten, welche Personen in anderen
-    > Schichten schon durch ihre Herkunft hätten. Die Verantwortung,
-    > diese Möglichkeiten zu nutzen, läge dann bei den Einzelnen. Es
-    > gäbe ein gemeinsames Interesse aller, diese Möglichkeiten zu
-    > schaffen. Alle würden davon profitieren, wenn die Besten einer
-    > Schicht aufstiegen.
+    unterschiedlichen sozialen Voraussetzungen ausgleichen könnte,
+    also zum Beispiel durch Lesehallen auch Arbeiterinnen und
+    Arbeitern eine Möglichkeit bieten, welche Personen in anderen
+    Schichten schon durch ihre Herkunft hätten. Die Verantwortung,
+    diese Möglichkeiten zu nutzen, läge dann bei den Einzelnen. Es
+    gäbe ein gemeinsames Interesse aller, diese Möglichkeiten zu
+    schaffen. Alle würden davon profitieren, wenn die Besten einer
+    Schicht aufstiegen.
 
 (3) Aus diesen gemeinsamen Interessen und dem Fakt, dass die ökonomische
-    > Struktur der Gesellschaft nicht der prägende Teil sei, welcher das
-    > Leben in der Gesellschaft bestimme, ergäbe sich auch, dass es
-    > Werte gäbe, die für alle bestimmend wären, beispielsweise was gute
-    > Literatur sei und was nicht.
+    Struktur der Gesellschaft nicht der prägende Teil sei, welcher das
+    Leben in der Gesellschaft bestimme, ergäbe sich auch, dass es
+    Werte gäbe, die für alle bestimmend wären, beispielsweise was gute
+    Literatur sei und was nicht.
 
 (4) Die Grundstruktur der Gesellschaft sei nicht zu verändern
-    > beziehungsweise sei die Frage, ob dies möglich wäre, für die
-    > Lesehallen irrelevant. Gewendet als Kritik hiess dies, dass die
-    > Lesehallen vor allem die Reproduktion und Aufrechterhaltung der
-    > existierenden Verhältnisse, wenn auch nicht unbedingt anstreben,
-    > so doch betreiben würden. Wenn zum Beispiel die Idee vertreten
-    > wird, dass die, die sich anstrengen würden, in der Gesellschaft
-    > aufsteigen könnten -- so es nur die Möglichkeit zur Bildung gibt
-    > --, dann würde die Frage irrelevant, warum es überhaupt diese
-    > Unterschiede zwischen den sozialen Schichten gibt. Und damit
-    > würden diese gesellschaftlichen Strukturen als normal akzeptiert.
+    beziehungsweise sei die Frage, ob dies möglich wäre, für die
+    Lesehallen irrelevant. Gewendet als Kritik hiess dies, dass die
+    Lesehallen vor allem die Reproduktion und Aufrechterhaltung der
+    existierenden Verhältnisse, wenn auch nicht unbedingt anstreben,
+    so doch betreiben würden. Wenn zum Beispiel die Idee vertreten
+    wird, dass die, die sich anstrengen würden, in der Gesellschaft
+    aufsteigen könnten -- so es nur die Möglichkeit zur Bildung gibt
+    --, dann würde die Frage irrelevant, warum es überhaupt diese
+    Unterschiede zwischen den sozialen Schichten gibt. Und damit
+    würden diese gesellschaftlichen Strukturen als normal akzeptiert.
 
 (5) Daraus ergäbe sich auch, dass der Anspruch der Lesehallen, die
-    > Literatur gleichsam neutral auszuwählen und bei der Beratung am
-    > Tresen neutral zu vermitteln, immer nur individuell gedacht würde,
-    > aufbauend auf den angenommen Fähigkeiten und Interessen der
-    > individuellen Leserinnen und Leser, aber ohne ein Interesse daran,
-    > wie diese Fähigkeiten und Interessen über den individuellen Fall
-    > hinaus konkret entstanden sind. Letztlich wäre das Ziel der
-    > Lesehallen, die existierenden gesellschaftlichen Strukturen zu
-    > erhalten und unter anderem Arbeiterinnen und Arbeiter davon
-    > abzuhalten, zu verstehen, wie die Gesellschaft strukturiert und
-    > wie diese Struktur zu überwinden sei.
+    Literatur gleichsam neutral auszuwählen und bei der Beratung am
+    Tresen neutral zu vermitteln, immer nur individuell gedacht würde,
+    aufbauend auf den angenommen Fähigkeiten und Interessen der
+    individuellen Leserinnen und Leser, aber ohne ein Interesse daran,
+    wie diese Fähigkeiten und Interessen über den individuellen Fall
+    hinaus konkret entstanden sind. Letztlich wäre das Ziel der
+    Lesehallen, die existierenden gesellschaftlichen Strukturen zu
+    erhalten und unter anderem Arbeiterinnen und Arbeiter davon
+    abzuhalten, zu verstehen, wie die Gesellschaft strukturiert und
+    wie diese Struktur zu überwinden sei.
 
 Die angebliche Neutralität sei gar keine -- und könne es auch gar nicht
 sein. Jede Einrichtung hätte eine Aufgabe im Bezug darauf, die
@@ -579,7 +579,7 @@ Diese Kritik an Lesehallen schloss, wie gesagt, nicht aus, dass
 Entwicklungen interessiert waren wie die Lesehallen oder inhaltliche
 Vorstellungen in Bezug auf Literatur und literarische Qualität teilten.
 
-### Das Ende der "Arbeiterbibliotheken"
+### 4 Das Ende der "Arbeiterbibliotheken"
 
 Um die Bedeutung der damaligen Kritik für die heutige Zeit
 einzuschätzen, ist es notwendig, kurz zu referieren, warum es heute
@@ -668,7 +668,7 @@ Bibliotheken als Beispiel dafür angeführt werden, dass die
 wäre. Interessant auch die Bilder aus der kleineren Arbeiterbibliothek
 des Autors. Auch diese funktioniert als Thekenbibliothek. (in: Die
 Arbeiterbücherei. Sonderbeilage 3 zur: Bildungsarbeit. Blätter für
-sozialistisches Bildungswesen, XVII (1930) 26-27 (Digitalisat der
+sozialistisches Bildungswesen, XVII (1930) 26--27 (Digitalisat der
 Österreichischen Nationalbibliothek)](img/Schuldt06.jpg)
 
 Insoweit kann man sagen, dass die "Arbeiterbibliotheken" nicht an sich
@@ -706,7 +706,7 @@ implizite Kritik an den anderen Bibliothekstypen vermittelte: So, wie
 ein spezifischer Bibliothekstyp war, musste er nicht sein. Es ging immer
 auch anders.[^9]
 
-### Fazit: Kann die Öffentliche Bibliothek eine neutrale Bibliothek sein?
+### 5 Fazit: Kann die Öffentliche Bibliothek eine neutrale Bibliothek sein?
 
 "Arbeiterbibliotheken" bestanden also über mehrere Jahrzehnte als
 erfolgreicher Bibliothekstyp und übten unter anderem an einer
@@ -723,63 +723,63 @@ heutigen Öffentlichen Bibliotheken gilt. Diese Vermutung lässt sich
 nicht so leicht zurückweisen.
 
 (1) Die "Arbeiterbibliotheken" stellten aus ihrer Position als eindeutig
-    > politisch verortete Bibliotheken die Frage, ob es überhaupt
-    > möglich ist, eine "neutrale" Bibliothek einzurichten. Sie
-    > verneinten das. In einer Gesellschaft, die sich um einen
-    > ökonomischen Antagonismus herum organisiert, sei es unmöglich,
-    > nicht entweder zum Erhalt dieses Antagonismus beizutragen oder zu
-    > seiner Veränderung. Es gäbe keine Position ausserhalb dieses
-    > Antagonismus, selbst wenn behauptet würde, die eigene Bibliothek
-    > würde sich zu diesem neutral verhalten. Heute würde man die
-    > Gesellschaft anders begreifen und vielleicht mehr Widersprüche
-    > benennen. Wie kann man sich zum Beispiel in einer Gesellschaft,
-    > die Geschlechter binär reproduziert und Chancen, Einfluss,
-    > Möglichkeiten anhand dieser verteilt, ausserhalb dieser ständigen
-    > Reproduktion verorten? Wird man durch seine Arbeit als Bibliothek
-    > nicht immer zu dieser Reproduktion beitragen oder diese verändern?
-    > Aber die grundsätzliche Frage der "Arbeiterbibliotheken" -- kann
-    > eine Einrichtung in einer von strukturellen Widersprüchen
-    > geprägten Gesellschaft überhaupt neutral sein -- ist weiterhin
-    > offen.
+    politisch verortete Bibliotheken die Frage, ob es überhaupt
+    möglich ist, eine "neutrale" Bibliothek einzurichten. Sie
+    verneinten das. In einer Gesellschaft, die sich um einen
+    ökonomischen Antagonismus herum organisiert, sei es unmöglich,
+    nicht entweder zum Erhalt dieses Antagonismus beizutragen oder zu
+    seiner Veränderung. Es gäbe keine Position ausserhalb dieses
+    Antagonismus, selbst wenn behauptet würde, die eigene Bibliothek
+    würde sich zu diesem neutral verhalten. Heute würde man die
+    Gesellschaft anders begreifen und vielleicht mehr Widersprüche
+    benennen. Wie kann man sich zum Beispiel in einer Gesellschaft,
+    die Geschlechter binär reproduziert und Chancen, Einfluss,
+    Möglichkeiten anhand dieser verteilt, ausserhalb dieser ständigen
+    Reproduktion verorten? Wird man durch seine Arbeit als Bibliothek
+    nicht immer zu dieser Reproduktion beitragen oder diese verändern?
+    Aber die grundsätzliche Frage der "Arbeiterbibliotheken" -- kann
+    eine Einrichtung in einer von strukturellen Widersprüchen
+    geprägten Gesellschaft überhaupt neutral sein -- ist weiterhin
+    offen.
 
 (2) Wieder aufgrund ihrer Position, Teil einer Bewegung mit einem
-    > expliziten politischen Ziel zu sein, vermuteten die
-    > "Arbeiterbibliotheken", dass jede andere Einrichtung auch ein
-    > politisches Ziel unterstütze, selbst wenn sie sich das selbst
-    > nicht eingestehen würde. Die Lesehallen mit ihrem Anspruch,
-    > weltanschaulich neutral zu sein, würden stattdessen die
-    > Reproduktion der ökonomischen Verhältnisse unterstützen. (Und das
-    > sei falsch, weil diese Verhältnisse falsch seien.) Auch diese
-    > Frage ist weiterhin virulent. Zu welchem Zweck machen Öffentliche
-    > Bibliotheken eigentlich ihre Arbeit? Was ist ihr Ziel? Worauf
-    > diese Frage hindeutet, ist, dass Bibliotheken selber in der Lage
-    > sind, diese Ziele zu bestimmen und dass sie eben nicht von aussen
-    > bestimmt sind. Wenn Bibliotheken diese Ziele von aussen bestimmen
-    > lassen, würden sie tendenziell die bestehenden gesellschaftlichen
-    > Strukturen mitreproduzieren und unterstützen.
+    expliziten politischen Ziel zu sein, vermuteten die
+    "Arbeiterbibliotheken", dass jede andere Einrichtung auch ein
+    politisches Ziel unterstütze, selbst wenn sie sich das selbst
+    nicht eingestehen würde. Die Lesehallen mit ihrem Anspruch,
+    weltanschaulich neutral zu sein, würden stattdessen die
+    Reproduktion der ökonomischen Verhältnisse unterstützen. (Und das
+    sei falsch, weil diese Verhältnisse falsch seien.) Auch diese
+    Frage ist weiterhin virulent. Zu welchem Zweck machen Öffentliche
+    Bibliotheken eigentlich ihre Arbeit? Was ist ihr Ziel? Worauf
+    diese Frage hindeutet, ist, dass Bibliotheken selber in der Lage
+    sind, diese Ziele zu bestimmen und dass sie eben nicht von aussen
+    bestimmt sind. Wenn Bibliotheken diese Ziele von aussen bestimmen
+    lassen, würden sie tendenziell die bestehenden gesellschaftlichen
+    Strukturen mitreproduzieren und unterstützen.
 
 (3) Die "Arbeiterbibliotheken" fragten auch, welches Bild von
-    > Gesellschaft und Individuen eigentlich hinter der konkreten
-    > Bibliotheksarbeit stand. Die Lesehallen würden die Gesellschaft so
-    > verstehen, als ob die wirtschaftliche und politische Ordnung
-    > tendenziell so sein müsse, wie sie ist und als wären vor allem die
-    > einzelnen Individuen in der Lage, durch eigene Anstrengungen
-    > aufzusteigen. Die "Arbeiterbibliotheken" hingegen würden eine
-    > andere Ideologie vertreten. Auch diese Frage ist aktuell
-    > geblieben, selbst wenn man diese nicht auf Basis einer
-    > ausformulierten Ideologie stellt, wie das die
-    > "Arbeiterbibliotheken" tun konnten. Was sie sichtbar machte und
-    > weiter sichtbar hält, ist, dass jede bibliothekarische Arbeit ihre
-    > Basis in einer Weltanschauung hat und dass es sich lohnt, nach
-    > dieser Weltanschauung zu fragen, insbesondere dann, wenn behauptet
-    > wird, Einrichtungen wie Bibliotheken würden neutral ausserhalb von
-    > Weltanschauungen stehen (können). Eine solche Behauptung, so kann
-    > man von den "Arbeiterbibliotheken" lernen, ist nicht per se
-    > überzeugend. Irrelevant scheint dabei, ob Bibliotheken den jeweils
-    > neuesten bibliothekstechnischen Entwicklungen folgen oder ob sie
-    > grosse Teil der Überzeugungen davon, was Bibliotheksarbeit
-    > ausmacht, teilen. Das hielt zumindest die "Arbeiterbibliotheken"
-    > auch nicht von ihrer Kritik zurück.
+    Gesellschaft und Individuen eigentlich hinter der konkreten
+    Bibliotheksarbeit stand. Die Lesehallen würden die Gesellschaft so
+    verstehen, als ob die wirtschaftliche und politische Ordnung
+    tendenziell so sein müsse, wie sie ist und als wären vor allem die
+    einzelnen Individuen in der Lage, durch eigene Anstrengungen
+    aufzusteigen. Die "Arbeiterbibliotheken" hingegen würden eine
+    andere Ideologie vertreten. Auch diese Frage ist aktuell
+    geblieben, selbst wenn man diese nicht auf Basis einer
+    ausformulierten Ideologie stellt, wie das die
+    "Arbeiterbibliotheken" tun konnten. Was sie sichtbar machte und
+    weiter sichtbar hält, ist, dass jede bibliothekarische Arbeit ihre
+    Basis in einer Weltanschauung hat und dass es sich lohnt, nach
+    dieser Weltanschauung zu fragen, insbesondere dann, wenn behauptet
+    wird, Einrichtungen wie Bibliotheken würden neutral ausserhalb von
+    Weltanschauungen stehen (können). Eine solche Behauptung, so kann
+    man von den "Arbeiterbibliotheken" lernen, ist nicht per se
+    überzeugend. Irrelevant scheint dabei, ob Bibliotheken den jeweils
+    neuesten bibliothekstechnischen Entwicklungen folgen oder ob sie
+    grosse Teil der Überzeugungen davon, was Bibliotheksarbeit
+    ausmacht, teilen. Das hielt zumindest die "Arbeiterbibliotheken"
+    auch nicht von ihrer Kritik zurück.
 
 <!-- -->
 

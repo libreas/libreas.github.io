@@ -272,7 +272,7 @@ sondern seine politische Verortung im Zentrum steht, kaum.
 Bei den einschlägigen Beständen des Sozialarchivs zeigt sich
 diesbezüglich ein durchzogenes Bild. Die Materialien in der thematisch
 gegliederten und in einer vom Bibliothekskatalog separaten
-online-Datenbank ([www.sachdokumentation.ch](www.sachdokumentation.ch)) nachgewiesenen
+online-Datenbank ([https://www.sachdokumentation.ch](www.sachdokumentation.ch)) nachgewiesenen
 Sachdokumentation sind durch entsprechende Einordnung in die Systematik
 unmissverständlich gekennzeichnet. Anders sieht es teilweise bei den
 Metadaten zum Bibliotheksbestand im Nebis-Katalog aus, der auch die
