@@ -132,12 +132,13 @@
 
 
     
-        
-    
     <div align="right">
     <p><small><a itemprop="sameAs" href="https://via.hypothes.is/https://libreas.eu/ausgabe35/roschmann/meta.yaml">Annotate via hypothes.is</a></small></p>
-        <small><a itemprop="sameAs" href="master.pdf">Download PDF</a></small>
+        <small><a itemprop="sameAs" href="http://nbn-resolving.de/urn:nbn:de:kobv:11-110-18452/21095-0">Download PDF @ edoc HU Berlin</a>
+            <br>
+            urn:nbn:de:kobv:11-110-18452/21095-0 </small>
         </div>
+        
     
 
         
@@ -229,7 +230,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2019-05-02</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2019-07-29</a>)</p>
 
 </footer>
       </div>
