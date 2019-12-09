@@ -1,0 +1,482 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage[babel]{csquotes}
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+\setcapindent{0pt} % no indentation in captions
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+% typo setup
+\clubpenalty = 10000
+\widowpenalty = 10000
+\displaywidowpenalty = 10000
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+\usepackage{breakurl}
+
+%meta
+%meta
+
+\fancyhead[L]{V. Hannesschläger, Redaktion LIBREAS \\ %author
+LIBREAS. Library Ideas, 36 (2019). % journal, issue, volume.
+\href{http://nbn-resolving.de/}
+{}} % urn 
+% recommended use
+%\href{http://nbn-resolving.de/}{\color{black}{urn:nbn:de...}}
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/4.0/}{\color{black}Creative Commons BY 4.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{Infrastrukturen, Kulturwandel und Nachhaltigkeit – eine Open Policy für das Austrian Centre for Digital Humanities der Österreichischen Akademie der Wissenschaften}} % title
+\author{Vanessa Hannesschläger, Redaktion LIBREAS} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={Infrastrukturen, Kulturwandel und Nachhaltigkeit – eine Open Policy für das Austrian Centre for Digital Humanities der Österreichischen Akademie der Wissenschaften},
+      pdfauthor={Vanessa Hannesschläger, Redaktion LIBREAS},
+      pdfcopyright={CC BY 4.0 International},
+      pdfsubject={LIBREAS. Library Ideas, 36 (2019).},
+      pdfkeywords={Digital Humanities, Nachhaltigkeit, Interview, ACDH, Österreich, Austrian Centre for Digital Humanities, Österreichische Akademie der Wissenschaften, Openness, Policy, Open Policy},
+      pdflicenseurl={https://creativecommons.org/licenses/by/4.0/},
+      pdfcontacturl={http://libreas.eu},
+      baseurl={http://libreas.eu},
+      pdflang={de},
+      pdfmetalang={de}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+
+%body
+Vanessa Hannesschläger stellte bei den Open-Access-Tagen 2019 in
+Hannover die Open Policy des Austrian Centre for Digital Humanities der
+Österreichischen Akademie der Wissenschaften vor.\footnote{Vanessa
+  Hannesschläger. (2019). Nachhaltigkeit durch Institutionalisierung:
+  Die Open Policy des Austrian Centre for Digital Humanities der
+  Österreichischen Akademie der Wissenschaften. Open-Access-Tage 2019.
+  \url{https://doi.org/10.5281/zenodo.3465505}.} Sie thematisierte den
+Entstehungsprozess der Richtlinien (bottom-up Prozess) und die Grenzen,
+die der Institutionalisierung von Openness an einem derartigen Institut
+gesetzt sind. Interviewt wurde sie vor Ort von Maxi Kindling und
+Michaela Voigt.
+
+\emph{LIBREAS: Kannst du deine Institution kurz vorstellen? Welche Rolle
+spielt sie innerhalb Österreichs?}
+
+VH: Ich bin für das Austrian Centre for Digital Humanities der
+Österreichischen Akademie der Wissenschaften (ACDH-OeAW) tätig. Den
+Namen des Instituts muss man tatsächlich so umfänglich nennen, denn der
+Name \enquote{Austrian Centre for Digital Humanities} würde glauben lassen,
+dass es \emph{ein} österreichisches Zentrum für digitale
+Geisteswissenschaften gibt. Dem ist aber nicht so. Es gibt vielmehr drei
+Zentren: Das sind zum einen wir an der Akademie der Wissenschaften und
+zum anderen unser Schwesterinstitut in Graz -- das Zentrum für
+Informationsmodellierung -- sowie zum dritten ein Zentrum an der
+Universität Wien. Diese drei formieren sich gemeinsam mit weiteren
+Institutionen zum Konsortium Digital Humanities Austria, welches CLARIN
+ERIC und DARIAH-EU in Österreich vertritt.
+
+Unserem Institut, also dem ACDH-OeAW, obliegt die Koordination der
+Aktivitäten von CLARIN und DARIAH in Österreich, denn einer unser
+Direktor*innen ist in Personalunion auch der nationale Koordinator
+beider Projekte. Wir unterstützen die geisteswissenschaftlichen
+Institute an der Akademie bei der Transformation zum digitalen
+Paradigma, vor allem bei der Durchführung digitaler
+geisteswissenschaftlicher Forschungsprojekte. Die Forschungsinstitute
+entwickeln Fragestellungen und Projektideen; wir entwickeln mit ihnen
+gemeinsam deren digitale Umsetzung. Konkret kümmern wir uns um die
+Datenmodellierung, die Programmierung, die Erstellung von
+Datenmanagementplänen, die Datenarchivierung,
+Langzeitverfügbarkeit\ldots{} Wir betreiben auch das Repository
+ARCHE\footnote{A Resource Centre for the HumanitiEs (ARCHE), siehe
+  \url{https://arche.acdh.oeaw.ac.at/}.} -- ein Repositorium für
+geisteswissenschaftliche Forschungsdaten in Österreich. Publikationen
+hingegen werden auf Zenodo oder auf dem Repository epub\footnote{epub.oeaw,
+  siehe \url{http://epub.oeaw.ac.at/}.} gehostet, welches der Verlag der
+Akademie betreibt. Wir sind außerdem sehr stark im Soft-Skill-Bereich
+der Infrastrukturarbeit involviert. Aktivitäten, die landläufig unter
+\enquote{outreach} fallen, wie zum Beispiel Trainings oder Workshops, in denen
+Geisteswissenschaftler*innen bestimmte Werkzeuge und Methoden der
+digitalen Geisteswissenschaften kennen- und benutzen lernen können. Dazu
+gehören aber auch eher Keynote-artige Vorträge, die ACDH
+Lectures\footnote{Siehe auch
+  \url{https://www.oeaw.ac.at/acdh/events/event-series/acdh-lectures/}.},
+die zur digitalen Arbeit im Allgemeinen inspirieren sollen. Das
+Schlagwort lautet hier kultureller Wandel; die Inspiration zum
+kulturellen Wandel gehört sozusagen zu unseren Aufgaben.
+
+\emph{LIBREAS: Kurz zu CLARIN und DARIAH -- ihr wirkt also in die
+Einrichtung, in die Akademie und die Institute. Wie ist dabei die
+Verbindung zu den großen Forschungsinfrastrukturprojekten?}
+
+VH: Wir sind die Koordinationsstelle für die österreichischen
+Manifestationen dieser Forschungsinfrastrukturen, die es ja immer auf
+zwei Ebenen gibt -- als das EU-Projekt und in den nationalen Gremien. So
+ist es bei uns auch. Zum einen gibt es die innerösterreichischen
+Projekte, in denen Infrastruktur im Kleineren aufgebaut werden soll. Zum
+anderen gibt es natürlich Mitwirkung an den größeren, von den
+europäischen Infrastrukturen selbst initiierten Projekten. Für CLARIN
+könnte man zum Beispiel das Virtual Language Observatory\footnote{CLARIN
+  Virtual Language Observatory (VLO), siehe
+  \url{https://vlo.clarin.eu/}.} nennen, bei dem wir stark im Bereich
+Datenkuratierung involviert sind. Für DARIAH könnte man die
+Arbeitsgruppe ELDAH\footnote{Ethics and Legality in the Digital Arts and
+  Humanities (ELDAH), siehe
+  \url{https://www.dariah.eu/activities/working-groups/ethics-and-legality-in-the-digital-arts-and-humanities-eldah/}.}
+nennen, die sich mit \enquote{ethics and legality in arts and humanities}
+auseinandersetzt.
+
+\emph{LIBREAS: Und der Content von kleineren Projekten in Österreich
+wird in die großen Infrastrukturen eingebunden?}
+
+VH: Ja, genau. Natürlich nicht auf Punkt und Komma. Nicht jede
+Kleinigkeit, die für Österreich relevant ist, wird in die europäische
+Infrastrukturen überführt. Aber grundsätzlich werden die Inhalte
+weitergegeben und zentral gesammelt.
+
+\emph{LIBREAS: Einiges wurde schon kurz genannt. Kannst du etwas
+detaillierter ausführen, welche Art von Forschungsinfrastruktur am
+ACDH-OeAW betrieben beziehungsweise benutzt wird?}
+
+VH: Wie schon erwähnt, es gibt das Repositorium ARCHE\footnote{A
+  Resource Centre for the HumanitiEs (ARCHE), siehe
+  \url{https://arche.acdh.oeaw.ac.at/}.} für Forschungsdaten. Das macht
+einen großen Teil aus. Daneben gibt es einen inzwischen recht gut
+ausgebauten Technologie-Stack für geisteswissenschaftliche Arbeit, die
+vor allem textfokussiert ist. Das umfasst sowohl Datenbanken für Texte
+und TEI-kodierte XML-Daten. Andererseits arbeiten wir sehr viel mit
+kontrollierten Vokabularen. Wir hosten SKOS-Vokabulare, die sogenannten
+ACDH Vocabs.\footnote{ACDH Vocabs, siehe
+  \url{https://www.oeaw.ac.at/acdh/tools/acdh-vocabularies/}.} Diese
+werden in den verschiedenen Projekten verwendet. Ein weiteres
+herausragendes Angebot ist APIS, ein prosopographisches
+Informationssystem.\footnote{Austrian Prosopographical Information
+  System, siehe \url{https://www.oeaw.ac.at/acdh/projects/apis/}.} APIS
+ist ursprünglich aus einer Kooperation mit dem Österreichischen
+Biographischen Lexikon entstanden, das auch digital werden sollte. Hier
+werden vor allem Personen aber auch Institutionen erfasst und mit
+vorhandenen Normdatensätzen verknüpft. APIS ist inzwischen sehr
+elaboriert und man kann damit quasi die ganze Welt abbilden, was es
+besonders für historische Projekte spannend macht. Das sind drei der
+großen Komponenten in unserem Technologie-Stack, die meist
+zusammenspielen und auf die die verschiedenen Projekte zurückgreifen
+können.
+
+Technische Infrastruktur ist das Eine. Unser Institut legt viel Wert
+darauf zu betonen, dass Infrastruktur nicht nur aus den technischen
+Ebenen besteht, in denen digitale Objekte gespeichert werden können.
+Dazu gehört natürlich auch die kulturelle Transformation, die eine neue
+Art des Arbeitens, eine neue Art der kollaborativen und offenen Kultur
+ermöglicht. Deswegen gehören Vermittlung, Outreach und Advocacy ebenso
+sehr zu unseren Kernaufgaben.
+
+\emph{LIBREAS: Welche Rolle spielt Nachhaltigkeit für diese Komponenten
+und in der Institution insgesamt?}
+
+VH: Das ist eine große Frage. Schauen wir uns zuerst die soziale Ebene
+an. Wir streben vor allem an, die Forschenden zum Umdenken zu
+inspirieren. Man kann natürlich die Wissenschaftler*innen nicht einfach
+\enquote{flippen} -- wie im Open-Access-Bereich die Zeitschriften. Einen
+Denkprozess anzustoßen dauert lange; es ist mühsam. Und es gibt immer
+Personen, die man nicht erreicht. Aber denen, die wir erreichen, ist
+klar, dass der Wandel unwiderruflich ist. Quasi ein Schneeballeffekt.
+Wer einmal verstanden hat, wie sich diese Veränderung vollzieht, hört
+nicht einfach wieder auf und kehrt zum ursprünglichen Arbeiten zurück.
+Damit befinden wir uns im Soft-Skill-Bereich, den wir gerade schon
+angesprochen haben.
+
+Bei der Ebene der Daten und der Werkzeuge stehen wir vor einer enormen
+Herausforderung. Das Repositorium ist der erste Versuch. Es heißt nicht
+ohne Grund ARCHE, denn es soll wirklich eine sein: Es geht tatsächlich
+darum, die Daten zu \enquote{retten} und so lange wie möglich am Leben zu
+halten. Wobei selbst in der Open Policy des ACDH bereits steht, dass wir
+uns als Institut und die hier beschäftigten Wissenschaftler*innen sich
+dazu verpflichten, die Daten nachhaltig zu sichern, solange das
+technologisch sinnvoll möglich ist.\footnote{Zu Vorgaben der Policy zum
+  Umgang mit Forschungsdaten und Software (Ablage, Lizenz und
+  Aufbewahrungsdauer) siehe Folie 14 bei Hannesschläger (2019)
+  \url{https://doi.org/10.5281/zenodo.3465505}: \enquote{Forschungsdaten und
+  Aufzeichnungen sind so lange aufzubewahren und zugänglich zu halten,
+  wie ohne Verlust des Informationsgehalts der Daten (z.B. durch häufige
+  Formatmigrationen) möglich ist. Mindestens aufzubewahren sind sie so
+  lange, wie es nach einschlägigen gesetzlichen oder vertraglichen
+  Vorschriften, insbesondere nach einer Vorgabe des Drittmittelgebers
+  erforderlich ist.}} Die Daten sollen transformiert werden, solange
+dies ohne Verlust des Informationsgehalts machbar ist. Es wird also
+schon mitgedacht, dass die Daten realistisch betrachtet in 50 Jahren
+kaputt sein könnten. Wobei 50 Jahre schon utopisch sind. Die digitale
+Langzeitarchivierung ist bekanntlich noch ein ungelöstes Problem. Selbst
+die Sicherung in Form von Screenshots, die dann als TIFF oder JPEG
+abgelegt werden, wäre nur die absolut minimale Verlustvariante, um im
+Internet zugängliche Materialien zu sichern. Und selbst das ist kein
+Versprechen, denn auch diese Formate können kaputt gehen. Man müsste die
+Materialien schlussendlich doch wieder ausdrucken und in den Schrank
+legen\ldots{} Man muss also realistisch bleiben. Wir versuchen so weit
+wie möglich vorauszudenken, aber wir haben, wie alle anderen auch, keine
+wirklich befriedigenden Antworten hinsichtlich der digitalen
+Langzeitarchivierung.
+
+\emph{LIBREAS: Wie ist das Finanzierungsmodell für die
+Forschungsinfrastrukturen am ACDH-OeAW?}
+
+VH: Das Repository ARCHE etwa ist in einem ersten Schritt in einem
+Projektkontext aufgebaut worden -- einerseits mit Mitteln aus der
+Nationalstiftung und andererseits mit eigenen Mitteln aus dem
+Institutsbudget. So finanziert sich der Aufbau und aktuell auch der
+Betrieb des Repositoriums. Die Mittel dafür sind im Moment noch
+vergleichsweise luxuriös und erlauben auch Experimente. Die Frage der
+dauerhaften Finanzierung ist allerdings noch nicht abschließend geklärt.
+
+Bei den anderen Infrastrukturen ist die Lage ähnlich, etwa auch bei
+CLARIN und DARIAH. Das klingt erst einmal nicht gut. Aber man muss das
+im Kontext sehen: Eine Regierung wird auch nur für fünf Jahre gewählt
+und kann keine Versprechen darüber abgeben, was in zehn Jahren
+finanziert wird. Niemand kann versprechen, dass in 100 Jahren noch die
+gleiche Summe in die gleichen Bereiche fließt. Dinge verändern sich
+kontinuierlich, die Aufgaben und Anforderungen wandeln sich.
+
+\emph{LIBREAS: Die langfristige Finanzierung für eine konkrete
+Infrastruktur wie das Repositorium eines bestimmten Instituts zu klären
+ist natürlich etwas leichter als für große, auch internationale
+Infrastrukturen. Zum Beispiel, dass sich das Institut etwa verpflichtet,
+langfristig Personalmittel für den Betrieb und auch die
+Weiterentwicklung bereitzustellen.}
+
+VH: Genau, ein Repositorium muss man eher denken wie eine Bibliothek. Es
+gehört zur Institution und Punkt.
+
+\emph{LIBREAS: Welche Rolle spielt Kollaboration mit anderen
+Einrichtungen für die Nachhaltigkeit der Forschungsinfrastrukturen?}
+
+VH: Es gibt das Digital Humanities Austria Konsortium\footnote{dha -
+  digital humanities austria, siehe
+  \url{http://www.digital-humanities.at/}.}, dem sich immer wieder neue
+Partnerinstitutionen anschließen. Dieses Konsortium entspricht in etwa
+den österreichischen Sparten von CLARIN und DARIAH. In diesem Konsortium
+kommen die Arbeiten der verschiedenen Partner zusammen. Es ist eine Art
+Operationalisierung der Kollaboration, die zwischen verschiedenen
+Institutionen bereits stattfand -- weil es inhaltliche Vorteile bietet.
+Das Konsortium erleichtert die Zusammenarbeit, weil es als Struktur eine
+gewisse Repräsentativität birgt. Es erleichtert die Durchsetzung
+bestimmter Entscheidungen und auch die Mittelbeantragung.
+
+\emph{LIBREAS: In Deutschland gibt es im Bereich Digital Humanities eine
+viel kleinteiligere Landschaft, in der auch mehr Konkurrenz stattfindet.
+Hier fehlt ein solcher nationaler Rahmen.}
+
+VH: Konkurrenz gibt es in Österreich natürlich in gewissem Umfang auch.
+
+\emph{LIBREAS: Vom Konsortium abgesehen, welche Rolle spielt
+Kollaboration? Stellt Kollaboration einen Wert an sich dar um
+Nachhaltigkeit zu sichern? Oder ist das ein Fehlschluss?}
+
+VH: Eine gute Frage. Aus dem Bauch heraus würde ich sagen, dass
+Kollaboration prinzipiell förderlich ist -- für die Entwicklung ebenso
+wie für die Absicherung der Nachhaltigkeit. Aber richtig
+argumentieren\ldots{} Das ist eher ein Gefühl. Kollaboration ist gut für
+den Forschungsinhalt -- seien es Daten, seien es Ergebnisse oder
+Gedanken. Es ist gut für einen Forschungsinhalt, wenn sich mehr als
+Eine*r dafür interessiert. Das ist nicht unbedingt eine Eigenheit der
+Wissenschaft, sondern gilt generell: Wenn sich mehrere Köpfe zusammen
+tun, bekommen Dinge eine andere Dynamik und die Chance ist höher, dass
+noch jemand eine Idee einbringt. Insofern unterstützt Kollaboration die
+Nachhaltigkeit.
+
+\emph{LIBREAS: Die Frage ist zugegeben auch etwas schwammig. Konsortiale
+Strukturen bergen ja auch gewisse Nachteile, und es gibt auch Formen der
+Kollaboration, die nicht institutionalisiert sind...}
+
+VH: Ich glaube, dass formale Strukturen im schlechtesten Fall sogar
+Nachhaltigkeit aktiv verhindern können. Mitunter arbeiten formalisierte
+Gruppen auch gegen sich selbst. Bei informeller Zusammenarbeit, die sich
+aus inhaltlichen Interessen und Gemeinsamkeiten speist, ist es
+umgekehrt. Eher stoppt die Kollaboration als das Projekt, wenn es
+Uneinigkeiten gibt.
+
+\emph{LIBREAS: Wir würden gern noch über freie Lizenzen sprechen. Welche
+Rolle spielen sie und andere Kriterien offener Wissenschaft -- sowohl
+für die Infrastrukturen, über die wir sprachen, als auch für die
+Policy?}
+
+VH: Die Policy besagt, dass freie Lizenzen prinzipiell gewünscht sind.
+Sie sollen grundsätzlich genutzt werden und sollen so \emph{frei} sein,
+wie es in dem konkreten Zusammenhang und auf Grundlage der jeweiligen
+rechtlichen Gegebenheiten möglich ist. Auch das Digital Humanities
+Austria Konsortium bekennt sich zu freien Lizenzen und zu offener
+Wissenschaft, wenn auch die Nutzung freier Lizenz nicht ganz so klar,
+wie in der Policy des ACDH-OeAW, angemahnt wird. Es wird immer dann
+kompliziert, wenn die Forschenden selbst ins Spiel kommen. \enquote{Geistiges
+Eigentum} ist ein schwieriges Konzept. Das kann das Arbeiten
+erschweren. Das weiß jede*r, der/die programmiert. Wir brauchen
+Offenheit und freie Lizenzen, sonst kann kein sinnvoller Code entstehen
+-- gerade wenn man nicht für einen großen Konzern arbeitet. Wenn es um
+die digitalen und technologischen Komponenten geht, ist die Antwort ganz
+klar: Sie sind nicht sinnvoll umsetzbar, wenn man nicht mit offenen
+Materialien arbeitet. Für die technologischen Grundkomponenten sind
+offene Lizenzen also eine Grundvoraussetzung. Und das wird in der Praxis
+auch so umgesetzt. Im Code selbst ist die Angabe der Lizenz eine Zeile.
+Die Programmierer*innen stellen das auch gar nicht in Frage; sie
+verstehen häufig die Aufregung nicht.
+
+\emph{LIBREAS: Warum ist die Situation mit Blick auf die
+Wissenschaftler*innen schwieriger? Woran liegt das?}
+
+VH: Es ist wohl ein althergebrachtes Verständnis von Wissenschaft. Und
+in gewisser Hinsicht ist das auch nachvollziehbar -- es geht um unsere
+Karrieren und um Anerkennung für unsere Arbeit. Ich selbst bin
+Wissenschaftlerin und keine Programmiererin. Ich kann das schon
+nachvollziehen. Ein Beispiel: Digitale Edition haben eine
+Herausgeber*innenschaft und die Herausgeber*innen werden auch benannt.
+An einer digitalen Edition sind aber viele Personen beteiligt. Die
+wissenschaftlichen Herausgeber*innen sind in der Regel die
+Projektleiter*innen. Dass die digitale Edition entsteht, ist aber
+letztendlich auch der Verdienst der Programmierer*innen und
+Datenkurator*innen -- die jedoch nicht als Herausgeber*innen gelistet
+werden. Aber welche Rolle haben diese beiden Gruppen? Und an welcher
+Stelle werden sie in einer digitalen Edition aufgeführt? Wie früher bei
+Büchern ist es wichtig, dass der Name an der richtigen Stelle steht.
+Dabei wird aber nicht berücksichtigt, dass eine digitale Edition ganz
+anders entsteht als ein Buch.
+
+\emph{LIBREAS: Namensnennung als solches ist kein unlösbares Problem.
+Diese Thematik verhindert doch nicht, dass ein Werk zum Beispiel unter
+einer CC-BY-Lizenz verbreitet wird. Es klingt so, als ob die Kontroverse
+nicht ist,} dass \emph{die digitale Edition unter freier Lizenz
+erscheint -- sondern vielmehr wer an welcher Stelle aufgeführt wird.
+Stimmt das?}
+
+VH: Ja, durchaus. Lizenzierung als solches ist einzelnen
+Wissenschaftler*innen mitunter fremd. Wenn man ihnen die Grundthematik
+erläutert, ist es in der Regel nicht schwierig, sie von den Vorteilen
+einer offenen Lizenzierung zu überzeugen. Ein Problem für die
+Lizenzierung ergibt sich häufig eher durch die Materialien, mit denen
+die Wissenschaftler*innen arbeiten. Wenn diese noch Urheberrechtsschutz
+genießen, dann stehen die Rechte der Urheber*innen beziehungsweise der
+Rechteinhaber*innen einer freien Lizenzierung der digitalen Edition
+entgegen. Digitale Editionen sind eine besondere Kategorie. Ab wann ist
+bei einer digitalen Edition die Schöpfungshöhe erreicht? Welche Rechte
+hat der/die Arbeitgeber*in? Und können auch Metadaten urheberrechtlich
+geschützt sein? Die Abgrenzung ist nicht trivial, weder im analogen noch
+im digitalen Bereich.
+
+\emph{LIBREAS: Lass uns noch einen Blick in die Zukunft werfen. Was
+kommt nach der Policy?}
+
+VH: \emph{(lacht)} Die richtige Arbeit beginnt eigentlich mit der
+Verabschiedung der Policy. Die Implementierung einer so weitgreifenden
+Richtlinie ist ein langer Weg durch die Instanzen, der mit der
+Verabschiedung der Policy durch das Direktor*innengremium des Instituts
+im Februar 2019 erst begonnen hat. Aber es gilt nun, die Policy-Inhalte
+im Alltag umzusetzen. Die Policy sieht keine Sanktionierung bei
+Nichteinhaltung vor. Sie soll vor allem motivieren. Aber eine positive
+Wirkung entfalten kann sie nur, wenn sie auch bekannt ist. Der nächste
+Schritt wird also sein, die Policy im ACDH-OeAW bekannt zu machen und
+der/den Einzelnen zu vermitteln, welche Vorteile die Einhaltung der
+einzelnen Punkte birgt.
+
+\emph{LIBREAS: Wir danken dir herzlich für die vielen Anregungen und das
+Gespräch!}
+
+%autor
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{Vanessa Hannesschläger} hat Germanistik an der Universität Wien
+studiert. Zu ihren Interessensgebieten zählen unter anderem das Arbeiten
+mit Archivmaterialien in digitalen Kontexten, Standardisierung und
+Langzeitarchivierung im Bereich der Digital Humanities sowie
+Rechtsfragen im digitalen Raum. Am ACDH leitet sie die Taskforce zum
+Thema „legal issues" und ist an den Infrastrukturprojekten
+\href{https://www.oeaw.ac.at/de/acdh/projects/clarin/}{CLARIN},
+\href{https://www.oeaw.ac.at/de/acdh/projects/dariah-eu/}{DARIAH} und
+\href{https://www.oeaw.ac.at/de/acdh/projects/dha-digital-humanities-austria/}{dha}
+beteiligt. Vanessa war außerdem
+\href{https://en.wikiversity.org/wiki/Wikimedia_Deutschland/Open_Science_Fellows_Program}{Open
+Science Fellow} im gleichnamigen Programm von Wikimedia Deutschland,
+Stifterverband und Volkswagen-Stiftung (Programmjahr 20117/18) und ist
+Mitglied des Programmkommittees der Open-Access-Tage 2020.
+
+\textbf{Maxi Kindling} (ORCiD:
+\url{https://orcid.org/0000-0002-0167-0466}) ist Referentin im
+Open-Access-Büro Berlin. Sie ist Mitbegründerin und -herausgeberin von
+LIBREAS. Library Ideas.
+
+\textbf{Michaela Voigt} (ORCiD:
+\url{https://orcid.org/0000-0001-9486-3189}), Open-Access-Team der TU
+Berlin, Redakteurin LIBREAS. Library Ideas.
+
+\end{document}
