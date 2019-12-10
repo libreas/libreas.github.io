@@ -1,0 +1,320 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage[babel]{csquotes}
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+\setcapindent{0pt} % no indentation in captions
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+% typo setup
+\clubpenalty = 10000
+\widowpenalty = 10000
+\displaywidowpenalty = 10000
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+\usepackage{breakurl}
+
+
+%meta
+
+%meta
+
+\fancyhead[L]{R. Gey, K. Leinweber, A. Struck, R. Strötgen, C. Pietsch \\ %author
+LIBREAS. Library Ideas, 36 (2019). % journal, issue, volume.
+\href{http://nbn-resolving.de/}
+{}} % urn 
+% recommended use
+%\href{http://nbn-resolving.de/}{\color{black}{urn:nbn:de...}}
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/4.0/}{\color{black}Creative Commons BY 4.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{Workshop @ deRSE19: Libraries for Research Software \& Engineers}} % title
+\author{Ronny Gey, Katrin Leinweber, Alexander Struck, \\Robert Strötgen, Christian Pietsch} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={Workshop @ deRSE19: Libraries for Research Software \& Engineers},
+      pdfauthor={Ronny Gey, Katrin Leinweber, Alexander Struck, Robert Strötgen, Christian Pietsch},
+      pdfcopyright={CC BY 4.0 International},
+      pdfsubject={LIBREAS. Library Ideas, 36 (2019).},
+      pdfkeywords={research software, RSE Conference, Research Software Engineer, software engineering, software discovery, research data},
+      pdflicenseurl={https://creativecommons.org/licenses/by/4.0/},
+      pdfcontacturl={http://libreas.eu},
+      baseurl={http://libreas.eu},
+      pdflang={en},
+      pdfmetalang={en}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+
+%body
+The workshop was hosted by five people from library and infrastructure
+environments. As information managers we discussed what libraries are
+already doing and should do in the future to further explore software
+engineering and engineers. The topic attracted participants with diverse
+backgrounds in research software engineering and library and information
+science. Our goals were to generate/strengthen awareness of the topic of
+Research Software \& Engineers {[}RS(E){]} in libraries, to jointly
+identify fields of action for libraries, to collect and collaboratively
+develop ideas and materials for use in libraries, and to interconnect
+the RSE community with libraries.
+
+\hypertarget{introduction}{%
+\section{Introduction}\label{introduction}}
+
+Katrin Leinweber from TIB Hannover opened and moderated the workshop.
+After a short round of introductions of all the participants, we started
+to present the three subtopics of this workshop in short impulse
+lectures, from which the participants then choose one to persue. For the
+treatment of the topics we decided to use the Speedboat
+procedure\footnote{``Speedboat procedure'':
+  \url{https://klaxoon.com/blog/speed-boat-an-agile-method-to-discover}.}
+known from agile project management. We worked with a diagram of a
+sailing boat and an island. The anchor of the sailboat represents the
+challenges of the respective topic. The wind in the sails gives the
+company strength and stands for aspects that help us to achieve our
+goal. The goal in turn is embodied by the island, which represents the
+desired state for the respective topic.
+
+\hypertarget{software-discovery-and-its-tools}{%
+\section{Software Discovery and its
+tools}\label{software-discovery-and-its-tools}}
+
+Discussions revealed that developers utilize general purpose search
+engines to find code snippets, for example in order to remind themselves
+how a certain algorithm was implemented. Software for re-use purpose is
+also searched for in general purpose search engines and within the
+researcher's social network.
+
+BASE\footnote{BASE: \url{https://www.base-search.net/}.} as a search
+engine for academic audiences does show software from over 7000 sources
+it harvests. User Interface refinements to support this use case were
+discussed, such as aggregating multiple versions of the same software
+into a single entry, with the latest version displayed primarily. It was
+also suggested to implement full text and source code search (in
+addition to metadata search) in order to increase its usefulness.
+Zenodo.org\footnote{Zenodo -- Type ``Software'':
+  \url{https://zenodo.org/search?page=1\&size=20\&q=\&type=software}.}
+becomes more popular as a software repository due to its integration
+with GitHub\footnote{GitHub ``Making Your Code Citable''
+  \url{https://guides.github.com/activities/citable-code/}.} which
+allows publication with a DOI and thus proper citation\footnote{Research
+  Software Citation: \url{https://cite.research-software.org/}.}
+metadata. Software Heritage\footnote{Software Heritage:
+  \url{https://www.softwareheritage.org/}.} was shortly discussed as an
+archival effort to prevent loss of research software as it may happen on
+code collaboration platforms. We finished the discussion with ideas on
+how to make software and the relevant repositories more visible. A
+registry similar to what re3data\footnote{re3data:
+  \url{https://re3data.org/}.} does for research data could be a
+promising endeavour.
+
+\hypertarget{open-educational-resources}{%
+\section{Open Educational
+Resources}\label{open-educational-resources}}
+
+In the second track of the workshop, we set out to collect existing Open
+Educational Resources on RSE and to show why libraries can be good
+partners of the RSE community in terms of education and training. We
+agreed in advance that mastery of the tools is particularly important
+for research and that software has an outstanding importance as a tool
+today. First, we collected existing offers for training
+(Carpentries\footnote{The Carpentries: \url{https://carpentries.org/}.}
+-- Software\footnote{Software Carpentry:
+  \url{https://software-carpentry.org/}.}, Data\footnote{Data Carpentry:
+  \url{https://datacarpentry.org/}.}, Library\footnote{Library
+  Carpentry: \url{https://librarycarpentry.org/}.},
+ProgrammingHistorian\footnote{The Programming Historian:
+  \url{https://programminghistorian.org/}.}, Exercism\footnote{Exercism:
+  \url{https://exercism.io/}.}), for documentation (Read the
+Docs\footnote{Read the Docs -- Create, host, and browse documentation:
+  \url{https://readthedocs.org/}.}, MkDocs\footnote{MkDocs -- Project
+  documentation with Markdown: \url{https://www.mkdocs.org/}.}), and
+collections of interesting aspects in general (awesome
+lists\footnote{For example list on GitHub: ``awesome -- Awesome lists
+  about all kinds of interesting topics''
+  \url{https://github.com/sindresorhus/awesome}.}). We quickly agreed
+that there are already many offers and that we as libraries should
+rather concentrate on collecting, curating, improving and above all
+disseminating the existing offers. We identified potential problems for
+this in institutional support -- although the topic of research software
+is currently coming to the fore, the necessary structures at the
+institutions are still lacking. The offers collected so far are also
+based on voluntary work, which is often carried out in leisure time in
+addition to regular work. Further, the sheer quantity of available
+offers is challenging.
+
+Just as good programmers try to solve a problem by writing as little
+code as necessary\footnote{David Strauss: ``All Code is Debt'', February
+  12, 2014, \url{https://pantheon.io/blog/all-code-debt}.}, re-using
+well-established, shared code libraries, knowledge workers should take
+on the challenge of contributing to existing resources, rather than
+creating their own. Although the latter is a common criterion in
+evaluations, promotions et cetera, it exacerbates the problem of
+curating or even just reviewing the sheer quantity of available
+material.
+
+\hypertarget{rse-and-the-management-of-research-data}{%
+\section{RSE and the Management of Research
+Data}\label{rse-and-the-management-of-research-data}}
+
+The third group discussed the close connection of research software and
+research data. In many cases publication and archival of research data
+without the used research software is useless. This causes several
+challenges for example for software of measure devices and simulation.
+Libraries have to offer new services in close cooperation with
+researchers and research software developers. Libraries have useful
+knowledge on aspects like metadata, protocols, vocabularies/ontologies,
+persistent identifiers. This knowledge may lead to new services about
+reproducibility, discovery, free or restricted access to research data
+and software.
+
+Research is changing and becoming more complex. Diversity of
+researchers' needs and use cases require flexible cooperation between
+librarians, researchers and software developers. Small and concrete
+pilot projects should help to develop new ways of cooperation.
+
+\hypertarget{future-work}{%
+\section{Future Work}\label{future-work}}
+
+The organizers consider pursuing the topic in the future. Making
+software repositories more accessible may be one activity. In our
+experience, libraries will have the most impact by connecting scientists
+and users to existing tools, curation forums (GitHub topics\footnote{GitHub
+  topics: \url{https://github.com/topics/}.}) and initiatives like
+Carpentries\footnote{The Carpentries: \url{https://carpentries.org/}.}
+or Open Source Guide\footnote{Open Source Guides:
+  \url{https://opensource.guide/}.}. Stay tuned.
+
+\hypertarget{derse-conference-review}{%
+\section*{deRSE Conference Review}\label{derse-conference-review}}
+
+After three successful UK conferences for Research Software Engineering
+the first RSE conference in Germany\footnote{deRSE19 Conference:
+  \url{https://www.de-rse.org/en/conf2019/}.} took place at the Albert
+Einstein Science Park\footnote{Albert Einstein Science Park:
+  \url{https://en.wikipedia.org/wiki/Albert_Einstein_Science_Park}.} in
+Potsdam. The organizers created a wonderful atmosphere and a
+sophisticated and balanced schedule. Many talks were recorded and have
+been published in a dedicated video repository\footnote{deRSE19 video
+  recordings: \url{https://av.tib.eu/series/644}.}. There has been
+praise\footnote{Helmholtz Open Science Newsletter vom 24.07.2019
+  https://os.helmholtz.de/bewusstsein-schaerfen/newsletter/archiv/newsletter-75-vom-24072019/\#c19002}
+and some criticism due to some sponsors involved. There are more
+national conferences of this kind scheduled\footnote{For example in the
+  Netherlands, see Call for contributions -- NL-RSE19:
+  \url{https://nl-rse.org/2019/07/09/NL-RSE-2019.html}.} but rumor has
+it that an international conference is in the making.
+
+%autor
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{Ronny Gey} studied business informatics at the TU-Chemnitz and
+then worked as a research assistant at the University of Leipzig and the
+FSU Jena. Since 2018 he has been working as a trainee at the University
+Library Leipzig and is studying library and information science at the
+IBI at the HU Berlin. \url{https://orcid.org/0000-0003-1028-1670}
+
+\textbf{Katrin Leinweber} studied life sciences, ecology and geology,
+then shifted towards process automation, data analysis and software
+development. She supports and trains researchers and librarians in these
+topics since 2017. \url{https://orcid.org/0000-0001-5135-5758}
+
+\textbf{Alexander Struck} has an academic background in LIS \& CS. He
+worked for the content industry and does research on citation networks,
+research evaluation and research software discovery. Alexander is CIO of
+the Cluster of Excellence -- Matters of Activity.
+\url{https://orcid.org/0000-0002-1173-9228}
+
+\textbf{Robert Strötgen} is a historian and information scientist and
+has developed scientific software at various institutions such as GESIS
+and the Georg Eckert Institute. Since 2016 he has been head of the IT
+and research support services department at the University Library of
+the TU Braunschweig and is now deputy director.
+\url{https://orcid.org/0000-0003-3320-5187}
+
+\textbf{Christian Pietsch} is a computational linguist in Bielefeld
+University Library's library technology and knowledge management
+department. Recent DFG projects he contributed to include CONQUAIRE
+(Continuous quality control for research data to ensure reproducibility)
+and ORCID DE. Occasionally, he is involved in running BASE (Bielefeld
+Academic Search Engine). \url{https://orcid.org/0000-0001-8778-1273}
+
+\end{document}
