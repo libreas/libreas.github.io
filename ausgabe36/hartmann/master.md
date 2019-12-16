@@ -224,7 +224,7 @@ Zugang zu Geodaten und Umweltinformationen gibt die Literatur nur selten
 Auskunft, im Gegensatz zu den Regelungen in den Bereichen Statistik,
 Sozialstaat, Gesundheit und Archivwesen.
 
-#### Personenbezug von raumbezogenen Daten, insbesondere Geodaten - Grundsätzliches
+#### Personenbezug von raumbezogenen Daten, insbesondere Geodaten – Grundsätzliches
 
 Für die Erd- und Umweltwissenschaften sind raumbezogene Daten von
 besonderer Bedeutung. Wird in der Literatur die Verarbeitung von Daten
@@ -375,7 +375,7 @@ es sich um ein kooperierendes Autorenteam handelt (vergleiche Karg und
 Weichert 2007). Gerade in diesem für die Erd- und Umweltwissenschaften
 besonders relevanten Bereich besteht also wenig Einigkeit.
 
-#### Personenbezug von Geodaten - Spezialgesetzliche Regelungen und Verwaltungsleitfäden
+#### Personenbezug von Geodaten – Spezialgesetzliche Regelungen und Verwaltungsleitfäden
 
 Für den Zugang zu bei Behörden vorliegenden personenbezogenen Geo- und
 Umweltdaten bestehen spezialgesetzliche Regelungen. Das

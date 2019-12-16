@@ -1,0 +1,381 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage[babel]{csquotes}
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+\setcapindent{0pt} % no indentation in captions
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+% typo setup
+\clubpenalty = 10000
+\widowpenalty = 10000
+\displaywidowpenalty = 10000
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+\usepackage{breakurl}
+
+%meta
+\appto\UrlBreaks{\do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j
+\do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t\do\u\do\v\do\w
+\do\x\do\y\do\z}
+
+%meta
+
+\fancyhead[L]{F. Gelati \\ %author
+LIBREAS. Library Ideas, 36 (2019). % journal, issue, volume.
+\href{http://nbn-resolving.de/}
+{}} % urn 
+% recommended use
+%\href{http://nbn-resolving.de/}{\color{black}{urn:nbn:de...}}
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/4.0/}{\color{black}Creative Commons BY 4.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{Die nachhaltige Bewahrung einer Forschungsdatenbank durch Linked Data. Laut welchem Vokabular?}} % title
+\author{Francesco Gelati} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={Die nachhaltige Bewahrung einer Forschungsdatenbank durch Linked Data. Laut welchem Vokabular?},
+      pdfauthor={Francesco Gelati},
+      pdfcopyright={CC BY 4.0 International},
+      pdfsubject={LIBREAS. Library Ideas, 36 (2019).},
+      pdfkeywords={Linked Data, Forschungsdaten, Standardisierung, Vokabulare, Wikidata},
+      pdflicenseurl={https://creativecommons.org/licenses/by/4.0/},
+      pdfcontacturl={http://libreas.eu},
+      baseurl={http://libreas.eu},
+      pdflang={en},
+      pdfmetalang={en}
+     }
+
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+\begin{abstract}
+\noindent
+Linked Data bietet die Möglichkeit nicht nur normkonforme Datensätze zur
+Verfügung zu stellen sonder auch nachhaltig und langfristig Metadaten zu
+bewahren, wenn diese zu Linked Data Vokabularen verknüpft sind. Aber
+welches Vokabular soll man nutzen? Der Anwendungsfall einer
+Forschungsdatenbank des Instituts für Zeitgeschichte München - Berlin
+zeigt die Vorteile, Wikidata für die Erstellung von
+Linked-Data-Beständen zu benutzen und Wikidata/DBpedia als
+Backup-Vokabular zu verwenden.
+\end{abstract}
+
+%body
+\hypertarget{normgerechte-metadaten-als-linked-data}{%
+\section{Normgerechte Metadaten als Linked
+Data}\label{normgerechte-metadaten-als-linked-data}}
+
+Nur normgerechte und FAIR\footnote{FAIR Principles:
+  \url{https://www.go-fair.org/fair-principles/}.}-Metadaten sind wert,
+langfristig gespeichert zu werden. Zugleich erscheinen aber immer wieder
+neue Standards! Das bedeutet, dass aktuell normkonforme Metadaten in der
+Zukunft veraltet und kaum wiederverwendbar sein können. Das
+Dublin-Core-Datenformat, das im ersten Jahrzehnt des 21. Jahrhunderts
+sehr erfolgreich war, wird beispielsweise in Europa bereits heute immer
+seltener genutzt, da sich das Europeana-Datenmodell durchsetzt. Mit
+Linked Data kann man Datensätze erstellen, die später flexibel quasi als
+Informationsatome auch nach neuen Standards verknüpft und
+weiterverarbeitet werden können.
+
+Das \emph{Institut für Zeitgeschichte München - Berlin}\footnote{\url{https://www.ifz-muenchen.de/}}
+betreibt eine Forschungsdatenbank von personenbezogenen Daten mit mehr
+als 3000 Normdaten (Authority Records), die aus der proprietären
+Software für Sammlungsmanagement\footnote{FAUST (c) by Land
+  Software-Entwicklung} als XML-Bestände exportiert werden können. Damit
+die Daten nachhaltig bewahrt werden, arbeitet das Institut an der
+Transformation der Einträge in Linked Data (Gelati 2019). Dafür wurde
+bereits eine Mapping-Musterdatei getestet, sodass man in den
+Quelldateien relevante Informationen selektieren und sie in die
+geeigneten Felder der Zieldateien überführen kann.
+
+Da Linked-Data-konforme N-Triples-Bestände aus
+Subjekt-Prädikat-Objekt-Sätzen bestehen, ist es erforderlich zu
+bestimmen, welche Prädikate von welchen Linked Data-Vokabularen benutzt
+werden sollen.
+
+Mit Wikidata, dem Normdaten-Projekt der Wikimedia Foundation, kann man
+beispielsweise den folgenden Satz erstellen:
+
+\begin{verbatim}
+http://example.com/33
+https://www.wikidata.org/wiki/Property:P20
+https://www.wikidata.org/wiki/Q3004.
+\end{verbatim}
+
+Dieser Satz bedeutet: Jene Person, die über den persistenten Identifier
+\texttt{example.com/33} identifiziert wird, hat Ingolstadt als
+Sterbeort.
+
+\hypertarget{linked-data-vokabulare}{%
+\section{Linked Data Vokabulare}\label{linked-data-vokabulare}}
+
+Doch warum soll man sich für Wikidata entscheiden? Das Repositorium
+\url{https://lov.linkeddata.es/} weist mehr als 100
+Linked-Data-Vokabulare nach, die oft gleichwertige Einträge haben.
+Lassen wir uns das vorgenannte N-Triple-Beispiel weiter untersuchen.
+Mehrere Vokabulare enthalten die Eigenschaft \enquote{Sterbeort}:
+
+\begin{verbatim}
+https://www.wikidata.org/wiki/Property:P20
+
+https://d-nb.info/standards/elementset/gnd#placeOfDeath
+
+http://id.loc.gov/ontologies/madsrdf/v1.html#deathPlace
+
+http://dbpedia.org/ontology/deathPlace
+
+http://sparql.cwrc.ca/ontology/cwrc.html#hasDeathPlace
+
+http://www.rdaregistry.info/Elements/u/#P60592
+
+https://schema.org/deathPlace
+\end{verbatim}
+
+Jedes dieser Vokabulare kann als der zweite Teil des Beispielsatzes
+(statt \url{https://www.wikidata.org/wiki/Property:P20}) Anwendung
+finden, um gleichlautende Resultate zu erzielen.
+
+Flexibilität gibt es auch mit den Objekten: Lassen wir uns das
+Sterbedatum prüfen. Meines Wissens bietet nur Wikidata eine exakte
+Entität für das Jahr 1920. Aber das Jahr 1920 kann sowohl als die volle
+Entität als auch als Kombination von
+
+\texttt{integer("1920")} und
+\texttt{class(https://www.wikidata.org/wiki/Q577)}
+
+ausgedrückt werden.
+
+\begin{verbatim}
+http://example.com/33
+https://www.wikidata.org/wiki/Property:P570
+https://www.wikidata.org/wiki/Q2155 .
+
+http://example.com/33
+https://www.wikidata.org/wiki/Property:P570
+"1920"^^https://www.wikidata.org/wiki/Q577 .
+\end{verbatim}
+
+Um einen Kalendertag auszudrücken, bleibt nur die letztere Option, denn
+Wikidata bietet beispielsweise für den Tag \enquote{04.01.1988} keinen
+eigenen persistenten Identifier.
+
+\begin{verbatim}
+http://example.com/33
+https://www.wikidata.org/wiki/Property:P570
+"04.01.1988"^^https://www.wikidata.org/wiki/Q205892 .
+\end{verbatim}
+
+Einrichtungen, die Linked Data generieren, können ihr eigenes Vokabular
+entwickeln sowie bereits bestehende Ontologien nutzen (Guernaccini,
+Mazzini, Bruno 2019). Die meisten arbeiten mit beiden Optionen: Die
+Deutsche Nationalbibliothek\footnote{Ich nehme als Beispiel die Datei
+  \url{https://d-nb.info/129307343/about/lds.rdf}.} erstellt Linked Data
+sowohl mit ihrer eigenen \enquote{GND Ontology}\footnote{GND Ontology:
+  \url{https://d-nb.info/standards/elementset/gnd}.} als auch mit den
+berühmten \enquote{FOAF (Friend Of A Friend) Vocabulary
+Specification}\footnote{Friend of a Friend (FOAF):
+  \url{http://www.foaf-project.org/}.} und \enquote{Dublin Core Metadata
+Terms}\footnote{Dublin Core Metadata Initiative: DCMI Metadata Terms:
+  \url{https://www.dublincore.org/specifications/dublin-core/dcmi-terms/}.}.
+
+Sind der große Erfolg im deutschsprachigen Raum der Gemeinsamen
+Normdatei\footnote{Gemeinsame Normdatei (GND):
+  \url{https://www.dnb.de/gnd}.} (aber momentan nicht der GND Ontology)
+sowie die weltweite Nutzung der oben genannten Vokabulare ein
+ausreichender Grund dafür, sie heute als nachhaltige Lösung für die
+Langzeitarchivierung zu schätzen? Wenn derselbe Satz mit verschiedenen
+Vokabularen zweimal formuliert würde, würde das unerwartete Ende der
+Weiterpflege (oder Migration, oder Änderung) eines Vokabulars keinen
+Informationsverlust verursachen.
+
+\hypertarget{wikidata-als-linked-data-mittelpunkt}{%
+\section{Wikidata als Linked
+Data-Mittelpunkt}\label{wikidata-als-linked-data-mittelpunkt}}
+
+Bedeutet die nachhaltige Datenarchivierung von Linked Data nicht, wenn
+möglich, immer zwei Vokabulare zu nutzen? Das heißt, ein
+\enquote{Backup-Vokabular} für den Fall fragmentierter, instabiler und
+wechselhafter Ontologien zu haben? Wenn ja, welches?
+
+Dafür scheint Wikidata die Lösung zu sein. Mehrere wissenschaftliche
+Beiträge haben \enquote{Wikidata as a linking hub} (Neubert 2017) oder
+\enquote{Wikidata as a universal identifier} (van Veen 2019) bereits
+vorgeschlagen. Wikidatas reiches Angebot von sowohl Entitäten als auch
+Eigenschaften ermöglicht es, Wikidata und die nahestehende Datenbank
+DBpedia\footnote{DBpedia: \url{https://wiki.dbpedia.org/}.} als
+\enquote{Backup-Vokabular} bzw. \enquote{Linked Data hub} zu verwenden.
+Genau dieser Weg wird fortan vom Institut für Zeitgeschichte München -
+Berlin mit seiner Forschungsdatenbank von personenbezogenen Daten
+getestet.
+
+Derselbe Salz wird dank XSL-Mapping einmal laut des fachspezifischen
+(archivalischen) Standards RiC (Records in Contexts Ontology)
+
+\begin{verbatim}
+http://example.com/33
+http://purl.org/ica/ric#RiC-hadDeathDate
+"04.01.1988"^^https://schema.org/Date .
+\end{verbatim}
+
+und einmal laut der fachübergreifenden Datenbank Wikidata erscheinen.
+
+\begin{verbatim}
+http://example.com/33
+https://www.wikidata.org/wiki/Property:P570
+"04.01.1988"^^https://www.wikidata.org/wiki/Q205892 .
+\end{verbatim}
+
+Wäre es für tausende Einträge redundant oder komplementär? Übermäßig
+oder vorsichtig? Arbeitsintensiv oder nachhaltig? Hinweise und
+Kommentare sind herzlich willkommen.
+
+\hypertarget{bibliographie}{%
+\section{Bibliographie}\label{bibliographie}}
+
+Francesco Gelati. (2019). Archival Authority Records as Linked Data
+thanks to Wikidata, schema.org and the Records in Context Ontology.
+ICARUS (International Centre for Archival Research) Convention
+\enquote{Archives and Archival Research in the Digital Environment},
+Belgrad, Serbien, 2019-09-23 bis 2019-09-25.
+\url{https://doi.org/10.5281/zenodo.3465304}
+
+Fabiana Guernaccini, Silvia Mazzini, Giovanni Bruno. (2019). LOD
+publication in the archival domain: methods and practices. In \emph{Open
+Data and Ontologies for Cultural Heritage. Proceedings of the First
+International Workshop on Open Data and Ontologies for Cultural Heritage
+co-located with the 31st International Conference on Advanced
+Information Systems Engineering (CAiSE 2019)}, hrsg. von Antonella
+Poggi: 15--26.
+\href{http://ceur-ws.org/Vol-2375/}{http://ceur-ws.org/Vol-2375}
+
+Joachim Neubert. (2017). Wikidata as a linking hub for knowledge
+organization systems? Integrating an authority mapping into Wikidata and
+learning lessons for KOS mappings. In \emph{Proceedings of the 17th
+European Networked Knowledge Organization Systems Workshop co-located
+with the 21st International Conference on Theory and Practice of Digital
+Libraries 2017 (TPDL 2017)}, hrsg. von Philipp Mayr, Douglas Tudhope,
+Koraljka Golub, Christian Wartena and Ernesto William De Luca: 14--25.
+\url{http://ceur-ws.org/Vol-1937}
+
+Theo van Veen. (2019). Wikidata: from \enquote{an} Identifier to
+\enquote{the} Identifier. In \emph{Information Technology and
+Libraries}, 38(2), 72--81.
+\url{https://doi.org/10.6017/ital.v38i2.10886}
+
+Jakob Voß. (2017). Normdaten-Mappings in Wikidata. Subject Indexing \&
+Information Technology Workshop (SIIT), Göttingen, Germany, 2017-05-11.
+\url{https://doi.org/10.5281/zenodo.574452}
+
+\hypertarget{websites}{%
+\section{Websites}\label{websites}}
+
+\url{https://www.w3.org/TR/n-triples/}
+
+\url{https://www.wikidata.org/}
+
+\url{https://lov.linkeddata.es/}
+
+\url{https://wiki.dbpedia.org/}
+
+\url{https://d-nb.info/standards/elementset/gnd}
+
+\url{http://xmlns.com/foaf/spec/}
+
+\url{https://dublincore.org/specifications/dublin-core/dcmi-terms/}
+
+\url{http://purl.org/ica/ric}
+
+\url{https://schema.org/}
+
+%autor
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{Francesco Gelati} (1987) erwarb die Master-Abschlüsse Linguistik
+an der Universität Ca' Foscari Venedig und Geschichte an der Universität
+Straßburg. Auch besuchte er die Schule für Archivwissenschaft des
+Staatsarchivs zu Venedig. Von 2017 bis 2019 arbeitete er beim Belgischen
+Staatsarchiv als Datenimportmanager und ist seit 2019 Archivar am
+Institut für Zeitgeschichte München - Berlin. Er interessiert sich für
+digitale archivalische Standards, Linked Data und
+Forschungsdatenmanagement. ORCID ID:
+\url{https://orcid.org/0000-0002-6066-1308}
+
+\end{document}
