@@ -126,14 +126,20 @@
 
 <div align="right">
 
-<strong> > > > <a href="inhalt.htm">LIBREAS. Library Ideas # 36</a></strong> <br><br>
+<strong> > > > <a href="/ausgabe36/inhalt/">LIBREAS. Library Ideas # 36</a></strong> <br><br>
 </div>
+
 
 
 
 
     
         
+    
+    <div align="right">
+    <p><small><a itemprop="sameAs" href="https://via.hypothes.is/https://libreas.eu/ausgabe36/hannesschlaeger/meta.yaml">Annotate via hypothes.is</a></small></p>
+        <small><a itemprop="sameAs" href="master.pdf">Download PDF</a></small>
+        </div>
     
 
         
@@ -223,7 +229,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2019-12-16</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2019-12-22</a>)</p>
 
 </footer>
       </div>

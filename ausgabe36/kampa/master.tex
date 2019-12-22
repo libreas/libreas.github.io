@@ -1,0 +1,413 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage[babel]{csquotes}
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+\setcapindent{0pt} % no indentation in captions
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+% typo setup
+\clubpenalty = 10000
+\widowpenalty = 10000
+\displaywidowpenalty = 10000
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+\usepackage{breakurl}
+
+%meta
+
+%meta
+
+\fancyhead[L]{P. Kampa \\ %author
+LIBREAS. Library Ideas, 36 (2019). % journal, issue, volume.
+\href{http://nbn-resolving.de/}
+{}} % urn 
+% recommended use
+%\href{http://nbn-resolving.de/}{\color{black}{urn:nbn:de...}}
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/4.0/}{\color{black}Creative Commons BY 4.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{User-centering and constant communication. Lessons learnt from the Open Repositories 2019 in Hamburg, June 10–13. A short congress report}} % title
+\author{Philipp Kampa} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={User-centering and constant communication. Lessons learnt from the Open Repositories 2019 in Hamburg, June 10–13. A short congress report},
+      pdfauthor={Philipp Kampa},
+      pdfcopyright={CC BY 4.0 International},
+      pdfsubject={LIBREAS. Library Ideas, 36 (2019).},
+      pdfkeywords={Open Repositories 2019, Kongressbericht, Forschungsinfrastruktur, Repositorien, user experience},
+      pdflicenseurl={https://creativecommons.org/licenses/by/4.0/},
+      pdfcontacturl={http://libreas.eu},
+      baseurl={http://libreas.eu},
+      pdflang={en},
+      pdfmetalang={de}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+
+%body
+\emph{Open Repositories} (\emph{OR}) is an international conference
+dating back to the Noughties. \emph{OR 2019} put \emph{users} with their
+perspectives and their possible impacts on infrastructures at the
+forefront.\footnote{In their talk on \enquote{Jisc Open Research
+  Repository: Delivering a compelling User Experience}, Davey, Fripp \&
+  Kaye {[}Jisc, UK{]} expressed the following: \enquote{The repository
+  isn't the need {[}...{]} the need is the thing the repository does.
+  The repository is kind of the symptom of a whole set of needs that lie
+  outside of the repository.} (Davey, Fripp \& Kaye, 11 June 2019,
+  \url{https://lecture2go.uni-hamburg.de/l2go/-/get/v/24954}, approx.
+  9:55-10:05, last retrieved 6 August 2019). See also Jeff Gothelf in
+  his keynote \enquote{Outcomes over output: A user-centric approach to
+  building successful systems}: \enquote{Just because you can build it,
+  doesn't mean you should build it.} (Gothelf, 11 June 2019,
+  \url{https://lecture2go.uni-hamburg.de/l2go/-/get/v/24934}, approx.
+  44:06, last retrieved 6 August 2019) ; this is by the way, the aspect
+  that his differentiation (cf.~Gothelf/Seiden 2016: 34 and 21:
+  \enquote{Our goal is not to create a deliverable or a feature: it's to
+  positively affect customer behavior or change in the world---to create
+  an outcome.}) between output (just build something) and outcome (build
+  something causing a real, measurable change) boils down to.} The
+conference ran under the motto \enquote{All the user needs}. It focused
+on the reception of and familiarity with open repositories by people or
+even machines.\footnote{Cf.
+  http://archiv.gwin.gwiss.uni-hamburg.de/or2019/cfp/, last retrieved 12
+  December 2019. Hicks, Phillipps \& Andrews {[}University of North
+  Texas Libraries, USA{]} (the talk was held by William Hicks), 11 June
+  2019, \url{https://lecture2go.uni-hamburg.de/l2go/-/get/v/24757}, last
+  retrieved 8 August 2019 covered this aspect by showing which
+  \enquote{Links for Robots} (17:35, on the slide blended in) they
+  provided in their repository; Hicks, Phillipps \& Andrews referred to
+  \enquote{IIIF-manifestations of the objects} (17:45), for example.}
+Accordingly, users and their needs and behaviour were the topics running
+through the presentations. As stated, \emph{OR} as a conference format
+dates back more than a decade. This not only indicates a long tradition,
+but also the stability and solidity of the topic itself: Open
+repositories have obviously become an integral part of scholarship, as
+well as of library and information systems.
+
+The conference lasted for four days. It was divided into a workshop day
+and three panel days, the latter consisting each of two panel sections,
+separated into five tracks running parallel. Taking the broad spectrum
+and the overlapping structure into consideration, this report does not
+aim to describe the conference and its results in an exhaustive
+way.\footnote{By now, most of the content of Open Repositories 2019 is
+  available online, cf.
+  \url{https://lecture2go.uni-hamburg.de/l2go/-/get/l/5134}, last
+  retrieved 5 August 2019. It can also be found in a Zenodo community
+  (not yet available/under construction, cf.~for current information:
+  \url{http://archiv.gwin.gwiss.uni-hamburg.de/or2019/}, last retrieved
+  12 December2019); long-term archiving should therefore be ensured. The
+  recorded material is referred to in the text at hand, by naming the
+  authors, and, if applicable, citing the corresponding part of the
+  video in minutes and seconds. Affiliations of the contributors,
+  referred to in this text, are noted down in square brackets;
+  specifications follow the data available on \emph{OR2019}'s conference
+  agenda (cf. \url{https://www.conftool.net/or2019/sessions.php}, last
+  retrieved 10 September 2019), written down here in the report solely
+  at first mention.} Rather it presents a series of snapshots focusing
+on the sustainability of structures, which was one of the themes
+addressed at the conference. Soft factors like user-centric approaches,
+as well as constant external and internal communication are keys to
+sustainable (infra-)structures for open repositories.
+
+The conference started with a workshop day, followed by an opening
+keynote (Gothelf), several panels, poster and ideas challenge
+presentations and a closing keynote (Piwowar). In accordance to the
+description on the conference's website,\footnote{\enquote{The annual
+  Open Repositories Conference is a practitioner based conference that
+  brings together people from higher education, government, libraries,
+  archives and museums to focus on repository infrastructure, tools,
+  services, and policies.}
+  \url{http://archiv.gwin.gwiss.uni-hamburg.de/or2019/23/}, last
+  retrieved 12 December 2019.} repository \emph{practice} stood
+centre-stage. Not surprisingly, numerous projects (in different stages)
+facilitating several approaches were presented and discussed throughout
+the four conference days -- from a very deep and detailed user-centered
+design (Galligan {[}Rockefeller Archive Center, USA{]}), to remarks on
+institutional issues one should be aware of when it comes to forming
+sustainable organisational patterns (Notay, Moore \& Duke {[}Jisc,
+UK{]}). The presentations were not only wide-ranging in terms of the
+\enquote{locations}, and the methods shown, but also concerning the
+relevant topics such as presenting scientific audio material in a
+repository (Plank, Drees \& Ogunyemi {[}Leibniz Information Centre for
+Science and Technology, Germany{]}), providing scientific images
+(Sohmen, Blümel \& Heller {[}Leibniz Information Centre for Science and
+Technology, Germany{]}), and preserving (all around) country music
+(Boulie {[}Country Music Hall of Fame and Museum, USA). In short, open
+repositories were not only discussed in relation to text items, nor was
+the focus solely on the academic sector, but also considered cultural
+heritage.
+
+Many of the talks reflected the user-centric approach by sharing the
+results of research into user needs. Methods applied were: building
+focus groups, doing expert interviews, surveys, testing, and shaping
+personas (e.g.~Géroudet {[}Université de Lille, France{]}; Plank, Drees
+\& Ogunyemi). Applying a mixture of these methods to create helpful
+products seems to be at the core of repositories' efforts on behalf of
+users. Further, Davey, Fripp \& Kaye underlined the importance of
+navigating and supporting users through the \enquote{journey}\footnote{Davey,
+  Fripp \& Kaye, 11 June 2019,
+  \url{https://lecture2go.uni-hamburg.de/l2go/-/get/v/24954}, approx.
+  05:21, last retrieved 7 August 2019. Another aspect mentioned was
+  accessibility. Not only Davey, Fripp \& Kaye referred to this topic,
+  but also Hicks, Phillipps \& Andrews, 11 June 2019,
+  \url{https://lecture2go.uni-hamburg.de/l2go/-/get/v/24757}, last
+  retrieved 7 August 2019, presenting the processes undergone in terms
+  of a redesign of the University of North Texas Libraries' repository,
+  cf.~especially 07:20-07:40.} they go on, for example when depositing
+something, as well as general design principles such as the appropriate
+harmonisation of colours.
+
+Also of interest were approaches that focused on the sustainability of
+structures, such as the management of persistent identifiers (PIDs)
+being a key element of repositories. Notay, Moore \& Duke's talk (the
+presentation was held by Balviar Notay and Monica Duke) about building
+an ORCID consortium in the UK included a \enquote{business plan for
+sustainability}.\footnote{Notay, Moore \& Duke, 12 June 2019,
+  \url{https://lecture2go.uni-hamburg.de/l2go/-/get/v/24860}, last
+  retrieved, 2 August 2019, approx. 07:23.} Sustainability was drilled
+down to 1) \enquote{developing infrastructure}, 2) \enquote{maintaining
+integration}, 3) \enquote{engaging the community}, 4)
+\enquote{developing the business model}, 5) \enquote{communications
+planning}, 6) \enquote{gathering and synthesising the requirements} and
+7) \enquote{international engagement}.\footnote{Ibid., approx.
+  26:55-27:29.} Notay, Moore \& Duke linked (added) value, and
+communication with sustainability. Consequently, they underlined, that
+the question of costs is not the only matter to consider when planning
+wider institutional structures, such as a consortium.\footnote{Cf.
+  ibid., approx. 23:48-23:58. In this context, it could be added, that
+  within the panel \enquote{All Together Now? The role of service
+  providers in open source communities} (cf.
+  \url{https://lecture2go.uni-hamburg.de/l2go/-/get/v/24920}, last
+  retrieved, 6 August 2019, the question of the need of commercial
+  stakeholders in the field of open repositories was raised: Mark Bussey
+  from Digital Curation Experts (DCE) mentioned in his contribution to
+  that issue: 1) Commercial providers do work together with a range of
+  clients, so they are aware of the variety of challenges. 2) Commercial
+  providers facilitate sustainability in a community whose institutions
+  are in constant transition, he talked about \enquote{gaps} (07:33)
+  that naturally come into being, for example concerning focusses and
+  training. 3) Commercial providers decrease obstacles small
+  institutions may face when trying to participate in the open
+  repository world (cf.~for all approx. 06:40-07:50). Richard Jones from
+  Cottage Labs added that except from that, the division between
+  commercial and non-commercial providers within the open repository
+  world seems to be \enquote{artificial} because finally, it is about
+  this: \enquote{serve ourselves by serving others} (approx. 10:36).}
+Therefore, they worked with the metaphorical phrase
+\enquote{Sustainability requires spinning plates}.\footnote{Notay, Moore
+  \& Duke, 12 June 2019,
+  \url{https://lecture2go.uni-hamburg.de/l2go/-/get/v/24860}, last
+  retrieved, 9 August 2019, approx. 27:13, slide blended in.} In
+addition, they raised the issue of PID interoperability being important
+for sustainability. The challenge is to find a balance between the
+diversification and the association of structures.
+
+Adaptability to the ever-changing user behaviour was also addressed in
+this context. Lee Boulie presented a project on Music Row, a part of
+Nashville in the US that, with many music studios located there, has
+played a decisive role in music history. Recent efforts from the Country
+Music Hall of Fame and Museum were summed up with the phrase
+\enquote{Meet Them Where They Are}.\footnote{\url{https://www.conftool.net/or2019/index.php?page=browseSessions&form_session=353} = \url{https://www.conftool.net/or2019/index.php/24x7-P3C-108Boulie_b.pptx?page=downloadPaper\&filename=24x7-P3C-108Boulie_b.pptx\&form_id=108\&form_index=2\&form_version=final}, last retrieved 7 August 2019, slides 8 \& 9.} According to Boulie,
+access points in cultural heritage institutions tend to be apps and
+video games, while \enquote{classical anchors}, like institutional
+homepages, are losing significance. As the conference's motto already
+reflects, and as Boulie's talk proved, users are at the core of open
+repositories. This statement seems to be true for users in terms of
+readers and authors as well as library services: As Zhang et
+al.~{[}Oregon State University Libraries and Press{]} showed, it is a
+challenge to foster openness by increasing green open access deposit
+rates, without also adding to the workload of library staff who must
+process and accompany these deposits. Oregon State developed and
+implemented an automated system (based on Web of Science), which is
+called Easy Deposit 2 (ED2). This system sends out emails inviting
+deposit, containing a short text with links to click on. The process of
+depositing is reduced to uploading a file, and then confirming the
+publication on ScholarsArchive@OSU. Authors do not need an account in
+order to contribute to the repository. Zhang et al.~however, emphasised
+that fostering openness in a manifest and sustainable way depends on
+research culture and the users' attitudes. One of the points also named,
+was the importance of statistics about items in the
+repositories.\footnote{Cf. Zhang et al., 12 June 2019,
+  \url{https://lecture2go.uni-hamburg.de/l2go/-/get/v/24853}, last
+  retrieved 7 August 2019.} Contributors are highly interested in
+download and view rates, a factor that seems to reflect the like/dislike
+and rating-behaviour to be observed in everyday life.
+
+Furthermore, a wide range of repositories was presented, e.g.~scientific
+videos in an open repository hosted by TIB Hannover (Plank et
+al.)\footnote{Cf. Plan, Drees \& Ogunyemi, 11 June 2019,
+  \url{https://lecture2go.uni-hamburg.de/l2go/-/get/v/24777}, last
+  retrieved 6 August 2019.}, Vanhaverbeke and colleagues {[}KU Leuven,
+Belgium{]} presented University of Leuven's new repository LIRIAS
+2.0\footnote{The talk was held by Valérie Adriaens.} to show that the
+extension of formats and item types, such as \enquote{datasets, software
+\& code},\footnote{\url{httpswww.conftool.netor2019index.phppagebrowsesessionsform_session377presentationsshow} = \url{https://www.conftool.net/or2019/index.php/24x7-P7C-497Adriaens_a.pdf?page=downloadPaper\&filename=24x7-P7C-497Adriaens_a.pdf\&form_id=497\&form_version=final},
+  last retrieved 14 November 2019, slide/page 10.} is an important
+factor.\footnote{Cf. Vanhaverbeke et al., 13 June 2019,
+  \url{https://lecture2go.uni-hamburg.de/l2go/-/get/v/24900}, last
+  retrieved 7 August 2019.} Vanhaverbeke et al.~also stated in their
+talk that \enquote{communication was really crucial}.\footnote{Ibid,
+  approx. 07:15-07:17.} Constant communication does not only include
+asking and finding out what users need, but also monitoring their
+behaviour. A workshop on algorithmic awareness, held on the first
+conference day (Clark \& Kaptanian {[}Montana State University, USA{]}),
+fitted well into this topic : The workshop raised the question of how to
+accompany and support users in a digital world, and it sensitised those
+on the providers' side, including librarians and developers, to the
+power of infrastructural decisions. Openness demands transparency and
+this involves algorithmic awareness being a part of information
+literacy.\footnote{Cf. for material:
+  \url{https://github.com/jasonclark/algorithmic-awareness}, last
+  retrieved 9 August 2019.}
+
+The conference was framed by two keynotes, the first held by Jeff
+Gothelf, a freelance coach and consultant,\footnote{Cf.
+  \url{https://jeffgothelf.com/}, last retrieved 3 November 2019.} the
+second by Heather Piwowar, co-founder of \enquote{our research},
+formerly ImpactStory, the organisation behind Unpaywall.\footnote{Cf.
+  \url{https://ourresearch.org/team}, last retrieved 3 November 2019.}
+Jeff Gothelf had a look at design principles, managerial decisions
+(keywords: design thinking and agile methods), and workflow models.
+Heather Piwowar talked about the growth and significance of the open
+repositories' community in general. Jeff Gothelf underlined, that
+\enquote{we live in a world where the dominant tech companies create the
+tools that we use every day {[}...{]} and those expectations come home
+to the systems that we build}.\footnote{Gothelf, 11 June 2019,
+  \url{https://lecture2go.uni-hamburg.de/l2go/-/get/v/24934}, approx.
+  03:37-03:56, last retrieved 6 August 2019.} Piwowar's talks turned out
+to be a passionate speech for openness concerning software, but also in
+terms of the users and their needs. She said the memorable sentences
+\enquote{think of your users most broadly},\footnote{Piwowar, 13 June
+  2019, \url{https://lecture2go.uni-hamburg.de/l2go/-/get/v/24979},
+  approx. 38:25, last retrieved 6 September 2019.} and \enquote{think
+about all the users you haven't met yet}.\footnote{Ibid., approx.
+  38:39-38:42.} Furthermore, she mentioned openness of the community by
+passing the knowledge gained over time.\footnote{Cf. ibid., approx.
+  24:00-25:30.} In this way, Heather Piwowar's talk might be linked to
+the keynote held by Jeff Gothelf -- and to his works on UX in general:
+By defining UX as \enquote{the sum total of all the interactions a user
+has with {[}a{]} product and service} (Gothelf/Seiden 2016: 47),
+openness seems to be on top of this process, as users and their needs
+are, like the world itself, flowing. To find out what user experience
+is, it is necessary to keep in touch with users and to constantly
+communicate with them. Openness is appropriate to foster sustainable
+structures in libraries.
+
+To sum it up: With its focus on \enquote{All the user needs}, 2019's
+\emph{Open Repositories} covered a topic that affects all aspects of
+open repositories. One cannot divide the user's needs from the
+provider's, and the institutional perspective remains connected to the
+products and services. Having a closer look at the question of
+sustainability, lessons learnt from \emph{OR2019} appear to be:
+sustainability can only be guaranteed by centering all efforts on the
+users and their needs. This in turn requires constant communication with
+users, as well as within teams and across institutions and communities,
+and all those providing products and services. \emph{OR2019}, with its
+long tradition of international exchange and openness itself is a good
+example of such efforts.\footnote{\emph{OR2020} will take place in
+  Stellenbosch, South Africa, cf. \url{https://or2020.sun.ac.za}, last
+  retrieved 4 September 19.}
+
+References:
+
+Gothelf, Jeff/Seiden, Josh (2016): Lean UX. Designing Great Products
+with Agile Teams. 2\textsuperscript{nd} Edition. O'Reilly.
+
+Acknowledgements:
+
+The author would like to thank LIBREAS e.V. for generously supporting
+the congress' attendance, as well as for beneficially commenting on this
+report. He would further like to thank Benjamin Auberer for helpful
+remarks and notes on the text at hand; many thanks also to Universitäts-
+und Landesbibliothek Sachsen-Anhalt, Halle (Saale) for supporting me.
+
+%autor
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\textbf{Philipp Kampa} is working as a trainee at the University and
+State Library of Saxony-Anhalt, Halle (Saale). As part of his
+traineeship, he is completing the distance learning course ``Master of
+Arts (Library and Information Science) M. A. (LIS)''. Before it, he
+worked as a research assistant at the Martin Luther University
+Halle-Wittenberg.
+
+\end{document}
