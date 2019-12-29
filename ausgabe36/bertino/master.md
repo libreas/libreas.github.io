@@ -76,10 +76,7 @@ digital forschenden Geistes- und Kulturwissenschaften auf nationaler und
 europäischer Ebene weiter vorantreiben. Zu diesem Zweck fördert das BMBF
 seit März 2019 das Projekt CLARIAH-DE.[^8]
 
-![](media/image1.png){width="6.695833333333334in"
-height="3.2916666666666665in"}
-
-Abb. 1: DARIAH-DE Entwicklung (Bild: Jan Rohden, CC BY-SA 4.0)
+![DARIAH-DE Entwicklung (Bild: Jan Rohden, CC BY-SA 4.0)](img/DARIAHEntwicklung.jpg)
 
 CLARIN-D und DARIAH-DE haben über die Jahre ein breites Spektrum an
 unterschiedlichen Angeboten aufgebaut.[^9] Deren Entwicklung erfolgte im
@@ -207,11 +204,8 @@ Idealfall verhindern, dass die gleiche Frage erneut gestellt wird.
 Anders formuliert: Informationsbedarf soll zu Wissensaufbau und
 -präsentation führen.
 
-![](media/image2.jpg){width="6.695833333333334in"
-height="3.5277777777777777in"}
+![OTRS-System des DARIAH-DE Helpdesks (Screenshot: Andrea Bertino, CC BY-SA 4.0)](img/OTRS.jpg)
 
-Abb. 2: OTRS-System des DARIAH-DE Helpdesks (Screenshot: Andrea Bertino,
-CC BY-SA 4.0)
 
 ### Personen oder Queues?
 
@@ -273,12 +267,11 @@ System basiert auf dem Zusammenspiel von zwei Akteuren:
     der NutzerInnen an die zuständigen AnsprechpartnerInnen für die
     Angebote in den jeweiligen Einrichtungen weiterleitet.
 
-![](media/image3.jpg){width="6.695833333333334in" height="4.25in"}
+![Die Rolle der Koordinationsstelle (Bild: Andrea Bertino, CC
+BY-SA 4.0)](img/Koordinationsstelle.jpg)
 
-Abb. 3: Die Rolle der Koordinationsstelle (Bild: Andrea Bertino, CC
-BY-SA 4.0)
 
-## Diensteanbieter/Support
+#### Diensteanbieter/Support
 
 Wesentliche Teile der wissenschaftlichen Arbeit setzen die verlässliche
 Zusammenarbeit zwischen verschiedenen AkteurInnen und Institutionen
@@ -302,9 +295,9 @@ grundlegende Prämisse dafür, dass der Mehrwert des jeweiligen Angebots
 von der wissenschaftlichen Gemeinschaft wahrgenommen und entsprechend
 wissenschaftlich honoriert werden kann.
 
-## Zentrale Koordinationsstelle
+#### Zentrale Koordinationsstelle
 
-# Zusammensetzung des Teams, Kompetenzen
+##### Zusammensetzung des Teams, Kompetenzen
 
 Die zentrale Koordinationsstelle ist für die Verteilung der
 verschiedenen Anfragen an die Kontaktpersonen der jeweiligen Angebote
@@ -319,7 +312,7 @@ technischer Kompetenz und eine profunde Kenntnis der gesamten
 Infrastruktur, um eingehende Anfragen ohne Verzögerung den jeweils
 zuständigen Kontaktpersonen zukommen lassen zu können.
 
-# Aufgabenspektrum
+##### Aufgabenspektrum
 
 Da die Koordinationsstelle somit eine Schnittstelle zwischen NutzerInnen
 und ExpertInnen bildet, muss jedes Mitglied mit dem gesamten Spektrum
