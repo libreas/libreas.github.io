@@ -425,7 +425,7 @@ library administrators for classifying innovations*. In: Journal of
 Librarianship and Information Science (Online First),
 <https://doi.org/10.1177/0961000619871991>
 [Paywall] [OA-Preprint:
-<https://trace.tennessee.edu/utk_infosciepubs/61]>) (ks)
+<https://trace.tennessee.edu/utk_infosciepubs/61>]) (ks)
 
 #### 2.3 Verlängerte Brexit-Edition: Zur Krise der Bibliotheken in Grossbritannien
 

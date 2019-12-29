@@ -31,7 +31,7 @@ Einsatz von DSpace nicht mehr nur auf die freiwillige Unterstützung aus
 der Community angewiesen. Viele dieser Firmen verstehen sich als
 Mitglied der Gemeinschaft und unterstützen sie auf vielfältigen Wegen.
 
-## Steuerung der zukünftigen Entwicklung
+#### Steuerung der zukünftigen Entwicklung
 
 Während die Nutzung von Open-Source-Software kostenlos ist, ist es die
 Weiterentwicklung in der Regel nicht. Genau wie bei kommerzieller
@@ -102,7 +102,7 @@ gemeinsam für die Pflege des Quellcodes und die Veröffentlichung neuer
 Versionen verantwortlich sind. Dies erfolgt in enger Abstimmung mit der
 DSpace Leadership Group.
 
-## Open Source finanzieren
+#### Open Source finanzieren
 
 Für eine einzelne Einrichtung in Deutschland ist die dauerhafte
 Finanzierung einer Mitgliedschaft eine Herausforderung. Anders als bei
@@ -144,7 +144,7 @@ sprechen, wie DSpace es ist.
 
 ### Das "DSpace-Konsortium Deutschland"
 
-## Entstehungsgeschichte und Beweggründe
+#### Entstehungsgeschichte und Beweggründe
 
 Für viele wissenschaftliche Einrichtungen ist DSpace ein wichtiger
 Baustein der institutionellen Open-Science-Infrastruktur für Open Access
@@ -215,7 +215,7 @@ deutschen Einrichtungen mit DSpace-Installationen über das geplante
 Konsortium und lud zu einer Informationsveranstaltung auf dem 107.
 Bibliothekartag am 13. Juni 2018 ein.
 
-## Ziele des Konsortium
+#### Ziele des Konsortium
 
 Durch den offenen Ansatz, dem sich die Community verschrieben hat,
 verspricht DSpace Nachhaltigkeit für Repositorien und damit für
@@ -234,7 +234,7 @@ angewiesen zu sein. Damit sollte strategischer Einfluss auf DSpace
 gesichert und die Interessen deutscher DSpace-Nutzer\_innen in der
 Project Governance vertreten werden.
 
-## Ergebnisse
+#### Ergebnisse
 
 Die Gründung des "DSpace-Konsortium Deutschland" unter Führung der TU
 Berlin war sehr erfolgreich. Zum 1. Juli 2018 startet das
@@ -267,7 +267,7 @@ Und letztlich sorgt das Konsortium mit seinen beiden Sprecher\_innen für
 einen besseren Informationsfluss aus der DSpace Community hin zu seinen
 Mitgliedern und zurück in die Community.
 
-## Kommunikation und Information
+#### Kommunikation und Information
 
 Das DSpace-Konsortium Deutschland trifft sich einmal im Jahr im Rahmen
 des DSpace Anwendertreffens zu einer nichtöffentlichen Sitzung. An
@@ -287,7 +287,7 @@ Mitglieder aufgelistet werden und auf der auch die Beitrittserklärung
 für neue Mitglieder gefunden werden kann:
 <https://wiki.duraspace.org/display/DSPACE/DSpace-Konsortium+Deutschland>.
 
-## Warum Institutionen sich im DSpace-Konsortium engagieren sollten
+#### Warum Institutionen sich im DSpace-Konsortium engagieren sollten
 
 "Kommerzielle Akteure schicken sich an, ein ganzes Betriebssystem
 inklusive integrierter Werkzeuge zu schaffen, das unablässig Verhalten
@@ -319,7 +319,7 @@ Engagement zum Erfolg von DSpace beizutragen und Erhalt und
 Weiterentwicklung nachhaltiger und herstellerunabhängiger Strukturen zu
 sichern.
 
-## Mitglieder im DSpace-Konsortium Deutschland (Stand: Oktober 2019)
+#### Mitglieder im DSpace-Konsortium Deutschland (Stand: Oktober 2019)
 
 -   Bergische Universität Wuppertal
 
@@ -379,7 +379,7 @@ sichern.
 -   ZBW -- Leibniz-Informationszentrum Wirtschaft
 
 [^1]: DSpace-Installationen in Deutschland siehe
-    <https://duraspace.org/registry/?gv\_search=&filter\_10=DSpace&filter\_4\_6=Germany&filter\_3=&filter\_20=&filter\_28=&mode=all>.
+    <https://duraspace.org/registry/?gv_search=&filter_10=DSpace&filter_4_6=Germany&filter_3=&filter_20=&filter_28=&mode=all>.
 
 [^2]: Herb, U. (2018). Zwangsehen und Bastarde : Wohin steuert Big Data
     die Wissenschaft? In: Information -- Wissenschaft & Praxis, 69(2-3),
