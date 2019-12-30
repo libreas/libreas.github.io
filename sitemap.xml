@@ -2,7 +2,7 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>https://libreas.eu/</loc>
-        <lastmod>2019-12-22T20:31:29+01:00</lastmod>
+        <lastmod>2019-12-30T11:14:38+01:00</lastmod>
     </url>
     <url>
         <loc>https://libreas.eu/ausgabe24/05kaiser/</loc>
@@ -759,6 +759,14 @@
     <url>
         <loc>https://libreas.eu/ausgabe36/fahrenkrog/meta.yaml</loc>
         <lastmod>2019-12-22T20:31:29+01:00</lastmod>
+    </url>
+    <url>
+        <loc>https://libreas.eu/ausgabe36/editorial/</loc>
+        <lastmod>2019-12-30T11:01:29+01:00</lastmod>
+    </url>
+    <url>
+        <loc>https://libreas.eu/ausgabe36/editorial/meta.yaml</loc>
+        <lastmod>2019-12-30T10:54:55+01:00</lastmod>
     </url>
     <url>
         <loc>https://libreas.eu/ausgabe36/kulawik/</loc>
@@ -2570,7 +2578,7 @@
     </url>
     <url>
         <loc>https://libreas.eu/archiv.htm</loc>
-        <lastmod>2019-12-22T20:31:29+01:00</lastmod>
+        <lastmod>2019-12-30T11:11:50+01:00</lastmod>
     </url>
     <url>
         <loc>https://libreas.eu/ausgabe32/volkmann/</loc>
