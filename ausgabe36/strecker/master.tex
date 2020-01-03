@@ -11,7 +11,7 @@ final
 \usepackage[babel]{csquotes}
 \usepackage{synttree}
 \usepackage{graphicx}
-\setkeys{Gin}{width=.85\textwidth} %default pics size
+\setkeys{Gin}{width=.9\textwidth} %default pics size
 
 \graphicspath{{./plots/}}
 \usepackage[ngerman]{babel}
@@ -82,6 +82,9 @@ breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
 \usepackage{breakurl}
 
 %meta
+\appto\UrlBreaks{\do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j
+\do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t\do\u\do\v\do\w
+\do\x\do\y\do\z}
 %meta
 
 \fancyhead[L]{D. Strecker\\ %author
@@ -311,15 +314,12 @@ davon (2.837.666) entfällt auf das Jahr 2017.
 \subsection{Regionale Verteilung der
 Downloads}\label{regionale-verteilung-der-downloads}}
 
-\begin{figure}
-\centering
 \includegraphics{images/Downloads_Karte.png}
-\end{figure}
 
-Die Abbildung 1 zeigt die Anzahl der Downloads über den gesamten
-Zeitraum, gruppiert nach Ort. Die Karte verdeutlicht, dass Sci-Hub in
-Deutschland fast flächendeckend genutzt wird, wobei sich Downloadzahlen
-in Großstädten häufen. Auffällig ist der Unterschied in der
+Die Abbildung zeigt die Anzahl der Downloads über den gesamten Zeitraum,
+gruppiert nach Ort. Die Karte verdeutlicht, dass Sci-Hub in Deutschland
+fast flächendeckend genutzt wird, wobei sich Downloadzahlen in
+Großstädten häufen. Auffällig ist der Unterschied in der
 Nutzungsintensität und regionalen Abdeckung zwischen Regionen im
 Nordosten und im Südwesten des Landes. Bezogen auf die Bundesländer
 weisen Berlin (0,078), Hamburg (0,06), Hessen (0,051), Bremen (0,05) und
@@ -353,11 +353,11 @@ Thüringen & 2.151.205 & 65.355 & 0,03\tabularnewline
 \end{longtable}
 
 \hypertarget{korrelation-von-downloadzahlen-eines-bundeslandes-mit-der-gruxf6uxdfe-von-personengruppen}{%
-\section{Korrelation von Downloadzahlen eines Bundeslandes mit der
+\subsection{Korrelation von Downloadzahlen eines Bundeslandes mit der
 Größe von
 Personengruppen}\label{korrelation-von-downloadzahlen-eines-bundeslandes-mit-der-gruxf6uxdfe-von-personengruppen}}
 
-Wie in der folgenden Abbildung 2 dargestellt, besteht ein starker
+Wie in der folgenden Abbildung dargestellt, besteht ein starker
 Zusammenhang zwischen der Bevölkerungszahl und der Anzahl von Downloads
 eines Bundeslands (Pearson's r: 0,95 ; p \textless{} 0,001). Ein
 lineares Regressionsmodell (kleinste Quadrate) beschreibt den
@@ -369,13 +369,10 @@ Anzahl wissenschaftlicher Mitarbeitender an Hochschulen (Pearson's r:
 Mitarbeitende liefert allerdings einen schwächeren Erklärungsansatz für
 die Entwicklung von Downloadzahlen (\(\text{adjusted\ }R^{2} = 0,834\)).
 
-\begin{figure}
-\centering
 \includegraphics{images/Downloadzahl_Bevoelkerung.png}
-\end{figure}
 
 \hypertarget{zeitliche-verteilung-der-downloads}{%
-\section{Zeitliche Verteilung der
+\subsection{Zeitliche Verteilung der
 Downloads}\label{zeitliche-verteilung-der-downloads}}
 
 Die Anfragen des Jahres 2017 wurden in Hinblick auf die Zugriffszeiten
@@ -383,29 +380,23 @@ Die Anfragen des Jahres 2017 wurden in Hinblick auf die Zugriffszeiten
 Zugriffszeiten ermittelt werden.
 
 Obwohl für das erstellte Subset Daten für die Kalenderwochen 41 bis 43
-fehlen, zeigt die Abbildung 3 in der Tendenz einen Anstieg der Anzahl
-angefragter Dokumente im Verlauf des Jahres 2017. Eine deutliche Varianz
-zwischen den Wochentagen ist nicht erkennbar.
+fehlen, zeigt die nächste Abbildung in der Tendenz einen Anstieg der
+Anzahl angefragter Dokumente im Verlauf des Jahres 2017. Eine deutliche
+Varianz zwischen den Wochentagen ist nicht erkennbar.
 
-\begin{figure}
-\centering
 \includegraphics{images/Downloads_Wochentage.png}
-\end{figure}
 
-In der nächsten Abbildung 4 ist die Uhrzeit der Anfragen nach Stunde
+In der nächsten Abbildung ist die Uhrzeit der Anfragen nach Stunde
 dargestellt. Die Schattenbibliothek wird demzufolge überwiegend zu
 üblichen Bürozeiten und am späten Abend genutzt.
 
-\begin{figure}
-\centering
 \includegraphics{images/Downloads_Uhrzeit.png}
-\end{figure}
 
 \hypertarget{dokumenteigenschaften}{%
 \subsection{Dokumenteigenschaften}\label{dokumenteigenschaften}}
 
 \hypertarget{notationen-und-themen}{%
-\section{Notationen und Themen}\label{notationen-und-themen}}
+\subsubsection{Notationen und Themen}\label{notationen-und-themen}}
 
 Notationen der AJSC konnten für 3.047.649 der angefragten Dokumente
 ermittelt werden. Die Notationen „Statistics and Probability" (817.196)
@@ -418,16 +409,13 @@ Demnach werden Publikationen, die den Themenfeldern Mathematik
 (952.196), Decision Sciences (829.806 - dazu zählen beispielsweise
 Statistik und Teile der Managementtheorie), Medizin (713.452) und
 Sozialwissenschaften (590.743) zugeordnet werden können, am häufigsten
-angefragt (siehe nachstehende Abbildung 5). Publikationen anderer
+angefragt (siehe nachstehende Abbildung). Publikationen anderer
 Themenfelder wurden in deutlich geringeren Umfang angefragt.
 
-\begin{figure}
-\centering
 \includegraphics{images/Downloads_Themen.png}
-\end{figure}
 
 \hypertarget{verlage}{%
-\section{Verlage}\label{verlage}}
+\subsubsection{Verlage}\label{verlage}}
 
 Angaben zum Verlag konnten für 3.047.045 Downloads ermittelt werden.
 Über den gesamten Zeitraum wurden Publikationen der Verlage Elsevier
@@ -438,7 +426,7 @@ Median beträgt 16 Downloads, der Modalwert liegt bei einem Download pro
 Verlag.
 
 \hypertarget{publikationsalter}{%
-\section{Publikationsalter}\label{publikationsalter}}
+\subsubsection{Publikationsalter}\label{publikationsalter}}
 
 Für 2.076.856 angefragte Dokumente konnte das Publikationsdatum im
 Format YYYY-MM ermittelt und damit das Alter der Publikationen zum
@@ -507,7 +495,7 @@ zunehmenden Konsolidierung des Zeitschriftenmarkts verwundert diese
 Beobachtung nicht. Nach Inkrafttreten des von Projekt DEAL
 ausgehandelten Publish-and-Read-Vertrags mit dem Verlag Wiley Anfang
 2019 könnte zukünftig untersucht werden, ob dieser
-Open-Access-Transformationsvertrag einen Einfluss auf die Nutzung von
+Open-Access-Transformationsver\-trag einen Einfluss auf die Nutzung von
 Sci-Hub hat. Zu untersuchen wäre weiterhin, ob die Kündigung von
 Elsevier-Subskriptionen durch wissenschaftliche Bibliotheken im Rahmen
 der DEAL-Verhandlungen einen Anstieg der Nutzung von

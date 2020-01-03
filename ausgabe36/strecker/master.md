@@ -194,7 +194,7 @@ Tabelle dargestellt.
   Schleswig-Holstein       2.889.821              87.275                 0,03
   Thüringen                2.151.205              65.355                 0,03
 
-### Korrelation von Downloadzahlen eines Bundeslandes mit der Größe von Personengruppen
+#### Korrelation von Downloadzahlen eines Bundeslandes mit der Größe von Personengruppen
 
 Wie in der folgenden Abbildung
 dargestellt, besteht ein starker Zusammenhang zwischen der
@@ -211,7 +211,7 @@ die Entwicklung von Downloadzahlen ($\text{adjusted\ }R^{2} = 0,834$).
 
 ![](images/Downloadzahl_Bevoelkerung.png)
 
-### Zeitliche Verteilung der Downloads
+#### Zeitliche Verteilung der Downloads
 
 Die Anfragen des Jahres 2017 wurden in Hinblick auf die Zugriffszeiten
 (Wochentage und Uhrzeit) analysiert. Für alle Anfragen konnten
