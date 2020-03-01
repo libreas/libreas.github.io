@@ -33,13 +33,9 @@ Hinsicht. Danke lieber Uwe!
 Dieser Beitrag startete mit Erinnerungen von Menschen aus der
 LIBREAS-Redaktion, des IBI und der DINI-AG Elektronisches Publizieren
 und wurde ergänzt durch weitere Kolleginnen und Kollegen, die sich gerne
-noch einmal persönlich an Uwe erinnern wollen. Da wir wissen, wie viele
-Menschen sehr betroffen davon sind, dass Uwe nicht mehr da ist, wollen
-wir diesen Beitrag gerne bis zum Redaktionsschluss der nächsten Ausgabe
-am 15. Oktober 2019 offen halten. Beiträge, die uns nach dem Erscheinen
-dieser Ausgabe \#35 erreichen, werden sukzessive in diese Webversion des
-Beitrags eingearbeitet. Zur Ausgabe \#36 wird der Beitrag dann
-finalisiert und auf dem edoc-Server als pdf-Version archiviert.
+noch einmal persönlich an Uwe erinnern wollen. 
+Der Beitrag wurde offen gehalten bis zum Redaktionsschluss der nächsten Ausgabe, um weiteren Personen die Möglichkeit zu geben eine Erinnerung beizusteuern.
+
 
 ### Persönlich Erinnern
 
