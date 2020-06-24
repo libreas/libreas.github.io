@@ -1,0 +1,1 @@
+**Kurzfassung**: Der Beitrag formuliert Anregungen für die Forschung aus der Perspektive der bibliothekarischen Praxis in Öffentlichen Bibliotheken. Er geht auf Möglichkeiten von Forschung aus der Praxis heraus sowie die grundsätzliche Bedeutung wissenschaftlicher Forschung für Öffentliche Bibliotheken und den dafür notwendigen Fachdiskurs ein.

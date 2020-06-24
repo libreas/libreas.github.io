@@ -1,0 +1,972 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage[babel]{csquotes}
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+\setcapindent{0pt} % no indentation in captions
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+% typo setup
+\clubpenalty = 10000
+\widowpenalty = 10000
+\displaywidowpenalty = 10000
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+\usepackage{breakurl}
+
+%meta
+%meta
+
+\fancyhead[L]{K. Schuldt\\ %author
+LIBREAS. Library Ideas, 37 (2020). % journal, issue, volume.
+\href{http://nbn-resolving.de/}
+{}} % urn 
+% recommended use
+%\href{http://nbn-resolving.de/}{\color{black}{urn:nbn:de...}}
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/4.0/}{\color{black}Creative Commons BY 4.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{Zur Beziehung von Forschung und Öffentlichen Bibliotheken}}% title
+\author{Karsten Schuldt} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={},
+      pdfauthor={Karsten Schuldt},
+      pdfcopyright={CC BY 4.0 International},
+      pdfsubject={LIBREAS. Library Ideas, 37 (2020).},
+      pdfkeywords={Öffentliche Bibliotheken, Angewandte Forschung, Bibliothekswissenschaft},
+      pdflicenseurl={https://creativecommons.org/licenses/by/4.0/},
+      pdfcontacturl={http://libreas.eu},
+      baseurl={http://libreas.eu},
+      pdflang={de},
+      pdfmetalang={de}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+
+%body
+\hypertarget{vorbemerkung}{%
+\section{0. Vorbemerkung}\label{vorbemerkung}}
+
+Ich soll Forschung für Öffentliche Bibliotheken betreiben. Angestellt
+als Bibliothekswissenschaftler an einer Fachhochschule ist dies, neben
+der Lehre, die explizite Hauptaufgabe meines Arbeitsalltags. Kantonales
+Hochschulgesetz, aber auch das Rektorat und der Hochschulrat meiner
+Hochschule schreiben dabei explizit \enquote{Angewandte Forschung} vor.
+Praxisorientiert. Innovativ. All das. Ich arbeite auch schon eine ganze
+Reihe Jahre so, in kleinen oder grossen Projekten, mit Texten, durch die
+Betreuung von Praktika und studentischen Abschlussarbeiten, mit
+Weiterbildungsangeboten, Vorträgen und theoretischen Reflexionen.
+Manchmal auch mit kritischen Anmerkungen.
+
+Das alles ist Teil meines Lebens. Aber es ist ein irritierender,
+demotivierender Teil, der mich oft ans Hinschmeissen denken lässt. Es
+ist nämlich der Teil meines Lebens, der mir oft am Sinnlosesten
+erscheint. Wieso, das ist Thema dieses Textes.
+
+Auf den ersten Blick scheint es nämlich so, als würden Bibliotheken alle
+Forschung, die sie nutzen könnten -- nicht nur meine, darum geht es mir
+nicht --, die in den letzten Jahren auch mehr und mehr als Open Access
+vorliegt, willfährig ignorieren und statt dessen den oft unfundierten,
+teilweise grotesk falschen Behauptungen meinungsstarker Einzelner
+folgen. Wozu dann aber überhaupt Forschen, wenn das bessere, fundiertere
+Argument oft ignoriert wird? Ich weiss nicht, wie die Kolleg*innen an
+anderen Fachhochschulen diese zum Teil persönlich frustrierende
+Situation meistern. Ich habe mir Hobbys zugelegt, flüchte zum Teil in
+Themen und Fragestellungen, die tatsächlich explizit fern der
+Bibliothekspraxis sind. Vor allem aber versuche ich, die Situation
+selber als Untersuchungsgegenstand zu nehmen und dabei zu abstrahieren.
+Weg vom Persönlichen, hin zum Strukturellen. Wie in diesem Text.
+
+Weil, um hier schon eine Antwort vorwegzugreifen, die Situation (das
+Problem?) eine strukturelle ist. Eine, die angegangen werden kann, aber
+vor allem von Seiten der Bibliotheken. Dazu muss die Struktur wohl
+benannt werden. Die Forschung macht schon viel richtig. Sie muss
+vielleicht von der Praxisorientierung loskommen, aber das ist eine
+politische Frage, die nicht zwischen Forschung und Bibliothekswesen
+alleine geregelt werden kann.
+
+\hypertarget{das-problem}{%
+\section{1. Das Problem}\label{das-problem}}
+
+Nicht oft wird sich heutzutage darüber Gedanken gemacht, wie Forschung
+für Öffentliche Bibliotheken sein soll, welche Themen, Probleme und
+Fragen sie bearbeiten und was sie, knapp gesagt, Bibliotheken vermitteln
+soll. Wenn sich aber Bibliotheken oder Bibliothekar*innen dazu äussern--
+und in meiner Position höre ich manchmal, wohl öfter als andere, davon
+--, geht es eigentlich immer in eine Richtung: Die Forschung, so die
+Forderung, solle den Bibliotheken Richtlinien, Vorschläge, im Mindesten
+Hinweise dazu liefern, wie sie Probleme, die die Bibliotheken sehen,
+lösen und wie sie, die Bibliotheken, in Zukunft werden sollen. Es geht
+immer wieder darum, dass die Forschung Lösungen liefern soll.
+
+Die geforderten Lösungen sollen oft bestimmte Bedingungen erfüllen:
+
+\begin{enumerate}
+\def\labelenumi{(\arabic{enumi})}
+\item
+  Lösungen sollen umsetzbar sein. Möglichst genau und direkt.
+  \enquote{Pfannenfertig}, wie man in der Schweiz sagt.
+\item
+  Gleichzeitig nicht zu konkret. Bibliotheken wollen sich auch nicht
+  vorschreiben lassen, was sie tun sollen, sondern selber entscheiden.
+\item
+  Die Lösungen sollen positiv sein. Der Nachweis, dass bestimmte
+  Vorstellungen, die Bibliotheken entwickeln, oder Hoffnungen, die sie
+  an bestimmte Veränderungen binden, nicht zutreffen, ist nicht
+  gewünscht.\footnote{Etwas, was mich immer wieder tief zugrunde
+    irritiert, ist das Beharren von Bibliotheken darauf, Ressourcen in
+    Projekte, neue Angebote und so weiter zu stecken, wenn eigentlich
+    klar zu sehen ist, dass diese dadurch verschwendet werden. Ich weiss
+    nie, woher die einzelnen Bibliotheken das Selbstbewusstsein nehmen,
+    dass sie es besser könnten als all die Bibliotheken (und anderen
+    Einrichtungen) vor ihnen, die oft mit den gleichen oder ähnlichen
+    Ideen schon gescheitert sind.}
+\end{enumerate}
+
+Selbstverständlich ist das widersprüchlich. Wenn man davon ausgeht, dass
+Forschung immer die systematische Gewinnung von neuem Wissen ist, kann
+der dritte Punkt oft gar nicht erfüllt werden. Der erste und zweite
+Punkt lässt sich eigentlich auch nicht gleichzeitig erfüllen.
+
+Und dennoch, schaut man sich an, was an Fachhochschulen im DACH-Raum an
+Projekten für Bibliotheken durchgeführt wird -- nicht nur, aber
+selbstverständlich auch durch mich -- und vor allem, was für Forschungen
+in Abschlussarbeiten oder Seminaren unternommen werden, sieht man immer
+und immer wieder, dass versucht wird, diese Ansprüche irgendwie zu
+erfüllen. Immer und immer wieder wird die Praxisorientierung
+hochgehalten. Immer und immer wieder werden Lösungen für wahrgenommene
+Probleme und Herausforderungen erarbeitet.\footnote{Darunter leidet alle
+  andere notwendige Arbeit, um die Bibliothekswissenschaft als
+  Wissenschaft weiter zu bringen: Theoriearbeit, Methodenentwicklung,
+  kohärente Forschungsprogramme sind so nicht möglich. Aber das soll
+  hier nicht Thema sein.} Das Studium in jeder Hochschule wird immer und
+immer wieder an den wahrgenommenen Interessen der Bibliotheken
+ausgerichtet, mit jeder Reform des Studiums neu. Viele Projekte
+beinhalten ein Arbeitspaket, in welchem die jeweiligen Ergebnisse zu
+Bibliotheken gebracht werden, um dort noch einmal besprochen zu werden,
+damit sie auch wirklich für die Praxis genutzt werden können. So viele
+Handreichungen, To-Do-Listen, Hand- und Praxisbücher werden publiziert
+-- teilweise alleine, teilweise als Teil von Arbeiten, beispielsweise am
+Ende zahlloser Bachelor- und Masterthesen --, dass es teilweise so
+scheint, als gäbe es keine anderen Publikationsformen mehr. Und immer
+mehr davon erscheint, wie schon gesagt, als Open Access.
+
+Die Erfahrung ist aber, dass diese Ergebnisse von der Praxis nicht
+genutzt werden, zumindest nicht so, wie es zu erwarten wäre. (Vielmehr
+tauchen solche Themen manchmal nach einigen Jahren ganz unvermittelt
+auf, oft in unerwarteten Anfragen.) Die Erfahrung ist eigentlich immer
+ähnlich:
+
+\begin{enumerate}
+\def\labelenumi{(\arabic{enumi})}
+\item
+  In den meisten Fällen wird die Forschung von Öffentlichen Bibliotheken
+  schlichtweg ignoriert. So oft tauchen Fragen auf, die schon lange mit
+  einer Handreichung, Bachelorarbeit und so weiter beantwortet worden
+  sind, dass es schwer fällt, an das zufällige Übergehen dieser
+  Publikationen zu glauben. Es scheint eher ein systematisches
+  Nicht-Wahrnehmen zu sein.
+\item
+  Wenn sie doch wahrgenommen wird, wird oft der Eindruck vermittelt, die
+  Forschung sei zu komplex, zu lang, zu schwierig dargestellt. Die
+  genauen Formulierungen sind verschieden und werden unterschiedlich
+  höflich vorgetragen. Aber immer wieder wird mehr oder minder
+  konstatiert, dass niemand die Zeit hätte, \enquote{all das zu lesen},
+  zu verstehen und so weiter. Das trifft ganz unterschiedliche Formen
+  von Publikationen: Kurze Artikel, Handreichungen, Blogposts,
+  Monographien. Das scheint selten mit dem Inhalt oder der Form der
+  Präsentation zu tun zu haben.
+\item
+  Hinzu kommt eine teilweise offensiv vorgetragene Haltung, der
+  Forschung vorzuwerfen, nicht in der Praxis anwendbar zu sein. Sie sei
+  zu weit von der Realität entfernt, wäre nicht direkt genug umzusetzen,
+  würde über Dinge reden, die mit der tatsächlichen Bibliotheksarbeit
+  wenig oder nichts zu tun hätten. Auch hier ist oft nicht ersichtlich,
+  ob der tatsächliche Inhalt der jeweiligen Forschung einen Einfluss auf
+  diese Haltung hat oder ob sie nicht einfach grundsätzlich ist.
+\end{enumerate}
+
+Schaut man sich diese Situation aus einem gedachten Aussenpunkt an,
+scheint das Problem, wenn es überhaupt eines gibt, nicht unbedingt bei
+der Forschung oder dem Anspruch der Praxisorientierung zu
+liegen.\footnote{Auch wenn man einzelne Forschungsprojekte, -fragen,
+  -ansätze sehr wohl kritisieren kann; aber dann vor allem an Kriterien
+  von Forschung selber, kaum dafür, praxisfern zu sein.} Es scheint eher
+so, als wären Praxis und Forschung zwei getrennte Welten. Dabei ist
+klar: Forschung kann Wissen generieren, aber nicht umsetzen. Das müssen
+immer andere machen, im hier diskutierten Fall die Bibliotheken selber.
+Dazu muss dieses Wissen wahrgenommen werden. (Und das heisst meist zu
+lesen, weil Forschung trotz allen Ansätzen, andere Publikationsformen
+wie Software oder Daten wertzuschätzen, sich weiterhin hauptsächlich
+schriftlich ausdrückt.)
+
+Dieser Text soll, ist, die oben genannte Betrachtungsweise des
+Verhältnisses von Forschung und Öffentlichen Bibliotheken einmal
+umzudrehen. Anstatt zu fordern, dass Forschung dieses oder jenes tun
+solle, wird hier gefragt, welche Voraussetzungen es auf der Seite
+Öffentlicher Bibliotheken geben müsste, um die Forschung, die es schon
+gibt, zu nutzen.\footnote{Diese Überlegungen gehen von Forschung direkt
+  über und für Bibliotheken aus. Selbstverständlich liegen auch in
+  anderen Disziplinen Ergebnisse vor, die für Bibliotheken relevant
+  sind, beispielsweise in der Pädagogik oder der Soziologie.}
+
+\hypertarget{vignette-eins}{%
+\subsection{Vignette eins}\label{vignette-eins}}
+
+\begin{quote}
+\emph{Praktikumsbesuch in einer Öffentlichen Bibliothek in der Schweiz.
+Aufgabe des Studierenden, den ich von Seiten meiner Fachhochschule aus
+betreue, ist es, den Umbau des Bestandes in einem Teil der Bibliothek
+vorzubereiten. Es gilt, einen Plan zu machen: Welche Medien sollen
+wohin? Welche sollen bleiben, wo sie sind? Welche vielleicht ganz
+deakquisiert werden? Der Plan wird von der Gruppe Kolleg*innen
+erarbeitet, die für die betreffende Etage zuständig ist. Der Umbau ist
+Teil eines Strategieprozesses für die ganze Bibliothek. Der Studierende
+soll den Blick von Aussen liefern. Die Entscheidungen aber werden im
+Team getroffen.}
+
+\emph{Auf meinen Hinweis im Gespräch vor dem Praktikum hin hat der
+Studierende Bibliotheken mit ähnlichen Projekten herausgesucht und diese
+gefragt, wie sie vorgegangen sind. Das gab eine gewisse Wissensbasis aus
+Erfahrungen und Überlegungen aus anderen Einrichtungen.}
+
+\emph{Ich stelle jetzt aus Interesse die Frage auf welcher Basis in der
+Bibliothek sonst Entscheidungen über den Bestandesaufbau getroffen
+werden. Dies bringt den Studenten und die ihn betreuende Bibliothekarin
+etwas ins Schlingern. Offenbar sind die Quellen sonst vor allem interne
+Diskussionen und Vorstellungen der beteiligten Kolleg*innen. Sonst
+wenig. Keine Empirie, keine Rezeption der existierenden Forschung, keine
+Theorie, keine Erfahrungen aus anderen Bibliotheken. Kein Wunder, dass
+die -- sicherlich mit Engagement erarbeiteten -- Ergebnisse sich am Ende
+sehr im erwartbaren Rahmen halten.}
+
+\emph{Ich stelle solche Fragen heute vorsichtiger. Meine Erfahrung ist,
+dass Bibliotheken in Situationen, in denen ich es sinnvoll fände, den
+vorhandenen Forschungs- und Erfahrungsstand zu recherchieren, oft nicht
+fragen, ob es solch eine Forschung und solche Erfahrungen überhaupt
+gibt.}
+\end{quote}
+
+\hypertarget{wie-treffen-bibliotheken-entscheidungen}{%
+\section{2. Wie treffen Bibliotheken
+Entscheidungen?}\label{wie-treffen-bibliotheken-entscheidungen}}
+
+Wie und wann könnten Bibliotheken Ergebnisse aus der Forschung sinnvoll
+nutzen? Wohl vor allem dann, wenn Entscheidungen getroffen werden:
+Darüber, welche Angebote abgeschafft, beibehalten oder neu eingerichtet
+werden. Dann, wenn Abläufe überprüft oder verändert werden. Und dann,
+wenn strategische Ausrichtungen festgeschrieben werden, beispielsweise
+in Strategieprozessen oder bei Neu- und Umbauten. In solchen nicht
+alltäglich aber doch regelmässig auftauchenden Situationen könnten
+Bibliotheken sinnvoll das Wissen nutzen, welches von der Forschung (und
+sei es in Abschlussarbeiten) produziert wurde, um bessere Entscheidungen
+zu treffen, um auf schon vorhandenem Wissen aufzubauen und um nicht
+nochmal die Fehler zu wiederholen, die andere schon gemacht haben.
+
+Wie aber treffen Bibliotheken solche Entscheidungen? Das ist erstaunlich
+schwierig festzustellen. Es gibt praktisch keine direkten Einblicke in
+konkrete Entscheidungsprozesse. Sie sind praktisch nie Thema von Studien
+oder Fachpublikationen. Sicherlich gibt es eine ganze Reihe von
+Publikationen, die unter dem Schlagwort \enquote{Bibliotheksmanagement}
+diskutieren, wie solche Entscheidungsprozesse sein sollten. Aber auch
+diese basieren in der Regel nicht auf Analysen der tatsächlichen
+Entscheidungsprozesse, sondern machen vor allem Aussagen darüber, wie
+sie sein könnten.\footnote{Manchmal fliesst in diese Texte das Wissen
+  der Autor*innen um die Entscheidungsprozesse in den jeweils eigenen
+  Bibliotheken ein, aber solche sind schwerlich verallgemeinerbar.}
+Festzustellen ist zudem, dass derzeit eine ganze Reihe von
+Entscheidungsmethoden, die eine breite Beteiligung von
+Bibliothekar*innen unterschiedlicher Ebenen einer Bibliothek
+ermöglichen, relativ grosse Begeisterung hervorzurufen scheinen, sowohl
+in der Literatur als auch in der Praxis. Es scheint dabei oft so, als
+sei diese Beteiligung etwas Neues, und als wären bislang Entscheidungen
+nicht unter Beteiligung des Personals getroffen worden. Das ist
+vielleicht ein Hinweis darauf, wer sonst Entscheidungen trifft: Die
+Bibliotheksleitungen, nicht das Bibliothekspersonal.
+
+Ansonsten kommen die meisten Hinweise dazu, wie die
+Entscheidungsprozesse in Bibliotheken aufgestellt sind, vor allem von
+Kolleg*innen, die von diesen enttäuscht sind. Diese Bemerkungen -- fast
+nie dokumentierbar gemacht, also nicht in Artikeln, Blopgposts, bei
+öffentlichen Auftritten; sondern unter der Hand, bei persönlichen
+Treffen, auf den Fluren von Konferenzen, während individueller
+Kommunikation, ganz selten einmal auf privaten Social Media-Accounts,
+dafür aber recht oft -- sind erwartungsgemäss zynisch und überspitzt.
+Deshalb sollte man sie aber nicht als unbrauchbar verwerfen, sondern sie
+vorsichtig interpretieren. Nicht nur gibt es sonst ja nur wenig andere,
+indirekte Einblicke. Solche Anmerkungen würden nicht gemacht werden,
+wenn das Thema für die Kolleg*innen irrelevant wäre. Gleichzeitig ist
+klar, dass die Situation nicht so schlecht und schon gar nicht überall
+so ist, wie es aus diesen Anmerkungen spricht.\footnote{Die Frage der
+  Reproduzierbarkeit ist damit selbstverständlich nicht beantwortet. Ich
+  gehe hier ein wenig davon aus, dass meiner Darstellung einfach gefolgt
+  wird -- wovon ich eigentlich immer abrate. Aber alle mit Kontakten im
+  Bibliothekswesen können die Reproduktion selber angehen, indem sie im
+  eigenen Rahmen Kolleg*innen ausserhalb der Leitungsebene aus
+  verschiedenen Bibliotheken befragen. Es würde mich wundern, wenn deren
+  Kommentare erheblich anders wären.}
+
+Aber nehmen wir einmal zusammen, was wir aus solchen Anmerkungen und
+indirekten Beobachtungen schliessen können, dann scheinen sich
+Entscheidungen in Bibliotheken durch folgende Kriterien auszuzeichnen:
+
+\begin{enumerate}
+\def\labelenumi{(\arabic{enumi})}
+\item
+  Viele Entscheidungen werden intern in kleinen Gruppen, oft bei der
+  Bibliotheksleitung, getroffen. In kleinen Bibliotheken scheint das oft
+  zu heissen, dass tatsächlich alle Kolleg*innen einbezogen werden, aber
+  ab einer bestimmten Grösse differenziert sich das. Viele Klagen
+  beziehen sich darauf, dass sich Kolleg*innen aus Entscheidungen
+  ausgeschlossen fühlen; verstärkt dann, wenn externe Berater*innen in
+  die Entscheidungsprozesse einbezogen werden.
+\item
+  Bibliotheken beziehen noch recht oft andere Bibliotheken und deren
+  Lösungen für bestimmte Probleme in die eigenen Entscheidungen mit ein,
+  aber in einer recht spezifischen Form: Selten scheint nach den
+  tatsächlichen Erfahrungen oder Überlegungen von anderen Bibliotheken
+  gefragt zu werden. Vielmehr überwiegt der Modus der
+  \enquote{Anregung}. Diese und ähnliche Worte werden oft benutzt, wenn
+  Bibliothekar*innen beschreiben, was sie von anderen Bibliotheken
+  erwarten. Es geht um \enquote{Ideen}, \enquote{Vorschläge},
+  \enquote{Best Practice}, nicht um nachvollziehbare und überprüfbare
+  Fakten.\footnote{So lässt sich vielleicht erklären, wieso in
+    Bibliotheken bestimmte Konzepte weiter als zukunftsträchtig gelten,
+    beispielsweise in den veröffentlichten Bibliotheksstrategien und
+    Jahresberichten, die sich in anderen Bibliotheken schon als wenig
+    wirksam gezeigt haben oder gar schon wieder eingestellt wurden.}
+  (Zudem: Von Bibliotheken werden umgekehrt überwiegend datenarme und
+  positive Darstellungen publiziert, die dann für Entscheidungsprozesse
+  anderer Bibliotheken herangezogen werden, obwohl sie offensichtlich
+  nicht das ganze Bild zeigen.)
+\item
+  Viele Entscheidungen, gerade in grösseren Bibliotheken, scheinen von
+  einer kleinen Anzahl meinungsstarker Einzelpersonen geprägt zu sein,
+  die immer wieder als Berater*innen herangezogen werden. Ihr Einfluss
+  wird wohl als positiv wahrgenommenen, sonst würden sie nicht immer
+  wieder für solche Beratungsaufträge ausgewählt werden. Erstaunlich ist
+  jedoch, dass Bibliotheken kaum die Aussagen dieser Berater*innen
+  hinterfragen oder mehr Fakten oder Daten einzufordern scheinen -- und
+  dass sie zum Teil selbst dann auf sie zurückgreifen, wenn sie sie
+  kritisch sehen. Das scheinen Hinweise darauf zu sein, dass die Aufgabe
+  der Berater*innen nicht ist, Fakten oder geprüftes Wissen in die
+  Bibliothek zu bringen, sondern dass sie vielleicht andere Funktionen
+  übernehmen.
+\item
+  Hingegen scheint systematisch erhobenes Wissen - das eine bessere
+  Basis für Entscheidungen wäre - bei den meisten Entscheidungsprozessen
+  wenig Beachtung zu finden. Bibliotheken selber sammeln kaum
+  systematisch Erfahrungen aus ähnlichen Bibliotheken. Gerade dieses
+  Wissen ist es aber, welches in der Forschung erhoben wird.\footnote{Damit
+    ist selbstverständlich nicht gesagt, dass solches Wissen perfekt
+    wäre. Aber das soll in diesem Text auch nicht Thema sein.}
+\item
+  Auffällig ist in den letzten Jahren auch die Begeisterung für
+  spezifische Methoden für die Entscheidungsfindung, die regelmässig als
+  neu oder innovativ beschrieben werden -- obwohl sie ja eigentlich
+  irgendwann nicht mehr neu sind --, welche recht losgelöst vom
+  eigentlichen Thema -- und der Kritik an ihnen, die es meist in den
+  Wissensfeldern, aus denen die Methoden stammen, gibt -- als Weg zu
+  Entscheidungen dargestellt werden. (Aktuell wieder einmal solche, die
+  als partizipativ beschrieben werden.) Dies ist ein No-Go in der
+  Wissenschaft. Die Methode ist ein Werkzeug, dass zur Frage passen
+  muss; nicht andersherum. In Bibliotheken scheint das nicht zu gelten.
+\end{enumerate}
+
+Diese Punkte kennzeichnen eine Struktur, die schwer zu
+\enquote{beweisen} ist, die aber viele tatsächlich getroffene
+Entscheidungen in Bibliotheken besser erklärt, als die einfach Annahme,
+dass Bibliotheken immer nach der bestmöglichen, faktisch untermauerten
+Lösung suchen würden.
+
+Schaut man sich an, welche Entscheidungen in Bibliotheken tatsächlich
+getroffen werden, beispielsweise wie und welche neue Bibliotheksgebäude
+gebaut oder alte umgebaut werden, welche neuen Angebote geschaffen
+werden und was in Bibliotheksstrategien und Jahresberichten geschrieben
+wird, fallen -- unter dem Blickwinkel, ob und wie Forschung hier eine
+Rollen spielen könnte -- drei Dinge auf, die sich mit dieser Struktur
+erklären lassen:
+
+\begin{enumerate}
+\def\labelenumi{(\arabic{enumi})}
+\item
+  Viele Entscheidung scheinen -- auch wenn man direkt danach fragt --
+  aus Überzeugungen, Hoffnungen, Wünschen, Interessen, internen
+  Traditionen \enquote{im Haus} heraus getroffen werden. , Fast nie wird
+  auf eine Datenbasis verwiesen, die einer kritischen Überprüfung
+  standhalten würde. Viele Entscheidungen könnten auch, oft besser oder
+  anders, auf Basis vorhandener Forschung getroffen werden, werden es
+  aber offenbar nicht. Zumindest ist das fast nie sichtbar.
+  Bibliotheksstrategien verweisen in der Regel auch nicht darauf, dass
+  sie auf vorhandenes Wissen aufbauten. Dies scheint im Bibliothekswesen
+  -- im Gegensatz zur Forschung -- akzeptabel zu sein.
+\item
+  Auffällig ist dagegen , dass viele Entscheidungen entgegen vorhandenem
+  Wissen getroffen werden. Das mag nicht auffallen, wenn dieses Wissen
+  im Entscheidungsprozess nicht aktiv gesucht wird, aber es ist
+  tatsächlich nicht selten, dass Bibliotheken sich beispielsweise in
+  neuen Angeboten versuchen oder Umbauten des Raumes mit bestimmten
+  Überzeugungen angehen, bei denen -- nicht unbedingt immer in der
+  Bibliothekswissenschaft, aber oft in anderen Disziplinen --
+  ausreichend Wissen vorliegt, welches Grenzen dieser neuen Angebote und
+  Hoffnungen schnell erkennen lässt. Bibliotheken investieren trotzdem
+  die jeweils notwendigen Ressourcen.
+\item
+  Mit einer längeren Perspektive fällt auf, dass sich über die
+  Jahrzehnte Diskurse, Themen, die als Probleme oder Gefahren für
+  Bibliotheken beschrieben werden und auch die jeweils vorgeschlagenen
+  Lösungen wiederholen. Es scheint oft, als würden Bibliotheken nicht
+  aus dem Verlauf von Diskussionen und Entwicklungen lernen, sondern
+  immer wieder zu ähnlichen Punkten zurückkehren, ähnliche Vermutungen
+  äussern, ähnliche Situationen als Krise wahrnehmen, ähnliche
+  Hoffnungen entwickeln und dann wieder ähnliche Lösungen versuchen --
+  nur teilweise unter neuem Namen.
+\end{enumerate}
+
+\hypertarget{vignette-zwei}{%
+\subsection{Vignette zwei}\label{vignette-zwei}}
+
+\begin{quote}
+\emph{Ein grösseres Netz von Öffentlichen Bibliotheken in Deutschland
+hat eine Projektförderung erhalten. Der Leiter dieses Netzes, so erzählt
+er mir, hat jetzt die Aufgabe, \enquote{herauszufinden}, wie
+Programmierworkshops für eine spezifische Zielgruppe in der Bibliothek
+gestaltet werden können, auch damit diese Gruppe früh mit dem
+Programmieren in Kontakt kommt und dann in Zukunft mehr Personen dieser
+Zielgruppe selber programmieren und darauf eine Karriere aufbauen.
+Dieser Leiter ist weithin dafür bekannt, grosses Engagement zu zeigen.
+Es ist also nicht so, als würde das zynisch klingen. Ich nehme ihm
+sofort ab, dass er es ernst meint.}
+
+\emph{Und trotzdem -- oder genau deshalb -- bin ich irritiert.
+Programmierworkshops, auch für spezifische Zielgruppen, sind keine neue
+Sache. Wie sie funktionieren können, ist immer und immer wieder
+untersucht worden. Nicht seit Jahren, sondern seit Jahrzehnten ist dies
+Thema erziehungswissenschaftlicher Forschung und Praxis in verschiedenen
+Einrichtungen: In Schulen, in Jugendclubs und anderswo. Es gibt
+ungezählte Konzepte, Modelle und auch Forschung zu dieser Frage.
+Programmierworkshops in Bibliotheken sind immer wieder Thema
+studentischer Abschlussarbeiten. Auch da ist viel Vorarbeit geleistet
+worden. Aber so, wie mir dieser Leiter es erzählt, steht er ganz am
+Anfang. Wie kann das sein? Wie hat er einen Projektantrag schreiben
+können, ohne die vorhandene Forschung einzubeziehen? Wie konnte so ein
+Antrag erfolgreich sein? Hat niemand recherchiert, ob dieser überhaupt
+irgendwie untermauert ist? Bin ich zu sehr vom Schreiben
+wissenschaftlicher Anträge geprägt, dass mir das absonderlich vorkommt?}
+
+\emph{Schlimmer noch scheint mir seine Anmerkung, mit diesem Projekt
+solle die spezifische Zielgruppe gefördert werden. Auch das ist wirklich
+keine neue Idee. Praktisch in allen technisch-wissenschaftlichen
+Bereichen laufen seit Jahrzehnten Programme, um unterschiedliche
+unterrepräsentierte Gruppen an den jeweiligen Bereiche
+\enquote{heranzuführen} -- und seit Jahrzehnten funktioniert das nicht
+(sonst wären sie ja nicht mehr notwendig). Das Problem ist, wie auch
+schon oft in der betreffenden Forschung diskutiert, nicht, das Menschen
+aus solchen Gruppen zu wenig Interesse am Programmieren oder Physik oder
+Ähnlichem hätten. Das Problem sind die sexistischen, rassistischen und
+ähnlichen ausschliessenden Strukturen und Kulturen in diesen Bereichen,
+die sexistisches, rassistisches und anderes ausschliessendes Denken und
+Verhalten befördern und dazu führen, dass über die Jahre und
+Karrierestufen immer mehr Angehörige unterrepräsentierter Gruppen diese
+Bereiche wieder verlassen. Das ist vorliegendes und einfach zu findendes
+Wissen. Wie sollte das bei diesem Projekt anders sein? Warum scheint der
+Leiter dieses Bibliothekssystems das nicht wahrzunehmen? Wie gesagt:
+Wäre er zynisch, würde ich vermuten, er wollte einfach nur das
+Projektgeld für seine Bibliotheken. Aber ich denke, es ist etwas anders:
+Er scheint dieses Wissen nicht zu nutzen. Das scheint ihm -- und
+anderen, die solche Projektanträge akzeptieren -- nicht in den Sinn zu
+kommen.}
+\end{quote}
+
+\hypertarget{kuxf6nnen-bibliotheken-wissen-aus-der-forschung-integrieren}{%
+\section{Können Bibliotheken Wissen aus der Forschung
+integrieren?}\label{kuxf6nnen-bibliotheken-wissen-aus-der-forschung-integrieren}}
+
+In diesem Text denke ich nicht das erste Mal über den Zusammenhang von
+Forschung und Öffentlichen Bibliotheken nach. Alles, was hier eher
+abstrakt dargestellt wurde, könnte ich mit vielen, vielen Beispielen
+untermauern. Es soll aber nicht der Eindruck entstehen, es ginge mir um
+diese einzelnen, konkreten Beispiele oder darum, die jeweils neusten
+Trends oder gar bestimmte Einzelpersonen zu kritisieren.\footnote{Und
+  falls sich Einzelpersonen oder -institutionen in den Vignetten
+  wiederzuentdecken glauben, können sie beruhigt sein. So oder so
+  ähnlich hat es sich öfter abgespielt, bevor es hier zur Vignette
+  wurde. Die Vignetten sind anonymisiert und inhaltlich leicht
+  verschoben. Wer meint, erkannt worden zu sein, kann sich sicher sein:
+  Die Situation ist mir mehr als einmal begegnet. Niemand ist
+  \enquote{selber} gemeint, sondern immer die Struktur. (Dies liesse
+  sich auch umdrehen: Ich bin mir sicher, dass andere Personen, wenn
+  zufällig sie auf meine Position gelangt wären, ähnlich denken und
+  argumentieren würden wie ich.)} Auf einem meiner Schreibtische liegt
+die allererste Version eines Buches zum Thema (das vielleicht, wie
+andere Bücher auch, nie über diesen Status hinauskommen wird). Eine
+Frage, auf die ich dabei immer wieder gestossen bin -- und wegen der ich
+das vorhergehende Kapitel wichtig finde -- ist diese: Gibt es überhaupt
+einen Ort, einen Moment, einen Punkt, an dem Bibliotheken die
+vorliegende Forschung integrieren können? Ich würde diese Frage hiermit
+gerne dem Bibliothekswesen vorlegen. Wie und wann wären Bibliotheken
+aufgestellt, um innerhalb ihrer Entscheidungsprozesse von dem Wissen,
+welches in der Forschung produziert wird, zu profitieren?
+
+Grundsätzlich scheinen nämlich im Alltag und auch in Projekten in
+Öffentlichen Bibliotheken dafür gar keine Zeit und keine anderen
+Ressourcen vorgesehen zu sein. Das schliesst nicht aus, dass einzelne
+Kolleg*innen Anstrengungen unternehmen, Forschungen zu sichten,
+wahrzunehmen, aus ihr zu lernen. Aber solange Entscheidungsprozesse
+strukturell so organisiert sind, wie oben geschildert, würde sich
+erklären, warum Forschung und Bibliothekspraxis nicht zusammenkommen,
+egal wie praxisnah die Forschung zu sein versucht.
+
+Dass die Bibliotheken im Allgemeinen Entscheidungen nicht so treffen,
+dass sie jeweils strukturiert erarbeitetes und damit abgesichertes
+Wissen nutzen, sondern vor allem \enquote{Anregungen} für eigene
+Entscheidungsprozesse suchen, die sie intern verarbeiten können, führt
+dann auch dazu, dass Bibliotheken von Forschung teilweise Dinge
+erwarten, die diese gar nicht liefern kann.
+
+Forschung liefert systematisch erarbeitetes Wissen in Form von Empirie,
+Modellen, Tests von Annahmen, Theorie und teilweise auch, indem Fragen
+\enquote{durchdacht} werden. Nicht immer gut, aber grundsätzlich
+öffentlich und transparent (also dargestellt in einer Weise, die das
+Entstehen des Wissen nachvollziehbar und wiederholbar macht) und
+prinzipiell nicht im luftleeren Raum, sondern auf der Basis schon
+vorhandenen Wissens. Diese Wissen ermöglicht Aussagen über die Realität.
+
+Gefordert wird hingegen oft, dass Forschung Aussagen über die Zukunft
+macht, Lösungen für Probleme (die die Bibliotheken als Probleme
+wahrnehmen) liefert und Trends benennt. Oder anders: Forschung soll das
+liefern, was man wohl auch von Berater*innen erwartet oder was man
+sucht, wenn man bei anderen Bibliotheken nach \enquote{Anregungen}
+schaut. Forschung wird so in die vorhandene Struktur, wie Bibliotheken
+Wissen wahrnehmen, eingefügt. Aber das ist nicht das, was Forschung
+kann.
+
+\hypertarget{vignette-drei}{%
+\subsection{Vignette drei}\label{vignette-drei}}
+
+\begin{quote}
+\emph{Eine Öffentliche Bibliothek, mit der meine Fachhochschule ein
+überaus gutes Verhältnis hat, die Kolleg*innen zum Studieren zu uns
+schicken, Praktika für unsere Studierenden anbieten und auch sonst
+regelmässigen Kontakt hält und Interesse zeigt, liess uns vor einigen
+Jahren Interviews mit Nutzenden durchführen. Es ging, im Rahmen eines
+grösseren Strategieprozesses, darum, zu erfahren, wie diese die konkrete
+Bibliothek und ihre Angebote wahrnehmen. Eine Standardfrage, dann auch
+mit recht erwartbaren Ergebnissen.}
+
+\emph{Was auffiel -- auch in ähnlichen Projekten in anderen
+schweizerischen Bibliotheken -- war, dass die befragten Jugendlichen vor
+allem ein Interesse daran hatten, die Bibliothek als Rückzugsort zu
+benutzen -- nicht einmal so sehr als \enquote{Jugendliche}, die von
+Erwachsenen in Ruhe gelassen werden wollen, sondern individuell, als
+Personen, die von anderen Personen in Ruhe gelassen sein wollten, -- um
+dort vor allem gedruckte Bücher auszuborgen und zu lesen. Solche, die
+sie sich selber aussuchen, nicht Lehrpersonen oder ähnliche Autoritäten.
+Alles andere -- DVDs, Musik, E-Books, ein möglicher Makerspace -- war
+ihnen egal. Die Ergebnisse waren sehr eindeutig.}
+
+\emph{Ein paar Jahre später ein Besuch in dieser Bibliothek. Mir wird
+unter anderem der Plan für die neue Jugendabteilung vorgelegt: Wenig
+Bücher, mehr elektronische Medien, ein Makerspace, mehr offene Fläche.
+Oder, anders ausgedrückt: Das, was andere Bibliotheken auch machen. Aber
+das Gegenteil davon, was sich die befragten jugendlichen Nutzer*innen
+vorstellten. Das ist kein Einzelfall. Bibliotheken begeistern sich oft
+für bestimmte Entwicklungen, auch wenn die Empirie oder Theorie noch
+mehr dagegen sprichen, als in diesem Fall, wo immerhin die Hoffnung
+besteht, so andere Jugendliche zu erreichen als die damals Befragten.
+Was erstaunt, ist, dass diese Bibliothek die Ergebnisse von Projekten,
+die sie selber finanziert hat, offensichtlich ignoriert.}
+\end{quote}
+
+\hypertarget{kuxf6nnte-es-anders-sein}{%
+\section{4. Könnte es anders
+sein?}\label{kuxf6nnte-es-anders-sein}}
+
+Nehmen wir an, meine Beschreibung stimmt, dann wäre es eine Erklärung
+für die Situation, in der sich Forschung in Bezug auf die
+Bibliothekspraxis befindet. Das zu benennen kann schon helfen,
+Erwartungen und Hoffnungen realistischer zu gestalten.
+
+Aber die interessantere Frage ist ja, ob es anders sein könnte und
+anders sein sollte. Selbstverständlich ist das erst einmal eine müssige
+Frage: Alles könnte immer anders sein. Alle Institutionen könnten anders
+funktionieren, alle Strukturen könnten andere Strukturen sein. Die Frage
+ist, warum sie so sind, wie sie sind.
+
+Aber wie wahrscheinlich wäre es überhaupt, dass Bibliotheken eine andere
+Struktur für ihre Entscheidungen entwickeln können?
+
+Die Antwort darauf scheint mir nicht eindeutig zu sein. Das Öffentliche
+Bibliothekswesen in der DDR beispielsweise deutet eher darauf hin, dass
+diese Struktur zu Öffentlichen Bibliotheken gehört. Dies mag
+überraschen, war es doch ein Bibliothekswesen in einem anderen
+politischen und gesellschaftlichen System als die Bibliothekswesen im
+DACH-Raum heute. Es gab Direktiven und andere verbindliche Vorgaben. Die
+Bibliotheken wurden als zusammenhängendes Netz verstanden, auf das
+zentral eingewirkt werden konnte. Es gab mit dem Zentralinstitut für
+Bibliothekswesen eine Institution, welche explizit praxisorientierte
+Forschung -- selbstverständlich im politischen Rahmen der DDR, also
+beispielsweise mit regelmässiger \enquote{Auswertung} jeweils aktueller
+politischer Dokumente -- betrieb. Zahlreiche Studien zur Nutzung von
+Bibliotheken, zur Rationalisierung von Bibliotheksarbeit, zur Planung
+verschiedener Bibliothekstypen wurden von diesem durchgeführt und
+publiziert.\footnote{Vergleiche die Reihe \enquote{Theorie und Praxis
+  der Bibliotheksarbeit}, 1969-1989.} Viele Formulare, die für die
+Planung von Bibliotheksarbeit genutzt werden sollten, wurden erstellt.
+Und trotzdem es diese Einrichtung gab und obgleich die Bibliotheken in
+der DDR einer zentralen Führung unterstanden, sind die Publikationen des
+Instituts durchzogen von einem gewissen, immer wieder durchscheinenden,
+Defätismus. Immer wieder wird darauf verwiesen, dass die vorhandenen
+Formulare auch benutzt werden müssten, dass bestimmte Probleme schon in
+früheren Publikationen geklärt worden seinen und das die Bibliotheken
+dieses Wissen im Alltag nutzen müssten. Oder anders, auf das Thema
+dieses Textes bezogen: Selbst unter diesen spezifischen Umständen, die
+eigentlich die Nutzung des -- trotz aller ideologischen Verrenkungen --
+systematisch erstellten Wissens befördern müssten, nutzten die
+Bibliotheken es offenbar nicht. Zumindest nicht so wie erwartet.
+Vielleicht ist es also Teil der Identität Öffentliche Bibliotheken
+solches Wissen nicht nutzen, zumindest nicht direkt?
+
+Für eine ähnliche Konstellation, die von Schulen (und Kindergärten) und
+Erziehungswissenschaft, gibt es einige Untersuchungen. Wie nutzen
+Schulen die Ergebnisse der erziehungswissenschaftlichen Forschung? Man
+würde auch hier erwarten, dass sie dieses in ihr pädagogisches Handeln
+integrieren. Schliesslich werden (im Vergleich zur
+Bibliothekswissenschaft) für die Erziehungswissenschaft relativ viele
+Ressourcen aufgewendet, um Modelle zu erstellen und zu Testen,
+pädagogische und didaktische Interventionen zu gestalten und deren
+Wirkung zu bestimmen und so weiter. Schulen könnten sich immer weiter
+verändern, bei der Masse und Vielgestaltigkeit von
+erziehungswissenschaftlicher Literatur auch in verschiedene,
+selbstbestimmte Richtungen. Aber was die Forschung zum Transfer von
+Wissen aus der Erziehungswissenschaft in die Schulpraxis immer wieder
+zeigt, ist, dass nur eine kleine Zahl von Schulen diese wahrnehmen und
+zur eigenen Entwicklung zu nutzen. Ein Grossteil entwickelt sich auf
+anderer Basis, also eigenen Hoffnungen, Annahmen, Vermutungen. Das
+Wissen aus der Erziehungswissenschaft kommt wenn, dann eher über den
+Umweg der Kultusministerien beziehungsweise Erziehungsdirektionen in die
+Schulen. Diese haben Strukturen entwickelt, das in den
+Erziehungswissenschaften produzierte Wissen wahrzunehmen und umzusetzen.
+Und gleichzeitig haben sie die Macht, Richtlinien zu erlassen (oder
+anzuregen, dass die Politik sie erlässt).\footnote{Und auch das ist
+  nicht einfach, wie diejenigen, welche die Einführung des Lehrplan 21
+  in der Schweiz und Liechtenstein in den letzten Jahren verfolgt haben,
+  wissen.} Dabei ist auch die Erziehungswissenschaft nicht
+\enquote{praxisfern}, sondern unternimmt aktiv Schritte, ihre Ergebnisse
+zu popularisieren, beispielsweise mit den regelmässig publizierten
+\enquote{Nationalen Bildungsplänen}.
+
+Insoweit befinden sich Bibliotheken vielleicht bei der Struktur ihrer
+Entscheidungsprozesse im Einklang mit anderen Einrichtungen.\footnote{Wie
+  ist zum Beispiel das Verhältnis von Museen und Museumsforschung, von
+  Archiv und Archivwissenschaft? Das wäre eine interessante
+  Anschlussfrage.} Das hiesse noch nicht, dass es so sein muss, wie es
+ist. Aber es wäre ein Hinweis darauf, dass es so wie es ist nicht
+ungewöhnlich ist und auch nicht spezifisch für Bibliotheken.
+
+Gleichzeitig gibt es aber Felder, in denen es normal ist -- oder
+zumindest zur professionellen Identität gehört, egal wie es von
+einzelnen Vertreter*innen umgesetzt wird --, bei Entscheidungen das
+vorhandene Wissen wahrzunehmen und einzubeziehen. In Verwaltungen und
+Ministerien wird dies angestrebt, und wie gerade erwähnt beispielsweise
+in Kultusministerien auch umgesetzt. In vielen Berufen, die mit Planung
+und Umsetzung von Umweltschutz zu tun haben, ist es Normalität, auf
+wissenschaftliches Wissen zurückzugreifen. Für die Medizin geht man
+davon aus, dass sich das Personal ebenso kontinuierlich à jour hält. In
+diesen und anderen Berufsfeldern ist es normal, dass Arbeitszeit für die
+Recherchen, das Lesen und Verarbeiten von wissenschaftlicher Literatur
+verwendet, Tagungen besucht und selber zum Diskurs beigetragen wird.
+Warum sollte das im Bibliothekswesen nicht möglich sein?
+
+Die Antwort auf die Frage, ob die Situation auch anders sein könnte,
+lautet also wohl: Ja, aber dann würden sich Bibliotheken recht massiv
+verändern.\footnote{Aber auch das hätte ein Vorbild im Bibliothekswesen.
+  Die Transformation von der literaturorientierten zur
+  nutzer*innenorientierten Bibliothek -- von der Theke zur Freihand --
+  in den 1960er verschob auch massiv Strukturen, Denkweisen und die
+  gesamte bibliothekarische Arbeit. Es ist also möglich, dass sich
+  Bibliotheken grundlegend ändern.}
+
+\hypertarget{vignette-vier}{%
+\subsection{Vignette vier}\label{vignette-vier}}
+
+\begin{quote}
+\emph{Es gibt eine kleine, in den letzten Jahren aber sogar steigende,
+Anzahl von Institutionen, bei denen Bibliotheken Geld für
+Entwicklungsprojekte beantragen können. Die Summen, die ausgeschüttet
+werden, die Zeiträume, die rechtlichen Strukturen der Institutionen sind
+unterschiedlich. Die Ziele und Ausschreibungstexte hingegen sind recht
+gleichförmig. Es geht immer wieder darum, dass Bibliotheken lokale
+Projekte durchführen sollen, die gleichzeitig innovativ sein und dafür
+sorgen sollen, dass sie sich mehr in ihre Gemeinde integrieren sowie
+neue Rollen übernehmen. Immer muss dafür ein Antrag für das jeweilige
+Projekt eingereiht werden.}
+
+\emph{Ich bin ganz gut platziert, um entweder direkten Kontakt zu diesen
+Einrichtungen zu haben oder unter der Hand aus ihnen zu hören. Alle
+Institutionen haben das gleiche Problem, nämlich ihr Geld loszuwerden.
+Es gibt viel weniger Eingaben, als sie sich erhoffen. Fast nie können
+aus den Anträgen die Besten ausgesucht werden, weil es gar nicht
+genügend für eine solche Wahl gibt. Form und Inhalt der eingereichten
+Anträge entsprechen auch selten den Vorstellungen der Ausschreibenden.
+Offenbar fällt es Bibliotheken schwer, Projekte zu entwerfen und diese
+dann auch zu beschreiben -- was für Forschende wie mich, die das ständig
+tun, erstaunlich ist; was aber auch erstaunlich ist, weil in vielen
+Bibliotheken Kolleg*innen arbeiten, die an Fachhochschulen und
+Universitäten studiert und dort zumindest in den letzten Jahren auch mit
+Projektmanagement vertraut gemacht wurden. Es fällt Bibliotheken zudem
+schwer, explizit neue Projekte zu entwerfen, also erst wahrzunehmen, was
+es schon gibt und dann davon ausgehend etwas Eigenes, Neues zu
+entwerfen. Viele Eingaben heben stattdessen offenbar darauf ab, etwas,
+was es in anderen Bibliotheken schon gibt, noch einmal, nur halt lokal,
+umzusetzen.}
+
+\emph{Die mittelgebenden Institutionen behelfen sich: Mit Beratung der
+Bibliotheken, mit Neu- und Umdefinition von Vorgaben, mit Auflagen bei
+Projekten und anderem. Für mich -- der nicht das Problem hat, Geld
+sinnvoll verteilen zu müssen -- scheint aber, dass das Problem
+strukturell ist. Es gäbe so viel Wissen, auf das Bibliotheken
+zurückgreifen könnten, um wirklich neue Projekte zu entwerfen oder aber
+zumindest zu zeigen, warum ihre Projekte funktionieren würden. Es gibt
+so viele Kompetenzen in Bibliotheken, wie man ein Projekt entwirft,
+aufgleist und durchführt. Das ist seit Jahren Unterrichtsstoff im
+Studium. Bibliotheken nutzen diese Kompetenzen nicht -- quer durch die
+jeweils um Geld angegangenen Fördereinrichtungen, quer durch den
+DACH-Raum (immer mit einzelnen Ausnahmen). Das ist eine Struktur.}
+\end{quote}
+
+\hypertarget{was-kuxf6nnte-anders-sein}{%
+\section{5. Was könnte anders
+sein?}\label{was-kuxf6nnte-anders-sein}}
+
+Dieser Text beschreibt eine Situation, die zumindest, wenn man davon
+ausgeht, dass die Aufgaben zwischen Forschung zum Bibliothekswesen auf
+der einen Seite und dem Bibliothekswesen auf der anderen Seite, sinnvoll
+verteilt sein sollten, negativ erscheint. Das ist sie aber nicht
+unbedingt. Das wissenschaftliches Wissen nicht von den Einrichtungen
+genutzt wird, die davon profitieren könnten, mag für das Funktionieren
+dieser Einrichtungen, aber auch für die Wissenschaft als eigenständiges
+Feld notwendig sein. Die Situation scheint wohl aus zwei Gründen eher
+negativ: Zum einen, weil die Forschung gerade an Fachhochschulen immer
+wieder dem Modus \enquote{anwendungsbezogener},
+\enquote{praxisorientierter} Forschung unterworfen werden soll, was an
+sich immer schwierig ist, aber kontraproduktiv wird, wenn die Praxis
+keine Strukturen hat, um das in diesem Modus produzierte Wissen
+überhaupt wahrzunehmen. Zum anderen, weil in den Fällen in denen die
+Bibliothekspraxis sich einmal äussert, vor allem Forderungen in die
+Richtung der Forschung gestellt werden, die diese oft schon erfüllt.
+
+Es hat aber auch Vorteile, wenn diese beiden Ebenen -- Forschung und
+Praxis -- getrennt voneinander existieren und funktionieren. (Nur so,
+zum Beispiel, kann in der Forschung überhaupt abstrakt gedacht werden.)
+
+In diesem Text habe ich anders über diese Situation nachzudenken
+versucht. Es scheint klar zu sein, dass Bibliotheken sich eine ganze
+Reihe von Möglichkeiten vergeben, wenn sie ihre Entscheidungsstrukturen
+so lassen, wie sie sind. Sie verbrauchen Ressourcen für Projekte und
+Entscheidungsprozesse, bei denen mit ein wenig mehr Recherche klar wäre,
+dass sie nicht die angestrebten Ziele erreichen werden. Sie verbrauchen
+unnötig Ressourcen, weil sie immer wieder zu ähnlichen Problemen und
+Lösungen zurückkehren und nicht auf den schon einmal gemachten
+Erfahrungen aufbauen. Die Beschreibung einer Situation macht es möglich,
+über diese nachzudenken und zu entscheiden, ob sie verändert werden
+soll. Aber diese Veränderung, wenn sie gewünscht wird, müssten
+Bibliotheken selber durchführen.
+
+Was wäre zu verändern?
+
+\begin{enumerate}
+\def\labelenumi{(\arabic{enumi})}
+\item
+  Bibliotheken müssen aktiv das Wahrnehmen von wissenschaftlichen Wissen
+  in ihre Entscheidungsprozesse integrieren, ansonsten wird sich diese
+  Struktur nicht verändern. Mindestens an den Punkten von
+  Entscheidungen, in denen systematisch erhobenes Wissen eine sinnvolle
+  Basis bieten würde, muss es normal werden, nach diesem zu suchen, es
+  zu rezipieren und auch zu verwenden. Das bedeutet ganz konkret, Zeit
+  aufzuwenden, um zu recherchieren, zu lesen, zu verstehen und
+  auszuwerten. Und es bedeutet manchmal auch, eigene Wahrnehmungen
+  gegenzuchecken, Hoffnungen aufzugeben oder -- viel eher -- zu
+  erkennen, wenn man das machen will, was andere auch schon gemacht
+  haben, und dann zu versuchen, auf deren Erfahrungen aufbauend
+  weiterzugehen.
+\item
+  Dafür müsste es im professionellen Verständnis als Bibliothekar*in
+  integriert werden, dieses Wissen wahrzunehmen und dafür Ressourcen
+  einzusetzen, vor allem Zeit zum Lesen und Nachdenken. Wie Ressourcen,
+  auch Arbeitszeit, verplant und was als Arbeit wertgeschätzt oder als
+  sinnlos verworfen wird, ist immer eine politische Frage. Der Hinweis,
+  man hätte \enquote{dafür} keine Zeit, ist immer ein Hinweis, dass
+  diese Tätigkeit oder dieses Thema nicht als relevant angesehen wird.
+  Das sagt immer etwas über das jeweilige Verständnis davon aus, was als
+  professionell gilt, und über die Institution, an der man tätig ist.
+  Aber gleichzeitig, beziehungsweise gerade deshalb, kann es immer auch
+  geändert werden. Es ist kein unhintergehbares Argument. Professionen
+  und Institutionen ändern sich. (Zumal in unserem Fall der Einsatz von
+  Ressourcen für die Nutzung von Wissen aus der Forschung sich in
+  besseren, andere Ressourcen einsparenden oder effektiver einsetzenden
+  Entscheidungen niederschlagen würde.)
+\item
+  Bibliotheken müssten wohl ein realistischeres Verständnis davon
+  entwickeln, was Forschung eigentlich macht und was für Wissen in ihr
+  erarbeitet wird. (Am einfachsten geht das, indem eigene Forschung
+  durchgeführt wird, wozu bibliothekarisches Personal mit
+  Hochschulausbildung sehr wohl in der Lage ist.) Das würde auch
+  ermöglichen, dass die unterschiedlichen Wissensformen angemessen
+  bewertet würden: Forschung als systematisches Wissen. Anregungen
+  meinungsstarker Einzelpersonen als informierte Einzelpositionen.
+  Eigene Beobachtungen und Hoffnung als lokales Wissen. Methoden als
+  Methoden, nicht als Lösungen. Positionen, die hinter auffällig vielen
+  rhetorischen Mitteln versteckt werden, als argumentative schwache
+  Positionen. Und so weiter.
+\item
+  Dann liesse sich auch ein neues Verständnis von Forschung und
+  Bibliotheken entwickeln. Ansonsten bleibt es wohl bei der
+  beschriebenen Situation, solange sich nicht anderes massiv ändert.
+  (Beispielsweise die Struktur der Gesellschaft, aber wie gesagt scheint
+  die Struktur der zu heute sehr anderen Gesellschaft in der DDR nicht
+  zu einer anderen Beziehung von Forschung und Bibliothekspraxis geführt
+  zu haben.)
+\end{enumerate}
+
+\hypertarget{vignette-fuxfcnf}{%
+\subsection{Vignette fünf}\label{vignette-fuxfcnf}}
+
+\begin{quote}
+\emph{Ich wurde \enquote{Experte für Makerspaces}, weil ein Kollege es
+vor Jahren einfach behauptete. (Vielen Dank an den Kollegen nochmal. Er
+weiss, was er getan hat.) Seitdem habe ich einige Jahre über Makerspaces
+geforscht. Habe alles, was mir in Deutsch, Englisch und Französisch zum
+Thema unterkam, gelesen (und das zum Beispiel in zwei Sammelrezensionen
+dargestellt). Ich habe in einem Projekt geholfen, dass die Stiftung
+Bibliomedia Schweiz jetzt in der Deutschschweiz für Gemeinde- und
+Schulbibliotheken mobile Makerspace-Toolkits anbietet. Ein Vorprojekt
+dazu, das ich vor einigen Jahren leitete, wurde von anderen Bibliotheken
+als Vorbild für ihre Makerspace-Projekte genutzt. Ich habe
+Bachelorarbeiten zum Thema betreut und habe Anfragen abgelehnt, in Jurys
+über Makerspace-Projekte zu sitzen. Ich würde also sagen, dass ich, auch
+im Vergleich zu anderen, die über das Thema reden, recht viel zu
+Makerspaces in Bibliotheken weiss.}
+
+\emph{Eine Sache, auf die ich auf dieser Basis (und der wenigen Daten,
+die wir über die Nutzung von Makerspaces in Bibliotheken haben), immer
+wieder hinweise, wenn man mich fragt, ist die, dass sich Jugendliche für
+diese Makerspaces nicht interessieren. Das bestätigt sich immer wieder.
+Von Ausnahmen abgesehen, bricht das Interesse an all den Angeboten, die
+Bibliotheken in diesem Bereich machen, zwischen 12 und 15 Jahren -- also
+der Zeit, wenn Kinder zu Jugendlichen werden -- ab. Massiv. In
+Bibliotheken finden sich wohl immer wieder Jugendliche, die gerne
+helfen, Makerspaces mit zu betreuen. Aber als Angebot, um Jugendliche
+anzusprechen, eignen sie sich nicht. (Das ist auch nicht erstaunlich,
+sondern hat sich bei anderen Angeboten, die in den letzten Jahrzehnten
+für Jugendliche gemacht wurden, auch immer wieder gezeigt.) Ich weiss
+nicht, wie oft ich das schon dargestellt habe. Ich weiss auch nicht, wie
+man das bei den Makerspaces und ähnlichen Angeboten, die es ja in
+ausreichender Zahl gibt und die man besuchen kann, um selber
+nachzuschauen, übersehen kann.}
+
+\emph{Ich erhalte weiterhin -- wenn auch abnehmend -- Anfragen zu
+Makerspaces. Soll Hinweise dazu geben, wie man sie aufbauen kann. Soll
+Konzepte bewerten. Und so weiter. Praktisch jedesmal ist die Idee der
+fragenden Bibliotheken, dass man mit den jeweiligen Makerspaces
+Jugendliche ansprechen würde. Es werden dazu teilweise elaborierte
+Vorstellungen entwickelt, die sich alle nicht bewahrheiten werden. Die
+interessante Frage ist: Warum fragt man mich das überhaupt? Auf die
+Idee, dass ich etwas zum Thema wüsste, kommt man doch nur, weil man
+Beiträge von mir zum Thema wahrgenommen hat. Aber nicht den Inhalt? Das
+passiert auch bei anderen Themen immer wieder, Makerspaces sind nur ein
+sehr eindeutiges Beispiel. Ich, als Forschender, käme nicht auf die
+Idee, jemand etwas zu fragen und nicht vorher deren / dessen Beiträge zu
+lesen. Bibliotheken schon? Wenn ja, dann ist das strukturell.}
+\end{quote}
+
+%autor
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{Karsten Schuldt}, Wissenschaftlicher Mitarbeiter am
+Schweizerisches Institut für Informationswissenschaft, FH Graubünden.
+Lebt in Berlin, Chur und Lausanne. Hobbys unter anderem Tee trinken und
+zeitgenössische Lyrik lesen, Streetart finden und Musemsbesuche,
+Rätoromanisch lernen und eine unvernünftig intensive Begeisterungen für
+Keramik und das Fürstentum Liechtenstein.
+
+\end{document}

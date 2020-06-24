@@ -1,0 +1,254 @@
+Im Rahmen meiner Bachelorarbeit an der Hochschule für Technik und
+Wirtschaft (HTW) Chur -- heute Fachhochschule Graubünden -- führte ich
+im Jahr 2019 eine Untersuchung von Sprachlernabteilungen in öffentlichen
+Bibliotheken von vier Schweizer Städten durch. Am Beispiel der
+untersuchten Sprachlernabteilungen zeigen sich sehr deutlich die
+Chancen, aber auch Mängel und Problemstellungen des Miteinanders
+zwischen den öffentlichen Bibliotheken und Lehre und Forschung an
+Universitäten und Fachhochschulen. Diese Arbeit befindet sich aktuell im
+Publikationsprozess und wird unter dem Titel «Nutzung der
+Sprachlernabteilungen in öffentlichen Bibliotheken» veröffentlicht. Die
+durch diese Forschungszusammenarbeit gewonnenen Erkenntnisse werden im
+folgenden Artikel reflektiert und vorgestellt.
+
+### Forschungslücke bei einem populären Bibliotheksangebot
+
+Zahlreiche öffentliche Bibliotheken in der Schweiz verfügen über
+Sprachlernabteilungen beziehungsweise Bibliotheksbestände zum Erlernen
+von Sprachen. In ihrem Bestreben als öffentliche Bibliotheken, ihren
+Benutzerinnen und Benutzern den Zugang zu gedruckter und/oder
+gespeicherter Information zu bieten und ihrer Weiterbildung,
+Leseförderung und Unterhaltung zu dienen (Büchereiverband Österreichs
+o. J.), investieren die Verantwortlichen der Bibliotheken viel
+Leidenschaft und zahlreiche Ressourcen in den Erwerb und die Pflege
+eines geeigneten Bestands sowie den Aufbau sinnvoller ergänzender
+Angebote.
+
+Die Evaluation des Aufwandes und der Ergebnisse dieser Bemühungen bleibt
+jedoch bis heute eine offene Frage, für die sich für den gesamten
+deutschsprachigen Raum in der bisherigen Forschungslandschaft keine
+Antwort findet. Es herrscht ein akuter Mangel an Fachliteratur. Dies
+erstaunt insofern, als dass hier in nicht unwesentlichem Ausmass
+öffentliche Gelder investiert werden -- gemäss Erfahrungen im Rahmen der
+durchgeführten Studie allem Anschein nach ohne jegliche systematische
+Analyse, ob, von wem und wie oft die Angebote denn genutzt werden und
+wie effizient das Lernen mit den bereitgestellten Angeboten ist.
+
+Es zeigt sich eine klare Lücke zwischen der Praxis, welche
+Sprachlernabteilungen trotz fehlender Wirksamkeits- und
+Interessensnachweise unbeirrt finanziell fördert und pflegt, und der
+Forschung, welche diesem Phänomen bislang keinerlei Aufmerksamkeit
+gewidmet hat und die öffentlichen Bibliotheken daher auch nicht mit den
+dringend erforderlichen Erkenntnissen zu Nutzen und
+Optimierungsmöglichkeiten zu versorgen vermag.
+
+### Die Zusammenarbeit mit den Bibliotheken
+
+Mit der Mission, meinen Beitrag zur Schliessung dieser Lücke zu leisten,
+begann ich mit meiner Arbeit. Ich kontaktierte vier Bibliotheken in der
+deutschsprachigen Schweiz mit der Bitte, dieses Forschungsanliegen zu
+unterstützen. Alle vier sagten postwendend zu, weshalb davon ausgegangen
+werden kann, dass die Unterstützungsbereitschaft der Praxis für
+wissenschaftliche Forschung insgesamt hoch ist.
+
+Die Motive für die Zusagen dürften jedoch unterschiedlich gewesen sein,
+was spätestens bei der Anwendung der gewonnenen Ergebnisse einen höchst
+entscheidenden Faktor darstellt. Manche Bibliotheken sagten zu aus
+aufrichtigem Interesse an wissenschaftlichem Feedback zu diesem Thema
+sowie um einen Vergleich ihrer Angebote zu anderen Bibliotheken zu
+erhalten. Andere dagegen erweckten eher den Eindruck, dass sie
+ausschliesslich deshalb teilnahmen, um mich als Forscher bei meinem
+Vorhaben zu unterstützen. Dabei handelt es sich um ein Phänomen, welches
+wohl in verschiedenen Forschungsfeldern auftreten dürfte. Womöglich
+zeigt es sich jedoch bei Bibliotheken, die sich vermutlich in ihrer
+tiefsten Natur als Dienstleisterinnen von Forschung und Bildung
+verstehen, noch verstärkt.
+
+In der Situation als externe, nicht mit den Organisationsstrukturen
+vertraute Person und überdies noch in gewisser Weise als «Bittsteller»,
+wie es bei Abschlussarbeiten häufig vorkommen dürfte, war es mir nicht
+möglich, zielgerichtet geeignete Ansprechpartner zu verlangen. Meine
+Anfrage habe ich an die für die Abteilung zuständigen Personen und,
+sofern diese nicht bekannt waren, an allgemeine «Info»-Mailadressen
+geschickt. Die Bibliotheken wiesen mir daraufhin aus ihrer Sicht
+geeignete Ansprechpersonen zu. Infolge der Unterschiede in der
+betrieblichen Organisation waren dies bei drei der vier Bibliotheken die
+für die Abteilung und deren Bestand zuständige Person -- unter Umständen
+mit verschiedenen Stellenbezeichnungen und -fokussen --, in einem Fall
+jedoch eine übergeordnete Führungsperson. Erfahrung, Wissen, Interesse
+und Fokus dieser Personen unterschieden sich stark, was eine
+standardisierte, generalisierbare Forschung erschwert.
+
+Auch beim inhaltlichen Umfang der Unterstützung zeigten sich grosse
+Unterschiede bei den verschiedenen beitragenden Bibliotheken, sowohl im
+«Können» als auch im «Wollen». Die Auskunftspersonen mit
+unterschiedlichem Erfahrungsschatz führten natürlich zu
+unterschiedlicher Qualität und Tiefe bei den im Rahmen der Studie
+durchgeführten Interviews -- wenngleich ausnahmslos alle im Rahmen ihrer
+Möglichkeiten zweifellos sehr offen und unterstützend Auskunft gaben.
+Darüber hinaus verfügten die Bibliotheken auch sonst über sehr
+unterschiedliche Datenressourcen, welche sie teilweise zu teilen bereit
+waren oder dies in manchen Fällen aber auch verweigerten. Nur eine
+einzelne Bibliothek vermochte systematische Ausleihdaten zur Abteilung
+zur Verfügung zu stellen. Andere verweigerten dies aus Gründen der
+Vertraulichkeit oder verfügen nach eigener Aussage auf Abteilungsebene
+nicht über solches Datenmaterial. Somit konnte für solche
+aufschlussreichen quantitativen statistischen Auswertungen leider nur
+das Material einer einzigen Bibliothek genutzt werden, was in sich nicht
+repräsentativ ist. Insgesamt gab es ein geringes Bewusstsein für die
+Notwendigkeit von sorgfältigen und systematischen Datenerhebungen und
+-auswertungen.
+
+Die zur Studie gehörende passive, teilstrukturierte Beobachtung nach
+Skibar (2017, S. 1--2) bewilligten alle Bibliotheken ohne Vorbehalte,
+sie hatten lediglich unterschiedliche Anforderungen an die
+Transparentmachung gegenüber ihren KundInnen. Keine der Bibliotheken war
+bereit, die im Rahmen der Studie durchgeführte Nutzungsumfrage bei ihren
+BesucherInnen aktiv zu unterstützen. Teilweise war das Auslegen von
+Flugblättern erlaubt, bei anderen Bibliotheken nicht einmal dies. Alle
+Bibliotheken lehnten ab, ihrerseits NutzerInnen anzusprechen und auf die
+Studie hinzuweisen. Sie erlaubten dem Forscher zwar, Personen vor Ort
+selbst direkt anzusprechen. Dieses Vorgehen ohne offizielle
+Unterstützung der Bibliothek führte allerdings zu einer gewissen Skepsis
+der NutzerInnen im Hinblick auf die Seriosität der Studie. Infolgedessen
+weigerten sich viele, an der Studie teilzunehmen. Es existierte gemäss
+Auskunft der AnsprechpartnerInnen nur eine einzige andere
+Nutzungserhebung bei KundInnen öffentlicher Bibliotheken, und dies nur
+zu einer bestimmten Bibliothek. Dabei handelte es sich um eine durch die
+Stadtbibliothek durchgeführte repräsentative Umfrage. Leider konnte mir
+die Bibliothek darauf keinen Zugriff gewähren.
+
+### Die öffentliche Bibliothek im Spannungsfeld der Politik
+
+Die geschilderte Entscheidung der teilnehmenden öffentlichen
+Bibliotheken, die Akquise von Umfrageteilnehmenden nicht aktiv zu
+unterstützen, ist aber absolut verständlich mit Blick auf ihre
+Eigenschaft als öffentliche Institution. Aufgrund ihres Status als
+öffentliche Bibliotheken stehen sie im Fokus der Politik, müssen mit
+deren Entwicklungen und Spannungen umgehen und repräsentieren zudem
+Staat, Kanton und/oder Gemeinde. Das schafft das Vertrauen ihrer
+NutzerInnen beziehungsweise KundInnen, bringt jedoch deshalb auch eine
+grosse Verantwortung mit sich. Sie verfügen daher nicht über Freiheiten,
+welche beispielsweise Unternehmen in der Privatwirtschaft für sich in
+Anspruch nehmen können. Jede Zu- oder Absage, jede unterstützende
+Massnahme oder Umsetzung von Forschung muss gewissen Grundsätzen an
+Neutralität und Gleichbehandlung, aber auch der allgemeinen Stimmung in
+der Bevölkerung folgen. Gerät sie aus irgendwelchen Gründen in die
+Kritik drohen Proteste aus der Bevölkerung und unter Umständen strenge
+Massnahmen und Forderungen seitens unter Druck geratener Politiker. In
+gewisser Weise haben öffentliche Bibliotheken daher eingeschränktere
+Freiheiten als dies bei privatrechtlichen Institutionen der Fall sein
+dürfte, auch bei der Zusammenarbeit mit ForscherInnen. Auch bei Themen
+wie Vertraulichkeit und Datenschutz dürften die Konsequenzen bei
+Verfehlungen -- seien diese tatsächlich oder nur von der Öffentlichkeit
+so wahrgenommen -- aufgrund des öffentlichen Auftrags direkter und
+spürbarer sein als bei unabhängigen Unternehmen.
+
+Ein weiterer Hinderungsgrund zur Unterstützung und vor allem Umsetzung
+von Forschung könnte an einer weiteren Eigenheit des in der Schweiz als
+«Service Public» bekannten Auftrags liegen: Die Gewährleistung eines
+Angebots «für alle». Im Personenverkehr äussert sich dies darin, dass
+auch schwach bewohnte Gebiete, deren Erschliessung sich zahlenmässig
+eigentlich nicht rechnet, angebunden werden müssen. In der Praxis des
+Bibliothekswesens dürfte es wohl bedeuten, dass das Budget sehr häufig
+gewünschter beziehungsweise benötigter Bücher, zum Beispiel
+Wörterbüchern Tigrinisch-Deutsch im Sprachlernalltag, trotz
+entsprechender Forschungsergebnisse zugunsten seltener benötigter
+Sprachen zurückgestellt werden muss. Warum also Forschung fördern, die
+man aufgrund von Widersprüchen mit dem öffentlichen Auftrag im Alltag
+ohnehin nicht anwenden kann?
+
+Andererseits wäre es sicherlich zu einfach zu behaupten, dass die
+Bibliotheken den Wendungen der Politik machtlos ausgeliefert sind. In
+einer immer mehr von Daten gesteuerten Welt liegt es an ihnen, der
+Politik mithilfe der entsprechenden Datenbasis auch im Sinne eines
+Bottom-up-Ansatzes selbstbewusst deutlich zu machen, was von der
+Bevölkerung gebraucht und gewünscht wird und wie die Prioritäten zu
+setzen sind. Allzu oft werden die Top-down-Forderungen und
+Entscheidungen von PolitikerInnen schliesslich aufgrund subjektiv
+wahrgenommener Bevölkerungsstimmungen oder besonders eindringlicher
+Presseschlagzeilen geleitet. Dazu benötigen die Bibliotheken jedoch
+Ressourcen, welche nach meinem Eindruck zunächst aufgebaut werden
+müssen. Es braucht Expertise, Zukunftsorientierung und Optimierungswille
+bei Mitarbeitenden, geeignete elektronische Tools zur Erfassung der
+Daten, um den Bibliotheken gegenüber den politischen
+Entscheidungsträgern eine Stimme zu verleihen.
+
+Hier können Fachhochschulen und Universitäten einen entscheidenden
+Beitrag leisten. Sie verfügen über exakt dieses Wissen und diese
+Kompetenzen und sollten die öffentlichen Bibliotheken damit
+unterstützen. Dies kann zum Beispiel durch die Vermittlung entsprechend
+geschulter Fachkräfte, Schulungsangebote für Mitarbeitende oder schlicht
+und einfach die verstärkte Durchführung von Forschungsarbeiten mit
+anschliessend zur Verfügung gestellten, verständlich aufbereiteten
+Management Summaries geschehen. An die Stelle der bisherigen eher
+einseitigen Dienstleistungsbeziehung muss ein fruchtbarer gegenseitiger
+Austausch treten. Bibliotheken nachhaltig zu fördern und entwickeln
+sollte nebst dem Eigeninteresse der Bibliothek schliesslich auch im
+ureigensten Interesse der Wissenschaft liegen, zieht sie doch nicht
+zuletzt aus gut ausgestatteten und professionellen Bibliotheken das
+Wissen und damit ihre Existenzgrundlage.
+
+### Basis für erfolgreiches gemeinsames Wachsen in der Zukunft
+
+Die geschilderten Erfahrungen führen mich zu einigen Schlussfolgerungen
+zu dem, was es braucht, damit öffentliche Bibliotheken und Wissenschaft
+gemeinsam wachsen können.
+
+Eine professionellere, detailliertere und systematische Datenerhebung
+(zum Beispiel in Form von elektronischen Erfassungen von Ausleihen auf
+Abteilungsebene, aber auch von Nutzungsumfragen bei KundInnen) durch die
+Bibliotheken, welche diese zu wissenschaftlichen Zwecken in
+anonymisierter Form auch zu teilen befugt ist, führt zu einer
+zuverlässigeren und umfassenderen Datenbasis für die wissenschaftlichen
+Studien, die in diesem Gebiet durchgeführt werden. Diese Basis zu
+schaffen ist klar eine Aufgabe für die einzelnen Bibliotheken, wobei
+treibende Kräfte aus der Forschung beim Festlegen relevanter Daten und
+beim Austausch zwischen Bibliotheken natürlich eine entscheidende Rolle
+einnehmen können und sollen. Die Bibliotheken können auch selbstständig
+gewisse Analysen der von ihnen erhobenen Daten vornehmen, um ihr Angebot
+laufend zu optimieren. Solche Analysen sind in sich keine Wissenschaft
+und erfüllen auch nicht deren Zwecke, geben aber wichtige Hinweise auf
+interessante Forschungsgebiete und relevante Themenfelder.
+
+Die Rolle der Wissenschaft sehe ich daher insbesondere in
+bibliotheksübergreifenden, generalisierenden Analysen. Natürlich ist
+hier eine enge Abstimmung mit der Bibliothekspraxis erforderlich, um
+praxisrelevante Fragestellungen zu identifizieren. Andererseits muss die
+Praxis ihrerseits natürlich auch proaktiv Hilfe suchen, damit populäre
+Trends wie Sprachlernabteilungen nicht jahrelang ohne jegliche
+Evaluation oder Überprüfung mit öffentlichen Mitteln gefördert werden.
+
+Natürlich sind nicht alle Vorschläge und erst recht nicht von allen
+Bibliotheken umsetzbar, beispielsweise aus finanziellen oder auch
+anderen organisationsspezifischen Gründen. Hier ist sowohl von Seiten
+der Wissenschaft als auch von Bibliotheken eine gewisse Kreativität
+gefragt, um massgeschneiderte und realitätsnahe Lösungen zu gestalten
+und anzubieten. Kooperationen mit Organisationen verschiedenster Art
+können Bibliotheken helfen, trotz beschränktem Budget wissenschaftliche
+Erkenntnisse umzusetzen.
+
+Auch die Schaffung einer Austauschplattform sowohl zwischen Forschung
+und Bibliotheken, als auch zwischen den verschiedenen Bibliotheken
+scheint mir zentral. Eine solche kann gewährleisten, dass zwischen den
+Bibliotheken eine wohlkoordinierte Datenbasis aufgebaut wird, welche den
+Wissenschaftlern Generalisierbarkeit und den Bibliotheken Vergleiche und
+eine individuelle Einordnung erlaubt. Gleichzeitig können aktuelle
+wissenschaftliche Erkenntnisse auf diesem Weg an die Bibliotheken
+übermittelt werden. Damit gewinnen die öffentlichen Bibliotheken
+idealerweise eine mächtigere Stimme gegenüber der Politik und können die
+künftige, sie betreffende Forschungs- und Finanzierungsagenda sowie
+übergreifende Projekte stärker selbst bestimmen. Die Wissenschaft
+ihrerseits kann dadurch nur gewinnen, ist sie doch selbst in höchstem
+Masse von guten und starken Bibliotheken abhängig.
+
+### Quellen
+
+Büchereiverband Österreichs (o. J.): *Definition ÖB*. Abgerufen von
+<https://www.bvoe.at/inhalt/definition_oeb> \[29.02.2020\].
+
+Skibar, Elisabeth (2017): *Qualitative und quantitative Beobachtung*.
+Abgerufen von
+<http://www2.lernplattform.schule.at/ahs-vwa/pluginfile.php/2982/mod_page/content/141/Qualitative%20und%20quantitative%20Beobachtung_AKT.pdf>
+\[15.06.2020\].
+

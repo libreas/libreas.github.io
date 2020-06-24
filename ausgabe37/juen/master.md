@@ -1,0 +1,830 @@
+
+### 1 Vorwort
+
+Unter dem Titel dieses Artikels reichte ich im September 2019 meine Bachelorarbeit am Institut für Bibliotheks- und Informationswissenschaft an der Humboldt-Universität zu Berlin ein. Das Thema beschäftigte mich schon mein ganzes Studium, seit ich im ersten Semester einen Artikel des französischen Soziologen Denis Merklen über Bibliotheksbrände in Frankreich gelesen hatte. Die Reaktion, die ich von meinen Mitmenschen, ob privat, auf der Arbeit in der Bibliothek, oder im wissenschaftlichen Umfeld der Universität, bekommen habe, wenn ich dieses Thema ansprach, war immer wieder dieselbe. Erstaunen, Unglaube und schnell auch Unmut waren die Reaktionen, wenn ich erzählte, dass Bibliotheken während sozialer Unruhen in Europa angegriffen werden. Und zwar nicht in ferner Vergangenheit, sondern vor fünfzehn, zehn oder sieben Jahren. Niemand schien über diese Ereignisse im Bilde zu sein. Auf eine unbestimmte Art und Weise fühlen sich Menschen persönlich angegriffen, wenn sie erfahren, dass Bibliotheken vorsätzlich zerstört werden. Diese Reaktionen, genauso wie mein eigenes Erstaunen und Ungewahr sein dieser Vorfälle, motivierte mich, mehr darüber heraus zu finden und zu dokumentieren. Die Ergebnisse meiner Forschung, die Schwierigkeiten, mit denen ich zu kämpfen hatte während des Prozesses und die Erkenntnisse, die ich daraus gewonnen habe, werden in diesem Artikel vorgestellt.
+
+### 2 Einleitung
+
+Seit Beginn des 21. Jahrhunderts hat Europa eine Welle sozialer Unruhen
+massiven Ausmaßes erlebt (vergleiche Dikeç 2017, S. 2; Moran; Waddington
+2016, S. 1; Mayer et al. 2016, S. 3f). Über die wochenlangen
+Ausschreitungen in den Vorstädten von Frankreich von 2005 wurde
+ausführlich in der internationalen Presse berichtet. Es gab unzählige
+Bilder von brennenden Autos. Bilder von Jugendlichen, die sich
+Straßenschlachten mit der Polizei lieferten. 2008 folgte Griechenland,
+2011 England und 2013 passierte es in Schweden. Dies sind die Unruhen,
+die für diese Arbeit wichtig sind; sie stellen aber keine vollständige
+Liste dar. Andere kollektive Massenbewegungen fanden statt, allerdings
+nicht mit der Dimension an Zerstörung. Es ist eine Reaktion meist junger
+Menschen auf soziale Ungerechtigkeit, Stigmatisierung und Segregation
+(vergleiche Thörn et al. 2016, S. 8f).
+
+Dass während dieser Unruhen Bibliotheken Ziele von Angriffen wurden, ist
+kaum bekannt. Die öffentliche Bibliothek als Einrichtung für die
+Bevölkerung, gleichzeitig aber auch als eine Institution des Staates,
+hat es mit ihrer Stellung in diesen Konflikten nicht leicht (vergleiche
+Merklen 2015, S. 539). Trotzdem scheint es abwegig, eine Institution des
+Wissens, welche allen zugänglich ist, in Brand zu stecken. Es hat den
+Anschein, als ob sich der Mensch damit nur selbst Schaden zufügt, sich
+etwas beraubt. Warum passiert es also trotzdem?
+
+Diese und weitere Fragen ergaben die Forschungsfrage: *"Was führt dazu,
+dass Bibliotheken zu Angriffszielen während sozialer Unruhen werden?"*
+
+Um diese komplexe, disziplinübergreifende Frage so gut wie möglich
+beantworten zu können, mussten die beiden Hauptthemen, die Bibliothek
+und die sozialen Unruhen, zusammengeführt werden. In Abschnitt 3 wird
+der aktuelle Forschungsstand erläutert. Im Anschluss gibt Abschnitt 4
+eine kurze Übersicht über die sozialen Unruhen in Europa seit 2000. In
+Abschnitt 5 wird die Methodik vorgestellt, mit der die Vorfälle
+erarbeitet wurden, um nachfolgend auf die einzelnen Ereignisse
+einzugehen. Danach wird auf Vorfälle in Südafrika eingegangen, die
+Ähnlichkeiten mit den europäischen aufweisen (Abschnitt 6). Anschließend
+folgt die Diskussion (Abschnitt 7), in der die vorgestellten Ereignisse
+auf Parallelen und Abweichungen untersucht werden. Im abschließenden
+Fazit (Abschnitt 8) wird zusammenfassend auf die Fragestellung und die
+Schwierigkeiten eingegangen, die bei dem Versuch der Beantwortung dieser
+Frage aufgetaucht sind. Darauf folgt ein Ausblick auf zukünftige
+Forschungsfragen und Problemstellungen.
+
+### 3 Aktueller Forschungsstand
+
+Wie in der Einleitung bereits erwähnt wurde, weist die bearbeitete
+Themenstellung eine Lücke in der Bibliotheks- und
+Informationswissenschaft auf. Der einzige Artikel, der in deutscher
+Sprache ermittelt werden konnte, trotz intensiver Recherche, ist ein
+Beitrag von Denis Merklen in der Fachzeitschrift BuB (Forum Bibliothek
+und Information). In diesem Beitrag fasst er die Ergebnisse aus seiner
+20-jährigen, sozialwissenschaftlichen Forschung zu Bibliotheksbränden in
+Frankreich zusammen (vergleiche Merklen 2015, S. 536--539). Das Thema
+wurde also in einem Bibliotheks- und Informationswissenschaftlich
+relevantem Medium vorgestellt, wurde aber nicht von dieser untersucht.
+In seinem Artikel spricht Merklen das Problem der nicht vorhandenen
+Debatte über die Bibliotheksangriffe an:
+
+> "Es gibt Gewalttaten, die eine Flut von Stellungnahmen und große
+> Emotionen hervorrufen. Es gibt andere, über die wird kaum geredet. So
+> weiß ein großer Teil der Öffentlichkeit nichts von den Attacken, die
+> seit einiger Zeit auf Bibliotheken in Frankreich verübt werden." (ebenda S. 536).
+
+Eine Feststellung, die durch meine Nachforschungen bestätigt werden
+kann. Das allgemeine Schweigen zu dieser Thematik deutet auf eine
+Überforderung und Reaktionsunfähigkeit hin. Der vorliegende Artikel ist
+ein Versuch, dies zu überwinden und das Problem sichtbar zu machen,
+damit ein Diskurs darüber stattfinden kann.
+
+Denis Merklen hat das Phänomen der Bibliotheksbrände über Jahre
+untersucht und 2013 in einem Buch veröffentlicht. In *Pourquoi
+brûle-t-on des bibliothèques?* (zu Deutsch: *Warum werden Bibliotheken
+angezündet?*) beleuchtet er einzelne Attacken und die Umstände, in denen
+sie vorgefallen sind. In Frankreich wurden von 1994 von 2004 74
+Brandanschläge auf Bibliotheken gezählt. Die Liste erhebt keinen
+Anspruch auf Vollständigkeit (vergleiche Merklen 2013, S. 40ff). Er
+konnte die meisten Brände politischen Ereignissen, wie Wahlen, zuordnen.
+Außerdem stellte er fest, dass in mehreren Fällen die Bibliothek das
+alleinige Ziel der Attacken war. Keine anderen Gebäude oder Fahrzeuge
+wurden beschädigt. Bei den Angriffen ging es um reine Sachbeschädigung,
+sie fanden nie tagsüber oder während der Öffnungszeiten der betroffenen
+Bibliotheken statt (vergleiche Merklen 2015, S. 536f).
+
+Die Sozialwissenschaft hat sich ausführlich mit dem Gegenstand der
+sozialen Unruhen in den Großstädten Europas im 21. Jahrhundert
+auseinandergesetzt. Der allgemeine Tenor lautet, dass die Ursache für
+diese Art von Massenbewegungen auf das Versagen der Politik und der
+neoliberalen Demokratie zurückzuführen ist (vergleiche Dikeç 2017, S. 4;
+Thörn et al. 2016, S. 8f). Die Autor\_innen des Buches *Urban Uprisings
+-- Challenging Neoliberal Urbanism in Europe* (Mayer et al. 2016) sehen
+ein Problem darin, dass zum einen selten Zusammenhänge zwischen
+Aufständen und städtebaulichen Ansätze untersucht werden und zum anderen
+dass die Unterscheidung zwischen sozialen Unruhen und sozialen
+Bewegungen für die Analyse kollektiven Handelns hinderlich ist
+(vergleiche ebenda 2016, S. 8). Matthew Moran und David Waddington
+untersuchen die Vorfälle unter dem Aspekt des Verhaltens von Gruppen.
+Sie stellen fest, dass in Untersuchungen von Massenverhalten oft mit
+veralteten und widerlegten Ansätzen gearbeitet wird (vergleiche Moran;
+Waddington 2016, S. 3). Mustafa Dikeç stellt, in seinem 2017 erschienen
+Buch *Urban Rage. The revolt of the excluded* (Dikeç 2017) eine "wave of
+urban anger" (ebenda, S. 2) fest, die seit der Jahrhundertwende zunimmt.
+Er sagt weiter, dass die Zunahme von urbaner Aufruhr ein Indiz dafür
+ist, dass die liberale Demokratie daran gescheitert ist, das Problem der
+Segregation in Angriff zu nehmen (vergleiche ebenda, S. 4). Die sozialen
+Unruhen, die in Europa in den letzten Jahrzehnten stattgefunden haben,
+werden in der Wissenschaft als politische Handlungen wahrgenommen. Eine
+Vorgehensweise um auf Missstände, Ungerechtigkeit und Ungleichheit
+aufmerksam zu machen.
+
+Es gibt eine deutliche Diskrepanz zwischen der Wissenschaft und der
+Presse. Um die Ausschreitungen in England als Beispiel zu nehmen: Der
+Guardian hat eine Fotostrecke der Titelblätter diverser Zeitungen
+zusammengestellt, die über die Ereignisse berichtet haben. Die
+Schlagzeilen reichen von "Flaming Morons. Thugs and thieves terrorise
+Britain\'s streets" bis zu "mob rules" (the Guardian 2011, o.S.).
+
+Ein weiteres relevantes Wissenschaftsgebiet ist die Stadtsoziologie,
+welche ein Spezialgebiet innerhalb der Sozialwissenschaft ist. Die
+Stadtsoziologie untersucht Strukturen innerhalb der Städte und ihrer
+Bevölkerung. Die Problematik der sozialen Unruhen wird oft in
+Zusammenhang gebracht mit städtebaulichen und deren strukturellen
+Konzepten. Das stadtpolitische Programm, *la politique de la ville,*
+welches entwickelt wurde, um den Problemen in den französischen
+Vorstädten zu begegnen, ist Gegenstand verschiedener Untersuchungen.
+Mustafa Dikeç beschäftigt sich in seinem 2007 erschienen Buch *Badlands
+of the Republic: Space, Politics and Urban Policy* spezifisch mit der
+Problematik des stadtpolitischen Programms (vergleiche Dikeç 2007) und
+auch deutsche Wissenschaftler\_innen haben sich damit
+auseinandergesetzt. In dem im Jahr 2016 erschienenen Buch *Fraktale
+Metropolen. Stadtentwicklung zwischen Devianz, Polarisierung und
+Hybridisierung* gehen sie eingehend auf diese Thematik ein und erläutern
+deren Schwachpunkte und Auswirkungen (vergleiche Weber; Kühne (Hrsg.)
+2016).
+
+### 4 Soziale Unruhen in europäischen Großstädten des 21. Jahrhunderts
+
+Die hier besprochenen Unruhen (Frankreich, Griechenland, England und
+Schweden) fanden, mit der Ausnahme von Griechenland, in Vorstädten mit
+\"armer\" Bevölkerung statt. Die Jugendarbeitslosigkeit ist hoch, ein
+großer Anteil der Bevölkerung sind Menschen mit so genanntem
+Migrationshintergrund oder Ausländer\_innen. Dennoch ist die Diversität
+in den betroffenen Stadtteilen hoch, da sie aus Gruppen verschiedenster
+Herkunftsländer bestehen (vergleiche Musterd 2005, S. 332). Die
+Infrastruktur ist meistens schlecht und die Wohnkomplexe weisen Mängel
+und dringenden Renovationsbedarf auf. Die räumliche Trennung der
+Bürger\_innen von der restlichen Stadt wird oft durch die
+städtebaulichen Konzepte der Viertel verstärkt (vergleiche Weber 2016,
+S. 29). Allerdings dürfen auch Vorgänge wie die Gentrifizierung von
+Stadtteilen nicht vergessen werden, da sie zur städtischen Segregation
+beitragen (vergleiche Thörn et al. 2016, S. 7).
+
+Hinzu kommt, dass in den betroffenen Stadtteilen die Polizeipräsenz hoch
+ist. Grundlose Personenkontrollen und rassistisches Verhalten seitens
+der Polizei sind keine Seltenheit, zum Beispiel die Kontrolle von
+Menschen auf Grund ihres "ausländischen" Aussehens (vergleiche Thörn
+2013, S. 54f). So waren die Auslöser, nicht zu verwechseln mit der
+Ursache, für die Unruhen allesamt Polizeieinsätze mit Todesfolge.
+Unmittelbar vor jedem der vier vorgestellten Ereignisse kam mindestens
+ein Mensch durch Eingriff der Polizei ums Leben. In Paris sind zwei
+Jugendliche gestorben, die vor der Polizei geflüchtet sind. In Athen
+wurde ein Junge von der Polizei erschossen, weil er zur falschen Zeit am
+falschen Ort war. In London wurde ein Mann erschossen, weil der Verdacht
+auf Waffenbesitz bestand. In Stockholm wurde ein Mann während seiner
+Verhaftung erschossen. Die Aufstände brachen oft nicht unmittelbar nach
+dem Auslöser aus und wenn, dann flachten sie nach kurzer Zeit wieder ab,
+erst ein zweites Ereignis, auch im Zusammenhang mit der Polizei, führte
+zu langanhaltenden (manchmal wochenlangen) Ausschreitungen (vergleiche
+Mucchielli 2016, S. 136; Sernhede 2014, S. 82; Slater 2016, S. 124).
+
+### 5 Die Bibliothek als Angriffsziel
+
+#### 5.1 Methodik
+
+Für die Erarbeitung dieses Themas wurden Quellen in schriftlicher Form
+verwendet. Diese bestehen aus Fachbüchern, Zeitschriftenartikeln,
+fachrelevanten Webseiten, Zeitungsberichten und dem persönlichen
+E-Mail-Verkehr mit Expert\_innen. Da der Erforschung von Angriffen auf
+Bibliotheken während sozialer Unruhen des 21. Jahrhunderts bisher kaum
+Beachtung geschenkt wurde, ging der schriftlichen Arbeit eine intensive
+Recherche voraus. Um mehr Details zu den einzelnen Bibliotheksangriffen
+und deren Umstände zu erfahren, wurden Expert\_innen in verschiedenen
+Ländern per E-Mail angeschrieben. Es bestand Kontakt zu
+Wissenschaftler\_innen folgender Länder: England, Griechenland und
+Schweden, sowie zu Bibliotheksmitarbeiter\_innen in England und
+Schweden. Ferner konnte ein Fotograf in England wichtige, erste Hinweise
+zu dem Bibliotheksbrand in Salford (Manchester) liefern (persönliche
+Korrespondenz mit Joel Goodman vom 23.07.19).
+
+Die im nächsten Kapitel besprochenen Vorfälle wurden unter dem Aspekt
+der Umstände, des Zeitpunkts, der geographischen Lage und der
+Sichtbarkeit ausgewählt. Die Umstände beziehen sich klar darauf, dass
+der Angriff auf die Bibliothek während sozialer Unruhen passiert sein
+muss, um in diese Arbeit Einzug zu erhalten. Für den Zeitpunkt wurde
+festgelegt, dass nur die Ereignisse aus der jüngeren Vergangenheit
+berücksichtigt werden. Dies ergab, dass sich die Untersuchung auf
+Vorfälle ab dem Jahr 2000 konzentriert. Die geographische Lage wurde auf
+Europa eingeschränkt. Durch die Beispiele ist ersichtlich, dass Angriffe
+auf Bibliotheken kein Phänomen eines spezifischen Landes sind, sondern
+gesamteuropäisch auftreten. Während der Recherche wurden auch Fälle von
+Anschlägen auf Bibliotheken außerhalb Europas entdeckt. Die Sichtbarkeit
+bezieht sich auf den praktischen Grund der Auffindbarkeit. Es konnte
+nicht ermittelt werden, ob lokal und ereignisbezogen noch mehr
+Bibliotheken betroffen waren, wenn darüber nicht in (online) verfügbaren
+Medien berichtet wurde.
+
+#### 5.2 Die ermittelten Ereignisse
+
+##### 5.2.1 Paris -- Frankreich -- 2005
+
+Die am besten dokumentierten Anschläge auf Bibliotheken finden sich in
+Frankreich. Der Soziologe Denis Merklen hat das Phänomen der
+Bibliotheksbrände über Jahre analysiert. Allein im Jahr 2005 wurden in
+den Wochen während der Unruhen 34 Bibliotheken angezündet. Allerdings
+ist dies nur die "sichtbarste, die symbolischste und die spektakulärste
+Manifestation einer konfliktreichen und komplexen Beziehung zwischen den
+Bibliotheken und ihren Stadtvierteln" (Merklen 2015, S. 537).
+
+Viel öfter kommt es vor, dass in Bibliotheken eingebrochen wird, um
+diese zu verwüsten, etwas zu stehlen oder dass die Fenster mit Steinen
+beworfen werden (vergleiche ebenda). Viele Bibliotheken wurden in
+Frankreich in Mediatheken (*Médiathèque*) umgerüstet und umbenannt, um
+einen "elitären Graben" zu vermeiden. In den Mediatheken wurden --
+abgesehen von Büchern -- Filme, Musik und das Internet integriert, da
+diese Medien als "populärer" gelten (vergleiche Merklen 2013, S. 26).
+Für die vorliegende Arbeit wurde eine Bibliothek exemplarisch
+herausgegriffen, die *Médiathèque Gulliver* in Saint-Denis. Sie steht
+für viele weitere Bibliotheken in Frankreich.
+
+Ausgelöst wurden die Unruhen vom November und Dezember 2005 durch einen
+Vorfall in der Siedlung *cité du Chêne pointu*, im Ort Clichy-sous-Bois
+im Nordosten von Paris. Auf der Flucht vor einer der häufigen,
+willkürlichen Polizeikontrollen versteckten sich drei Jugendliche in
+einem Umspannwerk. Zwei erlitten dabei tödliche Stromschläge, der Dritte
+wurde schwer verletzt (vergleiche Dikeç 2006, S. 159). Nachdem die
+Polizei eine Tränengasgranate in den Eingangsbereich einer Moschee warf
+(vergleiche Mucchielli 2016, S. 136), gab es über mehrere Wochen
+Ausschreitungen zwischen jungen Erwachsenen und der Polizei.
+
+Die eingangs erwähnte *Médiathèque Gulliver* befindet sich in dem Ort
+Saint-Denis, nördlich von Paris, im Quartier Floréal. Die Bibliothek
+wurde im Juni 2004 eröffnet. Sie wurde im Rahmen einer
+Quartierentwicklungsmaßnahme gebaut. Teile der vorhandenen
+Großwohnsiedlung, die *cité de La Saussaie*, wurden abgerissen, um Raum
+zu schaffen für neue, kleinere Häuser, mehr Straßen, Grünflächen und die
+bereits genannte Bibliothek *Médiathèque Gulliver* (vergleiche Merklen
+2013, S. 154). Nach Abschluss des Projekts konnten viele Mieter\_innen
+nicht zurückkehren, da der Wohnraum weniger und die Mieten teurer
+geworden waren. Die Bibliothek liegt in der Mitte des Stadtteils. Durch
+die bunte Fassade hebt sich die Bibliothek deutlich von der sonst grauen
+Umgebung ab und ergibt einen auffallenden Kontrast zu den restlichen
+Gebäuden (vergleiche ebenda S. 43).
+
+Im Viertel Floréal, genauso wie in den anderen Nachbarschaften, in denen
+Bibliotheken angegriffen wurden, leben Menschen und Familien, für die es
+immer beschwerlicher wird ihre Lebensunterhaltskosten durch Arbeit zu
+decken und die somit gezwungen sind die Hilfe des Staates in Anspruch zu
+nehmen. Die Bibliotheken agieren an Orten, die politisch isoliert,
+sozial vernachlässigt sind und gewalttätige Strukturen aufweisen
+(vergleiche Merklen 2015, S. 539).
+
+Die Médiathèque Gulliver wurde mehrmals gezielt angegriffen. 2004 wurden
+die Fenster des Lesesaals zertrümmert, Computerarbeitsplätze zerstört
+und Geräte entwendet. Knapp ein Jahr später, im Oktober 2005, wurde die
+mittlerweile ersetzte Ausstattung erneut gestohlen. Nach diesem
+Zwischenfall wurde in der Bibliothek ein Wachschutz eingesetzt. Das
+Wachpersonal löschte dann auch den Brand, ausgelöst durch einen
+Molotow-Cocktail, in der Nacht vom 5. auf den 6. November 2005
+(vergleiche Zit. n. Merklen 2013, S. 45).
+
+##### 5.2.2 Athen -- Griechenland -- 2008
+
+Griechenland erlebte im Dezember 2008 eine Revolte in einem seit der
+Absetzung des Militärregimes und dem daraus erfolgten Übertritt in die
+Demokratie 1974 nicht dagewesenen Ausmaß (vergleiche Dikeç 2017, S.
+156).
+
+Am Abend des 6. Dezembers 2008 gerieten zwei Polizisten in einen Streit
+mit Jugendlichen. Einer der Polizeibeamten eröffnete anschließend das
+Feuer auf eine Gruppe unbeteiligter Jugendlicher und ein 15-jähriger
+Schüler starb auf der Stelle (vergleiche Kanellopoulos 2012, S. 173).
+Daraufhin entbrannten landesweite Ausschreitungen, die drei Wochen
+anhielten.
+
+Die spontanen Ausschreitungen wurden am Tag nach der Tat mit einer
+Demonstration durch die Stadt fortgesetzt, die in Straßenschlachten mit
+der Polizei, der Zerstörung von Bankfilialen und öffentlichen Gebäuden
+endete. Die Ausschreitungen griffen auf Städte in ganz Griechenland
+über. Viele Schüler\_innen beteiligten sich an den Protesten, da sie
+sich mit dem 15-jährigen Opfer identifizierten. Außerdem wurden
+Universitäten besetzt, hauptsächlich von Studierenden, linken
+politischen Gruppen und Anarchist\_innen. Es gab auch beteiligte
+Gruppen, die man als militant bezeichnen kann. In Athen betraf dies die
+*Polytechnic School, the School of Economics* und *the Law School*
+(vergleiche Kanellopoulos 2012, S. 174f).
+
+Eine Besonderheit dieser sozialen Unruhen war, dass sie klassen- und
+herkunftsübergreifend Menschen vereinte. Gemeinsame Sorgen wie
+Arbeitslosigkeit und daraus resultierende Existenzängste brachte
+Menschen verschiedener Gesellschaftsschichten zusammen und die geteilte
+Erfahrung von Polizeiwillkür vereinte junge Einheimische mit
+Immigrant\_innen der zweitenGeneration (vergleiche Dikeç 2017, S. 169).
+
+Über den Brand, der die Bibliothek für Europäisches Recht zerstörte, ist
+in offiziellen Quellen kaum etwas zu finden. Der erste Hinweis fand sich
+auf Wikipedia in dem Artikel über die Aufstände in Griechenland
+(vergleiche Wikipedia). Aufgrund dieses Hinweises versuchte ich mehr
+über den Vorfall heraus zu finden, was erfolglos blieb. Da in der
+Recherche zu den Unruhen in Griechenland gewisse Autor\_innen häufiger
+auftauchten, wurde versucht mit diesen in Kontakt zu treten. Durch die
+Korrespondenz mit einem Wissenschaftler, der sich in seiner Forschung
+intensiv mit den Unruhen in Griechenland auseinandersetzt, konnte
+Näheres zu der Einrichtung in Erfahrung gebracht werden.
+
+Die niedergebrannte Bibliothek für Europäisches Recht befindet sich in
+der Nähe zur Juristischen Fakultät (Law School), welche zum Zeitpunkt
+der Unruhen besetzt war, im Zentrum von Athen. Sie liegt an einer der
+Hauptstraßen, durch die die meisten Demonstrationen gingen. Hier kommt
+es öfter zu gewalttätiger Auseinandersetzung zwischen Protestierenden
+und der Polizei. Die Juristische Fakultät nutzt einige Stockwerke des
+betroffenen Gebäudes, um die Bibliothek für Europäisches Recht
+unterzubringen (persönliche Korrespondenz mit Anonymisiert vom
+10.09.19). Es konnte nicht erschlossen werden, ob es sich um einen
+gezielten Angriff auf die Bibliothek handelte oder ob das Gebäude im
+allgemeinen als Ziel galt. Das ausgerechnet die Bibliothek für
+Europäisches Recht zum Opfer der Flammen wurde, hat einen hohen
+Symbolgehalt im Zusammenhang mit den Ursachen der Unruhen, allerdings
+wären weitere Ausführungen in diese Richtung reine Spekulation. Um
+Genaueres über die Umstände und Absichten erfahren zu können, müsste man
+direkt mit den involvierten Personen sprechen, was außerhalb der
+Möglichkeiten liegt.
+
+##### 5.2.3 Manchester -- England -- 2011
+
+Anfang August 2011 wurde ein Mann während eines Polizeieinsatzes
+erschossen. Der 29- Jährige war auf dem Weg nach Hause, in die
+*Broadwater Farm Housing Estate* in Tottenham, London. Diese
+Großwohnsiedung, die hauptsächlich aus Sozialwohnungen besteht, ist seit
+Ausschreitungen in Mitte der 1980er Jahre stark stigmatisiert
+(vergleiche Slater 2016, S. 124). Es wurde von Seiten der Polizei
+vermutet, dass das spätere Opfer eine Waffe trug. Die Umstände, wie es
+zum Tod des Mannes kam, waren unklar. Die Polizei gab falsche
+Informationen an die Presse und versäumte es, ein aufklärendes Gespräch
+mit seiner Familie zu führen.
+
+Dass ein junger, schwarzer Mann von der Polizei getötet wurde, war der
+Auslöser für die Aufstände, dass sie aber ein solches Ausmaß annahmen,
+hat noch andere Gründe. Es ist wahrscheinlicher, dass man von der
+Polizei angehalten und durchsucht wird, wenn man nicht-weiß ist. Die
+Polizeipraktiken weisen aber noch auf ein anderes Problem hin: Die
+willkürliche und drastische Machtausübung durch die Polizei betrifft
+alle Menschen, hauptsächlich Jugendliche, egal welcher Hautfarbe
+(vergleiche Dikeç 2017, S. 59). Es scheint so, als ob durch diese
+geteilte, kollektive Erfahrung die Ausweitung der Ausschreitungen
+möglich war. Eine der betroffenen Städte, nach London, war Manchester.
+
+In Salford, einem Vorort von Manchester, fielen die Proteste
+vergleichsweise kurz aus. Am Nachmittag und Abend des 9. August 2011 gab
+es im Zentrum der Ortschaft, rund um ein Shoppingcenter, Ausschreitungen
+und Plünderungen. Obwohl sich die wirtschaftliche Lage in Salford über
+die letzten 20 Jahre verbessert hat, ist das betroffene Gebiet von hoher
+Arbeitslosigkeit, Armut (die Kinderarmut liegt bei fast 75 %) und
+Ungleichheit gezeichnet. Die Investitionen, die in dieser Gegend
+getätigt wurden, kamen nicht der Bevölkerung zugute (vergleiche Morrell
+et al. 2011, S. 19).
+
+Die ersten Hinweise, dass auch bei diesen Ausschreitungen eine
+Bibliothek betroffen war, fanden sich in einem Zeitungsartikel des
+Guardian (vergleiche Lewis 2011, o.S.). Weitere Nachforschungen führten
+mich auf die Webseite des Fotografen Joel Goodman, der die
+Ausschreitungen dokumentierte (vergleiche Goodman 2013, o.S.). Auf
+Anfrage konnte er mir den Namen und die Lage der Bibliothek mitteilen
+(persönliche Korrespondenz mit Joel Goodman vom 23.07.19). Betroffen war
+die Broadwalk Bibliothek, die zu diesem Zeitpunkt keine aktive
+Bibliothek mehr war. Durch den Kontakt zu einem Bibliothekar vor Ort
+konnten einige Details in Erfahrung gebracht werden. Die Bibliothek
+wurde 2010 geschlossen. Das Gebäude wurde aber weiterhin von den Salford
+Community Libraries genutzt. Es beherbergte den Kundenservice, die
+Fernleihe und hier wurden alle neuen Bücher angeliefert, bevor sie in
+die entsprechenden Bibliotheken gesendet wurden. Außerdem nutzte die
+Stadt die ehemalige Bibliothek als Archiv für ihre Bücher (persönliche
+Korrespondenz mit Stephen Keefe vom 09.09.19). Es wird von einem Verlust
+von tausenden Büchern gesprochen (vergleiche Dadson 2012, S. 5).
+
+Die Bibliothek befand sich in unmittelbarer Nähe zum Shoppingcenter,
+welches das Hauptziel der Ausschreitungen und Plünderungen war. Es
+konnte nicht festgestellt werden, ob die Bibliothek ein zufälliges oder
+bewusstes Ziel war. Von Seiten der Mitarbeiter\_innen vor Ort wird die
+Vermutung geäußert, dass die Bibliothek als Ziel ausgesucht wurde, weil
+es sich dabei um ein öffentliches (Staats-)Gebäude handelt (persönliche
+Korrespondenz mit Stephen Keefe vom 09.09.19). Die Broadwalk Library
+befindet sich nun in einem neuen Gebäude, unweit des alten Standortes
+und trägt den Namen Pendleton Library. Sie wurde in das sogenannte
+Gateways Konzept eingegliedert. Dieses Konzept beinhaltet, dass
+verschiedene Dienstleistungen des Staates an einem Ort zu finden sind
+(persönliche Korrespondenz mit Stephen Keefe vom 10.09.19).
+
+##### 5.2.4 Stockholm -- Schweden -- 2013
+
+Die Unruhen in Stockholm wurden durch die Tötung eines Mannes während
+eines Polizeieinsatzes ausgelöst. Am 13. Mai 2013 wollte die Polizei im
+Stadtteil Husby einen 69- jährigen Mann in seiner Wohnung festnehmen, da
+sein Verhalten bedrohlich erschien. Während dieses Einsatzes wurde der
+Mann erschossen. Anwohner\_innen und die ortsansässige soziale
+Organisation *Megafonen* versammelten sich und verlangten eine Erklärung
+sowie eine unabhängige Untersuchung der Ereignisse. Das erste Statement,
+der Polizei, dass der Mann im Krankenhaus verstarb, stellte sich als
+Falschinformation heraus. Nachbar\_innen konnten mit einem Foto
+beweisen, dass der Mann tot aus seiner Wohnung gebracht wurde. Die
+Anwohner\_innen sahen das Verhalten der Polizei als von offizieller
+Seite geduldete Diskriminierung an, welche sich mit ihrem Alltagserleben
+deckt (vergleiche Sernhede 2014, S. 81f).
+
+Über die nächsten Tage wuchsen die Spannungen, bis, sechs Tage später,
+Jugendliche anfingen Fahrzeuge anzuzünden. Die Auseinandersetzungen
+breiteten sich auf andere Viertel in Stockholm und im Laufe der Woche
+auf weitere Großstädte in Schweden aus (vergleiche ebenda S. 82).
+
+> "Entscheidend ist dabei, dass die Urbanisierung in ihrer derzeitigen
+> Form eine tiefe rassistische Komponente hat -- die Stockholmer
+> Innenstadt ist zu einer durchgehend gentrifizierten Enklave für die
+> weiße Mittel- und Oberklasse geworden, während die ärmsten Vororte
+> zunehmend nicht-weiß sind." (Thörn 2013 S. 51).
+
+Husby ist einer dieser Vororte. Rassismus und Polizeigewalt sind
+Dauerthemen. So war dann auch die Polizei eines der Hauptziele während
+der Unruhen. Andere Ziele waren größtenteils Autos und einige Gebäude,
+die angezündet wurden. Während dieser Zeit wurde auch die
+Stadtteilbibliothek von Husby attackiert. Sie wurde nicht in Brand
+gesetzt, allerdings wurden alle Scheiben eingeschlagen. Eine intensive
+Recherche ergab nur eine Randnotiz in zwei Artikeln, erstaunlicherweise
+aber mit Fotos der Bibliothek, von Reuters (vergleiche Filkz; Shanley
+2013, o.S.) und dasselbe bei BBC (vergleiche Evans 2013, o.S.).
+
+Durch eine Anfrage an Professor Ove Sernhede, der mehrere Publikationen
+zum Thema der sozialen Unruhen in Schweden veröffentlicht hat, konnte
+ein Kontakt zu einem anderen Wissenschaftler, Dr. René León Rosales,
+hergestellt werden. Dieser ist in Stockholm ansässig, kennt den
+betroffenen Stadtteil Husby gut und hat sich auch mit den Ereignissen
+und im speziellen der Rolle von sozialen Bewegungen und
+Jugendorganisationen auseinandergesetzt (vergleiche Ålund; Rosales 2017,
+S. 123). Mit seiner Hilfe konnte wenigstens in Erfahrung gebracht
+werden, um welche Bibliothek es sich handelt und wo sie sich genau
+befindet (persönliche Korrespondenz mit René León Rosales vom 01.08.19).
+Die Bibliothek ist ein Teil des Bürgerhauses in Husby und wurde laut
+offizieller Webseite im März 2013, nach der Renovierung der
+Räumlichkeiten, neu eröffnet (vergleiche Husby bibliotek 2019, o.S.). Ob
+die Neueröffnung in Zusammenhang mit der Attacke zwei Monate später
+stand, konnte nicht in Erfahrung gebracht werden. Es wurde auch nicht
+klar, ob die Attacke dem Bürgerhaus im Allgemeinen galt, oder ob die
+Bibliothek ein bewusstes Ziel war.
+
+### 6 Südafrika
+
+Erwähnenswert an dieser Stelle sind die (Brand-)Anschläge während
+sozialer Unruhen auf Bibliotheken in Südafrika. Parallelen zu den
+Angriffen in Europa sind nicht von der Hand zu weisen. Von 2009 bis 2013
+wurde von einem unabhängigen Politik-Blog 15 Brandanschläge auf
+Bibliotheken während sozialer Unruhen gezählt. Es wird darauf
+hingewiesen, dass dies nur die Vorfälle sind, die in den Medien
+auffindbar waren und es handelt sich nur um die Brandanschläge. Andere
+Arten von Angriffen, wie Einbruch und Vandalismus, wurden nicht
+mitgezählt (vergleiche van Onselen 2013, o.S.). Auch hier konstatiert
+der Autor, wie Denis Merklen in seiner Untersuchung, das auffällige
+Schweigen von Seiten der Presse und der Regierung (vergleiche ebenda).
+
+Der Autor führt weiter aus, dass die vielen Brandanschläge auf
+Bibliotheken auf die (fehlgeleitete) Politik zurückzuführen seien. Die
+politischen Anführer würden Unwissenheit fördern und haben kein
+Interesse daran, Orte der Ideen und des Wissens zu unterstützen und zu
+schützen. Systematisch wird die Relevanz von Bibliotheken und
+Wissenseinrichtungen untergraben (vergleiche ebenda). Die Aussagen von
+Protestierenden unterscheiden sich auch nicht von denen in Frankreich.
+Es wird davon gesprochen, dass man von der Regierung gesehen werden
+möchte und deswegen öffentliche Gebäude anzündet (vergleiche ebenda).
+
+In dem Artikel *Burning Libraries for the People: Questions and
+Challenges for the Library Profession in South Africa* spricht der Autor
+Peter Lor von "Post-Apartheid Library Burnings" (Lor 2013, S. 360).
+Viele der Proteste werden als "service delivery protests" (ebenda S.
+361) bezeichnet. Lor stellt eine Zusammenfassung der Untersuchungen vor,
+die zu den Unruhen gemacht wurden. Aus dieser geht hervor, dass die
+beteiligten Wissenschaftler\_innen die gleichen Hintergründe für die
+Proteste identifiziert haben wie ihre Kolleg\_innen in Europa:
+grundlegende Ursachen wie Arbeitslosigkeit und Armut, schlechte örtliche
+Regierung, folglich unzureichender Zugang zu Leistungen des Staates und
+die daraus resultierenden politischen Spannungen (vergleiche ebenda S.
+364).
+
+Es wird darauf hingewiesen, dass die Bibliothek als Symbol der
+Unterdrückung wahrgenommen wird und deshalb die Wut der Protestierenden
+auf sich zieht (vergleiche ebenda S. 360). Der Artikel untersucht die
+Auswirkungen der Brände auf das Bibliothekswesen anhand einer
+Inhaltsanalyse von Aussagen und Kommentaren, die auf der Webseite von
+LIASA (Library and Information Association of South Africa) gepostet
+wurden. Es wird hervorgehoben, dass von Verbandseite weder eine
+zeitnahe, professionelle Stellungnahme zu den Vorfällen abgegeben wurde,
+noch weitere Untersuchungen angestrebt wurden (vergleiche ebenda S.
+365f).
+
+Auch nach 2013 sind Anschläge auf Bibliotheken in Südafrika ein Mittel
+zur Äußerung von Ungerechtigkeit und Ungleichheit. Während der
+Studierendenproteste von 2016, gegen die angekündigte Erhöhung von
+Studiengebühren, wurden weitere Bibliotheken Opfer von Brandstiftung.
+Die Brände sollen auch den Unmut ausdrücken über die immer noch
+bestehende Ungleichheit zwischen schwarzen und weißen Studierenden in
+Südafrika (vergleiche Powell 2016, o.S.).
+
+### 7 Diskussion
+
+Werden die Attacken auf die Bibliotheken der vier vorgestellten
+Ereignisse betrachtet, können nur zwei sichere Parallelen gezogen
+werden. Zum einen der Umstand, dass sie während sozialer Aufstände
+angegriffen wurden. Das war der Hauptgrund, warum sie in diese Arbeit
+Einzug erhalten haben. Die zweite Parallele ist das weitgehende
+Schweigen über die Bibliotheksangriffe in der Öffentlichkeit und der
+Fachwelt.
+
+Denis Merklen hat dieses Phänomen in Frankreich untersucht. Er hat das
+Schweigen in verschiedenen Gruppen ausgemacht. Die erste Gruppe, die
+nach einem Angriff auf eine Bibliothek schweigt, sind die
+Verursacher\_innen selbst. Es gibt keine Stellungnahme oder anderen
+Kommentar, die den Sinn des Geschehenen erklären würde. Darauf folgt das
+Schweigen der Politik und der Presse. Ein öffentlicher Diskurs über
+Angriffe auf Bibliotheken findet nicht statt. Merklen merkt auch an,
+dass dieser Thematik in den Sozialwissenschaften zu wenig Aufmerksamkeit
+geschenkt wird (vergleiche Merklen 2015, S. 537). Wie schon in dieser
+Arbeit erwähnt wurde, findet dieses Thema auch innerhalb der
+internationalen Bibliothekswelt kaum Resonanz. Es scheint, als ob das
+Unvermögen, auf eine Tat wie diese zu reagieren, auch die Diskussion
+darüber im Keim erstickt. Es sollte aber ein Diskurs darüber
+stattfinden, um Erklärungen dafür zu finden, um diesen Vorfällen
+begegnen und im besten Fall vorbeugend agieren zu können.
+
+Die Untersuchung hat gezeigt, dass Unterschiede zahlreicher sind als
+Parallelen. Über Merkmale, wie zum Beispiel die Fassade oder das Gebäude
+an sich, konnten keine Gemeinsamkeiten festgestellt werden. Dies kann im
+Einzelfall ein Grund sein, warum eine Bibliothek als Ziel ausgesucht
+wird, es scheint aber keine allgemeingültige Motivation zu sein.
+Abgesehen von den untersuchten Brandanschlägen in Frankreich konnten
+auch keine weiteren Aussagen oder Hinweise darauf gefunden werden, dass
+die Attacken auf Bibliotheken in ihrer Funktion als Wissensinstitution
+galten. Dies kann allerdings auch den Kapazitäten und dem Umfang dieser
+Arbeit geschuldet sein. Auf diese Problematik wird im Fazit noch näher
+eingegangen. Auch dass Bibliotheken gezielt als einziges Gebäude
+ausgesucht wurden, wie es Merklen in Frankreich feststellte, kann bei
+den vorliegenden Beispielen, außer bei der Bibliothek in Frankreich,
+nicht bestätigt werden, da die entsprechenden Aussagen dafür fehlen.
+
+Öffentliche Gebäude, zu denen Bibliotheken zählen, sind oft Ziele der
+Zerstörung während Ausschreitungen. Die sozialen Unruhen des 21.
+Jahrhunderts richten sich gegen einen Staat, der darin versagt hat,
+Teile der Gesellschaft zu unterstützen und gleichberechtigt zu
+behandeln. Es scheint der Fall zu sein, dass die Bibliothek in einer
+Konfliktsituation wie dieser zwischen Bürger\_innen und dem Staat steht
+und somit als staatliche und "feindliche" Einrichtung angesehen wird.
+Die Bibliothek als eine öffentliche Einrichtung für die Nachbarschaft,
+gleichzeitig aber auch Teil des Staates, hat eine herausfordernde
+Stellung in diesen Konflikten (vergleiche Merklen 2015, S. 537). Demnach
+würde allerdings der repräsentative Charakter der Bibliothek, als
+Gebäude und Institution, wieder in den Mittelpunkt rücken.
+
+> "Die Macht der Nationalstaaten architektonisch zu materialisieren,
+> erscheint nun heute und besonders hierzulande anmaßend. Ein
+> Bibliotheksneubau lässt genau an dieser Stelle einen Spielraum zum
+> Ausdruck der immateriellen Stärke -- in Form von Wissen und Kultur."  (Goldberg 2015, S. 11).
+
+Dies könnte dazu beitragen, dass die Bibliothek mit ihren Angeboten,
+trotz ihres öffentlichen Charakters, in den Augen der Protestierenden
+nicht zugänglich für sie ist. Olaf Eigenbrodt beschäftigt sich in einem
+Artikel mit der Frage, wie eine Stadt in der Wissensgesellschaft
+aussieht und welche Bibliotheken sie braucht (vergleiche Eigenbrodt
+2007, o.S.). Er äußert sich zu öffentlichen Räumen, zu denen er klar
+auch die Bibliothek zählt, folgendermaßen:
+
+> "Solche niedrigschwelligen Angebote wirken zwar einerseits der
+> Segregation entgegen und verschaffen Menschen Zugang zu Informationen
+> und Kommunikationsmöglichkeiten, den sie sonst nicht hätten, sind aber
+> auch immer die Orte, an denen gesellschaftliche Friktionen und
+> Spannungen offensichtlich werden. Zudem muss immer gefragt werden, ob
+> solche Räume nicht im Wesentlichen dem Wunschdenken politisch
+> sozialliberal ausgerichteter Angehöriger der Mittelschicht
+> entspringen. Die Schaffung so genannter soziokultureller Zentren z. B.
+> ist oft genug ein wesentlicher Antrieb der Gentrification, die dann in
+> den benachbarten Wohngebieten stattfindet. Die Angebote dieser Zentren
+> sind häufig nur für diejenigen interessant, die sie gestalten." (vergleiche ebenda).
+
+Die Spannungen, die sich in öffentlichen Räumen, speziell auch
+Bibliotheken, offenbaren, spricht auch Denis Merklen an. Die
+Umbenennungen von Bibliotheken zu Mediatheken in Frankreich, um einen
+"elitären Graben" zu vermeiden (vergleiche Merklen 2013, S. 26), deuten
+darauf hin, dass Bibliotheken von gewissen Gesellschaftsgruppen als
+nicht zugänglich oder nicht für sie bestimmte Einrichtungen angesehen
+werden.
+
+> "Durch die Brandstiftung Schrecken hervorrufen, versuchen,
+> Aufmerksamkeit darauf zu lenken, dass der Lebensraum dieser Viertel
+> auch ein Teil des Lebensraums aller ist, versuchen, etwas von dem
+> 'Heiligen' zu treffen, dass die Bibliothek repräsentiert, um
+> verständlich zu machen, dass die Lage ernst ist, darin liegt
+> vielleicht ein Teil des Sinns dieser Akte." (Merklen 2015, S. 538).
+
+Ein primärer Grund für die Attacken scheint die Sichtbarkeit zu sein.
+Menschen, die sich übergangen, ignoriert und ungerecht behandelt fühlen,
+versuchen auf ihre Lage aufmerksam zu machen. Oft sind sozialen Unruhen
+kollektive Aktionen und Anstrengungen einzelner Gruppen vorausgegangen.
+Diese wurden von offizieller Seite nicht beachtet oder es wurde nicht
+angemessen darauf reagiert (vergleiche Sernhede 2014, S. 84f).
+
+Ob (fehlende) Angebote der Bibliothek, nicht oder nur wenig vorhandene
+Diversität des Bibliothekspersonals und die daraus resultierende
+Schwierigkeit, sich mit der Institution zu identifizieren, Gründe für
+einen Bibliotheksangriff sind, konnte in der nötigen Tiefe in dieser
+Arbeit nicht untersucht werden. Deshalb werden hier auch keine weiteren
+Vermutungen angestellt. Dennoch sind es die Themen wert, auch im
+Zusammenhang mit der vorliegenden Thematik weiter untersucht zu werden.
+
+Ebenfalls relevant wäre die Untersuchung der Rolle und Wirkung des
+Wachpersonals, das häufig in Bibliotheken eingesetzt wird. Eventuell
+würde die Untersuchung dieser Frage aufschlussreiche Ansätze bezüglich
+der Offenheit der Bibliothek aus der Perspektive der potentiellen
+Nutzer\_innen ergeben und gegebenenfalls eine weitere Lücke in den
+Diversitätsbemühungen der Bibliotheken schließen.
+
+Zusammenfassend kann gesagt werden, dass die Analyse der vier hier
+untersuchten Angriffe auf Bibliotheken während sozialer Unruhen ergeben
+hat, dass es doch wenige nachweisbare Parallelen zwischen den einzelnen
+Fällen gibt. Es ist deutlich geworden, dass die Bibliothek als Symbol
+eine Angriffsfläche bietet und dass die Bibliothek in Ausnahmezuständen
+nicht als Verbündete, sondern eher als eine Institution der Gegenseite
+wahrgenommen wird. Der Umstand, dass Ausschreitungen und soziale
+Bewegungen zugenommen haben, sollte zum Anlass genommen werden, die
+Rolle der Bibliothek in diesem Szenario eingehend zu untersuchen.
+
+### 8 Fazit und Ausblick
+
+Der Umstand, dass die Erforschung des vorliegenden Themas quasi noch
+nicht erfolgt ist, ermöglichte Ereignisse in einen Zusammenhang zu
+stellen, der so noch nicht vorhanden war. Es bedeutete aber auch, dass
+kaum eine Möglichkeit darauf bestand, auf geeignete, bereits
+existierende Forschungsliteratur zurückzugreifen.
+
+Im Laufe des Arbeitsprozesses zeigte sich, dass nicht nur das Fehlen von
+passender Fachliteratur eine Schwierigkeit darstellt, sondern auch die
+limitierten Ressourcen. Um mehr und genauere Informationen über die
+einzelnen Vorfälle zu erfahren, müsste die Möglichkeit bestehen, mit den
+Akteuren und den betroffenen Bibliotheksmitarbeiter\_innen unmittelbar
+in Kontakt zu treten sowie die Geschehnisse vor Ort im städtischen und
+gesellschaftlichen Zusammenhang erschließen zu können und dies am besten
+so zeitnah wie möglich nach einem solchen Ereignis. Beweggründe aus der
+Entfernung und ohne persönlichen Kontakt zu involvierten Personen zu
+ermitteln, ist ein schwieriges, wenn nicht sogar unmögliches Unterfangen
+und liefert keine befriedigenden Erkenntnisse.
+
+Der gesellschaftliche Kontext, in dem sich die Forschungsfrage bewegt,
+konnte weitestgehend erläutert werden. Die Ursprünge der sozialen
+Unruhen können, grob gesagt, auf politisches Versagen in Fragen der
+Gleichbehandlung und ihren Begleiterscheinungen wie Segregation,
+Rassismus und Stigmatisierung zurückgeführt werden. Die Tatsache, dass
+Bibliotheken Opfer von Anschlägen während sozialer Unruhen in Europa
+werden scheint an deren Symbolcharakter sowie ihrem Status als
+staatliche Institution zu liegen. Hier wäre es in einer weiterführenden
+Untersuchung interessant zu erforschen, warum dies zum Beispiel in den
+USA, so weit bekannt, nicht passiert.
+
+Es scheint weitestgehend bewiesen zu sein, dass die Bibliothek selten,
+aber nicht nie, in ihrer Funktion als Wissensinstitution angegriffen
+wird. Mit Gewissheit kann dies allerdings erst gesagt werden, wenn die
+Vorfälle tiefgreifend und umfassend untersucht werden, wie es Denis
+Merklen in Frankreich vorgemacht hat.
+
+Aus bibliotheks- und informationswissenschaftlicher Perspektive wäre es
+wünschenswert, wenn diese Thematik Einzug in die aktuelle Debatte sowie
+Forschung erhält. Könnte es doch hilfreich sein in der Beantwortung von
+Fragen nach der Dringlichkeit von Diversität in Bibliotheken sowie um
+die Erarbeitung von Inklusionskonzepten vorantreiben. Die Zusammenarbeit
+mit Bürger\_innen könnte neue Erkenntnisse darüber liefern, was
+Bibliotheken unternehmen können, um Gesellschaftsgruppen anzusprechen,
+welche sich bis jetzt von der Welt der Bibliotheken ausgeschlossen
+fühlen. Es liegt auf der Hand, dass die Bibliotheken nicht die Probleme
+der sozialen Ungerechtigkeit und deren Ausdruck in Form von Protesten
+lösen können. Trotzdem könnte die Beschäftigung mit dem Thema helfen,
+die Bibliothek als Institution aus einer anderen Perspektive zu
+betrachten und damit potenzielle Hürden zu identifizieren und zu
+bearbeiten.
+
+Ein weiterer Ansatz von zukünftiger Forschung in dieser Thematik wäre
+der der Internationalität. Würden Wissenschaftler\_innen aus den
+betroffenen Ländern/ Städten gemeinsam die Vorfälle untersuchen, wären
+Vergleiche und die Erarbeitung von Studien erfolgsversprechender, als
+wenn dies dezentralisiert Ortsfremde vornehmen würden. Hinzu kommt die
+Interdisziplinarität. Gäbe es die Möglichkeit, dieses Thema zusammen mit
+Sozialwissenschaftler\_innen, Stadtsoziolog\_innen, Politik- und
+Kulturwissenschaftler\_innen zu erforschen, ergäbe dies ein umfassendes
+Gesamtbild, welches die aktuellen gesellschaftlichen Herausforderungen
+widerspiegeln würde, die wiederum die Bibliotheksarbeit beeinflussen
+könnten.
+
+### Literaturverzeichnis
+
+Ålund, Aleksandra; Rosales, René Leon: Becoming an Activist Citizen:
+Individual Experiences and Learning Processes within the Swedish
+Suburban Movement. In: Journal of Education and Culture Studies,
+Vol.1(2) 2017, S. 123--140. Online verfügbar unter:
+[https://doi.org/10.22158/jecs.v1n2p123](https://doi.org/10.22158/jecs.v1n2p123).
+
+Dadson, Emma: Emergency Planning and Response for Libraries, Archives
+and Museums. London 2012.
+
+Dikeç, Mustafa: Badlands of the Republic. Space Politics and Urban
+Policy. Oxford 2007.
+
+Dikeç, Mustafa: Urban Rage. The revolt of the excluded. Yale 2017.
+
+Eigenbrodt, Olaf: Gibt es die Stadt noch -- und welche Bibliothek
+braucht sie? In: LIBREAS. Library Ideas, Vol. 8/9 2007. Online verfügbar
+unter:
+[https://libreas.eu/ausgabe8/001eig.htm](https://libreas.eu/ausgabe8/001eig.htm).
+
+Evans, Stephen: Stockholm riots throw spotlight on Swedish inequality.
+In: BBC Online. 2013. Online verfügbar unter:
+[https://www.bbc.com/news/world-europe-22650267](https://www.bbc.com/news/world-europe-22650267).
+
+Filks, Ilze; Shanley, Mia: Stretched by riots, Swedish police call
+reinforcements. In: Reuters Online. 2013. Online verfügbar unter:
+[https://www.reuters.com/article/us-swedenriots/stretched-by-riots-swedish-police-call-reinforcements-idUSBRE94N0LN20130524](https://www.reuters.com/article/us-swedenriots/stretched-by-riots-swedish-police-call-reinforcements-idUSBRE94N0LN20130524).
+
+Goodman, Joel: 2 years ago today: Camden, Salford and Manchester Riots.
+2013. Online verfügbar unter:
+[https://joelgoodman.net/2013/08/09/camden\_salford\_manchester\_riots\_london\_august\_2011\_photography/](https://joelgoodman.net/2013/08/09/camden_salford_manchester_riots_london_august_2011_photography/).
+
+Goldberg, Polina: Von Bibliotheken und Leselandschaften. In:
+BaunetzWoche, Vol. 401 2015, S. 8--22. Online verfügbar unter:
+[https://www.baunetz.de/baunetzwoche/baunetzwoche\_ausgabe\_4265793.html](https://www.baunetz.de/baunetzwoche/baunetzwoche_ausgabe_4265793.html).
+
+Guardian: UK riots front pages -- in pictures. London 2011. Online
+verfügbar unter:
+[https://www.theguardian.com/media/gallery/2011/aug/09/uk-riots-front-pages-in-pictures](https://www.theguardian.com/media/gallery/2011/aug/09/uk-riots-front-pages-in-pictures)
+
+Husby bibliotek. 2019. Online verfügbar unter:
+[https://biblioteket.stockholm.se/bibliotek/husby-bibliotek](https://biblioteket.stockholm.se/bibliotek/husby-bibliotek).
+
+Kanellopoulos, Kostas: The Accidental Eruption of an Anarchist Protest.
+In: Seferiades, Seraphim; Johnston, Hank (Hrsg.): Violent Protest,
+Contentious Politics and the Neoliberal State. London 2012, S. 171--181.
+
+Lewis, Paul: A fire lit in Tottenham that burned Manchester: the
+rioters' story. In: The Guardian. London 2011. Online verfügbar unter:
+[https://www.theguardian.com/uk/2011/dec/05/tottenham-manchester-rioters-story-england](https://www.theguardian.com/uk/2011/dec/05/tottenham-manchester-rioters-story-england).
+
+Lor, Peter: Burning Libraries for the People: Questions and Challenges
+for the Library Profession in South Africa. In: Libri. International
+Journal of Libraries and Information Services, Vol.63(4) 2013, S.
+359--372. Online verfügbar unter:
+[https://doi.org/10.1515/libri-2013-0028](https://doi.org/10.1515/libri-2013-0028).
+
+Mayer, Margit et al. (Hrsg.): Urban Uprising. Challenging Neoliberal
+Urbanism in Europe. London 2016.
+
+Merklen, Denis: Pourquoi brûle-t-on des bibliothèques?. Villeurbanne
+2013.
+
+Merklen, Denis: Feuer und Schweigen -- Wenn Bibliotheken brennen -- Ein
+Essay über die Bibliotheksbrände in Frankreich. In: BuB - Forum
+Bibliothek und Information, Vol. 67 (8/9) 2015, S. 536-539. Online
+verfügbar unter:
+[https://b-u-b.de/wp-content/uploads/2015-08.pdf](https://b-u-b.de/wp-content/uploads/2015-08.pdf).
+
+Moran, Matthew; Waddington, David: Riots. An International Comparison.
+London 2016.
+
+Morrell, Gareth et al.: The August riots in England. Understanding the
+involvement of young people. London 2011. Online verfügbar unter:
+[https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/60531/The\_20August\_20Riots\_20in\_20England\_20\_pdf\_\_201mb\_.pdf](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/60531/The_20August_20Riots_20in_20England_20_pdf__201mb_.pdf).
+
+Mucchielli, Laurent: Unruhen in der aktuellen französischen
+Gesellschaft. Eine elementare Form politischer Aushandlungsprozesse. In:
+Weber, Florian; Kühne, Olaf (Hrsg.): Fraktale Metropolen.
+Stadtentwicklung zwischen Devianz, Polarisierung und Hybridisierung.
+Wiesbaden 2016, S. 131--143.
+
+Musterd, Sako: Social and ethnic segregation in Europe. Level, Causes,
+and Effects. In: Journal of Urban Affairs. Vol. 27, Nr. 3 2005, S.
+331--348. Online verfügbar unter:
+[https://doi.org/10.1111/j.0735-2166.2005.00239.x](https://doi.org/10.1111/j.0735-2166.2005.00239.x).
+
+Powell, Anita: South Africa Protesters Use Fire to Illuminate
+Grievances. 2016. Online verfügbar unter:
+[https://www.voanews.com/africa/south-africa-protesters-use-fire-illuminate-grievances](https://www.voanews.com/africa/south-africa-protesters-use-fire-illuminate-grievances).
+
+Sernhede, Ove: Youth rebellion and social mobilisation in Sweden. In:
+Soundings. A journal of politics and culture. Vol. 56 2014, S. 81--91.
+Online verfügbar unter:
+[https://www.muse.jhu.edu/article/544263](https://www.muse.jhu.edu/article/544263).
+
+Slater, Tom: The Neoliberal State and the 2011 English Riots: A Class
+Analysis. In: Mayer, Margit et al. (Hrsg.): Urban Uprising. Challenging
+Neoliberal Urbanism in Europe. London 2016, S. 121--148.
+
+Thörn, Catharina: Der Aufstand in Stockholm und der Mythos der
+schwedischen Sozialdemokratie. In: Sozial.Geschichte Online. Vol. 11
+2013, S. 48--58. Online verfügbar unter:
+[https://nbn-resolving.org/urn:nbn:de:hbz:464-20131010-075949-9](https://nbn-resolving.org/urn:nbn:de:hbz:464-20131010-075949-9).
+
+Thörn, Håkan et al.: Re-Thinking Urban Social Movements, ‚Riots' and
+Uprisings: An Introduction. In: Mayer, Margit et al. (Hrsg.): Urban
+Uprising. Challenging Neoliberal Urbanism in Europe. London 2016, S.
+3--55.
+
+Van Onselen, Gareth: Burning Books. The African way. 2013. Online
+verfügbar unter:
+[https://inside-politics.org/2013/02/14/burning-books-the-african-way/](https://inside-politics.org/2013/02/14/burning-books-the-african-way/).
+
+Weber, Florian; Kühne, Olaf (Hrsg.): Fraktale Metropolen.
+Stadtentwicklung zwischen Devianz, Polarisierung und Hybridisierung.
+Wiesbaden 2016.
+
+Weber, Florian: Urbane Mosaike, Fragmentierungen, stadtpolitische
+Interventionen. Die banlieues und die Stadtpolitik politique de la
+ville. In: Weber, Florian; Kühne, Olaf (Hrsg.): Fraktale Metropolen.
+Stadtentwicklung zwischen Devianz, Polarisierung und Hybridisierung.
+Wiesbaden 2016, S. 21--55.
+
+Wikipedia: 2008 Greek riots. Online verfügbar unter:
+[https://en.wikipedia.org/wiki/2008\_Greek\_riots\#cite\_ref-62](https://en.wikipedia.org/wiki/2008_Greek_riots#cite_ref-62).
