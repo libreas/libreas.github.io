@@ -472,8 +472,7 @@ gegenüber gestellt. Ich untersuche kursorisch, womit sich die 2010--2019
 durchgeführten akademischen Abschlussarbeiten zu Öffentlichen
 Bibliotheken in Deutschland beschäftigten.
 
-> **1. Die Forschungsabteilung des "Instituts für Leser- und
-> Schrifttumskunde" (1926--1937)**
+#### 1. Die Forschungsabteilung des "Instituts für Leser- und Schrifttumskunde" (1926--1937)
 
 Im so genannten "Richtungsstreit" der Lesehallen und Volksbibliotheken in
 den 1910er und 1920er Jahren wurde um die kulturpolitische Ausrichtung,
@@ -579,8 +578,7 @@ Volksbildungstheorie. Diese Zielsetzung war gegeben und nicht Teil des
 Forschungsprogramms. Genauso wenig gab es einen Diskurs über die
 Ausrichtung der Forschung im Institut für Leser- und Schrifttumskunde.
 
-> **2. Die Akademisierung des "gehobenen Dienstes an Öffentlichen
-> Bibliotheken"**
+#### 2. Die Akademisierung des "gehobenen Dienstes an Öffentlichen Bibliotheken"
 
 Fast 50 Jahre später -- und unter völlig anderen politischen,
 ökonomischen und ideologischen Rahmenbedingungen -- wurde die
@@ -723,8 +721,7 @@ Arbeitsmarkt- und Berufsforschung 2020), 1973 mindestens zu 80 %
 (Schätzung auf der Basis von Heidtmann 1974: 89) und auch 1926 bereits
 zu einem erheblichen Anteil (Vodosek 1981).
 
-> **3. Bibliothekswissenschaft -- Quo Vadis? (2005) Scheideweg und
-> In-Frage-Stellung der Bibliothekswissenschaft**
+#### 3. Bibliothekswissenschaft -- Quo Vadis? (2005) Scheideweg und In-Frage-Stellung der Bibliothekswissenschaft
 
 Als Momentaufnahme in einer dritten Situation möchte ich die Publikation
 "**Bibliothekswissenschaft** -- Quo Vadis?" heranziehen. Der Sammelband
@@ -1218,7 +1215,7 @@ Auflage. München: Pantheon.
 
 Hauke, Petra (Hg.) 2005. Bibliothekswissenschaft - quo vadis?: eine
 Disziplin zwischen Traditionen und Visionen: Programme - Modelle -
-Forschungsaufgaben. Berlin, Boston : DeGruyter Saur.
+Forschungsaufgaben. Berlin, Boston: DeGruyter Saur.
 <http://dx.doi.org/10.1515/9783110929225>.
 
 Heidtmann, Frank 1974. Die bibliothekarische Berufswahl. Pullach: Verlag
