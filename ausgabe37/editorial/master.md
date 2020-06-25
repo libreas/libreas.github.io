@@ -43,7 +43,7 @@ unsere Entscheidungen teilten.
 
 ![Redaktionsorte – Skpe Call](img/redaktionscall2.jpg)
 
-![Redaktionsorte XVI. Online, März 2020](img/redaktionscall3.jpeg)
+![Redaktionsorte XVI. Online, März - Mai 2020](img/redaktionscall3.jpeg)
 
 Interessanterweise kamen auch viele Texte dieser Ausgabe auf solche
 Fragen zurück, wenn auch in einem ganz anderen Kontext, nämlich der

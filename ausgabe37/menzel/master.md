@@ -404,18 +404,18 @@ BMBF: Bundesministerium für Bildung und Forschung (2011): Deutscher
 Qualifikationsrahmen für lebenslanges Lernen (DQR). Hg. v.
 Bundesministerium für Bildung und Forschung (BMBF). Online verfügbar
 unter
-<https://www.dqr.de/media/content/Der\_Deutsche\_Qualifikationsrahmen\_fue\_lebenslanges\_Lernen.pdf>
+<https://www.dqr.de/media/content/Der_Deutsche_Qualifikationsrahmen_fue_lebenslanges_Lernen.pdf>
 
 Europäische Union, Kommission der Europäischen Gemeinschaften (2000):
 Memorandum über Lebenslanges Lernen. Brüssel. Online verfügbar unter
-<https://www.hrk.de/uploads/tx\_szconvention/memode.pdf>
+<https://www.hrk.de/uploads/tx_szconvention/memode.pdf>
 
 Gapski, Harald; Tekster, Thomas (2009): Informationskompetenz in
 Deutschland. Überblick zum Stand der Fachdiskussion und Zusammenstellung
 von Literaturangaben, Projekten und Materialien zu einzelnen
 Zielgruppen. Hg. v. Landesanstalt für Medien Nordrhein-Westfalen (LfM).
 Online verfügbar unter
-<https://www.medienanstalt-nrw.de/fileadmin/lfm-nrw/Aktuelle\_Forschungsprojekte/Informationskompetenz\_in\_Deutschland\_August\_09.pdf>
+<https://www.medienanstalt-nrw.de/fileadmin/lfm-nrw/Aktuelle_Forschungsprojekte/Informationskompetenz_in_Deutschland_August_09.pdf>
 
 Hochschulzentrum Nordrhein-Westfalen (o. J.): Forumoeb Infoseite. Online
 verfügbar unter
@@ -435,7 +435,7 @@ Ingold, Marianne (2005): Das bibliothekarische Konzept der
 Informationskompetenz. Ein Überblick. Institut für
 Bibliothekswissenschaft der Humboldt-Universität zu Berlin, Berlin.
 Online verfügbar unter:
-<http://www.ib.hu-berlin.de/\~kumlau/handreichungen/h128>
+<http://www.ib.hu-berlin.de/~kumlau/handreichungen/h128>
 
 Jaklitsch, Markus (2016): Informationsvisualisierung am Beispiel des
 Begriffs Informationskompetenz: Eine szientometrische Untersuchung unter
@@ -481,7 +481,7 @@ Das offene Bibliotheksjournal* 4 (4), S. 52--62. DOI:
 
 Wimmer, Ulla (2019): Wie viele Stellen im "Höheren Dienst" gibt es in
 Öffentlichen Bibliotheken? In: ProLibris 1/19. Online verfügbar unter:
-<https://www.bibliotheken-nrw.de/fileadmin/Dateien/Daten/ProLibris/2019-1\_ProLibris\_DS.pdf>
+<https://www.bibliotheken-nrw.de/fileadmin/Dateien/Daten/ProLibris/2019-1_ProLibris_DS.pdf>
 
 [^1]: IK beinhaltet dabei vor allem die Suche, Bewertung und Nutzung von
     Information. Eine detaillierte Darlegung der Begriffsdefinition von
