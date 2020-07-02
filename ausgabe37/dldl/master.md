@@ -1060,14 +1060,14 @@ vorzuzeigen haben. (ks)
 
 ### 5. Konferenzen, Konferenzberichte
 
-Jana Wildgans (2019). Zuckerbrot oder Peitsche? -- Ein Plädoyer für Open
+Julia Wildgans (2019). Zuckerbrot oder Peitsche? -- Ein Plädoyer für Open
 Access im juristischen Publikationswesen. In: *ZUM (Zeitschrift für
 Urheber- und Medienrecht)* (2019) 1: 21f., \[Paywall\],
 <https://doi.org/10.31228/osf.io/9z6xw> \[OA-Version\]  
 In ihrem Bericht zur Tagung "Open Access für die Rechtswissenschaft --
 Pflicht oder Privatsache?" (beziehungsweise jurOA-Tagung), die im
 Oktober 2018 am Exzellenzcluster Normative Ordnungen der
-Goethe-Universität Frankfurt/Main abgehalten wurde, verweist Jana
+Goethe-Universität Frankfurt/Main abgehalten wurde, verweist Julia
 Wildgans darauf, dass das offenbar ins Spiel gebrachte Argument für eine
 Verfassungswidrigkeit von Open-Access-Mandaten angesichts einer
 unzureichenden Infrastruktur mittlerweile nicht mehr trägt. Die
