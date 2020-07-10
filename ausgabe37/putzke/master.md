@@ -65,7 +65,7 @@ Auch einen differenzierten Blick auf den ***Wandel von Bibliotheken***
 hielte ich für lohnenswert. Es steht außer Frage, dass es in
 Öffentlichen Bibliotheken eine große Nachfrage nach elektronischen
 Beständen sowie Arbeitsplätzen und Aufenthaltsqualität gibt. Doch muss
-dies nicht zwingend zulasten von physischen Beständen gehen? Warum
+dies nicht zwingend zulasten von physischen Beständen gehen. Warum
 konkret geht die Ausleihe von physischen Medien zurück? Welche Faktoren
 spielen dabei eine Rolle? Welche Bestandsgruppen genau betrifft dies
 (also deutlich feingranularere Feststellungen als ein allgemeiner
