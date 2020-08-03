@@ -18,8 +18,7 @@ Kontakt: redaktion@libreas.eu
 
 - Ben Kaden M.A. (University Library / Humboldt-Universität zu Berlin)
     -- ben@libreas.eu
-- Maxi Kindling M.A. (Berlin School of Library and Information Science
-    / Humboldt-Universität zu Berlin) -- maxi@libreas.eu
+- Maxi Kindling M.A. (Open Access Office Berlin (Freie Universität Berlin) / Berlin School of Library and Information Science (Humboldt-Universität zu Berlin)) -- maxi@libreas.eu
 
 <!-- Redaktion -->
 
