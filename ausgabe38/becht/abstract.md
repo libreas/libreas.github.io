@@ -1,0 +1,9 @@
+**Kurzfassung**: Dieser Artikel unternimmt den Versuch, das Thema Pergament um einige Blickwinkel zu erweitern, die hauptsächlich die Tiere betreffen, aus deren Häuten dieser Beschreibstoff hergestellt wird bzw. wurde.
+Ein kurzer Abriss zum Herstellungsprozess dient dabei als Grundlage, die um eine ebenso knappe historische Entwicklungs- und Nutzungsgeschichte ergänzt wird.
+Anschließend werden einige nicht allzu ernst gemeinte quantitative Zahlenspielereien präsentiert, um die schiere Zahl der geschlachteten Tiere zu zeigen, die für die in den Altbeständen befindlichen Pergamentcodices notwendig gewesen sein müssten.
+Der zweite Hauptpunkt des Artikels ergänzt einige archäozoologische und agrarhistorische Aspekte zu den wichtigsten pergamentliefernden Tieren, also zu Schafen, Ziegen und Rindern, im deutschen Mittelalter.
+
+
+---
+
+**Abstract**: This article tries to offer a new perspective on parchment, mainly with regard to animals whose skins were, and sometimes still are, used to manufacture this writing material. A short outline of the manufacturing process serves as a basis and is complemented by a similarly short history of development and usage. Subsequently, some calculations, which should not be taken too seriously, may illustrate the huge number of animals that had to be slaughtered to produce enough parchment for all the codices in the older collections of our libraries. The second main topic is the animals who served as the main source for parchment during the German Middle Ages, namely sheep, goats and cattle. Therefore aspects of zooarchaeology and agricultural history are brought up here as well.

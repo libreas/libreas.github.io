@@ -1,0 +1,342 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage[babel]{csquotes}
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+\setcapindent{0pt} % no indentation in captions
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+% typo setup
+\clubpenalty = 10000
+\widowpenalty = 10000
+\displaywidowpenalty = 10000
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+\usepackage{breakurl}
+
+%meta
+%meta
+
+\fancyhead[L]{E. Hermann\\ %author
+LIBREAS. Library Ideas, 38 (2020). % journal, issue, volume.
+\href{http://nbn-resolving.de/}
+{}} % urn 
+% recommended use
+%\href{http://nbn-resolving.de/}{\color{black}{urn:nbn:de...}}
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/4.0/}{\color{black}Creative Commons BY 4.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{Naturschutzgebiet Bibliothek}}% title
+\author{Elisa Herrmann (MfN)} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={Naturschutzgebiet Bibliothek},
+      pdfauthor={Elisa Herrmann},
+      pdfcopyright={CC BY 4.0 International},
+      pdfsubject={LIBREAS. Library Ideas, 38 (2020).},
+      pdfkeywords={Bibliothek, Biodiversität, Biodiversity Heritage Library, Schädlinge, Insekten, Schimmelpilze, ausgestorbene Tierarten},
+      pdflicenseurl={https://creativecommons.org/licenses/by/4.0/},
+      pdfcontacturl={http://libreas.eu},
+      baseurl={http://libreas.eu},
+      pdflang={de},
+      pdfmetalang={de}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+\begin{abstract}
+\noindent
+\textbf{Kurzfassung}: Die Biodiversität in Bibliotheken ist oft erst auf
+den zweiten Blick erkennbar. In, zwischen und auf Büchern haben ganz
+besondere Arten ihre biologische Nische eingerichtet -- teils vom
+Menschen gewollt, teils ungewollt. Der Beitrag gibt einen Einblick in
+die Vielfalt an Organismen in Bibliotheken und die Rolle von
+Informationsinfrastrukturen zum Schutz von Flora und Fauna der Welt.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\noindent\textbf{Abstract}: Biodiversity in libraries is often only visible at
+second glance. Very special species have established their biological
+niche in, on and between books - partly wanted by humans, partly
+unwanted. This article provides an insight into the diversity of
+organisms in libraries and the role of information infrastructures in
+the protection of the earth's flora and fauna.
+\end{abstract}
+
+%body
+\enquote{Als Wüste werden die vegetationslosen oder vegetationsarmen
+Gebiete der Erde bezeich- \linebreak net.}\footnote{Wikipedia: Wüste.
+  \url{https://de.wikipedia.org/wiki/W\%C3\%BCste} (zuletzt aufgerufen
+  am 20.08.2020)} Ich zähle die Pflanzen im Hauptraum der Bibliothek:
+Ein alter Hibiskus, eine Grünlilie und ein Kaktus auf der Fensterbank.
+Trocken ist es hier auch. Und ein bisschen staubig. Und doch: So wie die
+Wüste lebt, so lebt auch die Bibliothek. Oftmals im Verborgenen bietet
+sie den Lebensraum für Organismen, die auf, zwischen und teilweise nur
+in den Büchern leben.
+
+Hinter den schweren Türen der Panzerschränke dokumentieren reich
+illustrierte und aufwändig kolorierte Rara-Bände die Tier- und
+Pflanzenwelt der Erde -- vermutlich sind hier mehr Arten zu sehen als im
+artenreichsten Zoo Europas. Auf jeden Fall gibt es in Bibliotheken Tiere
+zu sehen, die in keinem Tierpark zu bestaunen sind: Völlig
+selbstverständlich stehen Einhörner neben Nashörnern im
+Gessner,\footnote{Gessner, Conrad: Historiae animalvm. Digital verfügbar
+  in der Biodiversity Heritage Library.
+  \url{https://doi.org/10.5962/bhl.title.125499} (zuletzt aufgerufen am
+  20.08.2020)} fabelhafte Tierwesen verzaubern in Romanen und die 1976
+\enquote{entdeckte} Steinlaus (\emph{Petrophaga lorioti)} lebt im
+Pschyrembel\footnote{Pschyrembel Online: Steinlaus.
+  \url{https://www.pschyrembel.de/Steinlaus/K0LHT} (zuletzt aufgerufen
+  am 20.08.2020)} fort.
+
+Wen wundert es da, dass Bibliotheken Tiere als Schutzsymbol oder
+Maskottchen ausgewählt haben? Neben dem \enquote{Bücherwurm} sind es vor
+allem Eulen, die als Symbol der griechischen Göttin der Weisheit,
+Athene, zahlreiche Bibliotheken wie die Library of Congress zieren. In
+den vergangenen Jahren haben eher Vierbeiner zwischen den Regalreihen
+ihr Zuhause gefunden. Neben Therapiehunden vor allem über 300 offizielle
+Bibliothekskatzen.\footnote{Open Education Database: A Quick Guide to
+  Library Cats.
+  \url{https://oedb.org/ilibrarian/quick-guide-library-cats/} (zuletzt
+  aufgerufen am 20.08.2020)} Etwas exotischer fiel die Wahl der
+Haustiere in der Ernst Mayr Library des Museum of Comparative Zoology
+der Harvard Universität aus. \emph{Gromphadorhina portentosa,} eher
+bekannt als Madagaskar-Fauchschabe, kann von Studierenden an den
+Leseplatz ausgeliehen werden (im Terrarium), sollte Therapiehund Cooper
+in der benachbarten Countway Library mal ausgebucht sein. \footnote{Ernst
+  Mayr Library (2012): Library Pets.
+  \url{https://library.mcz.harvard.edu/blog/library-pets} (zuletzt
+  abgerufen am 20.08.2020)}
+
+So sehr wir bestimmte Arten verehren, um das Wissen in
+Bibliothekssammlungen (symbolisch) zu schützen, so sehr bemühen wir uns,
+andere Organismen aus den Räumen fernzuhalten. Schädlinge wie Nagetiere
+oder Wanzen ernähren sich gerne von pflanzlichen Materialien (Papier)
+und stellen eine Bedrohung für die Bestandserhaltung dar. Bislang ist
+noch keine Art bekannt, die ausschließlich in Bibliotheken lebt (im
+Gegensatz zu einer Spinne, deren einziger natürlicher Lebensraum das
+Finnische Naturkundemuseum ist\footnote{Nicholls, Henry (2016): The
+  museum filled with venomous spiders that just won't die.
+  \url{https://www.bbc.com/future/article/20160413-the-museum-filled-with-poisonous-spiders-that-just-wont-die}
+  (zuletzt aufgerufen am 20.08.2020)}), und doch gibt es Arten, die in
+Archiven und Bibliotheken einen paradiesischen Lebensraum gefunden
+haben, zum Beispiel der Papiersilberfisch (\emph{Ctenolepisma
+longicaudata}). Dieses synantrophe Tier ernährt sich fast ausschließlich
+von Papier und Karton indem es Zellulosen mit körpereigener Cellulase in
+Zucker zerlegt, der dann verdaut werden kann. Papier-Silberfische sind
+in ihrer Umgebung nicht sehr anspruchsvoll (Temperaturen zwischen 20 und
+24 Grad Celsius, trockene Umgebung, meidet Licht) und können bis zu 300
+Tage ohne Nahrung überleben -- ein Albtraum für das \emph{Integrated
+Pest Management}. Und wenn die Umgebung von trocken zu feucht wechselt
+und damit für den Papiersilberfisch unwirtlich wird, erobern
+(Schimmel-)Pilze das Biotop \enquote{Buch}.
+
+Weder \emph{Ctenolepisma longicaudata} noch Schimmelpilze werden von der
+International Union for Conservation of Nature (IUCN) auf der Roten
+Liste der gefährdeten Arten\footnote{IUCN, International Union for
+  Conservation of Nature: The IUCN Red List Of Threatened Species.
+  \url{https://www.iucnredlist.org/} (zuletzt abgerufen 20.08.2020)}
+geführt. Einige der Bücher, die sie bedrohen, enthalten jedoch Hinweise
+auf ausgestorbene, bedrohte oder vom Aussterben bedrohte Tiere, Pflanzen
+und andere Organismen. Als der berühmte Illustrator John Gould 1838
+seine Expedition nach Australien unternahm, dokumentierte er die
+eindrucksvolle Tierwelt des roten Kontinents. Auf über 180 Tafeln
+stellten sie Säugetiere, die ihnen auf der Expedition begegneten, in
+möglichst natürlicher Umgebung dar und publizierten diese mit
+Begleittexten im Werk \enquote{The Mammals of Australia}.\footnote{Gould,
+  John: The Mammals of Australia. Digital verfügbar in der Biodiversity
+  Heritage Library: \url{https://doi.org/10.5962/bhl.title.112962}
+  (zuletzt aufgerufen am 20.08.2020)} Aus heutiger Sicht dokumentiert es
+die schwindende Artenvielfalt Australiens. Die letzten Aufzeichnungen
+über das Wallaby wurden 1930 in Westaustralien verifiziert und 1956
+wurde das Mondnagelkänguruh für ausgestorben erklärt. Die einzige
+verbreitete Darstellung dieser Art ist die Goulds Abbildung in
+\enquote{The Mammals of Australia}.\footnote{Gould, John: Onychogalea
+  Lunata. In: The Mammals of Australia. Bd.2, Tafel LV. Digital
+  verfügbar in der Biodiversity Heritage Library.
+  \url{https://www.biodiversitylibrary.org/page/49740861} (zuletzt
+  abgerufen am 20.08.2020)}
+
+Letztlich kann man von Glück reden, dass die Art zumindest dokumentiert
+wurde. ExpertInnen gehen heute davon aus, dass lediglich 14\% der Arten
+auf dem Land und nur 9\% der Arten im Wasser bekannt sind.\footnote{Mora
+  et al.~(2011): How Many Species Are There on Earth and in the Ocean.
+  \url{https://doi.org/10.1371/journal.pbio.1001127} (zuletzt aufgerufen
+  am 20.08.2020)} Die Biodiversitätsforschung befindet sich also in
+einem Wettlauf gegen die Zeit und braucht starke Partner:
+Informationseinrichtungen. Bibliotheken und Archive bewahren das Wissen
+um die bisher bekannte Flora und Fauna der Erde und liefern so wichtige
+Grundlagen für Artbeschreibungen, Dokumentation des Klimawandels und
+Forschungsmethoden allgemein.
+
+Insbesondere in naturwissenschaftlichen Bibliotheken und Archiven
+eröffnet sich den Lesenden eine teils vergessene Tier- und Pflanzenwelt.
+Um den Zugang zu diesen Quellen für die Biodiversitätsforschung zu
+erleichtern, gründeten 2006 zehn Bibliotheken, Archive und
+Informationseinrichtung aus Naturkundemuseen, Botanischen Gärten und
+ähnlichen Einrichtungen das Konsortium der Biodiversity Heritage Library
+(BHL).\footnote{Biodiversity Heritage Library: History of BHL.
+  \url{https://about.biodiversitylibrary.org/about/history-of-bhl/}
+  (zuletzt aufgerufen am 20.08.2020)} Seither wurden über die BHL circa
+58 Mio. Seiten, aus 160.000 Titeln beziehungsweise 261.000 Bänden
+digitalisiert und open access zur Verfügung gestellt. Die mittlerweile
+20 Konsortiumsmitglieder,\footnote{Biodiversity Heritage Library: BHL
+  Consortium.
+  \url{https://about.biodiversitylibrary.org/about/bhl-consortium/}
+  (zuletzt aufgerufen am 20.08.2020)} darunter dem Museum für Naturkunde
+Berlin als einzige Institution aus dem deutschsprachigen Raum,
+engagieren sich zudem in Verlagsverhandlungen, um urheberrechtlich
+geschützte Literatur bereits vor dem Ablauf der Schutzfrist open access
+anzubieten.
+
+Neben der reinen Literaturbereitstellung werden die darin enthaltenen
+Informationen aufbereitet und mit Daten aus anderen Datenportalen,
+insbesondere aus dem Bereich Biodiversität, verlinkt. So sind die
+OCR-Volltexte in der BHL alle auf taxonomische Namen automatisch
+analysiert und mit den Einträgen in der Encyclopedia of Life verknüpft.
+Dies ermöglicht es zum einen die Artbeschreibung in ihrem historischen
+Kontext darstellen zu können und zum anderen bietet es Forschenden einen
+weiteren Zugang zu weiterführenden Information zu einer Art.
+
+Wie wichtig die freie Zugänglichkeit zu Biodiversitätsliteratur ist, hat
+die SARS-CoV-2-Pandemie in jüngster Zeit gezeigt. Wie in vielen anderen
+Bereiche unseres Lebens waren die gewohnten Wege nicht mehr gangbar --
+Archive und Bibliotheken eine Weile geschlossen. Die Versorgung von
+Forschenden, Studierenden, PädagogInnen und SchülerInnen mit
+wissenschaftlicher Literatur war nur über elektronische Ressourcen
+möglich und Open-Access-Bibliotheken wie die BHL haben schwere
+Einschnitte in der Literaturversorgung abgemildert. Zusätzlich zu ihren
+verschiedenen Tools und Services für die wissenschaftliche Arbeit,
+stellten das BHL-Konsortium Material zusammen, um den Fernunterricht
+durch kuratierte Sammlungen, Bildressourcen, aber auch Malbücher zu
+unterstützen. Die MitarbeiterInnen der BHL haben zudem stark an der
+Verbesserung des Zugangs zu den Sammlungen gearbeitet, indem sie die
+Metadaten für digitalisierte Bände und die darin enthaltenen
+Bildnachweise zu verbessern.
+
+Neben der Bewahrung des Wissens über die biologische Vielfalt engagiert
+sich der BHL auch aktiv für die Sensibilisierung der Öffentlichkeit für
+Naturschutzfragen. Gegenwärtig untersucht die \emph{Earth Optimism
+Campaign}\footnote{Biodiversity Heritage Library Blog: Earth Optimism
+  2020.
+  \url{https://blog.biodiversitylibrary.org/category/campaigns/earth-optimism-2020}
+  (zuletzt aufgerufen am 20.08.2020)} das Leben und die Arbeit von
+Personen, die entscheidend dazu beigetragen haben, den Naturschutz in
+Wissenschaft und Gesellschaft zu etablieren. Ursprünglich für April 2020
+geplant und wegen der SARS-CoV-2-Pandemie verschoben, wurde die Kampagne
+im Juli aufgenommen und wird bis Ende dieses Jahres 2020 wegweisende
+Literatur zum Naturschutz beleuchten.
+
+Wir haben gesehen, dass Bibliotheken für einige Tiere, Pflanzen und
+Organismen ein realer Lebensraum sind. Ausgestorbene Arten leben in den
+Büchern weiter und manche leben ausschließlich auf dem Papier. Sie
+engagieren sich (nicht nur) im Rahmen der Sustainable Development Goals
+(SDGs) der Vereinten Nationen\footnote{United Nations: The 17 Goals.
+  \url{https://sdgs.un.org/goals} (zuletzt aufgerufen am 20.08.2020)}
+für den Erhalt von Biodiversität und tragen so zu einem ökologischerem
+Bewusstsein bei. Bibliotheken sind daher gar nichts so weit weg von den
+Merkmalen von Naturschutzgebieten, die \enquote{\ldots{} aus
+wissenschaftlichen, naturwissenschaftlichen {[}\ldots{]} oder wegen
+ihrer Seltenheit, besonderen Eigenart oder hervorragenden Schönheit.
+\ldots{}}\footnote{Bundesnaturschutzgesetz (BNatSchG): §23
+  Naturschutzgebiete.
+  \url{http://www.gesetze-im-internet.de/bnatschg_2009/__23.html}
+  (zuletzt aufgerufen am 20.08.2020)} schützenswert sind.
+
+Dieser Artikel entstand mit großer Unterstützung von Constance Rinaldo,
+Librarian of the Ernst Mayr Library and Museum of Comparative Zoology
+Archives und Tomoko Y. Steen, Ph.D., Department of Microbiology and
+Immunology, Georgetown University.
+
+%autor
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{Elisa Herrmann}, M.A.~LIS, ist seit 2019
+Wissenschaftliche Leiterin der Bibliothekssammlung und
+Informationsversorgung am Museum für Naturkunde -- Leibniz-Institut für
+Evolutions- und Biodiversitätsforschung in Berlin. Der Schwerpunkt ihrer
+Arbeit liegt in der Entwicklung der Bibliothek als moderne
+Informationsinfrastruktur für die Forschung am Museum. Sie betreut im
+Rahmen der Sammlungserschließung des Museums die Retrodigitalisierung
+der Bibliotheksbestände und ist in diesem Zusammenhang auch an der
+strategischen Weiterentwicklung der Biodiversity Heritage Library
+beteiligt.
+
+\end{document}

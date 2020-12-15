@@ -1,0 +1,1 @@
+In einer neuen Kolumne wird Ben Kaden regelmäßig eine Ansichtskarte mit Bibliotheksbezug aus seiner Sammlung kurz vorstellen.

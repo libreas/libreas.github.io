@@ -1,0 +1,9 @@
+*.aux
+*.log
+*.out
+*.gz
+*.bak
+*.DS_Store
+*.toc
+*.py
+*.xlsx

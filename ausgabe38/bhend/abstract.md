@@ -1,0 +1,6 @@
+**Kurzfassung**: Mit dem Rückumzug der Buch- und Kartenbestände in die vollrenovierte Bibliothek Münstergasse in Bern wurde die Chance genutzt, das Schädlingsmonitoring vor Ort neu aufzugleisen. In diesem Artikel wird aufgezeigt und beispielhaft erklärt, worauf insbesondere zu achten ist und wie vorbeugende Massnahmen innerhalb eines IPM (Integrated Pest Management) aussehen können.
+
+
+---
+
+**Abstract**: With the moving of our archives into the Library Münstergasse in Bern after a major renovation, the opportunity has been used to reinstall a new pest monitoring on-site. This article shows the main factors for monitoring and preventive measures within an IPM-Program (Integrated Pest Management).
