@@ -1,0 +1,7 @@
+Der Beitrag thematisiert die mangelnden Kooperationen von deutschsprachigen Bibliotheken mit Sozialarbeiter\*innen beim Umgang mit dem Klientel der Wohnungslosen. Es werden Anregungen formuliert, in welcher Form dies für (öffentliche) Bibliotheken besser gelingen kann ist. Zudem wird anhand der Sozialen Arbeit in den Bibliotheken in den USA deutlich gemacht, dass durch die gezielte Nutzbarmachung der Fähigkeiten und Kenntnisse von Sozialarbeiter\*innen Bibliothekar\*innen entlastet werden können beziehungsweise durch Studiengänge wie etwa Library Social Work eine Symbiose entstehen kann. 
+
+::: center
+***
+:::
+
+This article refers to the lack of cooperation in germanspeaking libraries with social workers, in particular regarding homeless people. Suggestions, how and to what extent it may be useful for (public) libraries to work together, are formulated. By explaining how social workers collaborate in libraries in the USA, it discloses that the skills and the knowledge of social workers can contribute to the relief of librarians. Respectively study courses like Library Social Work can create a symbiosis of both professions. 
