@@ -1,0 +1,2062 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage[babel]{csquotes}
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+\setcapindent{0pt} % no indentation in captions
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+% typo setup
+\clubpenalty = 10000
+\widowpenalty = 10000
+\displaywidowpenalty = 10000
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+\usepackage{breakurl}
+
+%meta
+\expandafter\def\expandafter\UrlBreaks\expandafter{\UrlBreaks%  save the current one
+  \do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j%
+  \do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t%
+  \do\u\do\v\do\w\do\x\do\y\do\z\do\A\do\B\do\C\do\D%
+  \do\E\do\F\do\G\do\H\do\I\do\J\do\K\do\L\do\M\do\N%
+  \do\O\do\P\do\Q\do\R\do\S\do\T\do\U\do\V\do\W\do\X%
+  \do\Y\do\Z}
+%meta
+
+\fancyhead[L]{Redaktion LIBREAS\\ %author
+LIBREAS. Library Ideas, 38 (2020). % journal, issue, volume.
+{}} % doi 
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/4.0/}{\color{black}Creative Commons BY 4.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{Das liest die LIBREAS, Nummer \#7 (Herbst / Winter 2020)}}% title
+\author{Redaktion LIBREAS} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={Das liest die LIBREAS, Nummer \#7 (Herbst / Winter 2020)},
+      pdfauthor={Redaktion LIBREAS},
+      pdfcopyright={CC BY 4.0 International},
+      pdfsubject={LIBREAS. Library Ideas, 38 (2020).},
+      pdfkeywords={Literaturübersicht, Bibliothekswissenschaft, Informationswissenschaft, Bibliothekswesen, Rezension,literature overview, library science, information science, library sector, review},
+      pdflicenseurl={https://creativecommons.org/licenses/by/4.0/},
+      pdfcontacturl={http://libreas.eu},
+      baseurl={},
+      pdflang={de},
+      pdfmetalang={de}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+
+%body
+Beiträge von Ben Kaden (bk), Karsten Schuldt (ks), Michaela Voigt (mv),
+Eva Bunge (eb)
+
+\hypertarget{zur-kolumne}{%
+\section{1. Zur Kolumne}\label{zur-kolumne}}
+
+Ziel dieser Kolumne ist es, eine Übersicht über die in der letzten Zeit
+erschienene bibliothekarische, informations- und
+bibliothekswissenschaftliche sowie für diesen Bereich interessante
+Literatur zu geben. Enthalten sind Beiträge, die der LIBREAS-Redaktion
+oder anderen Beitragenden als relevant erschienen.
+
+Eine Themenvielfalt sowie ein Nebeneinander von wissenschaftlichen und
+nicht-wissenschaft\-lichen Ansätzen werden angestrebt. Traditionelle
+Publikationen sollen ebenso erwähnt werden wie Blogbeiträge oder Videos
+beziehungsweise TV-Beiträge.
+
+Hinweise auf auf erschienene Literatur oder Beiträge in anderen Formaten
+sind gern gesehen und können der Redaktion mitgeteilt werden (Siehe
+\href{http://libreas.eu/about/}{Impressum}, Mailkontakt für diese
+Kolumne ist
+\href{mailto:zeitschriftenschau@libreas.eu}{\nolinkurl{zeitschriftenschau@libreas.eu}}.)
+Die Koordination der Kolumne liegt bei Karsten Schuldt. Verantwortlich
+für die Inhalte sind die jeweiligen Beitragenden. Die Kolumne
+unterstützt den Vereinszweck des LIBREAS-Vereins zur Förderung der
+bibliotheks- und informationswissenschaftlichen Kommunikation.
+
+LIBREAS liest gern und viel Open-Access-Veröffentlichungen. Wenn sich
+Beiträge dennoch hinter eine Bezahlschranke verbergen, werden diese
+durch \enquote{{[}Paywall{]}} gekennzeichnet. Zwar macht das Plugin
+\href{http://unpaywall.org/}{Unpaywall} das Finden von legalen
+Open-Access-Versionen sehr viel einfacher. Als Service an der
+Leserschaft verlinken wir OA-Versionen, die wir vorab finden konnten,
+jedoch auch direkt. Für alle Beiträge, die dann immer noch nicht frei
+zugänglich sind, empfiehlt die Redaktion Werkzeuge wie den
+\href{https://openaccessbutton.org/}{Open Access Button} oder
+\href{https://core.ac.uk/services/discovery/}{CORE} zu nutzen oder auf
+Twitter mit
+\href{https://twitter.com/hashtag/icanhazpdf?src=hash}{\#icanhazpdf} um
+Hilfe bei der legalen Dokumentenbeschaffung zu bitten.
+
+\hypertarget{artikel-und-zeitschriftenausgaben}{%
+\section{2. Artikel und
+Zeitschriftenausgaben}\label{artikel-und-zeitschriftenausgaben}}
+
+Rose-Wiles, Lisa M. ; Shea, Gerard ; Kehnemuyi, Kaitlin (2020).
+\emph{Read in or check out: A four-year analysis of circulation and
+in-house use of print books}. In: The Journal of Academic Librarianship,
+46(4), 102157. \url{https://doi.org/10.1016/j.acalib.2020.102157}
+{[}Paywall{]}
+
+Für die Bibliothek einer kleineren, privaten Universität in New Jersey
+untersuchten die Autorinnen, wie sich die Nutzung von Medien in der
+Bibliothek im Vergleich zur Ausleihe selber entwickelte. Dabei sammelten
+sie über vier Jahre Daten (2015--2018) zu den Medien, die sich in
+Buchwägen zum Zurückstellen ansammelten. Es ist klar, dass so nicht die
+gesamte In-House Nutzung erfasst wurde, sondern Studierende bekanntlich
+auch selber Medien zurückstellen oder absichtlich verstellen können.
+Dennoch ergibt dies zumindest Vergleichswerte.
+
+Alle Nutzungsformen von Medien gehen dabei zurück, teilweise massiv: die
+Ausleihe von physischen Beständen, Nutzung In-House und auch die Nutzung
+elektronischer Medien. Am geringsten ist der Rückgang bei der Fernleihe.
+Einige der Tendenzen, die der Artikel beschreibt, sind wohl auf den
+lokalen und nationalen Kontext zurückzuführen.
+
+Hervorzuheben ist aber ein Ergebnis: Nachdem die Nutzung elektronischer
+Medien über lange Zeit stieg und es möglich war zu vermuten, dass die
+Nutzung von physischen Medien durch elektronische ersetzt würde (wogegen
+allerdings auch schon viele Studien zur konkreten Mediennutzung
+sprachen), ging in diesem Beispiel auch die Nutzung elektronischer
+Medien zurück. Es gibt also einen allgemeinen Rückgang der
+Mediennutzung, nicht einen für spezifische Medienformen. (In den Daten
+der Bibliotheksstatistiken im DACH-Raum zeigt sich dieser Trend noch
+nicht so eindeutig. Es wird aber interessant sein, ihn im Blick zu
+behalten.) (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Lund, Brady D. ; Waltson, Matthew (2020). \emph{Anxiety-uncertainty
+management theory as a prelude to Mellon's Library Anxiety}. In: The
+Journal of Academic Librarianship 46 (2020) 4, 102160,
+\url{https://doi.org/10.1016/j.acalib.2020.102160} {[}Paywall{]}
+
+Dieser Artikel scheint eine Nebenfrage zu behandeln, aber es geht am
+Ende tatsächlich um einen wichtigen Punkt. Das Thema
+\enquote{Bibliotheksangst} wird immer wieder einmal -- im DACH-Raum vor
+allem in Abschlussarbeiten -- behandelt. Es zählt nicht zu den
+meist-besprochenen Themen, aber es gibt ein ständiges Interesse an ihm.
+Anderswo werden immer wieder einmal Studien in Bibliotheken unternommen
+oder Projekte angegangen, Bibliotheksangst zu reduzieren.
+
+Lund \& Waltson diskutieren nun, welches Konzept von Angst hinter diesen
+Arbeiten stehen. Sie postulieren, dass vor allem psychologische Konzepte
+genutzt werden, welche diese Angst aus Prädispositionen der einzelnen
+Menschen erklären. Dies würde aber den Effekt haben, dass diese Angst
+als im Kern nicht veränderbar angesehen würde -- weder von den Personen
+noch von den Bibliotheken. Zudem würde der Blick weniger auf einzelne
+Personen und eher auf Gruppen gelegt (zum Beispiel im Sinne von
+Bibliotheksangst von Studierenden im ersten Semester). Stattdessen
+schlagen sie vor, \enquote{anxiety-uncertainty management theory} zu
+nutzen, mit der Informationsverhalten vor dem Hintergrund von
+Erwartungen und Erfahrungen einzelner Individuen erklärt wird. Auf
+Erwartungen und Erfahrungen sei viel besser einzugehen als auf mehr oder
+minder feste Charaktereigenschaften. Insoweit würde mit einem solchen
+theoretischen Wechsel auch ein Raum geschaffen für Bibliotheken, aktiv
+auf Bibliotheksangst zu reagieren. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Mazarakis, Athanasios; Bräuer, Paula (2020). \emph{Gamification of an
+open access quiz with badges and progress bars: An experimental study
+with scientists.} In: GamiFIN Conference 2020, Levi, Finland, April
+1--3, 2020. \url{http://ceur-ws.org/Vol-2637/paper7.pdf}
+
+Eine Studie mit 28 Wissenschaftler*innen in Deutschland ergab, dass der
+Einsatz von Bausteinen aus dem Game Design (Progress Bar, Badges)
+messbar zur Motivation zur Auseinandersetzung mit einem Thema, in diesem
+Fall Open Access, beiträgt. (bk)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Keller, Alice: „\emph{Lust ja, aber keine Zeit!": Publikationsverhalten
+von Bibliothekaren und Informationswissenschaftlern.} In: Bibliothek -
+Forschung und Praxis, 44(2), 231--245.
+\url{https://doi.org/10.1515/bfp-2020-0019}
+
+In ihrer Studie untersuchte Alice Keller die Gründe für das Phänomen,
+dass es zumindest im deutschsprachigen Raum eine Herausforderung
+darstellt, \enquote{Artikel für subskriptionsbasierte Zeitschriften der
+Bibliotheks- und Informationswissenschaften zu akquirieren}. Dabei
+pointiert der Titel des Aufsatzes bereits einen Teil des Ergebnisses.
+Ein anderer, von ihr ebenfalls benannter Grund, ist die hohe Zahl von
+deutschsprachigen Fachzeitschriften, die in Konkurrenz um einen
+vergleichsweise überschaubaren Pool an potentiellen Autor*innen stehen.
+Insgesamt flossen 468 Rückmeldungen auf die Umfrage in die
+SurveyMonkey-basierte Auswertung ein. Ein interessantes Ergebnis ist,
+dass das Publizieren von Artikeln für die eigene Entwicklung
+nachgeordnet erscheint, also im Umkehrschluss in diesem Berufsfeld nicht
+zwingend relevant für die Karriere ist. Wo geschrieben wird, geschieht
+dies oft aus einer inneren Motivation und mit dem Ziel der
+\enquote{allgemeinen Berufsentwicklung}. Festzuhalten sind weiterhin
+eine hohe Affinität zu Open Access, sowie der Trend, dass die
+Publikationsfreude mit zunehmendem Alter wächst, was die Autorin auf
+ungleich verteilte zeitliche Freiräume zurückführt. Dabei mag auch eine
+Rolle spielen, dass das Schreiben von Artikeln nur für einen Teil der im
+Berufsfeld Aktiven überhaupt zum Arbeitsprofil zählt. So lässt sich als
+alternatives Fazit zu \enquote{Lust ja, aber keine Zeit!} auch
+festhalten: Wer im deutschen Bibliothekswesen schreiben will, muss es
+also wirklich wollen und wer nicht will, kann dennoch Karriere machen.
+Ob dies auch für den Kernbereich der Bibliotheks- und
+Informationswissenschaft im wirklich wissenschaftlichen Sinn gilt,
+bleibt unklar, da die Auswahl des Samples die Zugehörigkeit zu einer
+wissenschaftlicher Community und der bibliothekarischen Fachcommunity
+nicht gesondert differenziert. (bk)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Andrae, M., Blumesberger, S., Edler, S., Ernst, J., Fiedler, S.,
+Haslinger, D., Neustätter, G. und Trieb, D. (2020)
+„\emph{Barrierefreiheit für Repositorien. Ein Überblick über technische
+und rechtliche Voraussetzungen}", Mitteilungen der Vereinigung
+Österreichischer Bibliothekarinnen und Bibliothekare, 73(2). S.
+259--277. \url{https://doi.org/10.31263/voebm.v73i2.3640}
+
+Barrierefreiheit geht alle an, auch Repositorienbetreiber*innen.
+Mitunter mag dieser Teilaspekt im Alltag hinten anstehen, wenn dieser
+vor allem aus inhaltlicher Betreuung (in Hinblick auf Contentakquise im
+Sinne von Steigerung des Open-Access-Outputs wie auch von (formaler und
+technischer) Qualitätssicherung), sachgemäßer Erschließung und
+technischer Weiterentwicklung des Repositoriums besteht. Andrae et al.
+arbeiten deutlich heraus, warum der barrierefreien Gestaltung von
+Repositorien (mehr) Aufmerksamkeit geschenkt werden sollte: Rechtliche
+Vorgaben sind das Eine, der eigene Anspruch beziehungsweise Wahrnehmung
+des eigentlichen Auftrags (Inhalte frei zugänglich machen, in der Regel
+nach den Prinzipien von Open Access) das Andere. Die Autor*innengruppe
+fokussiert, verständlicherweise, auf die Österreichische Rechtslage.
+Alle anderen Absätze dürften jedoch uneingeschränkt auch für
+Repositorienbetreiber*innen in anderen Ländern Relevanz entfalten und
+einen nützlichen Überblick über die zahlreichen Bereiche (Design,
+Guidelines und Hilfetexte, Sprache, Dateiformate und vieles mehr)
+darstellen, die bei der Überarbeitung in den Blick genommen werden
+sollten. (mv)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Garner, Jane (2020). \emph{Experiencing time in prison: the influence of
+books, libraries and reading}. In: Journal of Documentation 76 (2020) 5,
+1033--1050, \url{https://doi.org/10.1108/JD-07-2019-0128} {[}Paywall{]}
+
+Gefangene in Gefängnissen nutzen die Bibliothek und das Lesen vor allem,
+um Zeit zu überbrücken. Die Studie befragte eine Anzahl von Gefangenen
+in sieben Einrichtungen in verschiedenen australischen Bundesstaaten
+(und soll Teil einer grösseren Studie zur Bibliotheksnutzung in
+Gefängnissen in diesem Land sein). Das Ergebnis war eigentlich
+durchgängig gleich. Gefangene haben viel \enquote{unstrukturierte} Zeit,
+die sie aber nur eingeschränkt nutzen können, da ihnen nur wenige
+Freizeitmöglichkeiten zur Verfügung stehen. Garner betont mehrfach, dass
+dieses Ergebnis konträr zu anderen Studien wäre, welche die Nutzung von
+Öffentlichen Bibliotheken untersuchen würden. In solchen würde
+\enquote{Zeit rumbringen} als Grund für die Nutzung einer Bibliothek
+nicht vorkommen. (Anmerkung: In Studien zur Nutzung von Bibliotheken
+durch Menschen ohne festen Wohnsitz kommt dies aber schon manchmal vor.
+Diese werden von Garner nicht referiert.)
+
+In einem langen Teil des Textes schildert Garner die Bibliotheken in den
+Gefängnissen, die sie besucht hat. Es liest sich wie ein Versuch, die
+(bibliothekarische) Öffentlichkeit auf deren Zustand aufmerksam zu
+machen. Für ein so reiches Land wie Australien ist er nämlich
+beschämend. Nur eine der sieben Bibliotheken hat eine ausgebildete
+Bibliothekarin und einen festen Etat. Die anderen Bibliotheken werden
+von Gefangenen geleitet und haben fast nie einen Erwerbungsetat. Die
+Bestände bestehen vor allem aus Geschenken von Gefangenen selber. Der
+Zugang zu ihnen ist fast immer beschränkt. Während das Ergebnis von
+Garner ernstzunehmen ist, wären die von ihr beschriebenen Bibliotheken
+auch gar nicht in der Lage, andere Aufgaben (beispielsweise Bildung) zu
+unterstützen. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Rekdal, Ole Bjørn (2014): \emph{Academic Urban Legends}. In: Social
+Studies of Science 44 (2014) 4, 638--654,
+\url{https://doi.org/10.1177\%2F0306312714535679}
+
+Die Qualität wissenschaftlicher Forschung war zuletzt immer wieder
+Thema, sowohl in den Medien als auch im Fachdiskurs. Die
+Geschäftspraktiken der Predatory Publishers haben diesem Problem eine
+größere mediale Aufmerksamkeit beschert, aber die systematischen Effekte
+der \enquote{Publish-or-Perish}-Mentalität sind in Bibliotheken schon
+lange bekannt und haben nicht weniger einen Einfluss auf die Qualität
+(und Quantität) wissenschaftlicher Publikationen.
+
+Ole Bjørn Rekdal untersucht in seinem Aufsatz, welche Folgen ungenaue,
+fehlerhafte oder übereilte Zitate in wissenschaftlichen
+Veröffentlichungen auf den Forschungsprozess haben können. Er macht dies
+exemplarisch an der urbanen Legende fest, dass Spinat viel Eisen
+enthalten soll. Dabei stößt er auf eine Erklärung für die Entstehung
+dieser Legende, die sich aber wiederum selbst als (sich inzwischen
+selbst perpetuierende) Legende herausstellt.
+
+Rekdals Aufsatz ist sehr lesenswert geschrieben und auch sechs Jahre
+nach seiner Veröffentlichung noch äußerst relevant. (eb)
+
+\hypertarget{covid-19-und-die-bibliotheken-erste-welle}{%
+\subsection{2.1 COVID-19 und die Bibliotheken, Erste
+Welle}\label{covid-19-und-die-bibliotheken-erste-welle}}
+
+Wang, Ting ; Lund, Brady (2020). \emph{Announcement Information Provided
+by United States' Public Libraries during the 2020 COVID-19 Pandemic}.
+In: Public Library Quarterly, 39(4), 283--294.
+\url{https://doi.org/10.1080/01616846.2020.1764325}
+
+In einem der ersten wissenschaftlichen Texte, die sich auf die
+Aktivitäten (Öffentlicher) Bibliotheken während der COVID-19 Pandemie
+beziehen, zeigten Wang \& Lund welche Informationen von Public Libraries
+in den USA verbreitet wurden. Sie sammelten aus einer nach Grösse der
+Gemeinden gesteuerten Zufallsauswahl von Bibliotheken die jeweiligen
+Hinweise von deren Homepage zwischen dem 14.03. und 12.04.2020. Die
+Auswertung erfolgt auf der Basis früherer Studien zu übernommenen Rollen
+von Bibliotheken während realer Krisen. In diesen wurden schon
+verschiedene mögliche Rollen benannt. Die Frage war nun, welche in der
+Pandemie 2020 übernommen wurden.
+
+In der Auswertung zeigt sich, dass die meisten Bibliotheken vor allem
+darüber informierten, dass sie geschlossen hatten, dass Veranstaltungen
+ausfielen und welche Angebote trotzdem angeboten wurden. Rund die Hälfte
+der Bibliotheken vermittelte Hinweise zu Vorsichtsmassnahmen
+(insbesondere Hygiene- und Abstandsgebote). 69\,\% vermittelten Links zu
+vertrauenswürdigen Quellen für Gesundheitsinformationen und 53\,\%
+Hinweise zum Finden weiterer vertrauenswürdiger Quellen. Wang \& Lund
+postulieren, dass eine Information, welche durch die jeweilige
+Bibliotheksleitung gegengezeichnet wurde, mehr Gewicht hätte als
+Informationen ohne eine solche direkte Zuordnung. Bei 26\,\% der
+Bibliotheken fanden sie eine solche Unterschrift. Im Untersuchungsmonat
+veränderten einige Bibliotheken die Informationen, welche sie zur
+Verfügung stellten und zwar dahingehend, dass sie mehr Wert auf
+Informationen über sich selber (Schliessungen und Angebote) legten.
+Grundsätzlich lieferten Bibliotheken aus urbanen Gegenden mehr
+Informationen als solche aus suburbanen oder ländlichen Gemeinden. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Tammaro, Anna Maria (2020). \emph{COVID 19 and Libraries in Italy}. In:
+International Information \& Library Review, 52(3), 216--220.
+\url{https://doi.org/10.1080/10572317.2020.1785172}
+
+Die kurze Kolumne von Tammaro zur Arbeit von italienischen Bibliotheken
+während der COVID-19-Krise basiert auf einer zeitnahen Umfrage, bei
+denen 70 Einrichtungen -- eine eher kleine Zahl -- antworteten.
+Grundsätzlich ist das Bild aber, dass (auch) in Italien Bibliotheken
+nach der Schliessung der physischen Räume begannen, digitale Angebote zu
+machen. Vorhandene Angebote wurden beworben, Veranstaltungen im
+digitalen Raum organisiert. Es wurde versucht, auch gedruckte Medien
+zugänglich zu halten. Insbesondere wurde die Fernleihe aufrechterhalten
+und massiv genutzt. Tammaro berichtet, dass zumindest in den ersten
+Monaten die Nutzungszahlen der digitalen Angebote explodiert seien.
+
+Die Krise hätte die strukturellen Probleme der italienischen
+Bibliotheken aber auch sichtbarer gemacht: Eine ganze Reihe von
+Kolleg*innen, die prekär beschäftigt waren, verloren ihren Arbeitsplatz.
+Fehlende strategische Vorstellungen für die Weiterentwicklung
+bedeuteten, dass viele Bibliotheken jetzt in der Pandemie schnell
+Entscheidungen treffen mussten. Die massiven Unterschiede in Etat und
+Infrastruktur zwischen Norden und Süden Italiens seien ebenso spürbar
+geworden. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Walsh, Benjamin ; Rana, Harjinder (2020). \emph{Continuity of Academic
+Library Services during the Pandemic: The University of Toronto
+Libraries' Response}. In: Journal of Scholarly Publishing, e51404,
+\url{https://doi.org/10.3138/jsp.51.4.04} {[}Paywall{]}
+
+Während alle Bibliotheken in der COVID-19-Pandemie mit den gleichen
+Herausforderungen umzugehen hatten, haben bislang nur relativ wenige
+ihre Lösungen zusammenfassend dargestellt. Dieser Texte tut dies für das
+recht grosse Bibliothekssystem der University of Toronto. Die Lösungen
+sind wohl die, welche auch in anderen Bibliotheken zu finden waren:
+Umstellung auf Online-Lösungen, Anstieg des Beratungsbedarfs von
+Studierenden und Forschenden, mit denen umzugehen war, Ausweitung des
+Angebots von elektronischen Medien. Besonders ist vielleicht, dass die
+Bibliotheken der University -- die aufgrund der Grösse ihres Bestandes
+auch an gedruckten Medien für andere Bibliotheken ansonsten eine Basis
+für die Fernleihe darstellen -- auch begannen, E-Books in die Fernleihe
+zu geben. Die Fragen am Ende des Artikels, wie sich die Nutzung der
+elektronischen Medien und des Raumes der Bibliothek nach der Pandemie
+entwickeln werden, werden sich in allen anderen Bibliotheken stellen.
+(ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Craft, Anna R. (2020). \emph{Remote Work in Library Technical Services:
+Connecting Historical Perspectives to Realities of the Developing
+COVID-19 Pandemic}. In: Serials Review, 46(3), 227--231.
+\url{https://doi.org/10.1080/00987913.2020.1806658}
+
+Die Autorin dieser Kolumne, welche explizit im Frühjahr 2020 geschrieben
+wurde, nimmt die rasante Veränderung der Arbeit in vielen Bibliotheken
+hin zu remote work zu Beginn der Pandemie zum Anlass, einen Überblick
+zur schon vorhandenen Literatur zu solcher Arbeitsweise in Bibliotheken
+zu geben. Sie zeigt, dass Projekte und Überlegungen dazu schon in den
+frühen 1990er Jahren starteten und schon einiges an Wissen vorhanden
+ist. Gerade Katalogarbeit wurde schon länger von ausserhalb der
+Bibliothek erledigt. Bibliotheken hätten während der Pandemie auf diesem
+Wissen aufbauen können.
+
+Aus der Literatur erwähnt sie, dass remote work verändert, wie Aufgaben
+erteilt und erledigt werden, wie der notwendige Zeitraum für diese
+Aufgaben bestimmt wird und wie sie evaluiert wird. Zudem erwähnt sie,
+dass remote work Probleme wie das Gefühl von Isolation, die
+Notwendigkeit, remote in Teams zu kommunizieren sowie das Finden der
+richtigen Work-Life-Balance mit sich bringen. Für die Zeit nach der
+Pandemie ruft sie dazu auf, die Erfahrungen aus Bibliotheken mit remote
+work zu sammeln und zu diskutieren. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Yuvaraj, Mayank (2020). \emph{Global responses of health science
+librarians to the COVID-19 (Corona virus) pandemic: a desktop analysis}
+(Regular Feature: International Perspectives And Initiatives). In:
+Health Information and Libraries Journal, e12312,
+\url{https://doi.org/10.1111/hir.12321}
+
+In dieser Kolumne gibt die Autorin eine ganz kurze Übersicht von
+Initiativen von Bibliotheken im Bezug auf COVID-19, die auf Homepages
+von englisch-sprachigen Bibliotheksverbänden abgebildet wurden. Das ist
+wenig instruktiv -- es wurden Informationen und Flyer zu Massnahmen
+verbreitet, einige Bibliothekar*innen arbeitet weiter vor Ort, weil sie
+ihre Trägereinrichtungen unterstützen mussten -- und zeigt vor allem,
+dass während der Krisenzeit ein geschwinder Aktivismus herrschte. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Grassel, Allison (2020). \emph{Programming in Time of Pandemic: The Year
+Libraries Went Touchless}. In: Children and Libraries, 18 (2020) 3,
+\url{https://doi.org/10.5860/cal.18.3.3}
+
+Eine ganz kurze Übersicht darüber, wie einige Öffentliche Bibliotheken
+in den USA in den ersten Monaten der Pandemie reagierten, liefert diese
+Sammlung. Mit dabei: Storytime Online oder per Telefon, Herzen im
+Fenster, virtuelle Veranstaltungen, Einladungen zu Spaziergängen,
+Lieferung von Büchern. Viel Sympathisches, aber wenig über die konkrete
+Situation hinaus weisendes. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Garner, Jessica C. ; Logue, Natalie K. (2020). \emph{Navigating the
+COVID-10 slipstream: A case study on living and managing access services
+during a global pandemic}. In: Journal of Access Services {[}Latest
+Articles{]}, \url{https://doi.org/10.1080/15367967.2020.1818570}
+
+Dieser Text gibt einen umfassenden Überblick zur Arbeit der Bibliothek,
+genauer der \enquote{Access Services}, an der Georgia Southern
+University. Grundsätzlich hat die Bibliothek wohl das erlebt, was andere
+Bibliotheken auch erlebt haben: Schnelle Umstellung zur Lieferung von
+Medien per Post, hier ergänzt um Laptops, die auch von der Bibliothek
+verborgt werden. Umstellung auf Arbeit von Daheim. Probleme mit der
+Aufrechterhaltung der Fernleihe. Hervorzuheben ist, dass -- wenn auch
+weiter hinten -- auch die Belastungen für das Personal beschrieben
+werden.
+
+Die Situation ist am Ende des Text selbstverständlich noch nicht
+geklärt. Vorerst hat die Bibliothek wieder eingeschränkt geöffnet, aber
+weder die finanzielle Zukunft noch die Frage, ob, wann und wie sie
+wieder vollständig öffnet, ist geklärt. Dies müsste im Idealfall ein
+weiterer Text, nach der Pandemie, zeigen. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Kachan, Åsa (2020). \emph{Vulnerabilities exposed and the opportunity to
+respond: Reflections on public libraries in the time of COVID-19}.
+(Information Management Public Lectures) Halifax: School of Information
+Management, Dalhousie University, 06.10.2020,
+\url{https://www.youtube.com/watch?v=mNQAwgZrM8c}
+
+Kein Text, sondern ein öffentlicher Vortrag der CEO der Halifax Public
+Libraries darüber, was diese Bibliotheken während der Pandemie getan und
+entschieden haben. Die Übersicht ist umfassend, aber auch gefährlich:
+Kachan zählt alle möglichen Aufgaben auf, welche die Bibliotheken hätten
+und landet sehr schnell bei der Hilfe für Menschen ohne festen Wohnsitz
+oder mit wenig sozialem Kapital. Sie überhäuft die Bibliothek mit
+Aufgaben, die alle wichtig sind und doch erschlagen und die tatsächliche
+bibliothekarische Praxis zum Dienst an den Menschen überhöhen. Genau für
+solche Beschreibungen wurde das Konzept des Vocational Awe
+{[}\enquote{Berufliche Ehrfurcht}, vergleiche Ettarh, Fobazi (2018).
+Vocational Awe and Librarianship: the lies we tell ourselves. In: In The
+Library With The Lead Pipe, 10.01.2018,
+\url{http://www.inthelibrarywiththeleadpipe.org/2018/vocational-awe/}{]}
+geprägt. Dieses an Selbstüberhöhung grenzende Selbstbild der Bibliothek
+als inhärent gut, essentiell und unantastbar sogar zugleich zu
+übersteigerten Erwartungen auch an sich selbst, was sich in
+idealistischen Abstrichen an den Arbeitsbedingungen und teils auch in
+Überbelastungen bis zum Burn-Out niederschlägt.
+
+In diesem Zusammenhang gleichzeitig interessant und gefährlich ist das
+Konzept der Bibliotheken als \enquote{second responders}, die nicht --
+wie die \enquote{first responders} wie Feuerwehr oder medizinischer
+Notdienst -- sofort bei einer Katastrophe helfen, aber unmittelbar
+danach. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Roesner, Elke (2020).\emph{Viel Lärm um alles} -- \emph{ZB MED und die
+COVID-19-Pandemie: ZB MED unterstützt die Forschung rund um das
+Corona-Virus SARS-CoV-2}. In: Information. Wissenschaft \& Praxis 71
+(2020) 4: 195--198, \url{https://doi.org/10.1515/iwp-2020-2089}
+{[}Paywall{]}
+
+In ihrem Bericht von der Arbeit der ZB MED während der Pandemie schlägt
+Elke Roesner einen recht selbst-lobenden Ton an. Die ZB MED sei
+\enquote{als nationaler Information Hub für die überregionale
+Informationsversorgung zuständig} (Roesner 2020: 195) und hätte deshalb
+als \enquote{Zentrale Fachbibliothek so umfangreich wie nur irgend
+möglich am Laufen gehalten werden müssen} (Roesner 2020: 195). Sie
+beschreibt dann zuerst, wie an der ZB erst in einem Blog valide Quellen
+zur Pandemie gesammelt wurden, dann mit dem ZB MED COVID-19 Hub ein
+eigenes Angebot, inklusive Repository, dafür geschaffen wurde. Erst
+später beschreibt sie, wie kurzfristig für das Personal das Arbeiten im
+Homeoffice ermöglicht wurde und postuliert -- ehrlich gesagt, ohne es
+argumentativ hergeleitet zu haben --, dass die Krise gezeigt hätte, dass
+\enquote{Open Science {[}...{]} der einzig gangbare Weg in der
+Wissenschaft {[}ist{]}} (Roesner 2020: 197).
+
+Der Artikel ist vor allem für eine Haltung zu erwähnen, die vielleicht
+nach der Krise noch einmal breiter diskutiert werden muss: Die ZB MED --
+und viele andere Bibliotheken -- erklärten sich selber zu einer in der
+Krise wichtigen Institution, deren Arbeit unbedingt aufrecht erhalten
+werden musste. Ob das so war, ob die Nutzer*innen oder das Personal das
+überhaupt so sah, ist nicht klar. Darstellungen wie die von Roesner
+hinterlassen den Beigeschmack, als wären andere mögliche Positionen
+einfach unter der Behauptung begraben worden, als Einrichtung wichtiger
+zu sein als viele andere. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Barbian, Jan-Pieter (2020). \emph{Eine existenzielle Krise: Die Folgen
+der Corona-Pandemie für die Öffentlichen Bibliotheken am Beispiel der
+Stadtbibliothek Duisburg.} In: BuB 72 (2020) 7: 417--421 {[}gedruckt{]}
+
+Barbian schildert die Situation an der Stadtbibliothek Duisburg, deren
+Leiter er ist: Wie am Beginn der Krise Veranstaltungen abgesagt werden
+mussten, wie die Bibliothek geschlossen, dafür der Zugang zu digitalen
+Angeboten ausgeweitet und die digitale Anmeldung in der Bibliothek
+ermöglicht wurde. Auch, wie später der Bibliotheksdienst wieder langsam
+aufgenommen wurde. Im Gegensatz zu den vielen hier diskutierten Texten
+erwähnt Barbian auch die Sorgen um die Sicherheit der Mitarbeitenden,
+die sich in der Bibliothek gemacht wurden. (Das ist vor allem im
+Vergleich erstaunlich und sagt vielleicht auch etwas über den
+Stellenwert aus, das dem Wohlbefinden des Personals in unterschiedlichen
+Bibliotheken eingeräumt wird.) Weiterhin postuliert er, nachdem er die
+virtuellen Konferenzen des Jahres diskutiert hat, dass \enquote{nach wie
+vor der Grundsatz {[}gelte{]}, dessen Bestätigung wir in den vergangenen
+Monaten schmerzhaft erleben mussten: Wir alle sind und bleiben soziale
+Wesen.} (Barbian 2020: 421) Nachvollziehbar ist das allerdings aus
+seinen vorhergehenden, eher praxisorientierten Ausführungen nicht.
+
+Im einführenden Absatz des Textes stellt Barbian eine Reihe von Fragen:
+\enquote{Wie sind die Öffentlichen Bibliotheken mit dieser völlig
+neuartigen Herausforderung im Hinblick auf ihre Kunden umgegangen? Wie
+haben sich Mitarbeiter auf die grundlegende veränderten
+Rahmenbedingungen {[}...{]} eingestellt? Welche Konsequenzen hat
+{[}...{]} die Verlagerung der Angebote auf digitale Medien für den
+zukünftigen Bestandsaufbau? Was wird aus der in den vergangenen zehn
+Jahren vorangetriebenen Konzeption der Bibliothek als \enquote{Dritter
+Ort} {[}...{]}? Wie verläuft in Zukunft der Erfahrungs- und
+Meinungsaustausch im Bibliothekswesen {[}...{]} : alles nur noch
+online?} (Barbian 2020: 417) Diese Fragen beantwortet der Text nicht,
+aber es sind Fragen, die es lohnen würde, sie weiter zu diskutieren.
+(ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Ceynowa, Klaus (2020). \emph{Lessons from Lockdown: Was
+wissenschaftliche Bibliotheken aus der Corona-Krise lernen könn(t)en}.
+In: ZfBB 67 (2020) 3-4: 150--154.
+\url{https://doi.org/10.3196/1864295020673428} {[}gedruckt, Paywall{]}
+
+Beobachtungen in der Bayerischen Staatsbibliothek während der
+COVID-19-Pandemie verarbeitete deren Direktor zu einer Polemik über die
+Zukunftsvorstellungen Wissenschaftlicher Bibliotheken. Er konstatiert,
+dass die Vorstellungen einiger Bibliotheken -- konkret greift er die
+Sächsische Staats- und Landesbibliothek Dresden auf -- darauf hin zielen
+würden, den Bestand in den Hintergrund zu rücken und sich eher als
+\enquote{Dienstleister {[}...{]} rund um den Forschungskreislauf und des
+vielfältigen Vermittlers auf dem Feld der Wissenschaftskommunikation}
+verorten zu wollen. Demgegenüber hätte die Krise gezeigt, dass die
+Nutzenden vor allem Interesse an Beständen und an Lesesälen hätten.
+Gleich mit Beginn der Krise sei die Nachfrage nach den Beständen --
+sowohl gedruckten als auch online angebotenen -- gestiegen. So schnell
+als möglich wurde nach Wegen gesucht, Lesesäle wieder zu öffnen (mit
+Hygienekonzepten). Nach anderen Angeboten, also dem, was sonst als
+\enquote{zukunftsträchtig} gelten würde, sei praktisch nicht gefragt
+worden. \enquote{Es zeigt sich:} -- so das Fazit -- \enquote{Bestände
+und Sammlungen, seien sie analog oder digital, sind nach wie vor das
+Alleinstellungsmerkmal der wissenschaftlichen Bibliothek.}(Ceynowa
+2020:153). (ks)
+
+\hypertarget{neue-angebote-in-uxf6ffentliche-bibliotheken}{%
+\subsection{2.2 Neue Angebote in Öffentliche
+Bibliotheken}\label{neue-angebote-in-uxf6ffentliche-bibliotheken}}
+
+Nguyen, Linh Cuong (2020). \emph{The Impact of Humanoid Robots on
+Australian Public Libraries}. In: Journal of the Australian Library and
+Information Association, 69(2), 130--148.
+\url{https://doi.org/10.1080/24750158.2020.1729515} {[}Paywall{]}
+
+Eine ganze Reihe von Öffentlichen Bibliotheken schaffte in den letzten
+Jahren humanoide Roboter an oder plante dies zumindest. Texte und
+Informationen, die dazu im DACH-Raum publiziert wurden, waren eher etwas
+zurückhaltend mit konkreten Erfahrungen. Die Studie von Nguyen ist da
+konkreter: Es wurden Bibliothekar*innen in australischen Public
+Libraries interviewt, welche solche Roboter einsetzen, und
+Veranstaltungen mit diesen Robotern beobachtet und diese Daten dann
+zusammengefasst. Stellenweise liest sich der Text etwas sehr einseitig
+positiv. Auf mögliche Kritik wird zum Beispiel kaum eingegangen, Grenzen
+der Arbeit mit diesen Robotern tauchen eher indirekt auf. Er stellt eher
+die Meinungen und Verhaltensweisen derer da, welche von diesen Robotern
+überzeugt sind.
+
+Das einschränkend vermerkt benennt Nguyen vier Themen, für die die
+Roboter eingesetzt werden: (1) \enquote{Community builder}, also das
+Zusammenbringen von Menschen, (2) \enquote{Teacher}, das Anstossen von
+Interesse zum Lernen, (3) \enquote{Aide}, also zur Unterstützung bei
+einfachen Aufgaben, (4) \enquote{Challenger}, als Objekt, das
+Herausforderungen stellt, beispielsweise motiviert, neues Wissen (über
+Roboter und Programmieren) zu erwerben.
+
+Grundsätzlich werden die Roboter als Unterstützung anderer Aufgaben der
+Bibliotheken eingesetzt und motivieren vor allem, indem sie Unterhaltung
+bieten. Zudem unterstreicht auch Nguyen, dass der Einsatz dieser Roboter
+einen relevanten Arbeitsaufwand bedeutet. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Copeland, Andrea ; Yoon, Ayoung ; Zhang, Sheng (2020). \emph{Data Reuse
+Practices and Expectations for Data Resources and Services among Public
+Library Users}. In: Public Library Quarterly 2020 {[}Latest Articles{]}
+\url{https://doi.org/10.1080/01616846.2020.1773749} {[}Paywall{]}
+
+Dieser Artikel basiert auf einer Umfrage, die unter Nutzer*innen
+Öffentlicher Bibliotheken in Indiana durchgeführt wurde. Eher weniger
+Personen wurden befragt, der Kontext von Umfrage und Forschungsfrage ist
+eindeutig die USA. Die Ergebnisse lassen sich nicht übertragen. Aber die
+Annahmen, die hinter der Studie stehen, können Anregung für eine Debatte
+sein: Sollen Öffentliche Bibliotheken aktiv Daten anbieten? Sollten sie
+dabei beraten, diese zu finden, zu analysieren und aufzubereiten?
+Sollten sie diese Aufgabe übernehmen und die notwendigen Skills dazu zu
+vermitteln?
+
+Die Ergebnisse in dieser Studie deuten darauf hin, dass zumindest in den
+USA Daten -- nicht reine Texte, sondern zum Beispiel demographische
+Daten, empirische Daten über Schulen oder sozio-ökonomische Daten --
+weit häufiger von Nutzer*innen gesucht und verarbeitet werden, als
+erwartet wurde. Dabei schätzten die Befragten, dass sie selber leicht
+bis sehr überdurchschnittliche Kenntnisse darüber haben, wie Daten
+analysiert und aufbereitet werden. Gewünscht wurde vor allem eine
+Unterstützung bei der Suche von Daten. Gleichwohl schliessen die
+Autor*innen, dass Öffentliche Bibliotheken sich stärker dabei engagieren
+sollten, Nutzer*innen bei der Nutzung von Daten zu unterstützen und dies
+auch Teil ihrer Weiterbildungs- und Veranstaltungsangebote werden zu
+lassen.
+
+Wie gesagt lassen sich die Ergebnisse nicht einfach in den DACH-Raum
+übersetzen. Relevant sind die Fragen trotzdem, insbesondere auch die
+Hinweise, dass viele Nutzer*innen sich selber schon als Personen
+ansehen, die ausreichende Data Literacy haben, um andere Personen darin
+zu unterrichten (und deshalb nicht von der Bibliothek erwarten, dass
+diese dies auch anbietet) und dass Öffentliche Bibliotheken, wenn sie
+diese Aufgaben annehmen wollen, dies pro-aktiv angehen müssen, da
+hierfür tatsächlich weitergehende Kompetenzen notwendig sind, die nicht
+bei allen Bibliothekar*innen vorausgesetzt werden können. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Lenstra, Noah ; Campana, Kathleen (2020). \emph{Spending Time in Nature:
+How Do Public Libraries Increase Access?}. In: Public Library Quarterly
+{[}Latest Articles{]}
+\url{https://doi.org/10.1080/01616846.2020.1805996}
+
+Öffentliche Bibliotheken im DACH-Raum organisieren seit einigen Jahren
+kontinuierlich neue Angebote und Veranstaltungsreihen, welche die
+Aufgaben von Bibliotheken erweitern sollen. Stichworte wir Dritter Ort,
+Makerspace oder Bibliothekscafé sind in diesem Zusammenhang verbreitet.
+Dies scheint für viele Bibliotheken schon eine Veränderung zu sein.
+
+Mit Blick auf die Literatur gerade aus dem US-amerikanischen, aber auch
+australischen oder kanadischen Bibliothekswesen scheinen diese
+Entwicklungen aber langsam und wenig einfallsreich. Kolleg*innen in
+diesen Ländern besetzen immer wieder Themen (und zeigen auch oft, dass
+die Themen in anderen Bibliotheken schon Verbreitung gefunden haben,
+also keine reinen Ideen oder Hypes sind), die immer weiter ausgreifen.
+
+Diese Text hier argumentiert zum Beispiel, dass Bibliotheken einen
+Zugang zur Natur bieten sollten. Damit sind von der Bibliothek
+organisierte Spaziergänge, gemeinsames Gärtnern oder auch Seed Libraries
+gemeint. Im Text selber wird auch über eine Umfrage berichtet, die
+zeigt, dass solche Angebote in US-amerikanischen Öffentlichen
+Bibliotheken tatsächlich breit existieren. (Wobei \enquote{StoryWalks},
+ein organisierter Spaziergang, bei dem durch eine*n Bibliothekar*in
+gleichzeitig auf die Landschaft und ein Buch eingegangen wird, die
+verbreitetste Form darstellen.) Erstaunlich ist dabei nicht das Thema
+selber, sondern dass sich solche Themensetzungen immer wieder neu
+finden. Sie vermitteln zumindest den Eindruck einer, im Vergleich zum
+DACH-Raum, viel grösseren Dynamik. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Kelly, Laura ; Bolanos, Cinthya (2020). \emph{From Outreach to
+Translanguaging: Developing a Bilingual Storytime}. In: Children and
+Libraries, 18 (2020) 3, \url{https://doi.org/10.5860/cal.18.3.28}
+
+Die beiden Autorinnen berichten darüber, wie sie eine monatliche
+Spanisch-englische \enquote{Storytime} (eine Veranstaltung für Kinder,
+in denen gemeinsam gelesen, gesungen und gesprochen wird) in der Public
+Library in Memphis einrichteten und -- auf der Basis von systematisch
+gesammelten Rückmeldungen -- veränderten. Die Ergebnisse lassen sich
+vielleicht nicht vollständig in andere Sprachen und Kulturen übertragen,
+bieten aber eine Anregung für einen Prozess der ständigen Verbesserung.
+
+Kelly und Bolanos halten als Lessons Learned fest: (1) Eher langsamer
+vorgehen und weniger in einer Veranstaltung machen, dafür aber mehr Zeit
+haben, dass sich alle mit dem, was gelesen, gesungen und so weiter wird,
+beschäftigen, (2) regelmässig zwischen Englisch und Spanisch wechseln,
+auch manchmal Dinge zweimal sagen, lesen und so weiter, in beiden
+Sprachen, weil Bilingualismus in ihrem Fall heisst, beide Sprachen auf
+einmal zu benutzen, nicht voneinander getrennt, (3) Outreach
+beziehungsweise Werbung da machen, wo die Leute auch sind, in diesem
+Fall auf Facebook und über die Schulen, nicht -- wie am Anfang
+angenommen -- in Spanisch sprachigen Läden oder Restaurants. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\emph{Bibliotheque(s): Revue de l'Association des Bibliothécaires de
+France}. (2020) 100/101 (April 2020) {[}gedruckt{]}
+
+Die Zeitschrift des Verbandes der französischen Bibliothekar*innen
+publizierte Anfang diesen Jahres ihre 100ste (und 101ste) Ausgabe. Die
+runde Nummer wurde genutzt, um \enquote{mehr als 100} (genauer 178)
+Vorschläge dazu zu versammeln, was insbesondere Öffentliche Bibliotheken
+ändern können. Die Sammlung ist eklektisch, die Vorschläge werden je in
+Bild und sehr kurzem Text vorgestellt. Es geht darum,
+Bibliotheksangebote zu verändern, mehr aus dem Raum der Bibliothek
+herauszugehen und Angebote an anderen Orten (Institutionen, auf der
+Strasse, mobil) anzubieten, aber auch die Bibliothek ökologisch
+umzubauen und von Angebot und Personal her diverser zu machen (mit neuem
+Personal, der positiven Sichtbarmachung von Unterschieden). Im Gegensatz
+vielleicht zum Selbstbild vieler Bibliotheken zeigt sich hier, dass
+Bibliotheken (in Frankreich) ständig auch darüber nachdenken sich zu
+verändern. Selbstverständlich ist das Heft eine Möglichkeit für andere
+Bibliotheken, sich (wieder einmal) \enquote{Anregungen zu holen}.
+Interessant ist aber eher, wie sehr diese Sammlung eine eigentlich sehr
+aktive Bibliothekswelt zeigt. (ks)
+
+\hypertarget{uxf6ffentliche-bibliotheken-andere-themen}{%
+\subsection{2.3 Öffentliche Bibliotheken, andere
+Themen}\label{uxf6ffentliche-bibliotheken-andere-themen}}
+
+Spencer-Bennett, Kate (2020). \emph{Libraries in women's lives: everyday
+rhythms and public time}. In: Educational Review {[}Latest Articles{]},
+\url{https://doi.org/10.1080/00131911.2020.1803796}
+
+Wissen Bibliotheken, warum Menschen sie nutzen? Sicherlich entwickeln
+sie aktuell viele Vorstellungen davon, warum Menschen sie in Zukunft,
+wenn neue Angebote eingeführt sind, nutzen werden. Aber eigentlich
+wissen sie wenig darüber, wie sie im Alltag von Menschen verankert sind.
+Spencer-Bennett postuliert in dieser Studie, in welcher sie Frauen in
+Birmingham, UK, befragte, dass für diese die Bibliothek und der
+Bibliotheksbesuch Teil der alltäglichen \enquote{Rhythmen} sind. Sie
+greift dabei auf Henri Lefebvre zurück, der die Nutzung von Städten mit
+dem Konzept der Analyse von Rhythmen untersuchte und dabei die Bedeutung
+der alltäglichen Handlungen und Strukturen hervorhob. Das funktioniert
+sehr gut: Spencer-Bennett kann zeigen, dass die Bedeutung der Bibliothek
+zumindest für die Frauen, die sie befragte -- und die zum Teil gerade
+nicht aus der Mehrheitsgesellschaft oder dem Mittelstand stammen --
+darin liegt, dass diese Teil ihres Alltags ist. Es geht ihnen vor allem
+darum, sie regelmässig aufzusuchen, entweder als Teil der sinngebenden
+Struktur oder als Zeit und Ort, der sie von anderen Aufgaben für eine
+Zeit befreit. Die konkreten Angebote treten dabei zurück, der Besuch
+selber ist wichtig. Das Ergebnis hat praktische Relevanz, weil es einen
+Hinweis gibt, worauf zu achten wäre, wenn man Bibliotheken verändern
+will: Weniger auf die vorzeigbaren neuen Angebote und mehr auf die
+Frage, wie die Bibliothek sich in den Alltag der Menschen einfügt
+beziehungsweise einfügen könnte. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Kimmel, Sue ; Lancaster, Krystal (2020). \emph{Where are the Books about
+Trains? A Case Study Exploring. Reorganization of the Children's Section
+in a Small Public Library}. In: New Review of Children's Literature and
+Librarianship, 25(1--2), 20--32.
+\url{https://doi.org/10.1080/13614541.2020.1774267} {[}Paywall{]}
+
+Dieser Text ist zu empfehlen als Beispiel dafür, wie unterschiedlich
+Bibliothekssysteme und deren Entwicklung sein können und wie wenig das
+in den einzelnen Ländern bedacht wird. Inhaltlich geht es darum, wie in
+einer Kinderbibliothek in den USA der Bestand nach Interessenskreisen
+aufgestellt wurde (wie man im DACH-Raum sagen würde). Im Artikel wird
+beschrieben, wie dabei vorgegangen wurde und mit dem Begriff des
+\enquote{Boundary Object} sogar versucht, dies theoretisch zu
+reflektieren.
+
+Interessant ist dabei aber vor allem, dass das als neu besprochen wird.
+Obgleich der Text auch andere Beispiele aus den USA anführt, in denen
+die verbreitete Dewey Decimal Classification für andere
+Aufstellungssystematiken und -systeme verlassen wurde, scheint es für
+diese Bibliothek eine neue Erfahrung gewesen zu sein festzustellen, dass
+Nutzer*innen -- hier vor allem Kinder und Jugendliche -- sich mit dieser
+Systematik nicht immer zurecht finden und dass es andere Möglichkeiten
+der Aufstellung gäbe. Dies ist für Öffentliche Bibliotheken im DACH-Raum
+keine irgendwie neue Feststellung, vielmehr ist die Aufstellung des
+Bestandes nach Interessenskreisen so normal, dass sie kaum noch
+thematisiert wird. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Scott, Dani ; Saunders, Laura (2020). \emph{Neutrality in public
+libraries: How are we defining one of our core values?}. In: Journal of
+Library and Information Science (Online First),
+\url{https://doi.org/10.1177/0961000620935501} {[}Paywall{]}
+
+In diesem Text wird über eine Umfrage dazu berichtet, was
+Bibliothekar*innen in US-amerika\-nischen Bibliotheken unter
+\enquote{Neutralität} verstehen. Konkrete Fragestellung und Ergebnisse
+sind sehr US-amerikanisch, beispielsweise scheint schon bei den Fragen
+die Vorstellung durch, dass es zu Themen praktisch immer eine
+\enquote{liberale} und eine \enquote{konservative} Meinung gäbe, was
+sich ja auch im Parteiensystem der USA, aber nicht unbedingt dem in
+anderen Staaten, widerspiegelt. Zudem ist die Argumentation des Textes
+an Dokumenten der ALA orientiert, die nur für die USA Geltung haben.
+
+Interessant ist aber, dass die Studie davon ausgeht -- und auch zeigt,
+dass das stimmt --, dass \enquote{Neutralität} als Wert für Bibliotheken
+zwar stark diskutiert wird, aber das darunter auch in der
+bibliothekarischen Diskussion unterschiedliche Sachen verstanden werden.
+Die Ergebnisse der Umfrage, gerade die offenen Antworten, zeigen, dass
+unter Neutralität zumeist verstanden wird, \enquote{objektiv dabei zu
+sein, Informationen zu verbreiteten}, dass aber andere Verständnisse
+ebenso existieren und wohl die bibliothekarische Arbeit prägen.
+Gleichzeitig zeigen sie, dass von einer ganzen Anzahl von Antwortenden
+Neutralität als Mythos angesehen wird, der vor allem den Effekt hat, den
+Status Quo zu erhalten und der denen nützt, die gesellschaftlich eh
+schon ihre Sicht durchsetzen können.
+
+Die Autorinnen schliessen, dass eine Klärung, was überhaupt unter
+Neutralität verstanden wird, notwendig wäre, um die Diskussionen im
+Bibliothekswesen weiterzuführen. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Pontis, Devendra Dilip ; Winberry, Joseph ; Finn, Bonnie ; Hunt,
+Courtney (2020). \emph{What is innovative to public libraries in the
+United States? A perspective of library administrators for classifying
+innovations.} In: Journal of Librarianship and Information Science,
+52(3), 792--805. \url{https://doi.org/10.1177/0961000619871991}
+{[}Paywall{]}, \url{http://hdl.handle.net/1811/91766} {[}OA-Version{]}
+
+Ist es sinnvoll und notwendig, dass, was in Öffentlichen Bibliotheken
+\enquote{Innovation} genannt wird, zu klassifizieren? Die Autor*innen
+dieser Studie tun dies auf der Basis der vom Urban Libraries Council's
+vergebenen Preise für innovative Projekte US-amerikanischer
+Bibliotheken. Die Ergebnisse -- eine Kategorisierung in Program,
+Process, Partnership und Technology -- sind vielleicht nicht so spannend
+wie die Grundfrage: Was meinen Bibliotheken überhaupt, wenn sie
+\enquote{Innovation} sagen?
+
+Der Artikel diskutiert, dass Bibliotheken an sich immer wieder die
+Bedeutung von Innovation diskutieren, dass aber wenig darüber
+nachgedacht wird, was genau das heisst. Bislang hätten Überlegungen
+dieser Art vor allem darin bestanden, Kategorien von Innovation aus
+anderen Bereichen für das Bibliothekswesen zu adaptieren, was allerdings
+den Eindruck hinterliess, dass dies wenig Erkenntnisfortschritt gebracht
+hat. Die Studie soll auf der Basis tatsächlicher Projekte aus dem
+Bibliothekswesen eine neue, passendere Kategorisierung liefern. Dazu
+wurden die genannten Daten -- also ausgezeichnete Projekte -- analysiert
+und codiert. (Dies könnte man im DACH-Raum auch mit den bekannten
+Preisen für innovative Projekte im Bibliotheksbereich reproduzieren.)
+
+Aber dann, in der Diskussion dieser Ergebnisse, scheint nicht mehr klar
+zu sein, was diese neue Kategorisierung Bibliotheken genau bringen
+könnte: Weiss man so mehr, was Innovationen sind, wie sie durchgeführt
+werden, welche Sinn und Effekt die haben? Es wird behauptet, dass
+Bibliotheken den Artikel nutzen können, indem sie in diesem zitierte
+Beispiele anschauen -- aber das könnten sie auch so mit den Preisträgern
+machen, ohne Kategorisierung. Sicherlich: Eine Studie dieser Art
+erarbeitet neues Wissen und muss nicht sofort klären, wozu dieses Wissen
+später genutzt wird. Aber dennoch hinterlässt es einen unfertigen
+Eindruck, so, als wäre das Thema \enquote{Innovation in Bibliotheken}
+gar nicht zu fassen. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Lawrence, E.E. (2020). \emph{On the problem of oppressive tastes in the
+public library.} In. Journal of Documentation, 76 (2020) 5: 1091--1107,
+\url{https://doi.org/10.1108/JD-01-2020-0002} {[}Paywall{]}
+
+Soll bei der Beratung der Nutzer*innen immer deren Leseinteresse im
+Vordergrund stehen oder haben Bibliothekar*innen weitere Prinzipien zu
+beachten? Dieses Essay von E.E. Lawrence geht direkt die mögliche
+Konsequenz einer bibliothekarischen Praxis an, die vielleicht im
+DACH-Raum nicht so intensiv diskutiert und reflektiert wird wie in den
+USA, aber doch praktiziert wird: Die Empfehlung von Literatur durch die
+Bibliotheken.
+
+Lawrence referiert sehr richtig, dass Bibliotheken einst den Anspruch
+hatten, die Nutzer*innen dabei zu unterstützen, einen literarischen
+Geschmack zu entwickeln und sich \enquote{hinauf zu lesen}, aber dass
+dieser Anspruch aufgegeben wurde. Die Interessen der Nutzenden stehen
+seit Jahrzehnten im Zentrum der Beratungsaktivitäten, das Ziel ist es
+heute, das Lesen an sich zu fördern. Dies steht aber unter Umständen,
+wie Lawrence auch richtig bemerkt, im Widerspruch zu anderen Zielen, die
+Bibliotheken befördern wollen, insbesondere Demokratie und soziale
+Gerechtigkeit. Der Autor geht dies mit der Diskussion einer
+hypothetischen Nutzerin an, die gerne Romance Novels liesst, in denen
+die Handelnden Personen alle Weiss sind. Soll die Bibliothek jetzt den
+Anspruch aufgeben, Diversität zu befördern und dieser Nutzerin nur
+solche Bücher empfehlen?
+
+Lawrence löst dieses Problem, indem er -- angelehnt an feministische
+Kritik -- klar trennt zwischen den Interessen dieser Nutzerin.
+Einerseits wäre es vollkommen richtig, ihr Interesse an Romance Novels
+zu beachten, aber es wäre falsch \enquote{oppressive tastes}, hier
+Rassismus, zu unterstützen. Die Bibliothek soll nicht zum Lesen
+\enquote{guter Literatur} erziehen, aber sie kann den eigenen Anspruch,
+ein Ort der Demokratie und für alle zu sein, nicht einlösen, indem sie
+Vorlieben unterstützt, die gleichzeitig Unterdrückungsverhältnisse
+reproduzieren. Der Essay sagt noch nicht, was genau das praktisch
+heissen würde. Aber die Diskussion sollte auch im DACH-Raum aufgenommen
+werden. Es ist klar, dass nicht beides geht: Den Geschmack der
+Nutzer*innen einfach als gegeben annehmen und gleichzeitig eine
+offenere, diversere Gesellschaft repräsentieren zu wollen. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Cole, Natalie ; Stenström, Cheryl (2020). \emph{The Value of
+California's Public Libraries}. In: Public Library Quarterly {[}Latest
+Articles{]}, \url{https://doi.org/10.1080/01616846.2020.1816054}
+
+Der Grund, diesen Artikel zu besprechen, sind nicht die konkreten
+Ergebnisse, sondern die Fragestellung. Cole und Stenström beschreiben in
+ihm einen Ansatz, um den \enquote{Wert} von Öffentlichen Bibliotheken zu
+messen beziehungsweise nachzuweisen. Sie tun das, indem sie (a) zuerst
+ökonomische und soziale Werte trennen, dann (b) auf der Basis von
+Literatur, Daten und Interviews einen längeren Abschnitt dazu
+formulieren, wo die Bibliotheken in Kalifornien Einfluss hätten und dann
+(c) jede dieser Aussagen noch einmal argumentativ ausbreiten.
+
+Der Eindruck, den dieser Text hinterlässt, ist, dass man das alles schon
+mehrfach gelesen hat. Mit leicht anderen Foki und Daten, aber
+grundsätzlich ähnlich. So oft schon wurde versucht, den Wert von
+Bibliotheken nachzuweisen. Noch öfter hört man von Projekten, in denen
+das angestrebt wurde, die dann aber einschlafen, abgebrochen werden,
+keine Erwähnung mehr finden. Dieses Projekt sticht hervor, weil es
+beendet wurde. Aber die Frage, die es aufwirft, ist: Warum? Warum wird
+immer wieder nach dem \enquote{Wert der Bibliotheken} gefragt? Reichen
+die bisherigen Nachweise nicht? Wem reichen sie nicht? Sind sie nicht
+überzeugend? Oder wird so versucht, ein (angenommenes) Problem zu lösen,
+das vielleicht gar nicht existiert? Oder eines, das nicht so gelöst
+werden kann?
+
+Der Text vermittelt den Eindruck, dass es notwendig wäre, endlich einmal
+weiter zu gehen: Bibliotheken haben unterschiedliche positive Einflüsse.
+Das ist jetzt oft genug gezeigt und argumentiert worden. Was jetzt? (ks)
+
+\hypertarget{monographien-und-buchkapitel}{%
+\section{3. Monographien und
+Buchkapitel}\label{monographien-und-buchkapitel}}
+
+Killick, Selena ; Wilson, Frankie (2019). \emph{Putting Library
+Assessment Data to Work}. London: facet publishing, 2019
+
+Der Titel des Buches und auch das Vorwort verspricht zu diskutieren, wie
+Bibliotheken all die Daten, die sie über die Nutzung und die Interessen
+von Nutzenden schon sammeln, einsetzen können, um sich zu entwickeln.
+Das stimmt aber nicht. Vielmehr liefert das Buch, jeweils mit kurzen
+Einleitungen und dann \enquote{case studies} genannten Berichten aus
+einzelnen Bibliotheken, mit welche Methoden (nationale oder lokale
+Umfragen, Interviews und ähnliches) vor allem Bibliotheken aus
+Grossbritannien versuchen zu verstehen, welche Interessen ihre Nutzenden
+haben. Das eigentliche Thema, nämlich wie die Ergebnisse dieser Umfragen
+et cetera in die Arbeit der Bibliotheken umgesetzt werden, bleibt sehr
+skizzenhaft. Der Fokus liegt eher darauf, wie die Instrumente (also
+Fragebögen und so weiter) konstruiert und wie die Daten nachher
+dargestellt werden.
+
+Bestimmt ist das für Bibliotheken, die darüber nachdenken, auch ein
+regelmässiges Assessment einzuführen, eine hilfreiche Sammlung. Aber am
+Ende hinterlässt das Buch einen schlechten Eindruck: Nicht nur wird vor
+allem die Sammlung von Daten diskutiert, nicht ihre Nutzung. Es gibt
+auch keine Diskussion der Grenzen einen solchen Vorgehens. Weder werden
+die Grenzen der einzelnen Methoden bedacht noch diskutiert, ob die
+Vorstellung, dass, wenn man nur richtig fragen würde, die Nutzenden alle
+sagen würden, wie die Bibliothek \enquote{perfekt} werden kann,
+überhaupt stimmen kann. Es ist eine ganz eingeschränkte Sicht darauf,
+wie Bibliotheken funktionieren und wie Bibliotheksnutzung funktioniert
+-- eine, die von anderen Autor*innen wohl als neoliberal beschrieben
+würde.
+
+Interessant ist aus dem Vorwort zu lernen, dass es zwei Konferenzserien
+zum \enquote{Library Assessment} gibt: LibPMC -- International
+Conference on Performance Measurement in Libraries (seit 1995, eher in
+Grossbritannien, \url{https://libraryperformance.org/}) und Library
+Assessment Conference (seit 2006, in den USA,
+\url{https://www.libraryassessment.org/}). (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Henry, Jo ; Eshleman, Joe ; Moniz, Richard (2018). \emph{The
+Dysfunctional Library. Challenges and Solutions to Workplace
+Relationships.} Chicago: ALA Editions, 2018
+
+Henry, Jo ; Eshleman, Joe ; Moniz, Richard (2020). \emph{Cultivating
+Civility: Practical Ways to Improve a Dysfunctional Library.} Chicago:
+ALA Editions, 2020
+
+Die beiden Bücher von Henry, Eshleman und Moniz sind aufeinander
+bezogen. Das erste Buch schildert vor allem Probleme und ist dafür
+hervorzuheben, dass es zeigt, wie schlecht die Arbeitsbedingungen in
+einigen Bibliotheken (in der USA, aber wohl auch darüber hinaus) sind.
+\enquote{Dysfunctional} wird hier eine Bibliothek genannt, wenn die
+Arbeit das Personal krank macht, die persönlichen Beziehungen im
+Personal und zwischen Personal und Management unerträglich schlecht sind
+und die normale Arbeit dem Personal Angst macht. Es ist wichtig, dass
+dies angesprochen wird, auch um verständlich zu machen, dass dies kein
+Problem in einer Bibliothek ist, sondern in viel zu vielen Bibliotheken
+vorkommt. Es eröffnet die Möglichkeit, darüber nachdenken, was zu ändern
+wäre, damit die Bibliothek nicht dysfunktional ist.
+
+Das zweite Buch möchte Lösungen für diesen Zustand anbieten.
+Grundsätzlich wäre das zu begrüssen, aber am Ende verbleiben die
+Lösungen dabei, alle Beteiligten zu ermahnen, sich klar zu werden, wer
+sie sind und sein wollen, wer die anderen sind und was sie wollen und
+sich ansonsten zu bemühen, zivil miteinander umzugehen. Dazu werden
+viele, viele einzelne \enquote{Techniken} benannt -- also kleine
+Übungen, Strategien und so weiter. Richtig ist wohl, dass diese
+unterteilt werden in Techniken für Individuen, Teams, Führungskräfte und
+Organisation. Das alles hinterlässt aber einen unzureichenden Eindruck:
+So, als wäre alles nur eine Frage des Wohlverhaltens aller, nicht ein
+systematischen Problem. Irritierend ist, dass die Autor*innen sehr wohl
+mit aktueller, kritischer Literatur zum Bibliothekswesen und der Arbeit
+in ihm vertraut sind: \enquote{Vocational awe} wird genauso eingeführt
+wie Literatur zur Geschichte der Desegregation von Bibliotheken {[}siehe
+weiter unten in dieser Kolumne{]} und andere Themen. Das ganze Buch
+hinterlässt den Eindruck, bei allen guten Vorsätzen, sich nicht an
+Lösungen zu trauen, die über individuelle Verhaltensänderungen
+hinausgehen -- ein wenig, wie man sich den US-amerikanischen
+Liberalismus vorstellt: Nicht zum Beispiel die gewerkschaftliche oder
+gesellschaftliche Organisation soll eine Veränderung herbeiführen,
+sondern immer nur die einzelnen Individuen.
+
+Zu erwähnen ist aber auch, dass beide Bücher beim Verlag der ALA
+erschienen sind und dass damit der US-amerikanische Verband auch eine
+Position bezüglich der Arbeitskultur in Bibliotheken bezieht: Sie soll
+das Personal nicht kaputt machen und muss dafür auch erst einmal
+thematisiert werden. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Miles, Malcom (2015). \emph{Limits to Culture: Urban Regeneration vs.
+Dissident Art}. London: PlutoPress, 2015
+
+Mörsch, Carmen (2019). \emph{Die Bildung der A\_n\_d\_e\_r\_e\_n durch
+Kunst: Eine postkoloniale und feministische historische Kartierung der
+Kunstvermittlung} (Studien zur Kunstvermittlung; 2). Wien: Zaglossus,
+2019
+
+Diese beiden Bücher handeln gar nicht direkt von Bibliotheken (auch wenn
+der britische Public Libraries Act von 1850 jeweils erwähnt wird), aber
+sind doch relevant, weil sie den Einsatz von Kunst zur
+\enquote{Regenerierung} von Städten (Miles 2015) thematisieren
+beziehungsweise den Einsatz von Kunst zur \enquote{Hebung der unteren
+Schichten} seit dem 19. Jahrhundert (Mörsch 2019), beide mit einem Fokus
+auf Grossbritannien. Beide Themen sind miteinander verwoben -- und es
+sind solche, auf die sich Öffentliche Bibliotheken immer wieder
+beziehen, wenn sie sich zum Beispiel heute als Orte beschreiben, wo sich
+Communities bilden oder solche, die mit verschiedenen Angeboten Menschen
+erreichen wollen, \enquote{die sonst nicht in die Bibliothek kommen}.
+Beide Bücher zielen nicht auf Antworten, sondern problematisieren eher.
+(Miles betont sogar, dass er zu dem Teil der Universität gehört, die
+neue Fragen aufwerfen, nicht so dem, der gleich Lösungen bietet.)
+
+Mörsch zeigt, wie die Entwicklung von Kunstmuseen in Grossbritannien und
+die dazugehörige Pädagogik letztlich immer wieder der Idee folgte, den
+jeweiligen \enquote{Anderen} der britischen Gesellschaft zu erziehen,
+\enquote{emporzuheben} zu den Ideen des Mittelstandes. Auch, wie dies
+von ernsthaften Bemühungen gekennzeichnet war, nicht von Zynismus, und
+wie viele Mittel dafür eingesetzt wurden. Gleichzeitig zeigt sie aber
+auch, dass die Erfolge -- gemessen an der Idee, so eine ausgeglichene
+Gesellschaft zu schaffen, in der Widersprüche aufgehoben würden, ohne
+sie eigentlich anzugehen -- mindestens zweifelhaft sind, aber gleichwohl
+im Denken von Kunstmuseen immer wieder neue Gruppen zu \enquote{Anderen}
+erklärt wurden, an denen zu arbeiten sei. Der Misserfolg zeitigte also
+eher eine Weiterentwicklung, nicht ein Überdenken.
+
+Miles thematisiert Strategien, die eingesetzt werden -- oder wurden, er
+äussert immer auch, dass die Zeit langsam vorbei sei --, um Städte und
+Teile von Städten mittels Kunst und vor allem Kunstmuseen, die
+gleichzeitig partizipativ agieren und Communities bilden sollen, zu
+beleben. Einerseits zeigt er, dass diese Strategien eher Fragen als
+Lösungen aufwerfen. Insbesondere, dass viele dieser Museen und Projekte
+scheitern, ohne dass das Einfluss auf folgende Projekte zu haben scheint
+(so wird immer wieder das Guggenheim in Bilbao als Beispiel für
+gelungene Wiederbelebung gewählt, während die Stadt weiterhin eine
+sinkende Zahl an Einwohner*innen hat). Auch, dass immer wieder
+angeführte Beispiele für die Entstehung neuen Communities bei näherer
+Betrachtung gerade das nicht getan haben, sondern eher soziale
+Unterschiede verstärkt haben (das gilt für Agora genauso wie für Gärten
+in viktorianischen Städten). Warum wird das dennoch immer wieder als
+Begründung für die Neugründung von Museen oder partizipative Programme
+dieser Museen genutzt? Auch hier wäre es leicht, von Zynismus
+auszugehen, aber Miles zeigt in einem Kapitel, in welchem er Besuche zu
+solchen Museen schildert auch, dass manchmal ihre Architektur -- deren
+Grundsätzen moderne Bibliotheksbauten auch folgen -- absurd erscheinen,
+aber die Museen selber sich ernsthaft bemühen, die Kunst in ihnen
+tatsächlich oft gut ist und das Personal engagiert ist. Das ist nicht
+das Problem.
+
+Beide Bücher -- Miles noch mehr als Mörsch, die noch eher historisch
+argumentiert -- hinterlassen vor allem Fragen. Fragen zu Diskursen und
+Annahmen, die für Öffentliche Bibliotheken praktisch gleich gelten. Vor
+allem lernt man, wie wenig eigentlich gut begründet ist an solchen
+Diskursen, die Museums- und Bibliotheksarbeit heute prägen, wie viel
+davon aber auch Traditionen aufgreift, die unreflektiert reproduziert zu
+werden scheinen. Das ist bedenkenswert. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Wulf, Andrea (2012). \emph{Die Jagd auf die Venus: und die Vermessung
+des Sonnensystems}. München: Bertelsmann, 2012.
+
+Beim sogenannten Venustransit handelt es sich um eines der seltensten
+vorhersagbaren astronomischen Ereignisse. Dabei zieht der Planet Venus
+vor der Sonnenscheibe vorbei. Der letzte Venustransit war 2012, der
+nächste wird erst im Jahr 2117 erwartet. Für die Astronomen des 18.
+Jahrhunderts, die den Transit sowohl 1761 als auch 1769 beobachten
+konnten, war dies ein Ereignis von ungemeiner Bedeutung, denn es
+erlaubte es erstmals, die Entfernung der Erde von der Sonne zu
+bestimmen. Dafür war es jedoch nötig, viele Beobachtungen durchzuführen,
+die möglichst weit voneinander entfernt sein mussten. Also brachen aus
+ganz Europa Forschungsreisende in die entlegendsten Gebiete der Erde
+auf. James Cooks berühmte Reise, auf der er in Tahiti Halt machte und
+die Küsten von Neuseeland und Australien erforschte, war zur Beobachtung
+des Venustransits 1769 organisiert worden.
+
+Andrea Wulf erzählt in ihrem Buch die Geschichte dieser Forschungsreisen
+und die Anstrengungen zur Berechnung der Entfernung zur Sonne. Dabei
+erfährt man gleichzeitig sehr viel über eines der ersten europaweiten
+Forschungsprojekte, das seine Forschungsdaten über alle Ländergrenzen
+hinweg teilte und so zu einem Ergebnis kam. Forscher aus Großbritannien,
+Frankreich, Russland, Deutschland, Österreich, Skandinavien und anderen
+Ländern -- Katholiken, Jesuiten, Anglikaner und Protestanten --
+koordinierten ihre Aktivitäten und sammelten ihre Beobachtungen, um sie
+in der Summe auswerten zu können. Und dies, obwohl während des ersten
+Transits noch der Siebenjährige Krieg tobte und die Forscher auch nicht
+zuletzt durch gegenseitige Rivalität (sowohl persönlicher als auch
+nationaler Art) angetrieben wurden. (eb)
+
+\hypertarget{uxfcber-bibliotheken-und-gesellschaft-in-frankreich}{%
+\subsection{3.1 Über Bibliotheken (und Gesellschaft) in
+Frankreich}\label{uxfcber-bibliotheken-und-gesellschaft-in-frankreich}}
+
+Soulé, Véronique (2019). \emph{De squat en squat, une bibliothèque de
+rue}. Montreuil: Éditions Quart Monde, 2019
+
+Bibliothèques de rue -- Bibliotheken der Strasse -- sind in Frankreich
+nicht selten. Sie werden vor allem von Freiwilligenorganisationen
+angeboten, die Menschen in Armut, Sans Papiers oder ähnlich Entrechtete
+unterstützen. Dieses kleine Heft stellt eine dieser Bibliotheken aus
+Marseille vor, welche von der katholischen Organisation ATD Quart Monde,
+die sich gegen extreme Armut engagiert, angeboten wird. Es ist in deren
+Publikationsreihe erschienen, insoweit auch Darstellung der eigenen
+Arbeit nach aussen. Verfasst von einer Journalistin liesst es sich als
+Reportage.
+
+Grundsätzlich funktionieren bibliothèques de rue so, dass Freiwillige
+regelmässig dort, wo Menschen in Armut leben, vorbeikommen und gemeinsam
+mit den dortigen Kindern lesen. Dies passiert oft im Freien, auf Decken
+(daher der Name), offenbar auch verbunden mit Ritualen wie Anfangs- und
+Endliedern. Die vorgestellte Bibliothek ist basiert im lokalen Haus von
+ATD Quart Monde und folgt Familien von Roma, die keinen
+Aufenthaltsstatus in Frankreich erhalten und deshalb immer wieder -- mit
+Unterstützung durch die Zivilgesellschaft -- Häuser besetzen, um eine
+Wohnung zu haben. Diese müssen sie ebenso regelmässig verlassen, die
+Bibliothek folgt ihnen zu den neuen Wohnungen. (Daher der Titel des
+Buches, \enquote{squat} ist ein besetztes Haus.) Die Publikation setzt
+das als bekannt voraus und schildert in drei Teilen stattdessen, was bei
+den wöchentlichen Veranstaltungen geschieht, stellt eine Zahl von
+Freiwilligen vor und präsentiert die Sicht der Eltern, deren Kinder von
+dieser Einrichtung profitieren. Alles sehr positiv, was aber bei dieser
+Art von Publikation zu erwarten ist.
+
+Grundsätzlich interessant für das Publikum im DACH-Raum dürfte sein,
+dass diese Form von Unterstützung seit mindestens den 1980er Jahren in
+Frankreich etabliert ist -- auch in unterschiedlichen Formen,
+Zusammenhängen und Organisationsformen der Zivilgesellschaft. Diese Buch
+stellt nur eine dieser Bibliotheken vor. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Rose, José (2020). \emph{Des bibliothèques pour Marseille: en finir avec
+l'indolence}. Marseille: Éditions Gaussen, 2020
+
+Das Erstaunlichste an diesem Buch ist wohl, dass es überhaupt existiert.
+Der Autor ist weder Bibliothekar noch Journalist, sondern emeritierter
+Soziologie-Professor der Universität in Marseille und Mitglied der
+Vereinigung der Nutzer*innen der Öffentlichen Bibliotheken. Letztere
+versteht sich nicht unbedingt als Freundeskreis, sondern offenbar eher
+als Pressure-Group, welche die Mitbestimmung der Nutzer*innen an der
+Bibliotheksentwicklung sicherstellen will. Eine solche Gruppe gibt es im
+DACH-Raum wohl nicht. (Wohl deshalb ist es auch in einem Verlag, der vor
+allem lokale Literatur aus Marseille und Umgebung verlegt, publiziert.)
+
+Die Situation der Bibliotheken in Marseille wird hier als krisenhaft
+bezeichnet. Der Autor formuliert zuerst, warum Bibliotheken wichtig
+seien sowie dass und wie sie sich permanent verändern würden.
+Anschliessend stellt er die Situation in Marseille dar und im letzten
+Kapitel nennt er Entwicklungen, welche seiner Meinung nach notwendig
+wären. Dabei klingt er in grossen Teilen wie ein Propagandist der
+Bibliotheksverbände: Alle Themen, alle Stichworte, die sich über die
+Bedeutung und Entwicklung von Bibliotheken in den Papieren der Verbände
+finden, finden sich auch bei ihm wieder (das sind ähnliche wie im
+DACH-Raum, auch wenn die Bedeutung des Lesens und der Leseförderung
+sowie die Bibliothek als Ort der gelebten Demokratie in Frankreich noch
+eher hervorgehoben wird). Die Probleme in Marseille zeigt er anhand
+sinkender und, im Vergleich zu anderen Bibliothekssystemen in
+Frankreich, niedriger Nutzungs- und Etatzahlen. Zudem erwähnt er -- und
+vielleicht ist das Buch deshalb von ihm geschrieben worden, weil er in
+der Position ist, dies offener zu äussern -- interne Probleme: Die
+Leitung der Bibliotheken würde immer wieder ausgetauscht, die interne
+Kommunikation sei schlecht, das Personal würde immer wieder demotiviert.
+
+Dabei erfährt man aber auch, dass \enquote{Krise} immer relativ ist. In
+Marseille -- mit rund 860.000 Einwohner*innen -- gibt es neun
+Öffentliche Bibliotheken (im Buch noch acht, die neunte wurde im Oktober
+2020 eröffnet). Allein so ein Netz kann kaum eine Stadt im DACH-Raum
+vorweisen. Daneben gibt es aber weiterhin die Stiftung Office central
+des bibliothèques, welche 33 Quartierbibliotheken, 20
+Spitalbibliotheken, eine Kinderbibliothek und eine Ludothek (in einem
+Spital) betreibt sowie eine Association culturelle d'espaces lectures et
+d'écriture en Méditerranée, welche acht Lesesäle unterhält. Letztere und
+die Öffentlichen Bibliotheken betreiben auch viele Angebote ausserhalb
+der eigenen Räume, vor allem in Zusammenarbeit mit anderen
+Einrichtungen. (Die bibliothèque de rue aus Marseille, welche im weiter
+oben besprochen Buch vorgestellt wird, ist hier noch nicht mal erwähnt.)
+An Bücher oder Raum zum Lesen zu gelangen, scheint in Marseille nicht
+schwierig zu sein, auch wenn die Verteilung der Räume über die Stadt
+ungleichmässig und das Stadtzentrum bevorzugt ist.
+
+Der Autor des Buches verlangt trotzdem eine Entwicklung der
+Bibliotheken. Für ihn ist es vor allem eine Frage von Entscheidungen auf
+politischer Ebene, wie sich die Bibliotheken entwickeln können. Er
+fordert von der Politik einen klaren Plan zur Entwicklung der
+Bibliotheken, eine bessere Zusammenarbeit aller Akteur*innen sowie eine
+Beachtung von Entwicklungen im Bibliothekswesen anderer Länder. Bei
+letzterem ist er wenig innovativ: Geschaut werden soll nach Skandinavien
+und in die USA. Alle Konzepte und Begriffe, die im DACH-Raum aus diesen
+Ländern übernommen werden, werden auch bei Ihm aufgegriffen. Das
+erstaunliche an dieser Aufzählung ist, dass sie keine Lösung für die
+Probleme, die zuvor im Buch aufgezählt werden, darstellen. Der Dritte
+Ort, der zum Beispiel auch erwähnt wird, wird die internen Probleme der
+Bibliotheken, die der Autor als relevant erachtet, zum Beispiel nicht
+tangieren. Das Buch ist engagiert und man ist verwundert, dass sich
+jemand von ausserhalb des Bibliothekswesens so sehr für deren
+Entwicklung interessiert. Aber herausragend neue Ideen werden in ihm
+nicht entwickelt. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Bobis, Laurence (Hrsg.) ; Gouttebaron, Sylvie (Hrsg.) ; Alphant,
+Marianne ; Bergounioux, Pierre ; Durif, Eugène ; Farge, Arlette (2018).
+\emph{Des écrivains à la bibliothèque de la Sorbonne}. Paris: Éditions
+de la Sorbonne, 2018
+
+Bobis, Laurence (pres.) ; Gouttebaron, Sylvie (pres.) ; Cosnay, Marie ;
+Galea, Claudine ; Rebotier, Jacques ; Taillandier, Fanny (2019).
+\emph{Des écrivains à la bibliothèque de la Sorbonne - 2}. Paris:
+Éditions de la Sorbonne, 2019
+
+Die Bibliotheken der Sorbonne haben sich mit dem Literaturhaus in Paris
+(La maison des écrivains et de la littérature) zusammengetan und bislang
+zwei kleine Bücher herausgegeben, in welchem je vier
+Schriftsteller*innen einen Text über ein Buch aus diesen Bibliotheken
+publizieren sollen. {[}Anmerkung: Das dritte Buch dieser Reihe ist
+unterdessen offenbar auch erschienen.{]} Diese Texte entstehen in einem
+längeren Arbeitsprozess, bei dem die Schreibenden und die beiden
+Institutionen zusammenarbeiten und bei denen manchmal auch vom
+eigentlichen Thema abgeglitten wird. Das klingt sympathisch.
+Offensichtlich ist die Reihe darauf ausgelegt, jetzt jährlich zu
+erscheinen.
+
+Grundsätzlich lesen sich die Bücher schnell und vergnüglich je an einem
+Nachmittag weg. Einige Texte sind sehr spezifisch, da sie sich
+tatsächlich auf genau ein Buch beziehen (beispielsweise Arlette Farge
+auf eine autobiographische Beschreibung der Erziehung bei den Jesuiten
+im 17. Jahrhundert), andere beziehen sich auf das Lesen an sich
+(beispielsweise der Text von Marie Cosnay), wieder andere auf die
+Sorbonne selber (Pierre Bergounioux) oder die Unmöglichkeit, sich in
+diesen Bibliotheken nur ein Buch auszusuchen (Jacques Rebotier).
+Teilweise hat dies auch Längen, wenn das Thema nicht interessant
+scheint. Gleichzeitig bringen die Schreibenden ihre Kompetenzen ein:
+teilweise mit poetischer Sprache, teilweise mit doppeldeutiger oder sehr
+überlegter.
+
+Ein wenig hinterlassen die Bücher aber dann schon den Eindruck von
+Mitbringseln aus dem Souvenirshop für Literaturinteressierte, die beim
+Paris-Besuch nicht dabei waren -- schon solche, die der Rezensent gerne
+und dankend entgegennehmen (oder selber mitbringen) würde, aber auch
+solche, die wenig längerfristigen Eindruck hinterlassen. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Agié-Carré, Sophie (Hrsg.) (2018). \emph{Seniors en bibliothèque}
+(Collection Médiathèmes, 21). Paris: Association des Bibliothécaires de
+France, 2018
+
+Weniger beachtet, als es das Thema verdient hätte, hat sich in den
+Öffentlichen Bibliotheken in den letzten Jahren die Arbeit für
+Senior*innen einigermassen etabliert. Es kommt in der Realität wohl mehr
+vor als in der bibliothekarischen Literatur. Insoweit ist dieser
+Sammelband aus französischen Bibliotheken, der diese Arbeit auch einmal
+darstellt, notwendig. Er zeigt, dass es viele Bibliotheken gibt, die
+immer wieder ähnliche -- aber dadurch ja nicht weniger sinnvolle --
+Angebote für diese Altersgruppe machen. Im Band werden viele
+Einzelbeispiele dargestellt (wobei offenbar darauf geachtet wurde,
+Bibliotheken und Bibliothekssysteme mit verschiedenen Voraussetzungen,
+und gerade nicht nur aus Grossstädten, einzubeziehen). Umrahmt wird es
+von zwei allgemeineren Kapiteln, die in das Thema einführen und die
+Erfahrungen zusammenfassen. Kritisch ist zu sehen, dass viele Angebote
+defizitorientiert sind: Es wird davon ausgegangen, dass Senior*innen
+etwas fehlt (beispielsweise digitale Kompetenzen) und dass die
+Bibliotheken dieses fördern müssten. Die Interessen und das vorhandene
+Wissen von Senior*innen selber stehen weniger im Fokus. Im Grossen sind
+das Buch und die vorgestellten Angebote aus Bibliotheken relativ
+konventionell, was aber vielleicht auch zeigt, dass diese nicht
+unbedingt neu sein müssen, sondern vor allem gut für die angesprochenen
+Senior*innen. (ks)
+
+\hypertarget{bibliotheksgeschichte}{%
+\subsection{3.2 Bibliotheksgeschichte}\label{bibliotheksgeschichte}}
+
+Müller, Hans-Peter (2020). \emph{Umerziehung durch rote Bibliotheken:
+SED-Bibliothekspolitik 1945/46 bis zum Ende des 1960er Jahre}. Berlin:
+Simon Verlag für Bibliothekswissen, 2020
+
+Erklärtermassen soll sich dieses Buch mit der Bibliothekspolitik SBZ und
+DDR während eines Zeitraumes von 15 Jahren beschäftigen. Wäre das so,
+würde das Buch wohl einen Beitrag zur Bibliotheksgeschichte leisten, da
+diese Zeit und dieses Land bislang wenig -- aber auch nicht nie --
+beachtet wurden. Aber das tut es nicht. Vielmehr scheint der Autor
+gedanklich den Kalten Krieg immer noch nicht verlassen zu haben: Es
+scheint ihm eher darum zu gehen, die DDR und deren Bibliothekspolitik zu
+diskreditieren als eine kontextualisierte Geschichte zu präsentieren.
+Das führt am Ende trotzdem zu einigen Erkenntnissen und liefert auch
+eine gewisse Übersicht über einige bibliothekspolitische Prozesse. Aber
+letztlich ist es nicht hilfreich, um zu verstehen, was in diesen Jahren
+in diesem Land in Bibliotheken oder dessen Bibliothekspolitik passierte.
+
+Schon der Aufbau des Buches zeigt das Ziel: Das erste Drittel wird
+genutzt, um den Richtungsstreit im deutschen Volksbibliothekswesen in
+den 1910ern bis 1930ern sowie die Bibliothekspolitik im
+Nationalsozialismus zu schildern. Sicherlich muss bei
+Geschichtsschreibung ein Kontext geliefert werden, aber dieser hier ist
+gesucht: Es geht dem Autor darum, eine Kontinuität von der Position
+Walter Hoffmanns im Richtungsstreit über den Nationalsozialismus zur DDR
+zu zeigen und nicht zum Beispiel darum, die Entwicklungen von 1945 bis
+1960 so darzustellen, dass Entwicklungsrichtungen gezeigt würden, die
+auch genommen hätten werden können.
+
+Die Hauptthese des Autors ist, dass Hoffmann und die \enquote{neue
+Richtung} im Richtungsstreit eine extrem totalitäre Form der
+Bibliotheksarbeit etabliert hätten, an die dann im Nationalsozialismus
+angeschlossen und die dann auch in der DDR weitergeführt worden wäre.
+Eine Sache, auf die er dabei fokussiert, ist die \enquote{empfehlende
+Bibliographie} (Auswahllisten, die den Leser*innen vorgelegt wurden, um
+ihre Lektüre auf ein Ziel hin zu orientieren), die bei Hoffmann
+eingeführt worden sei, um die Leser*innen zu lenken und die dann im
+Nationalsozialismus und auch in der DDR weiter benutzt worden wären.
+Damit hätten die Bibliotheken nicht einen liberalen Zugang zu Medien
+gewährt, sondern Lektüre explizit gesteuert. Aber damit diese These
+irgendeinen Wert erhält, hätte sie getestet werden müssen: Ist die
+\enquote{empfehlende Bibliographie} tatsächlich etwas, was das
+Bibliothekswesen in Diktaturen auszeichnet? (Dieses Test wäre negativ
+ausgefallen. Sie wurden beispielsweise in der Arbeit katholischer
+Bibliotheken in Deutschland ebenso eingesetzt wie in Bibliotheken in
+anderen politischen Systemen.) Auch hätte der Kontext breiter gefasst
+werden müssen, insbesondere hätte die Bibliothekspolitik in der BRD
+geschildert werden müssen und die anderen Bibliotheksformen, die Anfang
+des 20. Jahrhunderts existierten, nicht nur die Volksbibliotheken. Nur
+dann wäre sichtbar, ob die Entwicklung in der DDR besonders (und
+diktatorisch, wie der Autor unterstellt) war oder nicht. (Dabei würde
+die These aber scheitern, weil die Kontinuität, die der Autor für das
+Bibliothekswesen in der DDR behauptet, zum Beispiel auch in der BRD
+vorhanden war.)
+
+Über weite Strecken nennt der Autor dann bibliothekspolitische
+Entscheidungen und referiert bibliothekarische Konferenzen, die in der
+SBZ und der DDR stattfanden und die, wie der Autor richtig bemerkt,
+selbstverständlich nicht dem Wissensaustausch dienten, sondern Versuche
+waren, Anweisungen über die Arbeit in Bibliotheken weiterzugeben. Er
+beschreibt sie als Zwang und Versuch, das Bibliothekswesen in der DDR
+dem in der Sowjetunion anzupassen. Abschliessend stellt er aber fest,
+dass die Entwicklung in der DDR sich viel mehr auf Traditionen des
+deutschen Bibliothekswesens bewegte, als das sie von aussen (hier von
+der Sowjetunion) beeinflusst worden wären. Das ist dann tatsächlich die
+relevante Erkenntnis, die zum Beispiel zu Fragen führen könnte, ob eine
+solche Pfadabhängigkeit auch in den Bibliothekswesen anderen Länder zu
+finden ist.
+
+Aber durch seinen Fokus, die DDR und deren Bibliothekssystem von
+vorneherein als diktatorisch zu beschreiben und in der Kontinuität mit
+dem Nationalsozialismus stellen zu wollen (was sich zum Teil bis in die
+Terminologie zeigt), schafft es der Autor kaum, tatsächliche
+Besonderheiten oder Entwicklungen, die spezifisch für der DDR wären,
+aufzuzeigen. Der Fokus auf \enquote{Bibliothekspolitik} führt dazu, dass
+vor allem der Ablauf von Regelungen, Gesetzen und Anweisungen
+geschildert wird.
+
+Ganz am Anfang erwähnt der Autor, dass 1964 schon ein Buch von Martin
+Thilo zum Bibliothekswesen in der SBZ/DDR erschien {[}Martin Thilo
+(1964). Das Bibliothekswesen in der sowjetischen Besatzungszone (Bonner
+Berichte aus Mittel- und Ostdeutschland). Bonn ; Berlin: Deutscher
+Bundes-Verlag, 1964{]}, welches schon einen guten -- wenn auch selber
+nicht von Polemik freien -- Einblick in dessen Entwicklung gibt. Das ist
+auch so. Letztlich hat der Autor diesem älteren Werk wenig hinzugefügt,
+das Buch von Thilo ist weiterhin eine bessere Quelle. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Wiegand, Wayne A. ; Wiegand, Shirley A. (2018). \emph{The Desegregation
+of Public Libraries in the Jim Crow South: Civil Rights and Local
+Activism}. Baton Rouge: Louisiana State University Press, 2018
+
+Dieses Buch zeigt zum ersten Mal in einem breiten Überblick für alle
+Südstaaten in den USA, wie die Öffentlichen Bibliotheken im Zuge der
+Bürgerrechtsbewegung Mitte der 1960er Jahre \enquote{integriert} -- also
+die Rassentrennung beim Zugang zu bibliothekarischen Diensten aufgehoben
+-- wurden. Sichtbar wird dabei, dass Bibliotheken explizit Teil dieser
+Geschichte sind, auch wenn zum Beispiel die \enquote{Integration} von
+Schulen mehr im Fokus der Geschichtsschreibung steht. Die
+Bürgerrechtsbewegung der 1960er hatte die Bibliotheken immer mit im
+Blick.
+
+Gleichzeitig zeigt die Übersicht auch, wie unterschiedlich die
+Integration lokal gehandhabt wurde, was ebenso nicht nur für
+Bibliotheken gilt: Teilweise waren Proteste und Sit-Ins notwendig, um
+die Integration zu erzwingen, die dann teilweise gewalttätig beantwortet
+wurden. Teilweise fand die Integration \enquote{still} statt, also ohne
+Proteste. Es hing immer von den lokalen Strukturen ab, insbesondere
+davon, wie stark der Rassismus in Politik, Verwaltung und
+Zivilgesellschaft verankert war.
+
+Nach einem einführenden Kapitel zur Bürgerrechtsbewegung und deren
+Aktionsformen im Allgemeinen geht das Buch jeden einzelnen südlichen
+Bundesstaat durch und präsentiert einzelne Fälle. Auch dabei zeigt sich,
+dass die Spannweite innerhalb eines Bundesstaats grösser war als
+zwischen ihnen. Oft werden Sit-Ins geschildert, die den Ausschlag zur
+Integration gaben: Fast immer Jugendliche, auch schon 13-Jährige,
+betraten die \enquote{weisse} Bibliothek und verlangten, dort Mitglied
+zu werden, was ihnen verweigert wurde. Dann setzten sie sich an Tische
+und begannen zu lesen, bis sie verhaftet wurden. Diese Proteste wurden
+dokumentiert und skandalisiert. Über kurz oder lang führten solche
+Proteste dazu, dass alle Bibliothekssysteme integriert wurden --
+teilweise über absurde Zwischenstufen, beispielsweise wurden oft für
+eine \enquote{Probezeit} Tische und Stühle entfernt, um zu schauen, ob
+eine Integration möglich wäre. In seiner Ansammlung liest sich das
+mitunter ermüdend, weil sich die Argumente, Strategien und Protestformen
+wiederholen. Aber selbstverständlich war jeder Protest notwendig, jede
+Teilnahme an einem solche Sit-In mutig und ist es somit auch richtig,
+diese sichtbar zu machen. Gleichzeitig versucht das Buch, die Geschichte
+der Desegregation der Bibliotheken mit der US-amerikanischen Geschichte
+zu verbinden: Wann immer jemand, die oder der später wichtige Posten in
+Parlament, Bundesgerichtshof oder anderen relevanten Institutionen
+eingenommen hat oder aber in der Bürgerrechtsbewegung aktiv war und
+gleichzeitig mit diesen Bibliotheken in Zusammenhang gebracht werden
+kann -- weil er oder sie an den Protesten beteiligt war oder durch diese
+Proteste Zugang zu Bibliotheken erhielt --, wird dies erwähnt. Dies
+hinterlässt teilweise den Eindruck, dass nur diese Personen, die später
+andere wichtige Positionen einnahmen, relevant gewesen wären. Zum Teil
+überschreibt damit der pädagogische Impetus leider die Geschichte der
+Personen, die lokal aktiv waren, aber nach dem Erreichen der Integration
+Karrieren machten, die nicht so beeindruckend klingen.
+
+Relevant für die heutige Zeit ist das letzte Kapitel, welches sich mit
+der Haltung der American Library Association beschäftigt: Es zeigt, dass
+die ALA sich praktisch nicht engagierte, zumindest nicht offiziell.
+Während sie sich in anderen Bereichen gegen Zensur einsetzte und in
+anderen Ländern mittels Bibliotheksprojekten Demokratie förderte,
+schwieg sie praktisch zur Segregation in den Südstaaten und nahm
+beispielsweise sowohl Verbände auf, die segregiert waren also auch
+solche, die integriert waren. Es waren bibliothekarische Publikationen
+ausserhalb des Verbandes, die das erst als Skandal thematisierten. Zudem
+gab es Bibliothekar*innen, die unter der Hand Hilfe anboten. Aber als
+Verband war die ALA tunlichst darauf bedacht, sich nicht zu engagieren.
+(ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Pettegree, Andrew ; der Weduwen, Arthur (2019). \emph{The Bookshop of
+the World. Making and Trading Books in the Dutch Golden Age}. New Haven;
+London: Yale University Press, 2019
+
+Diese umfassende Geschichte von Druckgewerbe und Buchhandel der
+Niederlande im 17. Jahrhundert baut auf zwei Argumenten auf: (1) Der
+rasante Aufstieg zur grössten Buchhandelsnation in diesem Jahrhundert
+basierte darauf, dass in den Niederlanden der Zwischenhandel -- also das
+Importieren und Exportieren von Druckwerken -- etabliert und damit eine
+internationale Rolle eingenommen wurde. Dies basierte auf einem grossen
+und schnell wachsenden heimischen Markt für Printprodukte, auf dem
+schnell das notwendige Kapital für die Etablierung dieses
+Zwischenhandels erwirtschaftet werden konnte. (2) Ein Grossteil dieses
+heimischen Marktes ist heute nur noch indirekt nachweisbar. Die heute
+noch vorhandenen Druckwerke aus den Niederlanden des 17. Jahrhunderts
+liefern ein falsches Bild davon, wie dieser Markt tatsächlich aussah.
+
+Das Buch beschreibt umfassend, immer eingebunden in die niederländische
+Geschichte selber, wie dieser Markt -- mit Druckereigewerbe, Buchhandel
+und angrenzenden Berufen -- wuchs und auch über Krisen hinweg lange eine
+gute Position behielt. Es beginnt mit der erfolgreichen Revolte gegen
+die spanische Herrschaft (1581) und endet mit dem 17. Jahrhundert
+selber. In dieser Zeit hätte sich die Niederlande zu einem Land mit weit
+verbreiteter Alphabetisierung entwickelt (aus religiösen Gründen, da der
+Pietismus darauf basierte, dass alle Menschen die Bibel auch tatsächlich
+lesen sollten; wegen der direkten staatlichen Förderung des auf Handel
+und moderne Wirtschaft setzenden Staates; aber auch wegen der rasant
+zunehmenden Verschriftlichung von Verwaltung und Herrschaft in den
+Gemeinden selber). Zudem hätte der wirtschaftliche Aufschwung zu mehr
+frei verfügbaren Kapital geführt, auch bei der normalen Bevölkerung, so
+dass überhaupt ein ausreichend grosser Markt entstehen konnte.
+
+Dies hätte dazu geführt, dass sich ein Markt für zahllose Druckwerke
+etablieren konnte, die zu einem grossen Teil ephemeren Charakter gehabt
+hätten: Zahllose Verlautbarungen des Staates, der Länder, der Gemeinden
+und so weiter, erste Zeitungen, politisch-religiöse Broschüren, die
+gerade in Krisenzeiten in grosser Zahl geschrieben und verbreitet
+wurden, Bücher für die wachsende Zahl an Schulen, religiöse
+Kleinliteratur (Liederbücher, Katechismen und so weiter),
+Selbsthilfebücher (Einführungen in die Mathematik, das Rechnungswesen,
+medizinische Ratgeber und so weiter) sowie billig produzierte
+literarische Werke, die sich die allgemeine Bevölkerung leisten konnte.
+Zudem etablierte sich schnell ein Second-Hand-Markt durch Auktionen.
+Diese ganzen Drucke lieferten, so die Argumentation, die finanzielle und
+infrastrukturelle Basis für grössere Projekte -- sowohl Druckprojekte
+als auch den erwähnten Zwischenhandel auf europäischer Ebene.
+Insbesondere die Druckereien plus diese zulieferenden Gewerbe (zum
+Beispiel für Stiche), die für diese ganzen \enquote{kleinen} Aufträge
+aufgebaut wurden, konnten dann erst die Meisterwerke der Druckkunst
+hervorbringen, welche uns heute noch in zahlreichen Ausgaben vorliegen.
+
+Was beide Autoren immer und immer wieder betonen, ist, dass die Werke
+der damaligen Zeit, die uns heute in Bibliotheken vorliegen, nicht die
+Werke sind, welche das hauptsächliche Publikationsaufkommen und die
+Nutzung von Druckwerken im 17. Jahrhundert in den Niederlanden
+ausmachten. Was auf uns überkommen ist, ist, was als sammelwürdig
+angesehen wurde. Vieles andere, was viel weiterer verbreitet war, ist
+fast vollständig verschwunden. Die Autoren zeigen dies immer wieder
+anhand von Werken, von denen uns aus späteren Auflagen noch ein Exemplar
+bekannt ist, von vorhergehenden Auflagen aber keines. Sie können auch
+immer wieder zum Beispiel aus Anzeigen oder Katalogen Hinweise auf Werke
+liefern, die heute gar nicht mehr vorliegen. An sich ist das nicht
+überraschend: Die Vorstellung, dass es Einrichtungen bräuchte, welche
+die gesamten Publikationen eines Landes sammeln müssten, etablierte sich
+bekanntlich erst Ende des 19. Jahrhunderts (und dann auch nie
+vollständig). Pettegree und der Weduwen zeigen noch einmal, dass deshalb
+eine umfassende Geschichte von Mediennutzung einer Epoche nur auf der
+Basis der Werke, die uns aus der Zeit zuvor überkommen sind, nicht
+möglich ist. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Kuttner, Sven ; Kempf, Klaus (Hrgs.) (2018). \emph{Buch und Bibliothek
+im Wirtschaftswunder: Entwicklungslinien, Kontinuitäten und Brüche in
+Deutschland und Italien während der Nachkriegszeit (1949-1965).}
+(Beiträge zum Buch- und Bibliothekswesen, 63) Wiesbaden: Harrassowitz
+Verlag, 2018
+
+Dieser Band versammelt Beiträge, die auf einer Tagung des Wolfenbütteler
+Arbeitskreises für Bibliotheks-, Buch- und Mediengeschichte von
+Autor*innen aus Deutschland und Italien gehalten wurden. Es ist eine
+sehr bunte Sammlung und zumindest in diesem Band -- vielleicht nicht auf
+der Tagung selber -- wurde leider versäumt das Potential, die
+Entwicklung in zwei Ländern zu vergleichen, zu nutzen. Die Beiträge
+stehen lose nebeneinander, ohne Bezug aufeinander zu nehmen oder auch
+nur inhaltlich das Gleiche zu behandeln, so dass auch ein indirekter
+Vergleich schwierig ist. Das Themenfeld ist sehr breit, was ebenso zum
+Eindruck einer gewissen Beliebigkeit beiträgt. Der Band beginnt mit
+einem Artikel (Christof Dipper), welcher diskutiert, ob der Begriff
+\enquote{Wirtschaftswunder} überhaupt für beide Staaten anzuwenden ist.
+Als Kontext ist das begrüssenswert, aber leider geht der Artikel selber
+nicht auf Buch- und Bibliothekwesen ein, gleichzeitig ist es der
+einzige, der wirklich einen Vergleich angeht.
+
+Ansonsten sind die Beiträge auf Einzelfragen fokussiert. Für sich selber
+sind viele -- aber nicht alle -- interessant, einige sehr tiefgehend
+(beispielsweise Annemarie Kaindl und Maximilian Schreiber zum Plan, in
+München Staats- und Universitätsbibliothek in einem Gebäude
+zusammenzuführen), andere reissen eher oberflächlich längerfristige
+Entwicklungen an (beispielsweise Birgit Dankert zum Öffentlichen
+Bibliothekswesen in Deutschland, beginnende Ende der 1940er, aber ended
+bei Debatten, die auf die 1970er und 1980er vorausdeuten). Zudem
+konzentrieren sich, wie der Titel andeutet, die Autor*innen entweder auf
+das Bibliothekswesen oder das Buchwesen, beziehungsweise jeweils auf
+Teile davon. Der Rezensent fühlt sich inhaltlich nicht in der Lage, die
+Beiträge zum Buchwesen zu bewerten. Gleichwohl ist der interessanteste
+des Bandes, von Christine Haug zu Leihbuchromanen und
+Leihbuchroman-Verlagen, gerade aus diesem Bereich. Haug zeigt, dass auch
+der Bereich von \enquote{kommerziellen Leihbüchereien} und dem dort
+vertriebenen Lesestoffen einer historisch-kritischen Analyse bedarf und
+nicht einfach aus der Geschichte von Buch- und Bibliothekswesen
+ausgeschlossen oder gar, wie in den 1950ern noch üblich, als
+\enquote{Massenware} abgewertet werden darf.
+
+Für den Bibliotheksbereich hervorzuheben sind die Beiträge von Klaus
+Kempf, Jürgen Badendreier und Sven Kuttner, die alle drei jeweils die
+Debatten innerhalb der Wissenschaftlichen Bibliotheken in Deutschland in
+den späten 1940ern und 1950ern darstellen. Diese seien, so Kempf, kein
+Neuanfang gewesen, sondern dem Impetus des \enquote{Wiederaufbaus}
+verpflichtet gewesen: Es wurde an die konservative Kulturkritik der
+1920er und 1930er Jahre angeschlossen, die einen Unterschied zwischen
+\enquote{Geistigem} und \enquote{Materialismus} postulierte. Der
+Nationalsozialismus wurde als Ergebnis des Materialismus, der
+Massenkultur und der zu wenigen Bildung bezeichnet. Mit naheliegenden
+Fragen (beispielsweise der Verstrickung des Bibliothekswesens mit dem
+nationalsozialistischen Regime oder der Frage, ob nicht gerade diese
+Kulturkritik mit den Nationalsozialismus überhaupt ermöglicht hätte)
+wurde sich nicht beschäftigt. Auswirkungen hatte das dahingehend -- so
+alle drei Autoren --, dass die Universitätsbibliotheken vor allem Wert
+auf die Vollständigkeit des Bestandes legten, Forschung als langsame
+Tätigkeit imaginierten und so auch den Zugang zum Bestand gestalteten.
+Die Interessen von Studierenden und Forschenden wurden so nicht bedient.
+Deshalb -- so wieder alle drei -- wuchs die Bedeutung von Zweig-,
+Fakultäts-, Instituts- und andere Spezialbibliotheken, die von den
+Lehrstühlen selber getragen wurden und unabhängig von den
+Universitätsbibliotheken agierten. Erst die Universitätsneugründungen
+sowie der Generationenwechsel im Bibliothekswesen in den 1960ern und
+Akteure von ausserhalb des Bibliothekswesens erzwangen in den 1960ern
+und 1970ern eine Änderung. Die Beiträge verweisen implizit sehr richtig
+darauf, dass zum Beispiel Vorstellungen davon, wie Wissenschaft, Bildung
+und Lesen funktioniert, nicht einfach innerbibliothekarische Debatten
+sind, sondern konkrete Auswirkung auf die Form und Funktion von
+Bibliotheken und deren Nutzung haben.
+
+Der Band enthält zahlreiche Beiträge zum italienischen Bibliotheks- und
+Buchwesen. Die Beiträge sind im Italienischen belassen worden und
+jeweils durch einen englischen Abstract ergänzt. Letztere sind leider
+manchmal schwer zu lesen und hinterlassen den Eindruck, in Grammatik und
+Wortschatz sehr vom Italienischen geprägt zu sein. Inhaltlich stellen
+diese Beiträge vor allem Übersichten dar, beispielsweise zur Entwicklung
+des italienischen Öffentlichen Bibliothekswesen oder des
+Bibliotheksverbandes. Dabei halten sich die Autor*innen oft eng an
+offizielle Quellen und liefern wenig Quellen- oder andere Kritik. Sie
+zeichnen vor allem das Bild einer stetigen, wenn auch steinigen,
+Entwicklung hin zum heutigen Zustand. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Wiederkehr, Ruth (2018). \emph{Lesen, schreiben, beten, heilen. Die
+Bibliothek des mittelalterlichen Klosters Hermetschwil} (Murensia; 6).
+Zürich: Chronos Verlag, 2018
+
+Eine ganze Anzahl Klöster oder Stiftungen, welche die Geschichte
+aufgehobener Klöster lebendig erhalten, geben Publikationsreihen zu
+dieser Geschichte heraus. Wieder in einer ganzen Anzahl dieser Reihen
+werden dann auch Hefte zur jeweiligen Bibliothek oder Büchern aus dieser
+veröffentlicht, was folgerichtig ist, schliesslich waren (und sind)
+diese Bibliotheken ein wichtiger Ort des Klosterlebens und
+repräsentierten Teile der eigenen Identität. {[}In der letzten Nummer
+dieser Kolumne wurde schon eine andere dieser Publikationen
+besprochen.{]}
+
+Das Kloster Hermetschwil (Kanton Aargau), dessen mittelalterliche und
+frühneuzeitliche Bibliothek Thema der Publikation von Ruth Wiederkehr
+ist, besteht weiterhin. Die Sammlung wurde nicht, wie in vielen anderen
+Fällen, mit der Reformation oder einer staatlich dekredierten Aufhebung
+des Klosters beendet. Zudem wurde nicht, wie in anderen Fällen, nur die
+Auswahl einer Bibliothek überliefert, aus der ephemere Werke entfernt
+wurden. Sie enthält deshalb relativ viele Bücher für den alltäglichen
+Gebrauch -- private Predigtensammlungen, Heilbücher und so weiter --,
+die in anderen Fällen wohl nach ausgiebiger Benutzung vernichtet wurden.
+Alle die Bücher dieser Bibliothek aus dem 12. bis 16. Jahrhundert sind
+digitalisiert auch bei e-codicies einzusehen (vergleiche Suche nach
+\enquote{Hermetschwil, Benediktinerinnenkloster} in
+\enquote{Library/Collection} unter
+\url{https://www.e-codices.unifr.ch}).
+
+Wiederkehr geht deswegen in ihrer Publikation auch weniger auf die
+Materialität oder Ausgestaltung der Bücher ein, wenngleich das Heft
+reich bebildert ist. Vielmehr konzentriert sie sich darauf, sehr
+lebendig die Benutzung von Büchern im Kloster darzustellen. Es geht mehr
+um ihren Inhalt, vor allem der \enquote{Kleinschriften}, und das
+eigentliche Klosterleben, wie es sich aus diesen rekonstruieren lässt.
+Das alles basiert auf reichhaltiger Forschungsliteratur, ist aber
+durchaus für die breite Öffentlichkeit dargestellt. (ks)
+
+\hypertarget{social-media}{%
+\section{4. Social Media}\label{social-media}}
+
+Twitter: \#ShowYourBibOutift,
+\url{https://twitter.com/hashtag/ShowYourBibOutfit?f=live}
+
+Ein Trend, bei dem wir uns ehrlich gesagt fragen, ob wir einfach zu alt
+dafür geworden sind oder ob wir es einfach \enquote{don't get it}, der
+aber offenbar bei einer Anzahl Kolleg*innen beliebt ist, ist, unter dem
+Hashtag \#ShowYourBibOutfit Fotos von sich selber zu posten und dabei zu
+zeigen, in welcher Kleidung man in der Bibliothek arbeitet. Hier und da
+gibt es kulturelle Anspielungen, selbstverständlich viele T-Shirts mit
+Verweisen auf das Lesen. Grundsätzlich scheint viel Legeres getragen zu
+werden. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Gutknecht, Christian: \emph{Der Schweizer 57 Mio EUR Elsevier Deal},
+13.08.2020,
+\url{https://wisspub.net/2020/08/13/der-schweizer-57-mio-eur-elsevier-deal/}.
+
+Herb, Ulrich: \emph{Open Access Transformation in Switzerland \&
+Germany}, 19.08.2020,
+\url{https://scidecode.com/2020/08/19/open-access-transformation-in-switzerland-germany/}.
+
+57 Million Euro, so viel zahlen die Schweizer Hochschulen für den
+zunächst auf vier Jahre ausgelegten Vertrag mit Elsevier, der das Lesen
+sowie das Open-Access-Publizieren in Elsevier-Zeitschriften regelt.
+Gemeinhin werden solchen Konstrukte als
+Open-Access-Transformations\-ver\-träge bezeichnet, geht es doch -- so
+zumindest das erklärte Ziel der Forschungseinrichtungen samt
+Bibliotheken -- um die sukzessive Überführung von Zeitschriften in ein
+Open-Access-Geschäftsmo\-dell. Dass der Schweizer Elsevier-Vertrag ein
+Open-Access-Transformationsvertrag ist, daran lässt das erste Resümee
+von Christian Gutknecht Zweifel aufkommen. Gutknecht legt die wunden
+Punkte (niedrige Anzahl de facto Open Access publizierter Artikel und
+für diese eine niedrige Quote an \enquote{echter}
+Open-Access-kompatibler Lizenzierung mit CC BY, Fortführung von double
+dipping, mangelnde Transparenz über Kosten für einzelne Schweizer
+Einrichtungen) und schließt nahezu resignativ mit: \enquote{Man hat sich
+nun mit dem Geld 30\,\% OA bei Elsevier gekauft. Für die 100\,\% die
+swissuniversities bis 2024 erreichen will, muss aber noch sehr viel
+passieren.}
+
+Wenige Tage später nahm Ulrich Herb einen Vergleich des Schweizer
+Elsevier-Deals mit den deutschen DEAL-Verträgen für Wiley und
+SpringerNature vor: Er stellt die Eckdaten dieser drei Verträge vor
+sowie Details wie Standardlizenz, berechtigte Artikel und Kosten
+gegenüber und arbeitet abschließend Ähnlichkeiten und Unterschiede
+heraus. (mv)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+TU Berlin -- Architekturmuseum: Videoblog \enquote{\emph{Sehstücke}},
+\url{https://architekturmuseum.ub.tu-berlin.de/index.php?p=659}
+
+Wie können Museen (oder auch andere auf Ausstellungsformate
+ausgerichtete Kultureinrichtungen) in der Pandemie-bedingten Zeit lang
+anhaltender Schließung beziehungsweise Nutzungseinschränkung ihre
+Bestände zugänglich machen? Digitalisierung, klar, das ist naheliegend,
+und vielerorts bereits erfolgt. Doch geht da noch mehr?
+\enquote{Sehstücke} heißt die Reihe, in der das Architekturmuseum der TU
+Berlin seit Mai 2020 im zweiwöchentlichen Rhythmus besondere Werke aus
+dem eigenen Bestand präsentiert: In Videos von circa fünf Minuten werden
+Detailaufnahmen der Objekte gezeigt und Details beziehungsweise Kontext
+zum Werk geliefert. (mv)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Springville Public Library: \emph{LOL * Social Distancing and Cleaning
+at Springville Public Library}, YouTube 02.05.2020,
+\url{https://youtu.be/HY2PkpIcbQo}
+
+Warum haben Bibliotheken eigentlich wegen Covid-19 geschlossen? Die
+Bibliothekar*innen der öffentlichen Bibliothek in Springville haben die
+hygienischen Bedenken szenisch umgesetzt. (mv)
+
+\hypertarget{konferenzen-konferenzberichte}{%
+\section{5. Konferenzen,
+Konferenzberichte}\label{konferenzen-konferenzberichte}}
+
+\emph{2020 Virtual Library Publishing Forum} (Library Publishing
+Coalition), 4.--8. Mai 2020,
+\url{https://librarypublishing.org/library-publishing-forum/}
+
+Die Library Publishing Coalition ist eine vor allem, aber nicht nur, in
+den USA und Kanada basierte Vereinigung von Bibliotheken, welche
+gleichzeitig als Verlage agieren. Die Zahl derer, die im Verzeichnis der
+Coalition aufgeführt werden
+(\url{https://librarypublishing.org/directory-year/directory-2020/} --
+ohne vollständig zu sein) ist, angesichts dessen, dass die damit
+zusammenhängenden Aufgaben in der bibliothekarischen Literatur kaum
+besprochen werden, erstaunlich hoch: Offenbar betätigen sich
+Bibliotheken in diesem Bereich.
+
+Die im Mai 2020 aus bekannten Gründen digital durchgeführte Konferenz
+ist anhand zahlreicher Videos und Folien nachzuvollziehen, leider nicht
+die Diskussionen zu den Vorträgen. Auffällig ist, dass davon wieder
+viele erste Ergebnisse oder Überlegungen präsentieren und dass
+gleichzeitig weiterreichende Themen aus dem Bereich Open Access (zum
+Beispiel APCs) besprochen wurden. Trotzdem ist sie ein Hinweis darauf,
+dass auch dieses Thema gemeinsam mehr besprochen werden könnte, als dies
+bisher der Fall ist.
+
+Hervorzuheben für die LIBREAS -- weil es uns als Redaktion irgendwie
+auch betrifft -- sind das Projekt von Sarah Severson und Jessica Lange
+\enquote{Documenting labour in Canadian, independent scholarly journal
+publishing} (bei dem jetzt schon klar ist, dass die meisten unabhängigen
+wissenschaftlichen Zeitschriften, zumindest in Kanada, vom Engagement
+kleiner Redaktionsteams leben) (\url{https://youtu.be/2qtvV8YJEuA}) und
+die Diskussion von Robert Browder, Aaron Mccollough, Andrew Lockett und
+Lara Speicher \enquote{Editorial Control in Library Publishing: Who Does
+What and Why?} (\url{https://youtu.be/HNMh3pJ5s7M}). (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Peters, Timothy ; Dickinson, Thad E. (2020). \emph{A History of the
+Distance Library Services Conference}. In: Journal of Library \&
+Information Services in Distance Learning, 14(2), 96--109.
+\url{https://doi.org/10.1080/1533290X.2020.1809600}
+
+Dieser Text ist ein Abschlussbericht für die im Titel genannte
+Konferenz, welche fast 40 Jahre lang alle zwei Jahre durchgeführt wurde.
+Eingestellt wurde sie aus zwei Gründen: Zum ersten finanziellen, da der
+Etat der ausrichtenden Bibliothek (Central Michigan University
+Libraries) immer enger geworden ist. Zum anderen stellen die Autoren
+fest, dass die Gruppe der \enquote{Distance Learners} (also
+Studierender, die nicht direkt auf dem Campus lernen, sondern über
+externe Programme) und die Gruppe \enquote{normaler} Studierender immer
+weniger zu unterscheiden seien, da diese auch verstärkt Online-Kurse
+belegen würden. Nicht zuletzt wären die technischen Lösungen, um
+Distance Learners zu unterstützen, heute in jeder (US-amerikanischen)
+Bibliothek vorhanden. Diese vorzustellen und ihren Einsatz zu
+diskutieren, sei nicht mehr nötig. {[}Gleichwohl wollten zwei andere
+Bibliotheken die Konferenz fortführen, mussten sie aber 2020 wegen der
+COVID-19-Pandemie absagen.{]}
+
+Was den Text interessant macht, ist, dass er weniger auf den Inhalt der
+Konferenzen der letzten Jahre eingeht und viel mehr in den Vordergrund
+rückt, wie die Konferenz organisiert wurde, also wie die Konferenzorte
+ausgewählt, die Beiträge bewertet und das Programm zusammengestellt
+wurden. Einen solchen konzisen Einblick erhält man selten. (ks)
+
+\hypertarget{populuxe4re-medien-zeitungen-radio-tv-etc.}{%
+\section{6. Populäre Medien (Zeitungen, Radio, TV
+etc.)}\label{populuxe4re-medien-zeitungen-radio-tv-etc.}}
+
+Claus-Jürgen Göpfert: Bibliotheks-Chef Frank Scholze: \emph{„Diese
+Pandemie ist ein Digital-Beschleuniger"}. In: Frankfurter Rundschau /
+fr.de, 29.04.2020,
+\url{https://www.fr.de/kultur/literatur/bibliotheks-chef-frank-scholze-diese-pandemie-digital-beschleuniger-13744460.html}
+
+Im Interview mit der Frankfurter Rundschau sieht der neue
+Generaldirektor der Deutschen Nationalbibliothek, Frank Scholze, in der
+Coronakrise einen \enquote{Digital-Beschleuniger} auch für sein Haus, da
+ein Großteil der Mitarbeiter*innen im Home-Office arbeiten muss und
+zugleich digitale Prozesse in vielen Bereichen -- er nennt exemplarisch
+die Rolle Corona-relevanter Preprints -- einen neuen Stellenwert
+erhalten. Zugleich muss die Deutsche Nationalbibliothek aufgrund ihres
+Profils als Präsenz- und Archivbibliothek selbstverständlich dauerhaft
+auf Lesesäle setzen. Zugleich zeigt sich auch bei ihr die Anforderung
+der Bibliothek als Ort der Begegnung und Raum für direkte Kommunikation.
+Entsprechend sieht Frank Scholze auch perspektivisch den Ort der
+Bibliothek als deren Wesenskern. (bk)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Alison Flood: \emph{German library pays £2.5m for 'friendship book', 400
+years after it first tried to buy it.} In: The Guardian / guardian.com,
+27.08.2020
+\url{https://www.theguardian.com/books/2020/aug/27/german-friendship-book-sold-library-das-grosses-stammbuch-germany-herzog-august-bibliothek}
+
+Die Herzog August Bibliothek Wolfenbüttel erwarb über Vermittlung des
+Auktionshauses Sotheby's für € 2,8 Millionen das „Freundschaftsalbum"
+(Album Amicorum) von Philipp Hainhofer, das Herzog August der Jüngere
+bereits im Jahr 1648 vergeblich für die Bibliothek zu beschaffen
+versucht hatte. (bk)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Natasha Pulley: \emph{The Midnight Library by Matt Haig review -- a
+celebration of life's possibilities.} In: The Guardian / guardian.com,
+27.08.2020
+\url{https://www.theguardian.com/books/2020/aug/27/the-midnight-library-by-matt-haig-review-a-celebration-of-lifes-possibilities}
+
+Das Motiv der Bibliothek prägt die Fantasy-Novel \enquote{The Midnight
+Library} von Matt Haig (Edinburgh: Canongate, 2020) und zwar bis in den
+Titel hinein. Das Motto ist \enquote{One Library, infinite Lives} und
+auf Seite 2 liest man: \enquote{The library was a little shelter of
+civilization.} Die Grundidee umreißt die Rezensentin Natasha Pulley in
+ihrer Kurzbesprechung im Guardian: Die Protagonistin Nora ist an einem
+Tiefpunkt in ihrem Leben und versucht, sich das Leben zu nehmen.
+\enquote{But instead of death, what Nora finds is a library in which
+each volume represents a version of her life where she made different
+choices.} (bk)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+o.A.: \emph{\enquote{Design Thinking} zur neuen Bücherei}. In:
+Stuttgarter Zeitung, Esslingen. 09.09.2020, S. 20
+
+Für den 23. September 2020 lud die Stadtverwaltung von Esslingen zu
+einem Vortrag zum Thema "Design Thinking in Bibliotheken", gehalten von
+Julia Bergemann. Hintergrund ist das Ergebnis eines Bürgerentscheids aus
+dem Februar 2019, bei dem die Menschen in Esslingen für die Renovierung
+der dortigen Bibliothek im Bebenhäuser Pfleghof gestimmt hatten. Der
+Prozess wird vom \enquote{Bücherei-Berater Andreas Mittrowann}
+begleitet. (bk)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Kathrin Götze: \emph{Einbruch in Stadtbibliothek: Diebe stehlen 80
+Rollen Toilettenpapier}, In: Hannoversche Allgemeine / haz.de,
+30.03.2020,
+\url{https://www.haz.de/Umland/Neustadt/Neustadt-Einbruch-in-Stadtbibliothek-Diebe-stehlen-80-Rollen-Klopapier}
+
+Diese Überschrift wird zukünftigen Generationen wie ein falsch datierter
+Aprilscherz vorkommen, zumindest wenn sie keine genaue Kenntnis des
+Warenmangels in der frühen ersten Corona-Lockdownphase haben. Neben
+Toilettenpapier (und in Folge verwandte Produkte wie Küchenrolle und
+Taschentücher) betraf dies vor allem lagerungsfähige Grundnahrungsmittel
+(Nudeln, Reis, Mehl) und Backzutaten (ein Kiosk in Berlin-Kreuzberg warb
+gar \enquote{Masken und Hefe hier erhältlich} mit einem Aufsteller auf
+der Straße). Gegen den Diebstahl in der Stadtbibliothek in Hannover
+wurde Anzeige erstattet; nicht zu ermitteln ist, ob der/die Dieb*in
+gefasst werden konnte. (mv)
+
+\hypertarget{abschlussarbeiten}{%
+\section{7. Abschlussarbeiten}\label{abschlussarbeiten}}
+
+Grest, Anett (2020). \emph{Bibliotherapie in Bibliotheken}. (Berliner
+Handreichungen zur Bibliotheks- und Informationswissenschaft, 456)
+Berlin: Institut für Bibliotheks- und Informationswissenschaft der
+Humboldt-Universität zu Berlin, 2020 {[}Zugleich Masterarbeit, 2016{]}.
+\url{https://doi.org/10.18452/21618}.
+
+In der Übersicht zum Forschungsstand dieser Arbeit vermerkt die Autorin,
+dass die Bibliotherapie -- also der Einsatz von Literatur, Lesen,
+Schreiben und dem Sprechen darüber zu therapeutischen Zwecken -- in der
+bibliothekarischen Literatur zwar schon behandelt wurde, dies aber eher
+selten, und dass gleichzeitig in anderen Bereichen, vor allem der
+Literatur zu Kreativtherapien, die Bibliotherapie weit öfter bedacht
+wird. Ihre Masterarbeit wollte dies ändern.
+
+Sie beschreibt dazu verschiedene Formen des Einsatz von Bibliotheraphie
+und führt sechs Interviews mit Praktiker*innen. Diese agieren vor allem
+im therapeutischen Kontext. Am Ende will sie so den Status Quo zu dieser
+Therapieform in Deutschland aufzeigen.
+
+Während die Arbeit interessante Aspekte anspricht und einen Überblick zu
+verschiedenen Settings liefert, ist sie wenig aussagekräftig zum Thema,
+das im Titel angesprochen wird: Bibliotheken kommen nur am Rande vor --
+bei der Frage, ob diese ein gutes Setting bieten würden, was zum Teil
+bejaht, zum Teil verneint wird, und bei der Frage, wie die in der
+Therapie benutzte Literatur ausgewählt wird. Es geht eher um die
+eigentliche Therapie, für die die Autorin zeigt, dass sie sinnvoll sein
+kann. Worum es in der Arbeit auch nicht geht, ist die eigentlich für
+Bibliotheken näherliegende Form von Bibliotherapie, nämlich die durch
+die Lesenden selbst-gesteuerte, nicht die durch Therapeut*innen
+angeleitete. (ks)
+
+\hypertarget{weitere-medien}{%
+\section{8. Weitere Medien}\label{weitere-medien}}
+
+Sarah Turnnidge: \emph{No, A School Librarian Didn't Arrange Those Books
+To Troll Boris Johnson}. In: HuffPost UK. 27.08.2020,
+\url{https://www.huffingtonpost.co.uk/entry/castle-rock-school-librarian-didnt-arrange-book-boris-johnson_uk_5f4767b7c5b64f17e138dbdd}
+
+Im August 2020 machte besonders auf Twitter ein Aufnahme des englischen
+Premierministers Boris Johnson die Runde, die ihn vor einem
+Bibliotheksregal der Schulbibliothek der Castle Rock School in
+Leicestershire zeigte, in dem offenbar mittels gewitzter Anordnung von
+Büchern eine Art visueller Subtweet kommuniziert wurde
+(\url{https://twitter.com/NicholasPegg/status/1298647435829563393}).
+In der Tat sollte die Anordnung von Philip Pullmans \enquote{The Subtle
+Knife} über Ray Bradburys \enquote{Fahrenheit 451} bis hin zu Roald
+Dahls \enquote{The Twits} eine versteckte Botschaft senden. Diese galt
+aber nicht Boris Johnson, wie die HuffPost (UK) mitteilte. Die
+Schulbibliothekarin, die nach eigener Aussage aufgrund mangelnder
+Unterstützung den Posten im Februar 2020 verließ, adressierte mit der
+sprechenden Aufstellung eigentlich die Schulleitung. Dass die Anordnung
+auch sechs Monate nach ihrem Rückzug unverändert war und so Boris
+Johnsons Ansprache an die Schulkinder einen unerwartet pointierte
+Hintergrundgestaltung bot, dürfte den Grund für ihre Resignation
+unterstreichen. Insofern: \enquote{The reality is actually a bit of a
+sadder story. If someone had done it for Boris Johnson that would have
+been amazing but it's just a weird twist of fate.} (bk)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Anita Brookner: \emph{Look At Me}. London: PENGUIN BOOKS, 2016
+{[}1983{]}, S. 10
+
+Eine Beobachtung von Francis Hinton, Protagonistin und Bibliothekarin in
+Anita Brookners Roman \enquote{Look At Me} zu den Nutzer*innen ihrer
+Bibliotheken: \enquote{You get a lot of borderline cases in libraries.}
+(bk)
+
+%autor
+
+\end{document}

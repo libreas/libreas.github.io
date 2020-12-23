@@ -159,7 +159,7 @@ Systeme eingestellt haben, könnte sich das Fehlen negativ auf die
 Nachnutzung der Daten durch Aggregatoren und Suchdienste auswirken.
 
 
-![(Abb. 4: Positivbeispiel Springer: Angabe CC-Lizenz für Verlagsversion bei Crossref ([https://api.crossref.org/works/10.1007/s00103-019-03080-z](https://api.crossref.org/works/10.1007/s00103-019-03080-z), 5.11.2020).](img/CRwileyNEG.png)
+![Abb. 4: Positivbeispiel Springer: Angabe CC-Lizenz für Verlagsversion bei Crossref ([https://api.crossref.org/works/10.1007/s00103-019-03080-z](https://api.crossref.org/works/10.1007/s00103-019-03080-z), 5.11.2020).](img/CRwileyNEG.png)
 
 Wie kommen bei dieser Frage nun Bibliotheken ins Spiel? Es ist zu
 empfehlen, sich mit den Vertragsdetails bei DEAL vertraut zu machen und
