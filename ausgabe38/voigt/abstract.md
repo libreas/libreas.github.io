@@ -1,0 +1,14 @@
+Mit den DEAL-Verträgen steht das Versprechen im Raum,
+administrative und (autor\*innenseitig) finanzielle Hürden für Open
+Access zu reduzieren. Für Bibliotheken bedeuten die DEAL-Verträge neben
+der Zentralisierung von Finanzströmen häufig auch mehr Verantwortung in
+anderen Bereichen: Information über die Verträge allgemein und Rechte
+von Autor\*innen, Verifikation berechtigter Artikel, direkte Beratung
+bei Fragen rund um Workflows und Creative-Commons-Lizenzen und vieles
+mehr. Der Beitrag ist eine Ausarbeitung des Vortrags beim 1. DEAL
+Praxis-Webinar (Voigt 2020) und gibt einen Überblick, in welchen
+Handlungsfeldern die Universitätsbibliothek der Technischen Universität
+(TU) Berlin aktiv wird. Ein besonderer Fokus liegt dabei auf der
+Kommunikation mit den Wissenschaftler\*innen, um den größtmöglichen
+Anteil an Open Access und Offenheit aus den DEAL-Verträgen
+herauszuholen.
