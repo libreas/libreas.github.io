@@ -1,0 +1,8 @@
+The article describes the library’s contribution to editorial and publishing support and promotion of thirteen new scientific journals, published by the Kyiv National University of Culture and Arts (Ukraine). The article provides an analysis of the mission, objectives, and editorial staff of scientific publications as well as the journals’ status and stage of indexing in the international lists and databases.
+
+In order to establish the journals, at a first stage, the Ukrainian arts and culture scientific journals market has been monitored. At a second stage the Scientific Library turned into an active participant of the publishing process and the editorial support for thirteen scientific publications. At a third stage all journal content is included in international indexing systems.
+
+The insights into the new scientific journal publishing process, experienced by the University, can be extremely beneficial to other libraries. The authors offer their vision of the prospects for the development of journals and a list of activities to achieve their goals.
+
+The activities of the scientific library in the future are seen in the development of information-analytical monitoring and bibliometric analysis of the university’s communications system; development of an algorithm for presenting the profiles of scientists in search engines and international abstract databases; promoting the inclusion of university scientific journals in the international Scopus and Web of Science databases.
+
