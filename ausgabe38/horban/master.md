@@ -54,6 +54,8 @@ provide unique perspectives and opportunities in scholarly publishing as
 a result of their mission to support the research and education agendas
 of their scholars."[^1]
 
+![Kiev The Main hall - The Library’s main hallway](img/abb_1.jpg)
+
 ### Scientific Journal Publishing Process
 
 #### Stage 1
@@ -125,6 +127,8 @@ and members of the editorial boards of scientific journals. The academic
 prestige of the scientists, their active profiles in Scopus or Web of
 Science and their articles in these citation indices were taken into
 consideration.
+
+![Participants of a seminar called Library.Book.Science in 2018](img/abb_2.jpg)
 
 ### Scientific Journals: An Overview
 
@@ -387,6 +391,8 @@ Access Initiative) via:
 -   listing of all scientific journals of the University in open access directories,
 
 -   articles' compliance with the requirements of scientometrics databases (peer-reviewed, English language, with structured abstract, references and relevant metadata).
+
+![Installation near the library’s checkpoint](img/abb_3)
 
 ### Conclusions
 
