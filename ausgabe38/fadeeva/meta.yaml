@@ -32,7 +32,7 @@
     <meta property="dc:source" content="LIBREAS. Library Ideas" />
     <meta property="dc:subject" content="Library and Information Science" />
     <meta property="dc:type" content="website" />
-    <meta property="dc:description" content="Das BMBF-geförderte Projekt Open Access in den Geistes- und Sozialwissenschaften mit dem Schwerpunkt Monografien (OGeSoMo), angesiedelt an der Universitätsbibliothek (UB) und dem germanistischen Institut der Universität Duisburg-Essen (UDE), unterstützte 2018-2020 die Entwicklung von Open Access (OA) in den sogenannten Buchdisziplinen an der Universitätsallianz Ruhr (UAR). Dank einer Anschubfinanzierung von 75.000 € und beinahe ebenso hoher Eigenbeteiligung der UDE wurde eine große Anzahl von Monografien und Sammelbänden in Open Access überführt bzw. als OA erstpubliziert. Im Folgenden werden einige Eckpunkte und Ergebnisse des Projekts vorgestellt."/>
+    <meta property="dc:description" content=""/>
     <meta property="dc:source" resource="urn:ISSN:1860-7950" /> 
 
 <!-- Google Scholar -->
@@ -171,10 +171,6 @@
 
         
 
-        <p><small itemprop="description">Das BMBF-geförderte Projekt Open Access in den Geistes- und Sozialwissenschaften mit dem Schwerpunkt Monografien (OGeSoMo), angesiedelt an der Universitätsbibliothek (UB) und dem germanistischen Institut der Universität Duisburg-Essen (UDE), unterstützte 2018-2020 die Entwicklung von Open Access (OA) in den sogenannten Buchdisziplinen an der Universitätsallianz Ruhr (UAR). Dank einer Anschubfinanzierung von 75.000 € und beinahe ebenso hoher Eigenbeteiligung der UDE wurde eine große Anzahl von Monografien und Sammelbänden in Open Access überführt bzw. als OA erstpubliziert. Im Folgenden werden einige Eckpunkte und Ergebnisse des Projekts vorgestellt.</small></p>
-
-        
-
         
 
 
@@ -225,7 +221,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2020-12-23</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2020-12-27</a>)</p>
 
 </footer>
       </div>

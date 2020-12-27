@@ -1,6 +1,6 @@
 
-Das BMBF-geförderte Projekt **O**pen Access in den **Ge**istes- und
-**So**zialwissenschaften mit dem Schwerpunkt **Mo**nografien
+Das BMBF-geförderte Projekt Open Access in den Geistes- und
+Sozialwissenschaften mit dem Schwerpunkt Monografien
 (OGeSoMo),[^1] angesiedelt an der Universitätsbibliothek (UB) und dem
 germanistischen Institut der Universität Duisburg-Essen (UDE),
 unterstützte 2018--2020 die Entwicklung von Open Access (OA) in den
@@ -18,7 +18,7 @@ rückt immer weiter ins Blickfeld der bibliothekarischen,
 publizistischen, wissenschaftlichen und wissenschaftspolitischen
 Gegenwart. Üblicherweise wird bei Open Access auf Meilensteine wie die
 Budapest Open Access Initiative (2002)[^3] und die Berliner
-Erklärung[^4] des Max-Planck-Instituts (2003) verwiesen, wo der offene
+Erklärung (2003)[^4] verwiesen, wo der offene
 -- kosten- und schrankenlose -- Zugang zu wissenschaftlichen Arbeiten
 beziehungsweise Ergebnissen wissenschaftlicher Forschung im Internet
 genannt wird. Neben dem reinen Zugang geht es bei Open Access auch um
@@ -239,7 +239,7 @@ Texte bearbeitet werden und nicht nur die urheberrechtliche erlaubten 15
 % des Umfangs -- eine im geisteswissenschaftlichen Studium durchaus
 problematische Einschränkung.
 
-# Probleme von heute -- Agenda für morgen
+### Probleme von heute -- Agenda für morgen
 
 Wie die Verstetigung von Anfragen auf Förderung durch den
 Publikationsfonds der UDE zeigt, ist OA für viele Geistes- und
@@ -336,7 +336,7 @@ ist ein explorativer Schritt für Open Access in den Buchfächern getan.
 Jetzt gilt es, die vielfältigen Anknüpfungsmöglichkeiten und
 Diskussionsofferten zu nutzen.
 
-## Literaturverzeichnis
+### Literaturverzeichnis
 
 Beißwenger, Michael: "Innovative Möglichkeiten der Arbeit mit digitalen
 (Open-Access-)Publikationen in der Lehre: Kooperative Texterschließung
