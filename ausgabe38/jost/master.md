@@ -1,13 +1,13 @@
-Vielen Dank, dass Sie sich bereit erklärt haben, unsere Fragen zu
+*LIBREAS: Vielen Dank, dass Sie sich bereit erklärt haben, unsere Fragen zu
 beantworten. Wir haben gemerkt, dass eine ganze Anzahl von
 Designer\*innen und Künstler\*innen, wenn sie für Bibliotheken arbeiten,
 gerne als ein Symbol auf Tiere oder Pflanzen zurückgreifen. Uns
 interessiert, warum das so ist. Gleichzeitig wollen wir die Möglichkeit
 auch nutzen, um von Ihrer Seite zu hören, wie eine solche Zusammenarbeit
 mit Bibliotheken abläuft. (Wir denken sonst, ehrlich gesagt, eher von
-Seiten der Bibliotheken her.)
+Seiten der Bibliotheken her.)*
 
-*LIBREAS: Wann kamen Sie das erste Mal in Ihrer Arbeit mit Bibliotheken
+*Wann kamen Sie das erste Mal in Ihrer Arbeit mit Bibliotheken
 in Kontakt? Hatte das bei Ihnen "Vorläufer", beispielsweise eigene
 Erfahrungen aus der Kindheit und Jugend?*
 

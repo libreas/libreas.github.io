@@ -1,16 +1,16 @@
-Vielen Dank, dass Sie sich bereit erklärt haben, unsere Fragen zu
+*LIBREAS; Vielen Dank, dass Sie sich bereit erklärt haben, unsere Fragen zu
 beantworten. Wir haben gemerkt, dass eine ganze Anzahl von
 Designer\*innen und Künstler\*innen, wenn sie für Bibliotheken arbeiten,
 gerne als ein Symbol auf Tiere oder Pflanzen zurückgreifen. Uns
 interessiert, warum das so ist. Gleichzeitig wollen wir die Möglichkeit
 nutzen, um von ihrer Seite zu hören, wie eine solche Zusammenarbeit mit
-Bibliotheken abläuft.
+Bibliotheken abläuft.*
 
-*LIBREAS: Wann kamen Sie das erste Mal in Ihrer Arbeit mit Bibliotheken
+*Wann kamen Sie das erste Mal in Ihrer Arbeit mit Bibliotheken
 in Kontakt? Hatte das bei Ihnen "Vorläufer", beispielsweise eigene
 Erfahrungen aus der Kindheit?*
 
-Es war die Bibliothek meiner Kindheit, also von meinem Wohnquartier, die
+JZ: Es war die Bibliothek meiner Kindheit, also von meinem Wohnquartier, die
 mich für einen Vortrag über meine Illustrationsarbeit eingeladen hat.
 
 *LIBREAS: Wie kam der Kontakt für diese beiden bibliotheksspezifischen
@@ -18,13 +18,13 @@ Projekte zustande? Sind Sie mit Ideen auf die Einrichtungen zugegangen
 oder kamen die zu ihnen? War das der normale Weg, wie solche Projekte
 zustande kommen oder eher ungewöhnlich?*
 
-Ich wurde von der jeweiligen Bibliothek angefragt, was mich eigentlich
+JZ: Ich wurde von der jeweiligen Bibliothek angefragt, was mich eigentlich
 der ganz übliche Weg ist.
 
 *LIBREAS: Unterscheiden sich für Sie als Designerin Bibliotheken als
 Kund\*innen von anderen Einrichtungen?*
 
-Ja, am Anfang von meiner Arbeit als Grafikerin und Illustratorin war
+JZ: Ja, am Anfang von meiner Arbeit als Grafikerin und Illustratorin war
 noch alles analog. Das bedeutet, dass ich für Vorlagen oder
 Informationen zu bestimmten Themen sehr auf die Bibliotheken angewiesen
 war.
@@ -34,7 +34,7 @@ solchen Design-Prozess. Wie gehen Sie allgemein vor, um zu Motiven für
 solche Arbeiten zu gelangen? Und wie sind Sie bei dieser konkreten
 Arbeit zu diesen Motiven gelangt?*
 
-Für die Lesezeichen für die Schweizerische Nationalbibliothek sass ich
+JZ: Für die Lesezeichen für die Schweizerische Nationalbibliothek sass ich
 mit der Projektverantwortlichen zusammen. Sie wollte vier Motive von
 mir, die Leser\*innen auf künstlerische, freundliche und witzige Art
 darauf aufmerksam machen, dass sie zu den Büchern Sorgfalt tragen
@@ -76,11 +76,12 @@ Illustrator gemacht.
 Das Vorgehen ähnelte sich also bei beiden Aufträgen.
 
 ![](img/image2.png)
+
 *LIBREAS: Stachen diese beiden Projekte für Sie heraus aus Ihrem
 sonstigen Schaffen oder würden Sie die eher als typisch für Ihre
 Projekte ansehen?*
 
-Eigentlich sind es sehr typische Aufträge von mir. Das Thema Bibliothek
+JZ: Eigentlich sind es sehr typische Aufträge von mir. Das Thema Bibliothek
 fand ich sehr schön und ich hatte bei beiden Aufträgen viele Freiheiten.
 Daher waren es besonders schöne Aufträge.
 
@@ -88,7 +89,7 @@ Daher waren es besonders schöne Aufträge.
 konkret mit den Projekten? Gab es besondere Herausforderungen zum
 Beispiel seitens der Bibliotheksleitungen?*
 
-Die Botschaft der Nationalbibliothek lautet: Übt Sorgfalt mit den
+JZ: Die Botschaft der Nationalbibliothek lautet: Übt Sorgfalt mit den
 Büchern. Den Kornhausbibliotheken ging es um die Leseförderung und den
 Gebrauch der Volksbibliothek durch Kindern und mit den allgemeinen
 Geschenkgutscheinen auch durch ein breites Publikum.
@@ -102,7 +103,7 @@ auch andere Designer\*innen und Künstler\*innen. Denken Sie, nur so sind
 Tiere und Bibliotheken miteinander zu verbinden? Passen Tiere als solche
 sonst nicht zu Bibliotheken?*
 
-In meinen Illustrationen kommen solche Tiermenschen häufig vor. Mir
+JZ: In meinen Illustrationen kommen solche Tiermenschen häufig vor. Mir
 gefällt diese Form um mich auszudrücken und etwas darzustellen sehr. Ich
 finde, bei dieser Bildsprache schaut das Zielpublikum eher hin, als wenn
 es ganz menschliche Figuren wären. Und ja, bei "Tiere als solchen" würde
@@ -111,7 +112,7 @@ der Bezug zur Bibliothek vielleicht schon fehlen.
 *LIBREAS: Welche konkrete Rolle spielten die von Ihnen gewählten Tiere
 bei der Realisierung des Projektes?*
 
-Bei meinen Lesezeichen habe ich mich von der Eule mit den Eigenschaften
+JZ: Bei meinen Lesezeichen habe ich mich von der Eule mit den Eigenschaften
 der Weisheit, Einsicht, des freundlichen Äusseren für die "gute" Figur
 und für die Leseratte mit der Zuschreibung des Schmutzigen inspirieren
 lassen. Ich habe also auch mit bekannten Stereotypen der Eule und der
@@ -128,6 +129,6 @@ vermitteln.
 Zusammenarbeit mit Bibliotheken mit? Würden Sie anderen Designer\*innen
 raten, auch solche Projekte durchzuführen oder eher nicht?*
 
-Ja, ich würde anderen dazu raten. Es war eine sehr schöne Arbeit, die
+JZ: Ja, ich würde anderen dazu raten. Es war eine sehr schöne Arbeit, die
 ich sofort wieder machen würde. Die Erfahrung war, dass ein breites
 Publikum auf meine Arbeit aufmerksam wurde.

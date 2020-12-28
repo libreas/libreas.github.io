@@ -5,7 +5,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>9 Fragen an die Illustratorin Judith Zaugg - LIBREAS. Library Ideas</title>
+	<title>Neun Fragen an die Illustratorin Judith Zaugg - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
 
@@ -13,7 +13,7 @@
 
  <!-- RDFa Metadata (in DublinCore) -->
     
-    <meta property="dc:title" content="9 Fragen an die Illustratorin Judith Zaugg" />
+    <meta property="dc:title" content="Neun Fragen an die Illustratorin Judith Zaugg" />
     
     
     
@@ -145,7 +145,7 @@
         
 
         
-        <h1 itemprop="name" class="title">9 Fragen an die Illustratorin Judith Zaugg</h1>
+        <h1 itemprop="name" class="title">Neun Fragen an die Illustratorin Judith Zaugg</h1>
         
         
 
@@ -197,7 +197,7 @@
             
             
              
-            "9 Fragen an die Illustratorin Judith Zaugg".
+            "Neun Fragen an die Illustratorin Judith Zaugg".
             
             <i itemprop="provider">LIBREAS. Library Ideas</i>, 38 (<span itemprop="datePublished">2020</span>). <a itemprop="url" href="https://libreas.eu/ausgabe38/zaugg/meta.yaml">https://libreas.eu/ausgabe38/zaugg/meta.yaml</a>
         </small>
@@ -231,7 +231,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2020-12-27</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2020-12-28</a>)</p>
 
 </footer>
       </div>

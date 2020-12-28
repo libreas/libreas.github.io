@@ -5,7 +5,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title><q>It‘s the end of the World as we know it</q> - LIBREAS. Library Ideas</title>
+	<title><q>It‘s the end of the world as we know it</q> - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
 
@@ -13,7 +13,7 @@
 
  <!-- RDFa Metadata (in DublinCore) -->
     
-    <meta property="dc:title" content="&lt;q&gt;It‘s the end of the World as we know it&lt;/q&gt;" />
+    <meta property="dc:title" content="&lt;q&gt;It‘s the end of the world as we know it&lt;/q&gt;" />
     
     
     
@@ -143,7 +143,7 @@
         
 
         
-        <h1 itemprop="name" class="title"><q>It‘s the end of the World as we know it</q></h1>
+        <h1 itemprop="name" class="title"><q>It‘s the end of the world as we know it</q></h1>
         
         <h2><small>Ein Essay über Öffentliche Bibliotheken als zentrale lokale Einrichtung, dem Klimakollaps zu begegnen und ein Werkstattbericht aus der Heinrich-Böll-Bibliothek / Stadtbibliothek Pankow</small></h2>
         
@@ -189,7 +189,7 @@
             
             
             
-            "<q>It‘s the end of the World as we know it</q>. Ein Essay über Öffentliche Bibliotheken als zentrale lokale Einrichtung, dem Klimakollaps zu begegnen und ein Werkstattbericht aus der Heinrich-Böll-Bibliothek / Stadtbibliothek Pankow".
+            "<q>It‘s the end of the world as we know it</q>. Ein Essay über Öffentliche Bibliotheken als zentrale lokale Einrichtung, dem Klimakollaps zu begegnen und ein Werkstattbericht aus der Heinrich-Böll-Bibliothek / Stadtbibliothek Pankow".
             
             <i itemprop="provider">LIBREAS. Library Ideas</i>, 38 (<span itemprop="datePublished">2020</span>). <a itemprop="url" href="https://libreas.eu/ausgabe38/schumann/meta.yaml">https://libreas.eu/ausgabe38/schumann/meta.yaml</a>
         </small>
@@ -223,7 +223,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2020-12-27</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2020-12-28</a>)</p>
 
 </footer>
       </div>

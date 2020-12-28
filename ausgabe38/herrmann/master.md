@@ -1,5 +1,5 @@
 "Als Wüste werden die vegetationslosen oder vegetationsarmen Gebiete der
-Erde bezeichnet." [^1] Ich zähle die Pflanzen im Hauptraum der
+Erde bezeichnet."[^1] Ich zähle die Pflanzen im Hauptraum der
 Bibliothek: Ein alter Hibiskus, eine Grünlilie und ein Kaktus auf der
 Fensterbank. Trocken ist es hier auch. Und ein bisschen staubig. Und
 doch: So wie die Wüste lebt, so lebt auch die Bibliothek. Oftmals im
@@ -11,7 +11,7 @@ illustrierte und aufwändig kolorierte Rara-Bände die Tier- und
 Pflanzenwelt der Erde -- vermutlich sind hier mehr Arten zu sehen als im
 artenreichsten Zoo Europas. Auf jeden Fall gibt es in Bibliotheken Tiere
 zu sehen, die in keinem Tierpark zu bestaunen sind: Völlig
-selbstverständlich stehen Einhörner neben Nashörnern im Gessner,[^2]
+selbstverständlich stehen Einhörner neben Nashörnern im Gessner[^2],
 fabelhafte Tierwesen verzaubern in Romanen und die 1976 "entdeckte"
 Steinlaus (*Petrophaga lorioti)* lebt im Pschyrembel[^3] fort.
 
@@ -71,19 +71,19 @@ auf dem Land und nur 9% der Arten im Wasser bekannt sind.[^10] Die
 Biodiversitätsforschung befindet sich also in einem Wettlauf gegen die
 Zeit und braucht starke Partner: Informationseinrichtungen. Bibliotheken
 und Archive bewahren das Wissen um die bisher bekannte Flora und Fauna
-der Erde und liefern so wichtige Grundlagen für Artbeschreibungen,
+der Erde und liefern so wichtige Grundlagen für Artbeschreibungen, die
 Dokumentation des Klimawandels und Forschungsmethoden allgemein.
 
 Insbesondere in naturwissenschaftlichen Bibliotheken und Archiven
 eröffnet sich den Lesenden eine teils vergessene Tier- und Pflanzenwelt.
 Um den Zugang zu diesen Quellen für die Biodiversitätsforschung zu
 erleichtern, gründeten 2006 zehn Bibliotheken, Archive und
-Informationseinrichtung aus Naturkundemuseen, Botanischen Gärten und
+Informationseinrichtungen aus Naturkundemuseen, Botanischen Gärten und
 ähnlichen Einrichtungen das Konsortium der Biodiversity Heritage Library
 (BHL).[^11] Seither wurden über die BHL circa 58 Mio. Seiten, aus
 160.000 Titeln beziehungsweise 261.000 Bänden digitalisiert und open
 access zur Verfügung gestellt. Die mittlerweile 20
-Konsortiumsmitglieder,[^12] darunter dem Museum für Naturkunde Berlin
+Konsortiumsmitglieder[^12], darunter das Museum für Naturkunde Berlin
 als einzige Institution aus dem deutschsprachigen Raum, engagieren sich
 zudem in Verlagsverhandlungen, um urheberrechtlich geschützte Literatur
 bereits vor dem Ablauf der Schutzfrist open access anzubieten.
@@ -95,26 +95,26 @@ OCR-Volltexte in der BHL alle auf taxonomische Namen automatisch
 analysiert und mit den Einträgen in der Encyclopedia of Life verknüpft.
 Dies ermöglicht es zum einen die Artbeschreibung in ihrem historischen
 Kontext darstellen zu können und zum anderen bietet es Forschenden einen
-weiteren Zugang zu weiterführenden Information zu einer Art.
+weiteren Zugang zu weiterführenden Informationen zu einer Art.
 
 Wie wichtig die freie Zugänglichkeit zu Biodiversitätsliteratur ist, hat
 die SARS-CoV-2-Pandemie in jüngster Zeit gezeigt. Wie in vielen anderen
-Bereiche unseres Lebens waren die gewohnten Wege nicht mehr gangbar --
+Bereichen unseres Lebens waren die gewohnten Wege nicht mehr gangbar --
 Archive und Bibliotheken eine Weile geschlossen. Die Versorgung von
 Forschenden, Studierenden, PädagogInnen und SchülerInnen mit
 wissenschaftlicher Literatur war nur über elektronische Ressourcen
 möglich und Open-Access-Bibliotheken wie die BHL haben schwere
 Einschnitte in der Literaturversorgung abgemildert. Zusätzlich zu ihren
 verschiedenen Tools und Services für die wissenschaftliche Arbeit,
-stellten das BHL-Konsortium Material zusammen, um den Fernunterricht
+stellte das BHL-Konsortium Material zusammen, um den Fernunterricht
 durch kuratierte Sammlungen, Bildressourcen, aber auch Malbücher zu
 unterstützen. Die MitarbeiterInnen der BHL haben zudem stark an der
 Verbesserung des Zugangs zu den Sammlungen gearbeitet, indem sie die
 Metadaten für digitalisierte Bände und die darin enthaltenen
-Bildnachweise zu verbessern.
+Bildnachweise verbessern.
 
 Neben der Bewahrung des Wissens über die biologische Vielfalt engagiert
-sich der BHL auch aktiv für die Sensibilisierung der Öffentlichkeit für
+sich die BHL auch aktiv für die Sensibilisierung der Öffentlichkeit in
 Naturschutzfragen. Gegenwärtig untersucht die *Earth Optimism
 Campaign*[^13] das Leben und die Arbeit von Personen, die entscheidend
 dazu beigetragen haben, den Naturschutz in Wissenschaft und Gesellschaft
