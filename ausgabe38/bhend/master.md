@@ -33,12 +33,9 @@ und Vorräte locken Tiere an. Insekten und Silberfischchen mögen Proteine
 und Kohlenhydrate, die sich auch in den Materialien unserer historischen
 Bibliotheksbestände befinden.
 
-![](img/image1.png)
-Abbildung 1: Typische Frass-Schäden von Silberfischchen (*lat. lepisma
-saccharina*) an Büchern und kolorierten Grafiken
+![Abbildung 1: Typische Frass-Schäden von Silberfischchen (*lat. lepisma saccharina*) an Büchern und kolorierten Grafiken](img/image1.png)
 
-![](img/image2.png)
-Abbildung 2: Frass-Schaden an Buchblock durch Nager
+![Abbildung 2: Frass-Schaden an Buchblock durch Nager](img/image2.png)
 
 Es folgte ein weiterer Auftrag an die Schädlingsbekämpfungsfirma, die
 ein Monitoring zuerst jeden zweiten, dann jeden dritten Monat
@@ -74,8 +71,7 @@ spielerische Art: Die Teilnehmenden müssen anhand von konkreten
 Beispielen an älteren Insekten- und Frass-Schäden herausfinden, welches
 Tier hier am Werk war.
 
-![](img/image3.png)
-Abbildung 3: Frassgänge in Buch durch Larven von Käferarten
+![Abbildung 3: Frassgänge in Buch durch Larven von Käferarten](img/image3.png)
 
 #### Hinweis zum Copyright der Bilder
 

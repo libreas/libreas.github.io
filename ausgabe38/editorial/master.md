@@ -108,6 +108,9 @@ Katastrophe viel lernt. Vor allem sehen wir noch besser als zuvor, was
 auf dem Spiel steht. Was wir tun können und werden, wird uns in Zukunft
 begleiten. Man ist nie zu alt für diese Art Coming-of-Age.
 
+![LIBREAS-Redaktionskatze Felix liest: Wulf, Andrea (2012):
+Die Jagd auf die Venus. Bertelsmann, 320 Seiten. ISBN: 9783570100950](img/felix-liest.jpg)
+
 Im Redaktions-Chat werden, wie sollte es auch anders sein, regelmäßig
 auch Fotos, Texte und Nachrichten zu Tieren geteilt (Pflanzen kommt
 bisher vergleichsweise wenig Aufmerksamkeit zu). Bibliotheken spielen
@@ -124,8 +127,6 @@ Bibliothekar\*in glauben darf). In der Redaktion dieser Ausgabe:
 - Team Eule, 1 Mal
 - Team Igel, 1 Mal
 
-![LIBREAS-Redaktionskatze Felix liest: Wulf, Andrea (2012):
-Die Jagd auf die Venus. Bertelsmann, 320 Seiten. ISBN: 9783570100950](img/felix-liest.jpg)
 
 Unterdessen ist LIBREAS. Library Ideas nun gerade erst -- oder schon --
 15 Jahre alt geworden. Wir hatten geplant, das größer zu begehen -- aber
