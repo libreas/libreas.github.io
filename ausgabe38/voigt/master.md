@@ -149,7 +149,7 @@ Lizenz CC BY 4.0 korrekt angegeben.[^16]
 
 In einem zweiten, negativen Beispiel für die DOI
 10.1007/s00103-019-03080-z allerdings gibt es bei Crossref nur einen
-Eintrag für das Attribut "TDM", also Text and Data Mining. Allgemeine
+Eintrag für das Attribut "TDM", also Text and Data Mining (Abbildung 4). Allgemeine
 Nutzungsbedingungen für die Verlagsversion sollten, so die offizielle
 Vorgabe von Crossref,[^17] aber im Attribut "VOR" ("Version of Record")
 eingetragen werden.[^18] Für das zweite Springer-Beispiel gibt es also
@@ -159,7 +159,7 @@ Systeme eingestellt haben, könnte sich das Fehlen negativ auf die
 Nachnutzung der Daten durch Aggregatoren und Suchdienste auswirken.
 
 
-![Abb. 4: Positivbeispiel Springer: Angabe CC-Lizenz für Verlagsversion bei Crossref ([https://api.crossref.org/works/10.1007/s00103-019-03080-z](https://api.crossref.org/works/10.1007/s00103-019-03080-z), 5.11.2020).](img/CRwileyNEG.png)
+![Abb. 4: Negativbeispiel Springer: fehlende Angabe CC-Lizenz für Verlagsversion bei Crossref ([https://api.crossref.org/works/10.1007/s00103-019-03080-z](https://api.crossref.org/works/10.1007/s00103-019-03080-z), 5.11.2020).](img/CRspringerNEG.png)
 
 Wie kommen bei dieser Frage nun Bibliotheken ins Spiel? Es ist zu
 empfehlen, sich mit den Vertragsdetails bei DEAL vertraut zu machen und
@@ -204,7 +204,7 @@ Journale (vergleiche Tabelle 2).
   CC-BY to all           1199              83,50 %
   Gesamt                 1436              100  %
 
-Tab.1: Verteilung der Lizenzoptionen für hybride Journale von Wiley
+Tab. 1: Verteilung der Lizenzoptionen für hybride Journale von Wiley
 ("Revenue Modell: OO" laut Wiley-DEAL-Titelliste, Stand: 28.10.2020)
 
   License Type Offered   Anzahl Journale   Anteil Journale %
@@ -216,7 +216,7 @@ Tab.1: Verteilung der Lizenzoptionen für hybride Journale von Wiley
   TBD                    7                 3,08 %
   Gesamt                 227               100 %
 
-Tab.2: Verteilung der Lizenzoptionen für Open-Access-Journale von Wiley
+Tab. 2: Verteilung der Lizenzoptionen für Open-Access-Journale von Wiley
 ("Revenue Modell: OA" laut DEAL-Titelliste, Stand: 28.10.2020)
 
 Für die TU Berlin beobachten wir häufig, dass Wissenschaftler\*innen
@@ -280,7 +280,7 @@ Eine änderung der CC-Lizenz kann nur der/die Autor\*in selbst anstoßen.
 Meldet sich der/die Autor\*in auf die erste E-Mail hin zurück, kommt ein
 zweiter Textbaustein zum Einsatz (Abbildung 7).
 
-![Abb. 7: Anschreiben TU-Autor\*innen über Umstellung auf OA bei Wiley](img/WileyretroOAauthor2.png)
+![Abb. 7: Zweites Anschreiben TU-Autor\*innen über Umstellung auf OA bei Wiley](img/WileyretroOAauthor2.png)
 
 
 ### Open Access Opt-out
@@ -360,7 +360,7 @@ der Verträge nicht bewusst oder hatten Angst die Kosten selbst tragen zu
 müssen. Andere meldeten zurück, dass sie nicht erinnern, OA aktiv
 abgewählt zu haben.
 
-![Abb. 10: Anschreiben Wiley-Autor\*innen zwecks Umstellung DEAL-Artikel auf OA](img/optoutWileyauthor.png)
+![Abb. 10: Anschreiben Springer-Autor\*innen bezüglich Opt-out](img/optoutSNauthor.png)
 
 
 Das Anschreiben ging zudem auf mögliche Alternativen ein und warb für
