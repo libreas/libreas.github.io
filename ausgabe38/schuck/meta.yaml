@@ -5,7 +5,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>Interview mit Nicole Schuck und Martina Rißberger: Zwischen Naturwissenschaft und Bildender Kunst – eine künstlerisch Perspektive auf naturhistorische Medien - LIBREAS. Library Ideas</title>
+	<title>Interview mit Nicole Schuck und Martina Rißberger: Zwischen Naturwissenschaft und Bildender Kunst – eine künstlerische Perspektive auf naturhistorische Medien - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
 
@@ -13,7 +13,7 @@
 
  <!-- RDFa Metadata (in DublinCore) -->
     
-    <meta property="dc:title" content="Interview mit Nicole Schuck und Martina Rißberger: Zwischen Naturwissenschaft und Bildender Kunst – eine künstlerisch Perspektive auf naturhistorische Medien" />
+    <meta property="dc:title" content="Interview mit Nicole Schuck und Martina Rißberger: Zwischen Naturwissenschaft und Bildender Kunst – eine künstlerische Perspektive auf naturhistorische Medien" />
     
     
     
@@ -147,7 +147,7 @@
         
 
         
-        <h1 itemprop="name" class="title">Interview mit Nicole Schuck und Martina Rißberger: Zwischen Naturwissenschaft und Bildender Kunst – eine künstlerisch Perspektive auf naturhistorische Medien</h1>
+        <h1 itemprop="name" class="title">Interview mit Nicole Schuck und Martina Rißberger: Zwischen Naturwissenschaft und Bildender Kunst – eine künstlerische Perspektive auf naturhistorische Medien</h1>
         
         
 
@@ -207,7 +207,7 @@
             
             
              
-            "Interview mit Nicole Schuck und Martina Rißberger: Zwischen Naturwissenschaft und Bildender Kunst – eine künstlerisch Perspektive auf naturhistorische Medien".
+            "Interview mit Nicole Schuck und Martina Rißberger: Zwischen Naturwissenschaft und Bildender Kunst – eine künstlerische Perspektive auf naturhistorische Medien".
             
             <i itemprop="provider">LIBREAS. Library Ideas</i>, 38 (<span itemprop="datePublished">2020</span>). <a itemprop="url" href="https://libreas.eu/ausgabe38/schuck/meta.yaml">https://libreas.eu/ausgabe38/schuck/meta.yaml</a>
         </small>
@@ -241,7 +241,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2021-01-04</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2021-01-12</a>)</p>
 
 </footer>
       </div>
