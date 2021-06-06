@@ -23,8 +23,9 @@ Kontakt: redaktion@libreas.eu
 <!-- Redaktion -->
 
 - Eva Bunge M.S., M.A. (Deutsches Museum) -- eva@libreas.eu
-- Linda Freyberg M.A. (Museum für Naturkunde) -- linda@libreas.eu
+- Linda Freyberg M.A. (UCLAB, Fachhochschule Potsdam & Museum für Naturkunde) -- linda@libreas.eu
 - Najko Jahn M.A. (SUB Göttingen) -- najko@libreas.eu
+- Sarah Juen B.A. (Berlin School of Library and Information Science / Humboldt Universität zu Berlin) -- sarah@libreas.eu
 - Jana Rumler M.A. (Museum für Naturkunde Berlin) - jana@libreas.eu
 - Dr. Karsten Schuldt (Schweizerisches Institut für
     Informationswissenschaft, FH Graubünden) -- karsten@libreas.eu
