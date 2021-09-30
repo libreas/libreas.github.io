@@ -1,0 +1,470 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage[babel]{csquotes}
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+\setcapindent{0pt} % no indentation in captions
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+% typo setup
+\clubpenalty = 10000
+\widowpenalty = 10000
+\displaywidowpenalty = 10000
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+\usepackage{breakurl}
+
+%meta
+%meta
+
+\fancyhead[L]{S. Juen\\ %author
+LIBREAS. Library Ideas, 39 (2021). % journal, issue, volume.
+\href{http://nbn-resolving.de/}
+{}} % urn 
+% recommended use
+%\href{http://nbn-resolving.de/}{\color{black}{urn:nbn:de...}}
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/4.0/}{\color{black}Creative Commons BY 4.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{Feminismus, Algorithmen, Gender-Data-Gap und was das alles mit Bibliotheks- und Informationswissenschaft zu tun hat}}% title
+\author{Sara Juen} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={Feminismus, Algorithmen, Gender-Data-Gap und was das alles mit Bibliotheks- und Informationswissenschaft zu tun hat},
+      pdfauthor={Sara Juen},
+      pdfcopyright={CC BY 4.0 International},
+      pdfsubject={LIBREAS. Library Ideas, 39 (2021).},
+      pdfkeywords={Algorithmen, Bibliotheksethik, Big Data, Feminismus},
+      pdflicenseurl={https://creativecommons.org/licenses/by/4.0/},
+      pdfcontacturl={http://libreas.eu},
+      baseurl={http://libreas.eu},
+      pdflang={de},
+      pdfmetalang={de}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+\begin{abstract}
+\noindent
+\textbf{Kurzfassung}: In den letzten Jahren gab es vermehrt Berichte
+über unethisches Handeln in Technologiekonzernen und Hinweise darauf,
+dass Algorithmen nicht neutral handeln, sondern gesellschaftlich
+bestehende Ungerechtigkeiten weiterführen oder diese sogar verschärfen.
+Der vorliegende Artikel gibt einen Einblick in diese Thematik und zeigt
+auf, warum dieses Thema für die Bibliotheks- und
+Informationswissenschaft relevant ist.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\noindent\textbf{Abstract}: In recent years, there have been increasing reports
+about unethical actions in technology corporations and indications that
+algorithms do not act neutrally, but rather continue existing social
+injustices or even intensify them. This article provides insight into
+this issue and shows why this topic is relevant to library and
+information science.
+\end{abstract}
+
+%body
+Wir sitzen an unserem Computer oder Smartphone und scrollen durch
+vorgeschlagene Angebote. Wir hören uns Musik an, die uns, basierend auf
+unserer Playlist, empfohlen wird und lassen uns von einem
+Navigationssystem durch den Großstadtdschungel führen. Wenn wir eine
+Auskunft zu unserer Kreditwürdigkeit machen müssen, geben wir einen
+Score weiter, der von einem Algorithmus berechnet wurde. Mittlerweile
+ist es für uns normal, dass wir von maschinell lernenden Algorithmen
+(auch "schwache Künstliche Intelligenz" genannt) umgeben sind. Sie
+schlagen uns Produkte und Dienstleistungen vor, die wir eventuell kaufen
+wollen, die Sozialen Medien buhlen um unsere Aufmerksamkeit und
+Bildschirmzeit und Alexa reagiert auf unsere Anfragen. Und das alles
+basierend auf Daten, die über uns gesammelt wurden oder aus abgeleiteten
+Daten von Anderen. Im Allgemeinen wird angenommen, dass datenbasierte
+Software neutral und unvoreingenommen ist und somit gewisse
+Entscheidungen \enquote{besser} treffen kann als der Mensch.
+
+Seit einigen Jahren gibt es einen stetig größer werdenden Diskurs und
+zunehmend Untersuchungen darüber, ob diese Annahme der Neutralität
+tatsächlich zutrifft. Mittlerweile wurde die Vermutung, dass Algorithmen
+neutrale(re) Entscheidungen treffen, vielfach widerlegt (vgl. O'Neil
+2017; Zweig 2019). Tatsächlich verstärken datenbasierte
+Entscheidungssysteme bestehende Diskriminierungen und Benachteiligungen
+eher noch als sie zu verringern (vgl. Zweig 2019, S. 211).
+Funktionstüchtige Entscheidungssysteme müssen nicht nur programmiert
+werden, sondern auch trainiert. Damit ein Algorithmus arbeiten kann,
+braucht er eine enorme Menge an Trainingsdaten, anhand derer er
+\enquote{lernt} Entscheidungen zu treffen. Die Trainingsdaten, die der
+Algorithmus bekommt, sind bereits vorhandene Daten aus der
+Vergangenheit. Diese Datengrundlage kann schon an sich problematisch
+sein, da die bereits bestehenden Daten sehr wahrscheinlich die
+Wertvorstellungen und Diskriminierungen repräsentieren, die in der
+Gesellschaft herrschen, in der sie erhoben wurden. So werden bereits
+vorbelastete Daten durch den Algorithmus zu vermeintlich neutralen
+Datenströmen. In Wirklichkeit werden aber die eingebetteten
+Benachteiligungen reproduziert und verstärkt. Das folgende Beispiel aus
+den USA macht diesen Prozess deutlich.
+
+In den USA wird ein datenbasiertes Bewertungssystem bei Strafverfahren
+verwendet. Dieses soll den Richter\_innen dabei helfen, anhand eines
+berechneten Risiko-Scores für die angeklagte Person die angemessene
+Strafe zu fällen. Diesem algorithmischen Bewertungssystem liegen Daten
+zugrunde, die seit 1995 anhand eines Fragebogens erhoben werden. Der
+Fragebogen, der von den festgenommenen Personen selbst ausgefüllt werden
+muss, stellt allgemeine Fragen zu der Person, aber auch sehr
+persönliche. Fragen, wie oft die angeklagte Person schon mit der Polizei
+zu tun hatte oder in welchem Alter das erste Mal Kontakt mit der Polizei
+bestand, können schon eine Diskriminierung auslösen, bedenkt man dabei,
+dass BIPoC (Black, Indigenous and People of Color) sehr viel häufiger
+von der Polizei angehalten und kontrolliert werden als weiße Personen.
+Des Weiteren enthält der Fragebogen auch Fragen zum persönlichen Leben,
+zum Beispiel wie man aufgewachsen ist, wie die Familienkonstellation war
+und Fragen zu Freunden. Fragen, die bei einer Straftat keine Rolle
+spielen sollten, sich aber negativ auf die Bewertung auswirken können.
+Mehrere Studien haben bewiesen, dass dieses System BIPoC benachteiligt
+und sie höhere Strafen bekommen als weiße Menschen mit vergleichbaren
+Vergehen (vgl. O'Neil 2017, S. 25 ff).
+
+In dem Dokumentarfilm \enquote{Coded Bias} von Shalini Kantayya erzählt
+die MIT Computerwissenschaftlerin Joy Buolamwini, wie ihr während der
+Arbeit im Computer Lab aufgefallen ist, dass eine
+Gesichtserkennungssoftware ihr Gesicht nur erkannte, wenn sie sich eine
+weiße Maske aufsetzte. Aufgrund dieses Erlebnisses unternahm Joy
+Buolamwini weitere Untersuchungen dazu und fand heraus, dass auch andere
+Gesichtserkennungssoftware dunklere Haut schlechter erkannte als hellere
+Haut und dass die Systeme bei Frauen fehleranfälliger waren als bei
+Männern. Diese Defizite der Software konnten auf die unausgewogenen
+Trainingsdaten, mit denen der Algorithmus gefüttert wurde, zurückgeführt
+werden. Circa zwei Drittel der Trainingsdaten bestanden aus Fotos von
+hellhäutigen Männern, nur ein geringer Anteil waren Frauengesichter und
+noch weniger waren dunkelhäutige Frauen (vgl. Kantayya 2020). Diese
+Beispiele zeigen deutlich, dass datenbasierte Systeme nicht automatisch
+neutrale oder gerechtere Entscheidungen treffen als Menschen. Die
+Systeme werden mit Daten trainiert, welche die bereits vorhandenen
+Benachteiligungen und Unterrepräsentationen weiterführen.
+
+In ihrem Buch \enquote{Ein Algorithmus hat kein Taktgefühl -- Wo
+künstliche Intelligenz sich irrt, warum uns das betrifft und was wir
+dagegen tun können} beschreibt die Informatikprofessorin Katharina Zweig
+anschaulich, wie Algorithmen und datenbasierte Systeme funktionieren,
+was sie gut können und wo ihre Grenzen liegen (vgl. Zweig 2019). Laut
+Zweig können algorithmische Entscheidungssysteme keine \enquote{Lösung}
+von gesellschaftlichen Diskrepanzen sein. Sie macht dies unter anderem
+an dem Beispiel von Amazon deutlich. Amazon arbeitete in 2014 mit einem
+datenbasierten Bewerbungsbewertungssystem mit dem Ziel, mögliche
+Diskriminierung durch Menschen im Bewerbungsprozess auszuschließen. Als
+Trainingsdaten wurden die Bewerbungsunterlagen der vergangenen Jahre
+verwendet. Das Geschlecht wurde nicht in die Trainingsdaten eingespeist.
+Dabei wurde allerdings vergessen, dass in der Vergangenheit vor allem
+Männer erfolgreich eingestellt wurden und dass Frauen in großen
+Tech-Firmen unterrepräsentiert sind. So begann der Algorithmus damit,
+Frauen auszusortieren, wenn zum Beispiel aus ihren Unterlagen
+hervorging, dass sie an einem Frauen-College studiert hatten. Der
+Algorithmus hatte aufgrund seiner Trainingsdaten gelernt, dass dieses
+Merkmal nicht oft zu einer erfolgreichen Einstellung geführt hat und
+sortierte die Bewerbung deswegen aus (vgl. ebd. S. 212).
+
+Die Beispiele von Joy Buolamwini und Katharina Zweig führen uns zu einem
+weiteren Punkt, der bei der Arbeit mit Daten oft zu wenig Aufmerksamkeit
+bekommt. Es handelt sich um die Leerstellen, die Vergessenen, die
+blinden Flecken. Die, die nicht mitgedacht, nicht mitgezählt oder
+schlichtweg vergessen werden. Sind keine Daten über sie vorhanden,
+existieren sie nicht. In der Vergangenheit bis hin in die Gegenwart
+betrifft dies in vielen Bereichen minorisierte Gruppen und die größte
+Minderheit der Welt: die Frauen. Momentan machen Frauen 49,5 \% der
+Weltbevölkerung aus (vgl. Country Meters 2021, o. S.); trotzdem werden
+sie in vielen Bereichen, unter anderem in der Stadtplanung, der Medizin
+oder im Design, nicht (genügend) berücksichtigt. Dies kann, abgesehen
+von ärgerlichen Zwischenfällen im Alltag, auch schwerwiegende und
+lebensgefährliche Folgen haben. In ihrem Buch \enquote{Unsichtbare
+Frauen -- Wie eine von Daten beherrschte Welt die Hälfte der Bevölkerung
+ignoriert} (vgl. Criado-Perez 2020) geht Caroline
+Criado-Perez\footnote{Über die Autorin wird in den sozialen Medien
+  diskutiert. Auf Grund von Aussagen aus der Vergangenheit und ihrem
+  festhalten am binären Geschlechtersystem, wird ihr vorgeworfen
+  Trans-Menschen nicht mit einzubeziehen.} ausführlich auf dieses Thema
+ein und schildert die Probleme, die durch das Phänomen der
+Gender-Data-Gap ausgelöst werden. Im Vorwort ihres Buches erklärt sie,
+was sich hinter diesem Begriff verbirgt. In der Geschichtsschreibung
+klafft eine große Lücke der Sichtbarkeit von Frauen. Die Frauen nehmen
+\enquote{weder in kultureller noch in biologischer Hinsicht viel Platz
+ein. Stattdessen galten männliche Lebensläufe als repräsentativ für alle
+Menschen} (Criado-Perez 2020, S. 11). Dies betrifft aber nicht nur die
+Menschheitsgeschichte, sondern zeigt sich auch in vielen anderen
+Bereichen des Lebens. Diese Lücke nennt Criado-Perez die
+Gender-Data-Gap. Um zu verdeutlichen, wie weit die Gender-Data-Gap
+reicht, wird hier ein Beispiel vorgestellt. Die Schlangen, die sich in
+den Pausen von Veranstaltungen oder an anderen öffentlichen Orten vor
+Frauentoiletten bilden, sind wahrscheinlich allen schon aufgefallen,
+entweder weil sie daran vorbei gegangen sind oder sie selbst in der
+Schlange standen. Der Platz für Toiletten wird für Männer und Frauen in
+gleicher Quadratmeterzahl zur Verfügung gestellt. Dies erscheint gerecht
+und logisch. Allerdings gibt es in Männertoiletten Urinale, die weniger
+Platz einnehmen als Kabinen, weshalb mehr Menschen gleichzeitig auf die
+Toilette gehen können. Darüber hinaus benötigen Frauen beim Gang zur
+Toilette mehr Zeit, weil sie vermehrt von Kindern, älteren oder
+behinderten Personen begleitet werden. Auch die Periode oder
+Schwangerschaft beeinflusst die Dauer und Anzahl von Toilettenbesuchen.
+Bei der Planung der meisten öffentlichen Toiletten werden diese
+Bedürfnisse allerdings nicht berücksichtigt und so entstehen am Ende
+Warteschlangen vor WCs für Frauen (Criado-Perez 2020, S. 75 f).
+
+Von immer mehr Wissenschaftler\_innen wird diese scheinbar
+\enquote{neutrale} und \enquote{objektive} Sichtweise grundsätzlich in
+Frage gestellt (vgl. Criado-Perez 2020; D'Ignazio, Klein 2020; Roig
+2021). Die Welt, wie wir sie kennen, wurde fast vollständig von weißen
+Männern mit einer eurozentristischen Sicht erschaffen. Da diese
+Sichtweise sehr tief in der Gesellschaft verankert ist, wird sie
+fälschlicherweise als \enquote{neutral} und \enquote{objektiv}
+wahrgenommen. Daran anschließend kann auch das Beispiel des generischen
+Maskulinums als \enquote{geschlechtsneutraler} Schreibweise genannt
+werden.
+
+Ein weiteres Buch, das sich mit der Datendiskrepanz auseinandersetzt,
+ist \enquote{Data Feminism} der Autorinnen Catherine D'Ignazio und
+Lauren F. Klein (vgl. D'Ignazio, Klein 2020). Anhand von zahlreichen
+Beispielen aus den unterschiedlichsten Wissenschaftsbereichen zeigen die
+beiden Autorinnen auf, wie die Ungleichheit in den Daten entstanden ist
+und wie dies in Zukunft vermieden werden könnte. Entlang der sieben
+Prinzipien des Data Feminism, welche die Autorinnen erarbeitet haben,
+führen sie durch ihr Buch und die einzelnen Themenkomplexe. Im Folgenden
+werden die sieben Prinzipien kurz vorgestellt, da sie sehr deutlich
+zeigen, wie umfassend die feministische Sichtweise auf Forschungsarbeit
+sein kann.
+
+1. Prinzip -- Examine Power \emph{(Die Macht
+untersuchen}\footnote{Die kursiv geschriebenen deutschen Überschriften
+  sind eigene Übersetzungen.}\emph{)}
+
+Beim ersten Prinzip geht es darum, die Wer-Fragen zu stellen. Wer
+profitiert von den erhobenen Daten? Wer nicht? Wer macht die Arbeit? Wer
+wird außen vorgelassen? Wer sammelt die Daten und wessen Daten werden
+gesammelt? Wessen Prioritäten werden schlussendlich in einem Produkt
+oder den Ergebnissen der wissenschaftlichen Arbeit berücksichtigt? Und
+wessen nicht? (vgl. ebd. S. 47)
+
+2. Prinzip -- Challenge Power \emph{(Die Macht herausfordern)}
+
+Aufbauend auf dem ersten Prinzip, wird hier danach gefragt, wie
+ungleiche Machtstrukturen angegangen werden können. Außerdem, wie
+Systeme, Studien und Forschungsergebnisse auf Ungleichheit untersucht
+und wie diese gerechter gestaltet werden können (vgl. ebd. S. 72).
+
+3. Prinzip -- Elevate emotion and embodiment \emph{(Beachten von
+Gefühlen und Ausdrucksformen)}
+
+Hier stellen sich die Autorinnen die Frage, wie Daten visualisiert
+werden. Von Statistiken und Datenvisualisierungen wird besonders
+angenommen, dass sie neutral und objektiv seien. Auch wird immer wieder
+betont, wie wichtig eine nüchterne Präsentation von Daten ist. Emotionen
+und Menschlichkeit haben, in der Regel, in statistischen, visuellen
+Darstellungen keinen Platz. Hier weisen die Autorinnen darauf hin, dass
+jede Datenvisualisierung aus einer bestimmten Perspektive vorgenommen
+wird und somit nie ganz neutral oder objektiv sein kann (vgl. ebd. S.
+95 f).
+
+4. Prinzip -- Rethink binaries and hierarchies \emph{(Binaritäten und
+Hierarchien überdenken)}
+
+\enquote{Was gezählt wird, zählt}, sagte die feministische Geografin
+Joni Seager (vgl. ebd. S. 97). Bei Prinzip 4 regen die Autorinnen an,
+Klassifikationssysteme zu hinterfragen. Klassifikationen spiegeln die
+Werte, aber genauso die Vorurteile einer Gesellschaft wider (vgl. ebd.
+S. 123). Ein allgegenwärtiges Beispiel dafür sind Anmeldeformulare, in
+denen das Geschlecht angegeben werden muss, die Auswahl sich aber auf
+die weibliche und männliche Option beschränkt. In diese Formulare können
+sich Intersexuelle oder Non-Binäre Menschen nicht wahrheitsgetreu
+eintragen, werden somit auch nicht mitgezählt und in den Ergebnissen der
+Untersuchungen oder in offiziellen Statistiken der Länder auch nicht
+repräsentiert.
+
+5. Prinzip -- Embrace pluralism \emph{(Diversität fördern)}
+
+Unsere Gesellschaft ist vielschichtig und divers. Wenn Studien
+durchgeführt werden, sollte darauf geachtet werden, dass alle
+Betroffenen der Untersuchung \emph{und} der Ergebnisse mit einbezogen
+und mitgedacht werden. Die Personen, die sich am besten mit der
+untersuchten Angelegenheit auskennen, sind die Personen deren
+Angelegenheit untersucht wird. Die lokale Zusammenarbeit soll dabei
+berücksichtigt und gefördert werden, genauso wie die Diversität in der
+Forschung selbst (vgl. ebd. S. 147 f).
+
+6. Prinzip -- Consider context \emph{(Den Kontext beachten)}
+
+Die Autorinnen weisen bei diesem Prinzip darauf hin, dass Daten nicht
+neutral und objektiv sind, sondern immer in einem bestimmten Kontext
+entstehen und auch in diesem gelesen werden sollten. Zahlen können nicht
+für sich selbst sprechen. Der Kontext sollte stets miteinbezogen,
+dargestellt und sichtbar gemacht werden. Außerdem sollte die Frage
+danach gestellt werden, wie der ursprüngliche Kontext war, wenn Daten
+nachgenutzt werden (vgl. ebd. S. 171 f).
+
+7. Prinzip -- Make labor visible \emph{(Die Arbeit sichtbar machen)}
+
+Im siebten und somit letzten Prinzip des Data Feminism, erinnern die
+Autorinnen daran, dass fertiggestellte Arbeit, die Arbeit vieler ist.
+Sie regen an, sich die Fragen zu stellen: Durch wie viele Hände geht ein
+Produkt/eine Untersuchung bis es/sie fertig ist? Die Arbeit von welchen
+Menschen wird womöglich vergessen/nicht gezeigt? Die Arbeit Anderer
+sichtbar zu machen, bedeutet andere Menschen zu unterstützen, in den
+Fokus zu rücken und ihren Anteil an der Arbeit zu würdigen (vgl. ebd. S.
+200 f).
+
+Zusammenfassend arbeiten die sieben Prinzipien des Data Feminism von
+Catherine D'Ignazio und Lauren F. Klein einen breiten Rahmen aus, wie
+Forschung gerechter werden kann. Das Buch ist Open Access
+erhältlich\footnote{data-feminism.mitpress.mit.edu/}.
+
+Was hat das nun alles mit der Bibliotheks- und Informationswissenschaft
+zu tun?
+
+Nun, unsere Disziplin ist darauf spezialisiert, mit Informationen zu
+arbeiten, die mittlerweile meistens digital sind. Informationen sind
+unser Forschungsgegenstand, unser Hauptaugenmerk. Ob wir nun
+untersuchen, wie Menschen, Informationen und Technologien interagieren
+oder wie Informationen gefunden, aufbereitet und nutzbar gemacht werden
+können. Oder ob wir über die Relevanz von Informationssystemen und den
+Aufbau von Datenbanken nachdenken. Bis hin zu der Nutzung von
+Klassifikationen und Bibliothekskatalogen in der eigenen Forschung, aber
+auch als Endprodukt für Nutzer\_innen. Seit jeher sind Bibliotheken
+Meisterinnen der Katalogisierung und der Klassifikationen. Diesen
+Systemen liegen Wertvorstellungen zugrunde, und zwar nicht irgendwelche,
+sondern die Werte, die die Erschaffenden dieser Systeme hatten. Wie
+verschiedene Klassifikationssysteme zeigen (z. B. die
+Dewey-Dezimalklassifikation), repräsentieren sie eine gewisse
+Weltanschauung und verweisen auf den Zeitgeist, in welchem diese Systeme
+erstellt wurden. Erneuerungen und Anpassungen an die sich verändernden
+Werte werden zwar vorgenommen, meistens aber sehr verzögert und nicht
+umfassend. Zum Beispiel wurde erst in der 22. Fassung der
+Dewey-Dezimalklassifikation von 2006 der Begriff \enquote{rassisch}
+geändert, sowie die Ausschließung der Notationen für Rassen vorgenommen
+(vgl. Chan, Mitchel 2006, S. 186).
+
+Abgesehen von den ethischen Fragen, die sich unsere Disziplin in Bezug
+auf Daten und Informationen stellen muss, sollte auch nicht vergessen
+werden, dass wir uns in einem System mit Machtstrukturen bewegen. Wir
+sollten uns vergegenwärtigen, dass es auch im Kontext des
+Bibliothekswesens und der Bibliotheks- und Informationswissenschaft
+Personen oder Gruppen gibt, die wenig bis keine Repräsentation erfahren
+und diese in Zukunft in unsere Forschung und in die Entwicklung von
+neuen Konzepten in Bibliotheken mit einbeziehen (Stichwort: Diversity
+Management).
+
+Abschließend kann gesagt werden, dass die feministische oder die
+ganzheitliche Sicht auf die Arbeit mit Daten im ersten Moment vielleicht
+komplizierter und aufwändiger erscheint als altbewährte Strategien,
+allerdings die so erarbeitete Forschung und Konzepte umfassender,
+gerechter und repräsentativer sein werden als bisher. Und dies ist doch
+ein erstrebenswertes Ziel.
+
+Literaturnachweise:
+
+Chan, Lois Mai; Mitchell, Joan S.: \emph{Dewey Dezimalklassifikation --
+Theorie und Praxis. Lehrbuch zur DDC 22}. München, 2006.
+
+Country Meters (abgerufen am 05.06.21),
+https://countrymeters.info/de/World.
+
+Criado-Perez, Caroline: \emph{Unsichtbare Frauen -- Wie eine von Daten
+beherrschte Welt die Hälfte der Bevölkerung ignoriert}. München, 2020.
+
+D'Ignazio, Catherine; Klein, Lauren F.: \emph{Data Feminism}.
+Massachusetts, 2020, \linebreak https://data-feminism.mitpress.mit.edu/.
+
+Kantayya, Shalini: \emph{Coded Bias}. United States: 7th Empire Media,
+2020.
+
+O'Neil, Cathy: \emph{Weapons of Math Destruction -- How Big Data
+increases Inequality and threatens Democracy}. London, 2017.
+
+Roig, Emilia: \emph{Why we matter -- Das Ende der Unterdrückung}.
+Berlin, 2021.
+
+Zweig, Katharina: \emph{Ein Algorithmus hat kein Taktgefühl -- Wo
+künstliche Intelligenz sich irrt, warum uns das betrifft und was wir
+dagegen tun können.} München, 2019.
+
+%autor
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{Sara Juen} , *1983, Sortimentsbuchhändlerin, von 2016--2019
+Bachelorstudium in Bibliotheks- und Informationswissenschaft an der
+Humboldt Universität zu Berlin, seit Oktober 2019 Masterstudentin für
+Informationswissenschaft (HU). Seit 2021 Mitglied der LIBREAS Redaktion.
+ORCID: https://orcid.org/0000-0003-0725-8592
+
+\end{document}

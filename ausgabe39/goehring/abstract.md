@@ -1,0 +1,3 @@
+**Abstract:** Der Beitrag begibt sich auf Spurensuche und versucht einen Überblick zu geben, in welcher Funktion Roboter in deutschen Bibliotheken eingesetzt werden, wie Roboter von Nutzenden und Belegschaft angenommen werden und was die Grenzen des Einsatzes der Bibliotheksrobotik sind. Dazu wurden vier Einrichtungen in einem schriftlichen beziehungsweise telefonischen Interview zu den sich im Einsatz befindlichen Robotern befragt und die Ergebnisse in dieser Umfrage dargestellt.
+
+**Schlüsselwörter:** Roboter, Künstliche Intelligenz, Bibliotheken, Deutschland
