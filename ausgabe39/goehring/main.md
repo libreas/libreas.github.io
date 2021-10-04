@@ -1,4 +1,4 @@
-![Roboter aus der Robotervitrine im Eingangsbereich des Deutsches Technikmuseum in Berlin. Mit freundlicher Genehmigung der Stiftung Deutsches Technikmuseum Berlin / C. Kirchner.](img/Robotervitrine.jpg)
+![Roboter aus der Robotervitrine im Eingangsbereich des Deutsches Technikmuseum in Berlin. Mit freundlicher Genehmigung der Stiftung Deutsches Technikmuseum Berlin (Bildrechte: SDTB / C. Kirchner).](img/Robotervitrine.jpg)
 
 Während des Semesterstarts ist an Universitäten bekanntlich viel los.
 Überall herrscht hektische Betriebsamkeit. Studierende suchen ihren
@@ -13,7 +13,7 @@ geführt, sondern von kindsgroßen humanoiden Robotern, die zum Beispiel
 auf den Namen Wilma, Ada oder Nao hören.
 
 Als ich mich auf die Suche nach Robotern in deutschen Bibliotheken
-mache, bin ich erstaunt wie groß die Bandbreite der im Einsatz
+mache, bin ich erstaunt, wie groß die Bandbreite der im Einsatz
 befindlichen Bibliotheksroboter ist. Und das betrifft nicht nur die
 äußere Erscheinung (wie Größe, Form und Ausstattung), sondern auch die
 vielfältigen Einsatzgebiete und das Aufgabenspektrum, welche die
@@ -40,18 +40,18 @@ stellt sich auch die Frage, ob in Bibliotheken der Einsatz einer anderen
 Art von Maschine beziehungsweise Technologie, nämlich die des Computers
 -- welche im virtuellen und nichtmateriellen Raum agiert -- nicht einen
 größeren Mehrwert verspricht als ein Roboter. Stichworte sind in diesem
-Zusammenhang Begriffe wie Künstliche Intelligenz, maschinelles Lernen
+Zusammenhang Begriffe wie Künstliche Intelligenz, Maschinelles Lernen
 und computerbasierte Wissens- und Informationsvernetzung.
 
 Der dritte Teil des Beitrags setzt sich mit der Frage auseinander, wie
 der Mensch mit dem "Humanoiden" umgeht. Tritt man diesem aufgeschlossen
 oder zurückhaltend gegenüber, gibt es Berührungsängste von Seiten der
-Nutzenden und wie gestaltet sich der Erstkontakt mit dem Roboter. Mich
+Nutzenden und wie gestaltet sich der Erstkontakt mit dem Roboter? Mich
 interessiert auch die Sicht der Belegschaft auf den/die Kolleg\*innen
 der anderen Art. Wird der Roboter als Konkurrenz angesehen oder als
 Kolleg\*in, der/die ungeliebte Arbeiten oder Routineaufgaben abnimmt und
 welcher es ermöglicht, sich auf interessantere und wichtigere Aufgaben
-oder Projekte zu konzentrieren.
+oder Projekte zu konzentrieren?
 
 ### Methode
 
@@ -121,11 +121,12 @@ Auch die Stadtbücherei Frankfurt hat in diesem Zusammenhang ihre Roboter
 vorgestellt und versucht so, Themen wie Digitalisierung und Roboter mehr
 in die "Mitte der Gesellschaft" zu rücken, und zwar in einer plastischen
 und erlebbaren Form. Elfriede Ludwig, die Leiterin des Bereichs
-»Digitale Dienste« in der Stadtbücherei Frankfurt am Main, meint in
-diesem Zusammenhang: "Wie könnte man Themen wie Robotik, Coding und
-Programmieren besser erfahrbar machen als am Roboter selbst? Diese
-Gedanken haben uns am Ende dazu bewogen, Roboter anzuschaffen
-\[...\]."[^6] Als informelle Bildungseinrichtungen sollen Bibliotheken
+"Digitale Dienste" in der Stadtbücherei Frankfurt am Main, meint in
+diesem Zusammenhang: 
+
+> "Wie könnte man Themen wie Robotik, Coding und Programmieren besser erfahrbar machen als am Roboter selbst? Diese Gedanken haben uns am Ende dazu bewogen, Roboter anzuschaffen \[...\]."[^6] 
+
+Als informelle Bildungseinrichtungen sollen Bibliotheken
 so helfen, ergänzend zu den schulischen Angeboten, eine Plattform zu
 bieten, um Zugänge zu schaffen, sich mit neuen Technologien zu
 konfrontieren und kritisch auseinanderzusetzen. All dies in der
@@ -170,11 +171,11 @@ durch eine staunende Öffentlichkeit bahnen, bis sie an ihrem Zielort
 angekommen sind. "In Anlehnung an das Grimm\'sche Märchen vom ewigen
 Wettlauf zwischen Hase und Igel"[^7] werden so seit 2003 die Medien in
 Adlershof an die entsprechende Stelle transportiert, erzählt mir Anja
-Herwig, die Stellvertretende Leiterin der Zweigbibliothek
+Herwig, die stellvertretende Leiterin der Zweigbibliothek
 Naturwissenschaften. Allerdings ziehen die Roboter immer weniger ihre
 Runden durch die einprogrammierten Laufwege der Bibliothek. "Die beiden
 Blechkollegen sind schon etwas in die Jahre gekommen und laufen nicht
-mehr ganz störungsfrei"[^8], resümiert sie weiter. Und da die beiden
+mehr ganz störungsfrei",[^8] resümiert sie weiter. Und da die beiden
 Exoten einzigartig in der Bibliothekslandschaft sind, scheitere es
 zunehmend an der Beschaffung von Ersatzteilen beziehungsweise an
 Techniker\*innen, welche die Montage und Reparaturen vornehmen können.
@@ -196,7 +197,7 @@ innerhalb der Bibliothek wie folgt:
 
 > "Ich verstehe mich eher als Assistenzsystem und helfe den Mitarbeiter\*innen der Bibliothek, wo ich kann und bringe ihnen Entlastung. Ich bin ein Lern- und Forschungsroboter; das heißt, die Studenten des Studiengangs Telematik, die mich vorwiegend programmieren, probieren viel an mir aus -- was als Ergebnis den Kunden der Bibliothek zugute kommen soll \[...\]. Ich unterstütze zum Beispiel, indem ich kleine Bibliotheksführungen gebe oder Zuhörern zum Entspannen Witze erzähle, mit -- vor allem jungem -- Nachwuchs Schere-Stein-Papier spiele oder für ein Selfie zur Verfügung stehe. Ab dem kommenden Wintersemester soll ich helfen, das Fehlen von Fachpersonal in den Abend- und Morgenstunden zu kompensieren, damit Studierende rund um die Uhr hier arbeiten können."[^10]
 
-![Screenshot aus dem Video: Auf einen Espresso mit Wilma](img/Wilma.PNG)
+![Screenshot aus dem Video: Auf einen Espresso mit Wilma. Mit freundlicher Genehmigung der Hochschulbibliothek der TH Wildau (Dr. Frank Seeliger).](img/Wilma.PNG)
 
 Im Konzept bezüglich der Einsatzgebiete von Wilma sei immer angelegt
 gewesen, so sagt mir der Bibliotheksdirektor der Hochschulbibliothek der
@@ -245,7 +246,7 @@ Antwortgenerierung angeht, steckt noch in den Kinderschuhen. Ebenfalls
 ein Problem von Robotern scheint die zuverlässige Funktionsweise, wie
 man sie von anderen Systemen her kennt, zu sein. Die Fehleranfälligkeit
 sei ein weiteres Problem. Das Robotersystem ist "sehr komplex und viele
-verschiedene Ebenen müssen ineinandergreifen bis sich etwas bewegt"[^13]
+verschiedene Ebenen müssen ineinandergreifen, bis sich etwas bewegt",[^13]
 meint Frank Seeliger. Es scheint erst einmal nötig zu sein, dass Roboter
 lernen, sich im Raum und in der Umgebung angemessen zu bewegen, zu
 orientieren und zurechtzufinden; auch unter sich verändernden
@@ -288,55 +289,48 @@ sehen, welche sich im digitalen Raum manifestieren. Schlagwort in diesem
 Zusammenhang ist der Einsatz von Künstlicher Intelligenz (KI) in
 Bibliotheken. Diese im virtuellen Raum eingesetzte Technologie übernimmt
 schon heute Kernaufgaben des Bibliothekars/der Bibliothekarin. Bei der
-Klassifizierung von Wissen setzt die DNB[^15] schon einige Jahre lang
+Klassifizierung von Wissen setzt die Deutsche Nationalbibliothek[^15] schon einige Jahre lang
 auf die automatisierte Inhaltserschließung mittels linearer Regression
 und Algorithmen. Auch die Bayerische Staatsbibliothek setzt zur
 Vernetzung und Visualisierung von Wissen im Projekt YEWNO[^16] eine
 semantische Suchmaschine basierend auf dem Einsatz von KI ein. Im
 Zusammenhang mit der Wissensvernetzung hat man auch bei den sogenannten
-Recommender System in bibliothekarischen Suchmaschinen große
+Recommender Systemen in bibliothekarischen Suchmaschinen große
 Fortschritte erzielt. Diese Empfehlungsdienste setzen Methoden des
 Maschinellen Lernens und des Information Retrievals ein, um den
 Nutzenden Literatur vorzuschlagen, welche für sie auch noch von
 Interesse und Relevanz sein könnte. Perspektivisch sollen diese Dienste
 dahingehend erweitert werden, dass die Systeme eine durch die Nutzenden
-eingegeben Textstelle semantisch verstehen und in einem Folgeschritt
+eingegebene Textstelle semantisch verstehen und in einem Folgeschritt
 einen Pool von Werken durchsuchen und analysieren, um thematisch ähnlich
-Werke (auch über den lokalen Bibliotheksbestand hinaus) herausfiltern
+Werke (auch über den lokalen Bibliotheksbestand hinaus) herauszufiltern
 und diese als Empfehlung vorzuschlagen. Im Prinzip ähnlich wie eine
 Software, welche dazu genutzt wird, Plagiate zu erkennen; nur in
 umgekehrter Richtung. "KI könnte in diesem Zusammenhang die vorhandenen
 Serviceangebote der Bibliothek ergänzen und eine neue Serviceplattform
-anbieten"[^17], erklärt mir Frank Seeliger begeistert. Er bestätigt auch
+anbieten",[^17] erklärt mir Frank Seeliger begeistert. Er bestätigt auch
 meine Vermutung, dass KI das Bibliothekswesen sehr viel stärker
 verändern wird, als das die Robotik jemals könnte.
 
 Im digitalen Raum ist uns, was die Erfassung, Auswertung, Verarbeitung,
 Aggregation und Visualisierung von Daten angeht, KI heute schon weit
 überlegen. Und die lernenden Systeme werden durch die gestiegene Anzahl
-an Trainingsdaten (Zugriff auf Volltexte durch die Erhöhung des Open
-Access-Anteils an Publikationen und die höhere zur Verfügung stehende
+an Trainingsdaten (Zugriff auf Volltexte durch die Erhöhung des Open-Access-Anteils an Publikationen und die höhere zur Verfügung stehende
 Rechnerleistung zur Verarbeitung der Daten) immer besser, auch wenn man
 an der einen oder anderen Stelle die Systeme noch nachjustieren muss. Im
 KI-Bereich schätzen die Expert\*innen die Szenarien, was den Mehrwert
 und das Potenzial für Bibliotheken angeht sich weiterzuentwickeln, als
 sehr viel höher ein, als durch die Bibliotheksrobotik. Wenn man sich die
 Maschinen im realen Raum anschaut, meint Frank Seeliger, dann wird einem
-sehr schnell klar, dass "kein Roboter eine Treppe steigen kann,
-geschweige denn, den Menschen in seiner Fülle und Dynamik, in seiner
-fließenden Art abzubilden. Da ist mehr von KI zu erwarten und das wird
-das Bibliothekswesen und die Arbeit in einer Bibliothek sehr viel
-stärker verändern als die Robotik."[^18] Zumal die Robotik nach heutigem
-Entwicklungsstand sehr viel mehr Arbeit als Entlastung bedeutet. "So,
-wie wir heute unsere Roboter einsetzen, bedeutet das eigentlich sogar
-Mehrarbeit, da wir Veranstaltungsformate neu entwickeln und umsetzen
-müssen"[^19], meint Elfriede Ludwig. Und auch Frank Seeliger weist
-energisch darauf hin:
+sehr schnell klar, dass 
+
+> "kein Roboter eine Treppe steigen kann, geschweige denn, den Menschen in seiner Fülle und Dynamik, in seiner fließenden Art abzubilden. Da ist mehr von KI zu erwarten und das wird das Bibliothekswesen und die Arbeit in einer Bibliothek sehr viel stärker verändern als die Robotik."[^18]
+
+Zumal die Robotik nach heutigem Entwicklungsstand sehr viel mehr Arbeit als Entlastung bedeutet. "So, wie wir heute unsere Roboter einsetzen, bedeutet das eigentlich sogar Mehrarbeit, da wir Veranstaltungsformate neu entwickeln und umsetzen müssen",[^19] meint Elfriede Ludwig. Und auch Frank Seeliger weist energisch darauf hin:
 
 > "Wenn sie sich Technik ins Haus holen, dann brauchen sie auch einen Support für diesen. Und da gibt es zwei Möglichkeiten, entweder sie kaufen sich das Know How als Serviceleistung teuer ein, oder sie haben einen Informatiker im Haus, der sich darum kümmert. Aber es macht nichts einfacher, das ist natürlich immer komplexer, gerade solche Systeme am Laufen zu halten. Das technische Level aufrecht zu erhalten kostet extrem viel Zeit und Personal."[^20]
 
-### Reaktionen der Nutzenden und Mitarbeitenden auf die
-Bibliotheksroboter
+### Reaktionen der Nutzenden und Mitarbeitenden auf die Bibliotheksroboter
 
 Nachdem zuvor die Funktion und die Grenzen beziehungsweise
 Schwierigkeiten von Bibliotheksrobotern näher beleuchtet wurden, bleibt
@@ -344,15 +338,15 @@ noch die Frage nach den Reaktionen und dem Umgang mit den "Humanoiden"
 aus Sicht der Nutzenden und Mitarbeitenden zu beantworten. Aus den
 Rückmeldungen der Einrichtungen habe ich das Gefühl, dass die Roboter
 den Status von Maskottchen für die Bibliotheken haben. Anja Herwig vom
-Erwin-Schrödinger-Zentrum meint zur Akzeptanz bei den Nutzenden: "Ich
-habe den Eindruck, dass Hase und Igel zur Adlershofer
-Studierenden-Folklore gehören; nur wer die beiden kennt, gehört wirklich
-dazu."[^21] Auch ihre Kollegin von der Stadtbibliothek Köln hält fest:
-"Die Roboter werden sehr positiv angenommen. Vor allem Kinder freuen
-sich und sind fasziniert davon, was sie alles selber programmieren
-können. Auch in der Belegschaft ist das Angebot angekommen, so gehören
-die Roboter für alle zum festen Bestandteil des Angebotes und sind nicht
-mehr wegzudenken."[^22] Da die Roboter (ausgenommen von denen in
+Erwin-Schrödinger-Zentrum meint zur Akzeptanz bei den Nutzenden: 
+
+> "Ich habe den Eindruck, dass Hase und Igel zur Adlershofer Studierenden-Folklore gehören; nur wer die beiden kennt, gehört wirklich dazu."[^21] 
+
+Auch ihre Kollegin von der Stadtbibliothek Köln hält fest:
+
+> "Die Roboter werden sehr positiv angenommen. Vor allem Kinder freuen sich und sind fasziniert davon, was sie alles selber programmieren können. Auch in der Belegschaft ist das Angebot angekommen, so gehören die Roboter für alle zum festen Bestandteil des Angebotes und sind nicht mehr wegzudenken."[^22] 
+
+Da die Roboter (ausgenommen von denen in
 Adlershof) ein kindliches Aussehen haben, gestaltet sich der Erst- und
 auch die Folgekontakte in aller Regel unproblematisch. Sowohl die
 Nutzenden als auch die Belegschaft reagiert auf den Roboter ohne
@@ -368,19 +362,18 @@ Kontakt mit den Robotern zu dominieren. Auch in Adlershof fungieren Hase
 beispielsweise der Langen Nacht der Wissenschaften ein und kommt durch
 die Roboter mit den Nutzenden (noch leichter) ins Gespräch. In diesem
 Zusammenhang berichtet Anja Herwig von einer Anekdote bei einer der
-letzten Veranstaltungen: "So habe ich zum Beispiel vor einigen Jahren 
-kurz vor Ende der Veranstaltung noch einer kleinen Gruppe Jugendlicher/junger 
-Erwachsener \[...\] Hase \& Igel gezeigt -- 10 Minuten später habe ich ihnen 
-erklärt, welche Literatur sie unter welchen Bedingungen bei uns für die Abi-Vorbereitung bekommen."[^23]
+letzten Veranstaltungen: 
 
-Grundsätzlich kann man sagen, dass die humanoiden Roboter wie sie in
+> "So habe ich zum Beispiel vor einigen Jahren kurz vor Ende der Veranstaltung noch einer kleinen Gruppe Jugendlicher/junger Erwachsener \[...\] Hase \& Igel gezeigt -- 10 Minuten später habe ich ihnen erklärt, welche Literatur sie unter welchen Bedingungen bei uns für die Abi-Vorbereitung bekommen."[^23]
+
+Grundsätzlich kann man sagen, dass die humanoiden Roboter, wie sie in
 Frankfurt, Köln oder Wildau im Einsatz sind, sehr wohlwollend von den
 Nutzenden aufgenommen werden. Durch ihr "menschenähnliches Aussehen
 genießen sie eine hohe Akzeptanz bei den Nutzenden und sind bestens für
 interaktions- beziehungsweise emotionsbesetzte Ereignisse geeignet. Ein
 großer Vorteil ist vor allem, dass sie etwas symbolisch wiedergeben oder
 versinnbildlichen können, was wir mit Automatisierung beziehungsweise
-Digitalisierung gleichsetzen"[^24], konstatiert Frank Seeliger zu diesem
+Digitalisierung gleichsetzen",[^24] konstatiert Frank Seeliger zu diesem
 Thema. Auch innerhalb der Belegschaft, so versicherten mir die
 Einrichtungen, habe es keinerlei Vorbehalte oder Ängste von dem Roboter
 ersetzt zu werden oder mit ihm in ein kompetitives Verhältnis zu treten
@@ -428,7 +421,7 @@ Ludwig, Elfriede: Roboter gehören in eine Öffentliche Bibliothek In:
 Forum Bibliothek und Information 11/2019, Seite 621 und 622.
 
 Ludwig, Elfriede: Schriftliches Interview mit Elfriede Ludwig (Leiterin
-des Bereichs »Digitale Dienste« in der Stadtbücherei Frankfurt am Main),
+des Bereichs "Digitale Dienste" in der Stadtbücherei Frankfurt am Main),
 geführt am 21. Januar 2021.
 
 Schulz, Eckart: Der ewige Wettlauf zwischen Hase und Igel In: Forum
@@ -458,7 +451,7 @@ YEWNO (Discovery Service): <https://www.bsb-muenchen.de/suchen-und-finden/yewno/
 
 [^7]: Schulz, Eckart: Der ewige Wettlauf zwischen Hase und Igel In: Forum Bibliothek und Information 02-03/2018, Seite 114*.*
 
-[^8]: Schriftliches Interview mit Anja Herwig (Stellvertretende Leiterin der Zweigbibliothek Naturwissenschaften der Humboldt-Universität zu Berlin), geführt am 13. Januar 2021.
+[^8]: Schriftliches Interview mit Anja Herwig (stellvertretende Leiterin der Zweigbibliothek Naturwissenschaften der Humboldt-Universität zu Berlin), geführt am 13. Januar 2021.
 
 [^9]: Auf einen Espresso mit Wilma -- Interview mit dem humanoiden Roboter Pepper <https://www.youtube.com/watch?v=-gGQBuOBg7U> (aufgerufen am 7.4.2021).
 
@@ -480,7 +473,7 @@ YEWNO (Discovery Service): <https://www.bsb-muenchen.de/suchen-und-finden/yewno/
 
 [^18]: Ebenda.
 
-[^19]: Schriftliches Interview mit Elfriede Ludwig (Leiterin des Bereichs »Digitale Dienste« in der Stadtbücherei Frankfurt am Main), geführt am 21. Januar 2021.
+[^19]: Schriftliches Interview mit Elfriede Ludwig (Leiterin des Bereichs "Digitale Dienste" in der Stadtbücherei Frankfurt am Main), geführt am 21. Januar 2021.
 
 [^20]: Telefonisches Interview mit Dr. Frank Seeliger (Leiter der Hochschulbibliothek der TH Wildau), geführt am 21. Dezember 2020.
 
