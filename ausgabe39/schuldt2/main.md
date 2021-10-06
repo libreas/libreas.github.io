@@ -1,13 +1,13 @@
 Dieser Text sollte eine kurze Rezension eines aktuellen Buches werden,
 welches thematisch zum Schwerpunkt dieser Ausgabe passt und -- auch weil
-es mit fast 400 Seite sehr umfangreich ist -- viel versprach: "Histoire
+es mit fast 400 Seiten sehr umfangreich ist -- viel versprach: "Histoire
 d\'une (r)évolution: L\'informatisation des bibliothèques genevoises
 1963-2018". Alain Jacquesson und Gabrielle von Roten (Jacquesson & von
-Roten 2019) versprechen mit ihrer Geschichte der "Informatisation" --
+Roten 2019) versprechen mit dieser Geschichte der "Informatisation" --
 der Ausstattung mit Computer und ähnlichen Maschinen sowie den damit
 einhergehenden Umstellungen -- der Bibliotheken im Kanton Genf seit 1963
 Themen anzugehen, die im Call for Paper für diese Ausgabe der Libreas
-angesprochen wurden: Der Einfluss von Technik und Automatisierung bei
+angesprochen wurden: Den Einfluss von Technik und Automatisierung bei
 der Entwicklung von Bibliotheken. Das klingt relevant, aber leider
 erfüllt das Buch die Erwartungen, die es weckt, nicht.
 
@@ -15,7 +15,7 @@ Beide Autor\*innen haben das Bibliothekswesen in Genf und der
 (französischsprachigen) Westschweiz lange begleitet. Einer der beiden,
 Alain Jacquesson, hat über die Jahre weitere Monographien verfasst, die
 sich mit der Informatisation von Bibliotheken befassen. Diese sind, im
-Gegensatz zum aktuellsten Buch, nicht historisch, sondern zum Beispiel
+Gegensatz zum aktuellsten Buch, nicht als historische Arbeit, sondern zum Beispiel
 als Lehrbücher (Jacquesson 1995; Jacquesson & Rivier 2005) oder
 Debattenbeiträge (Jacquesson 2010) konzipiert. Damit liegt ein
 interessanter Fall vor: Für das aktuelle Buch wurden Entscheidungen
@@ -76,14 +76,14 @@ ETH Zürich werden angesprochen. Was ausserhalb dessen in den
 Bibliotheken der restlichen Sprachräume der Schweiz passierte, scheint
 hingegen die Autor\*innen überhaupt nicht zu interessieren. Sehr
 sichtbar wird dies am Kapitel über die Ausbildung für Genfer
-Bibliothekar\*innen. (Jacquesson & von Roten 2018: 253-278)
+Bibliothekar\*innen. (Jacquesson & von Roten 2018: 253–278)
 Selbstverständlich stehen (angehenden) Bibliothekar\*innen in der
 Schweiz mehrere Möglichkeiten der Aus- und Weiterbildung offen.[^1] In
 diesem Kapitel werden aber nur, dafür ausführlich, die Entwicklungen des
 Curriculums an der Bibliotheksschule, später Fachhochschule in Genf,
 Weiterbildungen an den Universitäten Genf, Lausanne, Fribourg und Bern
 sowie Kurse für Öffentliche Bibliotheken erwähnt. Weiter wird der Bogen
-nicht gespannt -- oder anders gesagt: Über den \"Röstigraben\" wird
+nicht gespannt -- oder anders gesagt: Über den "Röstigraben" wird
 nicht gegangen.[^2]
 
 Das ganze Buch scheint davon zu leben, an welchen Projekten die beiden
@@ -102,7 +102,7 @@ Bezug auf die Informatisation passierte. Manchmal werden beteiligte
 Personen vorgestellt, oft geht es nur um den Ablauf von Projekten und
 die Entwicklung neuer Technologien. In einigen Fällen führt das dazu,
 dass der Text fast nur aus kurzen Absätzen besteht, die immer gleich
-anfangen: "En 1999\...", "En 2001\...", "En 2002..", "En 2006"
+anfangen: "En 1999\...", "En 2001\...", "En 2002...", "En 2006..."
 (Jacquesson & von Roten 2019: 197).
 
 Es ist eine Chronologie, die einerseits den Eindruck einer möglichst
@@ -190,24 +190,24 @@ seines Berufslebens auch anders argumentiert hat. In seinem Buch
 neben einer Geschichte der Computer in Bibliotheken bis zum damaligen
 Zeitpunkt, auch, aus welchen Gründen Bibliotheken Technik auswählen oder
 sich gegen sie entscheiden sollen. Er führt explizit durch eine
-"Systemanalyse" über die Einführung von Hard- und Software (Jacquesson
-1995: 29-62) und diskutiert neben möglichen Vorteilen auch immer wieder
+"Systemanalyse" zur Einführung von Hard- und Software hindurch (Jacquesson
+1995: 29–62) und diskutiert neben möglichen Vorteilen auch immer wieder
 potentielle Nachteile und Veränderungen von Technologie. Zwar trifft er
 auch Aussagen über wahrscheinliche Entwicklungen (beispielsweise, dass
 es tendenziell immer weniger Bibliotheksverbünde gegeben wird, in diesen
 Bibliotheken aber ihre Autonomie grösstenteils erhalten werden können,
-Jacquession 1995: 149-210), das aber mit Vorsicht.
+Jacquession 1995: 149–210), das aber mit Vorsicht.
 
 In dem mit Alexis Rivier gemeinsam publizierten "Bibliothèques et
 documents numériques" (Jacquesson & Rivier 2005) wird zuerst ausführlich
 in Fragen der Digitalisierung eingeführt. Zum Beispiel wird geschildert,
 wie Texte und Bilder auf technischer Ebene elektronisch dargestellt
-werden. (Jacquesson & Rivier 2005: 71-94) Ebenso werden Technologien wie
+werden. (Jacquesson & Rivier 2005: 71–94) Ebenso werden Technologien wie
 Buchscanner nicht nur mit ihren Funktionen, sondern auch den dafür
 notwendigen technischen Grundlagen vorgestellt. (Jacquesson & Rivier
-2005: 127-167) Am Ende dieses Buches wird festgehalten, dass die
+2005: 127–167) Am Ende dieses Buches wird festgehalten, dass die
 Entwicklung von Technik in Bibliotheken offen ist. (Jacquesson & Rivier
-2005: 509-544) In diesen beiden Werken werden zwar Technologien und ihre
+2005: 509–544) In diesen beiden Werken werden zwar Technologien und ihre
 Entwicklung geschildert, aber den Bibliotheken auch eine grosse Agency
 zugestanden. Sie werden ermahnt, sich aktiv mit Möglichkeiten und
 Problemen auseinanderzusetzen. Es wird zwar nicht die Frage gestellt,
@@ -222,23 +222,23 @@ Einfluss auf die Entwicklung von Bibliotheken und der Nutzung von Medien
 haben wird. Es ist ein Diskussionsbeitrag zu einem damals stark
 diskutierten Thema. In ihm wird betont, dass Google mit diesem Projekt
 Digitale Bibliotheken nicht erfunden hat, aber eine gewisse Form von
-"Industrialisierung" eingeführt hätte. (Jacquesson 2010: 193-214) In
+"Industrialisierung" eingeführt hätte. (Jacquesson 2010: 193–214) In
 Zukunft wäre es nicht mehr möglich, trotz aller Kritik an dem Projekt
 selber, über digitale Bibliotheken zu reden, ohne Google Books zu
 erwähnen. (Jacquesson 2010: 165) Neun Jahre später, in der Geschichte
 der Informatisation der Bibliotheken in Genf, wird es nicht
 angesprochen. Auch in der am Ende eingefügten Tabelle (Jacquesson & von
-Roten 2019: 379-389) mit den wichtigsten Entwicklungen im Bezug auf das
+Roten 2019: 379–389) mit den wichtigsten Entwicklungen im Bezug auf das
 Thema in Genf, der Schweiz und weltweit, taucht es nicht auf.[^6]
 
 Vorhersagen treffen also auch nicht ein, Projekte scheitern,
 Technologien verschwinden wieder. Alain Jaquesson hat dies nicht nur
 beim Thema Google Books selbst erlebt, er schildert auch in seinen
 anderen Büchern, wie Technologien wieder abgelöst werden (beispielsweise
-Mainframe-Computer, Jacquesson 1995: 245-265) oder unerwartete
+Mainframe-Computer, Jacquesson 1995: 245–265) oder unerwartete
 Gleichzeitigkeiten auftreten (zum Beispiel, dass sich Schreibmaschinen
 in Bibliotheken durchsetzten, als die ersten Computer aufkamen,
-Jacquesson & Rivier 2005: 47-69). Aus seinen eigenen Publikationen geht
+Jacquesson & Rivier 2005: 47–69). Aus seinen eigenen Publikationen geht
 hervor, dass es keine einfach fortschreitende Geschichte gibt. Und
 dennoch versucht er in seinem aktuellen Buch, eine solche zu schreiben.
 
@@ -262,9 +262,9 @@ oder untersuchen? Abschliessen hier einige Hinweise dazu, wie dies bei
 zukünftigen Auseinandersetzungen mit der Geschichte von Technologie in
 Bibliotheken anders gemacht werden könnte.
 
--  An sich wäre es anhand des Exempels der Genfer Bibliotheken gut möglich, eine Geschichte von Erwartungen an Technologien, Automatisierung und Veränderung der Aufgaben von Bibliotheken zu schreiben. Man könnte lernen, wie diese Erwartungen entstehen, dann zu Projekten führen -- die ja auch immer Ressourcen binden -- und wie damit umgegangen wird, wenn diese Erwartungen nicht eintreten. Bezogen auf die Arbeiten von Jacquesson würden sich, neben Google Books, auch CD-Roms als Thema anbieten. Er beschreibt diese Technik sowohl in seinem Buch von 1995 (Jacquesson 1995) als auch 2005 ("La révolution CD-Rom", Jacquesson & Rivier 2005: 56) ausführlich. Im Buch von 2018 gibt es eine ganz kurzes Kapitel zur "Abandon des CD-Rom" (Jacquesson & von Roten 2018: 178). Aber warum haben sich zu einem Zeitpunkt Erwartungen an dieses Medium ergeben? Welche Probleme sollten mit ihm gelöst werden? Ist die Entwicklung ein Beispiel für die Geschichte anderer neuer Medien? Bei einer solchen Geschichte könnte auch berücksichtigtwerden, dass eine bestimmte Anzahl von Vorhersagen tatsächlich eintreffen. Hier ist zum Beispiel zu nennen, dass Jacquesson am Ende seines Buches von 1995 postuliert, dass eine zukünftige Frage für Bibliotheken sein wird, ob sie Medien besitzen oder Zugang zu ihnen schaffen werden. (Jacquesson 1995: 340) Das ist eingetroffen. Wie ist das zu erklären, dass diese Vorhersage richtig war, andere aber nicht? Kann man aus diesen Beispielen vielleicht Modelle bilden, die bessere Voraussagen ermöglichen?
+-  An sich wäre es anhand des Exempels der Genfer Bibliotheken gut möglich, eine Geschichte von Erwartungen an Technologien, Automatisierung und Veränderung der Aufgaben von Bibliotheken zu schreiben. Man könnte lernen, wie diese Erwartungen entstehen, dann zu Projekten führen -- die ja auch immer Ressourcen binden -- und wie damit umgegangen wird, wenn diese Erwartungen nicht eintreten. Bezogen auf die Arbeiten von Jacquesson würden sich, neben Google Books, auch CD-Roms als Thema anbieten. Er beschreibt diese Technik sowohl in seinem Buch von 1995 (Jacquesson 1995) als auch 2005 ("La révolution CD-Rom", Jacquesson & Rivier 2005: 56) ausführlich. Im Buch von 2018 gibt es eine ganz kurzes Kapitel zur "Abandon des CD-Rom" (Jacquesson & von Roten 2018: 178). Aber warum haben sich zu einem Zeitpunkt Erwartungen an dieses Medium ergeben? Welche Probleme sollten mit ihm gelöst werden? Ist die Entwicklung ein Beispiel für die Geschichte anderer neuer Medien? Bei einer solchen Geschichte könnte auch berücksichtigt werden, dass eine bestimmte Anzahl von Vorhersagen tatsächlich eintreffen. Hier ist zum Beispiel zu nennen, dass Jacquesson am Ende seines Buches von 1995 postuliert, dass eine zukünftige Frage für Bibliotheken sein wird, ob sie Medien besitzen oder Zugang zu ihnen schaffen werden. (Jacquesson 1995: 340) Das ist eingetroffen. Wie ist das zu erklären, dass diese Vorhersage richtig war, andere aber nicht? Kann man aus diesen Beispielen vielleicht Modelle bilden, die bessere Voraussagen ermöglichen?
 
--  Das Buch von Jacquesson und von Roten (2018) ist an sich ein gutes Beispiel dafür, warum das Dispositiv der Technik-Determination nicht haltbar ist: Die Entwicklung von Technik in Bibliotheken ist nicht als lineare Geschichte zu schreiben. Dafür wird sie einfach zu oft unterbrochen, nimmt Abzweigungen und Entwicklungen werden auch wieder vergessen. Aber welches Dispositiv würde sich sonst eignen? Einfach von sozialer Determiniertheit auszugehen, ist wohl auch nicht möglich. Bibliotheken reagieren ja oft tatsächlich auf technische Entwicklungen, die sie nicht selber mitbestimmen. (Die Entwicklung der CD-Roms, die eben angesprochen wurde, ist auch dafür ein gutes Beispiel.) Auffällig an der Geschichte, wie sie Jacquesson und von Roten (2018) erzählen, ist, dass zwar immer wieder die Namen von beteiligten Personen genannt, aber nicht auf ihre Rolle für bestimmte Entscheidungen eingegangen wird. So wird eine Ebene hinter der Technik angedeutet, die offenbar Relevanz hat. Wie lässt sich diese erfassen? Was aus dieser Lernen? Wie das Zusammenspiel von Technikentwicklung, Reaktion der Bibliotheken und des Personals sowie Entwicklung von Technik in und für Bibliotheken untersuchen? Zu lernen wäre hierbei zum Beispiel, wie gross der Einfluss der Bibliotheken selbst darauf ist, wie sich Technologie in der Bibliothek entwickelt. Gleichzeitig ist es kein Ausweg, einfach ANT oder ähnliche Dispositive zu wählen. Auch diese sind voraussetzungsvoll und zwingen zu Entscheidungen. Wie viel Einfluss konkreten Technologien zugestanden wird, ist zum Beispiel immer wieder neu zu klären.
+-  Das Buch von Jacquesson und von Roten (2018) ist an sich ein gutes Beispiel dafür, warum das Dispositiv der Technik-Determination nicht haltbar ist: Die Entwicklung von Technik in Bibliotheken ist nicht als lineare Geschichte zu schreiben. Dafür wird sie einfach zu oft unterbrochen, nimmt Abzweigungen und Entwicklungen werden auch wieder vergessen. Aber welches Dispositiv würde sich sonst eignen? Einfach von sozialer Determiniertheit auszugehen, ist wohl auch nicht möglich. Bibliotheken reagieren ja oft tatsächlich auf technische Entwicklungen, die sie nicht selber mitbestimmen. (Die Entwicklung der CD-Roms, die eben angesprochen wurde, ist auch dafür ein gutes Beispiel.) Auffällig an der Geschichte, wie sie Jacquesson und von Roten (2018) erzählen, ist, dass zwar immer wieder die Namen von beteiligten Personen genannt, aber nicht auf ihre Rolle für bestimmte Entscheidungen eingegangen wird. So wird eine Ebene hinter der Technik angedeutet, die offenbar Relevanz hat. Wie lässt sich diese erfassen? Was aus dieser lernen? Wie das Zusammenspiel von Technikentwicklung, Reaktion der Bibliotheken und des Personals sowie Entwicklung von Technik in und für Bibliotheken untersuchen? Zu lernen wäre hierbei zum Beispiel, wie gross der Einfluss der Bibliotheken selbst darauf ist, wie sich Technologie in der Bibliothek entwickelt. Gleichzeitig ist es kein Ausweg, einfach ANT oder ähnliche Dispositive zu wählen. Auch diese sind voraussetzungsvoll und zwingen zu Entscheidungen. Wie viel Einfluss konkreten Technologien zugestanden wird, ist zum Beispiel immer wieder neu zu klären.
 
 -  Geschichte an sich wird nicht ohne Grund erzählt. Wie ausgeführt, lässt das Buch von Jacquesson und von Roten (2018) offen, was dieser Grund ist. Implizit scheint es aber, als wollten sie zeigen, dass die Technikentwicklung in Bibliotheken diese dazu treibt, immer enger zusammenzuarbeiten. Sinnvoll wäre aber, die eigentlichen Fragen und den Grund, warum eine Geschichte interessant genug ist, um sich mit ihr zu befassen, vorab und transparent zu klären. Im Fall der Genfer Bibliotheken wären zum Beispiel Fragen von Vernetzung und Autonomie, von gesellschaftlichen und politischen Einflüssen oder der Veränderung von Bibliotheksarbeit durch Technik naheliegend. Grundsätzlich ist Geschichtsschreibung, auch wenn sie so ein spezifisches Thema wie die Informatisation von Bibliotheken eines Kantons hat, immer dann sinnvoll, wenn aus ihr etwas für die Zukunft zu lernen ist, beispielsweise für die weitere Entwicklung. Dies sollte bei ähnlichen bibliotheksgeschichtlichen Vorhaben berücksichtigt werden.
 
@@ -289,7 +289,7 @@ Jacquesson, Alain ; von Roten, Gabrielle (2019). *Histoire d\'une
 
 [^1]: Der Autor dieses Textes ist lehrend an der Fachhochschule in Chur
   tätig und kann deshalb aus Erfahrung sagen, dass immer auch
-  Studierenden aus der Romandie über die Sprachgrenze hinausgehen und
+  Studierende aus der Romandie über die Sprachgrenze hinausgehen und
   zum Beispiel in Chur studieren.
 
 [^2]: Auch keine Aus- und Weiterbildungsgänge in Frankreich, obwohl

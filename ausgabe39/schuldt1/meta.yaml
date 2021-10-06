@@ -32,7 +32,7 @@
     <meta property="dc:source" content="LIBREAS. Library Ideas" />
     <meta property="dc:subject" content="Library and Information Science" />
     <meta property="dc:type" content="website" />
-    <meta property="dc:description" content="Computer wurden in den Wissenschaftlichen Bibliotheken des DACH-Raumes in den 1960er Jahren eingeführt. Der Text vollzieht dies nach und zeigt unter anderem, dass die Grundprobleme, die am Ende mit den Rechenmaschinen gelöst werden sollten, zuvor auch anders angegangen wurden. Es ging um die Beherrschung einer wachsenden Anzahl von Literatur. Auffällig an der Geschichte ist, dass die Entwicklung sich relativ schnell vollzogen, dass sie im DACH-Raum relativ ähnlich verliefen und das es nicht per se um die Einführung von Technik, sondern um das Lösen von Problemen ging."/>
+    <meta property="dc:description" content="Computer wurden in den Wissenschaftlichen Bibliotheken des DACH-Raumes in den 1960er Jahren eingeführt. Der Text vollzieht dies nach und zeigt unter anderem, dass die Grundprobleme, die am Ende mit den Rechenmaschinen gelöst werden sollten, zuvor auch anders angegangen wurden. Es ging um die Beherrschung einer wachsenden Anzahl von Literatur. Auffällig an der Geschichte ist, dass die Entwicklungen sich relativ schnell vollzogen, dass sie im DACH-Raum relativ ähnlich verliefen und das es nicht per se um die Einführung von Technik, sondern um das Lösen von Problemen ging."/>
     <meta property="dc:source" resource="urn:ISSN:1860-7950" /> 
 
 <!-- Google Scholar -->
@@ -170,7 +170,7 @@
 
         
 
-        <p><small itemprop="description">Computer wurden in den Wissenschaftlichen Bibliotheken des DACH-Raumes in den 1960er Jahren eingeführt. Der Text vollzieht dies nach und zeigt unter anderem, dass die Grundprobleme, die am Ende mit den Rechenmaschinen gelöst werden sollten, zuvor auch anders angegangen wurden. Es ging um die Beherrschung einer wachsenden Anzahl von Literatur. Auffällig an der Geschichte ist, dass die Entwicklung sich relativ schnell vollzogen, dass sie im DACH-Raum relativ ähnlich verliefen und das es nicht per se um die Einführung von Technik, sondern um das Lösen von Problemen ging.</small></p>
+        <p><small itemprop="description">Computer wurden in den Wissenschaftlichen Bibliotheken des DACH-Raumes in den 1960er Jahren eingeführt. Der Text vollzieht dies nach und zeigt unter anderem, dass die Grundprobleme, die am Ende mit den Rechenmaschinen gelöst werden sollten, zuvor auch anders angegangen wurden. Es ging um die Beherrschung einer wachsenden Anzahl von Literatur. Auffällig an der Geschichte ist, dass die Entwicklungen sich relativ schnell vollzogen, dass sie im DACH-Raum relativ ähnlich verliefen und das es nicht per se um die Einführung von Technik, sondern um das Lösen von Problemen ging.</small></p>
 
         
 
@@ -224,7 +224,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2021-10-04</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2021-10-06</a>)</p>
 
 </footer>
       </div>

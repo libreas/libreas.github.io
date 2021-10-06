@@ -5,7 +5,7 @@ Galek (kmg), Fatima Jonitz (fj), Sara Juen (sj), Sophie Kobialka (sk),
 Amber Kok (ak), Monika Kolano (mk), Michaela Voigt (mv), Georg Schelle
 (gs), Vivian Schlosser (vs), Valentina de Toledo (vt), Viola Voß (vv)
 
-### 1. Zur Kolumne
+### 1 Zur Kolumne
 
 Ziel dieser Kolumne ist es, eine Übersicht über die in der letzten Zeit
 publizierte bibliothekarische, informations- und
@@ -42,7 +42,7 @@ Twitter mit
 [#icanhazpdf](https://twitter.com/hashtag/icanhazpdf?src=hash) um
 Hilfe bei der legalen Dokumentenbeschaffung zu bitten.
 
-### 2. Artikel und Zeitschriftenausgaben
+### 2 Artikel und Zeitschriftenausgaben
 
 #### 2.1 Vermischte Themen
 
@@ -58,7 +58,7 @@ konkrete Organisation der Ersteinführung von Nutzer\*innen in einer
 Spezialbibliothek (oder allgemein einer Bibliothek). Diese lässt sich
 aktiv gestalten und planen. Im Artikel werden die Ergebnisse einer
 Umfrage unter US-amerikanischen Firmenbibliotheken dazu präsentiert, wie
-diese diese Einführungen angehen. Das ist nicht uninteressant -- so
+jene diese Einführungen angehen. Das ist nicht uninteressant -- so
 warten einige explizit ein paar Wochen, damit die neu eingestellten
 Mitarbeiter\*innen sich erst in der jeweiligen Firma zurechtfinden und
 ihre Informationsbedürfnisse erkennen können, andere verweisen darauf,
@@ -291,7 +291,7 @@ der COVID-19 Pandemie lernen konnten und vor allem, was an den Lösungen
 für die Zukunft und für zukünftige Gesundheitskrisen dieser Art bleiben
 wird. Als Basis nimmt sie vor allem ihre eigenen Erfahrungen als
 Bibliothekarin an der Illinois State University. Es sind keine neuen
-oder erstaunlichen Aussagen, zu der sie kommt (mehr Hygiene, mehr
+oder erstaunlichen Aussagen, zu denen sie kommt (mehr Hygiene, mehr
 Online-Aktivitäten, mehr Lösungen für die Lieferung von Medien).
 Interessant ist, dass sie davon ausgeht, dass Bibliotheken (und
 Gesellschaften) längerfristig durch die Pandemie verändert wurden und
@@ -521,7 +521,7 @@ bezüglich Recherche (und anderer Themen) an diese wenden würden. Dies
 sei in kleinen Hochschuleinrichtungen einfacher als in grossen. Dort, wo
 die Person, welche in Einführungsveranstaltungen die Bibliothek und
 deren Angebote vorstellt, auch die Person ist, die dann in der
-BIbliothek zu finden ist, sei die Wahrscheinlichkeit grösser, dass sie
+Bibliothek zu finden ist, sei die Wahrscheinlichkeit grösser, dass sie
 angesprochen wird. Gleichzeitig, so die Autor\*innen weiter, würde sich
 die meiste Forschung zu Informationskompetenz und die Arbeit von
 Bibliotheken, die sich um dieses Thema gruppiert, gerade mit der
@@ -599,7 +599,7 @@ Perspektive Bibliothek 9 (2020) 1,
 Die Autorin gibt einen Überblick über die Entwicklung und Rezeption von
 Plan S. Dabei geht sie auf Reaktionen von Wissenschaftlerinnen und
 Wissenschaftlern, aber auch Fachgesellschaften, Forschungs- und
-Förderorganisationen sowie politischen Akteuren ein. So wrd der Einfluss
+Förderorganisationen sowie politischen Akteuren ein. So wird der Einfluss
 aufgezeichnet, den diese unterschiedlichen Akteure auf die Ausarbeitung
 von Plan S genommen haben und der öffentliche Diskurs um das Vorhaben
 wird nachvollzogen. Der Artikel bietet somit einen guten Einstieg, um
@@ -633,7 +633,7 @@ Pandemie viel verändert hätte, so als würden die Autor\*innen hoffen,
 die Krise hätte im Ergebnis die Veränderungen, die sie sich erwünschen,
 hinterrücks eingeführt. (ks)
 
----
+#### 2.5 Kommunikation von Bibliotheken mit Forschenden / Liaison Librarians
 
 Lange, Jessica / Hanson, Carrie (2020). *"You Need to Make it as Easy
 as Possible for Me": Creating Scholarly Communication Reports for
@@ -641,7 +641,7 @@ Liaison Librarians.* In: Journal of Librarianship and Scholarly
 Communication 8.1:p.eP2329,
 [http://doi.org/10.7710/2162-3309.2329](http://doi.org/10.7710/2162-3309.2329)
 
-"Scholarly Communication (SC) \[verstanden v.a. als
+"Scholarly Communication (SC) \[verstanden vor allem als
 (Open-Access-)Publizieren, V.V.\] is becoming a core function of liaison
 librarians' work", haben die beiden Autorinnen von der kanadischen
 McGill-Universität festgestellt: "The typical trifecta of liaison
@@ -674,7 +674,7 @@ alltägliche Beratungsarbeit hilfreich sein könnten, und recherchiert sie
 bei Gelegenheit selbst. Die methodologischen Notizen im Anhang können
 dabei eventuell nützlich sein. (vv)
 
-#### 2.5 Kommunikation von Bibliotheken mit Forschenden / Liaison Librarians
+---
 
 Safin, Kelly / Kiner, Renee (2020). *Campus Engagement: Faculty
 Recognition and the Library's Role*. In: Journal of Library Outreach &
@@ -782,11 +782,11 @@ neue Seite: Die der Bibliotheken und ihrer Kulturen. Hauptaussage ist,
 dass Bibliotheken bei gleichen Aufgaben durch ihre jeweils spezifischen,
 lokalen Kulturen zu unterschiedlichen Lösungen gelangen.
 
-Untersucht wurden zwei Bibliotheken die am gleichen Projekt arbeiteten
+Untersucht wurden zwei Bibliotheken, die am gleichen Projekt arbeiteten,
 mit Interviews und Feldbesuchen: Ein grosses astronomisches Projekt
 hatte über Jahre Daten gesammelt. Beim Projektabschluss wurden von
 Forschungsgruppen Möglichkeiten gesucht, diese Daten langfristig
-aufzubewahren und weiter zu nutzen. Beiden untersuchte Bibliotheken sind
+aufzubewahren und weiter zu nutzen. Beide untersuchten Bibliotheken sind
 an Universitäten angesiedelt, welche Forschungsgruppen, die am Projekt
 beteiligt waren, beherbergten. Beide gingen -- obwohl es sich um die
 gleichen Daten handelt -- unterschiedlich vor: Eine gründete eine
@@ -804,7 +804,7 @@ dem Schluss, dass Bibliotheken nicht die einzigen Institutionen sind,
 welche Datenmanagement übernehmen können: Nachdem die Forschungsgruppen
 andere Finanzierungswege gefunden hatten, führten sie das Management
 selbst weiter. Die Lösung, die langfristige Archivierung und Pflege von
-Daten Bibliotheken zu übergeben, ist nicht alternativlos. (ks)
+Daten an Bibliotheken zu übergeben, ist nicht alternativlos. (ks)
 
 ---
 
@@ -917,7 +917,7 @@ eine erstaunliche, aber auch beängstigende Vielfalt an Angeboten in
 verschiedensten Bereichen, die oft als normaler Teil der
 bibliothekarischen Arbeit dargestellt werden. Es geht dabei nicht darum,
 Literatur zu allen möglichen Themen anzubieten, sondern konkrete
-Angebote zu machen, weil diese die Aufgabe von Bibliotheken wäre. Es ist
+Angebote zu machen, weil dies die Aufgabe von Bibliotheken wäre. Es ist
 eine Erinnerung daran, dass die Öffentlichen Bibliothekssysteme
 verschiedener Länder, und damit auch die Vorstellungen davon, was zur
 bibliothekarischen Arbeit gehört, tatsächlich unterschiedlich sind.
@@ -1001,7 +1001,7 @@ public libraries*. In: Social Work Education \[Latest Articles\]
 [https://doi.org/10.1080/02615479.2021.1908987](https://doi.org/10.1080/02615479.2021.1908987)
 \[Paywall\]
 
-Der Artikel richtet sich vor allem an Studierende in Sozialer Arbeit und
+Der Artikel richtet sich vor allem an Studierende in der Sozialen Arbeit und
 den Personen in Hochschulen, welche dafür zuständig sind, für deren
 Praktika zu sorgen. Er wirbt dafür, diese Praktika in Öffentlichen
 Bibliotheken durchzuführen -- ein wenig liest er sich deshalb auch nach
@@ -1022,7 +1022,7 @@ Beginning of Broadcast Radio*. In: Journal of Radio & Audio Media
 \[Paywall\]
 
 Ein recht unterhaltsamer Einblick in Sendungen von, beziehungsweise mit
-Bibliothekarinnen, die in früher "Radiozeit" (1921-1922) in drei Sendern
+Bibliothekarinnen, die in der frühen "Radiozeit" (1921-1922) in drei Sendern
 in Sutter County (California), Toledo und Pittsburgh auftraten und dort
 entweder die Bibliothek und ihre Angebote vorstellten oder für Kinder
 vorlasen. Der Artikel baut auf den wenigen Quellen zu diesen Programmen
@@ -1152,7 +1152,7 @@ durch direkte Beteiligung an Entscheidungen und einer Wertschätzung des
 gesamten Personals. Laut Wilson zeichnet sich letzters durch forcierte
 Partizipation, den Aufbau von Beziehungen zwischen Leitung und Personal,
 regelmässiger (am besten auch geplanter) und ehrlicher Kommunikation,
-der Gleichbehandlung des Personals und an die lokalen und individuellen
+der Gleichbehandlung des Personals sowie an die lokalen und individuellen
 Verhältnisse angepassten Führungspraktiken aus. Zu bemerken ist, dass
 hinter beiden Führungsstilen auch jeweils ein bestimmtes Verständnis
 davon steht, wie Leitungspersonen ihr Personal sehen. Der Artikel ist
@@ -1195,13 +1195,13 @@ College & Research Libraries 82 (2021) 2,
 Vollkommen erschreckende Ergebnisse über sexuelle Belästigungen von
 Bibliothekar\*innen am Arbeitsplatz liefert diese Umfrage an der
 University of California. Befragt wurden 1610 Personen an den
-Bibliotheken der Universität (mit 10 Standorten)- Von den 579
+Bibliotheken der Universität (mit 10 Standorten). Von den 579
 Antwortenden berichteten 54&#8239;% davon, sexuelle Belästigung erlebt zu
 haben. Dies verteilte sich auf verschiedene Formen von Belästigung, traf
 aber an allen Standorten zu. Schlimm sind auch die Rückmeldungen, dass
 in vielen Fällen die Institution die Betroffenen nicht unterstützte oder
 die Betroffenen selbst den Eindruck hatten, sich nicht hilfesuchend an
-Personen wenden zu können. Es gab Lichtblicke, insbesondere ,dass viele
+Personen wenden zu können. Es gab Lichtblicke, insbesondere, dass viele
 -- aber nicht alle -- Leitungen der Bibliotheken das Problem ernst
 nahmen. Allerdings, so die Autorinnen, hat dies bislang nicht dazu
 geführt -- wie auch regelmässige Fortbildungen zum Thema -- dass es
@@ -1291,7 +1291,7 @@ Roboter mit den Namen Nao im Einsatz. Dieser hilft dabei, den Ablageort
 bestimmter Bücher zu identifizieren und beantwortet Fragen sowohl in
 englischer als auch deutscher Sprache. (kmg)
 
-### 3. Monographien und Buchkapitel
+### 3 Monographien und Buchkapitel
 
 #### 3.1 Vermischte Themen
 
@@ -1385,7 +1385,7 @@ Villeurbanne: Presses de l'enssib, 2020,
 
 Die Öffentlichen Bibliotheken in Grossbritannien sind seit Jahren in
 einer profunden Krise. Einst Vorbild für Bibliothekssysteme anderer
-Länder müssen britische Bibliotheken heute oft konkret um ihr Überleben
+Länder, müssen britische Bibliotheken heute oft konkret um ihr Überleben
 fürchten. (Es liegt nahe, wird in diesem Buch aber nicht gemacht, dies
 mit der aktuellen Krise Grossbritanniens in Verbindung zu setzen.) Das
 Buch möchte die Gründe für diese Krise darlegen. Neben Texten, die neu
@@ -1546,7 +1546,7 @@ erschwert.
 Der Beitrag vermittelt einen Einblick in das dreizehnteilige
 Kategorie-System, mit dem Jens Mätschke rassistische Zuschreibungen für
 "Schwarze" benennt und analysiert. Er erläutert diesen Ansatz anhand des
-Klassikers "Robinson Crusoe" (2002) und eines aktuelleren Kinderbuchs
+Klassikers "Robinson Crusoe" (1719/2002) und eines aktuelleren Kinderbuchs
 mit dem Titel "Vimala gehört zu uns" (2002). Die Vergleiche sind
 nachvollziehbar und begründet. Die Konfrontationen regen zum Nachdenken
 darüber an, wie Geschichten mit rassifizierten Darstellungen in
@@ -1584,7 +1584,7 @@ berücksichtigt.
 
 In den Interviews merken viele Dozent:innen an, dass sie zu wenig Zeit
 für eine Aktualisierung der Kurse haben, dass das Lehrprogramm für
-Einbindung anderer Wissensformen zu unflexibel ist oder das Fach zu
+die Einbindung anderer Wissensformen zu unflexibel ist oder das Fach zu
 technisch sei. Dem stellt Franciéle vergleichsweise leichte Lösungen
 gegenüber. Zum Beispiel listet sie schwarze Bibliotheks- und
 Informationswissenschaftler\*innen auf, die auch die sogenannten
@@ -1621,7 +1621,7 @@ Dekonstruktion der von ihr kritisierten Hegemonien essentiell. Eine
 Zusammenfassung, wie sie der vorliegende Text liefert, bildet daher eine
 notwendige Voraussetzung sowohl für das kritische Hinterfragen dieser
 Hegemonien als auch eine Orientierung zum Thema für Dozent:innen und
-Bibliothekar:innen unverzichtbar, die in diesem Bereich arbeiten. (vt)
+Bibliothekar:innen, die in diesem Bereich arbeiten. (vt)
 
 #### 3.3 Einführungen und Handbücher
 
@@ -1924,7 +1924,7 @@ design in the long 1960s*. London; New York: Routledge, 2018
 
 In weiten Teilen ist dieses Buch Architekturgeschichte, inklusive vieler
 Bilder aus Beispielbauten. Der Autor stellt hier -- anschliessend an
-sein Buch "*Books, buildings and social engineering : early public
+sein Buch "*Books, buildings and social engineering: early public
 libraries in britain from past to present*" (London : Routledge, 2016),
 in welchem er die Bibliotheksbauten in Grossbritannien bis 1939
 untersuchte -- die Gebäude Öffentlicher Bibliotheken vor, welche
@@ -1981,7 +1981,7 @@ die Entwicklung der Frage, was für diese Bibliotheken als "öffentlich"
 galt. Was sie dabei zeigen ist folgendes: (1) Die Entwicklung ist
 jeweils gleichzeitig lokal und imperial -- Basis sind immer die lokale
 Situation und die Interessen der lokalen Kolonialgesellschaft (zum
-Beispiel stets, als besonderer Ort gegenüber dem imperialen Zentrum in
+Beispiel stets, als besonderer Ort gegenüber dem imperialen Zentrum
 London und den anderen Kolonien zu gelten und gleichzeitig ständig
 wieder die gleichen Debatten zu führen, wie sie auch aus der Geschichte
 britischer Bibliothek bekannt sind), (2) die Entwicklung der
@@ -1990,7 +1990,7 @@ Jahrhundert verankert (zum Beispiel geht es konstant darum, die
 Arbeitenden anzusprechen und ihnen einen Aufstieg durch Bildung zu
 ermöglichen, aber gleichzeitig den Zugang zu Bibliotheken einzuschränken
 gegenüber Personen, denen vorgeworfen wird, gar nicht wirklich lesen zu
-wollen oder aber -- wie gebildeten Frauen -- das falsche zu lesen), (3)
+wollen oder aber -- wie gebildeten Frauen -- das Falsche zu lesen), (3)
 die Bibliotheken agieren immer in der kolonialen Situation, also für die
 "europäische" Gesellschaft und die Teile der "nicht-europäischen"
 Gesellschaft, die als "an die Zivilisation herangeführt" betrachtet
@@ -2072,7 +2072,7 @@ der Möglichkeiten die Situation für Afroamerikaner\*innen zu verbessern,
 die dann aber bei der Desegregation um ihre Arbeitsplätze in den
 Bibliotheken fürchteten. Zudem zeigt der Autor mit den drei Case Studies
 auch, dass es immer Unterschiede bei den konkreten lokalen Situationen
-gab, obgleich es sich gleichbleibendum rassistische Strukturen handelte.
+gab, obgleich es sich gleichbleibend um rassistische Strukturen handelte.
 
 Der Autor ist Archivar und hat eine historische Ausbildung genossen. Das
 ist dem Buch auch anzumerken. Zum einen interessiert ihn, die von ihm
@@ -2196,7 +2196,7 @@ Entwicklung in Potsdam -- zuerst die Gründung von Vereinsbibliotheken
 und (kommerziellen) Leihbibliotheken, dann von Vereinen getragene
 Bibliotheken für die Öffentlichkeit, zuletzt die Gründung einer
 Bibliothek und Lesehalle durch die Gemeinde -- sich so vollzog, wie auch
-in vielen anderen deutschen Gemeinden auch. Aber dies muss den
+in vielen anderen deutschen Gemeinden auch. Aber dies muss von den
 Leser\*innen selber geschlossen werden, die Autoren tun dies nicht. (ks)
 
 ---
@@ -2208,7 +2208,7 @@ Museumsmanagement) Bielefeld: transcript Verlag, 2020 \[gedruckt\]
 
 Dieses Buch will untersuchen, wie in der DDR die Vermittlung von Kultur
 organisiert war und mit welcher Wirkung dies passierte. Grundthese ist,
-dass dies grundsätzlich anders organisiert war, als heute, dass darüber
+dass dies grundsätzlich anders organisiert war als heute, dass darüber
 aber wenig bekannt sei und dass es möglich wäre, aus dieser Geschichte
 etwas für die heutige Kulturvermittlung zu lernen. Es ist aber keine
 Untersuchung, sondern eher eine Materialsammlung, welcher der
@@ -2336,7 +2336,7 @@ handschriftlichen Kommentare, als Arbeitsmittel für Bildung und
 Wissenschaft, wie sie im Kloster betrieben wurde. Er interpretiert
 ausgewählte Bücher, indem er sehr tief in die Anmerkungen und
 Nutzungsspuren eingeht und verortet sie im Wissen darüber, wie Bücher in
-Klostern des Spätmittelalters und speziell in Saint-Bertin genutzt
+Klöstern des Spätmittelalters und speziell in Saint-Bertin genutzt
 wurden.
 
 Alle drei Werke gehören in den offensichtlich vorhandenen Trend von
@@ -2387,7 +2387,7 @@ gebundener, selbstgeschriebener Broschüren daherkommt. Dennoch gibt es
 hinter ihr einen Plan. Hirschler rekonstruiert anhand von Nutzungsspuren
 in den Dokumenten und einer historischen Kontextualisierung die
 dahinterstehende intellektuelle Nutzung, beispielsweise die Tradition
-des wörtlichen Vortrags von Textes, die anschliessend in den Dokumenten
+des wörtlichen Vortrags von Texten, die anschliessend in den Dokumenten
 selber vermerkt wurde. Dem eigentlichen inhaltlichen Teil von 170 Seiten
 schliessen sich einige hundert Seiten an Dokumentation des Katalogs
 dieser Sammlung und Digitalisaten an.
@@ -2397,7 +2397,7 @@ Buch- und Bibliothekskultur zur damaligen (oder heutigen) in Europa ist.
 Wie immer ist daraus auch zu lernen, wie spezifisch "unsere" Buch- und
 Bibliothekskultur zu unserer Zeit und unserem Ort in der Welt ist. (ks)
 
-### 4. Social Media
+### 4 Social Media
 
 Dobusch, Leonhard (2020): *Kein Open-Access-Deal, dafür mit Spyware
 gegen Schattenbibliotheken?* In: netzpolitik.org.
@@ -2472,11 +2472,11 @@ Morgenstunden das Fehlen von Fachpersonal kompensieren, so dass
 Studierende und Mitarbeitende der Hochschule die Bibliothek an sieben
 Tagen 24 Stunden nutzen können. (dg)
 
-### 5. Konferenzen, Konferenzberichte
+### 5 Konferenzen, Konferenzberichte
 
 \[diesmal keine Beiträge\]
 
-### 6. Populäre Medien (Zeitungen, Radio, TV etc.)
+### 6 Populäre Medien (Zeitungen, Radio, TV etc.)
 
 Copper, Quintin (2021): *Eine Wiederaneignung* -- *Die Soziologin Nina
 Degele bekennt sich offensiv zu Politischer Korrektheit.* In: Neues
@@ -2531,6 +2531,7 @@ schwieriger sein wird, diese fortzusetzen. (ks)
 
 o.&#8239;A. (2021). *Gutes Konzept in Krisenzeiten: Stadtbibliothek bekommt
 750 Euro*. In: Wolfsburger Allgemeine, 09.02.2021, S. 15.\
+
 Die Stadtbibliothek Wolfsburg erhielt als eine von zehn Bibliotheken in
 Niedersachsen zusätzliche Fördermittel in Höhe von 750 Euro. Diese
 werden vom Deutschen Bibliotheksverband zur "Förderung von Bibliotheken
@@ -2716,7 +2717,7 @@ ist auch eine von Unterdrückern und Herrschenden. Das Übernehmen von
 Verantwortung und eine Distanzierung von einer primär eurozentrischen
 Sichtweise wäre ein Anfang. (fj)
 
-### 7. Abschlussarbeiten
+### 7 Abschlussarbeiten
 
 Haupka, Nick (2021). Analyse der Entwicklung des Open
 Access-Discovery-Services Unpaywall seit 2018.
@@ -2746,7 +2747,7 @@ Abschlussarbeit vorausgegangen ist, werden auch in der Zeitschrift
 Bibliothek: Forschung und Praxis präsentiert (aktuell als Preprint
 verfügbar). (mv)
 
-### 8. Weitere Medien
+### 8 Weitere Medien
 
 Colovini, Leo (studiogiochi); Streese, Folko; Kreativbunker (2020). *Die
 verlassene Bibliothek. Ein Escape-Spiel.* Kempen: moses. Verlag GmbH
@@ -2838,7 +2839,7 @@ Eine Planung sollte sich an zwei Zielen ausrichten: 1. die
 Wahrscheinlichkeit des Überstehens einer Krise zu steigern, 2. mögliche
 Schäden klein halten, damit eigentliche Funktion eines Betriebs
 schnellstmöglich wiederhergestellt werden kann. Hierfür kann das
-Verfahren der Modellierung von Katastrophenszenarien herangezogen. (kmg)
+Verfahren der Modellierung von Katastrophenszenarien herangezogen werden. (kmg)
 
 ---
 

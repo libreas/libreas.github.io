@@ -1,6 +1,6 @@
 > «Hier noch einmal auf die Sorgen und Nöte der Bibliothek eingehen zu wollen, hieße wohl Eulen nach Athen tragen. Ist doch in letzter Zeit oft genug die Notwendigkeit diskutiert worden, durch geeignete Maßnahmen der manchmal geradezu verzweifelten arbeitsmäßigen Situation in den Bibliotheken abzuhelfen. Dabei stehen nicht nur allgemeine Maßnahmen der Rationalisierung, sondern auch speziell die Automatisierung verschiedener Arbeitsvorgänge mit entsprechenden Geräten im Mittelpunkt des Interesses.» (Schulte-Tigges 1963: 331)
 
-### Einleitung
+### 1. Einleitung
 
 «Mechanisierte Datenverarbeitungsverfahren», so schrieb Walter
 Lingenberg 1969, «werden in deutschen Bibliotheken erst seit wenigen
@@ -29,7 +29,7 @@ Hoch- und Fachschulwesen eingerichtet wurde und als Aufgabe die Planung
 des Einsatzes von Computern für das gesamte Hochschul-Bibliothekswesen
 des Landes übertragen bekam. In Österreich war schon 1966 ein der
 Nationalbibliothek nahestehender Verein, das «Institut für
-Bibliotheksforschung» gegründet worden, welches unter anderem den
+Bibliotheksforschung» gegründet worden, welcher unter anderem den
 Einsatz von Computern forschend und beratend fördern sollte. (Mayerhöfer
 1966; Stummvoll & Mayerhöfer 1972; Mayerhöfer 1982) 1970 wurde in der
 «Generalversammlung der Schweizer Bibliothekare» ausführlich über ein
@@ -87,7 +87,7 @@ Bibliotheken hat. (6)
 
 ![Bildunterschrift: G. Nigg: «Zürich, ETH Zürich, Hauptgebäude (HG), Hauptbibliothek, Zeitschriftenabteilung», laut Metadaten 1968, eher frühe 1970er Jahre (e-pics, ETH Zürich, CC BY-SA 4.0, [http://doi.org/10.3932/ethz-a-000014445](http://doi.org/10.3932/ethz-a-000014445)). Terminale, die an einen Grossrechner angeschlossen waren, genutzt für die Katalogisierung.](img/ETHZuerich01.jpg)
 
-### Warum Bibliotheksarbeit rationalisieren?
+### 2. Warum Bibliotheksarbeit rationalisieren?
 
 Schon in den beginnenden 1960er Jahren herrschte im Bibliothekswesen --
 und nicht nur dort -- die Überzeugung vor, dass sich die materielle
@@ -169,14 +169,14 @@ Literaturproduktion übernehmen müssten. Parallel zu den hier
 geschilderten Entwicklungen begannen vor allem grosse Firmen sich mit
 der Frage zu beschäftigen, wie Maschinen für die Verwaltung der
 wissenschaftlichen Informationen, die vor allem in Zeitschriftenartikeln
-verbreitet wurden, genutzt werden könnte. (Baer 1964; Zimmermann 1965)
+verbreitet wurden, genutzt werden könnten. (Baer 1964; Zimmermann 1965)
 Daraus entwickelte sich schnell die Dokumentation, die sich für einige
 Jahrzehnte als eigenständiger Berufszweig etablierte. (Pietsch 1962;
 Zimmermann 1965) Dass dies so passieren würde, war Anfang der 1960er
 Jahre noch nicht klar. (Auch nicht, dass dieser Berufszweig nach einigen
 Jahrzehnten praktisch wieder verschwinden würde.)
 
-### Erste Versuche und erste Themen
+### 3. Erste Versuche und erste Themen
 
 Wie geschildert stand am Anfang der Prozesse, die zum ersten Einsatz von
 Computern in Bibliotheken führten, nicht die elektronische
@@ -184,10 +184,10 @@ Datenverarbeitung im Vordergrund, sondern die Frage, wie Bibliotheken
 und deren Arbeit organisiert werden sollte, um die als exponentiell
 wachsend wahrgenommene Literatur und die steigenden Anforderungen,
 welche mit diesem Wachstum einhergingen, bewältigen zu können. Maschinen
-wurden dabei als ein Mittel zum Zweck wahrgenommen. (zum Beispiel Dux
+wurden dabei als ein Mittel zum Zweck wahrgenommen. (Zum Beispiel Dux
 1964)
 
-#### Themen erster Automatisierungsversuche
+#### 3.1 Themen erster Automatisierungsversuche
 
 Auffällig ist, dass sich bei diesen Diskussionen immer auf die Praxis
 der Bibliothek selber konzentriert wurde: Es ging darum, zu bestimmen,
@@ -235,7 +235,7 @@ von miteinander verbundenen, aber autonom zu analysierenden und zu
 verändernden Prozessen verstanden wurden, wurden dann auch jeweils
 Lösungen für einzelne Prozesse gesucht.
 
-#### Eine Chronologie der Einführung **von** Computer in die Bibliothekswesen im DACH-Raum
+#### 3.2 Eine Chronologie der Einführung **von** Computer in die Bibliothekswesen im DACH-Raum
 
 Wie beschrieben waren in den ersten Jahren der 1960er die diskutierten
 Lösungsversuche breiter aufgestellt: Es wurde über den Einsatz von
@@ -270,7 +270,7 @@ sie zu wild wachsen.
 Ländern vorhandenen Lösungen zum Einsatz von Rechenmaschinen in
 Bibliotheken in einem Bericht über ein Symposium in Moskau angesprochen
 (Dux & Siewert 1965) sowie über einen «programmgesteuerten
-Schreibautomaten» aus DDR-Produktion, einem ähnlichen Gerät aus der ČSSR
+Schreibautomaten» aus DDR-Produktion, ein ähnliches Gerät aus der ČSSR
 und deren Einsatzmöglichkeiten in Bibliotheken, berichtet. (Möbus 1965)
 1966 findet sich äquivalent dazu zum Beispiel die Darstellung einer
 Lösung aus den USA in einem schweizerischen Artikel. (Bührer 1966)
@@ -322,7 +322,7 @@ den jeweiligen Firmen selber Computer oder Rechenzeit finanziert werden.
 
 Ab 1967 häufen sich dann auch die Berichte über weitere Reisen zu
 Bibliotheken unterschiedlicher Länder, in denen Computer eingesetzt
-werden, und über Konferenzen zum Thema. (zum Beispiel Lingenberg 1968;
+werden, und über Konferenzen zum Thema. (Zum Beispiel Lingenberg 1968;
 Steiniger 1970; Sydler 1970; Wegmüller & Hoffmann-La Roche 1970) Ab
 diesem Zeitpunkt ist das Thema grundsätzlich in der Fachliteratur
 etabliert, auch wenn der Eindruck vorzuherrschen scheint, dass man im
@@ -385,7 +385,7 @@ sondern darüber, wozu Computer in der Bibliothek benutzt werden
 können.[^7] Ohne dass dies angestrebt war, scheint der Computer in
 gewisser Weise zum Selbstzweck geworden zu sein.
 
-### Zu Kritik, Utopie und die Bibliothek der Zukunft
+### 4. Zu Kritik, Utopie und die Bibliothek der Zukunft
 
 Im Rückblick überraschend ist, dass in den 1960ern in der hier
 herangezogenen Fachliteratur drei Themen kaum vorkommen: Kritik an
@@ -432,7 +432,7 @@ verändern und man dafür Computer nutzen müsse. Diskutiert wurde nur, wie
 genau. Ein wenig erscheint im Rückblick diese Entwicklung in
 Bibliotheken inhaltlich losgelöst von der Gesellschaft gewesen zu sein.
 
-### Unterschiede zwischen den Ländern
+### 5. Unterschiede zwischen den Ländern
 
 Während sich zum hier behandelten Thema aus den 1960er Jahren nur wenige
 Beiträge aus der Schweiz (wo die Diskussion etwas später einzusetzen
@@ -495,7 +495,7 @@ organisiert ist. Kooperation muss dann anders bewerkstelligt werden
 (unter anderem über den Bibliotheksausschuss in der DFG) und ist nicht
 schon in einem Netz aller Bibliotheken angelegt.
 
-### Fazit
+### 6. Fazit
 
 Der in diesem Text dargebotene Überblick über die Integration der ersten
 Computer in die Bibliothekswesen im DACH-Raum bietet eine Blaupause, um
@@ -840,7 +840,7 @@ Bibliothekare, Schweizerische Vereinigung für Dokumentation*, *41*(2),
     Artikels schon im Ruhestand. (Scherrer-Bylund 1969) Er greift auf
     eine recht anti-modernistische Haltung zurück, wenn er «Tradition
     und Technik in Bibliotheken» gegenüberstellt. Gleichzeitig liest
-    sich der gesamte Texte in Terminologie und Weitschweifigkeit wie aus
+    sich der gesamte Text in Terminologie und Weitschweifigkeit wie aus
     der Zeit gefallen. Dies vermittelt den Eindruck, als wäre der
     Einsatz von Computern auch Teil eines Generationenwechsels im
     Bibliothekswesen im DACH-Raum gewesen. (Den Rückgang der

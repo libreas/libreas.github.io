@@ -46,7 +46,7 @@ aktuell laufenden Projekten versuchen Studierende, die Navigation sowie
 die Sprachinteraktion zu optimieren, um weitere geplante Szenarien
 umzusetzen.
 
-![Abbildung 2: Der Roboter erklärt die Recherche im Suchportal swisscovery der FHNW Bibliotheken](img/Schulungen_swisscovery1.jpg)
+![Abbildung 2: Der Roboter erklärt die Recherche im Suchportal swisscovery der FHNW Bibliotheken.](img/Schulungen_swisscovery1.jpg)
 
 Die Interaktion mit dem Roboter kann über das Tablet, welches auf
 Brusthöhe des Roboters angebracht ist, oder über Spracheingabe
@@ -141,7 +141,7 @@ gewissen Aufgaben unterstützen.
 Um nützliche und einfach bedien- respektive nutzbare Produkte und
 Dienstleistungen mit einer guten User Experience zu entwickeln, hat sich
 der Human Centered Design-Ansatz etabliert, der ebenfalls in der
-DIN-Norm (DIN EN ISO 9241-210: 2010) beschrieben wird. Bei diesem Ansatz
+DIN-Norm DIN EN ISO 9241-210: 2010 beschrieben wird. Bei diesem Ansatz
 wird die menschliche Perspektive der aktuellen und künftigen Nutzenden
 und Stakeholder in allen Entwicklungsschritten einbezogen -- von der
 Analyse der Nutzenden, deren Aufgaben und dem Nutzungskontext über die
@@ -260,8 +260,8 @@ besuchten oder zu einem früheren Zeitpunkt besucht hatten, ausgesucht.
 Während den Datenerhebungen wurden jeweils sieben Personen befragt,
 insgesamt also 14 Personen. Diese Anzahl an Testpersonen pro Erhebung
 wurde aus einem Aufwands-Ertrags-Aspekt gewählt. Mit fünf Personen
-können im Schnitt über 85% der gesamten Usability-Probleme gefunden
-werden, mit zehn Personen im Schnitt bereits über 94% (Faulkner, 2003,
+können im Schnitt über 85&#8239% der gesamten Usability-Probleme gefunden
+werden, mit zehn Personen im Schnitt bereits über 94&#8239% (Faulkner, 2003,
 zitiert nach Sardonick & Brau, 2016, S. 174).
 
 #### Ergebnisse der ersten Erhebung

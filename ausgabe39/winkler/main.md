@@ -149,8 +149,8 @@ Katalogs und ermöglichte zudem eine Anreicherung des Katalogisats um
 Schlagwörter und Strukturdaten -- Arbeitsschritte, bei denen andere
 Workflowentwicklungen noch keine befriedigenden Lösungen anboten.
 
-[Auch digital sehenswert: Die Buchschätze des
-Astronomie-Rara-Projekts mit der ETH Zürich](img/Abb4.jpg)
+![Auch digital sehenswert: Die Buchschätze des
+Astronomie-Rara-Projekts mit der ETH Zürich](img/Abb4.JPG)
 
 ### VD18 2014--2016
 
@@ -229,7 +229,7 @@ Google und damit auch die Digitalisierung mit Google Books. Die Gründe
 auf der Museumsseite für eine derartige Kooperation sind leicht
 ersichtlich, denn eine Digitalisierung von 50.000 gemeinfreien Bänden
 war und ist bei der vorhandenen Personaldecke nicht zu stemmen. Im
-Vergleich zur Boutique-Digitalisierung[^11], wie sie oben beschrieben
+Vergleich zur Boutique-Digitalisierung,[^11] wie sie oben beschrieben
 wurde, war die Public-Private-Partnership mit dem amerikanischen
 Digitalgiganten von ganz anderen Überlegungen geprägt und hatte für ein
 kleines Haus ganz andere Herausforderungen zu bieten.
@@ -251,12 +251,12 @@ Magazin.
 
 ![Sicherlich hohe Sichtbarkeit garantiert die Einspielung der
 digitalen Bestände des Google Projekts bei Google Books. Zusätzlich
-werden die Werke auch im Deutschen Museum Digital verfügbar sein.](img/Abb6.jpg)
+werden die Werke auch im Deutschen Museum Digital verfügbar sein.](img/Abb6.JPG)
 
 Sicherlich können Digitalisate, die bei Google Books angezeigt werden,
 in vielerlei Hinsicht nicht mit den Produkten der Hausdigitalisierung
 mithalten. Nicht ausgeklappte Falttafeln, zerschnittene Titelblätter,
-mitgescannte Finger, das sind Phänomene, für die sich erst im Vollzug
+mitgescannte Finger -- das sind Phänomene, für die sich erst im Vollzug
 eine gewisse Sensibilität entwickelt hat und für welche Lösungen
 gefunden werden müssen. Ebenfalls irrig ist die Annahme, dass
 Massendigitalisierung die Kunst der (digitalen) Editorik übernehmen
@@ -308,7 +308,7 @@ FID eine Vielzahl an Ressourcen wie die Adressen von passenden Archiven,
 Museen und Fachgesellschaften, die geprüft und aktuell gehalten werden.
 
 ![Neben Digitalisaten bietet die Bibliothek weitere
-Dienstleistungen im Fachinformationsdienst Geschichte an.](img/Abb7.jpg)
+Dienstleistungen im Fachinformationsdienst Geschichte an.](img/Abb7.JPG)
 
 ### Fazit und Ausblick
 

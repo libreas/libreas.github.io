@@ -42,7 +42,7 @@ Discord-Channels sammelten und warteten, bis alles wieder funktionierte.
 H. Wiesenmüller: Wir haben auch Audiochannels, zum Beispiel einen, der
 "Großraumbüro" heißt und so intendiert ist, dass man eintreten und
 arbeiten kann und sich dann vielleicht auch zwischendurch mit anderen
-unterhält - das wird aber nicht so häufig genutzt. Darüber hinaus gibt
+unterhält -- das wird aber nicht so häufig genutzt. Darüber hinaus gibt
 es den Direktchat (auch als Audio- oder Video-Chat). Also mag es viele
 Begegnungen geben, die wir nicht mitbekommen, weil sie nicht im
 öffentlichen Raum stattfinden.
@@ -156,7 +156,7 @@ geschützten Raum chatten zu können. Es gab öfter Konferenzsysteme, die
 das ermöglichen wollten, beispielsweise Konferenzapps, aber so richtig
 eingeschlagen sind die eigentlich nie. Und da könnte so eine
 Parallelität von realer und virtueller Begegnung schon ganz interessant
-sein - ein zusätzlicher Kanal, eine zusätzliche Dimension von
+sein -- ein zusätzlicher Kanal, eine zusätzliche Dimension von
 Kommunikation und Begegnung.
 
 D. Brenn: Ein Vorteil gegenüber solchen Konferenzapps ist auch, dass man
@@ -188,7 +188,7 @@ von den amerikanischen Kolleg\*innen übernommen: Sie posten einmal in
 der Woche eine Frage, wobei alle benachrichtigt werden und man die ganze
 Woche lang darüber diskutieren kann. Das empfanden wir als eine sehr
 gute Idee, dass die Menschen jede Woche etwas von uns hören und sie dazu
-eingeladen sind, sich u. a. zum wöchentlichen Thema zu äußern.
+eingeladen sind, sich unter anderem zum wöchentlichen Thema zu äußern.
 
 D. Brenn: Da kommen wir zu einem Teil, bei dem uns Kritik für den
 Bibliothekswesen-Server entgegen gebracht wurde: \"Das ist ja
@@ -223,9 +223,9 @@ und offen zugänglicher Dienst nützlich.
 
 H. Wiesenmüller: Ich weiß nicht, ob dieser Server in fünf Jahren noch
 auf Discord laufen wird. Es gibt jetzt schon verschiedene Produkte,
-u. a. \"Mattermost\" als Open-Source-Lösung und Slack, was auch viele in
+unter anderem \"Mattermost\" als Open-Source-Lösung und Slack, was auch viele in
 der Businesswelt nutzen. Der Trend zu einer ungefähr so aussehenden
-Kommunikationsplattform ist m. E. nicht zu stoppen und wird auch für
+Kommunikationsplattform ist meines Erachtens nicht zu stoppen und wird auch für
 diejenigen, die sowas im Moment noch nicht nutzen, in den nächsten
 Jahren zum Standard werden. Wie es genau aussehen wird, weiß ich nicht,
 aber diese grundsätzliche Art einer Plattform geht so schnell erstmal
@@ -367,7 +367,7 @@ B. Mattmann: Der Twitter-Account war eine spontane Maßnahme. Nicht aus
 PR-Gründen, sondern weil wir uns fragten, wie man am leichtesten zu uns
 auf den Server kommt. Im Zuge dessen haben wir kurz über eine Webseite
 oder Ähnliches nachgedacht, aber schließlich einen Twitter-Account, über
-den man sich melden und einen Link bekommen kann, bzw. ein Posting auf
+den man sich melden und einen Link bekommen kann, beziehungsweise ein Posting auf
 Twitter mit einem Einladungslink als einfachste Variante empfunden. Das
 war die Initialzündung für den Twitter-Account, den wir anschließend
 noch etwas ausgebaut haben.
@@ -382,14 +382,14 @@ unserem normalen Berufsalltag kennen, macht es uns auch so viel Spaß.
 
 B. Mattmann: Das beste Beispiel ist der Bibliothekartag. Zwei Tage
 vorher hatten wir die Idee, dass wir die Parallelkanäle zur Verfügung
-hätten, um die Tagung zu begleiten. Wir haben nochmal über Twitter usw.
+hätten, um die Tagung zu begleiten. Wir haben nochmal über Twitter und so weiter
 erinnert und das einfach kurz vorher rausgehauen. Und ich denke, so
 funktioniert es im Moment wirklich am besten -- auch mit den Personen,
 die Teil des Admin-Teams sind, weil wir doch sehr unterschiedliche
 Belastungen haben. Manche sind in der Lehre tätig, manche in
 Leitungsfunktionen, andere regulär angestellt. Auch unterscheiden sich
 die Arbeitsverhältnisse in Teilzeit, Vollzeit, Dienste an Wochenenden
-etc.
+et cetera.
 
 H. Wiesenmüller: Richtig. Und man sieht letztlich diesen
 Wahnsinnsvorteil von so einer Chatplattform -- es geht eben
@@ -401,14 +401,14 @@ Leute melden sich eigentlich immer und teilen sich mit, sei es per
 Daumen hoch oder sie geben einen Verbesserungsvorschlag. Aus diesem
 Grund können wir so fluide Entscheidungen treffen.
 
-B. Mattmann: Genau, so werden u. a. Ideen zur weiteren Entwicklung, mit
+B. Mattmann: Genau, so werden unter anderem Ideen zur weiteren Entwicklung, mit
 der Frage, ob das ok ist, einfach mal in die Runde geworfen. Entweder
 fallen sie gerade auf fruchtbaren Boden und man diskutiert darüber oder
 man schaut sich das später noch einmal an, wenn man mehr Zeit und einen
 freien Kopf hat, um darüber zu sprechen.
 
 **V. Geske: Damit sind wir auch schon fast am Ende angelangt. Möchten
-Sie den Leserinnen und Lesern noch etwas mitgeben, was nicht erwähnt
+Sie den Leser\*innen noch etwas mitgeben, was nicht erwähnt
 wurde?**
 
 D. Brenn: Wenn Sie Interesse haben, die Türen stehen immer offen.
@@ -448,4 +448,4 @@ haben und wünschen Ihnen weiterhin viel Freude und Erfolg.**
     Discord-Server eröffnet im März 2020. Darauffolgend überregionale
     Ausbreitung in der DH-Community.
 
-
+[^3]: <https://element.io/>

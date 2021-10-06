@@ -27,9 +27,9 @@ die Massen-Digitalisierung und Automatisierung?
 In Bibliotheken[^3] und öffentlichen Behörden ist zudem eine Renaissance
 der Chatbots feststellbar. Nahezu jedes deutsche Bundesland nutzt einen
 Chatbot für die zahlreichen Anfragen zum Thema COVID-19: In Berlin gibt
-beispielsweise ein Bär namens \"Bobbi\" mehr oder weniger
-zufriedenstellend Auskunft zu gängigen Fragen wie \"Darf man wieder
-verreisen?\"
+beispielsweise ein Bär namens "Bobbi" mehr oder weniger
+zufriedenstellend Auskunft zu gängigen Fragen wie "Darf man wieder
+verreisen?"
 
 ![Der Regierende Bürgermeister von Berlin (2021): Senatskanzlei
 Informationen zum Coronavirus (Covid-19), Chatbot Bobbi:
@@ -52,7 +52,7 @@ ließ. Wir heißen sie herzlich willkommen.
 Wir wünschen Ihnen und euch weiterhin viel Kraft, Durchhaltevermögen und
 vor allem Gesundheit!
 
-![Redaktionsorte - Immer noch online](img/img2.png)
+![Redaktionsorte -- immer noch online](img/img2.png)
 
 \*\*\*
 
@@ -73,13 +73,13 @@ Eure / Ihre Redaktion LIBREAS. Libreas
     Cover entwickelt haben. Dazu beschreiben sie den Prozess der
     Gestaltung wie folgt:
 
-    Der Mensch erschuf die Maschine. Die Lücke zwischen den Fingern, die
+    "Der Mensch erschuf die Maschine. Die Lücke zwischen den Fingern, die
     im originalen Gemälde für die Distanz zwischen Göttlichkeit und
     Menschsein steht, wird auch auf dem Cover beibehalten, um die
     Abgrenzung zwischen Mensch und Maschine darzustellen. Der Verlauf
     zwischen Schrift und Binärcode, versetzt zu Roboter und Mensch,
     repräsentiert den aktuellen Konflikt zwischen analog und digital in
-    Bibliotheken.
+    Bibliotheken."
 
 [^3]: Bereits 2016 sprach der ZBW Mediatalk-Blog von einem Revival der
     Chatbots in Bibliotheken, siehe
