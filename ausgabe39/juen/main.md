@@ -5,7 +5,7 @@ Navigationssystem durch den Großstadtdschungel führen. Wenn wir eine
 Auskunft zu unserer Kreditwürdigkeit machen müssen, geben wir einen
 Score weiter, der von einem Algorithmus berechnet wurde. Mittlerweile
 ist es für uns normal, dass wir von maschinell lernenden Algorithmen
-(auch \"schwache Künstliche Intelligenz\" genannt) umgeben sind. Sie
+(auch "schwache Künstliche Intelligenz" genannt) umgeben sind. Sie
 schlagen uns Produkte und Dienstleistungen vor, die wir eventuell kaufen
 wollen, die Sozialen Medien buhlen um unsere Aufmerksamkeit und
 Bildschirmzeit und Alexa reagiert auf unsere Anfragen. Und das alles

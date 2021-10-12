@@ -40,7 +40,7 @@
     <meta property="dc:source" content="LIBREAS. Library Ideas" />
     <meta property="dc:subject" content="Library and Information Science" />
     <meta property="dc:type" content="website" />
-    <meta property="dc:description" content=""/>
+    <meta property="dc:description" content="Discord ist ein Dienst, der ursprünglich aus der Gaming-Szene kommt, mit dem man als Gruppe online miteinander kommunizieren kann. Selbst erstellte Server können gestaltet werden, wie es zum jeweiligen Freundeskreis oder der Community passt, und umfassen sowohl schriftlichen als auch audiovisuellen Austausch. Den hier thematisierten Server für Bibliotheksmenschen gibt es seit Februar 2021. Das Interview fand am 22.06.21 über Videochat statt. Zu diesem Zeitpunkt waren knapp 1200 Nutzer*innen registriert."/>
     <meta property="dc:source" resource="urn:ISSN:1860-7950" /> 
 
 <!-- Google Scholar -->
@@ -132,8 +132,9 @@
 
 <div align="right">
 
-<strong> > > > <a href="inhalt.htm">LIBREAS. Library Ideas # 39</a></strong> <br><br>
+<strong> > > > <a href="/ausgabe39/inhalt/">LIBREAS. Library Ideas # 39</a></strong> <br><br>
 </div>
+
 
 
 
@@ -143,10 +144,13 @@
     
     <div align="right">
     <p><small><a itemprop="sameAs" href="https://via.hypothes.is/https://libreas.eu/ausgabe39/discord/meta.yaml">Annotate via hypothes.is</a></small></p>
-        <small><a itemprop="sameAs" href="main.pdf">Download PDF</a></small>
+        <small><a itemprop="sameAs" href="https://doi.org/10.18452/23451">Download PDF</a></small>
         </div>
     
     
+    <div align="right">
+        <small><a itemprop="sameAs" href="https://doi.org/10.18452/23451">doi:10.18452/23451</a> (edoc HU Berlin)</small>
+        </div>
         
 
         
@@ -191,6 +195,10 @@
  -->
 
 
+
+        
+
+        <p><small itemprop="description">Discord ist ein Dienst, der ursprünglich aus der Gaming-Szene kommt, mit dem man als Gruppe online miteinander kommunizieren kann. Selbst erstellte Server können gestaltet werden, wie es zum jeweiligen Freundeskreis oder der Community passt, und umfassen sowohl schriftlichen als auch audiovisuellen Austausch. Den hier thematisierten Server für Bibliotheksmenschen gibt es seit Februar 2021. Das Interview fand am 22.06.21 über Videochat statt. Zu diesem Zeitpunkt waren knapp 1200 Nutzer*innen registriert.</small></p>
 
         
 
@@ -260,7 +268,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2021-10-06</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2021-10-12</a>)</p>
 
 </footer>
       </div>

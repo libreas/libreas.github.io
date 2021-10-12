@@ -36,7 +36,7 @@ Beiden Autor\*innen, welche das Werk zur Informatisation der
 Bibliotheken in Genf vorlegten, haben ihr Berufsleben in diesem Umfeld
 und der beschriebenen Zeit verbracht. Gabrielle von Roten koordinierte
 zum Beispiel lange Zeit die Bibliotheken der Universität Genf und einige
-Zeit auch den westschweizerischen Bibliotheksverbund Rero, war in der
+Zeit auch den westschweizerischen Bibliotheksverbund RERO, war in der
 föderalen Kommission für wissenschaftliche Information sowie der
 Kommission der Schweizerischen Nationalbibliothek aktiv und trieb die
 Gründung des Konsortiums wissenschaftlicher Bibliotheken der Schweiz

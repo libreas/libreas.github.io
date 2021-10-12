@@ -124,8 +124,9 @@
 
 <div align="right">
 
-<strong> > > > <a href="inhalt.htm">LIBREAS. Library Ideas # 39</a></strong> <br><br>
+<strong> > > > <a href="/ausgabe39/inhalt/">LIBREAS. Library Ideas # 39</a></strong> <br><br>
 </div>
+
 
 
 
@@ -135,10 +136,13 @@
     
     <div align="right">
     <p><small><a itemprop="sameAs" href="https://via.hypothes.is/https://libreas.eu/ausgabe39/goehring/meta.yaml">Annotate via hypothes.is</a></small></p>
-        <small><a itemprop="sameAs" href="master.pdf">Download PDF</a></small>
+        <small><a itemprop="sameAs" href="https://doi.org/10.18452/23447">Download PDF</a></small>
         </div>
     
     
+    <div align="right">
+        <small><a itemprop="sameAs" href="https://doi.org/10.18452/23447">doi:10.18452/23447</a> (edoc HU Berlin)</small>
+        </div>
         
 
         
@@ -224,7 +228,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2021-10-06</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2021-10-12</a>)</p>
 
 </footer>
       </div>

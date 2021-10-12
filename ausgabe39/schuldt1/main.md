@@ -408,7 +408,7 @@ computerlesbarer Form aufgenommen wurden, nicht mehr auf Katalogkarten
 Kritik frei.
 
 In wenigen Texten wird postuliert, dass sich die Bibliotheken zwar
-verändern, aber auch in Zukunft weiter bestehen würden (Loh 1965). Eine
+verändern, aber auch in Zukunft weiter bestehen würden. (Loh 1965) Eine
 der wenigen konkreten Utopien, die sich in diesen Texten findet, ist
 dann bezeichnenderweise wenig phantasiereich und eher eine
 Fortschreibung von Entwicklungen, nicht der Entwurf einer ganz anderen
@@ -424,7 +424,7 @@ Teilen der Gesellschaften im DACH-Raum heftig kritisiert wurde. (Müller
 im DACH-Raum in diesem Jahrzehnt an sich massiv veränderten, vor allem
 liberaler wurden und radikal alternative Gesellschaftsentwürfe,
 inklusive rabiater politischer Kritik des gesellschaftlichen Status Quo,
-zumindest in der BRD, Österreich und Schweiz nicht selten waren. All
+zumindest in der BRD, Österreich und Schweiz, nicht selten waren. All
 dies findet sich in der Literatur zur Rationalisierung und
 Automatisierung von Bibliotheken nicht wieder. Offenbar existierte in
 dieser ein breiter Konsens dazu, dass sich die Arbeit in Bibliotheken

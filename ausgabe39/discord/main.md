@@ -1,5 +1,5 @@
 **V. Geske: Wir sprechen heute über den Discord-Server
-\"DACH-Bibliothekswesen\" und Sie sind drei der Admins, die diesen
+"DACH-Bibliothekswesen" und Sie sind drei der Admins, die diesen
 versorgen und pflegen. Wir möchten erst einmal mit einer allgemeinen
 Frage einsteigen: Was machen Sie und Ihre User auf diesem Server?**
 
@@ -42,7 +42,7 @@ Discord-Channels sammelten und warteten, bis alles wieder funktionierte.
 H. Wiesenmüller: Wir haben auch Audiochannels, zum Beispiel einen, der
 "Großraumbüro" heißt und so intendiert ist, dass man eintreten und
 arbeiten kann und sich dann vielleicht auch zwischendurch mit anderen
-unterhält -- das wird aber nicht so häufig genutzt. Darüber hinaus gibt
+unterhält – das wird aber nicht so häufig genutzt. Darüber hinaus gibt
 es den Direktchat (auch als Audio- oder Video-Chat). Also mag es viele
 Begegnungen geben, die wir nicht mitbekommen, weil sie nicht im
 öffentlichen Raum stattfinden.
@@ -56,7 +56,7 @@ auch mit administriere, ist das exakt das Gleiche. Also das schätze ich
 nicht als ungewöhnlich ein.
 
 **V. Geske: Das hält mit Sicherheit die Kommunikation am Laufen, auch
-seitens der Mitglieder. Vielleicht fühlen sich stumme Leser bei einem
+seitens der Mitglieder. Vielleicht fühlen sich stumme Leser\*innen bei einem
 der Themen mehr angesprochen. Ist denn der Server neben Bibliotheks- und
 Informationswissenschaftler\*innen auch für fachlich Außenstehende
 offen?**
@@ -108,9 +108,9 @@ anschließend wurde der Server zusätzlich gezielt in Arbeitsgruppen
 verbreitet.
 
 **Y. Paulsen: Auch wenn diese hohen Beitrittszahlen nicht erwartet
-wurden, war es schon eine bewusste Entscheidung zu sagen \"Wir wollen
+wurden, war es schon eine bewusste Entscheidung zu sagen "Wir wollen
 jetzt nicht in diesem privaten Kreis bleiben, sondern es sollen mehr
-Leute zu uns kommen\"?**
+Leute zu uns kommen"?**
 
 B. Mattmann: Ja, der Ursprungskreis bestand wirklich nur aus ein paar
 Admins. Wir hatten aber von Beginn an diese große Vision und wir fanden
@@ -156,7 +156,7 @@ geschützten Raum chatten zu können. Es gab öfter Konferenzsysteme, die
 das ermöglichen wollten, beispielsweise Konferenzapps, aber so richtig
 eingeschlagen sind die eigentlich nie. Und da könnte so eine
 Parallelität von realer und virtueller Begegnung schon ganz interessant
-sein -- ein zusätzlicher Kanal, eine zusätzliche Dimension von
+sein – ein zusätzlicher Kanal, eine zusätzliche Dimension von
 Kommunikation und Begegnung.
 
 D. Brenn: Ein Vorteil gegenüber solchen Konferenzapps ist auch, dass man
@@ -191,9 +191,9 @@ gute Idee, dass die Menschen jede Woche etwas von uns hören und sie dazu
 eingeladen sind, sich unter anderem zum wöchentlichen Thema zu äußern.
 
 D. Brenn: Da kommen wir zu einem Teil, bei dem uns Kritik für den
-Bibliothekswesen-Server entgegen gebracht wurde: \"Das ist ja
+Bibliothekswesen-Server entgegen gebracht wurde: "Das ist ja
 datenschutzrechtlich alles hoch fragwürdig, warum könnt ihr das nicht
-Open-Source machen? Schon wieder so eine geschlossene Lösung!\" Ich
+Open-Source machen? Schon wieder so eine geschlossene Lösung!" Ich
 würde einer Bibliothek nicht empfehlen, das als offizielles Angebot zu
 nutzen, eben weil der Datenschutz da durchaus verbesserungswürdig ist.
 Und wir würden uns auch für den Bibliothekswesen-Server eine
@@ -223,7 +223,7 @@ und offen zugänglicher Dienst nützlich.
 
 H. Wiesenmüller: Ich weiß nicht, ob dieser Server in fünf Jahren noch
 auf Discord laufen wird. Es gibt jetzt schon verschiedene Produkte,
-unter anderem \"Mattermost\" als Open-Source-Lösung und Slack, was auch viele in
+unter anderem "Mattermost" als Open-Source-Lösung und Slack, was auch viele in
 der Businesswelt nutzen. Der Trend zu einer ungefähr so aussehenden
 Kommunikationsplattform ist meines Erachtens nicht zu stoppen und wird auch für
 diejenigen, die sowas im Moment noch nicht nutzen, in den nächsten
@@ -254,7 +254,7 @@ vorher, ob jemand eine Idee für die neue Frage der Woche hat. Wir
 sammeln natürlich auch schon einige Ideen in einem Dokument, aber es ist
 eigentlich nicht abgestimmt. Einmal fängt der Eine und einmal fängt die
 Andere an. Ähnlich ist es mit Wünschen nach neuen Kanälen. Wir haben
-einen eigenen Kanal \"Vorschläge und Wünsche\", wo dann manchmal etwas
+einen eigenen Kanal "Vorschläge und Wünsche", wo dann manchmal etwas
 kommt und irgendjemand reagiert zuerst. Aber letztlich diskutieren wir
 in der Runde -- wer dabei ist, diskutiert mit. Wenn sich mal jemand
 gerade ausgeklinkt hat für ein paar Tage, ist das auch nicht schlimm.
@@ -423,7 +423,7 @@ herantreten, sondern kann jemandem von uns schreiben oder auf Twitter
 kontaktieren mit der Frage, ob sich jemand Zeit nehmen und eine
 Einführung geben könnte. Da sind wir ganz unkompliziert. Falls man sich
 vielleicht fürchtet, sich in die große Community zu begeben, können in
-der sicheren Umgebung von zwei Personen alle möglichen Anfängerfragen
+der sicheren Umgebung von zwei Personen alle möglichen Anfänger\*innenfragen
 gestellt werden. So kann man sich in Ruhe durch alles hindurchführen
 lassen.
 

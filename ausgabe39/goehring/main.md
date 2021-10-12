@@ -1,4 +1,4 @@
-![Roboter aus der Robotervitrine im Eingangsbereich des Deutsches Technikmuseum in Berlin. Mit freundlicher Genehmigung der Stiftung Deutsches Technikmuseum Berlin (Bildrechte: SDTB / C. Kirchner).](img/Robotervitrine.jpg)
+![Roboter aus der Robotervitrine im Eingangsbereich des Deutsches Technikmuseum in Berlin. \[Mit freundlicher Genehmigung der Stiftung Deutsches Technikmuseum Berlin (Bildrechte: SDTB / C. Kirchner).\]](img/Robotervitrine.jpg)
 
 Während des Semesterstarts ist an Universitäten bekanntlich viel los.
 Überall herrscht hektische Betriebsamkeit. Studierende suchen ihren
@@ -64,7 +64,7 @@ Einrichtungen.
 
 ### Funktion von Robotern in Öffentlichen Bibliotheken
 
-![Humanoider Roboter ADA in der Stadtbücherei Frankfurt am Main](img/ADA.PNG)
+![ADA in der Stadtbücherei Frankfurt am Main \[© Stadt Frankfurt am Main, Foto: Benjamin Esche, mit freundlicher Genehmigung der Stadtbücherei Frankfurt am Main\]](img/ADA.PNG)
 
 Die Stadtbücherei Frankfurt am Main und die Stadtbibliothek Köln setzen
 beide einen humanoiden Roboter namens ADA beziehungsweise NAO als Lern-
@@ -134,7 +134,7 @@ Hoffnung, so die Lücke der digitalen Spaltung der Gesellschaft zu
 verkleinern. In dieser Funktion wollen Bibliotheken eine wichtigen
 Beitrag bei der Partizipation und Teilhabe breiter Bevölkerungsschichten
 am digitalen Wandel des gesamten gesellschaftlichen und öffentlichen
-Lebens. Der Roboter soll zum einen praktischen Wert haben, zum anderen
+Lebens leisten. Der Roboter soll zum einen praktischen Wert haben, zum anderen
 aber auch erfreuen, ganz im Sinne des aufklärerischen Grundsatzes
 "Prodesse et delectare". Bibliotheken sind in dieser Funktion
 Erkundungs- und Experimentierort, an dem man Wissen vermittelt, das
@@ -197,7 +197,7 @@ innerhalb der Bibliothek wie folgt:
 
 > "Ich verstehe mich eher als Assistenzsystem und helfe den Mitarbeiter\*innen der Bibliothek, wo ich kann und bringe ihnen Entlastung. Ich bin ein Lern- und Forschungsroboter; das heißt, die Studenten des Studiengangs Telematik, die mich vorwiegend programmieren, probieren viel an mir aus -- was als Ergebnis den Kunden der Bibliothek zugute kommen soll \[...\]. Ich unterstütze zum Beispiel, indem ich kleine Bibliotheksführungen gebe oder Zuhörern zum Entspannen Witze erzähle, mit -- vor allem jungem -- Nachwuchs Schere-Stein-Papier spiele oder für ein Selfie zur Verfügung stehe. Ab dem kommenden Wintersemester soll ich helfen, das Fehlen von Fachpersonal in den Abend- und Morgenstunden zu kompensieren, damit Studierende rund um die Uhr hier arbeiten können."[^10]
 
-![Screenshot aus dem Video: Auf einen Espresso mit Wilma. Mit freundlicher Genehmigung der Hochschulbibliothek der TH Wildau (Dr. Frank Seeliger).](img/Wilma.PNG)
+![Screenshot aus dem Video: Auf einen Espresso mit Wilma. \[Mit freundlicher Genehmigung der Hochschulbibliothek der TH Wildau (Dr. Frank Seeliger).\]](img/Wilma.PNG)
 
 Im Konzept bezüglich der Einsatzgebiete von Wilma sei immer angelegt
 gewesen, so sagt mir der Bibliotheksdirektor der Hochschulbibliothek der
@@ -233,7 +233,7 @@ Navigation. Des Weiteren musste Wilma immer wieder zurück zur
 Ladestation fahren um ihren Akku aufzuladen. Seeliger erklärt mir zum
 Einsatz von Wilma:
 
-> "Man braucht Geduld und man muss spielen wollen, sonst verliert man ganz schnell das Interesse an Wilma, da sie sich doch sehr entschleunigt, unflüssig und stockend durch den realen Raum bewegt. Bis Wilma zu einem Punkt in der Bibliothek gefunden hat, dauert es ewig; das warten sie als Nutzender auch nicht, sie sind andere Geschwindigkeiten gewohnt."[^12]
+> "Man braucht Geduld und man muss spielen wollen, sonst verliert man ganz schnell das Interesse an Wilma, da sie sich doch sehr entschleunigt, unflüssig und stockend durch den realen Raum bewegt. Bis Wilma zu einem Punkt in der Bibliothek gefunden hat, dauert es ewig; da warten sie als Nutzender auch nicht, sie sind andere Geschwindigkeiten gewohnt."[^12]
 
 Die Navigation durch den Raum scheint allerdings nicht nur Wilma schwer
 zu fallen. Wirft man einen Blick auf die Videos von Bibliotheksrobotern,
@@ -277,7 +277,7 @@ dass:
 ### Künstliche Intelligenz in Bibliotheken
 
 Roboter, zumindest nach heutigem Stand, sind weit davon entfernt in
-irgendeine Konkurrenz zu einem/einer Bibliothekar\*in zu treten. Die
+irgendeine Konkurrenz zu Bibliothekar\*innen zu treten. Die
 Frage nach der Verdrängung der bibliothekarischen Belegschaft durch den
 Roboter stellt sich aktuell nicht. Dagegen haben andere Technologien,
 wie die Einführung von RFID oder die Verbund- beziehungsweise
@@ -288,7 +288,7 @@ bibliothekarischen Kernaufgabengebieten sind eher Entwicklungen zu
 sehen, welche sich im digitalen Raum manifestieren. Schlagwort in diesem
 Zusammenhang ist der Einsatz von Künstlicher Intelligenz (KI) in
 Bibliotheken. Diese im virtuellen Raum eingesetzte Technologie übernimmt
-schon heute Kernaufgaben des Bibliothekars/der Bibliothekarin. Bei der
+schon heute Kernaufgaben von Bibliothekar\*innen. Bei der
 Klassifizierung von Wissen setzt die Deutsche Nationalbibliothek[^15] schon einige Jahre lang
 auf die automatisierte Inhaltserschließung mittels linearer Regression
 und Algorithmen. Auch die Bayerische Staatsbibliothek setzt zur
@@ -410,21 +410,21 @@ Ceynow, Klaus: In Frankfurt lesen jetzt zuerst Maschinen:
 <https://www.faz.net/aktuell/feuilleton/buecher/maschinen-lesen-buecher-deutsche-nationalbibliothek-setzt-auf-technik-15128954.html?printPagedArticle=true#pageIndex_2> (aufgerufen am 16.4.2021).
 
 Chakarova, Juja: Ich, der Roboter, helfe dir, dem Bibliothekar : die
-Bibliothek des MPI Luxemburg als Wegbereiter In: Forum Bibliothek und
+Bibliothek des MPI Luxemburg als Wegbereiter. In: Forum Bibliothek und
 Information 02-03/2018, Seite 100-101.
 
 Herwig, Anja: Schriftliches Interview mit Anja Herwig (Stellv. Leiterin
 der Zweigbibliothek Naturwissenschaften der Humboldt-Universität zu
 Berlin), geführt am 13. Januar 2021.
 
-Ludwig, Elfriede: Roboter gehören in eine Öffentliche Bibliothek In:
+Ludwig, Elfriede: Roboter gehören in eine Öffentliche Bibliothek. In:
 Forum Bibliothek und Information 11/2019, Seite 621 und 622.
 
 Ludwig, Elfriede: Schriftliches Interview mit Elfriede Ludwig (Leiterin
 des Bereichs "Digitale Dienste" in der Stadtbücherei Frankfurt am Main),
 geführt am 21. Januar 2021.
 
-Schulz, Eckart: Der ewige Wettlauf zwischen Hase und Igel In: Forum
+Schulz, Eckart: Der ewige Wettlauf zwischen Hase und Igel. In: Forum
 Bibliothek und Information 02-03/2018, Seite 114 und 115.
 
 Seeliger, Frank: Telefonisches Interview mit Dr. Frank Seeliger (Leiter
@@ -441,15 +441,15 @@ YEWNO (Discovery Service): <https://www.bsb-muenchen.de/suchen-und-finden/yewno/
 
 [^2]: Stadtbücherei Frankfurt am Main: Hello World - ADA, Dash \& Co. stellen sich vor <https://www.youtube.com/watch?v=NMUsmLztOCo> (aufgerufen am 7.4.2021).
 
-[^3]: Ebenda.
+[^3]: Stadtbücherei Frankfurt am Main: Hello World - ADA, Dash \& Co. stellen sich vor <https://www.youtube.com/watch?v=NMUsmLztOCo> (aufgerufen am 7.4.2021).
 
 [^4]: Schriftliches Interview mit Frauke Buhlmann (Stadtbibliothek Köln), geführt am 21. Dezember 2020.
 
 [^5]: Appell der Initiative "Digital für alle": Digitale Teilhabe jetzt umfassend ermöglichen! <https://digitaltag.eu/appell> (aufgerufen am 7.4.2021).
 
-[^6]: Ludwig, Elfriede: Roboter gehören in eine Öffentliche Bibliothek In: Forum Bibliothek und Information 11/2019, Seite S. 621 und 622.
+[^6]: Ludwig, Elfriede: Roboter gehören in eine Öffentliche Bibliothek. In: Forum Bibliothek und Information 11/2019, Seite S. 621 und 622.
 
-[^7]: Schulz, Eckart: Der ewige Wettlauf zwischen Hase und Igel In: Forum Bibliothek und Information 02-03/2018, Seite 114*.*
+[^7]: Schulz, Eckart: Der ewige Wettlauf zwischen Hase und Igel. In: Forum Bibliothek und Information 02-03/2018, Seite 114*.*
 
 [^8]: Schriftliches Interview mit Anja Herwig (stellvertretende Leiterin der Zweigbibliothek Naturwissenschaften der Humboldt-Universität zu Berlin), geführt am 13. Januar 2021.
 
@@ -461,9 +461,9 @@ YEWNO (Discovery Service): <https://www.bsb-muenchen.de/suchen-und-finden/yewno/
 
 [^12]: Telefonisches Interview mit Dr. Frank Seeliger (Leiter der Hochschulbibliothek der TH Wildau), geführt am 21. Dezember 2020.
 
-[^13]: Ebenda.
+[^13]: Telefonisches Interview mit Dr. Frank Seeliger (Leiter der Hochschulbibliothek der TH Wildau), geführt am 21. Dezember 2020.
 
-[^14]: Chakarova, Juja: Ich, der Roboter, helfe dir, dem Bibliothekar: die Bibliothek des MPI Luxemburg als Wegbereiter In: Forum Bibliothek und Information 02-03/2018, Seite 104.
+[^14]: Chakarova, Juja: Ich, der Roboter, helfe dir, dem Bibliothekar : die Bibliothek des MPI Luxemburg als Wegbereiter. In: Forum Bibliothek und Information 02-03/2018, Seite 104.
 
 [^15]: Ceynow, Klaus: In Frankfurt lesen jetzt zuerst Maschinen: <https://www.faz.net/aktuell/feuilleton/buecher/maschinen-lesen-buecher-deutsche-nationalbibliothek-setzt-auf-technik-15128954.html?printPagedArticle=true#pageIndex_2> (aufgerufen am 16.4.2021).
 
@@ -471,7 +471,7 @@ YEWNO (Discovery Service): <https://www.bsb-muenchen.de/suchen-und-finden/yewno/
 
 [^17]: Telefonisches Interview mit Dr. Frank Seeliger (Leiter der Hochschulbibliothek der TH Wildau), geführt am 21. Dezember 2020.
 
-[^18]: Ebenda.
+[^18]: Telefonisches Interview mit Dr. Frank Seeliger (Leiter der Hochschulbibliothek der TH Wildau), geführt am 21. Dezember 2020.
 
 [^19]: Schriftliches Interview mit Elfriede Ludwig (Leiterin des Bereichs "Digitale Dienste" in der Stadtbücherei Frankfurt am Main), geführt am 21. Januar 2021.
 
@@ -485,4 +485,4 @@ YEWNO (Discovery Service): <https://www.bsb-muenchen.de/suchen-und-finden/yewno/
 
 [^24]: Telefonisches Interview mit Dr. Frank Seeliger (Leiter der Hochschulbibliothek der TH Wildau), geführt am 21. Dezember 2020.
 
-[^25]: Ebenda.
+[^25]: Telefonisches Interview mit Dr. Frank Seeliger (Leiter der Hochschulbibliothek der TH Wildau), geführt am 21. Dezember 2020.

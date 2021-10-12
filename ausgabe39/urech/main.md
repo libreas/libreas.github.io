@@ -10,7 +10,7 @@ Schüler\*innen oder als Instruktor\*in bei Mitarbeitendenschulungen
 eingesetzt.
 
 In der Bibliothek der Fachhochschule Nordwestschweiz (FHNW) Campus
-Brugg-Windisch Bibliothek ist seit Dezember 2019, in der FHNW Campus
+Brugg-Windisch ist seit Dezember 2019, in der FHNW Campus
 Muttenz Bibliothek seit September 2020 je ein Roboter des Modells Pepper
 (Version NAOqi 2.9) im Einsatz. Die Roboter sind Teil eines zweijährigen
 Entwicklungsprojekts in Zusammenarbeit mit dem FHNW Robo-Lab. Im FHNW
@@ -30,7 +30,7 @@ zusammengearbeitet. Die bestehenden Szenarien werden von Studierenden
 der Hochschule für Angewandte Psychologie evaluiert, um das
 Verbesserungspotential aufzuzeigen.
 
-![Abbildung 1: Der Roboter in der FHNW Bibliothek Brugg-Windisch](img/s_DSC8255.jpg)
+![Abbildung 1: Der Roboter in der FHNW Bibliothek Brugg-Windisch.](img/s_DSC8255.jpg)
 
 Der Roboter in der Bibliothek in Brugg-Windisch beantwortet häufige
 Fragen, beispielsweise «Wo finde ich die Zeitschriften in der
@@ -152,7 +152,7 @@ werden der Prozess (siehe Abbildung 3) oder einzelne Prozessphasen
 schrittweise wiederholt, um nützliche und bedienbare Produkte oder
 nutzbare Dienstleistungen zu erhalten.
 
-![Abbildung 3: Der HCD-Prozess. Vereinfachte Darstellung in Anlehnung an DIN EN ISO 9241-210:2010](img/HCD-Prozess.jpg)
+![Abbildung 3: Der HCD-Prozess. Vereinfachte Darstellung in Anlehnung an DIN EN ISO 9241-210:2010.](img/HCD-Prozess.jpg)
 
 In diesem Prozess werden, je nach Phase, verschiedene Methoden
 eingesetzt. So können zum Beispiel bei der User Research, der
@@ -173,7 +173,7 @@ bakterielle Belastung oder bei Robotern die Akzeptanz von neuen
 Technologien sein.
 
 Im Projekt ist vorgesehen, dass immer wieder mit Stakeholdern wie
-Bibliotheksmitarbeitenden und Benutzenden die Interaktion mit dem
+Bibliotheksmitarbeitenden und -benutzenden die Interaktion mit dem
 Roboter getestet wird, die Stakeholder dabei beobachtet und
 anschliessend bezüglich Optimierungsmöglichkeiten und weiteren
 Bedürfnissen befragt werden. Die Ergebnisse dieser Evaluationen fliessen
@@ -200,8 +200,8 @@ unerlässlich, auch die effektiven Nutzenden in den Entwicklungsprozess
 einzubeziehen. Zum einen können die Bibliotheksbenutzenden Bedürfnisse
 haben, die den Mitarbeitenden nicht bewusst sind, und zum anderen können
 nur die Nutzenden für sich selbst beurteilen, ob der Roboter einfach
-benutzbar ist oder ob die Interaktion verständlich und nützlich ist. So
-mag beispielsweise der Begriff „Katalog" für die
+benutzbar oder ob die Interaktion verständlich und nützlich ist. So
+mag beispielsweise der Begriff "Katalog" für die
 Bibliotheksmitarbeitenden völlig klar sein, Benutzende könnten den
 Begriff anders oder nicht verstehen. Deshalb wurde in einem zweiten
 Schritt eine Untersuchung mit Bibliotheksbenutzenden mit der Frage
@@ -241,7 +241,7 @@ entwickelt und hat zum Ziel, soziale Roboter nutzbringend in die
 Arbeitsumgebung von Menschen einzubringen und Menschen davon zu
 überzeugen, den Prozess positiv zu unterstützen.
 
-![Abbildung 4: User Experience und Usability; eigene Abbildung, nach ISO 9241, zitiert nach Sardonick & Brau, 2012, S. 22](img/UX-Usability.jpg)
+![Abbildung 4: User Experience und Usability; eigene Abbildung, nach ISO 9241, zitiert nach Sardonick & Brau, 2012, S. 22.](img/UX-Usability.jpg)
 
 Während der Nutzung des Roboters spielt die Usability eine Rolle (siehe
 Abbildung 4). Sie wurde nach den im USUS definierten Kriterien wie
@@ -281,11 +281,11 @@ sprechen kann.
 
 Betreffend der User Experience fiel die Bewertung des Roboters besser
 aus. Seine Verkörperung wurde als positiv angesehen und der Roboter
-wurde als „süss" beschrieben. Durch seine Gestik wirkte er lebendiger.
+wurde als "süss" beschrieben. Durch seine Gestik wirkte er lebendiger.
 Als intelligent wurde er aber nicht wirklich wahrgenommen -- besonders
 aufgrund der Fragen, die zwingend richtig formuliert gestellt werden
 müssen. Eine eigene Persönlichkeit wurde, wenn überhaupt, nur
-ansatzweise wahrgenommen, und zwar ausgelöst durch das „Blinzeln" des
+ansatzweise wahrgenommen, und zwar ausgelöst durch das "Blinzeln" des
 Roboters (LED-Blinken in den Augen) oder durch das Fixieren des
 Blickkontaktes und Nachblicken durch den Roboter. Obwohl ein weiterer
 Einsatz durch die befragten Personen in Betracht gezogen wird,
@@ -361,7 +361,7 @@ Roboters.
 
 Auch zur sozialen Akzeptanz wurden zur ersten Erhebung ähnliche Aussagen
 getätigt. Eine spannende Ergänzung stellt hier die negative Einstellung
-einer Person gegenüber dem Technologieeinsatz dar, aber nur falls
+einer Person gegenüber dem Technologieeinsatz dar, aber nur, falls
 dadurch ein Mensch ersetzt werde (was in diesem Projekt natürlich nicht
 der Fall ist).
 
