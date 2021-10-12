@@ -343,21 +343,21 @@ Objektsammlungen und des Archivs gebündelt werden.[^15]
 
 ### Literatur
 
--   Altenhöner, Reinhard \[u.a.\]: Digitalisierung von Kulturgut. In:
-    Rolf Griebel \[u.a.\] (Hg.): Praxishandbuch Bibliotheksmanagement.
+-   Altenhöner, Reinhard \[u.&#8239;a.\]: Digitalisierung von Kulturgut. In:
+    Rolf Griebel \[u.&#8239;a.\] (Hg.): Praxishandbuch Bibliotheksmanagement.
     Berlin: De Gruyter, 2015, S. 763--811.
 
--   Bunge, Eva \[u.a.\]: Neue Services für die Technikgeschichte:
+-   Bunge, Eva \[u.&#8239;a.\]: Neue Services für die Technikgeschichte:
     Fachinformationsdienst Geschichtswissenschaft (FID). -- In:
     Technikgeschichte 85 (2018), S. 195--201.
 
 -   Ceynowa, Klaus: Massendigitalisierung für die Wissenschaft -- Zur
     Digitalisierungsstrategie der Bayerischen Staatsbibliothek. In:
-    Rolf Griebel \[u.a.\] (Hg.): Information, Innovation, Inspiration.
+    Rolf Griebel \[u.&#8239;a.\] (Hg.): Information, Innovation, Inspiration.
     450 Jahre Bayerische Staatsbibliothek. München: Saur, 2008, S.
     241--252
 
--   Ewert, Gisela \[u.a.\]: Bibliotheken. Die Definition der Bibliothek.
+-   Ewert, Gisela \[u.&#8239;a.\]: Bibliotheken. Die Definition der Bibliothek.
     In: Bibliotheksdienst 33 (1999) 6, S. 957--971.
 
 -   Fieseler, Christian: Das Verzeichnis Deutscher Drucke des 18.
@@ -366,7 +366,7 @@ Objektsammlungen und des Archivs gebündelt werden.[^15]
 
 -   Hilpert, Wilhelm: 10 Jahre Partnerschaft mit Google. Auswirkungen
     und Spuren an der Bayerischen Staatsbibliothek. -- In: Klaus
-    Ceynowa \[u.a.\] (Hg.): Bibliotheken: Innovation aus Tradition:
+    Ceynowa \[u.&#8239;a.\] (Hg.): Bibliotheken: Innovation aus Tradition:
     Rolf Griebel zum 65. Geburtstag. -- Berlin/Boston: De Gruyter,
     2015, S. 258--266.
 
@@ -381,15 +381,15 @@ Objektsammlungen und des Archivs gebündelt werden.[^15]
 [^1]: <https://digital.deutsches-museum.de/about/digital-strategy/>
     Zugriff am 08.02.2021.
 
-[^2]: Ewert, Gisela \[u.a.\]: Bibliotheken. Die Definition der
+[^2]: Ewert, Gisela \[u.&#8239;a.\]: Bibliotheken. Die Definition der
     Bibliothek. In: Bibliotheksdienst 33 (1999) 6, S. 957--971.
 
 [^3]: Hilz, Helmut (2017): Die Bibliothek des Deutschen Museums.
     Geschichte -- Sammlung -- Bücherschätze. München: Deutsches Museum,
     S. 72.
 
-[^4]: Altenhöner, Reinhard \[u.a.\]: Digitalisierung von Kulturgut. In:
-    Rolf Griebel \[u.a.\] (Hg.): Praxishandbuch Bibliotheksmanagement.
+[^4]: Altenhöner, Reinhard \[u.&#8239;a.\]: Digitalisierung von Kulturgut. In:
+    Rolf Griebel \[u.&#8239;a.\] (Hg.): Praxishandbuch Bibliotheksmanagement.
     Berlin: De Gruyter, 2015, S. 763--811, hier S. 793--801.
 
 [^5]: <https://astronomie-rara.ethbib.ethz.ch/>
@@ -404,12 +404,12 @@ Objektsammlungen und des Archivs gebündelt werden.[^15]
 
 [^8]: DFG (2013): DFG-Praxisregeln "Digitalisierung". Online verfügbar
     unter
-    <http://www.dfg.de/formulare/12\_151/12\_151\_de.pdf>,
+    <https://www.dfg.de/formulare/12_151/12_151_de.pdf>,
     Zugriff am 08.02.2021.
 
 [^9]: Hilpert, Wilhelm: 10 Jahre Partnerschaft mit Google. Auswirkungen
     und Spuren an der Bayerischen Staatsbibliothek. -- In: Klaus Ceynowa
-    \[u.a.\] (Hg.): Bibliotheken: Innovation aus Tradition: Rolf Griebel
+    \[u.&#8239;a.\] (Hg.): Bibliotheken: Innovation aus Tradition: Rolf Griebel
     zum 65. Geburtstag. -- Berlin/Boston: De Gruyter, 2015, S. 258--266.
 
 [^10]: <https://www.kleinefaecher.de/>
@@ -417,11 +417,11 @@ Objektsammlungen und des Archivs gebündelt werden.[^15]
 
 [^11]: Ceynowa, Klaus: Massendigitalisierung für die Wissenschaft -- Zur
     Digitalisierungsstrategie der Bayerischen Staatsbibliothek. In: Rolf
-    Griebel \[u.a.\] (Hg.): Information, Innovation, Inspiration. 450
+    Griebel \[u.&#8239;a.\] (Hg.): Information, Innovation, Inspiration. 450
     Jahre Bayerische Staatsbibliothek. München: Saur, 2008, S. 241--252,
     hier S. 245.
 
-[^12]: Bunge, Eva \[u.a.\]: Neue Services für die Technikgeschichte:
+[^12]: Bunge, Eva \[u.&#8239;a.\]: Neue Services für die Technikgeschichte:
     Fachinformationsdienst Geschichtswissenschaft (FID). -- In:
     Technikgeschichte 85 (2018), S. 195--201.
 

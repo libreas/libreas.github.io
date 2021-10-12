@@ -146,7 +146,7 @@ ein Mittel der Wahl.
 
 ### Funktion von Robotern in Wissenschaftlichen Bibliotheken
 
-![Transportroboter Hase und Igel in der Zweigbibliothek Naturwissenschaften. \[Foto mit freundlicher Genehmigung der Universitätsbibliothek der Humboldt-Universität zu Berlin, CC-BY UB der HU Berlin, Anja Herwig\]](img/HaseIgel.png)
+![Transportroboter Hase und Igel in der Zweigbibliothek Naturwissenschaften. \[Foto mit freundlicher Genehmigung der Universitätsbibliothek der Humboldt-Universität zu Berlin, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) UB der HU Berlin, Anja Herwig\]](img/HaseIgel.png)
 
 Ganz im Gegensatz zu den Vertretern der Öffentlichen Bibliotheken haben
 sich die befragten Wissenschaftlichen Bibliotheken eher aus praktischen

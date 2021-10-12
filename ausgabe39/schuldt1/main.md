@@ -85,7 +85,7 @@ Bibliothekswesen jeweils länderspezifische Eigenheiten hatte. Zuletzt
 wird im Fazit diskutiert, welche Bedeutung diese Geschichte für heutige
 Bibliotheken hat. (6)
 
-![Bildunterschrift: G. Nigg: «Zürich, ETH Zürich, Hauptgebäude (HG), Hauptbibliothek, Zeitschriftenabteilung», laut Metadaten 1968, eher frühe 1970er Jahre (e-pics, ETH Zürich, CC BY-SA 4.0, [http://doi.org/10.3932/ethz-a-000014445](http://doi.org/10.3932/ethz-a-000014445)). Terminale, die an einen Grossrechner angeschlossen waren, genutzt für die Katalogisierung.](img/ETHZuerich01.jpg)
+![G. Nigg: «Zürich, ETH Zürich, Hauptgebäude (HG), Hauptbibliothek, Zeitschriftenabteilung», laut Metadaten 1968, eher frühe 1970er Jahre (e-pics, ETH Zürich, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [http://doi.org/10.3932/ethz-a-000014445](http://doi.org/10.3932/ethz-a-000014445)). Terminale, die an einen Grossrechner angeschlossen waren, genutzt für die Katalogisierung.](img/ETHZuerich01.jpg)
 
 ### 2. Warum Bibliotheksarbeit rationalisieren?
 
@@ -235,7 +235,7 @@ von miteinander verbundenen, aber autonom zu analysierenden und zu
 verändernden Prozessen verstanden wurden, wurden dann auch jeweils
 Lösungen für einzelne Prozesse gesucht.
 
-#### 3.2 Eine Chronologie der Einführung **von** Computer in die Bibliothekswesen im DACH-Raum
+#### 3.2 Eine Chronologie der Einführung von Computern in die Bibliothekswesen im DACH-Raum
 
 Wie beschrieben waren in den ersten Jahren der 1960er die diskutierten
 Lösungsversuche breiter aufgestellt: Es wurde über den Einsatz von
