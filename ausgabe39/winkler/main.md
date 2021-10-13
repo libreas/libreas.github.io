@@ -343,40 +343,22 @@ Objektsammlungen und des Archivs gebündelt werden.[^15]
 
 ### Literatur
 
--   Altenhöner, Reinhard \[u.&#8239;a.\]: Digitalisierung von Kulturgut. In:
-    Rolf Griebel \[u.&#8239;a.\] (Hg.): Praxishandbuch Bibliotheksmanagement.
-    Berlin: De Gruyter, 2015, S. 763--811.
+Altenhöner, Reinhard \[u.&#8239;a.\]: Digitalisierung von Kulturgut. In: Rolf Griebel \[u.&#8239;a.\] (Hg.): Praxishandbuch Bibliotheksmanagement. Berlin: De Gruyter, 2015, S. 763--811.
 
--   Bunge, Eva \[u.&#8239;a.\]: Neue Services für die Technikgeschichte:
-    Fachinformationsdienst Geschichtswissenschaft (FID). -- In:
-    Technikgeschichte 85 (2018), S. 195--201.
+Bunge, Eva \[u.&#8239;a.\]: Neue Services für die Technikgeschichte: Fachinformationsdienst Geschichtswissenschaft (FID). In: Technikgeschichte 85 (2018), S. 195--201.
 
--   Ceynowa, Klaus: Massendigitalisierung für die Wissenschaft -- Zur
-    Digitalisierungsstrategie der Bayerischen Staatsbibliothek. In:
-    Rolf Griebel \[u.&#8239;a.\] (Hg.): Information, Innovation, Inspiration.
-    450 Jahre Bayerische Staatsbibliothek. München: Saur, 2008, S.
-    241--252
+Ceynowa, Klaus: Massendigitalisierung für die Wissenschaft -- Zur Digitalisierungsstrategie der Bayerischen Staatsbibliothek. In: Rolf Griebel \[u.&#8239;a.\] (Hg.): Information, Innovation, Inspiration. 450 Jahre Bayerische Staatsbibliothek. München: Saur, 2008, S. 241--252.
 
--   Ewert, Gisela \[u.&#8239;a.\]: Bibliotheken. Die Definition der Bibliothek.
-    In: Bibliotheksdienst 33 (1999) 6, S. 957--971.
+Ewert, Gisela \[u.&#8239;a.\]: Bibliotheken. Die Definition der Bibliothek. In: Bibliotheksdienst 33 (1999) 6, S. 957--971.
 
--   Fieseler, Christian: Das Verzeichnis Deutscher Drucke des 18.
-    Jahrhunderts (VD 18): Ziele, Entwicklung und aktueller Stand). --
-    In BuB 68 (2016) 7, S. 402--405.
+Fieseler, Christian: Das Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18): Ziele, Entwicklung und aktueller Stand). In: BuB 68 (2016) 7, S. 402--405.
 
--   Hilpert, Wilhelm: 10 Jahre Partnerschaft mit Google. Auswirkungen
-    und Spuren an der Bayerischen Staatsbibliothek. -- In: Klaus
-    Ceynowa \[u.&#8239;a.\] (Hg.): Bibliotheken: Innovation aus Tradition:
-    Rolf Griebel zum 65. Geburtstag. -- Berlin/Boston: De Gruyter,
-    2015, S. 258--266.
+Hilpert, Wilhelm: 10 Jahre Partnerschaft mit Google. Auswirkungen und Spuren an der Bayerischen Staatsbibliothek. In: Klaus Ceynowa \[u.&#8239;a.\] (Hg.): Bibliotheken: Innovation aus Tradition: Rolf Griebel zum 65. Geburtstag. -- Berlin/Boston: De Gruyter, 2015, S. 258--266.
 
--   Hilz, Helmut (2017): Die Bibliothek des Deutschen Museums.
-    Geschichte -- Sammlung -- Bücherschätze. München: Deutsches
-    Museum.
+Hilz, Helmut (2017): Die Bibliothek des Deutschen Museums. Geschichte -- Sammlung -- Bücherschätze. München: Deutsches Museum.
 
--   Huguenin, Fabienne: Deutsches Museum Digital: Online-Portal von
-    Archiv, Bibliothek und Objektsammlung. -- In: AKMB-news 25 (2019)
-    2, S. 3--11.
+Huguenin, Fabienne: Deutsches Museum Digital: Online-Portal von Archiv, Bibliothek und Objektsammlung. In: AKMB-news 25 (2019) 2, S. 3--11.
+
 
 [^1]: <https://digital.deutsches-museum.de/about/digital-strategy/>
     Zugriff am 08.02.2021.
@@ -399,7 +381,7 @@ Objektsammlungen und des Archivs gebündelt werden.[^15]
     Zugriff am 08.02.2021.
 
 [^7]: Fieseler, Christian: Das Verzeichnis Deutscher Drucke des 18.
-    Jahrhunderts (VD 18): Ziele, Entwicklung und aktueller Stand). -- In
+    Jahrhunderts (VD 18): Ziele, Entwicklung und aktueller Stand). In:
     BuB 68 (2016) 7, S. 402--405.
 
 [^8]: DFG (2013): DFG-Praxisregeln "Digitalisierung". Online verfügbar
@@ -408,7 +390,7 @@ Objektsammlungen und des Archivs gebündelt werden.[^15]
     Zugriff am 08.02.2021.
 
 [^9]: Hilpert, Wilhelm: 10 Jahre Partnerschaft mit Google. Auswirkungen
-    und Spuren an der Bayerischen Staatsbibliothek. -- In: Klaus Ceynowa
+    und Spuren an der Bayerischen Staatsbibliothek. In: Klaus Ceynowa
     \[u.&#8239;a.\] (Hg.): Bibliotheken: Innovation aus Tradition: Rolf Griebel
     zum 65. Geburtstag. -- Berlin/Boston: De Gruyter, 2015, S. 258--266.
 
@@ -422,7 +404,7 @@ Objektsammlungen und des Archivs gebündelt werden.[^15]
     hier S. 245.
 
 [^12]: Bunge, Eva \[u.&#8239;a.\]: Neue Services für die Technikgeschichte:
-    Fachinformationsdienst Geschichtswissenschaft (FID). -- In:
+    Fachinformationsdienst Geschichtswissenschaft (FID). In:
     Technikgeschichte 85 (2018), S. 195--201.
 
 [^13]: <https://www.historicum.net/technikgeschichte>
@@ -432,5 +414,5 @@ Objektsammlungen und des Archivs gebündelt werden.[^15]
     Zugriff am 08.02.2021.
 
 [^15]: Huguenin, Fabienne: Deutsches Museum Digital: Online-Portal von
-    Archiv, Bibliothek und Objektsammlung. -- In: AKMB-news 25 (2019) 2,
+    Archiv, Bibliothek und Objektsammlung. In: AKMB-news 25 (2019) 2,
     S. 3--11.

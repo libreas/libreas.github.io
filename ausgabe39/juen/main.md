@@ -17,10 +17,10 @@ Entscheidungen "besser" treffen kann als der Mensch.
 Seit einigen Jahren gibt es einen stetig größer werdenden Diskurs und
 zunehmend Untersuchungen darüber, ob diese Annahme der Neutralität
 tatsächlich zutrifft. Mittlerweile wurde die Vermutung, dass Algorithmen
-neutrale(re) Entscheidungen treffen, vielfach widerlegt (vgl. O'Neil
+neutrale(re) Entscheidungen treffen, vielfach widerlegt (vergleiche O'Neil
 2017; Zweig 2019). Tatsächlich verstärken datenbasierte
 Entscheidungssysteme bestehende Diskriminierungen und Benachteiligungen
-eher noch als sie zu verringern (vgl. Zweig 2019, S. 211).
+eher noch als sie zu verringern (vergleiche Zweig 2019, S. 211).
 Funktionstüchtige Entscheidungssysteme müssen nicht nur programmiert
 werden, sondern auch trainiert. Damit ein Algorithmus arbeiten kann,
 braucht er eine enorme Menge an Trainingsdaten, anhand derer er "lernt"
@@ -53,7 +53,7 @@ und Fragen zu Freund\_innen. Fragen, die bei einer Straftat keine Rolle
 spielen sollten, sich aber negativ auf die Bewertung auswirken können.
 Mehrere Studien haben bewiesen, dass dieses System BIPoC benachteiligt
 und sie höhere Strafen bekommen als weiße Menschen mit vergleichbaren
-Vergehen (vgl. O'Neil 2017, S. 25 ff).
+Vergehen (vergleiche O'Neil 2017, S. 25 ff).
 
 In dem Dokumentarfilm "Coded Bias" von Shalini Kantayya erzählt die MIT
 Computerwissenschaftlerin Joy Buolamwini, wie ihr während der Arbeit im
@@ -67,7 +67,7 @@ Software konnten auf die unausgewogenen Trainingsdaten, mit denen der
 Algorithmus gefüttert wurde, zurückgeführt werden. Circa zwei Drittel
 der Trainingsdaten bestanden aus Fotos von hellhäutigen Männern, nur ein
 geringer Anteil waren Frauengesichter und noch weniger waren
-dunkelhäutige Frauen (vgl. Kantayya 2020). Diese Beispiele zeigen
+dunkelhäutige Frauen (vergleiche Kantayya 2020). Diese Beispiele zeigen
 deutlich, dass datenbasierte Systeme nicht automatisch neutrale oder
 gerechtere Entscheidungen treffen als Menschen. Die Systeme werden mit
 Daten trainiert, welche die bereits vorhandenen Benachteiligungen und
@@ -77,7 +77,7 @@ In ihrem Buch "Ein Algorithmus hat kein Taktgefühl -- Wo künstliche
 Intelligenz sich irrt, warum uns das betrifft und was wir dagegen tun
 können" beschreibt die Informatikprofessorin Katharina Zweig
 anschaulich, wie Algorithmen und datenbasierte Systeme funktionieren,
-was sie gut können und wo ihre Grenzen liegen (vgl. Zweig 2019). Laut
+was sie gut können und wo ihre Grenzen liegen (vergleiche Zweig 2019). Laut
 Zweig können algorithmische Entscheidungssysteme keine "Lösung" von
 gesellschaftlichen Diskrepanzen sein. Sie macht dies unter anderem an
 dem Beispiel von Amazon deutlich. Amazon arbeitete in 2014 mit einem
@@ -92,7 +92,7 @@ Frauen auszusortieren, wenn zum Beispiel aus ihren Unterlagen
 hervorging, dass sie an einem Frauen-College studiert hatten. Der
 Algorithmus hatte aufgrund seiner Trainingsdaten gelernt, dass dieses
 Merkmal nicht oft zu einer erfolgreichen Einstellung geführt hat und
-sortierte die Bewerbung deswegen aus (vgl. ebd. S. 212).
+sortierte die Bewerbung deswegen aus (vergleiche ebenda S. 212).
 
 Die Beispiele von Joy Buolamwini und Katharina Zweig führen uns zu einem
 weiteren Punkt, der bei der Arbeit mit Daten oft zu wenig Aufmerksamkeit
@@ -102,13 +102,13 @@ schlichtweg vergessen werden. Sind keine Daten über sie vorhanden,
 existieren sie nicht. In der Vergangenheit bis hin in die Gegenwart
 betrifft dies in vielen Bereichen minorisierte Gruppen und die größte
 Minderheit der Welt: die Frauen. Momentan machen Frauen 49,5 % der
-Weltbevölkerung aus (vgl. Country Meters 2021, o. S.); trotzdem werden
+Weltbevölkerung aus (vergleiche Country Meters 2021, o. S.); trotzdem werden
 sie in vielen Bereichen, unter anderem in der Stadtplanung, der Medizin
 oder im Design, nicht (genügend) berücksichtigt. Dies kann, abgesehen
 von ärgerlichen Zwischenfällen im Alltag, auch schwerwiegende und
 lebensgefährliche Folgen haben. In ihrem Buch "Unsichtbare Frauen -- Wie
 eine von Daten beherrschte Welt die Hälfte der Bevölkerung ignoriert"
-(vgl. Criado-Perez 2020) geht Caroline Criado-Perez[^1] ausführlich auf
+(vergleiche Criado-Perez 2020) geht Caroline Criado-Perez[^1] ausführlich auf
 dieses Thema ein und schildert die Probleme, die durch das Phänomen der
 Gender-Data-Gap ausgelöst werden. Im Vorwort ihres Buches erklärt sie,
 was sich hinter diesem Begriff verbirgt. In der Geschichtsschreibung
@@ -136,7 +136,7 @@ Bedürfnisse allerdings nicht berücksichtigt und so entstehen am Ende
 Warteschlangen vor WCs für Frauen (Criado-Perez 2020, S. 75 f).
 
 Von immer mehr Wissenschaftler\_innen wird diese scheinbar "neutrale"
-und "objektive" Sichtweise grundsätzlich in Frage gestellt (vgl.
+und "objektive" Sichtweise grundsätzlich in Frage gestellt (vergleiche
 Criado-Perez 2020; D'Ignazio, Klein 2020; Roig 2021). Die Welt, wie wir
 sie kennen, wurde fast vollständig von weißen Männern mit einer
 eurozentristischen Sicht erschaffen. Da diese Sichtweise sehr tief in
@@ -147,7 +147,7 @@ genannt werden.
 
 Ein weiteres Buch, das sich mit der Datendiskrepanz auseinandersetzt,
 ist "Data Feminism" der Autorinnen Catherine D'Ignazio und Lauren F.
-Klein (vgl. D'Ignazio, Klein 2020). Anhand von zahlreichen Beispielen
+Klein (vergleiche D'Ignazio, Klein 2020). Anhand von zahlreichen Beispielen
 aus den unterschiedlichsten Wissenschaftsbereichen zeigen die beiden
 Autorinnen auf, wie die Ungleichheit in den Daten entstanden ist und wie
 dies in Zukunft vermieden werden könnte. Entlang der sieben Prinzipien
@@ -163,14 +163,14 @@ profitiert von den erhobenen Daten? Wer nicht? Wer macht die Arbeit? Wer
 wird außen vorgelassen? Wer sammelt die Daten und wessen Daten werden
 gesammelt? Wessen Prioritäten werden schlussendlich in einem Produkt
 oder den Ergebnissen der wissenschaftlichen Arbeit berücksichtigt? Und
-wessen nicht? (vgl. ebd. S. 47)
+wessen nicht? (vergleiche ebenda S. 47)
 
 2\. Prinzip -- Challenge Power *(Die Macht herausfordern)*
 
 Aufbauend auf dem ersten Prinzip, wird hier danach gefragt, wie
 ungleiche Machtstrukturen angegangen werden können. Außerdem, wie
 Systeme, Studien und Forschungsergebnisse auf Ungleichheit untersucht
-und wie diese gerechter gestaltet werden können (vgl. ebd. S. 72).
+und wie diese gerechter gestaltet werden können (vergleiche ebenda S. 72).
 
 3\. Prinzip -- Elevate emotion and embodiment *(Beachten von Gefühlen
 und Ausdrucksformen)*
@@ -182,16 +182,16 @@ betont, wie wichtig eine nüchterne Präsentation von Daten ist. Emotionen
 und Menschlichkeit haben, in der Regel, in statistischen, visuellen
 Darstellungen keinen Platz. Hier weisen die Autorinnen darauf hin, dass
 jede Datenvisualisierung aus einer bestimmten Perspektive vorgenommen
-wird und somit nie ganz neutral oder objektiv sein kann (vgl. ebd. S.
+wird und somit nie ganz neutral oder objektiv sein kann (vergleiche ebenda S.
 95 f).
 
 4\. Prinzip -- Rethink binaries and hierarchies *(Binaritäten und
 Hierarchien überdenken)*
 
 "Was gezählt wird, zählt", sagte die feministische Geografin Joni Seager
-(vgl. ebd. S. 97). Bei Prinzip 4 regen die Autorinnen an,
+(vergleiche ebenda S. 97). Bei Prinzip 4 regen die Autorinnen an,
 Klassifikationssysteme zu hinterfragen. Klassifikationen spiegeln die
-Werte, aber genauso die Vorurteile einer Gesellschaft wider (vgl. ebd.
+Werte, aber genauso die Vorurteile einer Gesellschaft wider (vergleiche ebenda
 S. 123). Ein allgegenwärtiges Beispiel dafür sind Anmeldeformulare, in
 denen das Geschlecht angegeben werden muss, die Auswahl sich aber auf
 die weibliche und männliche Option beschränkt. In diese Formulare können
@@ -209,7 +209,7 @@ mitgedacht werden. Die Personen, die sich am besten mit der untersuchten
 Angelegenheit auskennen, sind die Personen deren Angelegenheit
 untersucht wird. Die lokale Zusammenarbeit soll dabei berücksichtigt und
 gefördert werden, genauso wie die Diversität in der Forschung selbst
-(vgl. ebd. S. 147 f).
+(vergleiche ebenda S. 147 f).
 
 6\. Prinzip -- Consider context *(Den Kontext beachten)*
 
@@ -219,7 +219,7 @@ entstehen und auch in diesem gelesen werden sollten. Zahlen können nicht
 für sich selbst sprechen. Der Kontext sollte stets miteinbezogen,
 dargestellt und sichtbar gemacht werden. Außerdem sollte die Frage
 danach gestellt werden, wie der ursprüngliche Kontext war, wenn Daten
-nachgenutzt werden (vgl. ebd. S. 171 f).
+nachgenutzt werden (vergleiche ebenda S. 171 f).
 
 7\. Prinzip -- Make labor visible *(Die Arbeit sichtbar machen)*
 
@@ -229,7 +229,7 @@ Sie regen an, sich die Fragen zu stellen: Durch wie viele Hände geht ein
 Produkt/eine Untersuchung bis es/sie fertig ist? Die Arbeit von welchen
 Menschen wird womöglich vergessen/nicht gezeigt? Die Arbeit Anderer
 sichtbar zu machen, bedeutet andere Menschen zu unterstützen, in den
-Fokus zu rücken und ihren Anteil an der Arbeit zu würdigen (vgl. ebd. S.
+Fokus zu rücken und ihren Anteil an der Arbeit zu würdigen (vergleiche ebenda S.
 200 f).
 
 Zusammenfassend arbeiten die sieben Prinzipien des Data Feminism von
@@ -259,7 +259,7 @@ erstellt wurden. Erneuerungen und Anpassungen an die sich verändernden
 Werte werden zwar vorgenommen, meistens aber sehr verzögert und nicht
 umfassend. Zum Beispiel wurde erst in der 22. Fassung der
 Dewey-Dezimalklassifikation von 2006 der Begriff "rassisch" geändert
-sowie die Ausschließung der Notationen für Rassen vorgenommen (vgl.
+sowie die Ausschließung der Notationen für Rassen vorgenommen (vergleiche
 Chan, Mitchel 2006, S. 186).
 
 Abgesehen von den ethischen Fragen, die sich unsere Disziplin in Bezug
@@ -279,7 +279,7 @@ allerdings die so erarbeitete Forschung und Konzepte umfassender,
 gerechter und repräsentativer sein werden als bisher. Und dies ist doch
 ein erstrebenswertes Ziel.
 
-Literaturnachweise:
+**Literaturnachweise**
 
 Chan, Lois Mai; Mitchell, Joan S.: *Dewey Dezimalklassifikation --
 Theorie und Praxis. Lehrbuch zur DDC 22*. München, 2006.
