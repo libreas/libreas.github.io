@@ -8,7 +8,7 @@ ungewollte Begegnungen. Letztere enden zudem nicht selten negativ für
 alle Beteiligten, nicht zuletzt auch für unsere Buchbestände.
 
 Für einige der wertvollsten Werke jedoch, die man in unseren Beständen
-bewundern kann ‒ Bücher, deren Beschreibstoff "Pergament" ist ‒ waren es
+bewundern kann – Bücher, deren Beschreibstoff "Pergament" ist – waren es
 aber die Tiere, die hier Leib und Leben lassen mussten.
 
 In folgendem Aufsatz soll es zum einen um Pergament gehen, Herkunft,

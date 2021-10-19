@@ -32,7 +32,7 @@
     <meta property="dc:source" content="LIBREAS. Library Ideas" />
     <meta property="dc:subject" content="Library and Information Science" />
     <meta property="dc:type" content="website" />
-    <meta property="dc:description" content=""/>
+    <meta property="dc:description" content="Die Biodiversität in Bibliotheken ist oft erst auf den zweiten Blick erkennbar. In, zwischen und auf Büchern haben ganz besondere Arten ihre biologische Nische eingerichtet – teils vom Menschen gewollt, teils ungewollt. Der Beitrag gibt einen Einblick in die Vielfalt an Organismen in Bibliotheken und die Rolle von Informationsinfrastrukturen zum Schutz von Flora und Fauna der Welt."/>
     <meta property="dc:source" resource="urn:ISSN:1860-7950" /> 
 
 <!-- Google Scholar -->
@@ -135,10 +135,13 @@
     
     <div align="right">
     <p><small><a itemprop="sameAs" href="https://via.hypothes.is/https://libreas.eu/ausgabe38/herrmann/meta.yaml">Annotate via hypothes.is</a></small></p>
-        <small><a itemprop="sameAs" href="master.pdf">Download PDF</a></small>
+        <small><a itemprop="sameAs" href="https://doi.org/10.18452/23465">Download PDF</a></small>
         </div>
     
     
+    <div align="right">
+        <small><a itemprop="sameAs" href="https://doi.org/10.18452/23465">doi:10.18452/23465</a> (edoc HU Berlin)</small>
+        </div>
         
 
         
@@ -169,6 +172,16 @@
 
 
         
+
+        <p><small itemprop="description">Die Biodiversität in Bibliotheken ist oft erst auf den zweiten Blick erkennbar. In, zwischen und auf Büchern haben ganz besondere Arten ihre biologische Nische eingerichtet – teils vom Menschen gewollt, teils ungewollt. Der Beitrag gibt einen Einblick in die Vielfalt an Organismen in Bibliotheken und die Rolle von Informationsinfrastrukturen zum Schutz von Flora und Fauna der Welt.</small></p>
+
+        
+
+        
+
+        <br>
+
+        <p><small itemprop="description">Biodiversity in libraries is often only visible at second glance. Very special species have established their biological niche in, on and between books - partly wanted by humans, partly unwanted. This article provides an insight into the diversity of organisms in libraries and the role of information infrastructures in the protection of the earth’s flora and fauna.</small></p>
 
         
 
@@ -220,7 +233,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2021-10-13</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2021-10-19</a>)</p>
 
 </footer>
       </div>

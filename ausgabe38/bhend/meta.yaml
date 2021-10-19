@@ -32,7 +32,7 @@
     <meta property="dc:source" content="LIBREAS. Library Ideas" />
     <meta property="dc:subject" content="Library and Information Science" />
     <meta property="dc:type" content="website" />
-    <meta property="dc:description" content=""/>
+    <meta property="dc:description" content="Mit dem Rückumzug der Buch- und Kartenbestände in die vollrenovierte Bibliothek Münstergasse in Bern wurde die Chance genutzt, das Schädlingsmonitoring vor Ort neu aufzugleisen. In diesem Artikel wird aufgezeigt und beispielhaft erklärt, worauf insbesondere zu achten ist und wie vorbeugende Massnahmen innerhalb eines IPM (Integrated Pest Management) aussehen können."/>
     <meta property="dc:source" resource="urn:ISSN:1860-7950" /> 
 
 <!-- Google Scholar -->
@@ -135,10 +135,13 @@
     
     <div align="right">
     <p><small><a itemprop="sameAs" href="https://via.hypothes.is/https://libreas.eu/ausgabe38/bhend/meta.yaml">Annotate via hypothes.is</a></small></p>
-        <small><a itemprop="sameAs" href="master.pdf">Download PDF</a></small>
+        <small><a itemprop="sameAs" href="https://doi.org/10.18452/23467">Download PDF</a></small>
         </div>
     
     
+    <div align="right">
+        <small><a itemprop="sameAs" href="https://doi.org/10.18452/23467">doi:10.18452/23467</a> (edoc HU Berlin)</small>
+        </div>
         
 
         
@@ -167,6 +170,10 @@
  -->
 
 
+
+        
+
+        <p><small itemprop="description">Mit dem Rückumzug der Buch- und Kartenbestände in die vollrenovierte Bibliothek Münstergasse in Bern wurde die Chance genutzt, das Schädlingsmonitoring vor Ort neu aufzugleisen. In diesem Artikel wird aufgezeigt und beispielhaft erklärt, worauf insbesondere zu achten ist und wie vorbeugende Massnahmen innerhalb eines IPM (Integrated Pest Management) aussehen können.</small></p>
 
         
 
@@ -220,7 +227,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2021-10-13</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2021-10-19</a>)</p>
 
 </footer>
       </div>

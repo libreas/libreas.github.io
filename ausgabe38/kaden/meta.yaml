@@ -32,7 +32,7 @@
     <meta property="dc:source" content="LIBREAS. Library Ideas" />
     <meta property="dc:subject" content="Library and Information Science" />
     <meta property="dc:type" content="website" />
-    <meta property="dc:description" content=""/>
+    <meta property="dc:description" content="In einer neuen Kolumne wird Ben Kaden regelmäßig eine Ansichtskarte mit Bibliotheksbezug aus seiner Sammlung kurz vorstellen."/>
     <meta property="dc:source" resource="urn:ISSN:1860-7950" /> 
 
 <!-- Google Scholar -->
@@ -135,10 +135,13 @@
     
     <div align="right">
     <p><small><a itemprop="sameAs" href="https://via.hypothes.is/https://libreas.eu/ausgabe38/kaden/meta.yaml">Annotate via hypothes.is</a></small></p>
-        <small><a itemprop="sameAs" href="master.pdf">Download PDF</a></small>
+        <small><a itemprop="sameAs" href="https://doi.org/10.18452/23478">Download PDF</a></small>
         </div>
     
     
+    <div align="right">
+        <small><a itemprop="sameAs" href="https://doi.org/10.18452/23478">doi:10.18452/23478</a> (edoc HU Berlin)</small>
+        </div>
         
 
         
@@ -167,6 +170,10 @@
  -->
 
 
+
+        
+
+        <p><small itemprop="description">In einer neuen Kolumne wird Ben Kaden regelmäßig eine Ansichtskarte mit Bibliotheksbezug aus seiner Sammlung kurz vorstellen.</small></p>
 
         
 
@@ -220,7 +227,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2021-10-13</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2021-10-19</a>)</p>
 
 </footer>
       </div>

@@ -142,10 +142,13 @@ The activities of the scientific library in the future are seen in the developme
     
     <div align="right">
     <p><small><a itemprop="sameAs" href="https://via.hypothes.is/https://libreas.eu/ausgabe38/horban/meta.yaml">Annotate via hypothes.is</a></small></p>
-        <small><a itemprop="sameAs" href="master.pdf">Download PDF</a></small>
+        <small><a itemprop="sameAs" href="https://doi.org/10.18452/23480">Download PDF</a></small>
         </div>
     
     
+    <div align="right">
+        <small><a itemprop="sameAs" href="https://doi.org/10.18452/23480">doi:10.18452/23480</a> (edoc HU Berlin)</small>
+        </div>
         
 
         
@@ -250,7 +253,7 @@ The activities of the scientific library in the future are seen in the developme
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2021-10-13</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2021-10-19</a>)</p>
 
 </footer>
       </div>
