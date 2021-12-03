@@ -16,22 +16,21 @@ Kontakt: redaktion@libreas.eu
 
 ### Editorial Board
 
-- Ben Kaden M.A. (University Library / Humboldt-Universität zu Berlin)
-    -- ben@libreas.eu
-- Maxi Kindling M.A. (Open Access Office Berlin (Freie Universität Berlin) / Berlin School of Library and Information Science (Humboldt-Universität zu Berlin)) -- maxi@libreas.eu
+- Ben Kaden M.A. ([https://orcid.org/0000-0002-8021-1785](https://orcid.org/0000-0002-8021-1785)) -- ben@libreas.eu
+- Maxi Kindling M.A. ([https://orcid.org/0000-0002-0167-0466](https://orcid.org/0000-0002-0167-0466)) -- maxi@libreas.eu
 
 <!-- Redaktion -->
 
 - Eva Bunge M.S., M.A. (Deutsches Museum) -- eva@libreas.eu
-- Linda Freyberg M.A. (UCLAB, Fachhochschule Potsdam & Museum für Naturkunde) -- linda@libreas.eu
+- Philipp Falkenburg ([https://orcid.org/0000-0001-9788-8277](https://orcid.org/0000-0001-9788-8277)) -- philipp@libreas.eu
+- Dr. Linda Freyberg (UCLAB, Fachhochschule Potsdam \& Museum für Naturkunde) -- linda@libreas.eu
+- Julia Hempel B.A. (Berlin School of Library and Information Science, Humboldt Universität zu Berlin) --  julia@libreas.eu
 - Najko Jahn M.A. (SUB Göttingen) -- najko@libreas.eu
-- Sara Juen B.A. (Berlin School of Library and Information Science / Humboldt Universität zu Berlin) -- sara@libreas.eu
-- Jana Rumler M.A. (Museum für Naturkunde Berlin) - jana@libreas.eu
-- Dr. Karsten Schuldt (Schweizerisches Institut für
-    Informationswissenschaft, FH Graubünden) -- karsten@libreas.eu
+- Sara Juen B.A. ([https://orcid.org/0000-0003-0725-8592](https://orcid.org/0000-0003-0725-8592)) -- sara@libreas.eu
+- Jana Rumler M.A. (Museum für Naturkunde Berlin \& Vernetzungs- und Kompetenzstelle Open Access Brandenburg) - jana@libreas.eu
+- Dr. Karsten Schuldt (Schweizerisches Institut für Informationswissenschaft, FH Graubünden) -- karsten@libreas.eu
 - Matti Stöhr M.A. (TIB Hannover) -- matti@libreas.eu
-- Michaela Voigt M.A. (Technische Universität Berlin) --
-    michaela@libreas.eu
+- Michaela Voigt M.A. ([https://orcid.org/0000-0001-9486-3189](https://orcid.org/0000-0001-9486-3189)) -- michaela@libreas.eu
 
 #### ehemalige Redaktionsmitglieder
 
