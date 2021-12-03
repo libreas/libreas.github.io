@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "LIBREAS. Library Ideas – Autor\*innenhinweise | For Authors"
+title: "LIBREAS. Library Ideas – Autor*innenhinweise | For Authors"
 date: 2013-10-09 19:41
 comments: false
 sharing: true
