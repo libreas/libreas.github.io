@@ -21,7 +21,7 @@ Kontakt: redaktion@libreas.eu
 
 <!-- Redaktion -->
 
-- Eva Bunge M.S., M.A. (Deutsches Museum) -- eva@libreas.eu
+- Eva Bunge M.S., M.A. ([https://orcid.org/0000-0002-5587-5934](https://orcid.org/0000-0002-5587-5934)]) -- eva@libreas.eu
 - Philipp Falkenburg ([https://orcid.org/0000-0001-9788-8277](https://orcid.org/0000-0001-9788-8277)) -- philipp@libreas.eu
 - Dr. Linda Freyberg (UCLAB, Fachhochschule Potsdam \& Museum für Naturkunde) -- linda@libreas.eu
 - Julia Hempel B.A. (Berlin School of Library and Information Science, Humboldt Universität zu Berlin) --  julia@libreas.eu
