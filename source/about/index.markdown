@@ -21,10 +21,10 @@ Kontakt: redaktion@libreas.eu
 
 <!-- Redaktion -->
 
-- Eva Bunge M.S., M.A. ([https://orcid.org/0000-0002-5587-5934](https://orcid.org/0000-0002-5587-5934)]) -- eva@libreas.eu
+- Eva Bunge M.S., M.A. ([https://orcid.org/0000-0002-5587-5934](https://orcid.org/0000-0002-5587-5934)) -- eva@libreas.eu
 - Philipp Falkenburg ([https://orcid.org/0000-0001-9788-8277](https://orcid.org/0000-0001-9788-8277)) -- philipp@libreas.eu
 - Dr. Linda Freyberg (UCLAB, Fachhochschule Potsdam \& Museum für Naturkunde) -- linda@libreas.eu
-- Julia Hempel B.A. (Berlin School of Library and Information Science, Humboldt Universität zu Berlin) --  julia@libreas.eu
+- Julia Hempel B.A. (Berlin School of Library and Information Science, Humboldt-Universität zu Berlin) --  julia@libreas.eu
 - Najko Jahn M.A. (SUB Göttingen) -- najko@libreas.eu
 - Sara Juen B.A. ([https://orcid.org/0000-0003-0725-8592](https://orcid.org/0000-0003-0725-8592)) -- sara@libreas.eu
 - Jana Rumler M.A. (Museum für Naturkunde Berlin \& Vernetzungs- und Kompetenzstelle Open Access Brandenburg) - jana@libreas.eu
