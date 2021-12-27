@@ -1,0 +1,559 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage[babel]{csquotes}
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+\setcapindent{0pt} % no indentation in captions
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+% typo setup
+\clubpenalty = 10000
+\widowpenalty = 10000
+\displaywidowpenalty = 10000
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+\usepackage{breakurl}
+
+%meta
+\expandafter\def\expandafter\UrlBreaks\expandafter{\UrlBreaks%  save the current one
+  \do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j%
+  \do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t%
+  \do\u\do\v\do\w\do\x\do\y\do\z\do\A\do\B\do\C\do\D%
+  \do\E\do\F\do\G\do\H\do\I\do\J\do\K\do\L\do\M\do\N%
+  \do\O\do\P\do\Q\do\R\do\S\do\T\do\U\do\V\do\W\do\X%
+  \do\Y\do\Z}
+%meta
+
+\fancyhead[L]{M. Harbeck\\ %author
+LIBREAS. Library Ideas, 40 (2021). % journal, issue, volume.
+\href{https://doi.org/10.18452/23806}{\color{black}https://doi.org/10.18452/23806}
+{}} % doi 
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/4.0/}{\color{black}Creative Commons BY 4.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{Die Ethik des Digitalisierens: Fragen zum Umgang mit Materialien aus kolonialen Kontexten in der Massendigitalisierung}}% title
+\author{Matthias Harbeck} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={Die Ethik des Digitalisierens: Fragen zum Umgang mit Materialien aus kolonialen Kontexten in der Massendigitalisierung},
+      pdfauthor={Matthias Harbeck},
+      pdfcopyright={CC BY 4.0 International},
+      pdfsubject={LIBREAS. Library Ideas, 40 (2021)},
+      pdfkeywords={Bibliothek, Dekolonisierung, Digitalisierung, library, decolonization, digitization},
+      pdflicenseurl={https://creativecommons.org/licenses/by/4.0/},
+      pdfcontacturl={http://libreas.eu},
+      baseurl={https://doi.org/10.18452/23806},
+      pdflang={de},
+      pdfmetalang={de}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+
+%body
+Digitalisierung wirkt auf den ersten Blick wie der Versuch eines
+antikolonialen Projektes, geht sie doch oftmals mit dem Ruf nach einer
+breiteren Zugänglichmachung via Open Access einher: Material, das vorher
+einer privilegierten Elite vorbehalten war, ist nun grenzüberschreitend
+in aller Welt digital und kostenlos verfügbar. Es fallen keine teuren
+Reisekosten mehr an, um Unikate in Spezialbibliotheken einzusehen. Die
+FAIR-Prinzipien (\emph{Findable, Accessible, Interoperable, Reusable})
+unterstreichen diesen Anspruch, der Sichtbarkeit und Verbreitung von
+Wissen zu dienen -- viele Infrastruktureinrichtungen orientieren sich
+mittlerweile an ihnen. Es bleibt aber zu hinterfragen, ob die digitale
+Form wirklich allen einen besseren Zugang ermöglicht: Digitalisierung
+setzt eine leistungsfähige digitale Infrastruktur auf
+Rezipient*innenseite voraus, damit der Zugriff auf die Ressourcen
+tatsächlich vereinfacht wird. Auch muss ein Wissen um die Angebote sowie
+die Fähigkeiten diese zu navigieren, zu verstehen (und Sprachbarrieren
+zu überwinden) und zu benutzen bei allen potentiellen Nutzenden
+vorhanden sein, damit sich die Angebote nicht wieder nur an
+privilegierte Gruppen richten. Um Sprachbarrieren zu überwinden, würde
+dies Metadaten (Schlagwörter, Beschreibungen) voraussetzen, die in breit
+genutzten Wissenschaftssprachen recherchierbar sind. Und selbst wenn
+diese Grundvoraussetzungen einer Nutzung der Digitalisate gegeben wäre,
+bleibt bei Materialien aus kolonialen Kontexten\footnote{Dabei sind
+  \enquote{koloniale Kontexte} explizit offengehalten und unterliegen
+  weder einem Zeitschnitt noch einer regionalen Fokussierung (zum
+  Beispiel auf ehemalige deutsche Kolonien). Eine kurze
+  Begriffsdefinition, der ich mich anschließe, findet sich bei Ahrndt et
+  al.~2018, S. 11--15, dabei insbesondere S. 14f.} die Frage, ob dann
+das ihnen innewohnende koloniale Machtgefüge durch die neuen
+Zugriffsmöglichkeiten tatsächlich aufgelöst, oder nicht doch eher durch
+die Publikation teils rassistischer, aber in jedem Fall durch ihren
+Zeitgeist beeinflusster Materialien in anderer, also digitaler Form
+reproduziert wird. Damit könnte es zu einer antagonistischen
+Gegenüberstellung der FAIR-Prinzipien mit den sogenannten
+CARE-Prinzipien (\emph{Collective Benefit, Authority to Control,
+Responsibility, Ethics}) kommen, bei der indigene Rechte an den eigenen
+Daten (auch denen, die von anderen über sie erhoben wurden) und auch die
+Hoheit darüber dem freien Zugang entgegengesetzt werden.\footnote{Vergleiche
+  zu den CARE-Prinzipien: Global Indigenous Data Alliance 2021.} Der
+folgende Artikel möchte dieses Spannungsverhältnis am Beispiel von
+Materialien aus kolonialen Kontexten verdeutlichen und zur Diskussion
+stellen, ob und inwieweit ethische Vorbehalte in der
+Massendigitalisierung dieser Ressourcen berücksichtigt werden
+können/sollten.
+
+Bevor aber tiefer in die Materie der Digitalisierung eingegangen wird,
+möchte ich kurz klarstellen, dass im Kontext dieses Artikels
+\enquote{Digitalisierung} die Umwandlung oder Konvertierung von
+gedruckten/analogen Materialien in eine digitale Form bedeutet. Obwohl
+dies Auswirkungen auf das Informationsverhalten in der Gesellschaft im
+Allgemeinen hat, werde ich die Frage der Digitalisierung als
+gesellschaftliche Revolution auf einer größeren Ebene nicht berühren,
+abgesehen von den direkten Auswirkungen, die ehemals analoge Materialien
+entwickeln, wenn sie in eine (vermeintlich) leichter zugängliche und
+verbreitungsfähige digitale Form umgewandelt werden.
+
+Seit Jahren digitalisieren vor allem Bibliotheken und Archive Texte und
+Dokumente, um ihren Nutzenden Informationen digital und damit zeit- und
+ortsunabhängig zur Verfügung zu stellen, oft im Zusammenhang mit der
+Open-Access/Open-Science-Bewegung oder einfach als Teil der sogenannten
+Bestandserhaltung zur Schonung der fragilen Materialien in der Benutzung
+(der Schritt der Digitalisierung ist in diesem Zusammenhang eingebettet
+in Fragen der Langzeitarchivierung, um wirklich langfristig eine
+Bestandserhaltung zu gewährleisten).
+
+Ein frühes prominentes Beispiel war die Digitalisierung von Quellen aus
+dem spanischen \emph{Archivo General de Indias} zum Gedenken an
+Christoph Kolumbus' Begegnung mit der sogenannten Neuen Welt anlässlich
+der 500-Jahr-Feier dieses historischen Moments im Jahr 1992.\footnote{Hohls
+  2018.} Angesichts der Digitalisierungsstandards der 2010/20er-Jahre
+verfehlen die meisten dieser frühen Digitalisate alle heutigen
+Anforderungen und sind für gegenwärtige Recherchierende kaum nutzbar --
+sie sind mit einer Auflösung von maximal 100 dpi, in schwarz/weiß
+digitalisiert und oftmals ohne flächendeckende Texterkennung erzeugt
+worden. Seither wurde die Digitalisierung aus technischer Sicht um ein
+Vielfaches verbessert: Es wurden formale Standards etabliert
+(Mindestauflösung von 300 dpi, Präsentationsformat PDF,
+Archivierungsformat TIFF, Nachweis von Farbschemata und einer
+Mindest-Farbbitrate von 24-Bit, Metadatenerfassung und
+Metadatenformate).\footnote{DFG-Praxisregeln \enquote{Digitalisierung}
+  {[}12/16{]}, 6ff.} Dadurch wurden die Auflösung und die Texterkennung
+OCR (\emph{Optical Character Recognition}) deutlich verbessert und
+letztere befindet sich stetig in der Weiterentwicklung. Der Vergleich
+von damals mit heute zeigt, dass die Voraussetzungen, unter denen
+digitalisiert wird, nicht fixiert, sondern im ständigen Wandel begriffen
+sind. Dieser Wandel muss nicht auf technische Aspekte beschränkt sein.
+Wenn sich ethische \enquote{Standards} ändern, könnten auch diese
+Einfluss auf die Parameter zukünftiger Digitalisierungsprojekte haben.
+
+Im Zuge der Open-Access-Bewegung ist die Massendigitalisierung für jede
+größere wissenschaftliche Bibliothek und viele Spezialbibliotheken zu
+einer Selbstverständlichkeit geworden -- auch für den
+Fachinformationsdienst Sozial- und Kulturanthropologie (FID SKA). Der
+Fachinformationsdienst digitalisiert ethnologische Werke aus einem
+Veröffentlichungszeitraum von über 200 Jahren, um Forschenden mit
+(meist) ethnologischem Hintergrund historische und manchmal auch neuere
+Materialien zur Verfügung zu stellen, die sonst nicht so leicht
+zugänglich sind. Diese Digitalisierung wird von der Deutschen
+Forschungsgemeinschaft (DFG) mittlerweile im dritten Projekt und in der
+Förderlinie \enquote{Digitalisierung und Erschließung} (Programm
+Wissenschaftliche Literaturversorgungs- und Informationssysteme, LIS)
+gefördert. Sie hat primär das Ziel, der deutschsprachigen Forschung
+Material möglichst einfach zugänglich zu machen. Eine der Auflagen
+dieser DFG-Förderung beinhaltet die Forderung, das in solchen Projekten
+digitalisierte Material möglichst umfassend (maximal fünf Prozent können
+ausgenommen werden) frei im Internet anzubieten.\footnote{DFG 2021, S.
+  6.}
+
+Diese Verfahrensweise führt bei dem überwiegend ethnologischen Material,
+das im FID SKA digitalisiert wird, zu einigen Fragen:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Wenn das Ziel der Digitalisierung ist, dass möglichst freier Zugang zu
+  dem Wissen entsteht, wie gewährleisten wir, dass zum Beispiel die
+  Länder und Regionen, in denen die Forschungen stattfanden, über die
+  Digitalisierung Bescheid wissen und diese nutzen können? Wie können
+  sprachliche Barrieren überwunden werden? Wie kann eine
+  Informationspolitik aussehen, die über das eigene Land hinausgeht?
+\item
+  Das Material, das zum Beispiel in kolonialen Kontexten entstanden ist,
+  bildet vielfach die Denkmuster, Einstellungen und Wissensordnungen
+  seiner Zeit, mit all seinen Rassismen, machtpolitischen Verwerfungen
+  und verletzenden Übergriffen ab. Die Transformation in eine digitale
+  Form überführt Unrecht beziehungsweise ethisch Fragwürdiges in ein
+  noch besser sichtbares Format und macht es -- gerade unter der
+  Prämisse des freien Zugriffs und des oftmals vertretenen Anspruchs auf
+  Open Access -- einfach multiplizierbar. Die ethischen Implikationen
+  einer solchen Transformation werden von den digitalisierenden
+  Einrichtungen erst allmählich diskutiert.
+\item
+  Das auf diese Weise zumindest im sogenannten Globalen Norden meist
+  einfacher zugängliche Material ist in der neuen Form leicht
+  reproduzierbar, multiplizierbar und aus seinem Kontext entnehmbar.
+  Möchte und sollte man als Einrichtung unkontrollierten Zugriff
+  gewähren oder haben die Einrichtungen eine ethische und didaktische
+  Verantwortung, Präsentation und Zugriff zu regulieren und zu
+  kontextualisieren?
+\end{enumerate}
+
+Und wie können sogenannte Herkunftsgesellschaften beziehungsweise der Globale Süden
+sowie die Bedürfnisse der Forschung bei diesen Entscheidungen und
+Diskussionen einbezogen werden, um hier nicht wieder koloniale
+Strukturen der Wissensordnung neu zu beleben? Für den
+Fachinformationsdienst Sozial- und Kulturanthropologie ist dies eine
+neue Leitfrage, mit der sich das laufende Digitalisierungsprojekt
+auseinandersetzen muss.
+
+2013 wurde mit Finanzierung durch die DFG mit der Digitalisierung am
+damaligen Sondersammelgebiet Volks- und Völkerkunde, dem
+Vorgängerprojekt des FID SKA, begonnen. Der Fokus lag dabei zunächst --
+in Absprache mit unserem wissenschaftlichen Beirat -- auf
+deutschsprachigen ethnologischen Periodika. Unser Ziel war es, nicht nur
+historische Materialien zu digitalisieren, sondern in die nahe
+Vergangenheit zu reichen, um den gesamten Zeitraum der ethnologischen
+Forschung abzudecken. Durch Vereinbarungen mit Verlagen und der
+Verwertungsgesellschaft Wort (VG Wort) gelang es uns sogenannte
+\emph{Moving Walls} (von zwei bis fünf Jahren) zu verhandeln und damit
+Materialien bis fast in die Gegenwart digitalisieren zu können. Zu den
+ältesten Titeln in diesem Bestand gehören die frühen Jahrgänge der
+Zeitschriften \emph{Zeitschrift für Ethnologie}\footnote{ZDB-ID:
+  201359-9.} (ab 1869) und \emph{Globus : illustrierte Zeitschrift für
+Länder- und Völkerkunde}\footnote{ZDB-ID: 217030-9.} (ab 1862). Das
+Korpus wurde in einem zweiten Projekt ab 2016 um weitere
+Zeitschriftentitel -- vor allem auch aus den Museen -- erweitert, und
+Anfang 2021 ist das dritte Projekt gestartet, das diesmal Monographien
+von 1800 bis 1920 und DDR-Dissertationen zu ethnologischen Themen
+umfasst. Mit allen drei Projekten werden wir nach Abschluss eine
+Zeitspanne von 1800 bis in die frühen 2020er-Jahre abdecken. Im dritten
+Projekt war mit der Beantragung auch die Frage nach dem Umgang mit
+Materialien aus kolonialen Kontexten aufgeworfen.
+
+Da viele dieser digitalisierten Materialien im FID SKA und auch in
+anderen Institutionen (Museen, Bibliotheken, Archiven) aus kolonialen
+Kontexten stammen, spiegeln die Sprache und der Inhalt tendenziell deren
+Zeitgeist wider. Diskriminierende Sprache und entmenschlichende oder
+sonstige (aus heutiger Sicht) unethische Darstellungen sind häufig
+vertreten. Bei vielen Abbildungen kennen wir die Umstände ihrer
+Entstehung schlichtweg nicht. Innerhalb eines Projektes zur
+Massendigitalisierung ist eine umfassende Recherche einzelner Personen,
+Abbildungen und Forschungskontexte nicht möglich, weswegen diese
+Entstehungsumstände bis auf Weiteres unbekannt bleiben, wenn sie nicht
+in den Bildunterschriften explizit genannt (und damit in die Metadaten
+übernommen) werden. Ein paar Beispiele solcher Materialien illustrieren
+unterschiedlich problematische Kontexte, die in den Digitalisaten
+auftreten können. Da wir die Bilder nicht unnötig reproduzieren möchten,
+verlinke ich auf die Digitalisate bei digi.evifa.de:
+
+Beispiel 1:
+\url{https://digi.evifa.de/viewer/image/DE-11-002121697/110/}
+
+\emph{B. (1926): Unter den Ocainas-Indianern. Mit zwei Abbildungen auf
+Tafel 16, in: Der Erdball 1, 2, 1926, S. 70--71. Tafel 16 Abb. 1.
+Schmuckbemalung der Ocainasweiber. {[}\ldots{]} Abb. 2. Schluß des
+großen Tanzes bei den Ocainasmädchen. Erst wenn der Tanz vorbei ist,
+mischen sich die Männer unter die jungen Mädchen. Die Tafelseite ist
+beschriftet mit dem Hinweis: \enquote{Zu: Domville, Unter Wilden am
+Amazones.}}
+
+Beispiel 2: \url{https://digi.evifa.de/viewer/image/BV046142989/45/}
+
+\emph{Boas, Franz (1927): Primitive art. Oslo: H. Aschehoug \& Co.~(W.
+Nygaard), S. 45. Plate II. Andaman Islander.}
+
+Beispiel 3: \url{https://digi.evifa.de/viewer/image/BV047081776/52/}
+
+\emph{Frizzi, Ernst (1914): Ein Beitrag zur Ethnologie von Bougainville
+und Buka mit spezieller Berücksichtigung der Nasioi. Leipzig und Berlin:
+B.G. Teubner, S. 44. Fig. 65. Nasioimann mit Ziernarben an Brust und
+Armen.}
+
+Beispiel 4:
+\url{https://digi.evifa.de/viewer/image/DE-11-002121697/248/}
+
+\emph{Schlee Pascha (1926): Die Frau im Islam. Mit 8 Abbildungen auf
+Tafelseite 33--35, in: Der Erdball 1, 5, Tafel 34. Abb.4. Die Türkin vor
+der Zeit der Republik. Abb. 5. Mohammedanische Negerin. Abb. 6. Die
+Türkin jetzt.}
+
+Beispiel 5: \url{https://digi.evifa.de/viewer/image/DE-11-002121697/60/}
+
+\emph{Sieber, J. (1926): Vorstellungen der Bantu- und Sudan-Neger über
+die Ursachen der Krankheiten. Hierzu Tafelseite VII und VIII mit 6
+Abbildungen, in: Der Erdball, 1, 1, S. Tafelseite VIII. Tafelseite VIII
+1. Wute-Häuptling Meosi mit einem Teil seiner Familie. (Die kleinen,
+aufgeweckten schwarzen Buben wurden auf der Missions-Station
+verbunden.). 2. Physiognomien einer Träger-Karawane. (Wute-, Bafia-,
+Bati- und Banén-Leute.). 3. Torwächter und Sprechtrommel am Eingang des
+Königspalastes in Bamum. 4. Haarschmuck von Tikar-Frauen.
+(Hervortretende Kropfbildung)}
+
+In ihrer Präsentation der Anderen als überwiegend Nackte -- zum Teil
+gepaart mit Unterschriften wie \enquote{Unter Wilden} oder wie bei Boas'
+Werk im Zusammenspiel mit dem Werktitel \enquote{Primitive Art} -- wird
+die Assoziation der zivilisatorischen Unterlegenheit geweckt.
+Darstellungen biologistischer Körpervermessungen
+(\enquote{Physiognomien}), die Subjekte zu Objekten degradieren und die
+Etablierung (oder Reaktivierung) von Stereotypen (wie bei der
+islamischen Frau durch feste Typen, die vorgestellt werden) sind
+weitere, wiederkehrende Elemente bei diesen bildlichen Darstellungen.
+Auch die Frage, wie freiwillig die jeweilige Fotografie in Kauf genommen
+oder vielleicht sogar befürwortet wurde, lässt sich anhand des
+Bildmaterials selten erschließen.\footnote{Zur Freiwilligkeit siehe die
+  Diskussion bei Harbeck und Strickert 2020.} Für sich genommen ist das
+Bildmaterial oft nicht verständlich, im Kontext des freien Zugangs im
+Internet wird dies problematisch, da die Forschungszusammenhänge --
+gerade bei Tafelseiten -- oftmals für Lai*innen nicht ersichtlich sind.
+
+Verbunden mit den allgemeinen Fragen der freien Bereitstellung dieser
+Ressourcen auf unseren Servern sind Fragen der Nutzung dieser
+Materialien für die Öffentlichkeitsarbeit und in der Informationspolitik
+zu den Materialien: Für unsere Webseite
+\href{http://www.evifa.de}{www.evifa.de} haben wir
+Public-Domain-Abbildungen aus unserem eigenen Digitalisierungsprojekt
+zur Illustration der Seite verwendet.
+
+Zunächst wurden dabei auch Bilder verwendet, auf denen Menschen
+abgebildet sind. Im Zuge der internen Diskussion um den Gebrauch und
+Kontext der Bilder wurden fast alle ersetzt, da die Umstände der
+Herstellung dieser Motive unklar waren. Gab es eine Einwilligung? Wurde
+die Einwilligung freiwillig gegeben?
+
+Ein weiteres Problem ergibt sich aus der Werbung für unsere
+Digitalisierungsbemühungen über Twitter: Über den RSS-Feed unseres
+Digitalisierungsservers spiegeln wir automatisch die Titelseiten unserer
+Digitalisate auf unserem Twitter-Account @fid\_evifa
+(\url{https://twitter.com/fid_evifa}).
+
+Beispiele wären hier die Coverabbildungen von zwei Werken Ludwig
+Wilsers: \emph{Rassen und Völker}. Leipzig {[}1912?{]} und \emph{Das
+Hakenkreuz nach Ursprung, Vorkommen und Bedeutung}. Zeitz 1917.
+
+Diese Beispiele lösten eine interne Diskussion über das
+Spannungsverhältnis von Mehrwerten der Informationspolitik gegenüber
+ethischen Vorbehalten aus -- die Debatte soll mit den Zielgruppen des
+FID SKA fortgeführt und eine stringente Strategie entwickelt werden.
+Denn die Umwandlung dieser Materialien von physischen Gegenständen in
+ein digitales, offen zugängliches Format erweitert die möglichen
+Verbreitungswege, ihre potenzielle Reichweite und die Chancen, aus dem
+Zusammenhang gerissen zu werden. Einzelbilder und Cover per Social Media
+zu verbreiten, kann diese Entkontextualisierung noch verstärken.
+Generell kann jede*r aber auch aus den Digitalisaten selbst die meist
+frei zugänglichen Bilder (oder Textzitate) verwenden und sie aus dem
+Kontext reißen, vielleicht sogar aus unethischen Gründen. Auf jedem
+dieser Bilder könnten tabuisierte Rituale und Gegenstände abgebildet
+sein.\footnote{Vergleiche zu dem Komplex der Schwierigkeit der Abbildung
+  solcher Materialien den Sammelband \emph{Heikles Erbe} von von Poser
+  und Baumann 2016.} Ohne einen klaren Hinweis in den Metadaten oder auf
+den Bildern selbst würde es einen erheblichen Zeit- und Rechercheaufwand
+erfordern, solche schwierigen Darstellungen zu identifizieren.
+
+Viele Digitalisierungsprojekte in den Geisteswissenschaften stehen vor
+der Frage, ob es verantwortungsvoll ist, alles in eine digitale Form zu
+überführen UND diese digitalen Objekte offen und barrierefrei im
+Internet anzubieten. Seit ungefähr zwei Jahren wird diese Frage auch
+stärker öffentlich diskutiert. Für den FID SKA hatte dies die
+Konsequenz, dass wir mit dem letzten Digitalisierungsantrag bei der DFG
+(das Projekt begann im Januar 2021, wurde aber im Januar 2020
+eingereicht und 2019 konzipiert) diese Frage aufgriffen. Die meisten
+Massendigitalisierungsprojekte, die auf Drittmittel angewiesen sind,
+werden nur finanziert, wenn fast alles offen zugänglich ist, fast keines
+dieser Projekte hat Forschungsteile integriert. Das wichtigste
+Förderprogramm in diesem Zusammenhang -- \enquote{Digitalisierung und
+Erschließung} der DFG -- umfasst in der Regel keine Forschungsteile und
+keinen eingeschränkten Zugang, Offenheit ist hier die Maxime --
+schließlich wird es mit Steuergeldern finanziert. Ein Dialog mit
+Förderprogrammen über alternative Lösungen muss erst noch initiiert
+werden. Immerhin konnten zwei kontextualisierende Workshops in den
+Förderantrag integriert werden und es ist als Erfolg zu verbuchen, dass
+die Gremien der Deutschen Forschungsgemeinschaft dem Vorhaben zustimmen,
+diese Fragen zu diskutieren.
+
+Der Fachinformationsdienst Sozial- und Kulturanthropologie hat das Thema
+im Panel \enquote{Everything open for everyone? How Open Science is
+challenging and expanding ethnographic research practices} beim 15.
+Kongress der Internationalen Gesellschaft für Ethnologie und Folklore
+(SIEF) mit einem Vortrag zu \enquote{Access or ethics? Digitization of
+imperial times materials and its consequences} eingebracht und hat es in
+zwei eigenen Workshops am 8. Juli 2021 -- einer mit Forschenden und
+einer mit Bibliothekar*innen und Digitalisierenden -- wieder
+aufgenommen. Dies sollen erste Schritte sein, um auf verschiedene
+Communitys -- auch die Forschenden in den Herkunftsgesellschaften --
+zuzugehen und eine Policy im Umgang mit diesen ethischen Problemfeldern
+im Digitalisierungsprozess zu entwickeln. Die Positionen können dabei
+sehr unterschiedlich sein und es wird spannend zu sehen sein, wie diese
+übereingebracht werden können: Im Rahmen der Workshops gab es recht
+unterschiedliche Stimmen, auch aus den Herkunftsgesellschaften. Einerseits wurde neben einer angemessenen
+Kontextualisierung angemahnt, die Materialien umfassend in den Regionen
+bekannt zu machen. Dieses Anliegen wurde mit der Frage verbunden, wie
+dieses Material für jene auffind- und nutzbar gemacht werden könnte, die
+kein Deutsch lesen können. Andererseits wurde aber auch auf Inhalte
+verwiesen, die durch ihre bloße Sichtbarkeit im Netz lokale
+Verantwortliche in Erklärungsnöte und soziale Bedrängnis brächten.
+Gemeinsame Projekte zur inhaltlichen Erschließung mittels verknüpfter,
+kontrollierter Vokabulare und gemeinsame Sichtungen des Materials im
+Vorwege einer Digitalisierung wären hier mögliche Wege der kritisch-konstruktiven Zusammenarbeit. Die europäischen
+Forschenden, die am SIEF-Panel teilnahmen, sahen die Offenheit
+wesentlich kritischer und plädierten eher für eine restriktivere
+Digitalisierungspolitik. Einen Ausgleich dieser Positionen zu finden,
+ist eine anstehende Aufgabe des FID SKA. Und bestenfalls ergibt sich aus
+diesen Aktivitäten auch ein Dialog mit den Fördereinrichtungen über neue
+Wege der Digitalisierung, die ethische Fragen und Standards diskutieren
+und berücksichtigen.
+
+\hypertarget{quellen}{%
+\subsubsection{Quellen}\label{quellen}}
+
+B. (1926): Unter den Ocainas-Indianern. Mit zwei Abbildungen auf Tafel
+16, in: Der Erdball 1, 2, 1926, S. 70--71.
+\url{https://digi.evifa.de/viewer/image/DE-11-002121697/90/} (Werks-URN:
+\url{https://digi.evifa.de/viewer/resolver?urn=urn:nbn:de:kobv:11-d-4738180}).
+
+Boas, Franz: Primitive art. Oslo: H. Aschehoug \& Co.~(W. Nygaard) 1927.
+\url{https://digi.evifa.de/viewer/image/BV046142989/5/} (Werks-URN:
+\url{https://digi.evifa.de/viewer/resolver?urn=urn:nbn:de:kobv:11-d-6493742}).
+
+Frizzi, Ernst: Ein Beitrag zur Ethnologie von Bougainville und Buka mit
+spezieller Berücksichtigung der Nasioi. Leipzig und Berlin: B.G.
+Teubner, 1914. \url{https://digi.evifa.de/viewer/image/BV047081776/7/}
+
+Schlee Pascha: Die Frau im Islam. Mit 8 Abbildungen auf Tafelseite
+33--35, in: Der Erdball 1, 5, 1926, S. 161--164.
+\url{https://digi.evifa.de/viewer/image/DE-11-002121697/207/}
+(Werks-URN:
+\url{https://digi.evifa.de/viewer/resolver?urn=urn:nbn:de:kobv:11-d-6648200}).
+
+Sieber, J.: Vorstellungen der Bantu- und Sudan-Neger über die Ursachen
+der Krankheiten. Hierzu Tafelseite VII und VIII mit 6 Abbildungen, in:
+Der Erdball, 1, 1, 1926, S. 32--36.
+\url{https://digi.evifa.de/viewer/image/DE-11-002121697/42/} (Werks-URN:
+\url{https://digi.evifa.de/viewer/resolver?urn=urn:nbn:de:kobv:11-d-4738180}).
+
+Wilser, Ludwig: Rassen und Völker. Leipzig {[}1912?{]}
+
+Wilser, Ludwig: Das Hakenkreuz nach Ursprung, Vorkommen und Bedeutung.
+Zeitz 1917.
+
+\hypertarget{literaturverzeichnis}{%
+\subsubsection{Literaturverzeichnis}\label{literaturverzeichnis}}
+
+Ahrndt, Wiebke; Czech, Hans-Jörg; Fine, Jonathan; Förster, Larissa;
+Geißdorf, Michael; Glaubrecht, Matthias et al.~(Hg.) (2018): Leitfaden
+zum Umgang mit Sammlungsgut aus kolonialen Kontexten. Deutscher
+Museumsbund. Berlin: Deutscher Museumsbund e. V. Online verfügbar unter
+\url{https://www.museumsbund.de/wp-content/uploads/2018/05/dmb-leitfaden-kolonialismus.pdf},
+zuletzt geprüft am 28.06.2021.
+
+DFG (2021): Merkblatt und ergänzender Leitfaden. Digitalisierung und
+Erschließung. DFG-Vor-druck 12.15, auf:
+\url{http://www.dfg.de/formulare/12_15/12_15_de.pdf}, zuletzt geprüft am
+24.06.2021.
+
+DFG-Praxisregeln \enquote{Digitalisierung} {[}12/16{]}. Online verfügbar
+unter \url{http://www.dfg.de/formulare/12_151/12_151_de.pdf}, zuletzt
+geprüft am 24.06.2021.
+
+Global Indigenous Data Alliance (2021): CARE Principles of Indigenous
+Data Governance --- Global Indigenous Data Alliance. Online verfügbar
+unter \url{https://www.gida-global.org/care}, zuletzt aktualisiert am
+24.06.2021, zuletzt geprüft am 24.06.2021.
+
+Harbeck, Matthias; Strickert, Moritz (2020): Freiwilligkeit und Zwang.
+Eine Diskussion im Kontext der frühen ethnologischen Fotografie. Visual
+History. Online verfügbar unter
+\url{https://visual-history.de/2020/09/28/freiwilligkeit-und-zwang/},
+zuletzt geprüft am 28.06.2021.
+
+Hohls, Rüdiger (2018): Digital Humanities und digitale
+Geschichtswissenschaften. Clio-online. Online verfügbar unter
+\url{https://guides.clio-online.de/guides/arbeitsformen-und-techniken/digital-humanities/2018},
+zuletzt aktualisiert am 26.05.2021, zuletzt geprüft am 17.06.2021.
+
+Poser, Alexis von; Baumann, Bianca (Hg.) (2016): Heikles Erbe. Koloniale
+Spuren bis in die Gegenwart. Niedersächsisches Landesmuseum Hannover.
+Dresden: Sandstein Verlag. Online verfügbar unter
+\url{http://verlag.sandstein.de/reader/98-250_HeiklesErbe}, zuletzt
+geprüft am 08.05.2019.
+
+%autor
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{Matthias Harbeck} studierte Geschichte, Politik und Ethnologie
+in Hamburg und Leiden sowie Bibliotheks- und Informationswissenschaften
+in Berlin. Seit 2009 ist er Fachreferent an der Universitätsbibliothek
+der Humboldt-Universität zu Berlin. Seit 2016 leitet er den von der
+Deutschen Forschungsgemeinschaft (DFG) geförderten
+Fachinformationsdienst Sozial- und Kulturanthropologie.
+
+\end{document}

@@ -1,0 +1,290 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage[babel]{csquotes}
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+\setcapindent{0pt} % no indentation in captions
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+% typo setup
+\clubpenalty = 10000
+\widowpenalty = 10000
+\displaywidowpenalty = 10000
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+\usepackage{breakurl}
+
+%meta
+%meta
+
+\fancyhead[L]{Y. Schürer\\ %author
+LIBREAS. Library Ideas, 40 (2021). % journal, issue, volume.
+\href{https://doi.org/10.18452/23809}{\color{black}https://doi.org/10.18452/23809}
+{}} % doi 
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/4.0/}{\color{black}Creative Commons BY 4.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{Warum beschäftige ich mich mit dem Dekolonisieren von Bibliotheken?}}% title
+\author{Yvonne Schürer} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={Warum beschäftige ich mich mit dem Dekolonisieren von Bibliotheken?},
+      pdfauthor={Yvonne Schürer},
+      pdfcopyright={CC BY 4.0 International},
+      pdfsubject={LIBREAS. Library Ideas, 40 (2021)},
+      pdfkeywords={Bibliothek, Dekolonisierung, library, decolonization},
+      pdflicenseurl={https://creativecommons.org/licenses/by/4.0/},
+      pdfcontacturl={http://libreas.eu},
+      baseurl={https://doi.org/10.18452/23809},
+      pdflang={de},
+      pdfmetalang={de}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+
+%body
+\begin{quote}
+„Letztlich ist die Dekolonialisierung von Geist und Wissen der erste
+Schritt zur Dekolonialisierung von allem anderen. Nicht nach den Regeln
+des hegemonialen Systems zu denken oder die bestehenden Mittel des
+kolonialistischen Denkens zu kritisieren, scheint also die grundlegende
+Phase zu sein, um wirklich Gleichheit zu erreichen.''\footnote{Übersetzt
+  aus dem Blogbeitrag von Nihan Albayrak (2018): Diversity helps but
+  decolonisation is the key to equality in higher~education. In: Eden
+  Centre for Education Enhancement. Contemporary Issues in Teaching and
+  Learning. Siehe dazu
+  \url{https://lsepgcertcitl.wordpress.com/2018/04/16/diversity-helps-but-decolonisation-is-the-key-to-equality-in-higher-education}
+  (letzter Zugriff aller Links am 01.12.2021).}
+\end{quote}
+\begin{flushright}Nihan Albayrak-Aydemir\end{flushright}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Spontan ist meine Antwort auf diese Frage: Aus mehreren Gründen. Es gibt
+kein \enquote{Aha-Erlebnis}, das mich mit dem Thema in Verbindung
+gebracht hat. Aber es gab eine inspirierende, sensibilisierende
+Veranstaltung. In der Rückschau weiß ich heute, dass die ARLIS-Konferenz
+2019\footnote{Art Library Society UK \& Ireland -- siehe dazu
+  \url{https://arlis.net}} und insbesondere die Gespräche mit Tavian
+Hunter, der Leiterin der Bibliothek des Londoner \emph{Institute of
+International Visual Arts} und Beck Wonders, eine Doktorandin an der
+\emph{Glasgow School of Art} und Mitbegründerin der \emph{Vancouver
+Womens Library}, im Anschluss an diese Konferenz, zu einer Art
+Erkenntnis führten. Dieser Austausch veränderte meine Wahrnehmung.
+
+Da ich in einer ländlichen Region im Osten Deutschlands aufwuchs, blieb
+die Konfrontation mit rassistischen Personen und rassistischem Verhalten
+schon in jungen Jahren leider nicht aus. Das Studium in Leipzig
+verbesserte daran wenig, wenngleich die Stadt als Sonder- oder
+Glücksfall in einer Region mit enorm hoher AfD- und NPD-Wähler-Dichte
+gelten könnte. Doch auch hier berichten BIPoC\footnote{Abkürzung für
+  \enquote{Black, Indigenous and People of Color}.}-Freunde von
+Alltagsrassismus und viele verlassen aufgrund einschneidender Erlebnisse
+und dem Wunsch nach mehr Diversität im Alltag.
+
+Vor dem Horizont dieser Erfahrungen erkannte ich nach und nach meine
+Privilegien als weiße Person, die ich zuvor nie realisiert hatte: Ich
+werde nicht in der Straßenbahn angestarrt, nicht gefragt, warum ich so
+gut Deutsch spreche und woher meine Eltern kommen, ob ich gut tanzen
+oder Basketball spielen könne, meine Haare werden nicht ungefragt
+angefasst,\ldots{}
+
+Zugleich muss ich erkennen, dass auch ich mit Stereotypen und
+Vorurteilen aufwuchs, diese verinnerlichte und sie daher weniger leicht
+abschütteln kann, als ich es mir wünsche. Der Prozess der Erkenntnis,
+wie Weltbilder meiner Kindheit (geprägt durch den \enquote{Orient}
+romantisierende Märchen, Rassismen reproduzierende Kinderbücher und
+-lieder und dem Wiederaufleben völkischer Ideologie in der mich
+umgebenden Gesellschaft nach dem Mauerfall\footnote{Siehe dazu u.a.
+  Peter Nowak (2015):
+  \url{https://www.heise.de/tp/news/Warum-gibt-es-prozentual-mehr-Rassismus-in-Ostdeutschland-2784260.html}})
+zwangsläufig meine heutigen Gedanken beeinflussen, bleibt
+unabgeschlossen. Wie gehe ich damit um? Ich versuche immerhin die
+Tatsache, mir dessen bewusst zu sein und immer wieder mein Denken und
+Handeln zu hinterfragen, als kleinen Erfolg zu verbuchen.
+Zufriedenstellend ist es nicht.
+
+Mit kleinen Schritten versuche ich, aktiv dagegen anzugehen. Zum
+Beispiel überprüfe ich meine Sprache und mein Konsumverhalten. Und ich
+bemerke -- trotz der mir zur Verfügung stehenden Möglichkeiten -- das
+Gefühl der Machtlosigkeit angesichts eines omnipräsenten,
+imperialistischen, kapitalistischen Systems, das von Beginn an auf der
+Unterdrückung Anderer für Privilegien aufgebaut ist, die auch meine
+sind.
+
+Als Bibliothekarin bin ich grundsätzlich neugierig. Zugleich sehe ich
+eine gewisse Verantwortung in meinem Beruf -- eine Überzeugung, die ich
+mit Antonia Paula Herm und vermutlich vielen weiteren im Bibliotheks-
+und informationsvermittelnden Bereich Tätigen teile -- und zwar, dass
+\enquote{Akteur*innen im Bildungs- und Wissenschaftsbereich eine
+besondere Verantwortung haben, der historischen Verantwortung
+Deutschlands {[}...{]} gerecht zu werden.}\footnote{Antonia Paula Herm:
+  Koloniale Spuren in bibliothekarischen Sammlungen und
+  Wissensordnungen, Masterarbeit am Institut für Bibliotheks- und
+  Informationswissenschaft der Humboldt-Universität zu Berlin (2019), S.
+  48. (unveröffentlicht), Siehe auch Beitrag von Paula Herm in dieser
+  Ausgabe: \url{https://doi.org/10.18452/23801}}
+
+Die eingangs genannte Konferenz habe ich eher zufällig besucht. Zum
+50-jährigen Jubiläum von ARLIS reiste ich als Vertretung der deutschen
+\enquote{Schwesterorganisation}, der \emph{Arbeitsgemeinschaft für
+Kunst- und Museumsbibliotheken (AKMB)} nach Glasgow, mit dem Auftrag dem
+deutschsprachigen Kollegium im Anschluss davon zu berichten. Tatsächlich
+wurde ich erst bei der Ankündigung der Kongressthemen hellhörig -- ein
+ganzer Themenkomplex wurde \enquote{critical librarianship and
+decolonising the curriculum} gewidmet.\footnote{Das detaillierte
+  Programm inklusive Abstracts der Beiträge gibt es hier:
+  \url{https://duncanchappell.wixsite.com/arlis2019}; wer Interesse am
+  Konferenzbericht \enquote{A Pioneering Past. A Vibrant Future} hat,
+  kann diesen im Heft 1/2 der AKMB-News (Jg. 26; 2020) ab S. 87
+  nachlesen: \url{https://doi.org/10.11588/akmb.2020.1/2.76456)}}
+\enquote{Decolonising} -- ein Begriff der mir bis dahin kaum begegnet
+war. Ich hatte zuvor schon von Postkolonialismus gehört und bemerkt,
+dass die Verbrechen der Kolonialgeschichte vieler europäischer Länder
+mittlerweile nicht mehr ganz so verborgen unter den Teppichen bleiben,
+unter die man sie lange zu kehren versuchte.
+
+\hypertarget{was-aber-hatte-so-ein-thema-auf-einer-bibliothekskonferenz-zu-suchen}{%
+\subsubsection{Was aber hatte so ein Thema auf einer
+Bibliothekskonferenz zu
+suchen?}\label{was-aber-hatte-so-ein-thema-auf-einer-bibliothekskonferenz-zu-suchen}}
+
+Die Keynote von David Dibosa war mit \enquote{Re-Worlding our Knowledge}
+überschrieben und brachte die Teilnehmenden in anregende, teils
+emotionale Diskussionen zu den Themen \enquote{Rassismus in unserer
+Sprache}, \enquote{Aktivismus in der Bibliothekspraxis},
+\enquote{Problematische Sammlungsbestände identifizieren und darüber
+kommunizieren} und die, wie sich zeigte, nur vermeintliche Neutralität
+und Unabhängigkeit unserer Arbeits- und Sichtweisen.
+
+Mehrfach wurde während des Vortrags deutlich, dass in fast all unseren
+bibliothekarischen Angeboten vorrangig die westliche bzw. eurozentrische
+Sicht\footnote{Präziser wäre es vermutlich, statt der
+  \enquote{eurozentrischen} oder \enquote{westlichen} Sicht auf den
+  globalen Norden zu verweisen, wobei auch um dessen Definition derzeit
+  noch gerungen wird. Eine Visualisierung, welche Länder zum globalen
+  Norden und welche zum globalen Süden gezählt werden, findet sich hier
+  bei SterpMap (2013):
+  \url{https://www.stepmap.de/karte/globaler-sueden-globaler-norden-V7WKiFRkie}}
+vermittelt wird, während Perspektiven der Marginalisierten oft nicht
+vorkommen oder gar ignoriert werden.
+
+Im Laufe der Gespräche erkannte auch ich einige Dinge, die ich in meinem
+Arbeitsumfeld unterbewusst wahrnahm, aber nie benennen konnte. Dazu
+zählen ebenso die Unausgewogenheit von Sammlungen (zum Beispiel in Bezug
+auf Religion, Geschlecht, Hautfarbe oder sexuelle Orientierung), wie
+auch rassistische Bezeichnungen -- nicht nur in bibliothekarischen
+Nachweisinstrumenten, sondern auch in unserer Alltagssprache und die
+Auswahl der Informations- und Bezugsquellen auch \enquote{meiner}
+eigenen Bibliothek, der Bibliothek der Hochschule für Grafik und
+Buchkunst Leipzig.
+
+Diese Erkenntnis und auch der motivierende Aufruf David Dibosas, aktiv
+diesen Prozessen entgegenzuwirken, motivierte mich, zu einer
+intensiveren Beschäftigung mit der \enquote{Dekolonialisierung}. Im
+Rahmen der mir zur Verfügung stehenden Möglichkeiten beginne ich der
+Unausgewogenheit durch gezielte Erwerbung nicht-weiß, nicht-europäisch,
+nicht-männlich, nicht-heteronormativ gelesenen Publizierenden und
+Kunstschaffenden entgegenzuwirken und das Angebot und die Bezugsketten
+meiner Lieferfirmen zu hinterfragen. Bibliotheksangebote möglichst in
+mehreren Sprachen (mindestens aber in Englisch) zu kommunizieren und
+unsere hauseigene Klassifikation auf diskriminierende Bezeichnungen und
+Zuordnungen zu prüfen. Weitere Schritte sind mich weiterzubilden und
+meine Erkenntnisse beziehungsweise meinen Weg zu diesen mit diesen zu
+teilen.
+
+Zum Beispiel in einem LIBREAS-Artikel.
+
+%autor
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{Yvonne Schürer} war nach dem Diplomstudium an der HTWK Leipzig
+für die Staatliche Bücher- und Kupferstichsammlung Greiz tätig. Seit
+2014 leitet sie die Bibliothek der Hochschule für Grafik und Buchkunst
+in Leipzig. Derzeit studiert sie berufsbegleitend das Masterstudium am
+Institut für Bibliotheks- und Informationswissenschaft der
+Humboldt-Universität zu Berlin. Die Abschlussarbeit, die sie im Oktober
+2021 eingereicht hat, trägt den Titel „Was bedeutet Dekolonialisieren
+für Bibliotheken?{}``.
+
+\href{mailto:schuerer@hgb-leipzig.de}{\nolinkurl{schuerer@hgb-leipzig.de}}
+
+\end{document}

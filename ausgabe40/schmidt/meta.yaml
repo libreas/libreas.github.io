@@ -1,0 +1,261 @@
+
+<!DOCTYPE HTML>
+
+<html lang="de">
+
+<head>
+	<meta charset="utf-8">
+	<title>Überlegungen für die Dekolonialisierung wissenschaftlicher Bibliotheken in Europa  - LIBREAS. Library Ideas</title>
+	<meta name="author" content="LIBREAS. Library Ideas">
+
+
+<!-- RDFa DC -->
+
+ <!-- RDFa Metadata (in DublinCore) -->
+    
+    <meta property="dc:title" content="Überlegungen für die Dekolonialisierung wissenschaftlicher Bibliotheken in Europa " />
+    
+    
+    
+    <meta property="dc:creator" content="Nora Schmidt" />
+    
+    
+    
+    <meta property="dc:date" content="2021" />
+    
+    <meta property="dc:format" content="text/html" />
+    <meta property="dc:language" content="de" />
+    <meta property="dc:identifier" content="https://libreas.eu/ausgabe40/schmidt/meta.yaml" />
+    
+    <meta property="dc:rights" prefix="cc: http://creativecommons.org/ns#" rel="cc:license" href="https://creativecommons.org/licenses/by/4.0/" content="CC-BY 4.0" />
+	
+    <meta property="dc:source" content="LIBREAS. Library Ideas" />
+    <meta property="dc:subject" content="Library and Information Science" />
+    <meta property="dc:type" content="website" />
+    <meta property="dc:description" content="Zielsetzung – Der Artikel fasst die Argumentation meiner Dissertation zusammen. Darin wird untersucht, wie die Arbeit mit wissenschaftlichen Publikationen in Bibliotheken und bei Informationsdienstleistern daran mitwirkt, Beiträge zum Wissenschaftssystem aus dem &lt;q&gt;Globalen Norden&lt;/q&gt; zu privilegieren. Die dadurch reproduzierte soziale Ungerechtigkeit kann als &lt;q&gt;Kolonialität&lt;/q&gt; bezeichnet werden. Schließlich stellt der Artikel Optionen vor, wie Bibliotheken ihre eigene Dekolonialisierung in die Wege leiten können. Forschungsmethoden – Die Zusammenfassung ist rein argumentativ und bezieht sich nur implizit auf die vielfältigen empirischen Studien der Dissertation. Ergebnisse – Die Durchlässigkeit für wissenschaftliche Kommunikationsmedien aus dem &lt;q&gt;Globalen Süden&lt;/q&gt; wird als zentrale Weiche für Kolonialität erkannt, insbesondere die Abtrennung der Regionalwissenschaften von den Kerndisziplinen, die Inklusionskriterien von bibliographischen Datenbanken und Paketprodukten von Informationsdienstleistern, Szientometrie und die damit verbundene Quantifizierung von wissenschaftlicher Kommunikation, die Kommerzialisierung von Open Access und die Orientierung von Bestandsentwicklung am &lt;q&gt;Bedarf&lt;/q&gt;. Schlussfolgerungen – Neutralität als einer der Kerne bibliothekarischer Berufsethik sollte in Europa als kulturell demütige Neutralität rekonzeptualisiert werden, um Kolonialität entgegen zu treten, die eigene privilegierte Position zu reflektieren und einen erhöhten Aufwand zu akzeptieren. Dies führt zwar zu mehr Komplexität im Wissenschaftssystem, bietet aber die Chance auf produktive Irritation und Anreize für Kooperation."/>
+    <meta property="dc:source" resource="urn:ISSN:1860-7950" /> 
+
+<!-- Google Scholar -->
+
+	<meta name="citation_journal_title" content="LIBREAS. Library Ideas" />
+	<meta name="citation_issue" content="40" />
+	<meta name="citation_issn" content="1860-7950" />
+	
+    <meta name="citation_publication_date" content="2021" />
+    
+
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link href="/atom.xml" rel="alternate" title="LIBREAS. Library Ideas" type="application/atom+xml">
+	
+	<link rel="canonical" href="https://libreas.eu/ausgabe40/schmidt/meta.yaml">
+	<link href="/favicon.png" rel="shortcut icon">
+	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+
+
+    <!--   
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="public/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" href="favicon.png"> -->
+  
+	
+</head>
+
+
+
+
+  <body class="theme-base-wes">
+
+    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <a href="/">LIBREAS. Library Ideas</a>
+  </div>
+
+  <nav class="sidebar-nav">
+
+    	<a class="sidebar-nav-item" href="/ausgabe39/">Aktuelle Ausgabe</a>
+	<a class="sidebar-nav-item" href="/archiv.htm">Archiv</a>
+	<a class="sidebar-nav-item" href="http://edoc.hu-berlin.de/browsing/libreas/">edoc pdf-Archiv</a>
+	<a class="sidebar-nav-item" href="/autorinnen">AutorInnen</a>
+	<a class="sidebar-nav-item" href="http://libreas.wordpress.com/category/libreas-call-for-papers/">Call for Papers</a>
+	<a class="sidebar-nav-item" href="/authorguides">Hinweise</a>
+	<a class="sidebar-nav-item" href="http://libreas.wordpress.com/">Blog</a>
+	<a class="sidebar-nav-item" href="http://libreas.tumblr.com/">Tumblr</a>
+	<a class="sidebar-nav-item" href="https://web.archive.org/web/20171112100417/http://www.ib.hu-berlin.de/~libreas/libreas_neu/podcasts/">Podcasts</a>
+	<a class="sidebar-nav-item" href="http://libreas-verein.eu">Verein</a>
+	<a class="sidebar-nav-item" href="/about">Impressum</a>
+
+  </nav>
+</div>
+
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <!-- <div class="wrap">
+       <div class="masthead">
+        <div class="container">
+          <h1 class="masthead-title">
+            <a href="/" title="Home">LIBREAS. Library Ideas</a>
+            <small><br></small>
+          </h1>
+        </div>
+      </div> -->
+
+
+      <div class="container content">
+      <!-- GitHub et al icon -->
+      <div align="right" class="icons">
+        <a href="mailto:redaktion@libreas.eu"><i class="fa fa-envelope"></i></a>
+        <a href="https://github.com/libreas"><i class="fa fa-github-square"></i></a>
+        <a href="https://www.facebook.com/libreas"><i class="fa fa-facebook"></i></a>
+        <a href="https://twitter.com/libreas"><i class="fa fa-twitter"></i></a>
+        <a href="https://github.com/libreas.atom"><i class="fa fa-rss"></i></a>
+</div>
+        
+<article class="page" itemscope itemtype="http://schema.org/ScholarlyArticle">
+
+<div align="right">
+
+<strong> > > > <a href="inhalt.htm">LIBREAS. Library Ideas # 40</a></strong> <br><br>
+</div>
+
+
+
+
+    
+        
+    
+    <div align="right">
+    <p><small><a itemprop="sameAs" href="https://via.hypothes.is/https://libreas.eu/ausgabe40/schmidt/meta.yaml">Annotate via hypothes.is</a></small></p>
+        <small><a itemprop="sameAs" href="https://doi.org/10.18452/23808">Download PDF</a></small>
+        </div>
+    
+    
+    <div align="right">
+        <small><a itemprop="sameAs" href="https://doi.org/10.18452/23808">doi:10.18452/23808</a> (edoc HU Berlin)</small>
+        </div>
+        
+
+        
+        <h1 itemprop="name" class="title">Überlegungen für die Dekolonialisierung wissenschaftlicher Bibliotheken in Europa </h1>
+        
+        
+
+        <div class="titelei">
+        
+        <i itemprop="author">Nora Schmidt</i>
+        
+    </div>
+
+<!-- 
+
+        
+        <div class="titelei">
+            
+              
+              
+            <i itemprop="author">Nora Schmidt</i> 
+            
+            
+            
+        </div>
+ -->
+
+
+
+        
+
+        <p><small itemprop="description">Zielsetzung – Der Artikel fasst die Argumentation meiner Dissertation zusammen. Darin wird untersucht, wie die Arbeit mit wissenschaftlichen Publikationen in Bibliotheken und bei Informationsdienstleistern daran mitwirkt, Beiträge zum Wissenschaftssystem aus dem <q>Globalen Norden</q> zu privilegieren. Die dadurch reproduzierte soziale Ungerechtigkeit kann als <q>Kolonialität</q> bezeichnet werden. Schließlich stellt der Artikel Optionen vor, wie Bibliotheken ihre eigene Dekolonialisierung in die Wege leiten können. Forschungsmethoden – Die Zusammenfassung ist rein argumentativ und bezieht sich nur implizit auf die vielfältigen empirischen Studien der Dissertation. Ergebnisse – Die Durchlässigkeit für wissenschaftliche Kommunikationsmedien aus dem <q>Globalen Süden</q> wird als zentrale Weiche für Kolonialität erkannt, insbesondere die Abtrennung der Regionalwissenschaften von den Kerndisziplinen, die Inklusionskriterien von bibliographischen Datenbanken und Paketprodukten von Informationsdienstleistern, Szientometrie und die damit verbundene Quantifizierung von wissenschaftlicher Kommunikation, die Kommerzialisierung von Open Access und die Orientierung von Bestandsentwicklung am <q>Bedarf</q>. Schlussfolgerungen – Neutralität als einer der Kerne bibliothekarischer Berufsethik sollte in Europa als kulturell demütige Neutralität rekonzeptualisiert werden, um Kolonialität entgegen zu treten, die eigene privilegierte Position zu reflektieren und einen erhöhten Aufwand zu akzeptieren. Dies führt zwar zu mehr Komplexität im Wissenschaftssystem, bietet aber die Chance auf produktive Irritation und Anreize für Kooperation.</small></p>
+
+        
+
+        
+
+        <br>
+
+        <p><small itemprop="description">Objective – The article summarises the argumentation of my PhD thesis that investigates how the work with scholarly publications in libraries and by information service providers privileges contributions to the research system from the <q>Global North</q>. The thereby reproduced social injustice can be termed <q>coloniality</q>. The article presents options for libraries to initiate their own decolonization. Methods – The summary is solely argumentative and refers to the diverse empirical studies of the PhD thesis only implicitly. Results – The permeability for scholarly communication media from the <q>Global South</q> is recognised as an important passage for coloniality, in particular the separation of area studies from the core disciplines, the inclusion criteria of bibliographic databases and package products from information service providers, scientometrics and the associated quantification of scholarly communication, the commercialization of Open Access and the focus of collection development on <q>demand</q>. Conclusions – Neutrality as one of the core values of the librarian`s professional ethics should be re-conceptualized in Europe as culturally humble neutrality, in order to counter coloniality, reflect on one's own privileged position and accept increased effort. Although this leads to more complexity in the research system, it offers the opportunity for productive irritation and incentives for cooperation.</small></p>
+
+        
+
+
+
+        
+        <p>
+          <small>
+            <br>
+            Zitiervorschlag
+            <br>
+            
+            
+            Nora Schmidt,
+            
+            
+             
+            "Überlegungen für die Dekolonialisierung wissenschaftlicher Bibliotheken in Europa ".
+            
+            <i itemprop="provider">LIBREAS. Library Ideas</i>, 40 (<span itemprop="datePublished">2021</span>). <a itemprop="url" href="https://libreas.eu/ausgabe40/schmidt/meta.yaml">https://libreas.eu/ausgabe40/schmidt/meta.yaml</a>
+        </small>
+        <hr>
+    </p>
+   
+    
+
+
+
+
+
+    <div class="entry-content" itemprop="articleBody"></div>
+
+    
+
+</article>
+
+
+
+
+        <footer class="footer">
+<hr>
+<p><a href="https://creativecommons.org/licenses/by/4.0/">All content licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)</a>, if not otherwise stated.
+</p>
+<p>LIBREAS. Library Ideas wird herausgegeben am <a href="https://www.ibi.hu-berlin.de/">Institut für Bibliotheks- und Informationswissenschaft</a> der <a href="https://www.hu-berlin.de/">Humboldt-Universität zu Berlin</a></p>
+<p>Hosted on <a href="http://github.com/libreas/libreas.github.io">GitHub</a>, made with <a href="http://octopress.org/">Jekyll/Octopress</a> and <a href="http://johnmacfarlane.net/pandoc/">pandoc</a></p>
+
+<p>ISSN: 1860-7950</p>
+
+
+    LIBREAS. Library Ideas
+
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2021-12-27</a>)</p>
+
+</footer>
+      </div>
+    </div>
+<label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+  </body>
+</html>
