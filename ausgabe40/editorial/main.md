@@ -72,7 +72,7 @@ weniger leicht, als wir es gewohnt sind. Andererseits fügten sich einige
 glückliche Umstände ineinander.
 
 Im Oktober 2020 traten unsere späteren Gastredakteurinnen Sandra Sparber
-und Gabi Slezak mit uns in Kontakt und berichteten von einem Wiener
+und Gabriele Slezak mit uns in Kontakt und berichteten von einem Wiener
 Seminar am Institut für Afrikawissenschaften zum Thema Dekolonisieren
 von Bibliotheksbeständen, das bereits zum dritten Mal in Folge
 stattgefunden hatte. Wir äußerten Interesse an der Veröffentlichung
@@ -232,9 +232,9 @@ Bestandsanalyse untersucht sie eine missionswissenschaftliche
 Sondersammlung und leitet daraus Handlungsempfehlungen für zukünftige
 Projekte ab.
 
-*"La condition de la liberté n\'est pas d\'être gouverné par l\'histoire, mais de la réécrire au (temps) prése."*[^3]
+*"La condition de la liberté n\'est pas d\'être gouverné par l\'histoire, mais de la réécrire au (temps) présent."*[^3]
 
-Ihre / Eure Redaktion LIBREAS und die Gastredakteuriinnen Gabriele
+Ihre / Eure Redaktion LIBREAS und die Gastredakteurinnen Gabriele
 Slezak und Sandra Sparber
 
 (Berlin, Hannover, Göttingen, Lausanne, München, Wien)

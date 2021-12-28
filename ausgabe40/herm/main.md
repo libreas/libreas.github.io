@@ -618,7 +618,7 @@ Was die Strukturierung und Hierarchisierung von Wissen in
 bibliothekarischen Klassifikationen anbelangt, ist als Alternative zu
 den herkömmlichen hierarchischen, vielfach auf Binarität beruhenden,
 autoritären Standardisierungsformen eine rhizomartige[^85] und
-partizipative patron-driven Relationierung von Bestandstiteln denkar.
+partizipative patron-driven Relationierung von Bestandstiteln denkbar.
 Ansätze und auch praktische Modelle hierfür existieren bereits, man
 denke nur an die Stichworte "Bibliothek 2.0" mit ihren "Folksonomies",
 social tagging und schließlich das semantic web.
@@ -683,14 +683,10 @@ verstanden werden.
     "Provenienzforschung zu ethnologischen Sammlungen der Kolonialzeit",
     7./8.4.2017, München, aus der ein von Larissa Förster, Iris
     Edenheiser, Sarah Fründt und Heike Hartmann herausgegebener
-    Tagungsband hervorging,
-    <https://edoc.hu-berlin.de/bitstream/handle/18452/19769/Provenienzforschung.pdf>;
-    "Schwieriges
-
-    Erbe. Koloniale Objekte -- Postkoloniales Wissen", 24.4.2017,
+    Tagungsband hervorging, <https://doi.org/10.18452/19029>;
+    "Schwieriges Erbe. Koloniale Objekte -- Postkoloniales Wissen", 24.4.2017,
     Stuttgart, ein Tagungsbericht von Myriam Gröpl und Sara Capdeville
     findet sich unter:
-
     <https://kolonialismus.blogs.uni-hamburg.de/2017/05/19/tagungsbericht-schwieriges-erbe-koloniale-objekte-postkoloniales-wissen-24-04-2017-linden-museum-stuttgart/>
 
 [^4]: <https://www.museumsbund.de/wp-content/uploads/2021/03/mb-leitfanden-web-210228-02.pdf> (zugegriffen am 15.5.2021).
@@ -868,7 +864,7 @@ verstanden werden.
 
 [^47]: Am angegebenen Ort.
 
-[^48]: Dramiga, Joe: Die Sankoré-Schriften, SciLogs, 19.8.2010.
+[^48]: Dramiga, Joe: Die Sankoré-Schriften, SciLogs, 19.8.2010.
 
 [^49]: Dramiga, Joe: Ebenda; zum Erhalt der wertvollen Schriften gibt es
     mehrere Projekte internationaler Kooperation wie das Timbuktu
@@ -912,7 +908,7 @@ verstanden werden.
 
 [^59]: <https://www.suub.uni-bremen.de/ueber-uns/projekte/dsdk/>
 
-[^60]: Bandkatalog \"Kolonialwesen\" der SuUB Bremen, 1906 bis ca. 1940,
+[^60]: Bandkatalog "Kolonialwesen" der SuUB Bremen, 1906 bis ca. 1940,
     <http://brema.suub.uni-bremen.de/urn/urn:nbn:de:gbv:46:1-8837>
     (zugegriffen am 15.6.2019).
 
@@ -1042,7 +1038,7 @@ verstanden werden.
 
 [^89]: Thein, Helen: Gedenkstättenbibliotheken: Zur Bestimmung eines
     Bibliothekstyps (Humboldt-Universität zu Berlin, 2017), S. 45,
-    <http://dx.doi.org/https://doi.org/10.18452/18443>
+    <https://doi.org/10.18452/18443>
 
 [^90]: Welches die Sammlungen von (1) Kolonial-Bibliothek der UB
     Frankfurt/Main, (2) Kolonialem Bildarchiv der UB Frankfurt, (3) das

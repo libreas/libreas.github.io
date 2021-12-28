@@ -1813,10 +1813,10 @@ the Town That Never Asked for It*. In: The Daily Beast, 19. Juni 2021,
 [https://www.thedailybeast.com/the-strange-tale-of-the-beautiful-library-and-the-town-that-never-asked-for-it?ref=home](https://www.thedailybeast.com/the-strange-tale-of-the-beautiful-library-and-the-town-that-never-asked-for-it?ref=home)
 
 Im Artikel wird die Geschichte erzählt, wie die Kleinstadt Winchester in
-Virginia zu ihrer Öffentlichen Bibliothek gekommen ist. Die
+Virginia zu ihrer Öffentlichen Bibliothek gekommen ist. Die --
 überdimensioniert, in einem für Bibliotheken grösserer Städte, im frühen
-20. Jahrhundert typischen palastähnlichen Bau, die dortige Altstadt
-prägt. Kurz zusammengefasst; wegen dem Erbe eines
+20. Jahrhundert typischen palastähnlichen Bau -- die dortige Altstadt
+prägt. Kurz zusammengefasst: wegen dem Erbe eines
 Südstaaten-begeisterten Richters und Unternehmers aus Pennsylvania
 (offensichtlich nicht in den Südstaaten der USA). Dieser überliess sein
 Vermögen lieber einer Stadt im Süden als der Stadt, in der er immerhin

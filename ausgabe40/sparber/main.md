@@ -359,7 +359,7 @@ in den Büchern der Stichprobe mehrheitlich mit paternalistischer
 aus Nordamerika das Menschsein teilweise abgesprochen, wenn sie als
 unzivilisiert und wild beschrieben werden.[^30]
 
-![Othering im Missio-Bestand (Sparber, 2021)](img/img3.PNG)
+![Othering im Missio-Bestand (Sparber, 2021)](img/img3.png)
 
 b\) In der Sondersammlung Missio sind durchaus auch zahlreiche Bücher
 mit progressiven Inhalten zu finden. Auch solche Werke, die linke und
