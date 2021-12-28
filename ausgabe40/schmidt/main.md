@@ -1,3 +1,7 @@
+Anmerkung der LIBREAS-Redaktion: Bei diesem Artikel handelt es sich um eine Zweitveröffentlichung.
+Die Erstveröffentlichung erfolgte in: Young Information Scientist Vol. 6(2021),
+<https://doi.org/10.25365/yis-2021-6-1>.
+
 Diesem Beitrag liegt folgende Dissertation zugrunde: Schmidt, Nora
 (2020). "The Privilege to Select. Global Research System, European
 Academic Library Collections, and Decolonisation". Phd Thesis.
