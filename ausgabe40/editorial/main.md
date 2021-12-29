@@ -1,4 +1,4 @@
-<div align="center">**Wir widmen diese Ausgabe Engelbert Plassmann (1935-2021).**</div>
+<div align="center">**Wir widmen diese Ausgabe Engelbert Plassmann (1935--2021).**</div>
 
 <div align="center">\*\*\*</div>
 
@@ -30,8 +30,8 @@ Verstrickungen frei. Es ist ein permanentes Konfrontiertwerden mit
 unangenehmen Wahrheiten. Zugleich ist der Schritt unumgänglich, und zwar
 bereits bevor der Anspruch erhoben wird, dass das westliche Verständnis
 von Humanität endlich eingelöst hätte, was seit der Aufklärung als
-Versprechen ‒ nämlich allgemeine, gleiche und freie Menschlichkeit für
-alle ‒ von Anfang an in ihm lag.
+Versprechen -- nämlich allgemeine, gleiche und freie Menschlichkeit für
+alle -- von Anfang an in ihm lag.
 
 Die Herausforderung der Dekolonisierung liegt im umfassenden und
 unvermeidlich radikalen Anspruch dieses Ansatzes. Fragt man, welche
@@ -121,7 +121,7 @@ Wir sind also in einer Unlösbarkeit gefangen. Das zu akzeptieren, ist
 wahrscheinlich die erste Lektion, die das Thema Dekolonisierung für alle
 weiß gelesenen, akademisch qualifizierten Bibliotheks- und
 Informationswissenschaftler\*innen bereithält. Zusammengenommen ist es
-das Bißchen, was wir bis hierhin zum Diskurs beitragen können.
+das bisschen, was wir bis hierhin zum Diskurs beitragen können.
 
 Diese Schwerpunktausgabe kann somit nur einen Versuch darstellen, den
 Bereich des kolonialen Erbes in Bibliotheken einer breiteren Debatte
@@ -132,7 +132,7 @@ Dimensionen zu finden. Sehr gern laden wir ein, dazu auch fernab eines
 Schwerpunktes Beiträge im Themenkomplex Dekolonisierung für nächste
 Ausgaben beizutragen.
 
-![Redaktionsorte XIX - Berlin-Neukölln, Sommer 2021](img/img1.jpg)
+![Redaktionsorte XIX -- Berlin-Neukölln, Sommer 2021](img/img1.jpg)
 
 ### Zu den einzelnen Beiträgen
 
@@ -199,7 +199,7 @@ Er hält fest, dass normierte Begriffe und ein nicht auf Universalität
 angelegter Anspruch, welcher zwangsläufig zu Lücken im Ordnungssystem
 führt, zu einem Mangel an Diversität und zu eingeschränkter
 Repräsentation führen. In Linked-Data-Ansätzen wie der
-Anschlussfähigkeit von community-generierten Vokabular oder dem Mapping
+Anschlussfähigkeit von community-generierten Vokabularen oder dem Mapping
 mit fremdsprachigen Erschließungsinstrumentarien, erkennt der Autor
 Möglichkeiten, eurozentrischen Ausprägungen der GND zumindest in
 Ansätzen entgegenzuwirken.

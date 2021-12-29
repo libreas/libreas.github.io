@@ -437,12 +437,12 @@ Peter Lang. S. 140--157.
 
 Andreotti, Vanessa: "(Towards) decoloniality and diversality in global
 citizenship education." In: Globalisation, Societies and Education,
-9:3-4 (2011) S. 381-197. DOI:
+9:3-4 (2011) S. 381--197. DOI:
 <https://doi.org/10.1080/14767724.2011.605323>
 
 Andreotti, Vanessa et al.: "Mapping interpretations of decolonization in
 the context of higher education." In: Decolonization. Indigeneity,
-Education & Society Vol. 4, No. 1 (2015) S. 21-40.
+Education & Society Vol. 4, No. 1 (2015) S. 21--40.
 
 Brunner, Claudia (2020). Epistemische Gewalt. Wissen und Herrschaft in
 der kolonialen Moderne. Bielefeld: transcript.
@@ -450,7 +450,7 @@ der kolonialen Moderne. Bielefeld: transcript.
 
 Franke, Fabian: "Die Förderung von Informationskompetenz ist Kernaufgabe
 von Bibliotheken -- und nicht nur der Senf zur Bratwurst!" In: o-bib.
-Das offene Bibliotheksjournal. Bd. 4 Nr. 1 (2017), S. IV-V. DOI:
+Das offene Bibliotheksjournal. Bd. 4 Nr. 1 (2017), S. IV--V. DOI:
 <https://doi.org/10.5282/o-bib/2017H1>
 
 Gregory, Lua; Higgins, Shana (Hg.) (2013): Information literacy and
@@ -473,12 +473,12 @@ Information Literacy Education: A Critical Look at the Transformative
 Learning Theory." In: Kurbanoğlu, Serap et al. (Hg.) (2014): Information
 Literacy. Lifelong Learning and Digital Citizenship in the 21st Century.
 ECIL 2014. Communications in Computer and Information Science, ECIL2014.
-Cham: Springer. S.427-435. DOI:
+Cham: Springer. S.427--435. DOI:
 <https://doi.org/10.1007/978-3-319-14136-7_45>
 
 Kutner, Laurie: "Rethinking Information Literacy in a Globalized World"
 In: Communications in Information Literacy, Vol. 6, Iss. 1 (2012),
-S.24-33. DOI:
+S.24--33. DOI:
 <https://doi.org/10.15760/comminfolit.2012.6.1.115>
 
 Landry, Donna et al. (Hg.) (1996): The Spivak reader. Selected works of
@@ -618,7 +618,7 @@ DOI: <https://doi.org/10.3726/b17612>
 [^20]: Vergleiche: Slezak, Gabriele: "C3-Award: Jugendliche forschen zu
     Entwicklung" In: Gmainer-Pranzl, Franz; Rötzer, Anita (Hg.) (2020):
     Shrinking Spaces. Mehr Raum für globale Zivilgesellschaft. Frankfurt
-    a.M.: Peter Lang Ltd. S. 293 f*.* DOI:
+    a.M.: Peter Lang Ltd. S. 293 f. DOI:
     <https://doi.org/10.3726/b17612>
 
 [^21]: Vergleiche: Gregory, Lua; Higgins, Shana (Hg.) (2013):
@@ -640,7 +640,7 @@ DOI: <https://doi.org/10.3726/b17612>
     Transformative Learning Theory." In: Kurbanoğlu, Serap et al. (Hg.)
     (2014): Information Literacy. Lifelong Learning and Digital
     Citizenship in the 21st Century. ECIL 2014. Communications in
-    Computer and Information Science, ECIL2014. Cham: Springer. S.428.
+    Computer and Information Science, ECIL2014. Cham: Springer. S. 428.
     DOI: <https://doi.org/10.1007/978-3-319-14136-7_45>
 
 [^25]: Der Videoinput zum Modul 2 "Quellenkritik: Koloniale Spurensuche

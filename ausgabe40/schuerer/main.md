@@ -1,4 +1,4 @@
-> „Letztlich ist die Dekolonialisierung von Geist und Wissen der erste
+> "Letztlich ist die Dekolonialisierung von Geist und Wissen der erste
 > Schritt zur Dekolonialisierung von allem anderen. Nicht nach den Regeln
 > des hegemonialen Systems zu denken oder die bestehenden Mittel des
 > kolonialistischen Denkens zu kritisieren, scheint also die grundlegende
@@ -31,7 +31,7 @@ Privilegien als weiße Person, die ich zuvor nie realisiert hatte: Ich
 werde nicht in der Straßenbahn angestarrt, nicht gefragt, warum ich so
 gut Deutsch spreche und woher meine Eltern kommen, ob ich gut tanzen
 oder Basketball spielen könne, meine Haare werden nicht ungefragt
-angefasst,...
+angefasst, ...
 
 Zugleich muss ich erkennen, dass auch ich mit Stereotypen und
 Vorurteilen aufwuchs, diese verinnerlichte und sie daher weniger leicht
@@ -121,29 +121,29 @@ Zum Beispiel in einem LIBREAS-Artikel.
     Teaching and Learning. Siehe dazu
     <https://lsepgcertcitl.wordpress.com/2018/04/16/diversity-helps-but-decolonisation-is-the-key-to-equality-in-higher-education> (letzter Zugriff aller Links am 01.12.2021).
 
-[^2]: Art Library Society UK & Ireland -- siehe dazu <https://arlis.net>
+[^2]: Art Library Society UK & Ireland -- siehe dazu <https://arlis.net>.
 
 [^3]: Abkürzung für "Black, Indigenous and People of Color".
 
-[^4]: Siehe dazu u.a. Peter Nowak (2015):
-    <https://www.heise.de/tp/news/Warum-gibt-es-prozentual-mehr-Rassismus-in-Ostdeutschland-2784260.html>
+[^4]: Siehe dazu unter anderem Peter Nowak (2015):
+    <https://www.heise.de/tp/news/Warum-gibt-es-prozentual-mehr-Rassismus-in-Ostdeutschland-2784260.html>.
 
 [^5]: Antonia Paula Herm: Koloniale Spuren in bibliothekarischen
     Sammlungen und Wissensordnungen, Masterarbeit am Institut für
     Bibliotheks- und Informationswissenschaft der Humboldt-Universität
-    zu Berlin (2019), S. 48. (unveröffentlicht), Siehe auch Beitrag von
-    Paula Herm in dieser Ausgabe: <https://doi.org/10.18452/23801>
+    zu Berlin (2019), S. 48. (unveröffentlicht). Siehe auch Beitrag von
+    Paula Herm in dieser Ausgabe: <https://doi.org/10.18452/23801>.
 
 [^6]: Das detaillierte Programm inklusive Abstracts der Beiträge gibt es
     hier:
     <https://duncanchappell.wixsite.com/arlis2019>;
     wer Interesse am Konferenzbericht "A Pioneering Past. A Vibrant
     Future" hat, kann diesen im Heft 1/2 der AKMB-News (Jg. 26; 2020) ab
-    S. 87 nachlesen: <https://doi.org/10.11588/akmb.2020.1/2.76456)>
+    S. 87 nachlesen: <https://doi.org/10.11588/akmb.2020.1/2.76456)>.
 
 [^7]: Präziser wäre es vermutlich, statt der "eurozentrischen" oder
     "westlichen" Sicht auf den globalen Norden zu verweisen, wobei auch
     um dessen Definition derzeit noch gerungen wird. Eine
     Visualisierung, welche Länder zum globalen Norden und welche zum
     globalen Süden gezählt werden, findet sich hier bei SterpMap (2013):
-    <https://www.stepmap.de/karte/globaler-sueden-globaler-norden-V7WKiFRkie>
+    <https://www.stepmap.de/karte/globaler-sueden-globaler-norden-V7WKiFRkie>.

@@ -42,7 +42,7 @@
     <meta property="dc:source" content="LIBREAS. Library Ideas" />
     <meta property="dc:subject" content="Library and Information Science" />
     <meta property="dc:type" content="website" />
-    <meta property="dc:description" content="Der Rückgriff auf kontrollierte Vokabulare und Normdaten ist im Zuge der Zugänglichmachung von analogen und digitalen Ressourcen zentral. Der vorliegende Text diskutiert (ethisch-theoretische) Fragestellungen im Umgang mit kontrollierten Vokabularen als spezifisch eurozentrische Wissensordnungen."/>
+    <meta property="dc:description" content="Bibliotheken verwalten Wissen. Bibliotheken sind Räume für Menschen. Was passiert, wenn all das auf kolonialer Vergangenheit aufbaut? Die C3-Bibliothek für Entwicklungspolitik in Wien hat 2018 begonnen, sich aktiv mit der eigenen Geschichte rassistischer Praktiken auseinanderzusetzen. Wir verstehen Dekolonialisierung von Bibliotheken als Prozess, der aktiv gestaltet werden muss. Dieser braucht einen Kompetenzaufbau für die inhaltliche Auseinandersetzung mit Rassismen in überwiegend weißen Institutionen durch Erwerben von theoretischem Wissen und kritische, selbstreflexive Auseinandersetzung mit rassistischen Denkweisen wie auch eine diskursive und partizipative Ausgestaltung mit breiter Einbindung der Akteur*innen. Damit Letzteres gelingen kann gilt es auf der Ebene der Nutzer*innen und Bürger*innen eine direkte und offene Thematisierung zu initiieren, die aktive Teilhabe und Engagement aller an der Debatte fördert. Für die C3-Bibiothek ist dafür die Vermittlung von Informationskompetenz als transformatorisches Werkzeug zentral. Sie ermöglicht ein Engagement, das sich manipulativen, entmenschlichenden und kolonisierenden Prinzipien widersetzen kann. Der Beitrag stellt erste Erfahrungen aus der Praxis und Reflexionsergebnisse dem Austausch mit gleichgesinnten Bibliotheken im deutschsprachigen Raum zur Verfügung."/>
     <meta property="dc:source" resource="urn:ISSN:1860-7950" /> 
 
 <!-- Google Scholar -->
@@ -203,7 +203,7 @@
 
         
 
-        <p><small itemprop="description">Der Rückgriff auf kontrollierte Vokabulare und Normdaten ist im Zuge der Zugänglichmachung von analogen und digitalen Ressourcen zentral. Der vorliegende Text diskutiert (ethisch-theoretische) Fragestellungen im Umgang mit kontrollierten Vokabularen als spezifisch eurozentrische Wissensordnungen.</small></p>
+        <p><small itemprop="description">Bibliotheken verwalten Wissen. Bibliotheken sind Räume für Menschen. Was passiert, wenn all das auf kolonialer Vergangenheit aufbaut? Die C3-Bibliothek für Entwicklungspolitik in Wien hat 2018 begonnen, sich aktiv mit der eigenen Geschichte rassistischer Praktiken auseinanderzusetzen. Wir verstehen Dekolonialisierung von Bibliotheken als Prozess, der aktiv gestaltet werden muss. Dieser braucht einen Kompetenzaufbau für die inhaltliche Auseinandersetzung mit Rassismen in überwiegend weißen Institutionen durch Erwerben von theoretischem Wissen und kritische, selbstreflexive Auseinandersetzung mit rassistischen Denkweisen wie auch eine diskursive und partizipative Ausgestaltung mit breiter Einbindung der Akteur*innen. Damit Letzteres gelingen kann gilt es auf der Ebene der Nutzer*innen und Bürger*innen eine direkte und offene Thematisierung zu initiieren, die aktive Teilhabe und Engagement aller an der Debatte fördert. Für die C3-Bibiothek ist dafür die Vermittlung von Informationskompetenz als transformatorisches Werkzeug zentral. Sie ermöglicht ein Engagement, das sich manipulativen, entmenschlichenden und kolonisierenden Prinzipien widersetzen kann. Der Beitrag stellt erste Erfahrungen aus der Praxis und Reflexionsergebnisse dem Austausch mit gleichgesinnten Bibliotheken im deutschsprachigen Raum zur Verfügung.</small></p>
 
         
 
@@ -277,7 +277,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2021-12-28</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2021-12-29</a>)</p>
 
 </footer>
       </div>

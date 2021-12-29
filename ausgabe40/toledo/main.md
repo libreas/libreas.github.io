@@ -1,4 +1,6 @@
-![](img/img1.PNG)
+<div align="center">
+![](img/img1.png)
+</div>
 
 Vorbemerkung der LIBREAS-Redaktion:\
 Das nachfolgende Interview entstand im Rahmen der zwei Projektseminare,
@@ -68,19 +70,19 @@ Erkenntnistheoretikerin und Doktorandin der Informationswissenschaft auf
 die Auswirkungen der so genannten Whiteness in diesem Bereich und
 insbesondere im brasilianischen Bibliothekswesen erfahren.**
 
-**In dem Buch \"Epistemologias Latino-Americanas\" (Lateinamerikanische
-Epistemologien) fragst du: \"Rassismus ist ein *weißes* Thema, warum
+**In dem Buch "Epistemologias Latino-Americanas" (Lateinamerikanische
+Epistemologien) fragst du: "Rassismus ist ein *weißes* Thema, warum
 sollten sich nur Schwarze in ihrer Lehre und beruflichen Praxis damit
 befassen?" Ich würde dich bitten, zunächst einmal darüber zu sprechen,
 was Whiteness für dich bedeutet?**
 
 Franciéle Carneiro Garcês da Silva (FS): \[Der Autor und
-Journalist[^2]\] Ta-Nehisi Coates formulierte es so: \"Race ist das Kind
-des Rassismus, nicht seine Mutter.\" Davon ausgehend spreche ich in
-meinem Buch davon, dass Whiteness \"die Mutter des Rassismus\" ist. Das
+Journalist[^2]\] Ta-Nehisi Coates formulierte es so: "Race ist das Kind
+des Rassismus, nicht seine Mutter." Davon ausgehend spreche ich in
+meinem Buch davon, dass Whiteness "die Mutter des Rassismus" ist. Das
 Konzept der Race[^3] wurde benutzt, um Menschen zu klassifizieren.
-Dahinter steht eine Hierarchisierung in \"überlegene und minderwertige
-Rassen\". Dies hat den Zweck, zu trennen und zu dominieren. Whiteness
+Dahinter steht eine Hierarchisierung in "überlegene und minderwertige
+Rassen". Dies hat den Zweck, zu trennen und zu dominieren. Whiteness
 bezieht sich auf die Identität, die in Entsprechung zu lokalen und
 globalen Einflüssen entsteht und rekonstruiert wird. Whiteness als
 Praxis etablierte sich historisch in dem Moment, in dem europäische und
@@ -360,7 +362,7 @@ einem, wie der Autor Adilson Moreira nennt, "Recreational Racism".
 
 **VT: Was ist das?**
 
-FS: Adilson Moreira zeigt in seinem Buch \"Recreational Racism\", dass
+FS: Adilson Moreira zeigt in seinem Buch "Recreational Racism", dass
 Recreational Racism auf rassistischen Witzen basiert, deren Pointe
 darauf aufbaut, dass von Schwarzen immer erwartet wird, dass sie etwas
 falsch machen. Das eine reine Erfindung, die einen rassisch-ethnischen
@@ -380,8 +382,8 @@ fehlt meistens ein Verständnis dafür, dass die Gesellschaft rassistisch
 ist.
 
 Erst seit den 2000er-Jahren gab es bei der ENACIB[^11] einen
-bibliothekswissenschaftlichen Beitrag zum Thema \"Whiteness in Teaching
-Practices in Librarianship and Information Science\"[^12], geschrieben
+bibliothekswissenschaftlichen Beitrag zum Thema "Whiteness in Teaching
+Practices in Librarianship and Information Science"[^12], geschrieben
 von mir, Gustavo Saldanha und Daniela Pizarro. Das ist erstaunlich, da
 es *Critical Whiteness Studies* im Bibliothekswesen auch schon länger
 gibt. Die afrokanadische Bibliothekarin und Forscherin Jody Nyasha
@@ -389,7 +391,7 @@ Warner war eine der Ersten, die sich mit dem Thema
 auseinandersetzte.[^13] Erwähnenswert sind auch die Arbeiten der
 Lehrerin und Bibliothekarin Isabel Espinal zur Whiteness in Bibliotheks-
 und Informationswissenschaft. Dirnéle Garcez und ich haben über sie in
-unserem Buch \"Bibliotecári\@s Negr\@s\"[^14] geschrieben.
+unserem Buch "Bibliotecári\@s Negr\@s"[^14] geschrieben.
 
 **VT: Es ist bemerkenswert, dass Schwarze Menschen die höchste Quote von
 Studienabbrüchen in der Bibliothekswissenschaft haben (71,7 %). Siehst
@@ -427,7 +429,7 @@ Francilene Cardoso. Sie leisten ihren Anteil am
 bibliothekswissenschaftlichen Wissen, werden aber nicht immer in der
 Lehre der Bibliothekswissenschaft in Brasilien vermittelt. In den
 Büchern von Schwarzen zum Bibliothekswesen kommen sie natürlich vor.
-\"Bibliotecári\@s Negr\@s\" und \"O Negro na Biblioteca\" sind zwei
+"Bibliotecári\@s Negr\@s" und "O Negro na Biblioteca" sind zwei
 Titel, die sich mit bibliothekswissenschaftlichen Fragen aus dieser
 Perspektive befassen. Im Gesamtspektrum des wissenschaftlichen
 Publizierens dominieren jedoch *weiße* Autor\*innen und werden auch
@@ -470,7 +472,7 @@ unsichtbar zu machen. Die technizistische Ausrichtung des
 Bibliothekswesen fördert dies, denn es erleichtert die Vorspiegelung von
 Neutralität.
 
-**VT: Inwiefern ist die Bibliothek für Dich ein \"Machtraum\" für die
+**VT: Inwiefern ist die Bibliothek für Dich ein "Machtraum" für die
 Propagierung und Durchsetzung solcher Mechanismen?**
 
 FS: Man muss sich nur nur ansehen, wie die Vermittlung von Kinderbüchern
@@ -539,8 +541,8 @@ ebenfalls konservative Einstellungen haben.
 **VT: In Deinen Texten erläuterst Du bibliotheks- und
 informationswissenschaftliche Konzepte und betonst die Tatsache, dass
 das in Brasilien verwendete Modell ein technizistisches ist, nach dem
-Bibliotheken \"als Orte der Zweckmäßigkeit, der Effizienz und der
-Dienstleistungen\" verstanden werden und sich als unparteiisch sehen. In
+Bibliotheken "als Orte der Zweckmäßigkeit, der Effizienz und der
+Dienstleistungen" verstanden werden und sich als unparteiisch sehen. In
 welcher Beziehung steht dies zum Konzept des epistemischen Ungehorsams
 und** *Critical Antiracist and Decolonial Librarianship***?**
 
@@ -643,11 +645,13 @@ Valentina Gonçalves de Toledo ist eine brasilianische Studentin der
 Bibliotheks- und Informationswissenschaft an der Humboldt-Universität zu
 Berlin.
 
-## \"Racism is a white issue, why are only black people the ones who should address it in their teaching and professional practice?\"[^15]
+## "Racism is a white issue, why are only black people the ones who should address it in their teaching and professional practice?"[^15]
 
-### Librarian Franciéle Garcês tells about the influence of whiteness in the librarianship-information science field and the perpetuation of racism in librarianship and information science. {.unlisted}
+### Librarian Franciéle Garcês tells about the influence of whiteness in the librarianship-information science field and the perpetuation of racism in librarianship and information science
 
-![](img/img1.PNG)
+<div align="center">
+![](img/img1.png)
+</div>
 
 **Valentina de Toledo (VT): Thank you for your time and availability to
 answer our questions. The library is a place where many worlds meet, but
@@ -657,16 +661,16 @@ your view as an epistemologist and doctoral student in Information
 Science on the impacts of whiteness in the field, and in particular in
 Brazilian librarianship.**
 
-**In the book "Epistemologias Latino-Americanas\" (Latin American
-Epistemologies) you say \"Racism is a white issue, why only black people
-should address it in their teaching and professional practice? I would
+**In the book "Epistemologias Latino-Americanas" (Latin American
+Epistemologies) you say "Racism is a white issue, why only black people
+should address it in their teaching and professional practice?" I would
 like you to start by explaining what whiteness is?**
 
-Franciéle Carneiro Garcês da Silva (FS): Ta-Nehisi Coates says \"race is
-the daughter of racism, not its mother\" and from that I say in the book
-that whiteness is \"the mother of racism\". The concept of race was used
+Franciéle Carneiro Garcês da Silva (FS): Ta-Nehisi Coates says "race is
+the daughter of racism, not its mother" and from that I say in the book
+that whiteness is "the mother of racism". The concept of race was used
 to classify people, be they from other continents or countries,
-hierarchized into \"superior and inferior races\" in order to separate
+hierarchized into "superior and inferior races" in order to separate
 and dominate. Whiteness refers to white racial identity that is
 reconstructed according to local and global influences. The exercise of
 whiteness was present when, in historical processes, European and
@@ -680,7 +684,7 @@ By saying that whiteness is the mother of racism, I am not excluding
 that people were already prejudiced before the concept of race, but when
 it was invented, it served to classify and hierarchize people from
 certain non-white groups. The white racial identity has since been
-promoted as if there were \"superior races\", and this racial privilege
+promoted as if there were "superior races", and this racial privilege
 is promoted in all spheres of Brazilian society.
 
 And when I say that racism is a white problem, I am talking about a
@@ -862,7 +866,7 @@ understand anything about the subject or because he considers that
 debate unnecessary, considering that he is in a society that is fair and
 equal to all. This is the epistemicide, a concept widely discussed by
 Boaventura de Sousa Santos and Sueli Carneiro, which consists in the act
-of \"killing\" the knowledge produced by black people and others on the
+of "killing" the knowledge produced by black people and others on the
 margins, especially because it has a counter narrative to that produced
 by the hegemonic context. It is no wonder that professors say they have
 never read about ethnic-racial issues, or that a book was released in
@@ -930,9 +934,9 @@ recreational racism, as the author Adilson Moreira says.
 
 **VT: What is recreational racism?**
 
-FS: Adilson Moreira shows in his book \"Recreational Racism\" that
-recreational racism is based on racist jokes, like \"the black person,
-when he doesn\'t do it on the way in, he does it on the way out\", as if
+FS: Adilson Moreira shows in his book "Recreational Racism" that
+recreational racism is based on racist jokes, like "the black person,
+when he doesn\'t do it on the way in, he does it on the way out", as if
 a black person was always expected to do something wrong. The imaginary
 has created this and attributes it to the racial-ethnic aspect, when in
 fact any person can make mistakes regardless of being or not being a
@@ -952,14 +956,14 @@ he/she is making a racial choice, this can be done in an unconscious way
 for not having this perception or awareness that he/she is inside a
 racist society.
 
-The article \"Whiteness in Teaching Practices in Librarianship and
-Information Science\"[^16], written by me, Gustavo Saldanha and Daniela
+The article "Whiteness in Teaching Practices in Librarianship and
+Information Science"[^16], written by me, Gustavo Saldanha and Daniela
 Pizarro, is the only one with this approach in ENACIB (National Meeting
 of Research in Information Science), but the critical studies on
 whiteness have been going on since the 2000s. The Afro-Canadian
 librarian and researcher Jody Warner was the first to address the issue,
 followed by the teacher and librarian Isabel Espinal, about whom Dirnéle
-Garcez and I wrote in the book \"Bibliotecári\@s Negr\@s -- v. 3\"
+Garcez and I wrote in the book "Bibliotecári\@s Negr\@s -- v. 3"
 (Black Librarians, <https://www.nyota.com.br/livros>)
 specifically about what Espinhal recognizes and understands as whiteness
 in the library and information science field.
@@ -999,7 +1003,7 @@ Francilene Cardoso, in short, all these black people are within the
 production of knowledge, but are not always studied within the teaching
 in Library Science in Brazil. However, they are within the works
 published by black people who are librarians, such as the volumes of the
-book \"Bibliotecári\@s Negr\@s\" and the book \"O Negro na Biblioteca\",
+book "Bibliotecári\@s Negr\@s" and the book "O Negro na Biblioteca",
 the first ICB books related to the ethnic-racial issue.
 
 In the spectrum of scientific production, one sees white people as the
@@ -1048,7 +1052,7 @@ their discourses within the academic spaces, so that they can continue
 promoting a technicist librarianship, pseudo-neutral and propagator of a
 supposed racial supremacy.
 
-**VT: In your understanding, how is the library a \"power space\" for
+**VT: In your understanding, how is the library a "power space" for
 the propagation of one racial group over another?**
 
 FS: Imagine that there is a whole perspective on highlighting from
@@ -1070,7 +1074,7 @@ performance is political. When I choose for a certain space a discourse
 that invisibilizes the other, I take a political attitude. It can be
 anti-racist, decolonial, political, or it can serve the molds of
 capitalism, the hegemonic discourse of doing science, a literature that
-promotes \"a single history\", as Chimammanda Adichie says, and that
+promotes "a single history", as Chimammanda Adichie says, and that
 considers only white men as classics, while women are barely read, and
 black women are not even known.
 
@@ -1113,7 +1117,7 @@ repeated and so you see how many librarians are conservative people.
 
 **VT: In your chapters you explain about the models of LIS, and the fact
 that the model used in Brazil is a technicist model, where libraries are
-taken \"as places of practicality, efficiency and services\", and they
+taken "as places of practicality, efficiency and services", and they
 see themselves as impartial. What is your idea behind epistemic
 disobedience and** *Critical Antiracist and Decolonial Librarianship***?**
 
@@ -1210,11 +1214,13 @@ contributions from Colombia and Brazil.
 Valentina Gonçalves de Toledo is a Brazilian Library and Information
 Science student in the Humboldt-University Berlin.
 
-## \"O racismo é uma problemática branca, por que somente pessoas negras são aquelas que deveriam abordá-lo em sua prática docente e profissional?"
+## "O racismo é uma problemática branca, por que somente pessoas negras são aquelas que deveriam abordá-lo em sua prática docente e profissional?"
 
-### Bibliotecária Franciéle Garcês conta sobre a influência da branquitude no campo biblioteconômico-informacional e a perpetuação do racismo na biblioteconomia e ciência da informação. {.unlisted}
+### Bibliotecária Franciéle Garcês conta sobre a influência da branquitude no campo biblioteconômico-informacional e a perpetuação do racismo na biblioteconomia e ciência da informação
 
-![](img/img2.PNG)
+<div align="center">
+![](img/img2.png)
+</div>
 
 **Valentina de Toledo (VT): Obrigada pelo seu tempo e pela
 disponibilidade em responder nossas perguntas. A biblioteca é um lugar
@@ -1368,7 +1374,7 @@ sofrem.
 Outro fator é a negação de direitos. Por que as pessoas negras hoje
 estão no maior grau de desigualdade e vulnerabilidades sociais,
 econômicas e educacionais? Por que após a abolição da escravatura,
-pessoas negras - além das sequelas do processo de escravidão -, tiveram
+pessoas negras -- além das sequelas do processo de escravidão --, tiveram
 a negação de direitos (sejam eles bens materiais, imateriais ou
 simbólicos) pelo Estado promovida pela falta de ações e de políticas
 públicas para que se desenvolvessem e ascendessem socialmente,
@@ -1384,7 +1390,7 @@ possível fazer uma denúncia contra esse tipo de racismo.
 
 FS: As pessoas brancas perpetuam o racismo através de percepções e das
 suas ações. Isso não quer dizer que pessoas negras não possam
-reproduzir - e essa é a palavra correta -, reproduzir o racismo, porque
+reproduzir -- e essa é a palavra correta --, reproduzir o racismo, porque
 dentro de uma sociedade racista elas aprendem aquilo e reproduzem. Se
 não tiverem informação correta e não dialogarem para entender como se
 dão as relações raciais na nossa sociedade, seguirão reproduzindo o
@@ -1532,7 +1538,7 @@ Pesquisa em Ciência da Informação), mas os estudos críticos da
 branquitude já vêm desde os anos 2000. A bibliotecária e pesquisadora
 afro-canadense Jody Warner foi a primeira a abordar o tema, a seguir a
 professora e bibliotecária Isabel Espinal, sobre a qual inclusive
-Dirnéle Garcez e eu escrevemos no livro "Bibliotecári\@s Negr\@s - v. 3"
+Dirnéle Garcez e eu escrevemos no livro "Bibliotecári\@s Negr\@s -- v. 3"
 (<https://www.nyota.com.br/livros>), especificamente sobre o que Espinhal reconhece e entende como
 branquitude no campo biblioteconômico-informacional.
 
@@ -1852,23 +1858,16 @@ Biblioteconomia e Ciência da Informação na Humboldt-University Berlin.
 [^14]: Franciéle Carneiro Garcês da Silva, Graziela dos Santos Lima
     (Hrsg.): Bibliotecári\@s Negr\@s: ação, pesquisa e atuação política.
     Florianópolis, SC: Associação Catarinense de Bibliotecários, 2018.
-
-    bzw.
-
-    Franciéle Carneiro Garcês da Silva, Dirnéle Carneiro Garcês: SABEL
-    ESPINAL E SUAS
-
-    CONTRIBUIÇÕES PARA BIBLIOTECONOMIA E CIÊNCIA DA INFORMAÇÃO (BCI).
-    In:
-
-    Franciéle Carneiro Garcês da Silva; Nathália Lima Romeiro (Hrsg.): O
+    beziehungsweise Franciéle Carneiro Garcês da Silva, Dirnéle Carneiro Garcês: SABEL
+    ESPINAL E SUAS CONTRIBUIÇÕES PARA BIBLIOTECONOMIA E CIÊNCIA DA INFORMAÇÃO (BCI).
+    In: Franciéle Carneiro Garcês da Silva; Nathália Lima Romeiro (Hrsg.): O
     protagonismo da mulher na biblioteconomia e ciência da informação:
     celebrando a contribuição intelectual e profissional de mulheres
     latinoamericanas. Florianópolis, SC: Rocha Gráfica e Editora, 2020.
-    (Selo Nyota) S.130--151 (Anmerkung der Redaktion)
+    (Selo Nyota) S. 130--151 (Anmerkung der Redaktion)
 
 [^15]: We provide this translation because we want it to be open to
-    people who do not speak Portuguese or - as our other translation --
+    people who do not speak Portuguese or -- as our other translation --
     German. Nevertheless, we are neither professionals in decolonial and
     / or critical concepts nor in translating into English. Please keep
     in mind that this is a labor of novices who want to open a

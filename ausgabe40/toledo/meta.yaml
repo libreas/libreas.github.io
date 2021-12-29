@@ -5,7 +5,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title><Rassismus ist ein weißes Thema, warum sollten sich nur Schwarze in ihrer Lehre und Berufspraxis damit befassen?> Die Bibliothekarin Franciéle Garcês berichtet über den Einfluss des Weißseins im Feld der Bibliotheks- und Informationswissenschaft und die Fortdauer des Rassismus im Bibliothekswesen und in der Informationswissenschaft. - LIBREAS. Library Ideas</title>
+	<title><q>Rassismus ist ein weißes Thema, warum sollten sich nur Schwarze in ihrer Lehre und Berufspraxis damit befassen?</q> - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
 
@@ -13,7 +13,7 @@
 
  <!-- RDFa Metadata (in DublinCore) -->
     
-    <meta property="dc:title" content="&lt;Rassismus ist ein weißes Thema, warum sollten sich nur Schwarze in ihrer Lehre und Berufspraxis damit befassen?&gt; Die Bibliothekarin Franciéle Garcês berichtet über den Einfluss des Weißseins im Feld der Bibliotheks- und Informationswissenschaft und die Fortdauer des Rassismus im Bibliothekswesen und in der Informationswissenschaft." />
+    <meta property="dc:title" content="&lt;q&gt;Rassismus ist ein weißes Thema, warum sollten sich nur Schwarze in ihrer Lehre und Berufspraxis damit befassen?&lt;/q&gt;" />
     
     
     
@@ -144,7 +144,9 @@
         
 
         
-        <h1 itemprop="name" class="title"><Rassismus ist ein weißes Thema, warum sollten sich nur Schwarze in ihrer Lehre und Berufspraxis damit befassen?> Die Bibliothekarin Franciéle Garcês berichtet über den Einfluss des Weißseins im Feld der Bibliotheks- und Informationswissenschaft und die Fortdauer des Rassismus im Bibliothekswesen und in der Informationswissenschaft.</h1>
+        <h1 itemprop="name" class="title"><q>Rassismus ist ein weißes Thema, warum sollten sich nur Schwarze in ihrer Lehre und Berufspraxis damit befassen?</q></h1>
+        
+        <h2><small>Die Bibliothekarin Franciéle Garcês berichtet über den Einfluss des Weißseins im Feld der Bibliotheks- und Informationswissenschaft und die Fortdauer des Rassismus im Bibliothekswesen und in der Informationswissenschaft</small></h2>
         
         
 
@@ -195,8 +197,8 @@
             Franciéle Garcês,
             
             
-             
-            "<Rassismus ist ein weißes Thema, warum sollten sich nur Schwarze in ihrer Lehre und Berufspraxis damit befassen?> Die Bibliothekarin Franciéle Garcês berichtet über den Einfluss des Weißseins im Feld der Bibliotheks- und Informationswissenschaft und die Fortdauer des Rassismus im Bibliothekswesen und in der Informationswissenschaft.".
+            
+            "<q>Rassismus ist ein weißes Thema, warum sollten sich nur Schwarze in ihrer Lehre und Berufspraxis damit befassen?</q>. Die Bibliothekarin Franciéle Garcês berichtet über den Einfluss des Weißseins im Feld der Bibliotheks- und Informationswissenschaft und die Fortdauer des Rassismus im Bibliothekswesen und in der Informationswissenschaft".
             
             <i itemprop="provider">LIBREAS. Library Ideas</i>, 40 (<span itemprop="datePublished">2021</span>). <a itemprop="url" href="https://libreas.eu/ausgabe40/toledo/meta.yaml">https://libreas.eu/ausgabe40/toledo/meta.yaml</a>
         </small>
@@ -230,7 +232,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2021-12-28</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2021-12-29</a>)</p>
 
 </footer>
       </div>

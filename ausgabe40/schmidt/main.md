@@ -13,7 +13,7 @@ DOI: [10.5281/zenodo.4011295](https://doi.org/10.5281/zenodo.4011295)
 
 Dieser Artikel fasst die Ergebnisse meines Dissertationsprojekts
 zusammen, und ähnelt stark der Zusammenfassung in schwedischer Sprache,
-die in der Dissertation enthalten ist [siehe @Schmidt2020]. Das
+die in der Dissertation enthalten ist (siehe Schmidt 2020). Das
 empirische Fundament des Projekts besteht aus vielen einzelnen Studien,
 die selbst auf Forschungsdaten aus verschiedenen Quellen basieren.
 Anstatt diese Studien zusammenzufassen, werde ich im Folgenden die
@@ -655,5 +655,5 @@ Bibliothekarïnnen wissenschaftlicher Bibliotheken" bereit:
 
 ### Literatur
 
-Schmidt, N. (2. September 2020). *The privilege to select. global research system, european academic library collections, and decolonisation*. 
+Schmidt, Nora (2020). *The privilege to select. global research system, european academic library collections, and decolonisation*. 
 PhD Thesis. Lund: Lund University, Faculties of Humanities and Theology, Lund Studies in Arts and Cultural Sciences. DOI: [10.5281/zenodo.4011295](https://doi.org/10.5281/zenodo.4011295)
