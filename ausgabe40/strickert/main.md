@@ -400,11 +400,11 @@ für eine größere Zugänglichkeit darstellt.
 
 Adler, Melissa (2016): The Case for Taxonomic Reparations. In:
 *Knowledge Organization* 43 (8), S. 630--640.
-<doi.org/10.5771/0943-7444-2016-8-630>
+<https://doi.org/10.5771/0943-7444-2016-8-630>
 
 Adler, Melissa (2017a): Classification Along the Color Line: Excavating
 Racism in the Stacks. In: *JournalCritLIS* 1 (1).
-<https://doi.org/10.24242/jclis.v1i1.17>
+<https://doi.org/10.24242/jclis.v1i1.17> (Alternativ: <https://journals.litwinbooks.com/index.php/jclis/article/view/17>)
 
 Adler, Melissa (2017b): Cruising the Library. Perversities in the
 Organization of Knowledge. New York City: Fordham University Press.

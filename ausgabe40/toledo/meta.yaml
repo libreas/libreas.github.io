@@ -1,7 +1,7 @@
 
 <!DOCTYPE HTML>
 
-<html lang="de,en,pt">
+<html lang="de">
 
 <head>
 	<meta charset="utf-8">
@@ -34,7 +34,7 @@
     <meta property="dc:source" content="LIBREAS. Library Ideas" />
     <meta property="dc:subject" content="Library and Information Science" />
     <meta property="dc:type" content="website" />
-    <meta property="dc:description" content=""/>
+    <meta property="dc:description" content="Die Bibliothekarin Franciéle Garcês berichtet über den Einfluss des Weißseins im Feld der Bibliotheks- und Informationswissenschaft und die Fortdauer des Rassismus im Bibliothekswesen und in der Informationswissenschaft."/>
     <meta property="dc:source" resource="urn:ISSN:1860-7950" /> 
 
 <!-- Google Scholar -->
@@ -83,7 +83,7 @@
 
   <nav class="sidebar-nav">
 
-    	<a class="sidebar-nav-item" href="/ausgabe39/">Aktuelle Ausgabe</a>
+    	<a class="sidebar-nav-item" href="/ausgabe40/">Aktuelle Ausgabe</a>
 	<a class="sidebar-nav-item" href="/archiv.htm">Archiv</a>
 	<a class="sidebar-nav-item" href="http://edoc.hu-berlin.de/browsing/libreas/">edoc pdf-Archiv</a>
 	<a class="sidebar-nav-item" href="/autorinnen">AutorInnen</a>
@@ -126,8 +126,9 @@
 
 <div align="right">
 
-<strong> > > > <a href="inhalt.htm">LIBREAS. Library Ideas # 40</a></strong> <br><br>
+<strong> > > > <a href="/ausgabe40/inhalt/">LIBREAS. Library Ideas # 40</a></strong> <br><br>
 </div>
+
 
 
 
@@ -137,16 +138,17 @@
     
     <div align="right">
     <p><small><a itemprop="sameAs" href="https://via.hypothes.is/https://libreas.eu/ausgabe40/toledo/meta.yaml">Annotate via hypothes.is</a></small></p>
-        <small><a itemprop="sameAs" href="main.pdf">Download PDF</a></small>
+        <small><a itemprop="sameAs" href="https://doi.org/10.18452/23800">Download PDF</a></small>
         </div>
     
     
+    <div align="right">
+        <small><a itemprop="sameAs" href="https://doi.org/10.18452/23800">doi:10.18452/23800</a> (edoc HU Berlin)</small>
+        </div>
         
 
         
         <h1 itemprop="name" class="title"><q>Rassismus ist ein weißes Thema, warum sollten sich nur Schwarze in ihrer Lehre und Berufspraxis damit befassen?</q></h1>
-        
-        <h2><small>Die Bibliothekarin Franciéle Garcês berichtet über den Einfluss des Weißseins im Feld der Bibliotheks- und Informationswissenschaft und die Fortdauer des Rassismus im Bibliothekswesen und in der Informationswissenschaft</small></h2>
         
         
 
@@ -178,6 +180,16 @@
 
         
 
+        <p><small itemprop="description">Die Bibliothekarin Franciéle Garcês berichtet über den Einfluss des Weißseins im Feld der Bibliotheks- und Informationswissenschaft und die Fortdauer des Rassismus im Bibliothekswesen und in der Informationswissenschaft.</small></p>
+
+        
+
+        
+
+        <br>
+
+        <p><small itemprop="description">Librarian Franciéle Garcês tells about the influence of whiteness in the librarianship-information science field and the perpetuation of racism in librarianship and information science.</small></p>
+
         
 
 
@@ -197,8 +209,8 @@
             Franciéle Garcês,
             
             
-            
-            "<q>Rassismus ist ein weißes Thema, warum sollten sich nur Schwarze in ihrer Lehre und Berufspraxis damit befassen?</q>. Die Bibliothekarin Franciéle Garcês berichtet über den Einfluss des Weißseins im Feld der Bibliotheks- und Informationswissenschaft und die Fortdauer des Rassismus im Bibliothekswesen und in der Informationswissenschaft".
+             
+            "<q>Rassismus ist ein weißes Thema, warum sollten sich nur Schwarze in ihrer Lehre und Berufspraxis damit befassen?</q>".
             
             <i itemprop="provider">LIBREAS. Library Ideas</i>, 40 (<span itemprop="datePublished">2021</span>). <a itemprop="url" href="https://libreas.eu/ausgabe40/toledo/meta.yaml">https://libreas.eu/ausgabe40/toledo/meta.yaml</a>
         </small>
@@ -232,7 +244,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2021-12-29</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2021-12-30</a>)</p>
 
 </footer>
       </div>

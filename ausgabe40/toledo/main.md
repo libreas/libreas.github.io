@@ -647,7 +647,7 @@ Berlin.
 
 ## "Racism is a white issue, why are only black people the ones who should address it in their teaching and professional practice?"[^15]
 
-### Librarian Franciéle Garcês tells about the influence of whiteness in the librarianship-information science field and the perpetuation of racism in librarianship and information science
+Librarian Franciéle Garcês tells about the influence of whiteness in the librarianship-information science field and the perpetuation of racism in librarianship and information science.
 
 <div align="center">
 ![](img/img1.png)
@@ -1216,7 +1216,7 @@ Science student in the Humboldt-University Berlin.
 
 ## "O racismo é uma problemática branca, por que somente pessoas negras são aquelas que deveriam abordá-lo em sua prática docente e profissional?"
 
-### Bibliotecária Franciéle Garcês conta sobre a influência da branquitude no campo biblioteconômico-informacional e a perpetuação do racismo na biblioteconomia e ciência da informação
+Bibliotecária Franciéle Garcês conta sobre a influência da branquitude no campo biblioteconômico-informacional e a perpetuação do racismo na biblioteconomia e ciência da informação.
 
 <div align="center">
 ![](img/img2.png)

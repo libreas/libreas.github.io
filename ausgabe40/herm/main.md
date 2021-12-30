@@ -8,7 +8,7 @@ Othman, Ulla Wimmer und Michaela Scheibe.[^1]
 ### 1. Einleitung: Postkolonialität -- nicht nur ein Thema für Museen?
 
 Spätestens seit der Debatte um das Berliner Humboldt-Forum und der
-Veröffentlichung des Berichts *Zurückgeben. Über die Restitution afrikanischer Kulturgüter Ende des Jahres 2018* 
+Veröffentlichung des Berichts *Zurückgeben. Über die Restitution afrikanischer Kulturgüter* Ende des Jahres 2018 
 von Felwine Sarr und
 Bénédicte Savoy[^2] steht die Frage nach dem Umgang mit dem kolonialen
 Erbe für Museen prominent auf der Agenda. Bereits davor fanden Tagungen
@@ -16,7 +16,7 @@ zum Erfahrungsaustausch und zu einzelnen Aspekten wie der
 differenzierten Definition der "Sensibilität" von Objekten in musealen
 Sammlungen und den praktischen Herausforderungen der Erfassung von
 kolonialer Provenienz statt.[^3] Der Deutsche Museumsbund (DMB)
-erstellte einen Leitfaden zum Umgang, der nun in dritter Fassung
+erstellte einen Leitfaden zum Umgang mit Sammlungsgut aus kolonialen Kontexten, der nun in dritter Fassung
 vorliegt,[^4] das Deutsche Zentrum Kulturgutverluste (DZK) richtete ein
 neues Handlungsfeld zur Kolonialprovenienz in seinen Rängen ein und
 legte ein neues eigenes Förderprogramm auf[^5] und die Kulturstiftung
@@ -26,8 +26,7 @@ internationale beziehungsweise transkulturelle Kooperationen
 angestoßen.[^7] Und: Es wurde auch -- bislang vereinzelt --
 restituiert.[^8]
 
-Auch wenn bislang die Dekolonisierung von musealen Objektsammlungen (wie -- perspektivisch -- jüngst die Dekoloniale-Veranstaltungen am 25. und 26.
-Juni 2021 in Berlin[^9]) die Aufmerksamkeit weitgehend auf sich zieht,
+Auch wenn bislang die Dekolonisierung von musealen Objektsammlungen (wie -- perspektivisch -- jüngst die Dekoloniale-Veranstaltungen im Sommer und Herbst 2021 in Berlin[^9]) die Aufmerksamkeit weitgehend auf sich zieht,
 geht das Thema des Umgangs mit der kolonialen Vergangenheit und den
 Auswirkungen des europäischen/deutschen Kolonialismus bis in die
 Gegenwart nicht nur Museen an, sondern wirft auch Fragen für
@@ -36,8 +35,8 @@ dies Orte, an denen Wissen und Material -- auch aus kolonialen Kontexten
 -- gesammelt und aufbewahrt werden. Wie sieht es also im Bereich der
 Bibliotheks-, Informations- und Dokumentationseinrichtungen aus --
 inwiefern stellen sich dort postkoloniale, also durch die Kolonisierung
-und deren Nachwirkungen verursachte, begründete, Fragen beziehungsweise
-inwiefern könnte Postkolonialität und
+und deren Nachwirkungen begründete Fragen beziehungsweise
+inwiefern könnten Postkolonialität und
 Dekolonialität/Dekolonisierung[^10] dort ein Thema sein? Was bedeuten
 diese Begriffe bezogen auf die systemische Rolle und die konkrete Praxis
 von Bibliotheken und Informationseinrichtungen? Der vorliegende Beitrag
@@ -116,7 +115,7 @@ als einen der wesentlichen Verknüpfungspunkte von Kultur und
 Imperialismus bezeichnete. Erzählungen und Sichtweisen haben also
 normative Wirkung, wirken kulturell und damit auch gesellschaftlich
 (fort). In kolonialen Diskursen wird durch verschiedene
-Repräsentationspraktiken eine Form rassizifizierten Wissens über
+Repräsentationspraktiken eine Form rassifizierten Wissens über
 nicht-europäische 'Andere' produziert, von denen sich das 'Wir' der
 Europäer abgrenzt und dadurch seine Identität konstituiert. Dabei
 implizieren diese Diskurse und Praktiken den Anspruch, eine gleichsam
@@ -139,7 +138,7 @@ Objekt bestimmten Haltung.[^21]
 In kolonialen Diskursen werden also in einer binären Opposition sowohl
 Identitätszuschreibungen der Kolonisierten als auch der Kolonisierenden
 transportiert. Das europäische Weiße Selbst konstituiert sich im Spiegel
-eines rassifiziert essentialisieren Anderen. Während der "Orientalismus"
+eines rassifiziert essentialisierten Anderen. Während der "Orientalismus"
 das 'Andere'/die 'Anderen' studierte und später in der
 wissenschaftlichen Bearbeitung durch die Black Studies vor allem in den
 USA in den 1960er und 1970er Jahren die Wirkung von Rassismen auf
@@ -177,7 +176,7 @@ Unterprivilegierten, sind.
 
 Im Rahmen einer postkolonial kritischen Analyse lassen sich nun die
 verschiedenen Ebenen bibliothekarischer Funktionen und Funktionsweisen
-in den Blick nehmen, und zwar unter der Fragestellung *was* wird *wie*
+in den Blick nehmen -- und zwar unter der Fragestellung: *Was* wird *wie*
 dargestellt?
 
 #### 4.1 Die Ebene der Bestandsauswahl
@@ -248,12 +247,12 @@ autoritären Hierarchisierung und mittels Assoziationen in Gegensätzen,
 Synonymen oder Unterkategorien potenziell auch eine reduktionistische
 und exkludierende Wirkung.[^33] Laut Melissa Adler führt die
 Universalität bibliothekarischer Wissensorganisationssysteme zu gewissen
-"Blindheiten". Sie bemerkt in ihrem 2017 erschienenen Werk *Cruising the Library -- Perversities in the Organization of Knowledge*:
+"Blindheiten". Sie bemerkt in ihrem 2017 erschienenen Werk *Cruising the Library. Perversities in the Organization of Knowledge*:
 
 > "The organization of unified subjects around a heteropatriarchal universality that assumes whiteness inhibits analysis that interweaves sexualities with racial and ethnic dimensions."[^34]
 
 In eine ähnliche Richtung kritisiert Karin Aleksander in dem Artikel
-*"Die Frau im Bibliothekskatalog"* im Hinblick auf die Vergabe von
+*Die Frau im Bibliothekskatalog* im Hinblick auf die Vergabe von
 Schlagworten, dass stereotypische Geschlechterrollenmodelle die
 unbewusste Basis für die Ansetzungen bilden.[^35] Nach ihrer Bewertung
 ist
@@ -272,7 +271,7 @@ Aleksander in Bezug auf die Kategorie Gender konstatiert, lässt sich bei
 einer postkolonial kritischen Bibliothekskatalog-Lesart auch auf
 Kategorien wie "Rasse" oder Hautfarbe übertragen. In dem Dreischritt
 Erkennen -- Benennen -- Verändern auf dem Weg zu einer weniger
-diskriminierenden Wissensordnung ist sie nur die erste Etappe.
+diskriminierenden oder gar diskriminierungsfreien Wissensordnung ist sie nur die erste Etappe.
 
 #### 4.3 Bibliothek als Abbild der Wissenschaft
 
@@ -297,7 +296,7 @@ die Bibliothek als Einrichtung die aufklärerischen Ideale von
 Wissenschaft und Wissenschaftlichkeit wider.
 
 Sebastian Conrad und Shalini Randeria beschreiben in ihrem Buch
-*Jenseits des Eurozentrismus: Postkoloniale Perspektiven in den Geschichts- und Kulturwissenschaften* 
+*Jenseits des Eurozentrismus. Postkoloniale Perspektiven in den Geschichts- und Kulturwissenschaften* 
 die Rolle und Wirkung des modernen
 Wissens im kolonialen Projekt dahingehend, dass es
 
@@ -355,7 +354,7 @@ Materialien befindet, ist nicht auszuschließen, dass auch Artefakte aus
 kolonialen Kontexten darunter sind. Diese unklare, noch unerforschte
 Situation dürfte auch für andere Häuser und Sammlungen gelten.
 
-Der bereits erwähnte Savoy/Sarr-Bericht nennt ebenfalls Bibliotheken als
+Der bereits erwähnte Sarr/Savoy-Bericht nennt ebenfalls Bibliotheken als
 Lagerorte für schriftliche Artefakte aus kolonialen Kontexten.[^47] So
 fanden sich beispielsweise wertvolle Handschriften, die Frankreich
 während seiner Kolonialherrschaft in Mali geraubt hatte, in der
@@ -383,8 +382,7 @@ Auch im Zuge des 2004 von der British Library ins Leben gerufenen
 *Endangered Archives Programme* (EAP), das die Bewahrung bedrohten
 schriftlichen Kulturguts durch Digitalisierung und
 Open-Access-Veröffentlichung auf dem EAP-Repositorium zum Ziel hat,[^51]
-sollen laut informierten Kreisen[^52] historische Originale abhanden
-gekommen sein. Die Manuskripte waren für die Nutzung in Projekten im
+sollen laut informierten Kreisen[^52] historische Originale abhandengekommen sein. Die Manuskripte waren für die Nutzung in Projekten im
 Rahmen des Programms nach London verschickt worden, um dort von
 Expert\*innen bearbeitet zu werden. Aufgrund von 'verschwundenen'
 Originalen und den daraus resultierenden Verwerfungen und dem
@@ -432,7 +430,7 @@ abgeschlossene "Digitale Sammlung Deutscher Kolonialismus" (DSDK). Das
 Vorhaben umfasste die Digitalisierung und elektronische Erschließung von
 über 1.000 Quellen zur deutschen Kolonialgeschichte aus Beständen der
 Staats- und Universitätsbibliothek (SuUB) Bremen und der
-Universitätsbibliothek (UB) Frankfurt. Die Quellen sind jetzt als
+Universitätsbibliothek (UB) Frankfurt am Main. Die Quellen sind jetzt als
 Volltexte im Open Access verfügbar und aufgrund einer Kooperation mit
 der Berlin-Brandenburgischen Akademie der Wissenschaften (BBAW) zudem in
 die virtuelle Forschungsinfrastruktur CLARIN-D integriert.[^59] Die
@@ -453,44 +451,46 @@ ist, aber doch mit Dokumenten aus einer Universitätsbibliothek arbeitet,
 kann das neuzeitliche Geschichtsseminar "Kiel, Kamerun und zurück: Ein
 Projekt zur Digitalisierung kolonialer Reiseberichte" gelten, das im
 Sommersemester 2019 an der Christian-Albrechts-Universität stattfand und
-sich mit Quellen aus der UB Kiel auseinandersetzte .[^63]
+sich mit Quellen aus der UB Kiel auseinandersetzte.[^63]
+
+Ein ambitioniertes groß angelegtes Projekt ist Ende 2021 mit einem Prototypen mit Material von 25 Pilotpartnereinrichtungen an den Start gegangen: Das an der Deutschen Digitalen Bibliothek unter der Domain <https://ccc.deutsche-digitale-bibliothek.de/>angesiedelte Onlineportal "Sammlungsgut aus kolonialen Kontexten" soll künftig zu einer umfassenden zentralen Veröffentlichungsplattform für Informationen über Sammlungsgut -- darunter auch Textdokumente -- aus kolonialen Kontexten in deutschen Kultur- und Wissenseinrichtungen ausgebaut werden.[^64]
 
 #### 5.3 BID-Praxis: Gremien zu kolonialer Provenienzforschung und Fragestellungen für die bibliothekarische Praxis
 
 Ähnlich wie in Museen ist das Thema Provenienzforschung auch für
 Bibliothekar\*innen schon seit geraumer Zeit relevant. So stand beim
-ersten von dem Arbeitskreis *Provenienzforschung e.V.* -- hauptsächlich
+ersten von dem Arbeitskreis *Provenienzforschung e.&#8239;V.* -- hauptsächlich
 eine Interessenvertretung der Provenienzforscher\*innen in den Museen --
 organisierten "Tag der Provenienzforschung" am 10. April 2019 auch das
-Thema koloniale Kontexte auf der Tagesordnung.[^64] Beim Deutschen
+Thema koloniale Kontexte auf der Tagesordnung.[^65] Beim Deutschen
 Bibliotheksverband (dbv) ist die Kommission *Provenienzforschung und Provenienzerschließung* 
 Ansprechpartnerin für alle Fragen rund um die
 Herkunft von Bibliotheksbeständen -- bislang vornehmlich für den Kontext
 NS-Raubgut, darüber hinaus auch für kriegsbedingt verlagerten
 Kulturgüter (Beutegut) und Kulturgutverluste während der sowjetischen
 Besatzung und in der DDR (zum Beispiel durch die Bodenreform). Sie
-vertritt diesbezügliche bibliothekarische Belange nach außen.[^65]
+vertritt diesbezügliche bibliothekarische Belange nach außen.[^66]
 Außerdem fungiert die Kommission als Geschäftsstelle des Arbeitskreises
 *Provenienzforschung und Restitution -- Bibliotheken* (APR-Bib).
 Letzterer, ein Zusammenschluss von im bibliothekarischen Bereich tätigen
 Provenienzforscher\*innen, trifft sich regelmäßig zum
 Erfahrungsaustausch und erarbeitet Vorschläge für die Umsetzung
 bibliothekarischer Anliegen im Zusammenhang mit der Recherche nach
-NS-Raubgut.[^66] Das Themenfeld Koloniale Provenienz ist relativ neu auf
+NS-Raubgut.[^67] Das Themenfeld Koloniale Provenienz ist relativ neu auf
 der Agenda des dbv.
 
 Ein Positionspapier zum Umgang mit Kulturgut aus kolonialen Kontexten in
 Bibliotheken, das dem *Leitfaden Professionell Arbeiten im Museum* des
-Deutschen Museumsbundes,[^67] in welchem unter anderem die
-Provenienzforschung im Bezug auf koloniale Bestände geregelt wird,
+Deutschen Museumsbundes,[^68] in welchem unter anderem die
+Provenienzforschung in Bezug auf koloniale Bestände geregelt wird,
 vergleichbar ist, gibt es bislang nicht. Ein innerverbandlicher Prozess
-seitens des dbv ist jedoch bereits im Gang.[^68] Zur Beantragung der
+seitens des dbv ist jedoch bereits im Gang.[^69] Zur Beantragung der
 Fördermittel, die das DZK nach seinen neuen Förderrichtlinien seit
 Januar 2019 erstmals für Projekte zur Verfügung stellt, die sich der
 Aufarbeitung von Provenienzen von Kulturgut aus kolonialen Kontexten
 widmen, sind neben Museen auch Bibliotheken und Archive in Deutschland
-berechtigt.[^69] Projekte zu Kulturgut aus kolonialen Kontexten in
-Bibliotheken gibt es momentan noch nicht,[^70] aber es ist anzunehmen,
+berechtigt.[^70] Projekte zu Kulturgut aus kolonialen Kontexten in
+Bibliotheken gibt es momentan noch nicht,[^71] aber es ist anzunehmen,
 dass in absehbarer Zukunft Förderanträge gestellt, bearbeitet und
 entsprechende Mittel bewilligt werden, so dass es nur eine Frage der
 Zeit ist, bis auch bibliothekarische Provenzienforschungsprojekte
@@ -502,7 +502,7 @@ Bibliothekskatalogen und sonstigen -datenbanken festzuhalten. Laut
 Michaela Scheibe, der Vorsitzenden der dbv-Kommission
 Provenienzforschung, 
 
-> "\[erlaubt\] die etablierte Form der Provenienzverzeichnung für Buchbestände auch die Verzeichnung der Exemplargeschichte bei kolonialen Kontexten (sowohl in den Katalogdatenbanken als auch im von ihr federführend unterhaltenen ProvenienzWiki). Damit ist der jeweilige Einzelfall abgedeckt, ohne dass eine pauschalisierte Zuordnung zum kolonialen Kontext erfolgt. Was derzeit noch diskutiert werden muss, ist die Aufnahme eines entsprechenden Deskriptors in den Thesaurus der Provenienzbegriffe -- T-PRO (analog zu NS-Raubgut, Enteignung, Bodenreform...). In diesem Zusammenhang muss auch definiert werden, was unter diesen Begriff im Rahmen der Bibliotheksbestände fallen soll."[^71]
+> "\[erlaubt\] die etablierte Form der Provenienzverzeichnung für Buchbestände auch die Verzeichnung der Exemplargeschichte bei kolonialen Kontexten (sowohl in den Katalogdatenbanken als auch im von ihr federführend unterhaltenen ProvenienzWiki). Damit ist der jeweilige Einzelfall abgedeckt, ohne dass eine pauschalisierte Zuordnung zum kolonialen Kontext erfolgt. Was derzeit noch diskutiert werden muss, ist die Aufnahme eines entsprechenden Deskriptors in den Thesaurus der Provenienzbegriffe -- T-PRO (analog zu NS-Raubgut, Enteignung, Bodenreform...). In diesem Zusammenhang muss auch definiert werden, was unter diesen Begriff im Rahmen der Bibliotheksbestände fallen soll."[^72]
 
 #### 5.4 BID-Theorie: Veröffentlichungen zu postkolonialen Themen im LIS-Bereich
 
@@ -513,9 +513,9 @@ Informationswissenschaft. Die Suche nach deutschsprachigen
 LIS-Publikationen mit einem postkolonial kritischen Ansatz bestätigt den
 Befund einer bislang eher geringen Auseinandersetzung mit dem
 Themenfeld. Dies betrifft den Bereich der Monographien, aber auch eine
-diesbezügliche Recherche in Fachzeitschriften[^72] liefert kaum
+diesbezügliche Recherche in Fachzeitschriften[^73] liefert kaum
 nennenswerte Treffer. Erwähnenswert ist für den deutschsprachigen
-Bereich insbesondere der Sammelband *Koloniale Spuren in den Archiven der Leibniz-Gemeinschaft*,[^73] 
+Bereich insbesondere der Sammelband *Koloniale Spuren in den Archiven der Leibniz-Gemeinschaft*,[^74] 
 in dem Archivmitarbeiter\*innen markante
 Beispiele an Schrift- und Bildquellen aus ihren Beständen aus kolonialen
 Kontexten oder mit kolonialen Bezügen vorstellen.
@@ -524,29 +524,28 @@ Ebenso werden die englischsprachigen Titel hierzulande lediglich
 punktuell rezipiert. Am ehesten werden Bücher vom US-amerikanischen
 Verlag Library Juice Press, der seinen Schwerpunkt auf kritische Werke
 in Bibliotheks- und Informationswissenschaft gelegt hat, in Deutschland
-von der Zeitschrift LIBREAS. Library Ideas rezensiert.[^74] Dabei ist
+von der Zeitschrift LIBREAS. Library Ideas rezensiert.[^75] Dabei ist
 auch die Anzahl der englischsprachigen Veröffentlichungen überschaubar:
 In der Reihe *Series on Critical Race Studies and Multiculturalism in LIS* 
 von Library Juice Press sind aktuell vier Titel erschienen, drei
-weitere sind in Vorbereitung.[^75] Vom in der Serie publizierten Buch
-*Teaching for Justice -- Implementing Social Justice in the LIS Classroom*[^76] 
+weitere sind in Vorbereitung.[^76] Vom in der Serie publizierten Buch
+*Teaching for Justice -- Implementing Social Justice in the LIS Classroom*[^77] 
 existieren derzeit (Stand 21.12.2021) laut dem
 Karlsruher Virtuellen Katalog (KVK) ein Exemplar in Bibliotheken in
-Deutschland. Das Werk *Topographies of Whiteness -- Mapping Whiteness in Library and Information Science*[^77] 
+Deutschland. Das Werk *Topographies of Whiteness -- Mapping Whiteness in Library and Information Science*[^78] 
 ist gedruckt im Bestand von drei
-Bibliotheken nachgewiesen. Schließlich ist der Titel *Pushing the Margins: Women of Color and Intersectionality in LIS*[^78] 
+Bibliotheken nachgewiesen. Schließlich ist der Titel *Pushing the Margins. Women of Color and Intersectionality in LIS*[^79] 
 laut KVK
 dreimal in deutschen Bibliotheken im Printformat verfügbar. Der Titel
-*Borders and Belonging: Critical Examinations of Library Approachestoward Immigrants*[^79] ist bislang an fünf Einrichtungen verfügbar. Im
-Frühling 2022 soll in der Serie der Band *Everywhere and Nowhere: Understanding Diaspora in the Library*[^80] 
-erscheinen. Ebenfalls im
-laufenden Jahr ist bei MIT Press der im Open Access verfügbare
-Sammelband *Knowledge Justice: Disrupting Library and Information Studies through Critical Race Theory*[^81] 
+*Borders and Belonging. Critical Examinations of Library Approachestoward Immigrants*[^80] ist bislang an fünf Einrichtungen verfügbar. Im
+Frühling 2022 soll in der Serie der Band *Everywhere and Nowhere: Understanding Diaspora in the Library*[^81] 
+erscheinen. Im Jahr 2021 ist bei MIT Press der im Open Access verfügbare
+Sammelband *Knowledge Justice. Disrupting Library and Information Studies through Critical Race Theory*[^82] 
 erschienen, der seine Agenda
 bereits im Titel auf seine Fahnen geschrieben hat. Ebenfalls im Open
 Access verfügbar ist die noch nicht bei einem Verlag erschienene
 englischsprachige MA (LIS)-Dissertation der deutschen Autorin Nora
-Schmidt mit dem Titel *The privilege to select: global research system, European academic library collections, and decolonisation*.[^82]
+Schmidt mit dem Titel *The privilege to select. global research system, European academic library collections, and decolonisation*.[^83]
 
 Auch wenn man sich die Curricula von LIS-Studiengängen in Deutschland
 anschaut, gelangt man zu der Feststellung: Die Vermittlung einer
@@ -598,10 +597,10 @@ Deutungshoheit und Definitionsmacht wider.
 
 Gleichzeitig prägen sie in ihrer Funktion als Gedächtnisspeicher in
 einer Wechselwirkung diese gesellschaftlichen Vorstellungen und wirken
-identitätsstiftend[^83] und haben so das Potenzial, sozio-kulturelle
+identitätsstiftend[^84] und haben so das Potenzial, sozio-kulturelle
 Transformationsprozesse mitzusteuern und eine wichtige Rolle bei
 gesellschaftlichen Entwicklungen als "aktive Glieder zwischen
-Vergangenheit und Gegenwart für die Zukunft"[^84] zu spielen.
+Vergangenheit und Gegenwart für die Zukunft"[^85] zu spielen.
 
 ### 7. Ausblick
 
@@ -617,7 +616,7 @@ bewussteren Umgang mit dieser Thematik registrieren.
 Was die Strukturierung und Hierarchisierung von Wissen in
 bibliothekarischen Klassifikationen anbelangt, ist als Alternative zu
 den herkömmlichen hierarchischen, vielfach auf Binarität beruhenden,
-autoritären Standardisierungsformen eine rhizomartige[^85] und
+autoritären Standardisierungsformen eine rhizomartige[^86] und
 partizipative patron-driven Relationierung von Bestandstiteln denkbar.
 Ansätze und auch praktische Modelle hierfür existieren bereits, man
 denke nur an die Stichworte "Bibliothek 2.0" mit ihren "Folksonomies",
@@ -631,38 +630,38 @@ bewusste vermehrte Erwerb von Materialien diverser Autor\*innenschaft.
 So kann, in einem graduellen Prozess, der dominante unbenannte, da von
 der weißen Mehrheitsgesellschaft als "normal" angenommene,
 eurozentristische Blick -- ganz nach der Forderung "Provincialize
-Europe" von Dipesh Chakrabarty[^86] -- mit anderen Positionen und
+Europe" von Dipesh Chakrabarty[^87] -- mit anderen Positionen und
 Blickweisen in Frage gestellt und relativiert werden. Gleichzeitig
 besteht auch im Zuge der Digitalisierung nach wie vor die Gefahr, die
 sich bereits im Bereich des World Wide Web teilweise realisiert hat,
 dass der eurozentrische Blick der große Profiteur von der
 Digitalisierung ist. Insofern eine Re-Kolonisierung anstatt einer
-De-Kolonisierung stattfindet.[^87]
+De-Kolonisierung stattfindet.[^88]
 
 Eine weitere und tiefergehende Vernetzung nicht nur von nicht
 eurozentristischen beziehungsweise postkolonial kritischen Quellen
 innerhalb eines Bestands, sondern auch von Institutionen und ihren
 Beständen und Sammlungen, Repositorien sowie Katalogen in Deutschland
-wäre eine vorstellbare und wünschenswerte Herangehensweise. So wäre ein
+wäre eine vorstellbare und wünschenswerte Herangehensweise.[^89] So wäre ein
 gemeinsamer Verbundkatalog zum deutschen Kolonialismus denkbar,
 vergleichbar mit dem gemeinsamen Internet-Katalog der
-Arbeitsgemeinschaft der Gedenkstättenbibliotheken (AGGB).[^88] Im
+Arbeitsgemeinschaft der Gedenkstättenbibliotheken (AGGB).[^90] Im
 Hinblick auf die Funktion von BID-Einrichtungen als Gedächtnisspeicher
 wäre ein solcher Verbundkatalog ein informationsstruktureller Beitrag
 zur Erinnerungskultur -- gleichsam ein allen im Internet zugängliches
-"virtuelles Denkmal".[^89] Wenn auch nicht sogleich als Grundstein für
+"virtuelles Denkmal".[^91] Wenn auch nicht sogleich als Grundstein für
 einen entsprechenden Verbundkatalog, so weist das vom FID Afrikastudien
 an der Universitätsbibliothek der Goethe-Universität Frankfurt am Main
-bei der DFG beantragte Projekt zum Aufbau eines "Themenportals
-(Deutscher) Kolonialismus"[^90] in genau diese Richtung.
+bei der DFG in der vergangenen Antragsrunde beantragte Projekt zum Aufbau eines "Themenportals
+(Deutscher) Kolonialismus"[^92] in genau diese Richtung. Umso bedauerlicher ist es, dass das Themenportal von der Förderung ausgenommen wurde, das 2020 gegründete Netzwerk Koloniale Kontexte hat sich jedoch die weitere Beschäftigung mit Fragen zur digitalen Zusammenführung von digitalen Materialien und Daten aus kolonialen Kontexten zur Aufgabe gemacht.[^93]
 
 Nicht zuletzt bedürfen solche Transformationsprozesse im deutschen
 BID-Wesen einer kritischen Selbstwahrnehmung der Bibliothekar\*innen und
-sonstigen Entscheidungsträger\*innen.[^91] Es ist meine Überzeugung,
+sonstigen Entscheidungsträger\*innen.[^94] Es ist meine Überzeugung,
 dass sie als Akteur\*innen im Bildungs- und Wissenschaftsbereich eine
 besondere Verantwortung haben, der historischen Verantwortung
-Deutschlands nicht nur an der Shoah, sondern auch an der Maafa[^92]
-gerecht zu werden.
+Deutschlands nicht nur an der Shoah, sondern auch an der Maafa[^95]
+gerecht zu werden.[^96]
 
 In diesem Sinne darf die vorliegende Arbeit als einer der ersten
 Beiträge zu einer "bibliothekarischen Kolonialvergangenheitsbewältigung"
@@ -689,7 +688,7 @@ verstanden werden.
     findet sich unter:
     <https://kolonialismus.blogs.uni-hamburg.de/2017/05/19/tagungsbericht-schwieriges-erbe-koloniale-objekte-postkoloniales-wissen-24-04-2017-linden-museum-stuttgart/>
 
-[^4]: <https://www.museumsbund.de/wp-content/uploads/2021/03/mb-leitfanden-web-210228-02.pdf> (zugegriffen am 15.5.2021).
+[^4]: <https://www.museumsbund.de/wp-content/uploads/2021/03/mb-leitfanden-web-210228-02.pdf>
 
 [^5]: <https://www.kulturgutverluste.de/Webs/DE/Forschungsfoerderung/Projektfoerderung-Bereich-Kulturgut-aus-kolonialem-Kontext/Index.html>
 
@@ -698,15 +697,9 @@ verstanden werden.
 [^7]: Wie zum Beispiel das Projekt "Digital Benin",
     <https://digital-benin.org/>
 
-[^8]: So wurden zum Beispiel im Februar 2019 die Witbooi-Objekte an
-    Namibia restitutiert, siehe
-    <https://www.lindenmuseum.de/sehen/rueckblick/witbooi-objekte>
-    und es wurde die Rückgabe der Säule von Cape Cross an Namibia
-    beschlossen, deren offizieller Vollzug sich jedoch aufgrund der
-    Corona-Pandemie verzögert,
-    <https://www.bundestag.de/presse/hib/845318-845318>
+[^8]: So wurden zum Beispiel im Februar 2019 die "Witbooi-Objekte" an Namibia restituiert, siehe <https://www.lindenmuseum.de/sehen/rueckblick/witbooi-objekte>, und es wurde die Rückgabe der Säule von Cape Cross an Namibia beschlossen, deren offizieller Vollzug sich jedoch aufgrund der Corona-Pandemie verzögert, <https://www.bundestag.de/presse/hib/845318-845318>.
 
-[^9]: <https://www.dekoloniale.de/de>
+[^9]: <https://www.dekoloniale.de/de>; bei der Dekoloniale handelt es sich um ein Projekt, das in den Jahren 2020 bis 2024 ein von zivilgesellschaftlichen Organisationen und Kultureinrichtungen des Landes Berlin getragenes Recherche-, Ausstellungs- und Veranstaltungsprogramm zum Thema Kolonialismus und postkoloniale Gegenwart durchführt; <https://www.kulturstiftung-des-bundes.de/de/projekte/erbe_und_vermittlung/detail/dekoloniale.html>. Die Kulturstiftung des Bundes fördert in diesem Rahmen zum einen eine dekoloniale Kartierung und zum anderen ein Ausstellungsvorhaben für eine Berliner Topographie des Kolonialismus; <https://www.kulturstiftung-des-bundes.de/de/presse/pressemitteilungen/detail/13-12-2019-neue_vorhaben_der_kulturstiftung_des_bundes.html>. 
 
 [^10]: Der in diesem Zusammenhang ebenfalls verwendete Begriff der
     Dekolonialität legt durch sein Präfix den Fokus der angestrebten
@@ -723,8 +716,7 @@ verstanden werden.
 
 [^12]: Ebenda; die Anleihen bei Luhmann zur systemtheoretischen
     Perspektive gerade im Hinblick auf Autopoiesis und Kommunikation
-    werden auch erläutert in:
-    Plassmann, Engelbert/Rösch, Hermann/ Seefeldt, Jürgen/Umlauf, Konrad:
+    werden auch erläutert in: Plassmann, Engelbert/Rösch, Hermann/ Seefeldt, Jürgen/Umlauf, Konrad:
     Bibliotheken und Informationsgesellschaft in Deutschland: Eine
     Einführung, Wiesbaden: Harrassowitz, 2011, S. 37--50; siehe dazu
     auch Rösch, Hermann: Academic Libraries und Cyberinfrastructure in
@@ -739,9 +731,7 @@ verstanden werden.
     den Josephsromanen. München: Beck, 2006, S. 70.
 
 [^15]: Assman, Jan: Das kulturelle Gedächtnis: Schrift, Erinnerung und
-    politische Identität in frühen
-
-    Hochkulturen, München: Beck, 2007, S. 18; Assmann, Aleida:
+    politische Identität in frühen Hochkulturen, München: Beck, 2007, S. 18; Assmann, Aleida:
     Erinnerungsräume. Formen und Wandlungen des kulturellen
     Gedächtnisses. München: Beck, 2006, S. 19.
 
@@ -751,13 +741,9 @@ verstanden werden.
 
 [^17]: Ebenda.
 
-[^18]: do Mar Castro Varela, María/Dhawan, Nikita: Postkolonialer
-    Feminismus und die Kunst der Selbstkritik,
-
-    in: Steyerl, Hito und Gutierrez Rodriguez, Encarnación: Spricht die
-    Subalterne deutsch? Münster: Unrast,
-
-    2003, S. 272.
+[^18]: do Mar Castro Varela, María/Dhawan, Nikita: Postkolonialer Feminismus und die Kunst der Selbstkritik,
+in: Steyerl, Hito und Gutierrez Rodriguez, Encarnación: Spricht die Subalterne deutsch? Münster: Unrast,
+2003, S. 272.
 
 [^19]: Said, Edward W.: Orientalism, New York: Pantheon Books, 1978.
 
@@ -773,7 +759,7 @@ verstanden werden.
     Grada/Piesche, Peggy (Hrsg.): Mythen, Masken und Subjekte: Kritische
     Weißseinsforschung in Deutschland, Münster: Unrast, 2005, S. 343.
 
-[^23]: Arndt, Susan: Ebenda, S. 341.
+[^23]: Arndt, Susan: Ebenda, S. 341. Zentrale Fragen der postkolonialen Museologie untersucht Anna Greve in: Koloniales Erbe in Museen. Kritische Weißseinsforschung in der praktischen Museumsarbeit, Bielefeld: Transcript-Verlag, 2019.
 
 [^24]: Strohschein, Juliane: weiße wahr-nehmungen: der koloniale blick,
     weißsein und fotografie, Diplomica: 2014, S. 7, Bezug nehmend auf
@@ -789,7 +775,7 @@ verstanden werden.
     Society, 7.3.2019.
 
 [^26]: Falola, Toyin/Jennings, Christian (Hrsg.): Africanizing
-    Knowledge: African Studies across the Disciplines (New Brunswick:
+    Knowledge: African Studies across the Disciplines, New Brunswick:
     Transaction Publishers, 2002.
 
 [^27]: Macamo, Elísio: Urbane Scholarship: Studying Africa,
@@ -802,8 +788,7 @@ verstanden werden.
 [^29]: Ein Projekt der Fondation AfricAvenir International, Douala, in
     Kooperation mit dem Phonogrammarchiv an der Österreichischen
     Akademie der Wissenschaften in Wien mit Förderung der
-    Gerda-Henkel-Stiftung:
-    <https://www.gerda-henkel-stiftung.de/archivdouala>
+    Gerda-Henkel-Stiftung: <https://www.gerda-henkel-stiftung.de/archivdouala>
 
 [^30]: IFLA, Statement on Indigenous Traditional Knowledge, 22.5.2019,
     <https://www.ifla.org/publications/ifla-statement-on-indigenous-traditional-knowledge>
@@ -819,14 +804,14 @@ verstanden werden.
     Organization of Knowledge, New York: Fordham University Press, 2017,
     S. xii.
 
-[^34]: Adler, Melissa: Ebenda., S. xvi.
+[^34]: Adler, Melissa: Ebenda, S. xvi.
 
 [^35]: Aleksander, Karin: Die Frau im Bibliothekskatalog, in: LIBREAS.
     Library Ideas, 25, 2014.
 
 [^36]: Aleksander, Karin: Ebenda.
 
-[^37]: Aleksander, Karin: Ebenda., mit Bezug auf Pierre
+[^37]: Aleksander, Karin: Ebenda, mit Bezug auf Pierre
     Bourdieu/Wacquant, Loïc J. D.: Reflexive Anthropologie, Frankfurt am
     Main: Suhrkamp, 1996, S. 284f.
 
@@ -844,7 +829,7 @@ verstanden werden.
     sie zum Beispiel an der Londoner School of Oriental and African
     Studies betrieben wurden, siehe Kwaschik, Anne: Der Griff nach dem
     Weltwissen: Zur Genealogie von Area Studies im 19. und 20.
-    Jahrhunder*t*, Göttingen: Vandenhoeck & Ruprecht, 2018.
+    Jahrhundert, Göttingen: Vandenhoeck & Ruprecht, 2018.
 
 [^43]: Hallaq, Wael B.: Restating Orientalism: A Critique of Modern
     Knowledge, New York: Columbia University Press, 2018.
@@ -857,10 +842,9 @@ verstanden werden.
     Kolonialismus: Wem gehört die Witbooi-Bibel?, Verfassungsblog,
     4.3.2019.
 
-[^46]: Ebenda; Pressemitteilung: 'Wichtiges Zeichen der Versöhnung\',
+[^46]: Ebenda; Pressemitteilung: 'Wichtiges Zeichen der Versöhnung',
     offizielle Internetseite des Landes Baden-Württemberg, 10.12.2018,
-    <https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/wichtiges-zeichen-der-versoehnung/>
-    (zugegriffen am 15.6.2019).
+    <https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/wichtiges-zeichen-der-versoehnung/>.
 
 [^47]: Am angegebenen Ort.
 
@@ -909,8 +893,7 @@ verstanden werden.
 [^59]: <https://www.suub.uni-bremen.de/ueber-uns/projekte/dsdk/>
 
 [^60]: Bandkatalog "Kolonialwesen" der SuUB Bremen, 1906 bis ca. 1940,
-    <http://brema.suub.uni-bremen.de/urn/urn:nbn:de:gbv:46:1-8837>
-    (zugegriffen am 15.6.2019).
+    <http://brema.suub.uni-bremen.de/urn/urn:nbn:de:gbv:46:1-8837>.
 
 [^61]: Müller, Maria Elisabeth/Schmidt-Brücken, Daniel (Hrsg.): Der
     Bremer Bandkatalog "Kolonialwesen": Edition, Sprachwissenschaftliche
@@ -922,61 +905,62 @@ verstanden werden.
 [^63]: Unter der Leitung der Dozentinnen Dr. Swantje Piotrowski, M.A.,
     Carolin Liebisch-Gümüs, M.A.
 
-[^64]: <https://www.arbeitskreis-provenienzforschung.org/tag-der-provenienzforschung-2021/tag-der-provenienzforschung-2019/>;
-    beim Arbeitskreis Provenienzforschung e.V. gibt es mehrere
+[^64]: <https://www.deutsche-digitale-bibliothek.de/content/journal/aktuell/onlineportal-sammlungsgut-aus-kolonialen-kontexten-gestartet>
+
+[^65]: <https://www.arbeitskreis-provenienzforschung.org/tag-der-provenienzforschung-2021/tag-der-provenienzforschung-2019/>;
+    beim Arbeitskreis Provenienzforschung e.&#8239;V. gibt es mehrere
     Arbeitsgruppen, darunter auch eine Arbeitsgruppe *Koloniale Provenienzen*, 
 	diese existiert seit 2017 ins Leben gerufen wurde und
     ist aus der oben erwähnten Münchner Tagung zur Provenienzforschung
     hervorgegangen ist.
 
-[^65]: <https://www.bibliotheksverband.de/kommissionen#Provenienzforschung%20und%20Provenienzerschliessung>
+[^66]: <https://www.bibliotheksverband.de/kommissionen#Provenienzforschung%20und%20Provenienzerschliessung>
     ihren Vorsitz hat derzeit Michaela Scheibe von der Staatsbibliothek
     zu Berlin inne, ebenda.
 
-[^66]: <https://www.bibliotheksverband.de/provenienzforschung-und-provenienzerschliessung>
+[^67]: <https://www.bibliotheksverband.de/provenienzforschung-und-provenienzerschliessung>
 
-[^67]: Deutscher Museumsbund: Professionell arbeiten im Museum, Berlin:
+[^68]: Deutscher Museumsbund: Professionell arbeiten im Museum, Berlin:
     Deutscher Museumsbund, 2019,
     <https://www.museumsbund.de/wp-content/uploads/2020/01/dmb-leitfaden-professionell-arbeiten-online.pdf>
 
-[^68]: Sammlungsgut aus Kolonialen Kontexten -- Stellungnahme des
+[^69]: Sammlungsgut aus Kolonialen Kontexten -- Stellungnahme des
     Deutschen Kulturrates, 20.2.2019, S. 6
-    <https://www.kulturrat.de/wp-content/uploads/2019/03/Dossier-Kolonialismus.pdf>
-    (zugegriffen am 15.6.2019); es gab im Frühjahr 2019 eine erste
+    <https://www.kulturrat.de/wp-content/uploads/2019/03/Dossier-Kolonialismus.pdf>; es gab im Frühjahr 2019 eine erste
     Umfrage zu Kulturgut aus kolonialen Kontexten in Bibliotheken, die
     von Prof. Dr. Thomas Bürger als Mitglied im Ausschuss Kulturerbe des
     Deutschen Kulturrats initiiert wurde und in Kooperation mit dem dbv
-    durchgeführt wurde und in der es zunächst um Erkenntnisse geht, in
+    durchgeführt wurde und in der es zunächst um Erkenntnisse ging, in
     welcher Form und in welchem Umfang derartige Bestände vorhanden und
     bekannt sind.
 
-[^69]: Dies wurde auch in der Bibliotheks-Community kommuniziert, siehe
+[^70]: Dies wurde auch in der Bibliotheks-Community kommuniziert, siehe
     zum Beispiel
     <https://bibliotheksportal.de/2019/02/05/foerdermoeglichkeiten-2019/>;
     <https://web.archive.org/web/20210506195011/https://www.bibliotheksverband.de/datensaetze/newsletter-national/dbv-newsletter-nr-139-2019-07-februar.html>
 
-[^70]: Auskunft von Michaela Scheibe, Vorsitzende der dbv-Kommission
+[^71]: Auskunft von Michaela Scheibe, Vorsitzende der dbv-Kommission
     Provenienzforschung.
 
-[^71]: Ebenda, Auskunft per E-Mail, ebenso wie die Information, dass die
+[^72]: Ebenda, Auskunft per E-Mail, ebenso wie die Information, dass die
     Aufnahme eines Deskriptors in den T-PRO Ende August 2019 auf der
-    darauf folgenden Sitzung der dbv-Kommission Provenienzforschung und
+    darauffolgenden Sitzung der dbv-Kommission Provenienzforschung und
     Provenienzerschließung diskutiert werden sollte. \[Stand aus der
     Masterarbeit, auf der dieser Text basiert.\]
 
-[^72]: Exemplarisch durchsucht wurden für die vorliegende Untersuchung
+[^73]: Exemplarisch durchsucht wurden für die vorliegende Untersuchung
     die Archive der Zeitschriften *Bibliothek: Forschung und Praxis und
     BuB -- Forum Bibliothek und Information.*
 
-[^73]: Brogiato, Heinz Peter/Röschner, Matthias (Hrsg.): Koloniale
+[^74]: Brogiato, Heinz Peter/Röschner, Matthias (Hrsg.): Koloniale
     Spuren in den Archiven der Leibniz-Gemeinschaft, Halle:
     Mitteldeutscher Verlag 2020.
 
-[^74]: <https://libreas.eu/>
+[^75]: <https://libreas.eu/>
 
-[^75]: <https://litwinbooks.com/series-on-critical-race-studies-and-multiculturalism-in-lis/>
+[^76]: <https://litwinbooks.com/series-on-critical-race-studies-and-multiculturalism-in-lis/>
 
-[^76]: Cooke, Nicole A./Sweeney, Miriam E. (Hrsg.): Teaching for
+[^77]: Cooke, Nicole A./Sweeney, Miriam E. (Hrsg.): Teaching for
     Justice: Implementing Social Justice in the LIS Classroom,
     Sacramento: Library Juice Press, 2017; immerhin verweist die Suche
     nach der Person der erstgenannten Herausgeberin auf eine Ausgabe zu
@@ -986,35 +970,35 @@ verstanden werden.
     Science, herausgegeben von Kathleen de la Peña McCook, Library
     Trends 49 (1) Summer 2000, begonnene Debatte anschließt.
 
-[^77]: Schlesselman-Tarango, Gina (Hrsg.): Topographies of Whiteness:
-    Mapping Whiteness in Library and Information Science*,* Sacramento:
+[^78]: Schlesselman-Tarango, Gina (Hrsg.): Topographies of Whiteness:
+    Mapping Whiteness in Library and Information Science, Sacramento:
     Library Juice Press, 2017.
 
-[^78]: Chou, Rose/Pho, Annie (Hrsg.): Pushing the Margins: Women of
+[^79]: Chou, Rose/Pho, Annie (Hrsg.): Pushing the Margins: Women of
     Color and Intersectionality in LIS, Sacramento: Library Juice Press,
     2018.
 
-[^79]: Ndumu, Ana: Borders and Belonging: Critical Examinations of
+[^80]: Ndumu, Ana: Borders and Belonging: Critical Examinations of
     Library Approaches toward Immigrants, Sacramento: Library Juice
     Press, 2021.
 
-[^80]: Moreno, Teresa Helena: Everywhere and Nowhere: Understanding
+[^81]: Moreno, Teresa Helena: Everywhere and Nowhere: Understanding
     Diaspora in the Library, Sacramento: Library Juice Press, 2022 (im
     Erscheinen).
 
-[^81]: Leung, Sofia Y./López-McKnight, Jorge R.: Knowledge Justice:
+[^82]: Leung, Sofia Y./López-McKnight, Jorge R.: Knowledge Justice:
     Disrupting Library and Information Studies through Critical Race
     Theory, Cambridge, Massachusetts: The MIT Press, 2021.
 
-[^82]: Schmidt, Nora: The privilege to select: global research system,
+[^83]: Schmidt, Nora: The privilege to select: global research system,
     European academic library collections, and decolonisation, 2020,
     <https://portal.research.lu.se/ws/files/83315048/diss_master_print_final.pdf>
 
-[^83]: Heber, am angegebenen Ort, S. 8.
+[^84]: Heber, am angegebenen Ort, S. 8.
 
-[^84]: Mittler, am angegebenen Ort, S. 39.
+[^85]: Mittler, am angegebenen Ort, S. 39.
 
-[^85]: Siehe Schulz, Bastienne: Die Karibik zwischen Enracinement und
+[^86]: Siehe Schulz, Bastienne: Die Karibik zwischen Enracinement und
     Errance: Neobarocke Identitätsentwürfe bei Édouard Glissant und
     Patrick Chamoiseau, Berlin: Ed. Tranvia, 2014, wo sie mit Bezug zu
     Deleuze/Guattari erläutert: "Die Prinzipien der Konnexion und
@@ -1024,23 +1008,25 @@ verstanden werden.
     anderen. Treffen diese Linien aufeinander, entsteht ein Bruch, an
     dem das Rhizom weiter wuchert. Es entsteht eine 'Anti-Genealogie'
     (Prinzip des asignifikanten Bruchs), Gilles Deleuze and Félix
-    Guattari, Mille Plateaux (Éditions de minuit, 1980, S. 10ff.).
+    Guattari, Mille Plateaux (Éditions de minuit, 1980, S. 10ff.)."
 
-[^86]: Dipesh Chakrabarty, Dipesh: Provincializing Europe: Postcolonial
+[^87]: Dipesh Chakrabarty, Dipesh: Provincializing Europe: Postcolonial
     Thought and Historical Difference, Princeton: 2000.
     <https://books.google.de/books/about/Provincializing_Europe.html?id=QqDa4tGENvYC&pgis=1>
 
-[^87]: Stingl, Alexander I. The Digital Coloniality of Power: Epistemic
+[^88]: Stingl, Alexander I. The Digital Coloniality of Power: Epistemic
     Disobedience in the Social Sciences and the Legitimacy of the
     Digital Age, Lanham: Lexington Books, 201.
 
-[^88]: <https://www.topographie.de/aggb/online-katalog/>
+[^89]: Das oben erwähnte neue Onlineportal "Sammlungsgut aus kolonialen Kontexten" könnte genau so etwas werden, allerdings beschränkt auf den zweiten Aspekt, also ohne den Einbezug postkolonial kritischer Quellen.
 
-[^89]: Thein, Helen: Gedenkstättenbibliotheken: Zur Bestimmung eines
+[^90]: <https://www.topographie.de/aggb/online-katalog/>
+
+[^91]: Thein, Helen: Gedenkstättenbibliotheken: Zur Bestimmung eines
     Bibliothekstyps (Humboldt-Universität zu Berlin, 2017), S. 45,
     <https://doi.org/10.18452/18443>
 
-[^90]: Welches die Sammlungen von (1) Kolonial-Bibliothek der UB
+[^92]: Welches die Sammlungen von (1) Kolonial-Bibliothek der UB
     Frankfurt/Main, (2) Kolonialem Bildarchiv der UB Frankfurt, (3) das
     oben bereits vorgestellte Projekt "DSDK" sowie (4) die
     Digitalisierte Zeitschriften des FID Sozial- & Kulturanthropologie
@@ -1048,12 +1034,14 @@ verstanden werden.
     Einbindung des "Archivführers Kolonialismus" der FH Potsdam in das
     Projekt angedacht.
 
-[^91]: Hier noch einmal der Hinweis auf meine Selbstverortung als Weiße
+[^93]: <https://www.evifa.de/de/ueber-uns/fid-projekte/netzwerk-koloniale-kontexte>
+
+[^94]: Hier noch einmal der Hinweis auf meine Selbstverortung als Weiße
     und meine aus dieser Sozialisierung geprägten Gedanken und
     Haltungen. Ich kann nicht für Schwarze und People of Colour
     sprechen, aber darauf hinweisen, dass es emanzipatorische
     Bibliothekseinrichtungen für eine von Rassismus in Deutschland
-    betroffene Klientel durchaus gibt, z.B. die beim Referent_innenrat
+    betroffene Klientel durchaus gibt, zum Beispiel die beim Referent_innenrat
     der HU Berlin angesiedelte Stelle Amo Books, auch als A.W. Amo Books
     bekannt, versteht sich als selbstkritische Menschenrechts- und
     Entkolonialisierungsquelle für die kritische afrikanische Diaspora
@@ -1062,7 +1050,7 @@ verstanden werden.
     Bibliothek, einen Info-Stand, eine Buchhandlung und einen Verlag:
     <http://www.refrat.de/amo/wb/?js=1&lang=de>
 
-[^92]: Das von Marimba Ani geprägte Wort bedeutet in Kiswahili:
+[^95]: Das von Marimba Ani geprägte Wort bedeutet in Kiswahili:
     Katastrophe, große Tragödie, schreckliches Ereignis\' und bezeichnet
     die komplexe interdependente Gemengelage von Sklaverei,
     Imperialismus, Kolonialismus, Invasion, Unterdrückung,
@@ -1071,3 +1059,5 @@ verstanden werden.
     spricht : (K)Erben des Kolonialismus im Wissensarchiv deutscher
     Sprache ; Ein kritisches Nachschlagewerk (Unrast-Verl, 2011), S.
     594.
+
+[^96]: Zu diesem Thema fand im Mai 2021 ein Online-Workshop unter dem Titel "Wissenschaft und Universität zwischen kolonialer Vergangenheit, postkolonialer Gegenwart und dekolonialer Zukunft" an der Eberhard Karls Universität Tübingen statt; <https://wissenschaftliche-sammlungen.de/de/termine/online-workshop-wissenschaft-und-universitaet-zwischen-kolonialer-vergangenheit-postkolonialer-gegenwart-und-dekolonialer-zukunf>.
