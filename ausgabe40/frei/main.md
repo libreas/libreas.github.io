@@ -79,7 +79,7 @@ hingewiesen, dass die Editionen ab 1943 und insbesondere ab 1960
 textlich und bildlich stark abgeändert wurden. In den Editionen vor 1943
 war Hatschi, der Entführer des kleinen Jungen Fritzchen, noch "der Türke
 aus dem Türkenland" und wurde in späteren Editionen zum "Zauberer aus
-dem Morgenland". Die wohl weitreichendste Änderung betraf die
+dem Morgenland" (vergleiche Ochsenhofer 1993: 45). Die wohl weitreichendste Änderung betraf die
 schriftliche und bildliche Umwandlung der "Menschenfresser"-Szene. In
 der erwähnten Szene flog Fritzchen über ein "Inselland im Meer". Doch
 verweilen kann Fritzchen hier nicht, da sich ihm die "Menschenfresser"
@@ -90,7 +90,7 @@ halten und fallen der Reihe nach ins Wasser und versinken. Bei den
 Zeichnungen der "Menschenfresser" handelt es sich um rassistische
 Karikaturen Schwarzer[^2] Menschen. In den Editionen ab 1960 werden die
 "Menschenfresser" zu Affen, die dasselbe Schicksal ereilt (Ginzky
-[1904] (2011) [^3]: 35 folgende).
+[1904] (2011)[^3]: 35 folgende).
 
 Das Kinderbuch spiegelt historische Negativbilder über die 'Anderen'
 wider und lässt Rückschlüsse auf die Gesellschaft zu, innerhalb derer
@@ -177,7 +177,7 @@ indem es beispielsweise Altersbeschränkungen oder Eintrittsgelder
 
 Um herauszufinden, warum sich das Buch in Bibliotheksbeständen befindet
 und ob es abhängig vom Bibliothekstyp unterschiedliche
-Argumentationsweise gibt, wurden Interviews geführt. Befragt wurden die
+Argumentationsweisen gibt, wurden Interviews geführt. Befragt wurden die
 für die Medienauswahl verantwortlichen Mitarbeiter:innen der *Büchereien
 Wien* und der *Fachbereichsbibliothek für Germanistik, Nederlandistik
 und Skandinavistik* der Universitätsbibliothek Wien.
@@ -472,7 +472,7 @@ werden]" (Interview Alker-Windbichler 2020).
 
 ### Resümee und Ausblick
 
-Sowohl öffentliche als auch wissenschaftliche Bibliotheken begegnen im
+Sowohl Öffentliche als auch Wissenschaftliche Bibliotheken begegnen im
 Umgang mit Medien, deren Inhalte Rassismen enthalten, Herausforderungen,
 die Fragen aufwerfen: Widerspricht die Entscheidung gegen den Erwerb
 eines Werks aufgrund seines diskriminierenden Inhalts dem Grundsatz der
@@ -487,7 +487,7 @@ Bibliotheken vor der Problematik, dass -- wie Alker-Windbichler treffend
 feststellte -- ein Großteil der deutschsprachigen Literatur davon
 betroffen wäre und hinterfragt werden müsste.
 
-Der Bestand öffentlicher Bibliotheken spiegelt in gewissem Maße die
+Der Bestand Öffentlicher Bibliotheken spiegelt in gewissem Maße die
 Interessen seiner Nutzer:innen wider. "Hatschi Bratschis Luftballon"
 wird in den *Büchereien Wien* nach wie vor rezipiert, die Nachfrage nach
 Ginzkeys "Klassiker der österreichischen Kinderliteratur" bleibt

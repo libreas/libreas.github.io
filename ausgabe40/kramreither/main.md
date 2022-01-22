@@ -10,7 +10,7 @@ Zentren an der Universität Wien (90.000 Studierende)[^1] wird über ihre
 Bestände, ob Print- oder elektronische Versionen, abgedeckt.
 Verschiedene Akquisestrategien gewährleisten die Aktualität und
 Relevanz. Die Investition in Lizenzen für E-Ressourcen haben gerade im
-letzten Jahr gezeigt, wie wichtig der uneingeschränkte Zugang zu
+letzten Jahr (Stichwort Pandemie) gezeigt, wie wichtig der uneingeschränkte Zugang zu
 Literatur für Studierende, Lehrende und den wissenschaftlichen Apparat
 ist.
 
@@ -29,7 +29,7 @@ wissenschaftlicher Fachliteratur über die Jahrhunderte hinweg.
 Die Fachbereichsbibliothek Kultur- und Sozialanthropologie (FB KSA) ist
 eine von 44 Bibliotheken, die als wissenschaftliche Spezialbibliotheken
 im UB-Verband organisiert ist. Sie hat eine eigenständige
-Literaturbeschaffung und -bereitstellung für das jeweilige Fach, deren
+Literaturbeschaffung und -bereitstellung für das Fach, deren
 Studierende und Forschende zu gewährleisten. Räumlich ist sie dem
 Institut Kultur- und Sozialanthropologie (IKSA) angeschlossen, personell
 und budgetär an die UB Wien angebunden. Insgesamt besitzt die FB KSA
@@ -104,7 +104,7 @@ Für die Benützung der FB KSA kann davon ausgegangen werden, dass sich
 der Benützer\*innenkreis in erster Linie aus Studierenden und
 Forschenden des IKSA zusammensetzt. Demnach kann von
 forschungsgeleiteten Interessen an der vorhandenen Literatur ausgegangen
-werden. Trotzdem möchtenwir Möglichkeiten zur kritischen
+werden. Trotzdem möchten wir Möglichkeiten zur kritischen
 Auseinandersetzung mit dem Literaturbestand ausloten und eine aktive
 Kennzeichnung seitens der Benützer\*innen anbieten. Die genaue Form ist
 noch nicht festgelegt.

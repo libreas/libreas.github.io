@@ -24,7 +24,7 @@ verbesserte daran wenig, wenngleich die Stadt als Sonder- oder
 Glücksfall in einer Region mit enorm hoher AfD- und NPD-Wähler-Dichte
 gelten könnte. Doch auch hier berichten BIPoC[^3]-Freunde von
 Alltagsrassismus und viele verlassen aufgrund einschneidender Erlebnisse
-und dem Wunsch nach mehr Diversität im Alltag.
+und dem Wunsch nach mehr Diversität im Alltag die Region.
 
 Vor dem Horizont dieser Erfahrungen erkannte ich nach und nach meine
 Privilegien als weiße Person, die ich zuvor nie realisiert hatte: Ich
@@ -110,7 +110,7 @@ meiner Lieferfirmen zu hinterfragen. Bibliotheksangebote möglichst in
 mehreren Sprachen (mindestens aber in Englisch) zu kommunizieren und
 unsere hauseigene Klassifikation auf diskriminierende Bezeichnungen und
 Zuordnungen zu prüfen. Weitere Schritte sind mich weiterzubilden und
-meine Erkenntnisse beziehungsweise meinen Weg zu diesen mit diesen zu
+meine Erkenntnisse beziehungsweise meinen Weg zu diesen zu
 teilen.
 
 Zum Beispiel in einem LIBREAS-Artikel.

@@ -5,7 +5,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>Warum beschäftige ich mich mit dem Dekolonisieren von Bibliotheken? - LIBREAS. Library Ideas</title>
+	<title>Warum beschäftige ich mich mit dem Dekolonialisieren von Bibliotheken? - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
 
@@ -13,7 +13,7 @@
 
  <!-- RDFa Metadata (in DublinCore) -->
     
-    <meta property="dc:title" content="Warum beschäftige ich mich mit dem Dekolonisieren von Bibliotheken?" />
+    <meta property="dc:title" content="Warum beschäftige ich mich mit dem Dekolonialisieren von Bibliotheken?" />
     
     
     
@@ -136,7 +136,7 @@
     
     <div align="right">
     <p><small><a itemprop="sameAs" href="https://via.hypothes.is/https://libreas.eu/ausgabe40/schuerer/meta.yaml">Annotate via hypothes.is</a></small></p>
-        <small><a itemprop="sameAs" href="https://doi.org/10.18452/23809">Download PDF</a></small>
+        <small><a itemprop="sameAs" href="main.pdf">Download PDF</a></small>
         </div>
     
     
@@ -146,7 +146,7 @@
         
 
         
-        <h1 itemprop="name" class="title">Warum beschäftige ich mich mit dem Dekolonisieren von Bibliotheken?</h1>
+        <h1 itemprop="name" class="title">Warum beschäftige ich mich mit dem Dekolonialisieren von Bibliotheken?</h1>
         
         
 
@@ -190,7 +190,7 @@
             
             
              
-            "Warum beschäftige ich mich mit dem Dekolonisieren von Bibliotheken?".
+            "Warum beschäftige ich mich mit dem Dekolonialisieren von Bibliotheken?".
             
             <i itemprop="provider">LIBREAS. Library Ideas</i>, 40 (<span itemprop="datePublished">2021</span>). <a itemprop="url" href="https://libreas.eu/ausgabe40/schuerer/meta.yaml">https://libreas.eu/ausgabe40/schuerer/meta.yaml</a>
         </small>
@@ -224,7 +224,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2021-12-30</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2022-01-22</a>)</p>
 
 </footer>
       </div>
