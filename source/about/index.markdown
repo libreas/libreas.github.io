@@ -8,7 +8,7 @@ footer: true
 ---
 Die Zeitschrift LIBREAS. Library Ideas sowie das [Weblog](http://libreas.wordpress.com/) werden durch den [LIBREAS-Verein](http://libreas-verein.eu/) am [Institut für Bibliotheks- und Informationswissenschaft](http://www.ibi.hu-berlin.de) der [Humboldt-Universität zu Berlin](http://www.hu-berlin.de) herausgegeben.
 
-Namentlich gekennzeichnete Beiträge geben nicht in jedem Fall die Meinung von Herausgebern oder Redaktion wieder. Für die Richtigkeit der in ihren Beiträgen dargestellten Aussagen zeichnet sich der jeweilige Urheber verantwortlich.
+Namentlich gekennzeichnete Beiträge geben nicht in jedem Fall die Meinung der Herausgeber\*innen oder der Redaktion wieder. Für die Richtigkeit der in ihren Beiträgen dargestellten Aussagen zeichnent sich die jeweiligen Urheber\*innen verantwortlich.
 
 **ISSN 1860-7950**
 
@@ -23,7 +23,7 @@ Kontakt: redaktion@libreas.eu
 
 - Eva Bunge M.S., M.A. ([https://orcid.org/0000-0002-5587-5934](https://orcid.org/0000-0002-5587-5934)) -- eva@libreas.eu
 - Philipp Falkenburg ([https://orcid.org/0000-0001-9788-8277](https://orcid.org/0000-0001-9788-8277)) -- philipp@libreas.eu
-- Dr. Linda Freyberg (UCLAB, Fachhochschule Potsdam \& Museum für Naturkunde) -- linda@libreas.eu
+- Dr. Linda Freyberg (UCLAB, Fachhochschule Potsdam \& Museum für Naturkunde, [https://orcid.org/0000-0002-4620-7571](https://orcid.org/0000-0002-4620-7571)) -- linda@libreas.eu
 - Julia Hempel B.A. (Berlin School of Library and Information Science, Humboldt-Universität zu Berlin) --  julia@libreas.eu
 - Najko Jahn M.A. (SUB Göttingen) -- najko@libreas.eu
 - Sara Juen B.A. ([https://orcid.org/0000-0003-0725-8592](https://orcid.org/0000-0003-0725-8592)) -- sara@libreas.eu
@@ -57,18 +57,14 @@ Deutschland
 
 LIBREAS. Library Ideas übernimmt keine Verantwortung für Inhalt und
 weiterführende Verweise auf den Internetseiten, zu denen wir Links
-anbieten. Dafür sind ausschließlich die Inhaber der gelinkten
+anbieten. Dafür sind ausschließlich die Inhaber\*innen der verlinkten
 Internetseiten verantwortlich und haftbar zu machen.
 
-Die Rechte an Abbildungen/Fotografien/Icons liegen bei den jeweiligen
-Autoren bzw. der Redaktion.
+Bitte beachten Sie auch unsere [urheber- und lizenzrechtlichen sowie Hinweise für Autor\*innen](https://libreas.eu/authorguides/).
 
-Bitte beachten Sie auch unsere Copyright-Erklärung sowie die allgemeinen
-Hinweise für die Autoren.
-
-LIBREAS ist im Directory of Open Access Journals (DOAJ) gelistet und
-beteiligt sich an E-LIS. Zudem werden Beiträge im INFODATA e-Depot
-erschlossen und zur Verfügung gestellt.
+LIBREAS ist im Directory of Open Access Journals ([DOAJ](https://doaj.org/toc/1860-7950)) gelistet. Die Beiträge werden über den edoc-Server der Humboldt-Universität zu Berlin und damit mittelbar durch die Deutsche Nationalbibliothek langzeitarchiviert. 
 
 LOCKSS system has permission to collect, preserve, and serve this open
-access Archival Unit. (Stand 2. November 2018)
+access Archival Unit. 
+
+(Stand Januar 2022)
