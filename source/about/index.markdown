@@ -2,8 +2,8 @@
 layout: page
 title: "Impressum"
 date: 2013-08-16 18:59
-comments: true
-sharing: true
+comments: false
+sharing: false
 footer: true
 ---
 Die Zeitschrift LIBREAS. Library Ideas sowie das [Weblog](http://libreas.wordpress.com/) werden durch den [LIBREAS-Verein](http://libreas-verein.eu/) am [Institut für Bibliotheks- und Informationswissenschaft](http://www.ibi.hu-berlin.de) der [Humboldt-Universität zu Berlin](http://www.hu-berlin.de) herausgegeben.
