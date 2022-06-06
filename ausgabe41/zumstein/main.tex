@@ -1,0 +1,484 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage[babel]{csquotes}
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+\setcapindent{0pt} % no indentation in captions
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+% typo setup
+\clubpenalty = 10000
+\widowpenalty = 10000
+\displaywidowpenalty = 10000
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+\usepackage{breakurl}
+
+%meta
+%meta
+
+\fancyhead[L]{P. Zumstein\\ %author
+LIBREAS. Library Ideas, 41 (2022). % journal, issue, volume.
+%\href{https://doi.org/10.18452/xxx}{\color{black}https://doi.org/10.18452/xxx}
+{}} % doi 
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/4.0/}{\color{black}Creative Commons BY 4.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{Blitzschnelles Publizieren mit Academia Letters, aber sag', wie verhält es sich mit der Qualitätssicherung? Ein informationswissenschaftlicher Kommentar}}% title
+\author{Philipp Zumstein} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={Blitzschnelles Publizieren mit Academia Letters, aber sag', wie verhält es sich mit der Qualitätssicherung? Ein informationswissenschaftlicher Kommentar},
+      pdfauthor={Philipp Zumstein},
+      pdfcopyright={CC BY 4.0 International},
+      pdfsubject={LIBREAS. Library Ideas, 41 (2022)},
+      pdfkeywords={Academia Letters, Einschätzung, Qualitätssicherung, Publikationsmodell, Mega-Journal, evaluation, quality assurance, publishing model, mega journal},
+      pdflicenseurl={https://creativecommons.org/licenses/by/4.0/},
+      pdfcontacturl={http://libreas.eu},
+      baseurl={},
+      pdflang={de},
+      pdfmetalang={de}
+     }
+	 
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+
+%body
+Academia (\url{https://www.academia.edu/}) als soziales Netzwerk für
+Forschende ist ins Open-Access-Publizieren als kommerzielles
+Geschäftsfeld eingestiegen und hat mit Academia Letters
+(\url{https://www.academia.edu/letters}) ein neues Angebot gestartet.
+Der Aufbau weiterer Open-Access-Zeitschriften ist von Academia
+Inc.~geplant, auch mit dem neuen Geld aus der aktuellen
+Finanzierungsrunde:
+
+\begin{quote}
+\enquote{Chinese tech giant Tencent is among those backing Academia,
+which has raised \$22mn in fresh Series D financing. Chief executive
+Richard Price said the fundraising would help support a series of online
+journals free to read and paid for by the authors or backers which it
+plans to make available in the coming months} {[}1{]}
+\end{quote}
+
+Die Geldgeber*innen sehen daher in Academia und den neuen
+Open-Access-Zeitschriften wie Academia Letters eine lohnende
+Investitionsmöglichkeit. Wie ist Academia Letters aus einer
+informationswissenschaftlichen und bibliothekarischen Perspektive zu
+bewerten? Wie verhält es sich mit den Maßnahmen zur Qualitätssicherung,
+insbesondere der Begutachtung bei Academia Letters? Haben wir es hier
+mit einem seriösen und fairen Angebot oder eher einem Predatory
+Publisher zu tun? Zur besseren Einordnung werden im Folgenden ein paar
+Punkte ausgeführt.
+
+\hypertarget{was-ist-academia-letters}{%
+\section{Was ist Academia Letters?}\label{was-ist-academia-letters}}
+
+Mit Academia Letters sollen kurze Artikel (800--1.600 Wörter) schnell
+Open Access veröffentlicht werden. Laut dem Geschäftsführer Richard
+Price dauert der gesamte Prozess zehn Tage. {[}1{]} Ob dies als
+Durchschnittswert oder als Maximalwert gemeint ist, wird nicht ganz klar
+-- aber in jedem Fall ist dies blitzschnell. Insbesondere muss in der
+Zeit auch eine Begutachtung durchgeführt und die Entscheidung zur
+Annahme oder Ablehnung getroffen werden.
+
+Bei der Suche nach Gutachter*innen nutzt Academia das eigene soziale
+Netzwerk von Millionen von Forschenden. Es scheint als ob passende
+Gutachter*innen automatisch ausgewählt und angeschrieben werden, was
+dann zu einer Flut an solchen Anfragen für einzelne Nutzer*innen des
+Academia-Netzwerks führen kann, wie unterschiedliche Nutzer*innen
+berichten. {[}2{]} Es wird auch berichtet, dass die Gutachten auf
+100--700 Wörter beschränkt sind. Zudem gibt es nach eigenen Angaben
+keinen Prozess, um umfangreiche Überarbeitungen und eine
+Wiedereinreichung zu ermöglichen. {[}3{]}
+
+Eine solch kurze Begutachtungsfrist und das Fokussieren auf ein paar
+kleine einfache Verbesserungsvorschläge halte ich nicht für
+vertrauenswürdig. Zudem werden die potenziellen Gutachter*innen unter
+Zeitdruck gestellt, obwohl diese die Gutachten ohne eine Gegenleistung
+vom Verlag als Community-Service erbringen.
+
+Die Gutachter*innen werden weder öffentlich genannt noch werden die
+Gutachten öffentlich zugänglich gemacht (Open Peer Review), obwohl genau
+dies versprochen wird. {[}3{]} Auf Publons (\url{https://publons.com/})
+sieht man einige Gutachter*innen mit 30 oder mehr Gutachten in den
+letzten zwölf Monaten. {[}4{]} Dies sind fast drei Gutachten pro Monat
+von einer einzelnen Person, was mir nicht mehr sorgfältig machbar zu
+sein scheint.
+
+Es gibt bei Academia Letters kein öffentlich genanntes
+Herausgeber*innengremium (Editorial Board), weswegen unklar ist, wer die
+wissenschaftliche Leitung bei der Zeitschrift hat -- oder ob es so etwas
+überhaupt gibt. Es erscheint mir realistischer davon auszugehen, dass
+kein Herausgeber*innengremium existiert. Dies ist schon sehr
+ungewöhnlich. Bei der Abgrenzung zu Predatory Journals sind gerade die
+Herausgeber*innen und deren Bekanntheit ein wesentlicher Punkt. {[}5{]}
+Bei Academia Letters wird aber nicht mal versucht den Anschein eines
+anerkannten Herausgeber*innengremiums zu wecken, sondern man verzichtet
+komplett darauf. Damit steuert das kommerzielle Unternehmen,
+beziehungsweise möglicherweise auch deren Algorithmen die finalen
+Entscheidungen zu den Gutachten und entscheidet über die Ausrichtung der
+Zeitschrift insgesamt. Dies ist nicht nur unseriös, sondern verleitet
+potenziell auch zur Annahme von mehr Artikeln, da man damit ja Geld
+verdienen kann.
+
+Academia Letters besitzt die ISSN 2771-9359\footnote{\href{https://portal.issn.org/resource/ISSN/2771-9359}{https://portal.issn.org/resource/ISSN/2771-935}}
+und kann damit formal als Zeitschrift oder zeitschriftenartige Reihe
+angesehen werden. Es gibt aber keine Bände oder Hefte, sondern nur
+einzelne Artikel. Jeder einzelne Artikel erhält eine DOI und ist dadurch
+eindeutig identifizierbar. Daher würde ich Academia Letters formal als
+Mega-Journal\footnote{\url{https://en.wikipedia.org/wiki/Mega_journal}}
+einstufen.
+
+Im Vergleich zu anderen Open-Access-Zeitschriften ist Academia Letters
+nicht im DOAJ (Directory of Open Access Journals,
+\url{https://doaj.org/}) gelistet oder Mitglied von COPE (Committee on
+Publication Ethics, \url{https://publicationethics.org/}) oder OASPA
+(Open Access Scholarly Publishing Association,
+\url{https://oaspa.org/}). Andere Open-Access-Zeitschriften, auch
+bekannte Mega-Journals, sind hier normalerweise immer gelistet
+(vergleiche Tabelle 1). Solche Zugehörigkeiten sind Indizien, dass die
+Zeitschrift beziehungsweise der Verlag überzeugende Maßnahmen zur
+Qualitätssicherung (insbesondere Begutachtung) und Publikationsethik
+ergreifen. Darum ist die Überprüfung dieser Zugehörigkeit auch ein Punkt
+der ThinkCheckSubmit-Checkliste {[}5{]}, bei welcher Academia Letters
+wiederum negativ auffällt.
+
+\begin{table}[!ht]
+    \centering
+    \begin{tabular}{p{3cm}p{2cm}lp{2cm}p{5.7cm}}
+    \toprule
+        \textbf{~} & \textbf{DOAJ} & \textbf{COPE} & \textbf{OASPA} & \textbf{Links} \\
+        \midrule
+\textbf{Academia Letters} & nein & nein & nein & ~ \\
+\midrule
+\textbf{F1000 Research} & ja, mit Auszeichnung & ja & ja & \url{https://doaj.org/toc/2046-1402} \\
+\midrule
+\textbf{Open Research Europe} & ja, mit Auszeichnung & nein & nicht separat, aber vergleiche F1000 & \url{https://doaj.org/toc/2732-5121} \\
+\midrule
+\textbf{PeerJ} & ja, mit Auszeichnung & ja & ja, PeerJ als Verlag & \url{https://doaj.org/toc/2167-8359}, \url{https://oaspa.org/member/peerj/} \\
+\midrule
+\textbf{PeerJ Computer Science} & ja, mit Auszeichnung & nein & ja, PeerJ als Verlag & \url{https://doaj.org/toc/2376-5992}, \url{https://oaspa.org/member/peerj/} \\
+\midrule
+\textbf{PLOS One} & ja, mit Auszeichnung & ja & ja, PLOS als Verlag & \url{https://doaj.org/toc/1932-6203}, \url{https://oaspa.org/member/public-library-of-science/} \\
+\midrule
+\textbf{SAGE Open} & ja, mit Auszeichnung & ja & ja, SAGE als Verlag & \url{https://doaj.org/toc/2158-2440}, \url{https://oaspa.org/member/sage-publications/} \\
+        \bottomrule
+            \end{tabular}
+            \caption{Zugehörigkeit von einigen Mega-Journals zu DOAJ (\enquote{mit Auszeichnung} meint hier konkret das DOAJ Seal, \url{https://doaj.org/apply/seal/}), COPE und OASPA.}
+\end{table}
+
+
+
+Fachlich gibt es keine Eingrenzung oder Fokussierung bei Academia
+Letters, sondern Einreichungen über \enquote{any topic of academic
+study} {[}3{]} sind möglich. Die Titel der bisher veröffentlichten
+Publikationen zeigen auch ein sehr breites Spektrum (siehe Abbildung 1).
+Für mich stellt sich dabei auch die Frage, ob man hier immer
+Expert*innen für jedes Nischenthema zum Begutachten finden kann. Zudem
+müssen alle Einreichungen von der nicht näher spezifizierten
+Herausgeber*inneninstanz oder -algorithmus final freigegeben werden. Ob
+dies seriös und fachlich immer angebracht zu bewerkstelligen ist,
+bezweifle ich.
+
+\begin{figure}
+\centering
+\includegraphics[width=0.9\textwidth]{img/abb1.png}
+\caption{Wortwolke aus den Titeln der bisher veröffentlichten Artikel in
+Academia Letters (N = 3895, Quelle: Crossref, 13.03.2022).}
+\end{figure}
+
+In den Autor*innenrichtlinien findet man drei explizit genannte
+akzeptierte Artikeltypen. Der erste Punkt \enquote{Thought-provoking
+hypotheses that don't yet have the data to confirm or refute them}
+{[}3{]} springt sofort ins Auge. Zum Nachdenken anregende Hypothesen
+ohne Daten oder Argumente, welche die Selbigen stützen oder widerlegen,
+als begutachtete Artikel zu verkaufen, hört sich für mich
+pseudowissenschaftlich an.
+
+\hypertarget{einreichungsworkflow}{%
+\section{Einreichungsworkflow}\label{einreichungsworkflow}}
+
+Sowohl auf der Zeitschriftenseite wie auch beim persönlichen
+Academia-Profil können angemeldete Benutzer*innen eine Einreichung für
+Academia Letters starten. Neben den üblichen Angaben zu Titel und
+Autor*innen gibt man den Text des Artikels sowie die Referenzen direkt
+in die Eingabemaske ein (siehe Abbildung 2). Einfache Formatierungen
+(Auszeichnungen wie fett oder kursiv, Überschriften, Links, Blockzitat,
+Aufzählungen oder nummerierte Listen) können dabei direkt vorgenommen
+werden. Hinter dem Klammer-Symbol versteckt sich die Möglichkeit Bilder
+einzufügen und mit Tricks kann man auch mathematische Formeln eingeben.
+Es scheint aber nicht möglich zu sein, etwa eine Tabelle einzufügen.
+
+\begin{figure}
+\centering
+\includegraphics[width=0.9\textwidth]{img/abb2.png}
+\caption{Einreichungsmaske bei Academia Letters mit den Feldern zur
+Eingabe der Metadaten sowie des Textes auf der linken Seite und einer
+automatisch generierten Vorschau auf der rechten Seite.}
+\end{figure}
+
+Prinzipiell kann die direkte Eingabe des Textes im Einreichungsworkflow
+einer Zeitschrift interessant sein. Man sieht dabei direkt das fertige
+Ergebnis und spart auch auf Seiten der Zeitschrift weitere
+Konvertierungsarbeiten. Hier, bei Academia Letters, scheint mir der
+Fokus aber zu stark auf Text mit Auszeichnungen zu liegen und andere
+Funktionalitäten wie Tabellen sind nicht möglich oder etwas versteckt
+wie bei Bildern.\footnote{Wesentlich ausgereifter ist da etwa des Tool
+  Texture
+  (\href{https://github.com/substance/texture}{https://github.com/substance/texture)},
+  welches die Eingaben dann auch gleich als maschinenlesbares und
+  standardisiertes JATS-XML speichert.}
+
+Mit dem Einreichungsworkflow setzen die Autor*innen den Artikel selbst
+in das Zeitschriftlayout und der Verlag wird von dieser Arbeit
+entlastet. Nacharbeiten von Seiten der Zeitschriften sind normalerweise
+häufig bei Bildern oder Tabellen erforderlich, aber diese Funktionen
+fehlen bei Academia Letters entweder komplett oder werden mit
+eingeschränkten Möglichkeiten ganz in die Hände der Autor*innen gelegt.
+Damit stellt sich dann aber auch die Frage, welche Aufwände der Verlag
+bei Einreichungen überhaupt noch hat?
+
+\hypertarget{geschuxe4ftsmodell}{%
+\section{Geschäftsmodell}\label{geschuxe4ftsmodell}}
+
+Academia Letters erhebt von den Autor*innen bei Annahme
+Artikelbearbeitungsgebühren (APC). Prinzipiell ist es nicht unüblich,
+dass kommerzielle Verlage für das Publizieren in
+Open-Access-Zeitschriften Geld von den Autor*innen erheben, da bei frei
+verfügbaren Artikeln keine Abonne\-ment-Gebühren die Aufwände des Verlags
+abdecken können. Die Gebühren betragen laut Informationen im
+Einreichungsworkflow 400 US-Dollar pro Artikel, aber im Bericht der
+Financial Times werden noch 500 US-Dollar angegeben. In den oben
+referenzierten Diskussionen wird teilweise auch erwähnt, dass einzelne
+Artikel ohne Gebühren zu nehmen durchgewunken wurden.
+
+Es ist essenziell, dass man Autor*innen vor Einreichung klar auf die
+Höhe der Gebühren hinweist, welche bei positiver Begutachtung anfallen.
+Die Gebühren werden aber auf der Hauptseite der Zeitschrift Academia
+Letters nicht erwähnt und in den Autor*innenrichtlinien {[}6{]} nur,
+falls man bereits eingeloggt ist oder mit einer Einreichung begonnen
+hat. Ohne Anmeldung wird man auf der Webseite von Academia gar keine
+Informationen zur Höhe der Gebühren finden. Solches Verhalten zur
+Verschleierung der Kosten kennt man von Predatory Publishers.
+
+Wie üblich bei Open-Access-Zeitschriften kann jede*r die publizierten
+Artikel ansehen und diese sind mit einer CC-BY 4.0 Lizenz versehen. Die
+Möglichkeit, die Artikel auch als PDF herunterzuladen, bekommt man aber
+erst, wenn man sich anmeldet und damit Academia kontinuierlich mit den
+eigenen Nutzungsdaten auf der Plattform versorgt.\footnote{Man muss sich
+  aber nicht mit einer genutzten E-Mail-Adresse anmelden, sondern kann
+  für solche Zwecke auch eine temporäre E-Mail-Adresse verwenden (etwa
+  über dropmail.me) und diese anschließend wieder löschen.} Zudem
+bekommt man als angemeldete*r Nutzer*in auch Empfehlungen und verwandte
+Artikel angezeigt. Letzteres kann man ja vielleicht als
+Zusatzfunktionalitäten der Plattform durchgehen lassen, aber die
+Möglichkeit, einen Open-Access-Artikel auch herunterzuladen, ist eine
+fundamentale Nachnutzung. Genau solche Nachnutzungen müssen bei
+Open-Access-Artikeln bereits nach der Budapester Open Access
+Erklärung\footnote{\url{https://www.budapestopenaccessinitiative.org/read/}}
+ohne solche technische Schranken (und eine zwingende Anmeldung ist solch
+eine Schranke) möglich sein.
+
+Zudem bietet Academia einen Premium Access\footnote{\url{https://www.academia.edu/upgrade?feature=default\&from_navbar=true}}
+für 100 US-Dollar pro Jahr an. Mit solch einem Premium Zugriff kann man
+weitere Funktionen auf Academia freischalten -- wie die erweiterte
+Suche, das Herunterladen von ganzen PDF-Paketen, Übersetzungen oder
+Such-Alerts. Die Verquickung von verschiedenen Einnahmeströmen zur
+Finanzierung der gleichen Zeitschriftenartikel ist kritisch zu
+betrachten. Dies ist der gleiche Grund, warum die Forschungsförderung
+und viele Universitäten die Finanzierung von einzelnen hybriden
+Open-Access-Artikeln ausschließen, da hier die Gefahr des Double
+Dippings von Seiten des Verlags besteht.
+
+\hypertarget{publikationszahlen}{%
+\section{Publikationszahlen}\label{publikationszahlen}}
+
+Auf der Zeitschriftenseite gibt es keine Such- oder Browsingmöglichkeit
+auf Zeitschriftenebene und daher sieht man nicht, wie viele Artikel
+bereits veröffentlicht wurden. Laut eigenen Angaben sind bereits über
+5.000 Artikel publiziert worden {[}1{]}. Mit Daten aus Crossref kann man
+die genauen Publikationszahlen und Metadaten analysieren. Dort befinden
+sich aktuell (Stand 13.03.2022) Daten zu 3.895 Artikeln von Academia
+Letters.
+
+\begin{figure}
+\centering
+\includegraphics[width=0.8\textwidth]{img/abb3.png}
+\caption{Veröffentlichte Artikel in Academia Letters pro Monat (N =
+3895, Quelle: Crossref, 13.03.2022).}
+\end{figure}
+
+Die Anzahl veröffentlichter Artikel ist in einigen Monaten extrem hoch,
+aber variiert auch sehr stark zwischen den Monaten (siehe Abbildung 3).
+Wahrscheinlich hat Academia aktiv Leute angesprochen beziehungsweise auf
+der eigenen Plattform auf die neue Möglichkeit zum Publizieren
+hingewiesen. Zumindest gibt es Berichte {[}7{]} von E-Mails, welche
+massenweise verschickt wurden und Nutzer*innen zum Schreiben eines
+Artikels für Academia Letters eingeladen haben.
+
+Die Anzahl veröffentlichter Artikel kann man auch tageweise betrachten.
+Beispielsweise wurden in der Woche ab dem 12. Juli 2021 insgesamt 568
+Artikel in der Zeitschrift und an einzelnen Tagen über 150 Artikel
+veröffentlicht. Zudem lässt sich beobachten, dass Artikel an jedem
+Wochentag inklusive Samstag und Sonntag veröffentlicht wurden (siehe
+Abbildung 4). Daher liegt für mich der Schluss nahe, dass die
+Veröffentlichungen weitestgehend automatisiert ablaufen und nur ein
+minimales menschliches Steuern erfordern.
+
+\begin{figure}
+\centering
+\includegraphics[width=0.8\textwidth]{img/abb4.png}
+\caption{Veröffentlichte Artikel in Academia Letters pro Wochentag (N =
+3895, Quelle: Crossref, 13.03.2022).}
+\end{figure}
+
+\hypertarget{angaben-zur-verfuxfcgbarkeit-von-daten-und-software}{%
+\section{Angaben zur Verfügbarkeit von Daten und
+Software}\label{angaben-zur-verfuxfcgbarkeit-von-daten-und-software}}
+
+Die diesem Artikel zugrundeliegenden Daten und das Auswertungsskript
+(Jupyter Notebook) sind über GitHub unter
+\url{https://github.com/zuphilip/analyze-mega-journals/} als Open Source
+beziehungsweise Open Data verfügbar. Dort findet man auch die
+Auswertungen der Abbildungen 1, 3 und 4 für Academia Letters sowie für
+andere Mega-Journals zum Vergleich.
+
+\hypertarget{fazit}{%
+\section{Fazit}\label{fazit}}
+
+Academia versucht mit dem Einstieg in das Open-Access-Publizieren das
+Potenzial seines aufgebauten sozialen Netzwerkes für Forschende weiter
+kommerziell abzuschöpfen. Mit einem möglichst automatisierten
+Publikationsworkflow und unter Ausnutzung der Wissenschaftler*innen soll
+der Aufwand auf Seiten des Verlags minimiert werden.
+
+Das komplette Fehlen eines Herausgeber*innengremiums, der Verzicht auf
+einen Workflow auch für größere Überarbeitungen, die Verschleierung der
+Kosten, die Anmeldeschranke beim PDF-Download und weitere Punkte lassen
+für mich nur den Schluss zu, dass die Publikationsmöglichkeit bei
+Academia Letters nicht seriös ist. Von einer Veröffentlichung in
+Academia Letters rate ich klar ab und dafür Geld zu bezahlen umso mehr.
+
+Möglicherweise helfen die Herangehensweise und Betrachtungen dieses
+Artikels auch in Zukunft für Einschätzungen zu neuartigen
+Publikationsprojekten von kommerziellen Akteur*innen im Bereich des
+wissenschaftlichen Publizierens, welche es bestimmt geben wird.
+
+\hypertarget{referenzen-und-links}{%
+\section{Referenzen und Links}\label{referenzen-und-links}}
+
+{[}1{]} Jack, A. (21. Februar 2022). Tencent-backed academic network to
+launch \enquote*{open access} journals. Financial Times.
+\url{https://www.ft.com/content/338e7d86-4a42-46cf-a0e9-9081b136bec7}
+
+{[}2{]} Mcvittie, C. (26. März 2021). Is anyone else being flooded with
+requests to review for Academia Letters? ResearchGate.
+\url{https://www.researchgate.net/post/Is_anyone_else_being_flooded_with_requests_to_review_for_Academia_Letters}
+
+{[}3{]} Guidelines for Authors and Reviewers. Academia Letters.
+Abgerufen 17. März 2022, von
+\url{https://www.academia.edu/letters/submission_faq}
+
+{[}4{]} Academia Letters page on Publons. Abgerufen 17. März 2022, von
+\url{https://publons.com/journal/890365/academia-letters/}
+
+{[}5{]} Think. Check. Submit. (Deutsch). Abgerufen 17. März 2022, von
+\url{https://thinkchecksubmit.org/translations/german/}
+
+{[}6{]} Guidelines for Authors and Reviewers. Academia Letters.
+Abgerufen 9. Mai 2022, von
+\url{https://www.academia.edu/letters/submission_faq}
+
+{[}7{]} \enquote{Academia Letters} from academia.edu: Legit or not?.
+reddit. Abgerufen 11. Februar 2021, von
+\href{https://www.reddit.com/r/AskAcademia/comments/lhvh3r/academia_letters_from_academiaedu_legit_or_not/}{https://www.reddit.com/r/AskAcademia/comments/lhvh3r/academia\_letters\_from\_aca demiaedu\_legit\_or\_not/}
+
+%autor
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{Philipp Zumstein} (\url{https://orcid.org/0000-0002-6485-9434})
+studierte Mathematik und promovierte in Theoretischer Informatik. Seit
+2012 arbeitet er an der Universitätsbibliothek Mannheim als
+Fachreferent. Dort leitet er seit 2018 das Team Publikationsservices und
+Forschungsunterstützung und ist Open-Access-Beauftragter der
+Universität.
+
+\end{document}
