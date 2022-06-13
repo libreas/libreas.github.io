@@ -1,5 +1,9 @@
 <div align="center">**Dieser Text ist Dr. Dieter Müller (1948--2022) in Liebe und Dankbarkeit gewidmet.**</div>
 
+<div align="center">\*\*\*</div>
+
+<br />
+
 *Vorbemerkung: Dieser Text sollte eigentlich eine Rezension für OpenAlex
 werden. Diese Academic Search Engine wurde Ende 2021 angekündigt und
 erscheint hinsichtlich ihres Datenmodells und der grundsätzlichen

@@ -386,12 +386,8 @@ in Basel 1985 (Alphaville AG 1985, gleichzeitig der 3. Schweizerische
 Videotex-Kongress). Zudem gab es immer Projekte, die jeweiligen Systeme
 in anderen Ländern zu verbreiten -- beispielsweise explizite Versuche
 Frankreichs, den Minitel über die Agentur «Intelmatique» zu exportieren.
-Und zudem zumindest später das Angebot der Firma Monaco an ihre
-Nutzer\*innen, Télématique MC-Tel, über ihre «serveur multi-normes,
-multi-lingues, multi-services, multi-réseaux» (Télématique MC-Tel 1989:
-8) Anschluss an alle europäischen Netze zu erhalten. Diese nationalen
-gesonderten Entwicklungen gab es auch bei gesamten gesellschaftlichen
-Kontext der Verbreitung dieser Technologien.
+Und zudem zumindest später das Angebot der Monacoischen Télématique MC-Tel an ihre Nutzer\*innen über ihre «serveur multi-normes, multi-lingues, multi-services, multi-réseaux» (Télématique MC-Tel 1989: 8) Anschluss an alle europäischen Netze zu erhalten. Diese nationalen gesonderten Entwicklungen gab es auch beim jeweiligen gesellschaftlichen Kontext der Verbreitung dieser Technologien.
+
 
 #### 4.1 Von «L\'informatisation de la société» zur Télématique
 

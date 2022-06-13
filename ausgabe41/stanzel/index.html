@@ -247,25 +247,9 @@
 <ul>
 <li><a href="#einleitung" id="toc-einleitung">Einleitung</a></li>
 <li><a href="#die-struktur-des-oam" id="toc-die-struktur-des-oam">Die
-Struktur des OAM</a>
-<ul>
-<li><a href="#backend" id="toc-backend">Backend</a></li>
-<li><a href="#api" id="toc-api">API</a></li>
-<li><a href="#frontend" id="toc-frontend">Frontend</a></li>
-</ul></li>
+Struktur des OAM</a></li>
 <li><a href="#die-daten-des-oam" id="toc-die-daten-des-oam">Die Daten
-des OAM</a>
-<ul>
-<li><a href="#quellsysteme" id="toc-quellsysteme">Quellsysteme</a></li>
-<li><a href="#normierungsprozesse"
-id="toc-normierungsprozesse">Normierungsprozesse</a></li>
-<li><a href="#zusammenführung-der-quellsysteme"
-id="toc-zusammenführung-der-quellsysteme">Zusammenführung der
-Quellsysteme</a></li>
-<li><a href="#zuordnung-der-oa-kategorien"
-id="toc-zuordnung-der-oa-kategorien">Zuordnung der
-OA-Kategorien</a></li>
-</ul></li>
+des OAM</a></li>
 <li><a href="#zusammenfassung-und-ausblick"
 id="toc-zusammenfassung-und-ausblick">Zusammenfassung und
 Ausblick</a></li>
@@ -385,7 +369,7 @@ Abfrage-Performance kann durch eine Indexierung weiter erhöht werden, da
 somit nicht mehr alle Dokumente, sondern nur noch die Indizes durchsucht
 werden müssen (Bradshaw et al. 2019).</p>
 <table>
-<caption>Übersicht über die Collections</caption>
+<caption>Tab. 1: Übersicht über die Collections</caption>
 <colgroup>
 <col style="width: 24%" />
 <col style="width: 75%" />
@@ -441,7 +425,7 @@ JSON-Dokumente zur Kommunikation; eine Übersicht der wichtigsten
 Endpunkte zeigt Tabelle 2.<a href="#fn4" class="footnote-ref"
 id="fnref4" role="doc-noteref"><sup>4</sup></a></p>
 <table>
-<caption>Die wichtigsten API Endpunkte</caption>
+<caption>Tab. 2: Die wichtigsten API Endpunkte</caption>
 <colgroup>
 <col style="width: 25%" />
 <col style="width: 74%" />
@@ -492,8 +476,8 @@ eine Seite mit vielen Filtermöglichkeiten, wie in Abbildung 1
 dargestellt.</p>
 <figure>
 <img src="img/Abb_1_Filter.png"
-alt="Filtermöglichkeiten für die Publikationsanalyse sowie die Gruppierungsoptionen" />
-<figcaption aria-hidden="true">Filtermöglichkeiten für die
+alt="Abb. 1: Filtermöglichkeiten für die Publikationsanalyse sowie die Gruppierungsoptionen" />
+<figcaption aria-hidden="true">Abb. 1: Filtermöglichkeiten für die
 Publikationsanalyse sowie die Gruppierungsoptionen</figcaption>
 </figure>
 <p>Diese Filter ermöglichen es den Nutzenden, diejenigen Daten zu
@@ -568,9 +552,9 @@ weiterhin das DOAJ als eine Art Positivliste aufrechtzuerhalten und
 indexieren.</p>
 <figure>
 <img src="img/Abb_2_Quelldatenbanken.png"
-alt="Übersicht der verwendeten Quellsysteme für den OAM" />
-<figcaption aria-hidden="true">Übersicht der verwendeten Quellsysteme
-für den OAM</figcaption>
+alt="Abb. 2: Übersicht der verwendeten Quellsysteme für den OAM" />
+<figcaption aria-hidden="true">Abb. 2: Übersicht der verwendeten
+Quellsysteme für den OAM</figcaption>
 </figure>
 <p>Für die Zeitschriftennormierung wird Crossref<a href="#fn12"
 class="footnote-ref" id="fnref12" role="doc-noteref"><sup>12</sup></a>
@@ -663,7 +647,7 @@ ISSNs übereinstimmen muss. Dementsprechend könnten mehrere mögliche
 Kandidaten in der Titelliste gefunden werden. Je nach Treffermenge wird
 wie in Tabelle 3 beschrieben vorgegangen:</p>
 <table>
-<caption>Abgleich der Zeitschriftentitel mit der
+<caption>Tab. 3: Abgleich der Zeitschriftentitel mit der
 Zeitschriftentitelliste</caption>
 <colgroup>
 <col style="width: 45%" />
@@ -788,8 +772,8 @@ Einrichtungen mit folgender SQL-SELECT-Abfrage nach
 <q>Universitätsklinik Würzburg</q> gefunden (Abbildung 3):</p>
 <figure>
 <img src="img/Abb_3_SQL_Abfrage_Uni_Wuerzburg.png"
-alt="SQL-SELECT-Abfrage nach “Universitätsklinik Würzburg” im Microsoft SQL Server Management Studio; scopus_organisations ist die Tabelle mit dem Einrichtungs-Datensatz von Scopus; sc_organisation ist die Spalte mit den verschiedenen Einrichtungs-Bezeichnungen." />
-<figcaption aria-hidden="true">SQL-SELECT-Abfrage nach
+alt="Abb. 3: SQL-SELECT-Abfrage nach “Universitätsklinik Würzburg” im Microsoft SQL Server Management Studio; scopus_organisations ist die Tabelle mit dem Einrichtungs-Datensatz von Scopus; sc_organisation ist die Spalte mit den verschiedenen Einrichtungs-Bezeichnungen." />
+<figcaption aria-hidden="true">Abb. 3: SQL-SELECT-Abfrage nach
 <q>Universitätsklinik Würzburg</q> im Microsoft SQL Server Management
 Studio; scopus_organisations ist die Tabelle mit dem
 Einrichtungs-Datensatz von Scopus; sc_organisation ist die Spalte mit
@@ -808,8 +792,8 @@ Universitäts-Kinderklinik Würzburg, welche jeweils eine eigene GRID-ID
 aufweisen (siehe Abbildung 4).</p>
 <figure>
 <img src="img/Abb_4_Grid.png"
-alt="Screenshot des GRID-Eintrages des Universitätsklinikums Würzburg (Datensatz für das Universitätsklinikum Würzburg in GRID: https://grid.ac/institutes/grid.411760.5. Abgerufen am 17.03.2022)." />
-<figcaption aria-hidden="true">Screenshot des GRID-Eintrages des
+alt="Abb. 4: Screenshot des GRID-Eintrages des Universitätsklinikums Würzburg (Datensatz für das Universitätsklinikum Würzburg in GRID: https://grid.ac/institutes/grid.411760.5. Abgerufen am 17.03.2022)." />
+<figcaption aria-hidden="true">Abb. 4: Screenshot des GRID-Eintrages des
 Universitätsklinikums Würzburg (Datensatz für das Universitätsklinikum
 Würzburg in GRID: <a href="https://grid.ac/institutes/grid.411760.5"
 class="uri">https://grid.ac/institutes/grid.411760.5</a>. Abgerufen am
@@ -857,7 +841,7 @@ eingeteilt. Die Kategorien von ROR sind für die Zwecke des OAM zu
 unscharf, sodass eine interne Zuordnungsliste gepflegt wird, welche
 jeder Einrichtung eine Kategorie zuordnet (siehe Tabelle 4).</p>
 <table>
-<caption>Einrichtungskategorien des OAM</caption>
+<caption>Tab. 4: Einrichtungskategorien des OAM</caption>
 <thead>
 <tr class="header">
 <th><strong>Einrichtungskategorie</strong></th>
@@ -907,9 +891,9 @@ Zeitschrift, Verlag, Veröffentlichungsdatum und OA-Modell. Eine
 befindet sich in Abbildung 5.</p>
 <figure>
 <img src="img/Abb_5_Quellsys_workflow.png"
-alt="Zusammenführung der Quellsysteme des OAM" />
-<figcaption aria-hidden="true">Zusammenführung der Quellsysteme des
-OAM</figcaption>
+alt="Abb. 5: Zusammenführung der Quellsysteme des OAM" />
+<figcaption aria-hidden="true">Abb. 5: Zusammenführung der Quellsysteme
+des OAM</figcaption>
 </figure>
 <p>Weitere Daten werden über den DOI aus Dimensions, Web of Science und
 Scopus wöchentlich per Datenfeed importiert, dabei werden für jeden
@@ -959,8 +943,8 @@ wird die OA Location mit der jeweiligen OA-Kategorie markiert und die
 Prüfung für die nächste OA Location fortgeführt. Schließlich wird die
 <q>beste</q> vergebene OA-Kategorie für die Publikation erfasst.</p>
 <table>
-<caption>Definitionen der Open-Access-Kategorien sowie die intern
-hinterlegten Bedingungen für die Zuordnung</caption>
+<caption>Tab. 5: Definitionen der Open-Access-Kategorien sowie die
+intern hinterlegten Bedingungen für die Zuordnung</caption>
 <colgroup>
 <col style="width: 9%" />
 <col style="width: 90%" />
@@ -1245,11 +1229,11 @@ href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor"
 class="uri">https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor</a>.
 Abgerufen am 17.03.2022.<a href="#fnref7" class="footnote-back"
 role="doc-backlink">↩︎</a></p></li>
-<li id="fn8" role="doc-endnote"><p>Filter für OA-Kategorien: * Verlag
-Publikationsmodell: Closed/Hybrid bzw. Gold * Zeitschrift
-Publikationsmodell: Closed/Hybrid, Gold oder Diamond * OA-Status
-Publikation: Closed, Bronze, Green (submitted), Green * (accepted),
-Green (published), Hybrid, Gold, Diamond<a href="#fnref8"
+<li id="fn8" role="doc-endnote"><p>Filter für OA-Kategorien:<br />
+* Verlag Publikationsmodell: Closed/Hybrid bzw. Gold<br />
+* Zeitschrift Publikationsmodell: Closed/Hybrid, Gold oder Diamond<br />
+* OA-Status Publikation: Closed, Bronze, Green (submitted), Green<br />
+* (accepted), Green (published), Hybrid, Gold, Diamond<a href="#fnref8"
 class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 <li id="fn9" role="doc-endnote"><p>Unpaywall: <a
 href="http://unpaywall.org/" class="uri">http://unpaywall.org/</a>.
@@ -1343,7 +1327,43 @@ class="uri">https://docs.openalex.org/known-issues</a>. Abgerufen am
 17.03.2022.<a href="#fnref27" class="footnote-back"
 role="doc-backlink">↩︎</a></p></li>
 </ol>
-</section></div>
+</section>
+<hr />
+<p><strong>Franziska Stanzel</strong> (<a
+href="https://orcid.org/0000-0003-0053-8604"
+class="uri">https://orcid.org/0000-0003-0053-8604</a>) ist seit Oktober
+2021 Teamleiterin des Open Access Monitors in der Zentralbibliothek des
+Forschungszentrums Jülich. Sie absolvierte das praktische Jahr des
+Bibliotheksreferendariates an der Bibliothek des kiz der Universität Ulm
+und die Theorie an der BSB München. Zuvor studierte sie Biochemie
+(Bachelor) an der Universität Bayreuth sowie Chemische Biologie (Master
+of Science) an der Friedrich-Schiller-Universität Jena.</p>
+<p><strong>Irene Barbers</strong> (<a
+href="https://orcid.org/0000-0003-2011-7444"
+class="uri">https://orcid.org/0000-0003-2011-7444</a>) ist
+Projektverantwortliche für den Open Access Monitor. Sie hat
+wissenschaftliches Bibliothekswesen (Dipl.-Bibl.) und Bibliotheks- und
+Informationswissenschaft (MA LIS) an der FH Köln studiert und ist
+Leiterin des Fachbereichs Literaturerwerbung in der Zentralbibliothek
+des Forschungszentrums Jülich. Sie ist Mitglied im Executive Committee
+und im Board of Directors des Projekts COUNTER sowie Mitglied des
+EZB-Beirats (2022–2025).</p>
+<p><strong>Philipp Pollack</strong> (<a
+href="https://orcid.org/0000-0002-3660-5752"
+class="uri">https://orcid.org/0000-0002-3660-5752</a>) ist für die
+technische Umsetzung des Open Access Monitors verantwortlich. Er ist
+seit 2011 am Forschungszentrum Jülich angestellt. Dort hat er zunächst
+ein duales Studium zum Mathematisch-technischen Softwareentwickler
+absolviert und anschließend den Master of Science im Fach Informatik an
+der Heinrich-Heine-Universität Düsseldorf erlangt.</p>
+<p><strong>Barbara Lindstrot</strong> (<a
+href="https://orcid.org/0000-0003-2487-9040"
+class="uri">https://orcid.org/0000-0003-2487-9040</a>) ist an der Pflege
+der Daten des Open Access Monitors beteiligt. Nach dem Abschluss als
+Dipl.-Dokumentarin an der Fachhochschule Potsdam war sie zunächst bei
+„d&amp;a Dokumentationsservice GmbH” in Potsdam angestellt. Seit 2009
+arbeitet sie im Team Lizenzmanagement in der Zentralbibliothek des
+Forschungszentrums Jülich.</p></div>
 
     
 
@@ -1364,7 +1384,7 @@ role="doc-backlink">↩︎</a></p></li>
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2022-06-06</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2022-06-13</a>)</p>
 
 </footer>
       </div>

@@ -117,7 +117,7 @@ Herausgeber\*inneninstanz oder -algorithmus final freigegeben werden. Ob
 dies seriös und fachlich immer angebracht zu bewerkstelligen ist,
 bezweifle ich.
 
-![Wortwolke aus den Titeln der bisher veröffentlichten Artikel in Academia Letters (N = 3895, Quelle: Crossref, 13.03.2022).](img/abb1.png)
+![Abb. 1: Wortwolke aus den Titeln der bisher veröffentlichten Artikel in Academia Letters (N = 3895, Quelle: Crossref, 13.03.2022).](img/abb1.png)
 
 In den Autor\*innenrichtlinien findet man drei explizit genannte
 akzeptierte Artikeltypen. Der erste Punkt "Thought-provoking hypotheses
@@ -139,7 +139,7 @@ werden. Hinter dem Klammer-Symbol versteckt sich die Möglichkeit Bilder
 einzufügen und mit Tricks kann man auch mathematische Formeln eingeben.
 Es scheint aber nicht möglich zu sein, etwa eine Tabelle einzufügen.
 
-![Einreichungsmaske bei Academia Letters mit den Feldern zur Eingabe der Metadaten sowie des Textes auf der linken Seite und einer automatisch generierten Vorschau auf der rechten Seite.](img/abb2.png)
+![Abb. 2: Einreichungsmaske bei Academia Letters mit den Feldern zur Eingabe der Metadaten sowie des Textes auf der linken Seite und einer automatisch generierten Vorschau auf der rechten Seite.](img/abb2.png)
 
 Prinzipiell kann die direkte Eingabe des Textes im Einreichungsworkflow
 einer Zeitschrift interessant sein. Man sieht dabei direkt das fertige
@@ -214,7 +214,7 @@ die genauen Publikationszahlen und Metadaten analysieren. Dort befinden
 sich aktuell (Stand 13.03.2022) Daten zu 3.895 Artikeln von Academia
 Letters.
 
-![Veröffentlichte Artikel in Academia Letters pro Monat (N = 3895, Quelle: Crossref, 13.03.2022).](img/abb3.png)
+![Abb. 3: Veröffentlichte Artikel in Academia Letters pro Monat (N = 3895, Quelle: Crossref, 13.03.2022).](img/abb3.png)
 
 Die Anzahl veröffentlichter Artikel ist in einigen Monaten extrem hoch,
 aber variiert auch sehr stark zwischen den Monaten (siehe Abbildung 3).
@@ -233,7 +233,7 @@ Abbildung 4). Daher liegt für mich der Schluss nahe, dass die
 Veröffentlichungen weitestgehend automatisiert ablaufen und nur ein
 minimales menschliches Steuern erfordern.
 
-![Veröffentlichte Artikel in Academia Letters pro Wochentag (N = 3895, Quelle: Crossref, 13.03.2022).](img/abb4.png)
+![Abb. 4: Veröffentlichte Artikel in Academia Letters pro Wochentag (N = 3895, Quelle: Crossref, 13.03.2022).](img/abb4.png)
 
 ### Angaben zur Verfügbarkeit von Daten und Software
 

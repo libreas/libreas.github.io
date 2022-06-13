@@ -2,7 +2,7 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>https://libreas.eu/ausgabe41/stanzel/</loc>
-        <lastmod>2022-06-06T17:59:18+02:00</lastmod>
+        <lastmod>2022-06-13T10:06:02+02:00</lastmod>
     </url>
     <url>
         <loc>https://libreas.eu/ausgabe41/stanzel/vita.html</loc>
@@ -10,11 +10,11 @@
     </url>
     <url>
         <loc>https://libreas.eu/ausgabe41/stanzel/meta.yaml</loc>
-        <lastmod>2022-06-06T16:35:08+02:00</lastmod>
+        <lastmod>2022-06-13T10:06:30+02:00</lastmod>
     </url>
     <url>
         <loc>https://libreas.eu/ausgabe41/christensen/</loc>
-        <lastmod>2022-06-06T17:59:18+02:00</lastmod>
+        <lastmod>2022-06-13T10:03:51+02:00</lastmod>
     </url>
     <url>
         <loc>https://libreas.eu/ausgabe41/christensen/vita.html</loc>
@@ -38,7 +38,7 @@
     </url>
     <url>
         <loc>https://libreas.eu/ausgabe41/schuldt/</loc>
-        <lastmod>2022-06-06T17:59:18+02:00</lastmod>
+        <lastmod>2022-06-13T10:03:51+02:00</lastmod>
     </url>
     <url>
         <loc>https://libreas.eu/ausgabe41/schuldt/vita.html</loc>
@@ -50,7 +50,7 @@
     </url>
     <url>
         <loc>https://libreas.eu/ausgabe41/zumstein/</loc>
-        <lastmod>2022-06-06T17:59:18+02:00</lastmod>
+        <lastmod>2022-06-13T10:03:51+02:00</lastmod>
     </url>
     <url>
         <loc>https://libreas.eu/ausgabe41/zumstein/vita.html</loc>
@@ -59,6 +59,10 @@
     <url>
         <loc>https://libreas.eu/ausgabe41/zumstein/meta.yaml</loc>
         <lastmod>2022-06-06T17:59:18+02:00</lastmod>
+    </url>
+    <url>
+        <loc>https://libreas.eu/ausgabe41/dldl/meta.yaml</loc>
+        <lastmod>2022-06-13T10:03:51+02:00</lastmod>
     </url>
     <url>
         <loc>https://libreas.eu/</loc>

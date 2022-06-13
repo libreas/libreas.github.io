@@ -124,7 +124,7 @@ sondern nur noch die Indizes durchsucht werden müssen (Bradshaw et al.
 | Organisations     | Alle Einrichtungen des OAM                                 |
 | Statistics        | Statistische Zahlen zu den Daten (zuletzt aktualisiert, …) |
 | SubscriptionCosts | Zukünftig: Aggregierte Subskriptionskosten                 |
-Table: Übersicht über die Collections
+Table: Tab. 1: Übersicht über die Collections
 
 Die Daten können über die umfangreiche Abfragesprache der MongoDB
 abgerufen oder auch aggregiert werden. Da die Datenbank allerdings nicht
@@ -146,7 +146,7 @@ Kommunikation; eine Übersicht der wichtigsten Endpunkte zeigt Tabelle
 | `/Data`                          | Abfrage der verfügbaren Datenbanken.                                                              |
 | `/Data/{database}`               | Collections einer Datenbank abfragen.                                                             |
 | `/Data/{database}?query={query}` | Abfrage in einer Datenbank ausführen. Die Abfrage muss als MongoDB Command[^5] formuliert werden. |
-Table: Die wichtigsten API Endpunkte
+Table: Tab. 2: Die wichtigsten API Endpunkte
 
 #### Frontend
 
@@ -171,7 +171,7 @@ Publikationsanalyse der Menüpunkt Publikationen ausgewählt, erhält man
 eine Seite mit vielen Filtermöglichkeiten, wie in Abbildung 1
 dargestellt.
 
-![Filtermöglichkeiten für die Publikationsanalyse sowie die Gruppierungsoptionen](img/Abb_1_Filter.png)
+![Abb. 1: Filtermöglichkeiten für die Publikationsanalyse sowie die Gruppierungsoptionen](img/Abb_1_Filter.png)
 
 Diese Filter ermöglichen es den Nutzenden, diejenigen Daten zu
 selektieren, welche für ihre Fragestellungen relevant sind und die
@@ -243,7 +243,7 @@ bei sich ändernden Rahmenbedingungen weiterhin das DOAJ als eine Art
 Positivliste aufrechtzuerhalten und "questionable publishers" (Olijhoek
 et al. 2015) nicht zu indexieren.
 
-![Übersicht der verwendeten Quellsysteme für den OAM](img/Abb_2_Quelldatenbanken.png)
+![Abb. 2: Übersicht der verwendeten Quellsysteme für den OAM](img/Abb_2_Quelldatenbanken.png)
 
 Für die Zeitschriftennormierung wird Crossref[^12] verwendet: Crossref
 bietet die Verlinkung zwischen zitierender und zitierter Publikation
@@ -346,7 +346,7 @@ wie in Tabelle 3 beschrieben vorgegangen:
 |                                          | Übereinstimmung einer zusätzlichen ISSN[^18]      |
 |                                          | Ähnlichkeit des Titels                            |
 | Kein Treffer                             | Exakte Titelsuche                                 |
-Table: Abgleich der Zeitschriftentitel mit der Zeitschriftentitelliste
+Table: Tab. 3: Abgleich der Zeitschriftentitel mit der Zeitschriftentitelliste
 
 Sind die Zeitschriftentitel normiert, werden diese direkt mit mehreren
 Informationen angereichert. Durch diese zusätzlichen Informationen wird
@@ -428,7 +428,7 @@ Insgesamt 129 Treffer werden allein in den Scopus-Daten der deutschen
 Einrichtungen mit folgender SQL-SELECT-Abfrage nach "Universitätsklinik
 Würzburg" gefunden (Abbildung 3):
 
-![SQL-SELECT-Abfrage nach "Universitätsklinik Würzburg" im Microsoft SQL Server Management Studio; scopus_organisations ist die Tabelle mit dem Einrichtungs-Datensatz von Scopus; sc_organisation ist die Spalte mit den verschiedenen Einrichtungs-Bezeichnungen.](img/Abb_3_SQL_Abfrage_Uni_Wuerzburg.png)
+![Abb. 3: SQL-SELECT-Abfrage nach "Universitätsklinik Würzburg" im Microsoft SQL Server Management Studio; scopus_organisations ist die Tabelle mit dem Einrichtungs-Datensatz von Scopus; sc_organisation ist die Spalte mit den verschiedenen Einrichtungs-Bezeichnungen.](img/Abb_3_SQL_Abfrage_Uni_Wuerzburg.png)
 
 Im Anschluss kann diesen 129 Treffern der SELECT-Abfrage die GRID-ID
 grid.8379.5 zugeordnet werden. Diese SELECT-Abfrage ist komplex, da
@@ -442,7 +442,7 @@ untergeordneten Einrichtungen (Child-Institutes), wie zum Beispiel die
 Universitäts-Kinderklinik Würzburg, welche jeweils eine eigene GRID-ID
 aufweisen (siehe Abbildung 4).
 
-![Screenshot des GRID-Eintrages des Universitätsklinikums Würzburg (Datensatz für das Universitätsklinikum Würzburg in GRID: <https://grid.ac/institutes/grid.411760.5>. Abgerufen am 17.03.2022).](img/Abb_4_Grid.png)
+![Abb. 4: Screenshot des GRID-Eintrages des Universitätsklinikums Würzburg (Datensatz für das Universitätsklinikum Würzburg in GRID: <https://grid.ac/institutes/grid.411760.5>. Abgerufen am 17.03.2022).](img/Abb_4_Grid.png)
 
 Um falsche Zuordnungen sowie fehlende Einträge zu vermeiden, werden die
 vergebenen IDs intellektuell geprüft. Dabei hat sich ein mehrstufiges
@@ -502,7 +502,7 @@ Kategorie zuordnet (siehe Tabelle 4).
 | Einrichtungen des Bundes |
 | Einrichtungen der Länder |
 | Sonstige                 |
-Table: Einrichtungskategorien des OAM
+Table: Tab. 4: Einrichtungskategorien des OAM
 
 
 #### Zusammenführung der Quellsysteme
@@ -515,7 +515,7 @@ Verlag, Veröffentlichungsdatum und OA-Modell. Eine Übersicht der
 genutzten Quellsysteme und den daraus verwendeten Daten befindet sich in
 Abbildung 5.
 
-![Zusammenführung der Quellsysteme des OAM](img/Abb_5_Quellsys_workflow.png)
+![Abb. 5: Zusammenführung der Quellsysteme des OAM](img/Abb_5_Quellsys_workflow.png)
 
 Weitere Daten werden über den DOI aus Dimensions, Web of Science und
 Scopus wöchentlich per Datenfeed importiert, dabei werden für jeden
@@ -579,7 +579,7 @@ vergebene OA-Kategorie für die Publikation erfasst.
 | Green undefined | Version kann nicht bestimmt werden; wird im OAM wie Green submitted behandelt                                                                            | Host ist ein Repositorium                                                                   |
 | Bronze          | Frei zu lesen auf der Verlagsseite, aber ohne klar erkennbare Lizenz.                                                                                    | Host ist ein Verlag und der Artikel besitzt keine CC-Lizenz, aber ist momentan ohne Paywall |
 | Closed          | Alle anderen Artikel. (Nicht frei zugänglich.)                                                                                                           | Ansonsten                                                                                   |
-Table: Definitionen der Open-Access-Kategorien sowie die intern hinterlegten Bedingungen für die Zuordnung
+Table: Tab. 5: Definitionen der Open-Access-Kategorien sowie die intern hinterlegten Bedingungen für die Zuordnung
 
 Die OA-Zuordnung für Zeitschriften erfolgt über einen ISSN-Abgleich mit
 den Daten des DOAJ, um das Publikationsmodell der Zeitschriften zu
@@ -755,10 +755,10 @@ Science, Scopus and Dimensions: A comparative analysis. In: *Scientometrics* 126
     <https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor>.
     Abgerufen am 17.03.2022.
 
-[^8]: Filter für OA-Kategorien:
-* Verlag Publikationsmodell: Closed/Hybrid bzw. Gold
-* Zeitschrift Publikationsmodell: Closed/Hybrid, Gold oder Diamond
-* OA-Status Publikation: Closed, Bronze, Green (submitted), Green
+[^8]: Filter für OA-Kategorien:\
+* Verlag Publikationsmodell: Closed/Hybrid bzw. Gold\
+* Zeitschrift Publikationsmodell: Closed/Hybrid, Gold oder Diamond\
+* OA-Status Publikation: Closed, Bronze, Green (submitted), Green\
 * (accepted), Green (published), Hybrid, Gold, Diamond
 
 [^9]: Unpaywall: <http://unpaywall.org/>. Abgerufen am 17.03.2022.
