@@ -157,6 +157,8 @@ Längere Aufenthalte -- auf die hin Bibliotheken ja verstärkt durch
 Angebote wie Cafés oder Orte zum Entspannen ausgerichtet werden -- sind
 weiterhin die Ausnahme. (ks)
 
+---
+
 Marler, Will (2021). *'You can't talk at the library': the leisure
 divide and public internet access for people experiencing homelessness*.
 In: Information, Communication & Society \[Latest Articles\],

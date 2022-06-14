@@ -251,6 +251,7 @@
 <p>Für jede der genannten Datenquellen haben wir eine Prozedur entwickelt, die die Überführung eines Snapshots in BigQuery ermöglicht. Die dabei angewandten Schritte lassen sich in Download, Prozessierung/Transformation, Upload und Erstellung einer Tabelle in BigQuery unterteilen.</p>
 <p>Im ersten Schritt wird ein Big-Scholarly-Data-Snapshot auf Server der Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG), die als Rechenzentrum der Universität Göttingen fungiert, heruntergeladen. Im zweiten Schritt verwenden wir Skripte, die es ermöglichen, die Datenbestände zu filtern, Datenfelder zu entfernen und Zeittransformationen durchzuführen. Hiermit soll erreicht werden, dass sich die Größe des Snapshots reduziert, wodurch wir Cloud-Computing-Kosten sparen. Da die Snapshots meist sehr umfangreich sind und mehrere hundert Gigabyte umfassen können, verwenden wir für die Datentransformation das High Performance Cluster (HPC) der GWDG. Dieser Service erlaubt es uns, durch die Bereitstellung leistungsstarker Server, mit großen Datenmengen zu arbeiten. Je nach Konfiguration und Datenbank kann die Transformation auf dem HPC mehrere Stunden dauern. Das Resultat wird daraufhin in ein <q>Google Bucket</q> geladen. Von da aus kann eine Tabelle in BigQuery erstellt werden. Tabelle 1 zeigt die von uns bereitgestellten Datenbanken sowie die angewendeten Prozeduren.</p>
 <p>Tabelle 1: Informationen zu den bereitgestellten Snapshots</p>
+<div style="overflow-x:auto;">
 <table>
 <colgroup>
 <col style="width: 1%" />
@@ -282,10 +283,13 @@
 </tr>
 </tbody>
 </table>
+</div>
 <h4 id="zugriffsoptionen">Zugriffsoptionen</h4>
 <p>Es existieren verschiedene Zugriffsmöglichkeiten auf BigQuery. Die Google Cloud console bietet eine webbasierte grafische Benutzeroberfläche, mit der sämtliche Ressourcen verwaltet und SQL-Anfragen ausgeführt werden können. Es ist möglich, SQL-Anfragen projektbezogen zu teilen. Zudem lässt sich auf BigQuery mit den uns vertrauten Programmiersprachen R und Python zugreifen.</p>
 <p>Die Autorisierung und Authentifizierung erfolgt wie etwa bei GoogleDocs über Google-Accounts. Ein umfassendes Rechtemanagement ermöglicht es uns, externe Kolleg*innen einzuladen und ihnen angepasste Rollen für den Datenzugriff einzuräumen. Es lassen sich zudem Zugriffstoken erstellen, etwa wenn Abfragen durch einen Continuous Integration und Continuous Delivery (CI/CD) Service wie GitHub Actions automatisch ausgeführt werden sollen.</p>
 <p>Das folgende Beispiel illustriert den Zugriff auf unser BigQuery Datawarehouse mit R und dem Client bigrquery (Wickham &amp; Bryan, 2021). Nach erfolgter Authentifizierung fragen wir den aktuellen Crossref-Snapshot mittels SQL nach den Top 10 Verlagen mit Artikeln unter einer Creative-Commons-Lizenz ab. Die Ergebnistabelle kann entweder innerhalb der BigQuery-Cloud-Umgebung gespeichert oder lokal heruntergeladen werden.</p>
+<div style="overflow-x:auto;">
+
 <pre><code>library(bigrquery)
  
 # Authentification
@@ -326,6 +330,7 @@ bigrquery::bq_table_download(tb)
 #&gt;  8 Frontiers Media SA                          212607
 #&gt;  9 Informa UK Limited                          166956
 #&gt; 10 Walter de Gruyter GmbH                      106683</code></pre>
+</div>
 <h4 id="organisatorische-aspekte">Organisatorische Aspekte</h4>
 <p>Kommerzielle Cloud-Services wie Google Cloud rechnen ihre Kosten bezogen auf die Nutzung ab. Bei Google BigQuery gibt es zwei Kostenarten: Speicher- und Abfragevolumen. Beliefen sich die monatlichen Kosten zu Beginn zunächst auf 2€, so liegen sie seit der Integration von OpenAlex und Crossref zwischen 20 und 30€.</p>
 <p>Die Rechnungen lassen sich im Rahmen einer Auslagenerstattung einreichen, was aus Sicht der Verwaltung nur eine Übergangslösung ist. Mittlerweile schließen Rechenzentrumsverbünde wie GÉANT Rahmenvereinbarungen mit Cloud-Computing-Anbietern an. Daher arbeiten wir derzeit im Austausch mit unserem federführenden Rechenzentrum, der GWDG, daran, dass wir als Pilot im Zuge einer solchen Infrastructure-as-a-Service-Vereinbarung auf einen zentralen Google-Cloud-Account wechseln. Dadurch könnte die Rechnungslegung künftig zentral erfolgen.</p>
@@ -402,7 +407,7 @@ bigrquery::bq_table_download(tb)
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2022-06-13</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2022-06-14</a>)</p>
 
 </footer>
       </div>
