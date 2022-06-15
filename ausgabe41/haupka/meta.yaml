@@ -36,7 +36,7 @@
     <meta property="dc:source" content="LIBREAS. Library Ideas" />
     <meta property="dc:subject" content="Library and Information Science" />
     <meta property="dc:type" content="website" />
-    <meta property="dc:description" content="Der Beitrag stellt den Einsatz des kommerziellen Cloud-Computing-Dienstes Google BigQuery für die Arbeit mit großen offenen Datensätzen über wissenschaftliche Veröffentlichungen an der Nidersächsischen Staats- und Universitätsbibliothek Göttingen (SUB Göttingen) vor, insbesondere bezogen auf den Datenbestand, die Prozessierung und die Zugriffsmöglichkeiten. Als beispielhafter Use Case werden überregionale Open-Access-Transformationsverträgen in Deutschland bezogen auf ihren Open-Access-Anteil analysiert."/>
+    <meta property="dc:description" content="Der Beitrag stellt den Einsatz des kommerziellen Cloud-Computing-Dienstes Google BigQuery für die Arbeit mit großen offenen Datensätzen über wissenschaftliche Veröffentlichungen an der Niedersächsischen Staats- und Universitätsbibliothek Göttingen (SUB Göttingen) vor, insbesondere bezogen auf den Datenbestand, die Prozessierung und die Zugriffsmöglichkeiten. Als beispielhafter Use Case werden überregionale Open-Access-Transformationsverträgen in Deutschland bezogen auf ihren Open-Access-Anteil analysiert."/>
     <meta property="dc:source" resource="urn:ISSN:1860-7950" /> 
 
 <!-- Google Scholar -->
@@ -184,7 +184,7 @@
 
         
 
-        <p><small itemprop="description">Der Beitrag stellt den Einsatz des kommerziellen Cloud-Computing-Dienstes Google BigQuery für die Arbeit mit großen offenen Datensätzen über wissenschaftliche Veröffentlichungen an der Nidersächsischen Staats- und Universitätsbibliothek Göttingen (SUB Göttingen) vor, insbesondere bezogen auf den Datenbestand, die Prozessierung und die Zugriffsmöglichkeiten. Als beispielhafter Use Case werden überregionale Open-Access-Transformationsverträgen in Deutschland bezogen auf ihren Open-Access-Anteil analysiert.</small></p>
+        <p><small itemprop="description">Der Beitrag stellt den Einsatz des kommerziellen Cloud-Computing-Dienstes Google BigQuery für die Arbeit mit großen offenen Datensätzen über wissenschaftliche Veröffentlichungen an der Niedersächsischen Staats- und Universitätsbibliothek Göttingen (SUB Göttingen) vor, insbesondere bezogen auf den Datenbestand, die Prozessierung und die Zugriffsmöglichkeiten. Als beispielhafter Use Case werden überregionale Open-Access-Transformationsverträgen in Deutschland bezogen auf ihren Open-Access-Anteil analysiert.</small></p>
 
         
 
@@ -246,7 +246,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2022-06-14</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2022-06-15</a>)</p>
 
 </footer>
       </div>

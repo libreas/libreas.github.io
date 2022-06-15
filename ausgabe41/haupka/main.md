@@ -362,7 +362,7 @@ Diverse Research Landscape". *Scientometrics* 126, Nr. 12 (2021):
 [https://doi.org/10.1007/s11192-021-04002-0](https://doi.org/10.1007/s11192-021-04002-0).
 
 Jahn, Najko, Maximilian Held, Henrieke Walter, Nick Haupka und
-Kristine Hillenkötter. "HOAD: Data Analytics Für Mehr Transparenz Bei
+Kristine Hillenkötter. "HOAD: Data Analytics für mehr Transparenz bei
 Open-Access-Transformationsverträgen". *ABI Technik* 42, Nr. 1 (2022):
 64--69.
 [https://doi.org/10.1515/abitech-2022-0007](https://doi.org/10.1515/abitech-2022-0007).
