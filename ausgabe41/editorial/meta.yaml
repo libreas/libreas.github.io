@@ -137,10 +137,13 @@
     
     <div align="right">
     <p><small><a itemprop="sameAs" href="https://via.hypothes.is/https://libreas.eu/ausgabe41/editorial/meta.yaml">Annotate via hypothes.is</a></small></p>
-        <small><a itemprop="sameAs" href="main.pdf">Download PDF</a></small>
+        <small><a itemprop="sameAs" href="https://doi.org/10.18452/24796">Download PDF</a></small>
         </div>
     
     
+    <div align="right">
+        <small><a itemprop="sameAs" href="https://doi.org/10.18452/24796">doi:10.18452/24796</a> (edoc HU Berlin)</small>
+        </div>
         
 
         
@@ -222,7 +225,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2022-06-15</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2022-07-03</a>)</p>
 
 </footer>
       </div>
