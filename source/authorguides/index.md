@@ -28,6 +28,12 @@ Den Autor\*innen steht es selbstverständlich frei, Beiträge zu jedem Thema ihr
 
 LIBREAS versteht sich als offene Publikationsplattform auch hinsichtlich über die Form Text hinausreichender medialer Varianten. Fotoserien, Podcasts, Illustration, Medienkunst etc. sind nicht nur denkbar, sondern ausdrücklich willkommen. Wir bitten jedoch vor der Einreichung um eine Kontaktaufnahme mit der Redaktion.
 
+
+**Begleitende Materialien**
+
+Libreas ist dem Gedanken von Offenheit im Allgemeinen und im Besonderen offener Wissenschaft verpflichtet. Im Zeichen von Transparenz und Nachnutzbarkeit wird die Archivierung (frei zugänglich und unter möglichst offener Lizenz) begleitender Materialien einschließlich einer Dokumentation in jeweils geeigneten Repositorien empfohlen. Das schließt insbesondere Forschungsdaten, Auswertungsskripte oder (Forschungs-)software ein. Bitte geben Sie die bibliografischen Daten im Beitrag an – inklusive persistenter Identifikatoren (zum Beispiel DOI).
+
+
 **Formalia**
 
 LIBREAS nimmt Beiträge in den Formaten doc, odt, rft, txt oder in markdown an. Formatierungen, die über Strukturangaben (Überschrift, Absatz, Zitat, Fett- und Kursivsetzung) hinausgehen, gehen bei der Umwandlung in die Webfassung verloren. Wir raten dazu, auf derartige Formatierungen zu verzichten. Sollten Sonderformatierungen unbedingt notwendig sein, ist dies mit der Redaktion im Vorfeld abzuklären. Abbildungen müssen zusätzlich zum Manuskript als separate Bilddateien in einem Standardformat beigefügt werden.
@@ -96,6 +102,10 @@ Without saying contributors are free to suggest or submit articles on any topic 
 **Other Submissions**
 
 LIBREAS is also an open publishing platform for different types of media including photo series, podcasts, illustrations, media art et cetera. However, before you start producing and submitting your non-text material LIBREAS would like to be informed about.
+
+**Supplementary Material**
+
+Libreas is committed to the idea of openness in general and open research in particular. To foster transparency and reusability, it is highly recommended to  archive supplementary materials including documentation in appropriate repositories (open access and distributed under an open-content license). This includes in particular research data, scripts for data analysis, or (research) software. Please provide the corresponding bibliographic data in your article – including persistent identifiers (for example DOI).
 
 **Formal Specifications**
 
