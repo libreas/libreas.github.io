@@ -23,14 +23,16 @@ Kontakt: redaktion@libreas.eu
 
 - Eva Bunge M.S., M.A. ([https://orcid.org/0000-0002-5587-5934](https://orcid.org/0000-0002-5587-5934)) -- eva@libreas.eu
 - Philipp Falkenburg ([https://orcid.org/0000-0001-9788-8277](https://orcid.org/0000-0001-9788-8277)) -- philipp@libreas.eu
-- Dr. Linda Freyberg (UCLAB, Fachhochschule Potsdam \& Museum für Naturkunde, [https://orcid.org/0000-0002-4620-7571](https://orcid.org/0000-0002-4620-7571)) -- linda@libreas.eu
+- Dr. Linda Freyberg (BBF | Bibliothek für Bildungsgeschichtliche Forschung des DIPF | Leibniz-Institut für Bildungsforschung und Bildungsinformation, [https://orcid.org/0000-0002-4620-7571](https://orcid.org/0000-0002-4620-7571)) -- freyberg@dipf.de
 - Julia Hempel B.A. (Berlin School of Library and Information Science, Humboldt-Universität zu Berlin) --  julia@libreas.eu
 - Najko Jahn M.A. (SUB Göttingen) -- najko@libreas.eu
-- Sara Juen B.A. ([https://orcid.org/0000-0003-0725-8592](https://orcid.org/0000-0003-0725-8592)) -- sara@libreas.eu
+- Sara Juen M.A.  (Institut für Gender & Diversity, OST - Ostschweizer Fachhoschule St. Gallen, [https://orcid.org/0000-0003-0725-8592](https://orcid.org/0000-0003-0725-8592)) -- sara@libreas.eu
 - Jana Rumler M.A. (Museum für Naturkunde Berlin \& Vernetzungs- und Kompetenzstelle Open Access Brandenburg) - jana@libreas.eu
 - Dr. Karsten Schuldt (Schweizerisches Institut für Informationswissenschaft, FH Graubünden) -- karsten@libreas.eu
 - Matti Stöhr M.A. (TIB Hannover) -- matti@libreas.eu
 - Michaela Voigt M.A. ([https://orcid.org/0000-0001-9486-3189](https://orcid.org/0000-0001-9486-3189)) -- michaela@libreas.eu
+
+
 
 #### ehemalige Redaktionsmitglieder
 
