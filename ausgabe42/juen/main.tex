@@ -1,0 +1,1495 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage[babel]{csquotes}
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage[labelformat=empty]{caption} % option 'labelformat=empty]' to surpress adding "Abbildung 1:" or "Figure 1" before each caption / use parameter '\captionsetup{labelformat=empty}' instead to change this for just one caption
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+\setcapindent{0pt} % no indentation in captions
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+% typo setup
+\clubpenalty = 10000
+\widowpenalty = 10000
+\displaywidowpenalty = 10000
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+\usepackage{breakurl}
+
+%meta
+%meta
+
+\fancyhead[L]{S. Juen\\ %author
+LIBREAS. Library Ideas, 42 (2022). % journal, issue, volume.
+\href{http://nbn-resolving.de/}
+{}} % urn 
+% recommended use
+%\href{http://nbn-resolving.de/}{\color{black}{urn:nbn:de...}}
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/4.0/}{\color{black}Creative Commons BY 4.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{Sicherheitspersonal in Bibliotheken – Eine qualitative Untersuchung zur Rolle des Wachschutzes in Bibliotheken Deutschlands}}% title
+\author{Sara Juen} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={Sicherheitspersonal in Bibliotheken – Eine qualitative Untersuchung zur Rolle des Wachschutzes in Bibliotheken Deutschlands},
+      pdfauthor={Sara Juen},
+      pdfcopyright={CC BY 4.0 International},
+      pdfsubject={LIBREAS. Library Ideas, 42 (2022).},
+      pdfkeywords={Bibliothek, Sicherheit, Wachdienst, Sicherheitsdienst, Interview, Zusammenarbeit, library, safety, security guards, survey, cooperation},
+      pdflicenseurl={https://creativecommons.org/licenses/by/4.0/},
+      pdfcontacturl={http://libreas.eu},
+      baseurl={http://libreas.eu},
+      pdflang={de},
+      pdfmetalang={de}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+\begin{abstract}
+\noindent
+\textbf{Kurzfassung}: Wachdienste in deutschen Bibliotheken sind keine
+Seltenheit mehr und scheinen sich als Partner*innen im Alltag etabliert
+zu haben. Doch was genau macht das Sicherheitspersonal in Bibliotheken
+und warum braucht es sie überhaupt? Der folgende Artikel präsentiert die
+Ergebnisse einer Interview-Studie, welche zum Ziel hatte herauszufinden,
+wie Sicherheitspersonal in den Arbeitsort Bibliothek eingebunden ist.
+Dazu wurden Interviews mit Personen geführt, welche in ihrer Bibliothek
+für den Wachschutz zuständig sind. Es stellte sich heraus, dass es
+zwischen den Bibliotheken Gemeinsamkeiten bezüglich der Anforderungen
+und Herausforderungen mit den Wachdiensten gibt, genauso aber auch
+unterschiedliche Herangehensweisen und bibliotheksspezifische
+Bedürfnisse. Diese Arbeit hatte zum einen das Ziel, eine Lücke in der
+aktuellen Forschung zu schliessen und zum anderen die Aufmerksamkeit auf
+eine Praxis zu lenken, die in deutschen Bibliotheken immer alltäglicher
+zu werden scheint.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\noindent\textbf{Abstract}: Security guards in German libraries are no longer a
+rarity and seem to have established themselves as partners in the daily
+business. But what exactly security staff do in libraries and why do
+they need them at all? The following article presents the results of an
+interview study that aimed to find out how security staff are integrated
+into the library as their workplace. For this purpose, interviews were
+conducted with people who are responsible for security in their library.
+It turned out that there are similarities between the libraries
+regarding the requirements and challenges with the security services,
+but also different approaches and library-specific needs. This work
+aimed on the one hand to fill a gap in current research and on the other
+hand to draw attention to a practice that seems to become more and more
+commonplace in German libraries.
+\end{abstract}
+
+%body
+Dieser Artikel\footnote{\textbf{Editorische Notiz}
+
+  In der vorliegenden Arbeit wird geschlechtersensible Sprache
+  verwendet. Es werden geschlechtsneutrale Bezeichnungen oder der
+  Asteriskus (Besucher*innen) eingesetzt. Eine mögliche Störung des
+  Leseflusses wird für die inklusive Repräsentation aller
+  Geschlechtsidentitäten hingenommen. Zitate werden unverändert
+  verwendet.} beruht auf meiner Masterarbeit, die ich im Fach
+Information Science am Institut für Bibliotheks- und
+Informationswissenschaft an der Humboldt Universität zu Berlin
+geschrieben und im Juni 2022 erfolgreich verteidigt habe. Der
+Artikelschwerpunkt liegt auf den Ergebnissen der Untersuchung, andere
+Teile der Arbeit wurden stark gekürzt oder weggelassen.
+
+\hypertarget{einleitung}{%
+\section{1 Einleitung}\label{einleitung}}
+
+Sicherheitspersonal scheint in Bibliotheken immer alltäglicher zu
+werden. Sie kontrollieren Taschen, gehen durch die Räume und schauen
+nach dem Rechten, sie schlichten Konflikte, helfen Nutzenden und sind
+Ansprechpersonen, wenn das Bibliothekspersonal längst im Feierabend ist.
+Manchmal arbeiten sie im Hintergrund und sind kaum wahrnehmbar, an
+anderen Orten stehen sie direkt an der Tür und sind die ersten Personen,
+die vom Bibliothekspublikum gesehen werden. Sie arbeiten in öffentlichen
+und wissenschaftlichen Bibliotheken und sind aus vielen Einrichtungen
+nicht mehr wegzudenken. Verschiedene Untersuchungen bestätigen eine
+Zunahme von Sicherheitspersonal in öffentlichen und teil-öffentlichen
+Räumen (Frevel, 2012, S. 599; Kaufmann, 2017, S. 17).
+
+Warum ist das so? Wozu brauchen Bibliotheken Wachschutz? Wie sind
+Sicherheitsdienste in Bibliotheken integriert? Wachdienst und die
+Offenheit einer Bibliothek ist das nicht ein Widerspruch? Wie sieht die
+Zusammenarbeit von Bibliotheks- und Sicherheitspersonal im Alltag aus?
+Diese und ähnliche Fragen der Autorin führten zu der Forschungsfrage:
+\emph{Wie ist der Wachschutz in den Arbeitsort Bibliothek eingebunden?}
+
+Um die Forschungsfrage beantworten zu können, wurde die induktive
+Methode des qualitativen, teilstrukturierten Leitfadeninterviews
+gewählt. In die Analyse flossen die Daten von acht Interviews ein, die
+mit neun leitenden Angestellten von öffentlichen sowie
+wissenschaftlichen Bibliotheken aus ganz Deutschland geführt wurden. Die
+Gespräche offenbarten unterschiedliche individuelle Erfahrungen, doch
+gab es auch Themen, die alle Interviewten beschäftigen. Es zeigte sich,
+dass die Präsenz von Wachdiensten positive Effekte in Bibliotheken
+hervorruft. Allerdings wurde auch deutlich, dass die Zusammenarbeit der
+verschiedenen Berufsgruppen Herausforderungen birgt und
+Verständnisbereitschaft von beiden Seiten erfordert.
+
+Für die vorliegende Arbeit wurde eine umfangreiche Recherche in
+verschiedenen Themenfeldern durchgeführt, auf die im nächsten Kapitel
+eingegangen wird (Kapitel 2). Die Methodik und Vorgehensweise der
+Datenerhebung und -analyse wird in diesem Artikel kurz und
+zusammenfassend vorgestellt (Kapitel 3). Das Hauptaugenmerk liegt auf
+den Ergebnissen der Untersuchung, welche mit Zitaten der Interviewten
+vervollständigt werden, um die Erfahrungen der Teilnehmenden gebührend
+zu berücksichtigen (Kapitel 4). Anschließend folgt die Beantwortung der
+Forschungsfrage und es wird auf die Limitationen der Arbeit eingegangen
+(Kapitel 5), gefolgt vom Fazit mit einem Ausblick auf mögliche
+Problemstellungen und Forschungsvorhaben die zukünftig bearbeitet werden
+könnten (Kapitel 6).
+
+\hypertarget{stand-der-forschung}{%
+\section{2 Stand der Forschung}\label{stand-der-forschung}}
+
+Um einen möglichst umfassenden Überblick zu dem spezifischen Thema
+\emph{Sicherheitsdienste in Bibliotheken} zu erhalten, wurden im Vorfeld
+mehrere thematische Recherchen durchgeführt. Zu der konkreten Thematik
+wurde kaum Forschungsliteratur gefunden. Somit wurde die Recherche
+breiter angelegt und nach Literatur zum Themenkomplex \emph{Sicherheit
+in Bibliotheken} gesucht. Hier ergaben sich mehr Treffer, allerdings
+beschäftigt sich ein Großteil der Titel eher mit den technischen
+Sicherheitsaspekten einer Bibliothek. Die Ergebnisse dieser beiden
+Recherchen werden zusammengefasst vorgestellt. Aufgrund der begrenzten
+Funde wurde in einem dritten Schritt entschieden, noch die allgemeinere
+Thematik \emph{Sicherheit im öffentlichen Raum} hinzuzuziehen und auch
+diese auf den Schwerpunkt Sicherheitsdienste zu untersuchen. Die
+Ergebnisse dieser Recherche werden als erstes vorgestellt.
+
+\hypertarget{sicherheit-im-uxf6ffentlichen-raum}{%
+\subsection{2.1 Sicherheit im öffentlichen
+Raum}\label{sicherheit-im-uxf6ffentlichen-raum}}
+
+Das Themenfeld des öffentlichen Raumes wird in verschiedenen Disziplinen
+untersucht und diskutiert, dazu gehören unter anderem die Architektur,
+Stadtplanung, Soziologie beziehungsweise die Stadtsoziologie.
+
+Anke Schröder (2021) stellt fest, dass der öffentliche Raum zwei Ebenen
+hat, einerseits der konkrete physische Raum und andererseits der soziale
+Raum (Schröder, 2021, S. 62). Sie sieht das Prinzip des subjektiven
+Handelns in öffentlichen Räumen durch die sich verbreitende
+Privatisierung in Gefahr. Vermehrte Konflikte im öffentlichen Raum haben
+die Nutzung dessen verändert. Die Relevanz von Sicherheit habe
+zugenommen. Schröder sieht die Auseinandersetzungen im öffentlichen Raum
+als einen Ausdruck aktueller gesellschaftlicher Herausforderungen
+(Schröder, 2021, S. 65).
+
+Bernhard Frevel (2012) konstatiert, dass seit den 1990er Jahre die
+\enquote{Kriminalitätsfurcht} in der Bevölkerung angestiegen ist und
+\enquote{ein Nachlassen des Sicherheitsempfinden} stattgefunden hat,
+dass Frevel ebenso auf eine Zunahme von Konflikten im öffentlichen Raum
+zurückführt (Frevel, 2012, S. 593). Des Weiteren stellt der Autor die
+Erweiterung der \enquote{sicherheitsorientierten Kontrollkultur} fest
+(Frevel, 2012, S. 607), die auf lokaler Ebene sichtbar wird, unter
+anderem durch den Ausbau von Videoüberwachung oder durch die vermehrte
+Anwesenheit privater Sicherheitsunternehmen (Frevel, 2012, S. 608). Auch
+Stefan Kaufmann (2017) stellt in seinem Beitrag \emph{Das Themenfeld
+\enquote{Zivile Sicherheit}} fest, dass es einen \enquote{Aufstieg der
+Sicherheitsdienstleister} gegeben hat und führt dies auf die
+Privatisierung von Infrastrukturen zurück (Kaufmann, 2017, S. 14).
+
+Das Phänomen der unklaren Grenzen und Ausweitung von Überwachung durch
+private Wachdienste untersuchen auch Elisa Saarikkomäki und Anne
+Alvesalo-Kuusi (2019). Sie stellen einen weitgreifenden Wandel fest, vom
+Monopol der staatlichen Polizei zu einem pluralistischen System, in dem
+auch private Firmen Sicherheitsdienste anbieten können (Saarikkomäki \&
+Alvesalo-Kuusi, 2019, S. 129). Laut Saarikkomäki und Alvesalo-Kuusi hat
+die Kommerzialisierung der Städte erhöhte Überwachung hervorgerufen. Die
+trage dazu bei, dass marginalisierte Gruppen im öffentlichen Raum
+stärker überwacht werden, da ihre Anwesenheit unerwünscht zu sein
+scheine. Davon seien insbesondere Jugendliche betroffen (Saarikkomäki et
+al., 2019, S. 130). Auch eine Untersuchung aus Australien, in der
+ebenfalls die Interaktion zwischen Jugendlichen und Sicherheitsdiensten
+analysiert wurde (Morey, 1999), kommt zu dem Ergebnis, dass Jugendliche
+in öffentlichen Räumen mehr überwacht werden als andere Gruppen. Eine
+weitere Studie kommt zu dem Schluss, dass Sicherheitspersonal in der
+Lage ist, an öffentlichen Orten Kontrolle auszuüben, obwohl ihnen die
+rechtliche Autorität dafür fehlt (Kammersgaard, 2021).
+
+\hypertarget{sicherheit-und-wachschutz-in-bibliotheken}{%
+\subsection{2.2 Sicherheit und Wachschutz in
+Bibliotheken}\label{sicherheit-und-wachschutz-in-bibliotheken}}
+
+Das Thema \emph{Sicherheit in Bibliotheken} wird von vielen
+Publikationen hauptsächlich von der technischen Seite her behandelt. Es
+geht also um Katastrophen-, Brand- und Diebstahlschutz sowie
+Bestandssicherung (Dohrmann et al., 2009; Jopp, 1991; McGinty, 2008;
+Robertson, 2014). Die Thematik des Sicherheitsdienstes wird in
+Fachbeiträgen teilweise angesprochen. Die Recherchen legen nahe, dass
+dieses Thema in der englischen Diskussion weiterverbreiteter ist, als in
+der deutschen.
+
+In mehreren Artikeln wird festgestellt, dass sich die Bibliotheksnutzung
+und die Bedürfnisse der Besuchenden stark verändert haben, was nach
+Meinung der Autor*innen auch dazu führt, dass neue Sicherheitsaspekte
+hinzugekommen sind (McGuin, 2010; Reed, 2007; Trapskin, 2008). Steve
+Albrecht (2015) sieht die Zusammenarbeit mit der Polizei als
+entscheidend für die Sicherheit in der Bibliothek und ihre Anwesenheit
+als nützliches und langfristiges Abschreckungsmittel gegen
+\enquote{problematische Besucher*innen} (Albrecht, 2015, S. 117).
+Privates Sicherheitspersonal wird als notwendig gesehen, allerdings
+geben die Autoren zu bedenken, dass passendes und gut ausgebildetes
+Wachdienstpersonal schwer zu finden sei (Albrecht, 2015, S. 77; Graham,
+2011, S. 72--74). In amerikanischen Beiträgen wird des Öfteren
+empfohlen, eng mit der universitätseigenen Campuspolizei oder der
+staatlichen Polizei zusammenzuarbeiten (Lashley, 2007, S. 196; McGuin,
+2010, S. 110).
+
+Dieser Auffassung widerspricht der Artikel von Ben Robinson, der 2019
+unter dem Titel \emph{No holds barred: Policing and Security in the
+public library} erschienen ist\emph{.} Robinson kritisiert, dass zu
+enger Zusammenarbeit mit Sicherheitsdienst und Polizei geraten wird und
+dass in nordamerikanischen Bibliotheken immer öfter permanente
+Polizeiposten eingerichtet werden. In diesem Szenario werde nicht
+bedacht, dass sich ein solcher Zusammenschluss negativ auf bestimmte
+Personengruppen auswirken kann. Untersuchungen außerhalb der
+Bibliotheks- und Informationswissenschaft haben gezeigt, dass
+Wachschutz- und Polizeipräsenz insbesondere bei Schwarzen, Indigenen,
+People of Color und anderen marginalisierten Gruppen negative
+psychologische Folgen haben kann (Robinson, 2019, o.\,S.). Der Autor
+schlägt vor, die Zusammenarbeit mit anderen Spezialist*innen wie
+Sozialarbeiter*innen oder Psycholog*innen in Betracht zu ziehen.
+Robinson stellt fest, dass die vorhandene Literatur zu
+Sicherheitsaspekten in Bibliotheken oftmals von Autor*innen verfasst
+wird, die einen Wachschutz- oder Polizeihintergrund haben und selten aus
+dem Bibliotheksumfeld stammen (Robinson, 2019, o.\,S.). Außerdem
+konstatiert er, dass es in der Bibliotheks- und Informationswissenschaft
+kaum Literatur darüber gibt, wie sich Wachdienst- und Polizeiaufsicht in
+Bibliotheken auf marginalisierte Menschen auswirken kann. Robinson kommt
+zu dem Schluss, dass sich das Bibliothekswesen und insbesondere die
+Bibliotheks- und Informationswissenschaft interdisziplinär und kritisch
+mit der Rolle von Sicherheitspersonal und Polizei in Bibliotheken
+auseinandersetzen sollte, damit Bibliotheken weiterhin ein offener und
+sicherer Ort für alle Besuchenden darstellen (Robinson, 2019, o.\,S.).
+
+Im deutschsprachigen Raum scheint die Zusammenarbeit mit der Polizei
+nicht in dem Ausmaß stattzufinden wie in den USA. Allerdings gibt es
+auch hier teilweise Tendenzen zu Empfehlungen in diese Richtung. Martin
+Eichhorn (2015) empfiehlt Bibliotheken, sich mit der örtlichen Polizei
+vertraut zu machen und diese bei Problemen auch um Präsenz vor Ort zu
+bitten (Eichhorn, 2015, S. 137--140). Der Autor stellt fest, dass
+Wachdienstpersonal in großen Öffentlichen Bibliotheken inzwischen
+verbreitet ist und durch das gestiegene Sicherheitsbedürfnis der
+Nutzenden deren Akzeptanz erhöht hat (Eichhorn, 2015, S. 136). In einem
+Interview für die Zeitschrift \emph{BuB Forum Bibliothek und
+Information} (2016) erläutert der Autor ein Jahr später, dass er nicht
+damit rechnet, dass sich die Anzahl von Bibliotheken mit
+Sicherheitsdienst erhöhen wird. Er weist darauf hin, dass die
+Wachdienstmitarbeitenden oft schlecht ausgebildet seien und es von
+Einzelpersonen abhänge, ob der Service einen Nutzen für die Bibliothek
+sei oder nicht (Eichhorn, 2016, S. 331).
+
+Ulrike Verch (2006) kritisiert, im Zusammenhang mit der Sonntagsöffnung
+von Bibliotheken, den Einsatz von Sicherheitsdienstleistern, da das
+Outsourcing von Personal zwar finanzielle Vorteile bringen kann, die
+\enquote{Einflussmöglichkeiten der Bibliotheksleitung} allerdings
+eingeschränkt werden (Verch, 2006, S. 110). Sie sieht es als
+problematisch an, wenn das Sicherheitspersonal allein in der Bibliothek
+tätig ist, da sie den Besucher*innen keine Fachauskünfte geben können
+und sich dies eventuell nachteilig auf die Beziehung mit Nutzenden
+auswirken könnte. Sie empfiehlt, einen Wachdienst \enquote{allenfalls
+zusätzlich oder ausschließlich für sicherheitsrelevante und technische
+Aufgaben} zu engagieren (Verch, 2006, S. 110). Im Zusammenhang mit
+Sonntagsöffnungen oder allgemein erweiterten Öffnungszeiten von
+Bibliotheken wird der Wachschutz auch in anderen Artikeln erwähnt, meist
+als Alternativbesetzung für das Bibliothekspersonal (Christensen, 2017,
+S. 249; Emskötter, 2021, S. 377; Vorberg, 2009, S. 61).
+
+In einem Vortrag mit dem Titel \emph{Vom Nachtwächter zum
+Lernortmanager? -- Neue Herausforderungen für das Qualitätsmanagement
+von Wachdiensten in wissenschaftlichen Bibliotheken} stellt Rolf Duden
+auf dem Bibliothekartag in Nürnberg 2015 neue Aufgabenfelder für
+Sicherheitspersonal vor und stellt sich der Frage, ob und wie
+Wachdienste diesen Anforderungen gerecht werden können. Anhand des
+Beispiels der Staats- und Universitätsbibliothek Hamburg definiert er
+die neuen Aufgaben für die Wachschutzmitarbeitenden. Er konstatiert,
+dass vermehrt \enquote{kommunikative, intellektuelle und technische
+Fähigkeiten gefordert} sind, und dass sich die Wachschutzmitarbeitenden
+mit den Sicherheitskonzepten und dem gewünschten Umgang mit Nutzenden in
+der Bibliothek identifizieren müssen (Duden, 2015, S. 7). Außerdem
+stellt er mögliche Schwierigkeiten fest, die im Zusammenhang der neuen
+Aufgabenfelder entstehen können. Unter anderem werden die zu hohen
+Anforderungen erwähnt und/oder dass die Kapazitäten für den zusätzlichen
+Betreuungsaufwand in den Bibliotheken nicht vorhanden sein könnten
+(Duden, 2015, S. 17).
+
+Was bei der Recherche und der Sichtung der vorhandenen
+Forschungsliteratur auffällt, ist, dass sie oft Lösungsansätze für
+Probleme liefert, die genauere Beleuchtung der Ursachen allerdings
+häufig versäumt wird. Weiter fällt auf, dass bei dem Thema
+\emph{Sicherheit und Wachschutzpersonal in Bibliotheken} der oft sehr
+technisch behandelte Aspekt der Sicherheit meistens mehr Aufmerksamkeit
+erhält als die menschliche Seite dieser Thematik. Was gänzlich zu fehlen
+scheint, sind Untersuchungen und Berichte, welche die Herausforderungen
+und Vorteile des gemeinsamen Alltags von Bibliotheks- und
+Sicherheitsdienstpersonal beleuchten. Diese Lücke versucht die
+vorliegende Arbeit zu schließen.
+
+\hypertarget{exkurs-bibliothek-und-wachschutz-in-der-deutschen-presse}{%
+\subsection{\texorpdfstring{2.3 Exkurs: \emph{Bibliothek und Wachschutz}
+in der deutschen
+Presse}{2.3 Exkurs: Bibliothek und Wachschutz in der deutschen Presse}}\label{exkurs-bibliothek-und-wachschutz-in-der-deutschen-presse}}
+
+Im folgenden Kapitel werden einige Artikel der letzten Jahre
+vorgestellt, welche in der deutschen Tagespresse im Zusammenhang mit
+Sicherheitspersonal und Bibliotheken veröffentlicht wurden. Diese
+Zusammenfassung soll dabei helfen, die Herausforderungen von
+Bibliotheken genauer zu beleuchten und erläutern, welche Ereignisse dazu
+führen können, dass sich Bibliotheken für Wachschutz entscheiden.
+
+2015 forderten die Mitarbeitenden der Helen-Nathan-Bibliothek in Berlin
+Neukölln einen Wachdienst für die Bibliothek, da in der Bibliothek
+unzumutbare Arbeitsbedingungen herrschten. Es werden Vorkommnissen wie
+\enquote{Sex auf der Toilette, Brandstiftung, Beleidigungen und
+unflätiges Benehmen} (Vieth-Entus, 2015, o.\,S.) beschrieben. Des
+Weiteren werde die Bibliothek für Drogengeschäfte genutzt und vor allem
+die weiblichen Mitarbeitenden werden von Jugendlichen, die diese nicht
+als Respektspersonen anerkennen, bedroht und sexistisch beleidigt
+(Vieth-Entus, 2015, o. S.). Aufgrund dieser Lage wurde entschieden,
+einen Sicherheitsdienst in der Bibliothek zu engagieren.
+
+Der Westfälische Anzeiger berichtete im März 2017 in zwei Artikeln über
+den Einsatz eines Sicherheitsdienstmitarbeiters in der Zentralbibliothek
+Hamm. Eine Gruppe Jugendliche und junge Erwachsene fielen durch
+überhöhte Lautstärke, Pöbeleien und Drohungen auf. Ein Mitarbeiter eines
+externen Sicherheitsdienstes solle während der ganzen Öffnungszeiten
+Präsenz zeigen und die Lage beruhigen (Westfälischer Anzeiger, 2017a, o.
+S.). Der zweite Artikel berichtet, dass die Anwesenheit des
+Wachdienstmitarbeiters dazu geführt hat, dass die störende Gruppe ein
+angemessenes Verhalten angenommen hat und die Bibliothek weiterhin
+besucht (Westfälische Anzeiger, 2017b, o. S.).
+
+Ein weiterer Fall, der Aufmerksamkeit in der Presse erlangte, waren zwei
+vermutlich rechte Attacken auf den Bibliotheksbestand der
+Bezirksbibliothek Tempelhof-Schöneberg in Berlin. rbb24 (2021)
+berichtete das erste Mal im August 2021 darüber, dass Mitarbeitende der
+Bibliothek zerstörte Bücher entdeckten, welche sich \enquote{inhaltlich
+kritisch mit rechten gesellschaftlichen Tendenzen
+auseinander{[}setzen{]}} (Russew, 2021, o. S.). Außerdem waren
+Biografien aus dem Sozialismus betroffen. Der Leiter der Bibliothek
+erzählt im Artikel von früheren Vorfällen, wie Vandalismus mit rechten
+Botschaften oder Flyern mit rechtem Gedankengut, die in der Bibliothek
+platziert wurden. Weiter beschreibt er, dass der aktuelle Angriff eine
+\enquote{neue Qualität} aufweise, weil die Bücher gezielt ausgesucht und
+zerschnitten wurden (Russew, 2021, o. S.). Im September 2021, berichtete
+rbb24 erneut von mutwillig zerstörten Büchern, welche dasselbe
+Themenspektrum behandelten wie die Exemplare bei dem Vorfall einen Monat
+zuvor. Aufgrund der Wiederholung der Vorfälle entschied sich die
+Bibliothek dazu, einen Wachdienst zu engagieren (rbb24, 2021, o. S.).
+
+\hypertarget{forschungsdesign-und-methodisches-vorgehen}{%
+\section{3 Forschungsdesign und methodisches
+Vorgehen}\label{forschungsdesign-und-methodisches-vorgehen}}
+
+Die Aufgabe der vorliegenden Arbeit ist es herauszufinden, wie der
+Wachdienst in den Arbeitsort Bibliothek eingebunden ist. Aufgrund des
+Literatur- und Forschungsmangels zu diesem spezifischen Thema (Kapitel
+2), bietet es sich an, mit Menschen zu sprechen, die mit dem Gegenstand
+vertraut sind. Da sich die Zusammenarbeit mit Sicherheitspersonal von
+Bibliothek zu Bibliothek unterscheidet und sich dieses Verhältnis am
+besten von involvierten Personen beschreiben lässt, wurde ein
+qualitativer Forschungsansatz gewählt. Wie Cornelia Helfferich (2011)
+betont, ist der Auftrag der qualitativen Forschung das Verstehen
+subjektiver Ansichten und es wird mit \enquote{sprachlichen Äußerungen}
+als Gegenstand gearbeitet (Helfferich, 2011, S. 21).
+
+Um sich dem Themenkomplex \emph{Sicherheitsdienst in Bibliotheken} zu
+nähern, ist es unabdingbar, mit Personen zu sprechen, welche praktische
+Erfahrungen mit dieser Berufsgruppe im bibliothekarischen Arbeitsumfeld
+haben. Somit wurden für diese Arbeit Interviews mit leitenden
+Angestellten, die in direktem Kontakt zum Sicherheitspersonal stehen, in
+öffentlichen sowie wissenschaftlichen Bibliotheken geführt. Um einen
+möglichst großen Spielraum für individuelle Nachfragen zu haben und
+trotzdem auf vorbereitete Fragen zurückgreifen zu können, wurde die
+Methode des teilstrukturierten Leitfadeninterviews gewählt. Die
+\enquote{Kernideen des teilstrukturierten Interviews sind die
+Orientierung an einem Leitfaden und der gleichzeitig flexible, aber
+durchgängig reflektierte Umgang mit dem Leitfaden} (Werner, 2013, S.
+130). Der Interviewleitfaden wurde nach dem SPSS-Prinzip von Cornelia
+Helfferich (2011) entwickelt. Diese Methode beinhaltet vier Schritte,
+das \textbf{S}ammeln, \textbf{P}rüfen, \textbf{S}ortieren und
+\textbf{S}ubsumieren von Fragen (Helfferich, 2011, S. 182--185).
+
+Aufgrund der COVID-19-Pandemie war klar, dass die Interviews für die
+vorliegende Arbeit nicht vor Ort geführt werden können. Es wurde
+entschieden, die Interviews digital mit Hilfe der Videokonferenzsoftware
+Zoom durchzuführen. Über die Mailingliste \emph{Forumoeb} und die
+beruflichen Kontakte der Autorin wurden geeignete Personen für die
+Interviews gesucht. Es wurden auch Anstrengungen unternommen,
+Sicherheitsfirmen zu kontaktieren und um ein Gespräch zu bitten.
+
+Es kamen acht Interviews zustande, an denen neun Personen beteiligt
+waren. Ein Interview wurde mit zwei Personen geführt. Die Interviewten
+sind alle zuständig für den Wachdienst ihrer Bibliothek. Die Stichprobe
+enthält vier Öffentliche Bibliotheken, von denen alle Stadtbibliotheken
+mit unterschiedlich großem Einzugsgebiet sind. Eine der Öffentlichen
+Bibliotheken ist Teil einer größeren Einrichtung. Vier weitere
+Bibliotheken sind wissenschaftliche Bibliotheken und mit einer
+Universität verbunden. Die untersuchten Bibliotheken, als Arbeitsort der
+Wachdienste, sind über ganz Deutschland verteilt. Es konnten leider
+keine Mitarbeitenden eines Sicherheitsdienstes für die Untersuchung
+gewonnen werden.
+
+Die Interviews wurden Anfang November 2021 durchgeführt. Aufgrund einer
+Absage wurde am 15.12.21 ein weiteres Interview geführt. Die Interviews
+dauerten 30--45 Minuten und wurden aufgezeichnet. Anschließend wurden
+die Interviews mit Hilfe der Textanalysesoftware MAXQDA2020
+transkribiert und anhand der \emph{Thematic Analysis} nach Virginia
+Braun und Victoria Clarke (2006) analysiert. Diese Methode zeichnet sich
+dadurch aus, dass sie dabei hilft, Muster und Themen innerhalb der Daten
+zu identifizieren (Braun \& Clarke, 2006, S. 79).
+
+Für diesen Artikel wurden die Namen der Teilnehmenden, der Einrichtung
+und der Orte anonymisiert.
+
+\hypertarget{ergebnispruxe4sentation}{%
+\section{4 Ergebnispräsentation}\label{ergebnispruxe4sentation}}
+
+Wie der Wachschutz in den Arbeitsort Bibliothek eingebunden ist, möchte
+die vorliegende Untersuchung klären. Aus der Analyse der Interviewdaten
+ergaben sich folgende neun Kategorien, welche die Beantwortung der
+Forschungsfrage unterstützen:
+
+\begin{itemize}
+\item
+  Eckdaten/Informationen über die Bibliothek
+\item
+  Gründe für/gegen Wachschutz
+\item
+  Die Aufgaben des Wachschutzes
+\item
+  Die Einweisung des Wachschutzes
+\item
+  Die Stellung des Wachschutzes in der Bibliothek
+\item
+  Die Außenwirkung des Wachschutzes
+\item
+  Positive Erfahrungen
+\item
+  Negative Erfahrungen
+\item
+  Probleme/Verbesserungswünsche
+\end{itemize}
+
+Im Folgenden werden die Ergebnisse anhand dieser Kategorien dargestellt.
+Im Sinne der qualitativen Forschung erfolgt erst die Analyse und
+Präsentation der einzelnen Erfahrungen, um anschließend Vergleiche
+vorzunehmen und zusammenfassend zu erläutern (Flick et al., 2019, S.
+23). Es werden die Kenntnisse einzelner Personen sowie Gemeinsamkeiten
+der untersuchten Bibliotheken vorgestellt.
+
+Die Interviews verdeutlichen, dass der Wachschutz in Bibliotheken
+vielseitige Aufgaben hat und sich die Intensität der Zusammenarbeit mit
+dem Bibliothekspersonal von Einrichtung zu Einrichtung unterscheiden
+kann. Alle Interviewteilnehmenden sehen einen Vorteil darin,
+Sicherheitspersonal als zusätzliche Fachkräfte in der Bibliothek zu
+beschäftigen. Allerdings wird diese Entwicklung auch differenziert und
+nicht ohne Skepsis betrachtet. Die Zusammenarbeit beinhaltet durchaus
+Herausforderungen, wie die Interviews gezeigt haben.
+
+\enquote{Eigentlich ist die Erfahrung gut. Also es kostet viel Arbeit,
+es kostet viele Nerven, es ist immer wieder dranbleiben, immer wieder
+erklären, immer wieder sagen wir möchten es so haben, nein nicht so, ja
+wir stehen dafür da, nein es dürfen eigentlich im Normalfall alle in die
+Bibliothek, wir heißen alle willkommen. Das ist {[}\ldots{]} eine
+Never-ending Story, aber im Großen und Ganzen {[}...{]} könnte ich mir
+den Betrieb des Hauses nur schlecht vorstellen ohne die Bewachung}\\
+(Person8, 2021, Pos. 72).
+
+\hypertarget{eckdateninformationen-uxfcber-die-bibliotheken}{%
+\subsection{4.1 Eckdaten/Informationen über die
+Bibliotheken}\label{eckdateninformationen-uxfcber-die-bibliotheken}}
+
+Während des Arbeitsprozesses wurden neun Themenbereiche identifiziert,
+welche die Interviews prägten. Ein Themenbereich, die Kategorie
+\emph{Eckdaten/Informationen über die Bibliotheken} liefert
+Kontextinformationen zu den einzelnen Teilnehmenden und ihrem
+Arbeitsumfeld. Dieser Themenbereich hilft nur indirekt dabei, die
+Forschungsfrage zu beantworten, ist aber trotzdem wichtig, um die
+Erfahrungen der Teilnehmenden einordnen zu können.
+
+An den Interviews nahmen vier wissenschaftliche und vier öffentliche
+Bibliotheken teil. In der Tendenz zeigt sich, dass wissenschaftliche
+Bibliotheken von Eröffnung an Sicherheitspersonal beschäftigen, im
+Gegensatz zu den Öffentlichen Bibliotheken, welche oft erst zu einem
+späteren Zeitpunkt Wachschutz engagierten.
+
+Oft liegen die Bibliotheken in der Nähe des Bahnhofs. Es wird mehrfach
+erwähnt, dass es dadurch in der Bibliothek Probleme geben kann, zum
+Beispiel im Zusammenhang mit Drogen (Person2, 2021, Pos. 26; Person3,
+2021, Pos. 64; Person5, 2021, Pos. 104).
+
+In der Hälfte der Interviews wurde erwähnt, dass die Architektur des
+Bibliotheksgebäudes unübersichtlich gestaltet ist, zum Beispiel durch
+Zwischenebenen und/oder verwinkelte Raumstruktur. Dies betrifft sowohl
+Alt- wie auch Neubauten (Person1, 2021, Pos. 14; Person6, 2021, Pos. 34;
+Person8, 2021, Pos. 12; Person9, 2021, Pos. 17).
+
+Außerdem wurden in den Gesprächen verschiedene Bibliothekskonzepte
+angesprochen, welche in dem besprochenen Haus umgesetzt werden oder
+wünschenswert wären. In allen Interviews wird zum Ausdruck gebracht,
+dass die Bibliothek ein Ort für alle/offener Ort sein soll. Die
+Bibliothek als Lernort sowie dritter Ort wird erwähnt (Person4, 2021,
+Pos. 66 \& 74) ebenso wie das Konzept der personalfreien Bibliothek
+\emph{Open Library} (Person2, 2021, Pos. 20 \& 22) und die
+24-Stunden-Bibliothek (Person6, 2021, Pos. 14 \& 18).
+
+\hypertarget{gruxfcnde-fuxfcrgegen-wachschutz}{%
+\subsection{4.2 Gründe für/gegen
+Wachschutz}\label{gruxfcnde-fuxfcrgegen-wachschutz}}
+
+Die Notwendigkeit, Sicherheitspersonal in Bibliotheken einzusetzen, wird
+unterschiedlich begründet. Auch die Bedenken, die einen solchen Schritt
+begleiten, sind verschieden. Alle untersuchten Bibliotheken haben eine
+externe Firma mit der Aufgabe des Wachschutzes betraut und die Aufträge
+werden regelmäßig neu ausgeschrieben, wie im Öffentlichen Dienst üblich.
+Hieraus ergaben sich zwei Positionen, die von verschiedenen Interviewten
+geteilt werden. Es wird positiv gesehen, dass durch die externe Firma
+eine gewisse Ausfallsicherheit gewährleistet wird, da es der
+Sicherheitsfirma obliegt, sich zum Beispiel bei Krankheit von
+Mitarbeitenden um Ersatz zu kümmern. Außerdem wären die Bibliotheken
+nicht in der Lage, so viele Stellen selbst zu besetzen (Person6, 2021,
+Pos. 102; Person8, 2021, Pos. 28; Person9, 2021, Pos. 49).
+
+Andererseits entstehe durch die Ausschreibungen und dem damit
+verbundenen Wechsel von Firmen ein hoher Arbeitsaufwand für die
+Bibliotheken. Aufgrund der sich regelmäßig wiederholenden Einweisungen
+für neue Mitarbeitende, ist ein stetiger Dialog darüber, was die
+Bibliotheken vom Sicherheitspersonal erwarten, welche Aufgaben sie
+übernehmen sollen und welches Verhalten und Auftreten gewünscht ist,
+nötig (Person4, 2021, Pos. 36; Person5, 2021, Pos. 124; Person8, 2021,
+Pos. 72; Person9, 2021, Pos. 75).
+
+Viele Gründe, die für einen Wachdienst sprechen, beziehen sich auf die
+Unterstützung in der Bibliothek. Die wissenschaftlichen Bibliotheken
+kontrollieren oft strenger, welche Gegenstände mit in die Bibliothek
+genommen werden dürfen. Für diese Eingangskontrolle benötige die
+Bibliothek die Hilfe des Wachdienstes (Person1, 2021, Pos. 10). Der
+Wachschutz wurde bei einigen Bibliotheken zum Thema, als die
+Öffnungszeiten verlängert werden sollten (Person1, 2021, Pos. 10;
+Person2, 2021, Pos. 20; Person6, 2021, Pos. 14; Person9, 2021, Pos. 11).
+
+\begin{flushright}
+\enquote{Es wurde dann mehr in den Nullerjahren mit der Verlängerung,
+mit den zunehmenden Verlängerungen der Öffnungszeiten, dass wir, ich
+glaub 2006 haben wir sonnabends länger geöffnet und Sonntagsöffnung
+eingeführt. Wir haben dann die Öffnungszeiten vor fünf oder sechs Jahren
+bis 24 Uhr verlängert und diese Randzeiten wurden immer mehr mit dem
+Wachdienst bewacht} \linebreak(Person9, 2021, Pos. 11).
+\end{flushright}
+
+Während der Analyse fiel auf, dass einige Bibliotheken
+Sicherheitspersonal einstellen, um die erweiterten Öffnungszeiten ohne
+Bibliothekspersonal abdecken zu können, den Wachdienst aber während der
+Zeiten mit Personal nicht benötigen (Person2, 2021, Pos. 22; Person6,
+2021, Pos. 18). Andere Bibliotheken wiederum benötigten den Wachdienst
+für die gesamten Öffnungszeiten (Person1, 2021, Pos. 10; Person3, 2021,
+Pos. 16; Person4, 2021, Pos. 66; Person5, 2021, Pos. 30; Person8, 2021,
+Pos. 16; Person9, 2021, Pos. 11).
+
+Die Unterstützung und Entlastung des Bibliothekspersonals durch
+Sicherheitspersonal war ein wiederkehrendes Thema in den Gesprächen. So
+werden potenzielle Konfliktsituationen oft von den Mitarbeitenden des
+Wachdienstes geklärt, dies bedeute weniger Stress für die
+Bibliotheksangestellten (Person2, 2021, Pos. 52; Person4, 2021, Pos. 30;
+Person8, 2021, Pos. 70).
+
+Es wurde in mehreren Interviews erwähnt, dass die Bibliothek zu einer
+der meistbesuchten Kultureinrichtungen der Stadt gehört und ein
+beliebter Aufenthaltsort ist, weswegen sich unterschiedliches Publikum
+in sehr großer Anzahl in den Bibliotheken aufhält (Person4, 2021, Pos.
+6; Person5, 2021, Pos. 16; Person8, 2021, Pos. 90 \& 92). Um den
+Interessenausgleich der verschiedenen Gruppen und eine Grundordnung zu
+gewährleisten, wurde ein Wachdienst eingestellt. Bei den Öffentlichen
+Bibliotheken war, bis auf eine, der Sicherheitsdienst nicht von Anfang
+an miteingeplant, sondern wurde aufgrund von Veränderungen zu einem
+späteren Zeitpunkt engagiert.
+
+Obwohl alle Interviewten die Notwendigkeit dafür sehen,
+Sicherheitspersonal in ihren Bibliotheken zu beschäftigen, bestehen oder
+bestanden auch Zweifel, ob eine Bibliothek mit Wachschutz überhaupt
+vorstellbar ist oder ob dies nicht der Idee einer Bibliothek als offenes
+Haus widerspricht (Person2, 2021, Pos. 32; Person4, 2021, Pos. 28).
+
+\hypertarget{die-aufgaben-des-wachschutzes}{%
+\subsection{4.3 Die Aufgaben des
+Wachschutzes}\label{die-aufgaben-des-wachschutzes}}
+
+Die Aufgaben des Sicherheitspersonals in Bibliotheken sind vielseitig.
+Sie reichen von der Publikumsaufsicht bis hin zu der Überwachung von
+Brandschutzanlagen. Es sind viele einzelne Pflichten, denen die
+Mitarbeitenden des Wachdienstes nachkommen müssen. Die Hauptaufgaben in
+den Bibliotheken sind bei allen untersuchten Einrichtungen in etwa
+gleich.
+
+In den folgenden Beschreibungen wird nicht auf die corona-spezifischen
+Aufgaben eingegangen, da diese einer Ausnahmesituation geschuldet sind
+und nicht zu den vorgesehenen Pflichten des Wachdienstes gehören. Nur so
+viel, alle Interviewten bestätigten, dass das Sicherheitspersonal dafür
+zuständig war, die Eingangskontrolle, die das Überprüfen von
+Zertifikaten, Tests und Masken beinhaltete, durchzuführen.
+
+In allen untersuchten wissenschaftlichen Bibliotheken und in einer
+Öffentlichen Bibliothek ist das Sicherheitspersonal für die Eingangs-
+und/oder Ausgangskontrolle zuständig. Diese ist unterschiedlich stark
+ausgeprägt. Der Wachschutz kontrolliert in diesen Bibliotheken, aufgrund
+der Hausordnung, welche Gegenstände in die Bibliothek oder Teile der
+Bibliothek mitgenommen werden (Person1, 2021, Pos. 12; Person3, 2021,
+Pos. 30; Person9, 2021, Pos. 15). Außerdem greift der Wachdienst ein,
+wenn die Buchsicherungsanlage anschlägt (Person6, 2021, Pos. 42;
+Person8, 2021, Pos. 16; Person9, 2021, Pos. 19), betreut die
+Schließfächer (Person1, 2021, Pos. 12; Person3, 2021, Pos. 30), hilft
+bei Problemen mit den Ausleih- und/oder Rückgabeautomaten (Person1,
+2021, Pos. 40; Person8, 2021, Pos. 16) und ist bei Erstfragen
+ansprechbar (Person9, 2021, Pos. 15).
+
+Dies bildet einen starken Kontrast zu den analysierten Öffentlichen
+Bibliotheken, dort wird darauf geachtet, dass sich der Wachdienst
+\emph{nicht} im Eingangsbereich befindet und wenn doch, dann im
+Hintergrund (Person2, 2021, Pos. 32; Person4, 2021, Pos. 28; Person5,
+2021, Pos. 90; Person8, 2021, Pos. 34). Eine interviewte Person
+beschrieb es so: \enquote{{[}A{]}uf keinen Fall wollten wir die unten an
+der Tür stehen haben, weil es für mich ganz wichtig ist, dass der Zugang
+zur Bibliothek frei ist} (Person4, 2021, Pos. 28).
+
+Darauf zu achten, dass die Hausordnung eingehalten wird, ist in allen
+untersuchten Bibliotheken die Aufgabe des Sicherheitspersonals, genauso
+wie regelmäßige Rundgänge durch das Haus, auf den manchmal sehr großen
+und unübersichtlichen Flächen der Bibliotheken, um gegebenenfalls
+Besucher*innen auf die geltenden Regeln aufmerksam zu machen und den
+Besuchenden ein Sicherheitsgefühl zu vermitteln.
+
+Außerdem ist das Sicherheitspersonal dafür zuständig, dass Diebstähle,
+Vandalismus und andere Arten von Straftaten verhindert werden (Person1,
+2021, Pos. 12; Person2, 2021, Pos. 50; Person5, 2021, Pos. 118) und
+Situationen, die zu eskalieren drohen, entschärft werden. Auch bei
+bereits bestehenden Konfliktsituationen soll der Wachdienst eingreifen
+(Person1, 2021, Pos. 12; Person3, 2021, Pos. 30; Person6, 2021, Pos. 42;
+Person9, 2021, Pos. 47).
+
+Auf die Frage, wen oder was der Wachdienst beschützt, stand der
+Personenschutz im Mittelpunkt der Antworten. Zum einen schützt der
+Wachschutz die Mitarbeitenden der Bibliothek, wenn diese in eine
+Konfliktsituation mit Nutzenden geraten oder von diesen bedrängt werden
+(Person1, 2021, Pos. 28; Person3, 2021, Pos. 72; Person4, 2021, Pos.
+118; Person8, 2021, Pos. 64), zum anderen schützt das
+Sicherheitspersonal aber auch die Nutzenden voreinander, falls diese in
+Konflikte geraten (Person1, 2021, Pos. 28; Person3, 2021, Pos. 72;
+Person5, 2021, Pos. 118; Person7, 2021, Pos. 80).
+
+Der Gebäude- und Bestandsschutz wurde auch als Aufgaben des
+Sicherheitspersonals genannt. Wie vielfältig die Aufgaben im
+Gebäudeschutz sind, hängt davon ab, wie sehr der Wachschutz in die
+Betreuung der technischen Anlagen eingebunden ist. Der Bestandsschutz
+hat insgesamt eine eher untergeordnete Rolle. Der Wachdienst ist auch
+dafür zuständig, Diebstähle zu verhindern, aber wenn es um die
+Schutzfunktion geht, werden die Medien nicht als Priorität gesehen
+(Person1, 2021, Pos. 28; Person4, 2021, Pos. 72; Person7, 2021, Pos. 80
+Person8, 2021, Pos. 64).
+
+Zusammenfassend kann gesagt werden, dass der Wachdienst in Bibliotheken
+zum einen Aufgaben übernimmt, um das Bibliothekspersonal zu entlasten
+und dafür zu sorgen, dass die Nutzenden ihren unterschiedlichen
+Interessen nachgehen können, ohne andere dabei zu stören oder gegen die
+Hausordnung zu verstoßen. Andererseits kümmert sich der Wachschutz um
+die Gebäudesicherheit und die damit anfallenden Aufgaben.
+
+\hypertarget{die-einweisung-des-wachschutzes}{%
+\subsection{4.4 Die Einweisung des
+Wachschutzes}\label{die-einweisung-des-wachschutzes}}
+
+Die Einweisung oder Einarbeitung der Wachdienstmitarbeitenden läuft in
+den Bibliotheken unterschiedlich ab. Sie reichen von sehr umfangreichen
+Konzepten, welche beinhalten, dass viele Gespräche geführt werden,
+ausführliche Unterlagen vorhanden sind, und dass in der Ausschreibung
+schon festgehalten wird, wie viele Stunden für die Einarbeitung
+berechnet werden sollen (Person9, Pos. 25), bis hin zu Bibliotheken, die
+wenig bis keinen Einfluss darauf haben, wie das Sicherheitspersonal
+eingewiesen wird (Person1, 2021, Pos. 14; Person3, 2021, Pos. 46).
+
+\begin{flushright}
+\enquote{Hmm, das ist so ein bisschen ein Knackpunkt. Es ist bei uns ja
+nicht oft so, dass wir einen Wechsel haben und wenn, informiert sich der
+Wachschutz eigentlich gegenseitig. Dass sie sich selbst einweisen, also,
+dass der Kollege, der die Schicht übernimmt, eigentlich einen Tag vorher
+kommt und von dem Stammpersonal eingewiesen wird. Da haben wir
+eigentlich nicht wirklich was mit zu tun, {[}\ldots{]} wir werden
+eigentlich in der Regel nur aktiv, wenn was schiefläuft, dass wir sagen,
+wir nehmen die nochmal zur Seite} \linebreak(Person1, 2021, Pos. 14).
+\end{flushright}
+
+Es gibt unterschiedliche Ebenen bei der Einweisung von
+Sicherheitspersonal. Zum einen gibt es die Besprechungen und
+Vereinbarungen mit den Vorgesetzten in der Wachschutzfirma und zum
+anderen die Einarbeitung der Mitarbeitenden vor Ort. Bei den
+wissenschaftlichen Bibliotheken, die in dieser Arbeit untersucht wurden,
+handelt es sich um Bibliotheken, die an eine Universität angeschlossen
+sind. In den meisten Fällen ist der Wachdienst für die gesamte
+Universität zuständig und nicht nur für die Aufsicht in der Bibliothek.
+Dies bedeutet, dass die Bibliotheken keinen großen Einfluss oder
+Mitspracherecht im Auswahlverfahren haben (Person1, 2021, Pos. 10;
+Person3, 2021, Pos. 40; Person6, 2021, Pos. 58 \& 60).
+
+Alle Interviewten sind sich einig, dass viele und fortlaufende Gespräche
+mit dem Sicherheitspersonal wichtig sind, um diesem den gewünschten
+Umgang in einer Bibliothek näherzubringen. Es wird Wert darauf gelegt,
+dass die Wachdienstmitarbeitenden \enquote{den Geist des Hauses
+verstehen} (Person4, 2021, Pos. 38) und es wird in aktiver Arbeit
+versucht den \enquote{Servicegedanken} (Person8, 2021, Pos. 32) und das
+\enquote{Selbstverständnis} (Person5, 2021, Pos. 52) der Bibliothek
+weiterzugeben.
+
+Diese Bemühungen rühren auch daher, dass viele der Interviewten
+festgestellt haben, dass es nicht immer einfach ist, die gewünschten
+Verhaltensweisen oder das Selbstbild einer Bibliothek, Personen zu
+erklären, die ohne den Hintergrund einer bibliothekarischen Ausbildung
+in einer solchen Einrichtung arbeiten. Dies kann zu Verständnis- und
+Umsetzungsproblemen, die Aufgaben betreffend, führen.
+
+\begin{flushright}
+\enquote{{[}W{]}eil diese Wachleute ja mit einem ganz anderen
+Hintergrund kommen, die haben\ldots, die bewachen ja meistens ganz
+andere Objekte als eine Bibliothek. Also, es ist ja ein Unterschied, ob
+jemand Wachschutz macht vor einer Diskothek oder bei einer Messe oder
+der Eine, der vorher hier im Bahnhof eingesetzt {[}wurde{]}. Das ist ja
+eine ganz andere Art, mit den Menschen umzugehen und es ist schon immer
+wieder eine Aufgabe, dem klarzumachen, so, das ist unser
+Selbstverständnis, das hat ja ein Stück weit auch mit Toleranz zu tun.
+{[}\ldots{]} {[}W{]}ir wissen, dass unser Publikum heterogen ist, und
+dass wir das akzeptieren und das muss man denen schon auch immer wieder
+klar machen} \linebreak(Person5, 2021, Pos. 52).
+\end{flushright}
+
+Außerdem wird die Wichtigkeit betont, dass auch die Ansprechperson in
+der Sicherheitsfirma eine Vorstellung vom Selbstbild der Bibliothek hat
+und was sie von den Mitarbeitenden erwartet (Person2, 2021, Pos. 56;
+Person8, 2021, Pos. 74).
+
+Des Weiteren wird das Thema \emph{Soft Skills}, also Umgangsformen,
+Ausdrucksweise und allgemeines Verhalten von Sicherheitspersonal
+gegenüber den Nutzenden, mehrfach angesprochen (Person2, 2021, Pos. 41;
+Person3, 2021, Pos. 54; Person8, 2021, Pos. 42). Die Interviewten
+erwarten von den Wachdienstmitarbeitenden, dass sie freundlich,
+respektvoll und offen auf die Bibliotheksbesucher*innen zugehen. Die
+Umsetzung dieser Erwartungen wird teilweise als nicht ganz einfach
+angesehen.
+
+Die Untersuchung hat gezeigt, dass sich die Einweisungen von
+Sicherheitspersonal in den einzelnen Bibliotheken stark unterscheiden,
+allerdings scheinen sie bei allen einen hohen Arbeitsaufwand zu
+verursachen. Gemeinsam haben sie, dass Wert auf gute Umgangsformen bei
+den Mitarbeitenden des Wachdienstes gelegt wird und es scheint ein
+Bedürfnis zu geben, diesen auch die Vision und die Werte der jeweiligen
+Bibliothek näher zu bringen.
+
+\hypertarget{die-stellung-des-wachschutzes-in-der-bibliothek}{%
+\subsection{4.5 Die Stellung des Wachschutzes in der
+Bibliothek}\label{die-stellung-des-wachschutzes-in-der-bibliothek}}
+
+\begin{flushright}
+\enquote{Ja, das wäre schon schön, wenn man das schaffen würde, ein Team
+zu bilden, was so auf der gleichen Grundlage arbeitet, sozusagen mit dem
+gleichen Berufsethos. Mit der gleichen Vorstellung davon, wie unser
+Verhältnis zu unseren Kunden sein soll. Ja, so ein, ich weiß nicht, ich
+würde jetzt sagen, so einen gemeinsamen Spirit einfach {[}\ldots{]}.Das
+wäre schön, wenn daran die Security auch Teil hätte}
+\linebreak
+(Person5, 2021, Pos. 148).
+\end{flushright}
+
+Die Tatsache, dass der Wachdienst in allen Bibliotheken über eine
+externe Firma beschäf-\linebreak tigt wird, ist ein Thema, welches nicht nur den
+Einstellungs- und Einweisungsprozess beeinflusst, sondern auch das
+Zusammengehörigkeitsgefühl und die Zusammenarbeit mit den
+Bibliotheksmitarbeitenden zu prägen scheint. Die Personen arbeiten zwar
+alle im und für dasselbe Haus, haben aber verschiedene
+Aufgabenschwerpunkte und unterschiedliche Arbeitgeber*innen. Die
+Bibliotheken gehen unterschiedlich damit um. Die einen versuchen das
+Sicherheitspersonal mehr ins Team einzubeziehen, andere bevorzugen die
+klare Trennung.
+
+Wie die Bibliotheken dies handhaben, hängt auch davon ab, wie sehr sich
+die verschiedenen Arbeitsbereiche im Alltag überschneiden. In einigen
+Bibliotheken ist der Wachdienst zum Beispiel nur zu den Uhrzeiten ohne
+Bibliothekspersonal da (Person2, 2021, Pos. 66; Person7, 2021, Pos. 22)
+oder es gibt eine räumliche Trennung der Arbeitsplätze, die es
+erschwert, dass die Wachschutz- und Bibliotheksmitarbeitenden sich als
+Team verstehen (Person3, 2021, Pos. 24; Person9, 2021, Pos. 35).
+
+Bei anderen Bibliotheken wiederum ist das Sicherheitspersonal mehr in
+die Abläufe der Bibliothek eingebunden und es kommt vor, dass
+Mitarbeitende des Wachdienstes, die schon länger in der Bibliothek
+arbeiten auch bibliotheksspezifische Aufgaben übernehmen. Zum Beispiel
+helfen sie Nutzenden mit den verschiedenen Automaten (Person1, 2021,
+Pos. 40; Person8, 2021, Pos. 16) oder beantworten einfache Fragen in
+Bezug auf die Bibliothek (Person7, 2021, Pos. 20; Person9, 2021, Pos.
+15).
+
+Das Verhältnis zwischen den Mitarbeitenden der Bibliothek und des
+Sicherheitsdienstes scheint nicht immer einfach zu sein. Obwohl alle
+Interviewten bestätigten, dass sie um ein kollegiales Miteinander bemüht
+sind, scheint es im Alltag gewisse Herausforderungen zu geben. Der
+Wachschutz bedeutet eine Entlastung für das Bibliothekspersonal, dadurch
+muss aber darauf geachtet werden, dass die Bibliotheksmitarbeitenden
+unliebsame Aufgaben nicht nur an den Wachdienst abgeben, sondern die
+Aufgaben auch weiterhin selbst ausführen (Person4, 2021, Pos. 30;
+Person9, 2021, Pos. 89).
+
+\begin{flushright}
+\enquote{{[}F{]}ür uns ist es wirklich eine Entlastung, weil man auch
+die Konflikte auslagert. Also, wenn ich jetzt eine Gruppe Jugendliche
+zur Ordnung rufen muss, das ist natürlich unangenehm und macht Stress
+und es ist einfacher, wenn ich den Sicherheitsdienst bitten kann, da mal
+vorbei zu gehen {[}...{]}. Und das ist, finde ich, aber auch wieder
+ambivalent, weil ich sage, aus meinem Laden schmeiße ich die Leute raus.
+Also wir haben da die Verantwortung, wir können das auch nicht komplett
+delegieren an den Sicherheitsdienst. {[}\ldots{]} Aber die Versuchung
+ist groß, dass man alles auf den Sicherheitsdienst dann abwälzt, was
+irgendwie unangenehm ist oder mit der Durchsetzung der Regeln zu tun
+hat. Da muss man ein bisschen drauf achten} \linebreak(Person4, 2021, Pos. 30).
+\end{flushright}
+
+In den Gesprächen machte es den Anschein, als ob teilweise bewusst
+zwischen Bibliotheks- und Sicherheitsdienstmitarbeitenden Unterschiede
+gemacht werden. Diese Unterschiede scheinen eher von den Angestellten
+selbst auszugehen und weniger vom Publikum, welches oft alle Personen
+als Mitarbeitende der Bibliothek wahrnimmt (Person9, 2021, Pos. 43). Es
+werden aber auch kollegiale Verhältnisse geschildert. Wichtig ist es den
+Interviewten auch, dass alle Mitarbeitenden in der Bibliothek sich
+bewusst sind, dass man ein gemeinsames Ziel verfolgt, und dass ein
+Vertrauensverhältnis geschaffen wird (Person2, Pos. 90; Person4, 2021,
+Pos. 92; Person5, 2021, Pos. 148). Es wird in den Interviews mehrfach
+erwähnt, dass die Fluktuation bei den Sicherheitsfirmen und der damit
+verbundene Wechsel der Wachdienstmitarbeitenden in den Bibliotheken den
+Aufbau eines guten Verhältnisses erschwert (Person2, 2021, Pos. 90;
+Person3, 2021, Pos. 56; Person4, 2021, Pos. 60; Person8, 2021, Pos. 74).
+
+Zusammenfassend kann gesagt werden, dass das Sicherheitspersonal in den
+Bibliotheken verschieden stark in das Team der Bibliotheksmitarbeitenden
+eingebunden wird. Die Untersuchung scheint darauf hinzudeuten, dass die
+unterschiedlichen Arbeitgeber*innen es dem Personal, trotz der Arbeit in
+und für dieselbe Einrichtung, erschweren, sich als gemeinsames Team zu
+sehen. Nichtsdestotrotz sind die Bibliotheken um kollegiale und
+vertrauensvolle Arbeitsverhältnisse bemüht.
+
+\hypertarget{die-auuxdfenwirkung-des-wachschutzes}{%
+\subsection{4.6 Die Außenwirkung des
+Wachschutzes}\label{die-auuxdfenwirkung-des-wachschutzes}}
+
+Ein Umstand, der das Bibliothekspersonal von
+Sicherheitsdienstmitarbeitenden nach außen hin unterscheidet, ist, dass
+die Angestellten des Wachdienstes meistens Berufskleidung tragen. Dies
+kann ein Anzug sein oder ein T-Shirt, das mit einem Logo oder einem
+Schriftzug auf die Firma hinweist, für die sie arbeiten (Person4, 2021,
+Pos. 28; Person5, 2021, Pos. 62; Person7, 2021, Pos. 87; Person8, 2021,
+Pos. 60; Person9, 2021, Pos. 37). Abgesehen davon, dass sie dieser
+Umstand von dem Bibliothekspersonal abhebt, scheint es auch dazu zu
+führen, dass sie eine gewisse Autorität ausstrahlen, die anderen
+Mitarbeitenden zu fehlen scheint (Person1, 2021, Pos. 26; Person2, 2021,
+Pos. 54; Person4, 2021, Pos. 28). Hierzu zählt auch, dass das
+Sicherheitspersonal ein anderes Auftreten hat; dies wird auf ihre
+Ausbildung zurückgeführt (Person5, 2021, Pos. 62).
+
+Ein sehr wichtiger Aspekt, der die Außenwirkung von
+Wachdienstmitarbeitenden in der Bibliothek betrifft, ist das
+Sicherheitsgefühl, das den Besucher*innen, aber auch dem
+Bibliothekspersonal vermittelt wird. Dieser Umstand wurde in allen
+Interviews angesprochen. Es wurden verschiedene Begebenheiten oder
+Situationen genannt, in denen sich die Menschen in der Bibliothek
+sicherer fühlen, wenn Sicherheitspersonal anwesend ist. Durch die
+Hausrundgänge der Wachschutzmitarbeitenden wird den Nutzenden das Gefühl
+vermittelt, dass sich jemand um ihre Sicherheit kümmert (Person3, 2021,
+Pos. 24; Person4, 2021, Pos. 72; Person9, 2021, Pos. 67). Mehrfach
+genannt wurde auch, dass sich die Besucher*innen gerade in den Abend-
+und Nachtstunden sicherer fühlen, wenn Sicherheitspersonal präsent ist
+(Person2, 2021, Pos. 74; Person3, 2021, Pos. 72; Person9, 2021, Pos.
+67). Durch die Anwesenheit des Sicherheitspersonals haben sowohl das
+Personal wie auch das Publikum Ansprechpersonen, falls es zu
+unangemessenem Verhalten oder kritischen Situationen kommt (Person3,
+2021, Pos. 72; Person4, 2021, Pos. 42 \& 72; Person5, 2021, Pos. 144).
+
+Des Weiteren sind die Wachdienstmitarbeitenden in einigen Bibliotheken
+die ersten Kontaktpunkte und somit die ersten Personen, die von
+Besucher*innen gesehen werden (Person6, 2021, Pos. 90; Person1, 2021,
+Pos. 34; Person3, 2021, Pos. 40; Person8; 2021, Pos. 16; Person9, 2021,
+Pos. 15). Diese Tatsache wird nicht unkritisch gesehen. Die Interviewten
+erzählen auch, dass das Sicherheitspersonal das \enquote{Gesicht der
+Bibliothek} (Person1, 2021, Pos. 12) ist und die Bibliothek nach außen
+repräsentiert (Person4, 2021, Pos. 96). Aus diesem Grund wünschen sich
+die Bibliotheksleitungen, dass alle Mitarbeitenden den Besucher*innen
+respektvoll, freundlich und offen begegnen (Person4, 2021, Pos. 98).
+
+Außerdem waren sich die meisten befragten Personen einig, dass das
+Sicherheitspersonal einige Menschen davon abhalten könnte, in die
+Bibliothek zu kommen. Zum einen könnte dies Personen betreffen, die
+\enquote{unter Autorität schon mal gelitten} (Person1, 2021, Pos. 26)
+haben oder Menschen, die einen Fluchthintergrund haben, \enquote{weil
+die einfach eine andere Erfahrung gemacht haben mit solchen Personen}
+(Person8, 2021, Pos. 54). Zum anderen können auch Leute abgehalten
+werden, die \enquote{skurrile Absichten} (Person2, 2021, Pos. 74) haben
+oder in der Bibliothek, aufgrund ihres Verhaltens, nicht gerne gesehen
+werden (Person5, 2021, Pos. 100). In einigen Fällen wurde vermutet, dass
+eventuell Menschen ohne Wohnsitz durch Wachdienstpersonal abgeschreckt
+sein könnten, dies bestätigte sich aber im Laufe der Zeit nicht
+(Person6, 2021, Pos. 72; Person8, 2021, Pos. 54; Person9, 2021, Pos.
+41).
+
+\hypertarget{positive-erfahrungen}{%
+\subsection{4.7 Positive Erfahrungen}\label{positive-erfahrungen}}
+
+Mehr als die Hälfte der Interviewten berichten, dass sie positive
+Erfahrungen damit gemacht haben, wenn die gleichen Personen vom
+Wachdienst über eine längere Zeit in der Bibliothek arbeiten, weil alle
+Mitarbeitenden aufeinander abgestimmt sind und verinnerlicht wird, was
+die Bibliothek will (Person4, 2021, Pos. 32). Außerdem wissen und können
+Sicherheitsdienstmitarbeitende, die länger in derselben Einrichtung
+sind, mehr und werden besser vom Bibliothekpersonal akzeptiert (Person3,
+Pos. 40; Person7, 2021, Pos. 100). Mehrfach wurde erwähnt, dass sich
+langjährige Mitarbeitende besser mit der Bibliothek identifizieren und
+sich dies positiv auf die (gemeinsame) Arbeit auswirkt (Person2, 2021,
+Pos. 62; Person3, 2021, Pos. 48; Person5, 2021, Pos. 72).
+
+Interviewte berichteten weiterhin, dass es Sicherheitspersonal gab,
+welches nach erneuten Ausschreibungen zu den neuen Arbeitgeber*innen
+wechselte, um weiter in der Bibliothek arbeiten zu können. Dies wurde
+von Seiten der Bibliothek positiv wahrgenommen (Person3, 2021, Pos. 40
+\& 50; Person9, 2021, Pos. 71). Außerdem wurde es mehrheitlich positiv
+gewertet, wenn Wachdienstmitarbeitende sich einbringen, Vorschläge für
+Verbesserungen machen oder Unterstützung anbieten (Person1, 2021, Pos.
+34; Person2, 2021, Pos. 60; Person3, 2021, Pos. 48 \& 80).
+
+\begin{flushright}
+\enquote{Aber im Großen und Ganzen jetzt hier für unsere Zweigbibliothek
+zu sprechen, haben wir total Glück {[}\ldots{]}, da das eigentlich ein
+festes Team ist von zwei Kollegen, die sich hier abwechseln und die
+beiden Kollegen sind einfach super. Also, das sieht an anderen
+Standorten glaub ich ein bisschen anders aus, da haben wir hier schon,
+glaub ich, ziemliches Glück, weil wir eben diese zwei festen Kollegen
+haben, die auch schon über Jahre da sind und die die Bibliothek kennen}
+\linebreak(Person1, 2021, Pos. 12).
+\end{flushright}
+
+\hypertarget{negative-erfahrungen}{%
+\subsection{4.8 Negative Erfahrungen}\label{negative-erfahrungen}}
+
+Auch negative Erfahrungen mit Sicherheitspersonal wurden während der
+Interviews geschildert. In diesem Abschnitt soll auf Ereignisse
+eingegangen werden, die hauptsächlich einzelne Mitarbeitende betrafen.
+Allgemeine Herausforderungen werden im nächsten Kapitel (4.9) näher
+beschrieben.
+
+Es gab Berichte darüber, dass einzelne Wachdienstmitarbeitende nicht die
+nötige Distanz gegenüber Besucher*innen oder Mitarbeitenden aufwiesen.
+Dies äußerte sich in zwei Fällen so, dass Sicherheitsdienstmitarbeiter
+sich unangemessen und aufdringlich gegenüber Frauen verhielten (Person1,
+2021, Pos.16 \& 32). Dies hatte zur Folge, dass sie nicht mehr in der
+Bibliothek eingesetzt wurden.
+
+Drei Interviewte beschreiben die fehlende Distanz von
+Wachschutzmitarbeitenden gegenüber Nutzenden der Bibliothek als Problem,
+weil es zu einer \enquote{Verbrüderung} (Person9, 2021, Pos. 85)
+zwischen Sicherheitspersonal und Besucher*innen kam oder in einem
+anderen Fall ließ sich ein Mitarbeiter aus Mangel an professioneller
+Distanz leicht von Jugendlichen provozieren (Person8, 2021, Pos.
+54--58). Dann gab es noch den Fall, dass eine Person eine
+\enquote{Vater-, Freundrolle} einnahm und sich \enquote{mit den
+Jugendlichen auf den Fußboden gesetzt und das erstmal ausdiskutiert} hat
+(Person4, 2021, Pos. 34).
+
+Des Weiteren wurde beschrieben, dass das Wachdienstpersonal aus Sicht
+der Bibliothek überreagiert hat, wie dieses Beispiel verdeutlicht:
+
+\begin{flushright}
+\enquote{Es ist auch so, dass oft dann irgendwie, wenn es Rangeleien
+gibt, haben wir die Erfahrung gemacht, dass die Personen dann irgendwie
+auf den Boden gedrückt werden, also die Besucher, die dann irgendwie
+Stress gemacht haben {[}\ldots{]}, dann sagen wir auch, lieber die
+Polizei holen und, ja, das macht halt immer so ein Bild nach außen}
+\linebreak(Person8, 2021, Pos. 36).
+\end{flushright}
+
+\hypertarget{problemeverbesserungswuxfcnsche}{%
+\subsection{4.9
+Probleme/Verbesserungswünsche}\label{problemeverbesserungswuxfcnsche}}
+
+\begin{flushright}
+\enquote{Ich habe auch festgestellt, dass so Sicherheitsdienstleute, die
+sind ja auf eine bestimmte Art ausgebildet und die kennen nur falsch
+oder richtig. Bibliotheken kennen ganz viele Grauzonen} \linebreak(Person4, 2021,
+Pos. 30).
+\end{flushright}
+
+Das einleitende Zitat fasst die Herausforderung gut zusammen, die bei
+der Zusammenarbeit zwischen Bibliotheken und Wachdienst herrscht. Im
+Folgenden wird geschildert, welche Probleme die Interviewten sehen,
+welche Veränderungen sie sich wünschen und welche Lösungsansätze schon
+angestoßen wurden. Diese Kategorie dient dazu, genauer auf die möglichen
+Vor- und Nachteile von Sicherheitsdiensten in Bibliotheken einzugehen
+und das Arbeitsverhältnis genauer zu beleuchten.
+
+Der Ausschreibungsprozess, dem alle Bibliotheken als öffentliche
+Einrichtungen unterworfen sind, birgt einige Herausforderungen. Zum
+einen die Anforderungen betreffend, welche der zukünftige Wachdienst
+erfüllen sollte und zum anderen, wie viel und ob die Bibliotheken
+überhaupt Einfluss auf diesen Prozess haben. Es wird mehrheitlich als
+eine Schwierigkeit betrachtet, dass die Arbeit des Sicherheitsdienstes
+immer wieder neu ausgeschrieben werden muss, wird aber auch als eine
+Notwendigkeit innerhalb des Öffentlichen Dienstes angesehen. Etablierte
+Abläufe, eine gute Zusammenarbeit oder ein gut funktionierendes Team
+muss stets von neuem aufgebaut werden. Mehrere Bibliotheken berichteten,
+dass sie schon froh gewesen wären, wenn es keine neue Besetzung hätte
+geben müssen, da sie mit dem bestehenden Team sehr zufrieden waren
+(Person3, 2021, Pos. 40; Person5, 2021, Pos. 138; Person8, 2021, Pos.
+74).
+
+Die Fluktuation innerhalb der Sicherheitsfirmen beschäftigt die Mehrheit
+der interviewten Personen. Es wurde außerdem darauf hingewiesen, dass es
+im Sicherheitsbereich einen Fachkräftemangel gibt. Dieser Umstand
+erschwert es den Wachdienstfirmen qualifiziertes Personal zu finden und
+zu halten (Person3, 2021, Pos. 40; Person7, 2021, Pos. 100; Person9,
+2021, Pos. 53).
+
+Die Kommunikation stellt sich auf zwei Ebenen als eine Schwierigkeit
+heraus, mit der sich die meisten Interviewten konfrontiert sehen. Die
+eine Ebene ist auf die Tatsache zurückzuführen, dass die
+Wachdienstmitarbeitenden über eine externe Firma angestellt sind und
+somit nicht in die Kommunikationskanäle der Einrichtungen eingebunden
+sind. Dies bedeutet, dass zum Beispiel wichtige Informationen zu
+Änderungen, etwa während der COVID-19-Pandemie, nicht automatisch auch
+an das Sicherheitspersonal gehen und daran gedacht werden muss, diese
+gesondert zu informieren (Person1, 2021, Pos. 34; Person3, 2021, Pos.
+46; Person5, 2021, Pos. 82).
+
+Die zweite Ebene, auf der sich die Kommunikation schwierig gestalten
+kann, ist, zwischen den Sicherheitsdienstmitarbeitenden, den
+Angestellten und/oder den Besucher*innen der Bibliothek. Die
+Bibliotheken wünschen sich von den Wachdienstmitarbeitenden gute
+Umgangsformen, und dass sie sich angemessen ausdrücken, damit sie gerade
+auch in Konfliktsituationen deeskalierend eingreifen können. Diese
+gewünschten Umgangsformen und die Sprachgewandtheit sind allerdings
+nicht immer vorhanden (Person1, 2021, Pos. 12 \& 18; Person8, 2021, Pos.
+40). Dies wird auf die verschiedenen Ausbildungs- und allgemeine
+Bildungshintergründe zurückgeführt sowie auf die unterschiedlichen
+Umgebungen, in denen Sicherheitspersonal in der Regel arbeitet (Person1,
+2021, Pos. 18 \& 40; Person4, 2021, Pos. 94; Person5, 2021, Pos. 56;
+Person9, 2021, Pos. 27).
+
+Die Wünsche und Erwartungen der Bibliotheken an die Sicherheitsdienste
+werden durchaus auch kritisch reflektiert:
+
+\begin{flushright}
+\enquote{Die Frage ist halt ein bisschen, wo die Grenze ist, was man
+erwarten kann, das ist halt so die andere Frage. Es sind ja letztendlich
+dann doch nur Leute, die einen Monat eine Ausbildung gemacht haben und
+wenn dann kommunikative Fähigkeiten erwartet werden, wie nach einem
+abgeschlossenen Hochschulstudium, das kann man dann eben auch nicht
+erwarten} \linebreak(Person9, 2021, Pos. 29).
+\end{flushright}
+
+Auf beiden Ebenen der Kommunikation sehen die Verantwortlichen in den
+Bibliotheken Ver\-bes\-se\-rungs- und Handlungsbedarf. So gibt es zum Beispiel
+die Idee, ein Dokument mit Standardformulierungen aufzusetzen und dieses
+zur Unterstützung an die Wachdienstmitarbeitenden auszugeben (Person1,
+2021, Pos. 18) oder sehr detaillierte Checklisten zu formulieren, um
+\enquote{die Bibliothekspolitik auch dem Wachpersonal nahe zu bringen}
+(Person9, 2021, Pos. 25). Darüber hinaus soll auch die Kommunikation
+miteinander gestärkt werden, indem \enquote{gute Kommunikationswege
+entwickelt} werden und \enquote{dass man mitdenkt auch für die andere
+Gruppe} (Person2, 2021, Pos. 92).
+
+Eine interviewte Person erzählte von einem ganz eigenen Lösungsweg, den
+die Bibliothek eingeschlagen hat, angesichts des Problems mit den vielen
+Wechseln und den Kommunikationsproblemen. Die Idee ist, eine*n
+Bibliotheksmitarbeiter*in mit der Zuständigkeit für die Einarbeitung und
+Betreuung des Wachdienstpersonals zu beauftragen. Diese Person soll neue
+Sicherheitsdienstmitarbeitende einweisen, sich mit den technischen
+Aspekten auskennen und die Ansprechperson im Alltag sein. So würde eine
+dauerhafte Schnittstelle zwischen dem externen Wachschutz und der
+Bibliothek geschaffen werden, die unabhängig von den Ausschreibungen und
+dem Personalwechsel in die Einrichtung integriert wäre (Person3, 2021,
+Pos. 68, 70, 80 \& 82).
+
+\hypertarget{beantwortung-der-forschungsfrage}{%
+\section{5 Beantwortung der
+Forschungsfrage}\label{beantwortung-der-forschungsfrage}}
+
+Die Forschungsfrage, die mit der vorliegenden Arbeit beantwortet werden
+soll, lautet: \emph{Wie ist der Wachschutz in den Arbeitsort Bibliothek
+eingebunden?} Von den vorliegenden Daten und deren Analyse ausgehend,
+kann diese Frage nicht allgemeingültig beantwortet werden. Die
+Untersuchung hat gezeigt, dass die Rolle des Wachdienstes in der
+Bibliothek durchaus individuelle Züge der einzelnen Einrichtungen
+aufweist und auf deren Bedürfnisse abgestimmt ist. Trotzdem gibt es auch
+Gemeinsamkeiten, die die untersuchten Bibliotheken teilen, wie die
+Auswertung gezeigt hat. Seien dies die Hauptaufgaben des
+Sicherheitspersonals, Interessenausgleich schaffen, Sicherheitsgefühl
+vermitteln und die Hausordnung durchsetzen, nur um einige zu nennen,
+oder die alltäglichen Herausforderungen, welche das Ausschreibungssystem
+im Öffentlichen Dienst mit sich bringt. Außerdem die Erfahrung, dass die
+Einarbeitung und Betreuung mit viel Aufwand verbunden ist.
+
+Auf die Tätigkeiten des Wachdienstes bezogen wurde festgestellt, dass
+die Aufgabenbereiche größtenteils klar von denen der
+Bibliotheksmitarbeitenden getrennt werden können. Allerdings gibt es
+auch hier Aufgaben, die sich überschneiden oder die von beiden Parteien
+ausgeführt werden sollen, wie zum Beispiel Nutzende auf Regelverstöße
+hinzuweisen. Auf die Zusammenarbeit zwischen den Mitarbeitenden bezogen,
+stellte sich heraus, dass eine gewisse, manchmal auch gewünschte,
+Distanz vorhanden zu sein scheint. Teilweise wird auch
+Zwischenmenschlich ein Unterschied gemacht, ob die Person der Bibliothek
+angehört oder der Gruppe der externen Dienstleister*innen. Die
+unterschiedlichen beruflichen und teils persönlichen
+(Bildungs-)Hintergründe werden bei Kommunikations- und
+Umgangsdifferenzen vermutet.
+
+\hypertarget{limitationen}{%
+\subsection{5.1 Limitationen}\label{limitationen}}
+
+Der qualitative Ansatz der vorliegenden Arbeit erlaubte es, einzelne,
+subjektive Erfahrungen genau zu untersuchen. Aus diesem und dem Grund
+der begrenzten Anzahl von Teilnehmenden, erhebt die Untersuchung keinen
+Anspruch auf Vollständigkeit oder Repräsentativität. Ursprünglich
+sollten auch Wachdienstmitarbeitende für diese Untersuchung interviewt
+werden. Die Anfragen an Sicherheitsfirmen blieben jedoch unbeantwortet.
+Eine weitere Überlegung war es, eine Umfrage unter den
+Bibliotheksbesucher*innen zu machen, allerdings wurde diese Idee, auf
+Grund von fehlenden Ressourcen und zeitlichen Grenzen, wieder verworfen.
+Außerdem hatte sich die Präsenz des Wachdienstes in vielen Bibliotheken
+durch die COVID-19-Pandemie stark verändert. So stehen die
+Sicherheitsdienstmitarbeitenden während der Pandemie wegen der
+Einlassbeschränkungen größtenteils direkt am Eingang der Bibliothek
+(auch bei Bibliotheken, die regulär keinen Wachdienst beschäftigen) und
+kontrollieren die Besucher*innen. Die Nutzenden losgelöst von dieser
+aktuellen Entwicklung zum Thema Wachschutz zu befragen, wäre unmöglich
+gewesen und hätte somit nicht dem Ziel der Arbeit gedient. Deshalb
+besteht eine Limitierung der präsentierten Arbeit darin, dass nur eine
+Perspektive auf das Thema berücksichtigt werden konnte. Nichtsdestotrotz
+konnte mit den verfügbaren Daten die Forschungsfrage beantwortet und ein
+detailreicher Einblick in die Thematik gewährt werden.
+
+\hypertarget{fazit-und-ausblick}{%
+\section{6 Fazit und Ausblick}\label{fazit-und-ausblick}}
+
+Das Ziel der vorliegenden Arbeit war es, die Forschungsfrage zu
+beantworten und eine bestehende Lücke in der Forschung, zumindest in
+Teilen, zu schließen. Die Arbeit untersuchte, wie Sicherheitspersonal in
+den Arbeitsort Bibliothek eingebunden ist. Dafür wurde die qualitative
+Methode des teilstrukturierten Leitfadeninterviews gewählt und mit einer
+umfassenden Recherche zu der Thematik flankiert. Für die Untersuchung
+wurden acht Interviews durchgeführt, welche die Erfahrungen von neun
+Bibliotheksmitarbeitenden in leitenden Positionen abbilden.
+
+Die durchgeführte Untersuchung hat gezeigt, dass die Eingliederung von
+Sicherheitspersonal in Bibliotheken zum einen unterschiedlich stark
+angestrebt wird und zum anderen gewisse Herausforderungen mit sich
+bringt. Der Wachdienst wird als notwendige Komponente gesehen, um die
+Bibliothek in dem gewünschten Umfang betreiben und ein möglichst
+ungestörtes Miteinander unterschiedlicher Interessengruppen
+gewährleisten zu können. Der Umstand, dass das Wachschutzpersonal über
+eine externe Firma beschäftigt wird, hat einen finanziellen und
+personellen Vorteil, da die Sicherheitsfirmen meistens über einen großen
+Pool an Mitarbeitenden verfügen, die bei Ausfällen sofort eingesetzt
+werden können. Allerdings birgt die Zusammenarbeit mit Externen auch
+einige Herausforderungen, wie die Untersuchung gezeigt hat. Regelmäßige
+Ausschreibungen, wie sie im Öffentlichen Dienst bei externen
+Dienstleistungen üblich sind, machen es den Bibliotheken schwer, ein
+langfristiges Vertrauensverhältnis zu dem Personal der Sicherheitsfirmen
+aufzubauen. Die Fluktuation, die in vielen dieser Firmen herrscht, wird
+hier ebenfalls zum Problem. So müssen in den Bibliotheken viele
+Arbeitsstunden für regelmäßig neu anfallende Einweisungen, wiederholte
+Konzeptvermittlung und Betreuung des Wachdienstpersonals investiert
+werden. Außerdem scheint es so, dass die unterschiedlichen
+(Aus-)Bildungshintergründe der Bibliotheks- und
+Sicherheitsmitarbeitenden zu Kommunikationsproblemen führen können.
+Darüber hinaus gibt es offenbar teilweise auch ein unterschiedliches
+Verständnis hinsichtlich der Arbeitsausführung, welches wiederum
+Verständigungsschwierigkeiten und Unverständnis hervorbringen kann.
+
+Trotz der großen Herausforderungen, die die Zusammenarbeit von
+Bibliotheken und Sicherheitsdiensten begleiten, sind die interviewten
+Personen grundsätzlich mit deren Einsatz zufrieden und bemühen sich um
+ein gutes Betriebsklima. Wie in den Gesprächen festzustellen war, gibt
+es von Seiten der Bibliotheken verschiedene Bestrebungen, die
+Zusammenarbeit zu verbessern und zu erleichtern. Sei dies indem in der
+Ausschreibung Ansprüche und Arbeitsfelder genau definiert werden, die
+Einarbeitung ausgeweitet wird oder auch die Bibliotheksmitarbeitenden
+bestärkt werden, das Sicherheitspersonal als Verbündete mit demselben
+Ziel zu sehen.
+
+Aufgrund des noch kaum erforschten Themas \emph{Wachschutz in
+Bibliotheken} gerade im deutschsprachigen Raum, ergeben sich
+verschiedene Ansätze, um diese Thematik weiter und eingehender zu
+untersuchen. Die vorliegende Arbeit konnte die Perspektive von leitenden
+Angestellten, welche für das Sicherheitspersonal in ihrer Bibliothek
+zuständig sind, analysieren und vorstellen. Weitere Perspektiven, die
+Aufschluss über die Rolle und den Einfluss von Wachschutz in
+Bibliotheken geben könnten, wären Bibliotheksmitarbeitende, die im
+Alltag mit und neben dem Wachdienstpersonal arbeiten. Außerdem die
+Angestellten von Sicherheitsdiensten, die in Bibliotheken tätig sind und
+auch die Besucher*innen von Bibliotheken mit Wachschutz. Diese
+unterschiedlichen Perspektiven würden dabei helfen, einen umfassenden
+Einblick in die Thematik zu gewähren, um daraus beispielsweise
+Handlungsempfehlungen und neue Formen der alltäglichen Zusammenarbeit zu
+entwickeln. Des Weiteren wäre es vorstellbar, dass sich durch die
+Analyse der verschiedenen Perspektiven weitere Bedürfnisse und eventuell
+auch Ängste/Vorbehalte herausarbeiten ließen. Diese Erkenntnisse könnten
+zum Beispiel von Bibliotheksverbänden dazu genutzt werden, Leitfäden
+oder auch Schulungen für die Zusammenarbeit mit Sicherheitspersonal in
+Bibliotheken zu entwickeln.
+
+Ein weiterer Aspekt, der in diesem Zusammenhang untersucht werden
+könnte, sind die Auswirkungen auf Arbeitsbedingungen, Betriebsklima
+sowie die Zusammenarbeit der verschiedenen Parteien, welche durch das
+Outsourcing von Dienstleistungen entstehen.
+
+In interdisziplinärer Zusammenarbeit mit anderen
+Wissenschaftsdisziplinen, wie der Stadtsoziologie, den
+Sozialwissenschaften oder auch der sozialen Arbeit, könnten Ursachen und
+Herausforderungen tiefergehend auf gesellschaftliche Phänomene hin
+untersucht werden. Im besten Falle könnten Lösungsansätze erarbeitet
+werden, um das Zusammenspiel von Bibliothekspublikum jeden Alters mit
+diversen Interessen und Bedürfnissen, Bibliotheksmitarbeitenden sowie
+Sicherheitspersonal in Zukunft verständnisvoller und ausgewogener zu
+gestalten.
+
+\hypertarget{literaturnachweise}{%
+\section{7 Literaturnachweise}\label{literaturnachweise}}
+
+Albrecht, S. (2015). \emph{Library Security: Better Communication, Safer
+Facilities.} American Library Association.
+\url{https://ebookcentral.proquest.com/lib/huberlin-ebooks/detail.action?docID=2070053}
+
+Christensen, A. (2017). Benutzungsdienste zwischen Automation, Bau und
+Technik. \emph{ABI-Technik}, 2017-11-27, Vol.37 (3), 249--255.
+\url{https://doi.org/10.1515/abitech-2017-0056}
+
+Braun, V. \& Clarke, V. (2006). Using thematic analysis in psychology.
+\emph{Qualitative Research in Psychology}, 3(2), 77--101.
+\url{https://doi.org/10.1191/1478088706qp063oa}
+
+Dohrmann, A. \& Siegel, A. (2009). Sicherheit durch Prävention. Die
+Konferenz Nationaler Kultureinrichtungen (KNK) entwickelt einen
+Handlungsleitfaden für Museen, Archive und Bibliotheken.
+\emph{Zeitschrift für Bibliothekswesen und Bibliographie.} Vol.
+56(3--4), 200--207. \url{http://dx.doi.org/10.3196/18642950095634102}
+
+Duden, R. (2015, 28. Mai). \emph{Vom Nachtwächter zum Lernortmanager? --
+Neue Herausforderungen für das Qualitätsmanagement von Wachdiensten in
+wissenschaftlichen Bibliotheken.} 104. Deutscher Bibliothekartag,
+Nürnberg, Deutschland.
+\url{https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/1727}
+
+Eichhorn, M. (2015). \emph{Konflikt- und Gefahrensituation in
+Bibliotheken. Ein Leitfaden für die Praxis.} De Gruyter Saur.
+
+Eichhorn, M. (2016). \enquote{Konflikt- und Gewaltsituationen lassen
+sich im Team am besten lösen} -- Experte Martin Eichhorn gibt Tipps zur
+Deeskalation / Konsequentes Handeln ist wichtig. \emph{BuB Forum
+Bibliothek und Information}, 68, 06/2016, 330--333.
+\url{https://opus4.kobv.de/opus4-bib-info/files/2707/BuB_2016_06_330_333.pdf}
+
+\sloppy
+Emskötter, I. (2021). \enquote{So'n Tag für Hamburg}. Zweijähriges
+Pilotprojekt zur Sonntagsöffnung der Zentralbibliothek der Bücherhallen.
+\emph{BuB Forum Bibliothek und Information}, 73, 07/2021, 377.
+\url{https://zs.thulb.uni-jena.de/servlets/MCRFileNodeServlet/jportal_derivate_00300983/BUB_2021_07_377.pdf}
+
+Flick, U., von Kardorff, E. \& Steinke, I. (2019). Was ist qualitative
+Forschung? Einleitung und Überblick. In U. Flick, E. von Kardorff \& I.
+Steinke (Hrsg.), \emph{Qualitative Forschung. Ein Handbuch} (S. 13--29).
+Rowohlt Taschenbuch Verlag.
+
+Frevel, B. (2012). Kriminalität und lokale Sicherheit. In E. Frank
+(Hrsg.), \emph{Handbuch Stadtsoziologie} (S. 593--611). Springer VS.
+\url{https://link.springer.com/book/10.1007/978-3-531-94112-7}
+
+Graham, W. (2012). \emph{The Black Belt Librarian: Real-World Safety \&
+Security.} American Library Association.
+
+Helfferich, C. (2011). \emph{Die Qualität qualitativer Daten. Manual für
+die Durchführung qualitativer Interviews.} VS Verlag.
+
+Jopp, R. K. (Hrsg.). (1991). \emph{Sicherheit in Bibliotheken:
+Raumsicherung - Buchsicherung, Arbeitsplatz - Brandschutz; Referate
+einer Fortbildungsveranstaltung der Baukommission des DBI am 2./3.
+Oktober 1985 in Duisburg.} Deutsches Bibliotheksinstitut.
+
+Kaufmann, S. (2017). Das Themenfeld \enquote{Zivile Sicherheit}. In Gusy
+C., Kugelmann D. \& Würtenberger T. (Hrsg), \emph{Rechtshandbuch Zivile}
+\emph{Sicherheit} (S. 3--22). Springer.
+\url{https://link.springer.com/book/10.1007/978-3-662-53289-8?page=1\#toc}
+
+Kammersgaard, T. (2021). Private security guards policing public space:
+using soft power in place of legal authority, \emph{Policing and
+Society}, 31:2, 117--130.
+\url{https://doi.org/10.1080/10439463.2019.1688811}
+
+Lashley, E. L. (2008). Library Safety and Security -- Campus/Community
+Police Collaboration. \emph{Library \& Archival Security}, 21:2,
+195--201. DOI: 10.1080/01960070802202027
+
+McGinty, J. (2008). Enhancing Building Security: Design Considerations,
+\emph{Library \& Archival Security}, 21:2, 115--127. DOI:
+10.1080/01960070802201474
+
+McGuin, H. (2010). The Evolution of Security at Sims Memorial Library: A
+Case Study\emph{, Library \& Archival Security}, 23:2. 105--115, DOI:
+10.1080/01960075.2010.495328
+
+Morey, M. (1999). Whose space is it anyway? A study of young
+people\textquotesingle s interaction with security guards in New South
+Wales, \emph{Australian Social Work}, 52:3, 51--56.
+\url{https://doi.org/10.1080/03124079908414136}
+
+Osiewacz, F. (2017a, 11. März). \emph{Provokation und Pöbelei in Hammer
+Zentralbibliothek.} Der Westfälische Anzeiger.
+\url{https://www.wa.de/hamm/zentralbibliothek-hamm-erhaelt-sicherheitsdienst-weil-jugendliche-poebeln-provozieren-7626004.html}
+
+Osiewacz, F. (2017b, 22. März). \emph{Ruhe zwischen den Regalen. Nach
+Randalen: Einsatz eines Sicherheitsdienstes in Zentralbibliothek zeigt
+Wirkung.} Der Westfälische Anzeiger. (Eine Kopie des Artikels aus der
+Printausgabe wurde von der Zentralbibliothek Hamm zur Verfügung
+gestellt)
+
+rbb24 (2021, 16. September). \emph{Wachschutz eingesetzt. Tempelhofer
+Bibliothek wird erneut Ziel von mutmaßlich rechtem Angriff.} rbb24.
+\url{https://www.rbb24.de/panorama/beitrag/2021/09/bibliothek-tempelhof-schoeneberg-buecher-zersoert.html}
+(letzter Aufruf Juni 2022)
+
+Reed, C. (2008). The Correct Mindset. \emph{Library \& Archival
+Security}, 21:2, 59--67. \url{https://doi.org/10.1080/01960070802201334}
+
+Robertson, G. (2014). \emph{Disaster Planning for Libraries. Process and
+Guidelines}. Chandos Publishing.
+
+Robinson, B. (2019). No holds barred: Policing and Security in the
+Public Library. \emph{In the Library with the lead pipe.}
+\url{http://www.inthelibrarywiththeleadpipe.org/2019/no-holds-barred/}
+
+Russew, G. (2021, 12. August). \emph{Tempelhof-Schöneberg.
+Bezirksbibliothek wird Ziel mutmaßlich rechtsgerichteter Attacke.}
+rbb24.
+\url{https://www.rbb24.de/panorama/beitrag/2021/08/berlin-tempelhof-zerstoerte-buecher-bibliothek-mutmasslich-rechte-attacke.html}
+(letzter Aufruf Juni 2022)
+
+Saarikkomäki, E., \& Alvesalo-Kuusi, A. (2020). Ethnic Minority Youths'
+Encounters With Private Security Guards: Unwelcome in the City Space.
+\emph{Journal of Contemporary Criminal Justice,} 36(1), 128--143.
+\url{https://doi.org/10.1177/1043986219890205}
+
+Schröder, A. (2021). Neue kriminalpräventive Konzepte für die Sicherheit
+im öffentlichen Raum. In H. Lange, C. Kromberg \& A. Rau (Hrsg.),
+\emph{Urbane Sicherheit. Migration und der Wandel kommunaler
+Sicherheitspolitik} (S. 55--84). Springer VS.
+\url{https://link.springer.com/book/10.1007/978-3-658-34398-9}
+
+Trapskin, B. (2008). A Changing of the Guard: Emerging Trends in Public
+Library Security. \emph{Library \& Archival Security}, 21:2, 69--76.
+\url{http://doi.org/10.1080/01960070802201359}
+
+Verch U. (2006). \emph{Sonntags in die Bibliothek! Die Wiederbelebung
+des Bibliothekssonntags in Deutschland}. Logos Verlag Berlin.
+
+Vieth-Entus, S. (2015a, 08. Februar). \emph{Polizeieinsatz am
+Bücherregal. Drogenhandel in Neuköllner Bibliothek.} Der Tagesspiegel.
+\url{https://www.tagesspiegel.de/berlin/polizeieinsatz-am-buecherregal-drogenhandel-in-neukoellner-bibliothek/11341912.html}
+
+Vorberg, M. (2009). »Law around-the-clock« Die 24-Stunden-Öffnung der
+Hengeler Mueller-Bibliothek der Bucerius Law School in Hamburg.
+\emph{BuB Forum Bibliothek und Information}, 61, 01/2009, 4445.
+
+Werner, P. (2013). Qualitative Befragungen. In K. Umlauf, S.
+Fühles-Ubach \& M. Seadle (Hrsg.), \emph{Handbuch Methoden der
+Bibliotheks- und Informationswissenschaft. Bibliotheks-,
+Benutzerforschung, Informationsanalyse} (S. 128--151)\emph{.} De Gruyter
+Saur.
+
+%autor
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{Sara Juen}, (M.A. Information Science) ist wissenschaftliche
+Mitarbeiterin am Institut für Gender \& Diversity an der OST -
+Ostschweizer Fachhochschule in St. Gallen und Redaktionsmitglied der
+LIBREAS. Library Ideas. ORCID: https://orcid.org/0000-0003-0725-8592
+
+\end{document}
