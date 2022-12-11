@@ -1,7 +1,7 @@
 Dieser Beitrag ist aus einer Masterarbeit hervorgegangen, die am
 Institut für Bibliotheks- und Informationswissenschaft der
 Humboldt-Universität zu Berlin entstanden ist. Teile sind daraus
-wörtlich übernommen.Vergleiche Hannah Böhlke, Verbreitung und
+wörtlich übernommen. Vergleiche Hannah Böhlke, Verbreitung und
 Ausbaustufen von Zweitveröffentlichungsservices an deutschen
 Universitätsbibliotheken, in: Berliner Handreichungen zur Bibliotheks-
 und Informationswissenschaft, Heft 491.\
@@ -239,17 +239,13 @@ Zweitveröffentlichungen abnehmen und somit ausführender Art sind:
 
 Table: Tabelle 1: Einordnung der Services in übergeordnete Kategorien.
 
-
-| --------------------------------------------------------------------- |
 | **Informationsservices**                                              |
-| --------------------------------------------------------------------- |
+|:--------------------------------------------------------------------- |
 | –   Bereitstellung von Informationen auf der Webseite                 |
 | –   Schulungen                                                        |
 | –   Allgemeine Beratung                                               |
 | –   Weitergehende Beratung/Unterstützung                              |
-| --------------------------------------------------------------------- |
 | **Ausführungsservices**                                               |
-| --------------------------------------------------------------------- |
 | –   Prüfung der Rechte                                                |
 | –   Hochladeservice Einzeldokumente                                   |
 | –   Hochladeservice Listen                                            |

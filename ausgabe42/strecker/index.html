@@ -5,7 +5,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>Editorial #42: Das Leben, das Universum und der ganze Rest - LIBREAS. Library Ideas</title>
+	<title>Dataset Retrieval: Informationsverhalten von Datensuchenden und das Ökosystem von Data-Retrieval-Systemen - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
 
@@ -13,11 +13,11 @@
 
  <!-- RDFa Metadata (in DublinCore) -->
     
-    <meta property="dc:title" content="Editorial #42: Das Leben, das Universum und der ganze Rest" />
+    <meta property="dc:title" content="Dataset Retrieval: Informationsverhalten von Datensuchenden und das Ökosystem von Data-Retrieval-Systemen" />
     
     
     
-    <meta property="dc:creator" content="Redaktion LIBREAS" />
+    <meta property="dc:creator" content="Dorothea Strecker" />
     
     
     
@@ -32,7 +32,7 @@
     <meta property="dc:source" content="LIBREAS. Library Ideas" />
     <meta property="dc:subject" content="Library and Information Science" />
     <meta property="dc:type" content="website" />
-    <meta property="dc:description" content=""/>
+    <meta property="dc:description" content="Verschiedene Stakeholder fordern eine bessere Verfügbarkeit von Forschungsdaten. Der Erfolg dieser Initiativen hängt wesentlich von einer guten Auffindbarkeit der publizierten Datensätze ab, weshalb Dataset Retrieval an Bedeutung gewinnt. Dataset Retrieval ist eine Sonderform von Information Retrieval, die sich mit dem Auffinden von Datensätzen befasst. Dieser Beitrag fasst aktuelle Forschungsergebnisse über das Informationsverhalten von Datensuchenden zusammen. Anschließend werden beispielhaft zwei Suchdienste verschiedener Ausrichtung vorgestellt und verglichen. Um darzulegen, wie diese Dienste ineinandergreifen, werden inhaltliche Überschneidungen von Datenbeständen genutzt, um den Metadatenaustausch zu analysieren."/>
     <meta property="dc:source" resource="urn:ISSN:1860-7950" /> 
 
 <!-- Google Scholar -->
@@ -143,13 +143,13 @@
         
 
         
-        <h1 itemprop="name" class="title">Editorial #42: Das Leben, das Universum und der ganze Rest</h1>
+        <h1 itemprop="name" class="title">Dataset Retrieval: Informationsverhalten von Datensuchenden und das Ökosystem von Data-Retrieval-Systemen</h1>
         
         
 
         <div class="titelei">
         
-        <i itemprop="author">Redaktion LIBREAS</i>
+        <i itemprop="author">Dorothea Strecker</i>
         
     </div>
 
@@ -160,7 +160,7 @@
             
               
               
-            <i itemprop="author">Redaktion LIBREAS</i> 
+            <i itemprop="author">Dorothea Strecker</i> 
             
             
             
@@ -170,6 +170,16 @@
 
 
         
+
+        <p><small itemprop="description">Verschiedene Stakeholder fordern eine bessere Verfügbarkeit von Forschungsdaten. Der Erfolg dieser Initiativen hängt wesentlich von einer guten Auffindbarkeit der publizierten Datensätze ab, weshalb Dataset Retrieval an Bedeutung gewinnt. Dataset Retrieval ist eine Sonderform von Information Retrieval, die sich mit dem Auffinden von Datensätzen befasst. Dieser Beitrag fasst aktuelle Forschungsergebnisse über das Informationsverhalten von Datensuchenden zusammen. Anschließend werden beispielhaft zwei Suchdienste verschiedener Ausrichtung vorgestellt und verglichen. Um darzulegen, wie diese Dienste ineinandergreifen, werden inhaltliche Überschneidungen von Datenbeständen genutzt, um den Metadatenaustausch zu analysieren.</small></p>
+
+        
+
+        
+
+        <br>
+
+        <p><small itemprop="description">Various stakeholders are calling for better availability of research data. The success of these initiatives depends largely on good discoverability of published datasets, which is why Dataset Retrieval is gaining in importance. Dataset Retrieval is a special form of Information Retrieval that is concerned with finding datasets. This paper summarizes recent research on the information behavior of data users. Subsequently, two search services with different objectives are presented and compared. In order to show how these services interconnect, overlaps in content are used to analyze metadata exchange between them.</small></p>
 
         
 
@@ -183,11 +193,11 @@
             <br>
             
             
-            Redaktion LIBREAS,
+            Dorothea Strecker,
             
             
              
-            "Editorial #42: Das Leben, das Universum und der ganze Rest".
+            "Dataset Retrieval: Informationsverhalten von Datensuchenden und das Ökosystem von Data-Retrieval-Systemen".
             
             <i itemprop="provider">LIBREAS. Library Ideas</i>, 42 (<span itemprop="datePublished">2022</span>). <a itemprop="url" href="https://libreas.eu/ausgabe42/strecker/">https://libreas.eu/ausgabe42/strecker/</a>
         </small>
@@ -202,48 +212,13 @@
 
     <div class="entry-content" itemprop="articleBody"><nav id="TOC" role="doc-toc">
 <ul>
-<li><a href="#einleitung" id="toc-einleitung">Einleitung</a>
-<ul>
-<li><a href="#fragestellungen"
-id="toc-fragestellungen">Fragestellungen</a></li>
-</ul></li>
+<li><a href="#einleitung" id="toc-einleitung">Einleitung</a></li>
 <li><a href="#literaturübersicht"
-id="toc-literaturübersicht">Literaturübersicht</a>
-<ul>
-<li><a href="#information-retrieval-und-dataset-retrieval"
-id="toc-information-retrieval-und-dataset-retrieval">Information
-Retrieval und Dataset Retrieval</a></li>
-<li><a href="#funktionsweise-von-dr-systemen"
-id="toc-funktionsweise-von-dr-systemen">Funktionsweise von
-DR-Systemen</a></li>
-<li><a href="#evaluation-von-dr-systemen"
-id="toc-evaluation-von-dr-systemen">Evaluation von DR-Systemen</a></li>
-<li><a href="#informationsverhalten-im-kontext-von-forschungsdaten"
-id="toc-informationsverhalten-im-kontext-von-forschungsdaten">Informationsverhalten
-im Kontext von Forschungsdaten</a></li>
-<li><a href="#arten-von-dr-systemen"
-id="toc-arten-von-dr-systemen">Arten von DR-Systemen</a></li>
-</ul></li>
-<li><a href="#methode" id="toc-methode">Methode</a>
-<ul>
-<li><a href="#datenerhebung"
-id="toc-datenerhebung">Datenerhebung</a></li>
-<li><a href="#analyse" id="toc-analyse">Analyse</a></li>
-</ul></li>
-<li><a href="#ergebnisse" id="toc-ergebnisse">Ergebnisse</a>
-<ul>
-<li><a href="#metadaten-in-google-dataset-search"
-id="toc-metadaten-in-google-dataset-search">Metadaten in Google Dataset
-Search</a></li>
-<li><a href="#vergleich-zwischen-pangaea-und-google-dataset-search"
-id="toc-vergleich-zwischen-pangaea-und-google-dataset-search">Vergleich
-zwischen PANGAEA und Google Dataset Search</a></li>
-</ul></li>
+id="toc-literaturübersicht">Literaturübersicht</a></li>
+<li><a href="#methode" id="toc-methode">Methode</a></li>
+<li><a href="#ergebnisse" id="toc-ergebnisse">Ergebnisse</a></li>
 <li><a href="#diskussion" id="toc-diskussion">Diskussion</a></li>
-<li><a href="#fazit" id="toc-fazit">Fazit</a>
-<ul>
-<li><a href="#limitationen" id="toc-limitationen">Limitationen</a></li>
-</ul></li>
+<li><a href="#fazit" id="toc-fazit">Fazit</a></li>
 <li><a href="#anhang-a" id="toc-anhang-a">Anhang A</a></li>
 <li><a href="#literaturverzeichnis"
 id="toc-literaturverzeichnis">Literaturverzeichnis</a></li>
@@ -756,8 +731,8 @@ dass der Metadatenaustausch zwischen Diensten nicht immer reibungslos
 abläuft.</p>
 <h3 id="anhang-a">Anhang A</h3>
 <table>
-<caption>Tabelle 1: Beschreibung der Metadatenelemente in PANGAEA und
-deren Vorkommen in Google Dataset Search</caption>
+<caption>Tabelle 1: Beschreibung der Metadatenelemente in Google Dataset
+Search und deren Vorkommen für PANGAEA-Datensätze</caption>
 <colgroup>
 <col style="width: 13%" />
 <col style="width: 53%" />
@@ -1078,7 +1053,11 @@ href="http://ws.pangaea.de/schemas/pangaea/MetaData.xsd"
 class="uri">http://ws.pangaea.de/schemas/pangaea/MetaData.xsd</a><a
 href="#fnref4" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
-</section></div>
+</section>
+<hr />
+<p><strong>Dorothea Strecker</strong> ist Wissenschaftliche
+Mitarbeiterin im Projekt re3data COREF am Institut für Bibliotheks- und
+Informationswissenschaft der Humboldt-Universität zu Berlin.</p></div>
 
     
 
@@ -1099,7 +1078,7 @@ href="#fnref4" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2022-12-06</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2022-12-11</a>)</p>
 
 </footer>
       </div>

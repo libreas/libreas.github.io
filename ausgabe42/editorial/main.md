@@ -35,7 +35,7 @@ In diesem Sinne "So Long, and Thanks for All the Fish"[^1]
 
 Eure/Ihre LIBREAS Redaktion!
 
-(Berlin, Hannover, Göttingen, Lausanne, München, Potsdam)
+(Berlin, Göttingen, Hannover, Lausanne, München, Potsdam, Zürich)
 
 [^1]: Originaltitel des vierten Bandes der Romanserie "Per Anhalter
     durch die Galaxis" von Douglas Adams (1984).

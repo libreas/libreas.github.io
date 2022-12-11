@@ -524,7 +524,7 @@ Metadatenaustausch zwischen Diensten nicht immer reibungslos abläuft.
 
 ### Anhang A
 
-Table: Tabelle 1: Beschreibung der Metadatenelemente in PANGAEA und deren Vorkommen in Google Dataset Search
+Table: Tabelle 1: Beschreibung der Metadatenelemente in Google Dataset Search und deren Vorkommen für PANGAEA-Datensätze
 
 |  **Element**         | **Beschreibung**                                                             | **Verwendung (total)** | **Verwendung (anteilig)** |
 | -------------------- | ---------------------------------------------------------------------------- | ---------------------: | ------------------------: |

@@ -247,38 +247,38 @@ Bibliotheksbestände in verschiedenen Städten zurückgreifen.[^4] Zudem
 wurden, um die Arbeitslast einzuschränken, einige Grenzen gesetzt:
 
 -   Es wurden nur Zeitschriften betrachtet, in denen sich direkt an
-    > Bibliothekar\*innen und Bibliotheken gerichtet wurde. Somit wurden
-    > zum Beispiel Zeitschriften, mit denen sich Bibliotheken an die
-    > breite Öffentlichkeit oder direkt an ihre Nutzer\*innen richten,
-    > ausgeschlossen.
+    Bibliothekar\*innen und Bibliotheken gerichtet wurde. Somit wurden
+    zum Beispiel Zeitschriften, mit denen sich Bibliotheken an die
+    breite Öffentlichkeit oder direkt an ihre Nutzer\*innen richten,
+    ausgeschlossen.
 
 -   Ebenso wurde als Grenze angelegt, dass in einer Zeitschrift im
-    > untersuchten Jahrgang mindestens 50% der Texte aus Bibliotheken
-    > stammen, sich mit Bibliotheken beschäftigen oder sich explizit an
-    > Bibliotheken richten müssen. Damit wurden leider gerade auch
-    > Zeitschriften ausgeschlossen, in denen Bibliotheken und andere
-    > Einrichtungen miteinander kommunizieren, wie etwa archivarische
-    > Zeitschriften oder -- für den Autor überraschend -- eine
-    > Fachzeitschrift wie die *Bausteine Forschungsdatenmanagement*.
+    untersuchten Jahrgang mindestens 50% der Texte aus Bibliotheken
+    stammen, sich mit Bibliotheken beschäftigen oder sich explizit an
+    Bibliotheken richten müssen. Damit wurden leider gerade auch
+    Zeitschriften ausgeschlossen, in denen Bibliotheken und andere
+    Einrichtungen miteinander kommunizieren, wie etwa archivarische
+    Zeitschriften oder -- für den Autor überraschend -- eine
+    Fachzeitschrift wie die *Bausteine Forschungsdatenmanagement*.
 
 -   Viele bibliothekarische Zeitschriften veröffentlichen auch kurze
-    > Meldungen, die manchmal nur wenige Zeilen lang sind. Auch diese in
-    > die Daten aufzunehmen, war wegen der dann noch höheren Arbeitslast
-    > unmöglich. Deshalb wurde die Grenze gesetzt, dass ein Beitrag
-    > mindestens eine Seite umfassen muss, um in den Daten verzeichnet
-    > zu werden. (Für rein elektronische Zeitschriften ohne Seitenzahlen
-    > wurde der Wert von mindestens 2000 Zeichen angesetzt.) Dies ist
-    > keine perfekte Grenzziehung, da die Formate der Zeitschriften zum
-    > Beispiel sehr unterschiedlich sind, aber eine handhabbare.
+    Meldungen, die manchmal nur wenige Zeilen lang sind. Auch diese in
+    die Daten aufzunehmen, war wegen der dann noch höheren Arbeitslast
+    unmöglich. Deshalb wurde die Grenze gesetzt, dass ein Beitrag
+    mindestens eine Seite umfassen muss, um in den Daten verzeichnet
+    zu werden. (Für rein elektronische Zeitschriften ohne Seitenzahlen
+    wurde der Wert von mindestens 2000 Zeichen angesetzt.) Dies ist
+    keine perfekte Grenzziehung, da die Formate der Zeitschriften zum
+    Beispiel sehr unterschiedlich sind, aber eine handhabbare.
 
 -   Daten zu den Autor\*innen wurden jeweils so gut wie möglich in den
-    > Datensatz aufgenommen. Aber insbesondere bei den beiden weiter
-    > zurückliegenden Jahrgängen 2001 und 2011 war es zum Beispiel nicht
-    > immer möglich, herauszufinden, in welcher Funktion ein\*e
-    > Autor\*in zum damaligen Zeitpunkt arbeitete. (Für 2021 war dies in
-    > den meisten Fällen noch recherchierbar.) Für die hiesige
-    > Auswertung relevant ist, dass auch jeweils das Land, in dem die
-    > Autor\*innen arbeiteten, aufgenommen wurde.
+    Datensatz aufgenommen. Aber insbesondere bei den beiden weiter
+    zurückliegenden Jahrgängen 2001 und 2011 war es zum Beispiel nicht
+    immer möglich, herauszufinden, in welcher Funktion ein\*e
+    Autor\*in zum damaligen Zeitpunkt arbeitete. (Für 2021 war dies in
+    den meisten Fällen noch recherchierbar.) Für die hiesige
+    Auswertung relevant ist, dass auch jeweils das Land, in dem die
+    Autor\*innen arbeiteten, aufgenommen wurde.
 
 Basis für die Recherche danach, welche bibliothekarischen Zeitschriften
 in den drei untersuchten Jahren im DACH-Raum existierten, waren zum
@@ -310,32 +310,32 @@ gleichen Jahres. Insgesamt wurden Daten zu 4459 Texten (2001: 1591,
 Selbstverständlich hat die Studie eine ganze Anzahl von Einschränkungen.
 
 -   Sie war als Vollerhebung angelegt, aber es war dem Autor nicht
-    > möglich, alle betreffenden Zeitschriften einzusehen. Es fehlt
-    > weiterhin eine kleine Anzahl von -- nur gedruckt und
-    > höchstwahrscheinlich auch nur für einen kleinen Kreis von
-    > anvisierten Leser\*innen publizierten -- Zeitschriften.[^7]
-    > Allerdings sind die wichtigsten, also vor allem die jeweils auf
-    > das gesamte Bibliothekswesen gerichteten Zeitschriften sowie alle
-    > elektronisch zugänglichen Zeitschriften, im Datensatz enthalten.
+    möglich, alle betreffenden Zeitschriften einzusehen. Es fehlt
+    weiterhin eine kleine Anzahl von -- nur gedruckt und
+    höchstwahrscheinlich auch nur für einen kleinen Kreis von
+    anvisierten Leser\*innen publizierten -- Zeitschriften.[^7]
+    Allerdings sind die wichtigsten, also vor allem die jeweils auf
+    das gesamte Bibliothekswesen gerichteten Zeitschriften sowie alle
+    elektronisch zugänglichen Zeitschriften, im Datensatz enthalten.
 
 -   Die Studie wurde von einer Person -- dem Autor -- durchgeführt,
-    > insoweit basiert zum Beispiel auch die Vergabe von
-    > Inhaltsschlagworten auf den Einschätzungen dieser Person. Auch ist
-    > zu erwarten, dass die Daten weiterhin kleine Fehler (Tippfehler,
-    > Verwechslungen und Ähnliches) enthalten. Sie sollten als jeweils
-    > möglichst objektive Annäherung verstanden werden. Dies ist nicht
-    > perfekt, war aber die einzige realistische Möglichkeit, die Studie
-    > überhaupt durchzuführen. Zudem ist zu vermuten, dass sich etwaige
-    > Fehler über die Daten hinweg streuen und sich nicht zum Beispiel
-    > in einem Jahrgang oder bei den Daten zu einer Zeitschrift
-    > konzentrieren.
+    insoweit basiert zum Beispiel auch die Vergabe von
+    Inhaltsschlagworten auf den Einschätzungen dieser Person. Auch ist
+    zu erwarten, dass die Daten weiterhin kleine Fehler (Tippfehler,
+    Verwechslungen und Ähnliches) enthalten. Sie sollten als jeweils
+    möglichst objektive Annäherung verstanden werden. Dies ist nicht
+    perfekt, war aber die einzige realistische Möglichkeit, die Studie
+    überhaupt durchzuführen. Zudem ist zu vermuten, dass sich etwaige
+    Fehler über die Daten hinweg streuen und sich nicht zum Beispiel
+    in einem Jahrgang oder bei den Daten zu einer Zeitschrift
+    konzentrieren.
 
 -   Wichtiger aber ist die Einschränkung auf Zeitschriften.
-    > Bibliothekar\*innen publizieren und kommunizieren
-    > selbstverständlich auch in anderen Medien: Monographien, Weblogs,
-    > Facebook-Gruppen und so weiter. Insoweit wird hier in der
-    > Auswertung nur ein, wenn auch wichtiger Teil, aller Kommunikation
-    > zwischen Bibliothekar\*innen und Bibliotheken betrachtet.
+    Bibliothekar\*innen publizieren und kommunizieren
+    selbstverständlich auch in anderen Medien: Monographien, Weblogs,
+    Facebook-Gruppen und so weiter. Insoweit wird hier in der
+    Auswertung nur ein, wenn auch wichtiger Teil, aller Kommunikation
+    zwischen Bibliothekar\*innen und Bibliotheken betrachtet.
 
 Die konkreten ausgewerteten Fragen, die über die hier berichteten
 hinausgehen, lassen sich selber in den R-Skripten sowie den Graphiken
@@ -547,7 +547,7 @@ angesehen werden.
 
 #### 4.3 Arbeitsländer der Autor\*innen
 
-![Abbildung 1: Arbeitsländer der Autor\*innen](img/abb1.PNG)
+![Abbildung 1: Arbeitsländer der Autor\*innen](img/abb1.png)
 
 Die Frage nach den Arbeitsländern der Autor\*innen aus der zweiten Frage
 wird für die dritte Frage auf die gesamte Welt ausgeweitet. Die
@@ -608,7 +608,7 @@ dem DACH-Raum geschehen.[^14]
 
 #### 4.4 Internationale Themen
 
-![Abbildung 1: In bibliothekarischen Zeitschriften des DACH-Raum thematisierte Länder](img/abb2.PNG)
+![Abbildung 2: In bibliothekarischen Zeitschriften des DACH-Raum thematisierte Länder](img/abb2.png)
 
 Ein Blick in die Daten, welche für die Beantwortung der vierten Frage
 genutzt werden, bestätigt die Tendenzen, die schon bei den Antworten auf
@@ -1089,12 +1089,12 @@ werden.
 
 [^22]: Beispielsweise: Lang, Ulrike (2001). *Bericht der
     Bibliothekarischen Auslandsstelle*. In: Bibliotheksdienst (2001) 1:
-    14-16.
+    14–16.
 
 [^23]: Freytag, Jürgen (2001). *Nachholbedarf für Deutschland:
     Überlegungen zu einer Vergleichenden Bibliotheks- und
     Informationswissenschaft (VBIW)*. In: BuB: Forum für Bibliothek und
-    Information (2001) 9: 582-585. Meinhard, Haike (2011).
+    Information (2001) 9: 582–585. Meinhard, Haike (2011).
     *Vergleichende internationale Bibliothekswissenschaft: Eine
     Annäherung*. In: BuB: Forum für Bibliothek und Information (2011) 5:
     386-391.
