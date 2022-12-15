@@ -32,7 +32,7 @@
     <meta property="dc:source" content="LIBREAS. Library Ideas" />
     <meta property="dc:subject" content="Library and Information Science" />
     <meta property="dc:type" content="website" />
-    <meta property="dc:description" content=""/>
+    <meta property="dc:description" content="Zweitveröffentlichungsservices sind an vielen Forschungseinrichtungen von zunehmender Bedeutung. In diesem Beitrag wird zunächst die Verbreitung der verschiedenen Dienstleistungen an Universitätsbibliotheken dargestellt und aufgezeigt, ob alle angebotenen Services über die Webseite kommuniziert werden oder ob sie nur auf Anfrage angeboten werden. Es wird außerdem die Möglichkeit einer Kategorisierung dieser Services betrachtet und Ausbaustufen zur Einordnung vorgeschlagen. Abschließend wird darauf eingegangen, inwiefern verschiedene Faktoren, wie beispielsweise die Größe der Universität, einen Einfluss auf den Ausbau des Serviceangebots haben."/>
     <meta property="dc:source" resource="urn:ISSN:1860-7950" /> 
 
 <!-- Google Scholar -->
@@ -171,6 +171,10 @@
 
         
 
+        <p><small itemprop="description">Zweitveröffentlichungsservices sind an vielen Forschungseinrichtungen von zunehmender Bedeutung. In diesem Beitrag wird zunächst die Verbreitung der verschiedenen Dienstleistungen an Universitätsbibliotheken dargestellt und aufgezeigt, ob alle angebotenen Services über die Webseite kommuniziert werden oder ob sie nur auf Anfrage angeboten werden. Es wird außerdem die Möglichkeit einer Kategorisierung dieser Services betrachtet und Ausbaustufen zur Einordnung vorgeschlagen. Abschließend wird darauf eingegangen, inwiefern verschiedene Faktoren, wie beispielsweise die Größe der Universität, einen Einfluss auf den Ausbau des Serviceangebots haben.</small></p>
+
+        
+
         
 
 
@@ -221,7 +225,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2022-12-11</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2022-12-15</a>)</p>
 
 </footer>
       </div>

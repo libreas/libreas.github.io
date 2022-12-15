@@ -2774,7 +2774,7 @@
     </url>
     <url>
         <loc>https://libreas.eu/ausgabe42/juen/</loc>
-        <lastmod>2022-12-11T21:34:47+01:00</lastmod>
+        <lastmod>2022-12-15T18:37:43+01:00</lastmod>
     </url>
     <url>
         <loc>https://libreas.eu/ausgabe42/juen/vita.html</loc>
@@ -2785,8 +2785,12 @@
         <lastmod>2022-12-06T12:27:22+01:00</lastmod>
     </url>
     <url>
+        <loc>https://libreas.eu/ausgabe42/</loc>
+        <lastmod>2022-12-15T18:37:43+01:00</lastmod>
+    </url>
+    <url>
         <loc>https://libreas.eu/ausgabe42/editorial/</loc>
-        <lastmod>2022-12-11T21:34:47+01:00</lastmod>
+        <lastmod>2022-12-15T18:37:43+01:00</lastmod>
     </url>
     <url>
         <loc>https://libreas.eu/ausgabe42/editorial/meta.yaml</loc>
@@ -2794,7 +2798,7 @@
     </url>
     <url>
         <loc>https://libreas.eu/ausgabe42/kaden/</loc>
-        <lastmod>2022-12-11T21:34:47+01:00</lastmod>
+        <lastmod>2022-12-15T18:37:43+01:00</lastmod>
     </url>
     <url>
         <loc>https://libreas.eu/ausgabe42/kaden/vita.html</loc>
@@ -2803,6 +2807,10 @@
     <url>
         <loc>https://libreas.eu/ausgabe42/kaden/meta.yaml</loc>
         <lastmod>2022-12-06T12:27:22+01:00</lastmod>
+    </url>
+    <url>
+        <loc>https://libreas.eu/ausgabe42/inhalt/</loc>
+        <lastmod>2022-12-15T18:37:43+01:00</lastmod>
     </url>
     <url>
         <loc>https://libreas.eu/ausgabe42/schuldt/</loc>
@@ -2817,16 +2825,12 @@
         <lastmod>2022-12-06T12:27:22+01:00</lastmod>
     </url>
     <url>
-        <loc>https://libreas.eu/ausgabe42/boehlke/</loc>
-        <lastmod>2022-12-11T21:34:47+01:00</lastmod>
-    </url>
-    <url>
         <loc>https://libreas.eu/ausgabe42/boehlke/vita.html</loc>
-        <lastmod>2022-12-11T21:34:47+01:00</lastmod>
+        <lastmod>2022-12-15T18:37:43+01:00</lastmod>
     </url>
     <url>
         <loc>https://libreas.eu/ausgabe42/boehlke/meta.yaml</loc>
-        <lastmod>2022-12-06T12:27:22+01:00</lastmod>
+        <lastmod>2022-12-15T18:37:43+01:00</lastmod>
     </url>
     <url>
         <loc>https://libreas.eu/ausgabe42/strecker/</loc>

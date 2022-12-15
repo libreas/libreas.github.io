@@ -28,7 +28,7 @@ internationale Themen. Und schließlich widmet sich Ben Kaden in seiner
 zweiten Kolumne zur Bibliotheksphilokartie einer Ansichtskarte der
 damaligen Stadt- und Kreisbibliothek in Jüterbog im Fläming von 1989.
 
-![Bildunterschrift: Redaktionsorte XXI: Bundesterrasse Bern, Sommer
+![Redaktionsorte XXI: Bundesterrasse Bern, Sommer
 2022](img/bern-snacks-feet.jpeg)
 
 In diesem Sinne "So Long, and Thanks for All the Fish"[^1]
