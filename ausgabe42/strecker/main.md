@@ -720,7 +720,7 @@ for Data Repositories." *Data Science Journal* 18 (1): 3.
 [^1]: PANGAEA Terms of Use: <https://www.pangaea.de/about/terms.php>
 
 [^2]: Es werden verschiedene Schnittstellen angeboten, siehe die
-    API-Dokumentation: <https://ws.pangaea.de/
+    API-Dokumentation: <https://ws.pangaea.de/>
 
 [^3]: PANGAEA Data Warehouse: <https://www.pangaea.de/tools/>
 

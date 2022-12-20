@@ -71,7 +71,7 @@ Die Daten wurden alle einrichtungsbezogen in einer Excel-Tabelle
 gesammelt, sodass ablesbar war, welche Einrichtung über welches
 Serviceportfolio verfügt. Dadurch war es möglich, die Häufigkeit
 bestimmter Services statistisch auszuwerten. Hierbei wurde zwischen den
-‚beworbenen' und den ‚nicht beworbenen'[^9] Services unterschieden.
+'beworbenen' und den 'nicht beworbenen'[^9] Services unterschieden.
 Anschließend wurde anhand dieser Unterscheidung untersucht, wie häufig
 die einzelnen Ausbaustufen vorkommen.
 
@@ -112,7 +112,7 @@ Tools wie Sherpa Romeo, Dissem.in oder Ähnliches fallen, aber auch
 die Bereitstellung eines Vordruckes für Verlagsanfragen bezüglich
 der Rechte zur Zweitveröffentlichung. Die Grenze zu Services, die
 den Wissenschaftler:innen die Arbeit abnehmen, kann hier teilweise
-leicht verschwimmen, der Fokus liegt aber auf ‚Hilfe zur
+leicht verschwimmen, der Fokus liegt aber auf 'Hilfe zur
 Selbsthilfe'. Wurde auf der Webseite eine Prüfung der Rechte
 beworben, wird davon ausgegangen, dass auch eine entsprechende
 Beratung stattfinden würde.
@@ -465,7 +465,7 @@ Ausbaustufe bei den TU9-Bibliotheken.
 ### Fazit
 
 Es zeigt sich, dass es vielfältige Angebote auf dem Gebiet der
-Zweitveröffentlichungsservices gibt und selbst innerhalb ‚gleich'
+Zweitveröffentlichungsservices gibt und selbst innerhalb 'gleich'
 eingeordneter Services eine hohe Varianz des tatsächlichen
 Leistungsspektrums auftreten kann. So wird es kaum zwei Services
 beziehungweise Ausbaustufen geben, die einander komplett gleichen,
@@ -639,7 +639,7 @@ Table: Tabelle 3: Liste der untersuchten Einrichtungen
     Diskussionen während des Hands-on-Labs machten deutlich, dass die
     meisten Teilnehmenden mit dem gängigen OA-Vokabular vertraut sind
     und sich viele Einrichtungen im Bereich des grünen Wegs engagieren,
-    auch wenn eher selten ein "Full Service" für Zweitveröffentlichungen
+    auch wenn eher selten ein 'Full Service' für Zweitveröffentlichungen
     angeboten wird." Ähnlich Schmeja/Tullney, Publikationsmonitoring,
     S. 207 f.: "Einige Einrichtungen \[...\] bieten ihren
     Wissenschaftlerinnen und Wissenschaftlern das Prüfen von

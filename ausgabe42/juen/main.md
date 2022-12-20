@@ -1111,7 +1111,6 @@ gestalten.
 
 Albrecht, S. (2015). *Library Security: Better Communication, Safer
 Facilities.* American Library Association.
-<https://ebookcentral.proquest.com/lib/huberlin-ebooks/detail.action?docID=2070053>
 
 Christensen, A. (2017). Benutzungsdienste zwischen Automation, Bau und
 Technik. *ABI-Technik*, 2017-11-27, Vol.37 (3), 249--255.
@@ -1125,13 +1124,13 @@ Dohrmann, A. & Siegel, A. (2009). Sicherheit durch Prävention. Die
 Konferenz Nationaler Kultureinrichtungen (KNK) entwickelt einen
 Handlungsleitfaden für Museen, Archive und Bibliotheken. *Zeitschrift
 für Bibliothekswesen und Bibliographie.* Vol. 56(3--4), 200--207.
-<http://dx.doi.org/10.3196/18642950095634102>
+<https://doi.org/10.3196/18642950095634102>
 
 Duden, R. (2015, 28. Mai). *Vom Nachtwächter zum Lernortmanager? -- Neue
 Herausforderungen für das Qualitätsmanagement von Wachdiensten in
 wissenschaftlichen Bibliotheken.* 104. Deutscher Bibliothekartag,
 Nürnberg, Deutschland.
-<https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/1727>
+<https://nbn-resolving.org/urn:nbn:de:0290-opus4-17275>
 
 Eichhorn, M. (2015). *Konflikt- und Gefahrensituation in Bibliotheken.
 Ein Leitfaden für die Praxis.* De Gruyter Saur.
@@ -1140,8 +1139,7 @@ Eichhorn, M. (2016). "Konflikt- und Gewaltsituationen lassen sich im
 Team am besten lösen" -- Experte Martin Eichhorn gibt Tipps zur
 Deeskalation / Konsequentes Handeln ist wichtig. *BuB Forum Bibliothek
 und Information*, 68, 06/2016, 330--333.
-
-<https://opus4.kobv.de/opus4-bib-info/files/2707/BuB_2016_06_330_333.pdf>
+<https://nbn-resolving.org/urn:nbn:de:0290-opus4-27079>
 
 Emskötter, I. (2021). "So'n Tag für Hamburg". Zweijähriges Pilotprojekt
 zur Sonntagsöffnung der Zentralbibliothek der Bücherhallen. *BuB Forum
@@ -1155,7 +1153,7 @@ Rowohlt Taschenbuch Verlag.
 
 Frevel, B. (2012). Kriminalität und lokale Sicherheit. In E. Frank
 (Hrsg.), *Handbuch Stadtsoziologie* (S. 593--611). Springer VS.
-<https://link.springer.com/book/10.1007/978-3-531-94112-7>
+<https://doi.org/10.1007/978-3-531-94112-7>
 
 Graham, W. (2012). *The Black Belt Librarian: Real-World Safety &
 Security.* American Library Association.
@@ -1171,7 +1169,7 @@ Oktober 1985 in Duisburg.* Deutsches Bibliotheksinstitut.
 Kaufmann, S. (2017). Das Themenfeld "Zivile Sicherheit". In Gusy C.,
 Kugelmann D. & Würtenberger T. (Hrsg), *Rechtshandbuch Zivile*
 *Sicherheit* (S. 3--22). Springer.
-<https://link.springer.com/book/10.1007/978-3-662-53289-8?page=1#toc>
+<https://doi.org/10.1007/978-3-662-53289-8_1>
 
 Kammersgaard, T. (2021). Private security guards policing public space:
 using soft power in place of legal authority, *Policing and Society*,
@@ -1179,15 +1177,13 @@ using soft power in place of legal authority, *Policing and Society*,
 
 Lashley, E. L. (2008). Library Safety and Security -- Campus/Community
 Police Collaboration. *Library & Archival Security*, 21:2, 195--201.
-DOI: 10.1080/01960070802202027
+<https://doi.org/10.1080/01960070802202027>
 
 McGinty, J. (2008). Enhancing Building Security: Design Considerations,
-*Library & Archival Security*, 21:2, 115--127. DOI:
-10.1080/01960070802201474
+*Library & Archival Security*, 21:2, 115--127. <https://doi.org/10.1080/01960070802201474>
 
 McGuin, H. (2010). The Evolution of Security at Sims Memorial Library: A
-Case Study*, Library & Archival Security*, 23:2. 105--115, DOI:
-10.1080/01960075.2010.495328
+Case Study*, Library & Archival Security*, 23:2. 105--115, <https://doi.org/10.1080/01960075.2010.495328>
 
 Morey, M. (1999). Whose space is it anyway? A study of young people\'s
 interaction with security guards in New South Wales, *Australian Social
@@ -1232,7 +1228,7 @@ Schröder, A. (2021). Neue kriminalpräventive Konzepte für die Sicherheit
 im öffentlichen Raum. In H. Lange, C. Kromberg & A. Rau (Hrsg.), *Urbane
 Sicherheit. Migration und der Wandel kommunaler Sicherheitspolitik* (S.
 55--84). Springer VS.
-<https://link.springer.com/book/10.1007/978-3-658-34398-9>
+<https://doi.org/10.1007/978-3-658-34398-9_4>
 
 Trapskin, B. (2008). A Changing of the Guard: Emerging Trends in Public
 Library Security. *Library & Archival Security*, 21:2, 69--76. <http://doi.org/10.1080/01960070802201359>
