@@ -16,10 +16,14 @@ Kontakt: redaktion@libreas.eu
 
 ### Editorial Board
 
+Herausgeber\*innen:
+
 - Ben Kaden M.A. ([https://orcid.org/0000-0002-8021-1785](https://orcid.org/0000-0002-8021-1785)) -- ben@libreas.eu
-- Maxi Kindling M.A. ([https://orcid.org/0000-0002-0167-0466](https://orcid.org/0000-0002-0167-0466)) -- maxi@libreas.eu
+- Dr. Maxi Kindling M.A. ([https://orcid.org/0000-0002-0167-0466](https://orcid.org/0000-0002-0167-0466)) -- maxi@libreas.eu
 
 <!-- Redaktion -->
+
+Redaktion:
 
 - Eva Bunge M.S., M.A. ([https://orcid.org/0000-0002-5587-5934](https://orcid.org/0000-0002-5587-5934)) -- eva@libreas.eu
 - Philipp Falkenburg ([https://orcid.org/0000-0001-9788-8277](https://orcid.org/0000-0001-9788-8277)) -- philipp@libreas.eu
@@ -27,7 +31,7 @@ Kontakt: redaktion@libreas.eu
 - Julia Hempel B.A. (Berlin School of Library and Information Science, Humboldt-Universität zu Berlin) --  julia@libreas.eu
 - Najko Jahn M.A. (SUB Göttingen) -- najko@libreas.eu
 - Sara Juen M.A.  (Institut für Gender & Diversity, OST - Ostschweizer Fachhoschule St. Gallen, [https://orcid.org/0000-0003-0725-8592](https://orcid.org/0000-0003-0725-8592)) -- sara@libreas.eu
-- Jana Rumler M.A. (Museum für Naturkunde Berlin \& Vernetzungs- und Kompetenzstelle Open Access Brandenburg) - jana@libreas.eu
+- Jana Rumler M.A. ([https://orcid.org/0000-0002-4222-5318](https://orcid.org/0000-0002-4222-5318)) - jana@libreas.eu
 - Dr. Karsten Schuldt (Schweizerisches Institut für Informationswissenschaft, FH Graubünden) -- karsten@libreas.eu
 - Matti Stöhr M.A. (TIB Hannover) -- matti@libreas.eu
 - Michaela Voigt M.A. ([https://orcid.org/0000-0001-9486-3189](https://orcid.org/0000-0001-9486-3189)) -- michaela@libreas.eu
@@ -69,4 +73,4 @@ LIBREAS ist im Directory of Open Access Journals ([DOAJ](https://doaj.org/toc/18
 LOCKSS system has permission to collect, preserve, and serve this open
 access Archival Unit. 
 
-(Stand Januar 2022)
+(Stand April 2023)
