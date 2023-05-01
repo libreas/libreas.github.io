@@ -16,7 +16,15 @@ Bei LIBREAS. Library Ideas (im Folgenden LIBREAS) veröffentlichte Beiträge sol
 
 Eine Einreichung von Beiträgen an die Redaktion kann jederzeit erfolgen. Die Veröffentlichung ist in der Regel für die jeweils nächste Ausgabe vorgesehen.
 
-Soweit nicht anders und ausdrücklich schriftlich vereinbart, erfolgt die Rechteübertragung zur Publikation unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) bereits mit der Manuskripteinreichung. Sollte die Redaktion bei Beiträgen substantiellen Veränderungs- und / oder Anpassungsbedarf sehen, wird der Beitrag erst nach Überarbeitung bzw. Bestätigung der redaktionell bearbeiteten Fassung publiziert. (vergleiche Abschnitt Redaktionelle Bearbeitung)
+Soweit nicht anders und ausdrücklich schriftlich vereinbart, erfolgt die Rechteübertragung zur Publikation unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) bereits mit der Manuskripteinreichung. Sollte die Redaktion bei Beiträgen substantiellen Veränderungs- und / oder Anpassungsbedarf sehen, wird der Beitrag erst nach Überarbeitung bzw. Bestätigung der redaktionell bearbeiteten Fassung publiziert. (vergleiche Abschnitt Redaktion)
+
+
+**Begutachtung**
+
+LIBREAS sichert die Qualtität der Beiträge im Rahmen einer redaktionellen Begutachtung ab (Editorial Review): In  mindestens drei Korrekturschleifen wird ein inhaltliches und formales Review von unterschiedlichen Personen aus der [Redaktion](https://libreas.eu/about/) vorgenommen. Feedback mit Autor\*innen erfolgt bilateral.
+
+In einzelnen Fällen werden auch Gastreviewer\*innen von der Redaktion eingeladen. Für einzelne Ausgaben arbeitet Libreas auch mit Gasteditor\*innen zusammen. Libreas begrüßt die Mitarbeit von Gastreviewer\*innen und Gasteditor\*innen sehr und freut sich über [Kontaktaufnahme](mailto:redaktion@libreas.eu).
+
 
 **Inhaltliche Ausrichtung**
 
@@ -73,7 +81,7 @@ Für Rezensionen sind für uns drei Varianten denkbar. <br />
 
 **Vita**
 
-Bei der Beitragseinreichung sollte eine kurze Information zur eigenen Person mitgeliefert werden, die unter dem Beitrag erscheint.
+Bei der Beitragseinreichung sollte eine kurze Information zur eigenen Person mitgeliefert werden, die unter dem Beitrag erscheint. Sofern vorhanden, geben Sie Ihre ORCID iD und/oder die ROR ID Ihrer Institution an.
 
 **Publikationsgebühren**
 
@@ -92,6 +100,14 @@ In LIBREAS. Library Ideas (in the following LIBREAS) published contributions sho
 Contributions can be submitted at any time and will usually be published in the upcoming issue.
 
 Unless expressly agreed otherwise, by submitting a manuscript authors agree to distributing their article under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. If the editors see the need for substantial changes and / or adjustments, the revised contribution will only be published after confirmation of the edited version. (see section Editing)
+
+
+**Review**
+
+LIBREAS uses editorial review to ensure quality of the contributions: In at least three correction loops, a content-related and formal review is carried out by different persons from the [editorial team](https://libreas.eu/about/). Feedback with authors takes place bilaterally.
+
+In some cases, guest reviewers are also invited by the editorial team. Libreas also works with guest editors for single issues. Libreas highly welcomes input and expertise of guest reviewers and guest editors and is looking forward to [be contacted](mailto:redaktion@libreas.eu).
+
 
 **Content**
 
@@ -146,7 +162,7 @@ LIBREAS offer three opportunities for generating reviews: <br />
 
 **Author Information**
 
-Your submission should include a brief description about you and, if necessary, other contributors, so LIBREAS is able to place your personal information below your text.
+Your submission should include a brief description about you and, if necessary, other contributors, so LIBREAS is able to place your personal information below your text. If available, provide your ORCID iD and/or your institution's ROR ID.
 
 **Publication Charges**
 
