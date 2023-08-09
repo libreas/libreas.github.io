@@ -1,0 +1,5 @@
+**Kurzfassung**: Anhand eines Beispiels zeigt der Artikel, welche Konsequenzen ein soziologisch orientiertes Denken für die Bibliothekspraxis haben könnte. Es wird eine These über die Nutzung Öffentlicher Bibliotheken entwickelt, Evidenzen für diese gesammelt und anschliessend ein konzeptionelles Modell erstellt, mit dem diese These überprüft werden kann. Es wird postuliert, dass es sei unterschiedliche Gruppen von Nutzer\*innen gibt, eine bestandsbezogene und eine raumbezogene. Zusätzlich wird diskutiert, welche Konsequenzen für die Praxis Öffentlicher Bibliotheken gezogen werden könnten, wenn sich die These als richtig herausstellt.
+
+---
+
+**Abstract**: Using an example, the article shows what consequences sociologically-oriented thinking could have for library practice. It develops a thesis about the use of public libraries, collects evidence for it and  creates a conceptual model with which this thesis can be tested. It is postulated that there are different groups of users, one collection-related and one space-related. In addition, it discusses possible consequences for the practice of public libraries if the thesis proves to be correct.
