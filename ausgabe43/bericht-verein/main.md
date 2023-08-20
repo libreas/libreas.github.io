@@ -26,7 +26,7 @@ regelmäßig getroffen und bei Bedarf virtuell ausgetauscht.
 
 #### Mitglieder
 
-Der LIBREAS-Verein hatte mit Stand 23.10.2022 52 Mitglieder. Davon waren
+Mit Stand 23.10.2022 hatte der LIBREAS-Verein 52 Mitglieder. Davon waren
 49 persönliche Mitglieder sowie drei Fördermitglieder.
 
 #### Vereinsfinanzen
@@ -35,7 +35,7 @@ Die Einnahmen des LIBREAS-Vereins setzten sich im Haushaltsjahr
 2021/2022 aus den Mitgliedsbeiträgen und Spenden sowie einer
 Gebührenrückzahlung zusammen. Ausgaben wurden getätigt für das Hosting
 der Webauftritte, Kontoführungsgebühren, der Servicepauschale für die
-L4F-Website. Der größte Ausgabenposten war der Druck und Versand des
+[L4F-Website](https://libraries4future.org/). Der größte Ausgabenposten war der Druck und Versand des
 Jubiläumsbandes. Die Kasse wird jährlich geprüft und das Ergebnis im
 Rahmen der Mitgliederversammlung berichtet. Es gab keine Beanstandungen.
 

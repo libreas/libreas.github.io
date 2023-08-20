@@ -3369,6 +3369,30 @@
         <lastmod>2022-12-20T11:36:47+01:00</lastmod>
     </url>
     <url>
+        <loc>https://libreas.eu/ausgabe43/</loc>
+        <lastmod>2023-08-20T20:04:18+02:00</lastmod>
+    </url>
+    <url>
+        <loc>https://libreas.eu/ausgabe43/editorial/</loc>
+        <lastmod>2023-08-20T19:50:59+02:00</lastmod>
+    </url>
+    <url>
+        <loc>https://libreas.eu/ausgabe43/editorial/meta.yaml</loc>
+        <lastmod>2023-08-20T19:50:59+02:00</lastmod>
+    </url>
+    <url>
+        <loc>https://libreas.eu/ausgabe43/bartlewski/</loc>
+        <lastmod>2023-08-20T18:22:03+02:00</lastmod>
+    </url>
+    <url>
+        <loc>https://libreas.eu/ausgabe43/bartlewski/vita.html</loc>
+        <lastmod>2023-08-20T17:43:36+02:00</lastmod>
+    </url>
+    <url>
+        <loc>https://libreas.eu/ausgabe43/bartlewski/meta.yaml</loc>
+        <lastmod>2023-08-20T18:25:31+02:00</lastmod>
+    </url>
+    <url>
         <loc>https://libreas.eu/ausgabe43/limpinsel-pesavento/</loc>
         <lastmod>2023-08-09T11:04:52+02:00</lastmod>
     </url>
@@ -3381,16 +3405,20 @@
         <lastmod>2023-08-09T11:04:52+02:00</lastmod>
     </url>
     <url>
+        <loc>https://libreas.eu/ausgabe43/inhalt/</loc>
+        <lastmod>2023-08-20T20:03:09+02:00</lastmod>
+    </url>
+    <url>
         <loc>https://libreas.eu/ausgabe43/roth/</loc>
-        <lastmod>2023-08-09T11:04:52+02:00</lastmod>
+        <lastmod>2023-08-20T17:43:36+02:00</lastmod>
     </url>
     <url>
         <loc>https://libreas.eu/ausgabe43/roth/vita.html</loc>
-        <lastmod>2023-08-09T11:04:52+02:00</lastmod>
+        <lastmod>2023-08-20T17:43:36+02:00</lastmod>
     </url>
     <url>
         <loc>https://libreas.eu/ausgabe43/roth/meta.yaml</loc>
-        <lastmod>2023-08-09T11:04:52+02:00</lastmod>
+        <lastmod>2023-08-20T17:43:36+02:00</lastmod>
     </url>
     <url>
         <loc>https://libreas.eu/ausgabe43/schuldt/</loc>
@@ -3414,11 +3442,11 @@
     </url>
     <url>
         <loc>https://libreas.eu/ausgabe43/bericht-verein/</loc>
-        <lastmod>2023-08-09T11:04:52+02:00</lastmod>
+        <lastmod>2023-08-20T17:43:36+02:00</lastmod>
     </url>
     <url>
         <loc>https://libreas.eu/ausgabe43/bericht-verein/meta.yaml</loc>
-        <lastmod>2023-08-09T11:04:52+02:00</lastmod>
+        <lastmod>2023-08-20T17:43:36+02:00</lastmod>
     </url>
     <url>
         <loc>https://libreas.eu/ausgabe43/freyberg/</loc>
