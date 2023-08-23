@@ -55,7 +55,7 @@ müssten. Sie sind Schauplatz und Vollzugsort von Öffentlichkeit,
 kultureller und, Stichwort Makerspaces, auch aktiver Arbeit. Darüber
 kann und sollte man bibliothekssoziologisch forschen. Nur: Wer macht's?
 
-![Bildunterschrift: Redaktionsorte XXII, Hannover Congress Centrum, beim Grillstand, Frühling 2023](editorial.jpg)
+![Redaktionsorte XXII: Hannover Congress Centrum, beim Grillstand, Frühling 2023](editorial.jpg)
 
 De Beteiligung an und Rückmeldungen zu dieser Ausgabe zeigen uns, dass
 eine Bibliothekssoziologie nicht unbedingt das zugkräftigste Stichwort
@@ -124,26 +124,13 @@ für den wahrgenommenermaßen geringen Stellenwert der
 Bibliothekssoziologie zu extrahieren. Das Ergebnis deckt sich
 erstaunlich gut mit dem, was wir aus dem Bauch heraus vermuten würden:
 
-1.  Bibliotheksforschung ist traditionell auf die "Entwicklung von
-    > Bibliotheksmethoden, -technologien und -dienstleistungen" und
-    > deren praktischer Umsetzung ausgerichtet.
+1.  Bibliotheksforschung ist traditionell auf die "Entwicklung von Bibliotheksmethoden, -technologien und -dienstleistungen" und deren praktischer Umsetzung ausgerichtet.
 
-2.  Bibliothekssoziologie ist ein interdisziplinäres Forschungsfeld,
-    > wobei dieser Status nicht zu einer Forschung von beiden Seiten
-    > sondern zu einer Marginalisierung dieser Themen auf beiden Seiten
-    > führt.
+2.  Bibliothekssoziologie ist ein interdisziplinäres Forschungsfeld, wobei dieser Status nicht zu einer Forschung von beiden Seiten sondern zu einer Marginalisierung dieser Themen auf beiden Seiten führt.
 
-3.  Ressourcen: "Da bibliothekarische Institutionen oft mit begrenzten
-    > Budgets arbeiten, können Forschungsprojekte im Bereich der
-    > Bibliothekssoziologie möglicherweise nicht die erforderliche
-    > Unterstützung erhalten, um umfangreiche und aussagekräftige
-    > Studien durchzuführen."
+3.  Ressourcen: "Da bibliothekarische Institutionen oft mit begrenzten Budgets arbeiten, können Forschungsprojekte im Bereich der Bibliothekssoziologie möglicherweise nicht die erforderliche Unterstützung erhalten, um umfangreiche und aussagekräftige Studien durchzuführen."
 
-4.  Geringe Nachfrage: "Bibliothekare und Entscheidungsträger
-    > konzentrieren sich möglicherweise eher auf praktische Fragen wie
-    > die Verbesserung der Dienstleistungen, der technologischen
-    > Infrastruktur oder der Ressourcenallokation, anstatt auf
-    > soziologische Aspekte der bibliothekarischen Arbeit."
+4.  Geringe Nachfrage: "Bibliothekare und Entscheidungsträger konzentrieren sich möglicherweise eher auf praktische Fragen wie die Verbesserung der Dienstleistungen, der technologischen Infrastruktur oder der Ressourcenallokation, anstatt auf soziologische Aspekte der bibliothekarischen Arbeit."
 
 Wie gern hätten wir auf die Quelle verlinkt. Allerdings bleibt die
 Vergabe eindeutiger Links, also PID für mit ChatGPT generierte Inhalte
@@ -157,4 +144,4 @@ Ihre / eure Redaktion LIBREAS. Library Ideas
 
 [^1]: Berendt, Christian: Virtuelle Drehorte -- Wie das Filmstudio
     Babelsberg mit KI arbeitet, Deutschlandfunk 11. Mai 2023,
-    [[https://www.deutschlandfunk.de/virtuelle-drehorte-wie-das-filmstudio-babelsberg-mit-ki-arbeitet-dlf-a796598c-100.html]{.ul}](https://www.deutschlandfunk.de/virtuelle-drehorte-wie-das-filmstudio-babelsberg-mit-ki-arbeitet-dlf-a796598c-100.html)
+    [https://www.deutschlandfunk.de/virtuelle-drehorte-wie-das-filmstudio-babelsberg-mit-ki-arbeitet-dlf-a796598c-100.html](https://www.deutschlandfunk.de/virtuelle-drehorte-wie-das-filmstudio-babelsberg-mit-ki-arbeitet-dlf-a796598c-100.html)

@@ -552,7 +552,7 @@ Erhebung auch einen wesentlichen Unterschied zu den Daten für die
 Personalstellen ist der Anteil der Männer in Leitungspositionen größer
 als jener der Frauen.[^3]
 
-![](img/Abb_05_DBV-Sek4.jpg)(Abbildung 5: Geschlechterverhältnis der Leitungsebene der DBV-Sektion 4 anhand der Betriebsgröße)
+![Abbildung 5: Geschlechterverhältnis der Leitungsebene der DBV-Sektion 4 anhand der Betriebsgröße](img/Abb_05_DBV-Sek4.jpg)
 
 Die Mitglieder der Sektion 5 sind wissenschaftliche Spezialbibliotheken.
 Von der Betriebsgröße lassen sich diese Einrichtungen mit denen aus
@@ -849,11 +849,11 @@ Vereinbarkeit von Familie und Beruf an.
 
 ![Abbildung 40: Zeitreihe "Frauenanteil in Leitungspositionen an öffentlichen Bibliotheken"](img/Abb_40_Zeitreihe-OB.jpg)
 
-![Zeitreihe "Frauenanteil in Leitungspositionen an öffentlichen Bibliotheken", bereinigte Version](img/Abb_41_Zeitreihe-OB_bereinigt.jpg)
+![Abbildung 41: Zeitreihe "Frauenanteil in Leitungspositionen an öffentlichen Bibliotheken", bereinigte Version](img/Abb_41_Zeitreihe-OB_bereinigt.jpg)
 
 ![Abbildung 42: Zeitreihe "Frauenanteil in Leitungspositionen an wissenschaftlichen Bibliotheken"](img/Abb_42_Zeitreihe-WB.jpg)
 
-![Zeitreihe "Frauenanteil in Leitungspositionen an wissenschaftlichen Bibliotheken", bereinigte Version](img/Abb_43_Zeitreihe-WB_bereinigt.jpg)
+![Abbildung 43: Zeitreihe "Frauenanteil in Leitungspositionen an wissenschaftlichen Bibliotheken", bereinigte Version](img/Abb_43_Zeitreihe-WB_bereinigt.jpg)
 
 ### 7. Danksagung
 
