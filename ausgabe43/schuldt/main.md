@@ -207,7 +207,6 @@ mindestens ein Medium aus einer Bibliothek entliehen haben) angeführt.
 Praktisch die gleichen Entwicklungen zeigen sich auch bei der
 Medienausleihe.
 
-Table: Tabelle 1: Anzahl aktive Nutzer\*innen, 2018--2020
 
 | **     Land    **  | **     2018    ** | **     2019    ** | **     2020    ** |   |
 |--------------------|-------------------|-------------------|-------------------|---|
@@ -215,19 +214,21 @@ Table: Tabelle 1: Anzahl aktive Nutzer\*innen, 2018--2020
 |     Österreich     |       798.109     |       813.074     |       755.220     |   |
 |     Schweiz        |       890.919     |       835.941     |       897.591     |   |
 
+Tabelle 1: Anzahl aktive Nutzer\*innen, 2018--2020
+
 Der Bereich, in dem sich diese Entwicklung nicht zeigt, ist die Zahl der
 aktiven Besuche. Hier, dargestellt in Tabelle 2, zeigt sich ein
 expliziter Einbruch der Zahlen, der wohl auf die Verhaltensänderungen
 von Menschen und die von den Behörden erlassenen Beschränkungen während
 der Frühphase der Covid-19 Pandemie zurückgeführt werden können.
 
-Table: Tabelle 2: Anzahl Besuche, 2018--2020
-
 | **     Land    **  | **     2018    **  | **     2019    **  | **     2020    ** |   |
 |--------------------|--------------------|--------------------|-------------------|---|
 |     Deutschland    |     112.602.769    |     114.850.449    |     69.236.498    |   |
 |     Österreich     |      10.250.026    |      10.422.581    |      7.115.664    |   |
 |     Schweiz        |       9.890.886    |      10.324.575    |      8.071.941    |   |
+
+Tabelle 2: Anzahl Besuche, 2018--2020
 
 Eine Deutung dieser Zahlen wäre, sie grundsätzlich auf die Covid-19
 Pandemie zurückzuführen: Menschen hätten einerseits mehr Zeit gehabt,
