@@ -5,7 +5,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>Mediensoziologie - LIBREAS. Library Ideas</title>
+	<title>Mediensozialisation - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
 
@@ -13,7 +13,7 @@
 
  <!-- RDFa Metadata (in DublinCore) -->
     
-    <meta property="dc:title" content="Mediensoziologie" />
+    <meta property="dc:title" content="Mediensozialisation" />
     
     
     
@@ -147,7 +147,7 @@
         
 
         
-        <h1 itemprop="name" class="title">Mediensoziologie</h1>
+        <h1 itemprop="name" class="title">Mediensozialisation</h1>
         
         
 
@@ -201,7 +201,7 @@
             
             
              
-            "Mediensoziologie".
+            "Mediensozialisation".
             
             <i itemprop="provider">LIBREAS. Library Ideas</i>, 43 (<span itemprop="datePublished">2023</span>). <a itemprop="url" href="https://libreas.eu/ausgabe43/roth/meta.yaml">https://libreas.eu/ausgabe43/roth/meta.yaml</a>
         </small>
