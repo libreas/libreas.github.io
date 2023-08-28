@@ -67,7 +67,7 @@ Die Unterscheidung zwischen Misch-, Frauen- und Männerberufen erfolgt
 anhand des Frauenanteils in einem Beruf. Der vorliegende Beitrag folgt
 dabei der Definition, die sich bei Anne Busch-Heizmann findet (2015: S.
 572).[^1] Demnach findet sich in einem Männerberuf ein Frauenanteil von
-bis zu 30%. Bei einem Frauenanteil ab 70% spricht man von einem
+bis zu 30&#8239;%. Bei einem Frauenanteil ab 70&#8239;% spricht man von einem
 Frauenberuf. Im prozentualen Zwischenbereich liegen die geschlechtlich
 gemischten Berufe.
 
@@ -75,16 +75,16 @@ Für die Entwicklung der Zahlen im Bibliothekswesen der letzten
 Jahrzehnte lassen sich verschiedene Quellen heranziehen. Frank Heidtmann
 hat 1974 eine Studie veröffentlicht, die auf eine Befragung von Personen
 gründet, die im Jahre 1972 ihre Ausbildung als Diplombibliothekar:in
-aufgenommen haben. Hierbei ermittelte er einen Frauenanteil von 81%
+aufgenommen haben. Hierbei ermittelte er einen Frauenanteil von 81&#8239;%
 (HEIDTMANN 1974: S. 89). Elf Jahre später erschien eine umfassende
 Umfrage-Studie unter dem Titel "Berufsbild und Selbstverständnis der
 Bibliothekare in Deutschland". Die Umfrage beschränkte sich auf
-öffentliche Bibliotheken, für die in der Studie ein Frauenanteil von 86%
+öffentliche Bibliotheken, für die in der Studie ein Frauenanteil von 86&#8239;%
 nachgewiesen werden konnte (PAWLOWSKI-FLODELL 1995: S. 13f.). Die
 zuletzt verfügbaren Zahlen zeichnen die Entwicklung des Frauenanteils im
 Bibliotheksberuf für die Jahre 2013 bis 2017 nach (IAB 2021). Für den
-genannten Zeitraum lag die Rate der erwerbstätigen Frauen zwischen 75%
-und 76%. Die Zahlen sagen selbstverständlich noch nichts über die
+genannten Zeitraum lag die Rate der erwerbstätigen Frauen zwischen 75&#8239;%
+und 76&#8239;%. Die Zahlen sagen selbstverständlich noch nichts über die
 hierarchische Verteilung der Mitarbeiter:innen innerhalb der einzelnen
 Organisationen aus, doch zeigt sich ein konstant hoher Frauenanteil in
 diesem Berufsfeld. Zwar lässt sich ein leichter Rückgang für die Jahre
@@ -151,15 +151,15 @@ Zusammenfassend stellen sie fest, dass Frauen in beiden Bereichen
 weiterhin deutlich unterrepräsentiert sind, gemessen an ihrem Anteil der
 Gesamtbeschäftigtenzahl (KOHAUT/MÖLLER 2019: S. 7). In der
 Privatwirtschaft lag der Frauenanteil 2016 auf der ersten Führungsebene
-bei 26% und auf der zweiten Führungsebene bei 40% (KOHAUT/MÖLLER 2017:
+bei 26&#8239;% und auf der zweiten Führungsebene bei 40&#8239;% (KOHAUT/MÖLLER 2017:
 S. 1). Für das Jahr 2018 ließ sich keine Veränderung der Zahlen
 beobachten (KOHAUT/MÖLLER 2019: S. 1). Im öffentlichen Sektor lagen die
 Gesamtzahlen höher, sodass sich für die erste Führungsebene ein Anteil
-von 34% und für die zweite Führungseben ein Anteil von 44% für das Jahr
+von 34&#8239;% und für die zweite Führungseben ein Anteil von 44&#8239;% für das Jahr
 2016 ergab (KOHAUT/MÖLLER 2017: S. 4). Für das Jahr 2018 ergaben sich
 marginale Änderungen: auf der ersten Ebene ein Anstieg um 2
-Prozentpunkte auf 36% und auf der zweiten Ebene eine Verringerung auf
-43% (KOHAUT/MÖLLER 2019: S. 4). Doch da der Gesamtanteil von Frauen im
+Prozentpunkte auf 36&#8239;% und auf der zweiten Ebene eine Verringerung auf
+43&#8239;% (KOHAUT/MÖLLER 2019: S. 4). Doch da der Gesamtanteil von Frauen im
 öffentlichen Sektor höher ist als in der Privatwirtschaft, muss man die
 Zahlen relativieren. Daraus ergibt sich, dass Frauen dort in
 Leitungspositionen nicht besser vertreten sind als in der
@@ -197,7 +197,7 @@ prozentuale Verteilung der männlichen und weiblichen Führungskräfte dem
 Gesamtanteil des jeweiligen Geschlechts im Berufsfeld entsprechen. In
 seiner Auswertung zur Teilhabe von Frauen am Erwerbsleben legt das
 statistische Bundesamt für 2019 dar, dass bei einem Frauen-Gesamtanteil
-am Erwerbsleben von 47% nur jede dritte Frau eine Führungskraft ist
+am Erwerbsleben von 47&#8239;% nur jede dritte Frau eine Führungskraft ist
 (DESTATIS). In diesem Zusammenhang wird auch von einer sogenannten
 "Gläsernen Decke" gesprochen, die "das Phänomen scheinbar unsichtbarer
 Barrieren \[umschreibt\], die Frauen daran hindern, in die höchsten
@@ -314,17 +314,17 @@ ET AL. 2009).
 Im Jahr 2012 untersuchte Laura Stadler den Frauenanteil an Schweizer
 Bibliotheken. Dafür fragte sie 25 Bibliotheken an, Voraussetzung war
 eine Angestelltenzahl von mindestens 50. Für die gesamte
-Beschäftigtenzahl ergibt sich eine Verteilung von 65,9% an Frauen
-gegenüber 34,1% männlicher Mitarbeiter (STADLER 2012: S. 39f.).
+Beschäftigtenzahl ergibt sich eine Verteilung von 65,9&#8239;% an Frauen
+gegenüber 34,1&#8239;% männlicher Mitarbeiter (STADLER 2012: S. 39f.).
 Aufgeschlüsselt nach ÖB und WB ergibt sich ein höherer Frauenanteil für
-öffentliche Bibliotheken von 74,7% im Vergleich zum WB-Bereich mit einem
-Anteil von 62,4%. Sie untersuchte drei Führungsebenen. In ÖBs sind auf
-allen drei Führungsebenen fast 60% Frauen zu finden, auf erster
-Führungsebene hingegen nur 42,9%. In WBs liegt der Anteil bei 35,1%, auf
-der ersten Führungsebene sogar nur bei 25% (Ebd.: S. 44).
-Spartenübergreifend ergibt sich ein Verhältnis von 55,2% männlicher
-Führungskräfte zu 44,8% für die gesamte Führungsebene sowie 69,6% zu
-30,4% für die oberste Stufe (Ebd.: S.40f.). Im Sinne der Gleichstellung
+öffentliche Bibliotheken von 74,7&#8239;% im Vergleich zum WB-Bereich mit einem
+Anteil von 62,4&#8239;%. Sie untersuchte drei Führungsebenen. In ÖBs sind auf
+allen drei Führungsebenen fast 60&#8239;% Frauen zu finden, auf erster
+Führungsebene hingegen nur 42,9&#8239;%. In WBs liegt der Anteil bei 35,1&#8239;%, auf
+der ersten Führungsebene sogar nur bei 25&#8239;% (Ebd.: S. 44).
+Spartenübergreifend ergibt sich ein Verhältnis von 55,2&#8239;% männlicher
+Führungskräfte zu 44,8&#8239;% für die gesamte Führungsebene sowie 69,6&#8239;% zu
+30,4&#8239;% für die oberste Stufe (Ebd.: S.40f.). Im Sinne der Gleichstellung
 müsste der Frauenanteil auf Führungsebene dem Gesamtanteil an weiblichen
 Mitarbeiterinnen entsprechen, doch ergibt sich eine deutliche
 Diskrepanz. Sie setzt diese in Bezug zum Phänomen der "Gläsernen Decke".
@@ -338,18 +338,18 @@ Für Deutschland hat Carmen Passera die Entwicklung des Frauenanteils im
 wissenschaftlichen Bibliotheksdienst nach 1945 anhand einer Auszählung
 der VDB-Jahrbücher von 1950, 1959, 1969, 1985 und 1995 untersucht
 (PASSERA 2000). So konnte sie zeigen, dass der Anteil der Frauen stetig
-gestiegen ist, von 9,1% (1950) auf 35,9%. Für die Repräsentanz in
-Führungspositionen ergibt sich eine andere Verteilung. Nur 14,8% der im
+gestiegen ist, von 9,1&#8239;% (1950) auf 35,9&#8239;%. Für die Repräsentanz in
+Führungspositionen ergibt sich eine andere Verteilung. Nur 14,8&#8239;% der im
 wissenschaftlichen Bibliotheksdienst tätigen Frauen hatten 1995 eine
-Führungsposition inne. Demgegenüber stehen 32,8% der Männer.
+Führungsposition inne. Demgegenüber stehen 32,8&#8239;% der Männer.
 
 Eine spätere Untersuchung von 2005 unternimmt einen Vergleich der Rolle
 der Frau in ÖBs, WBs und Informationseinrichtungen (GERBER/RABE 2005)
 vor. Dafür wurde eine Umfrage an 150 Institutionen verschickt (50 aus
 jedem Bereich). Hier ergibt sich ein ähnliches Bild beim Frauenanteil in
-Leitungspositionen (ÖB: 80% zu WB: 38%). Außerdem wurden offene Fragen
+Leitungspositionen (ÖB: 80&#8239;% zu WB: 38&#8239;%). Außerdem wurden offene Fragen
 gestellt. Bei der Frage nach Kindern bei Frauen in Leitungspositionen
-bejahten dies 63% der Frauen in ÖBs, jedoch nur 22% aus den WBs, was auf
+bejahten dies 63&#8239;% der Frauen in ÖBs, jedoch nur 22&#8239;% aus den WBs, was auf
 eine bessere Vereinbarkeit von Beruf und Familien in ÖBs hindeutet.
 Allerdings beantworteten diese Frage nur neun Teilnehmerinnen aus dem
 WB-Bereich, daher ist hier die Aussagekraft doch anzuzweifeln. Auf die
@@ -376,7 +376,7 @@ Staats-, Landes-, Zentral- und Universitätsbibliotheken für den Zeitraum
 von 1994 bis 2014 anhand des "Handbuch des Öffentlichen Lebens" (des
 "Oeckls") vorgenommen, die zeigt, dass der dortige Anteil von Frauen
 über die Jahre stetig zugenommen hat. Allerdings liegt der Frauenanteil
-mit 43% für das Jahr 2014 deutlich unter dem Gesamtanteil der Frauen im
+mit 43&#8239;% für das Jahr 2014 deutlich unter dem Gesamtanteil der Frauen im
 Bibliotheksdienst.
 
 ### 5. Datenerhebung
@@ -681,7 +681,7 @@ Prozentsatz weiblicher Mitarbeiterinnen im Allgemeinen liegt (Abbildung
 
 ![Abbildung 25: Geschlechterverhältnis in Gesamtzahlen für DBV-Sektion 5, bereinigte Version](img/Abb_25_DBV-Sek5_gesamt_bereinigt.jpg)
 
-![Abbildung 26: Geschlechterverhältnis in Gesamtzahlen für die wissenschaftlichen Bibliotheken (DBV-Mitglieder](img/Abb_26_DBV-Sek4-5_gesamt.jpg)
+![Abbildung 26: Geschlechterverhältnis in Gesamtzahlen für die wissenschaftlichen Bibliotheken (DBV-Mitglieder)](img/Abb_26_DBV-Sek4-5_gesamt.jpg)
 
 ![Abbildung 27: Geschlechterverhältnis in Gesamtzahlen für die wissenschaftlichen Bibliotheken (DBV-Mitglieder), bereinigte Version](img/Abb_27_DBV-Sek4-5_gesamt_bereinigt.jpg)
 
@@ -690,7 +690,7 @@ Bibliotheken der DBV-Mitgliederliste ebenfalls, dass in den beiden
 Sektionen 4 und 5 die Mehrzahl der Leitungspositionen von Frauen besetzt
 ist (Abbildung 27). Allerdings ist die prozentuale Verteilung von
 weiblicher zu männlicher Führungskraft nicht so deutlich wie in den
-öffentlichen Bibliotheken. Denn sind dort nur etwa 12% der
+öffentlichen Bibliotheken. Denn sind dort nur etwa 12&#8239;% der
 Führungskräfte männlich, liegt der Anteil der Männer in
 Leitungspositionen für die wissenschaftlichen Bibliotheken bei etwa
 einem Drittel.
@@ -700,12 +700,12 @@ einem Drittel.
 Wie eingangs dieses Unterkapitels bereits erläutert, gab es bei jeder
 Quelle einen gewissen Prozentsatz in den Daten, der keine Angaben zur
 Leitung der jeweiligen Einrichtung liefert. Insbesondere bei den beiden
-jüngsten Jahrgängen des JÖB ist dieser Anteil mit über 20%
-beziehungsweise 30% im Verhältnis zu den übrigen Jahrbüchern sehr hoch,
+jüngsten Jahrgängen des JÖB ist dieser Anteil mit über 20&#8239;%
+beziehungsweise 30&#8239;% im Verhältnis zu den übrigen Jahrbüchern sehr hoch,
 sodass sich in der Zeitreihe eine nicht nachvollziehbare Entwicklung des
-Frauenanteils ergeben würde, von einem hohen Eingangswert mit über 75%,
-auf nur noch 58% neun Jahre später. In den bereinigten Darstellungen
-sind die Anteile konstant hoch und mit jeweils über 80% höher als die
+Frauenanteils ergeben würde, von einem hohen Eingangswert mit über 75&#8239;%,
+auf nur noch 58&#8239;% neun Jahre später. In den bereinigten Darstellungen
+sind die Anteile konstant hoch und mit jeweils über 80&#8239;% höher als die
 prozentuale Gesamtzahl weiblicher Beschäftigte in Bibliotheken
 (Abbildungen 29, 31 und 33).
 
@@ -726,7 +726,7 @@ prozentuale Gesamtzahl weiblicher Beschäftigte in Bibliotheken
 Für die Entwicklung der Geschlechterverteilung auf der Führungsebene an
 wissenschaftlichen Bibliotheken ist über die Zeit eine dynamischere
 Entwicklung zu beobachten. Für 2021 liegt der Anteil weiblicher
-Führungskräfte bei über 65% (bereinigte Version). Die Auszählung des
+Führungskräfte bei über 65&#8239;% (bereinigte Version). Die Auszählung des
 frühesten Jahrbuchs, das in die Erhebung mit aufgenommen wurde, ist für
 das Jahr 1991. Dort ergeben sich nach der Auszählung noch umgekehrte
 Vorzeichen. Der Anteil der männlichen Führungskräfte ist mit drei
@@ -777,12 +777,12 @@ unterschiedlich schnell entwickelt hat. In der Tat zeigen die
 Gesamtzahlen in der bereinigten Darstellung der hier vorliegenden
 Datenauswertung, dass der Anteil von Frauen auf der obersten
 Hierarchieebene in öffentlichen Bibliotheken in allen untersuchten
-Jahren bei einem nahezu konstant hohen Wert von über 80% liegt und
+Jahren bei einem nahezu konstant hohen Wert von über 80&#8239;% liegt und
 deutlich größer ist als bei wissenschaftlichen Bibliotheken (Abbildung
 41). Für wissenschaftliche Bibliotheken zeigt sich über die Jahre eine
 deutliche Entwicklung in den Geschlechterverhältnissen (Abbildung 43).
 Lag der Frauenanteil auf der obersten Hierarchieebene 1991 noch bei
-knapp unter 25%, zeigt die Auswertung für 2021 einen Wert von 65,4%.
+knapp unter 25&#8239;%, zeigt die Auswertung für 2021 einen Wert von 65,4&#8239;%.
 Allerdings liegt dieser damit noch deutlich unter dem Gesamtanteil von
 Frauen im Berufsfeld, was darauf hindeutet, dass öffentliche
 Bibliotheken in der Tat bessere Aufstiegsmöglichkeiten für Frauen
@@ -794,8 +794,8 @@ Berufsfeldes in unterschiedlichem Maße segregiert sein können.
 Vergleicht man Sektion 3B (ÖB-Bereich) und Sektion 5 (WB), die sich in
 der Verteilung der Personalstellen-Klassen ähneln, zeigt sich in der
 bereinigten Version eine deutliche Diskrepanz in der Verteilung. Während
-in Sektion 3B 89,7% der obersten Leitungspositionen von Frauen besetzt
-sind, liegt der Anteil in Sektion 5 bei 69,5%.
+in Sektion 3B 89,7&#8239;% der obersten Leitungspositionen von Frauen besetzt
+sind, liegt der Anteil in Sektion 5 bei 69,5&#8239;%.
 
 Allgemeine Untersuchungen der Arbeitsmarktforschung zeigen, dass Frauen
 in kleineren Betrieben leichter aufsteigen können als in großen
@@ -839,7 +839,7 @@ aufzusteigen, tatsächlich höher sind, da die Diskrepanz in der
 Verteilung der beiden Sparten anhand der statistischen Zahlen merklich
 ist. Für eine gleichstellungsbezogene Durchmischung müsste die
 prozentuale Verteilung der Bibliotheksleiter:innen dem Gesamtanteil des
-jeweiligen Geschlechts im Berufsfeld entsprechen. Der Anteil von 65,4%
+jeweiligen Geschlechts im Berufsfeld entsprechen. Der Anteil von 65,4&#8239;%
 (bereinigte Version) für wissenschaftliche Bibliotheken liegt somit
 immer noch knapp zehn Prozentpunkte unterhalb des Gesamtanteils an
 Frauen im Bibliotheksbereich. In den Arbeiten von Laura Stadler (STADLER
@@ -1017,9 +1017,7 @@ Frauenberuf. In: BIBLIOTHEK Forschung und Praxis 5 (3), S. 231--244.
 **8. Quellen**
 
 DBV SEKTIONEN 2021: Deutscher Bibliotheksverband e.V.: Sektionen -- Übersicht. Stand:
-17.09.2021,
-
-URL:
+17.09.2021, URL:
 [https://www.bibliotheksverband.de/fachgruppen/sektionen.html](https://www.bibliotheksverband.de/fachgruppen/sektionen.html)
 (letzter Zugriff am 14.05.2023).
 

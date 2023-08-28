@@ -81,7 +81,7 @@ Sprache, gefolgt von Norwegisch. Erstaunlich ist, dass in all den Jahren
 weiterhin nicht alle Publikationen im Open Access erfolgten (trotzdem
 sie von Bibliothekar\*innen geschrieben wurden und es das Ziel des
 norwegischen Forschungsministeriums ist, bis 2024 einen Open
-Access-Anteil von 100 % zu erreichen). Was die Studie aber auch zeigt,
+Access-Anteil von 100&#8239;% zu erreichen). Was die Studie aber auch zeigt,
 ist, dass es sehr wohl möglich ist -- so denn die Strukturen und
 vielleicht auch die Anreize dafür existieren -- als Bibliothekar\*in
 wissenschaftlich zu publizieren. (ks)

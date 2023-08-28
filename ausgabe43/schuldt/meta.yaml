@@ -81,7 +81,7 @@
 
   <nav class="sidebar-nav">
 
-    	<a class="sidebar-nav-item" href="/ausgabe42/">Aktuelle Ausgabe</a>
+    	<a class="sidebar-nav-item" href="/ausgabe43/">Aktuelle Ausgabe</a>
 	<a class="sidebar-nav-item" href="/archiv.htm">Archiv</a>
 	<a class="sidebar-nav-item" href="http://edoc.hu-berlin.de/browsing/libreas/">edoc pdf-Archiv</a>
 	<a class="sidebar-nav-item" href="/autorinnen">Autor*innen</a>
@@ -125,8 +125,9 @@
 
 <div align="right">
 
-<strong> > > > <a href="inhalt.htm">LIBREAS. Library Ideas # 43</a></strong> <br><br>
+<strong> > > > <a href="/ausgabe43/inhalt/">LIBREAS. Library Ideas # 43</a></strong> <br><br>
 </div>
+
 
 
 
@@ -141,7 +142,7 @@
     
     
     <div align="right">
-        <small><a itemprop="sameAs" href="https://doi.org/10.18452/...">doi:10.18452/...</a> (edoc HU Berlin)</small>
+        <small><a itemprop="sameAs" href="https://doi.org/10.18452/27069">doi:10.18452/27069</a> (edoc HU Berlin)</small>
         </div>
         
 
@@ -234,7 +235,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2023-08-25</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2023-08-28</a>)</p>
 
 </footer>
       </div>
