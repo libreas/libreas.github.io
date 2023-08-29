@@ -1,3 +1,7 @@
+*Anmerkung zum Text: Die Untersuchung von Geschlechterverhältnissen und gesellschaftlich geprägten Geschlechterrollen ist Gegenstand zahlreicher wissenschaftlicher Fachdisziplinen. Die Betrachtung des sozialen Geschlechts ist veränderbar und unterliegt sowohl kulturellen als auch zeitlichen Dimensionen. Wie wir "Geschlecht" betrachten, unterliegt einem stetigen Wandel und gesamtgesellschaftlichen Prozess. \\
+Dies bezieht sich auch auf die zweigeschlechtliche Betrachtung von geschlechtlicher Zuordnung, also die Unterteilung in Männer und Frauen. Mit dem "Gesetz zur Änderung der in das Geburtenregister einzutragenden Angaben" vom 18. Dezember 2018 und der Anerkennung des dritten Geschlechts "divers" wurde diesem Wandel in der Betrachtung auch auf rechtlicher Ebene erste Rechnung getragen und eine Abkehr vom binären Geschlechtsmodell unterstützt. Die Beschaffenheit der Quellen für die vorliegende Erhebung erlaubt jedoch nur eine Unterscheidung nach einem binären Geschlechtsmodell, sodass sich der Artikel auf diese beiden Geschlechterrollen von Frauen und Männern fokussiert. Die vorhandenen statistischen Daten in den Quellen ermöglichen leider keine weitere Ausdifferenzierung. Daher ist dieser Aufsatz auch nur als ein Schritt zu sehen, auf Grundlage dessen eine schärfere Granularität mit quantitativen Methoden erfolgen müsste.*
+
+
 ### 1. Einleitung
 
 Die Teilhabe von Frauen am Erwerbsleben sowie Gleichstellungsthematiken
