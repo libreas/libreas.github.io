@@ -1,0 +1,269 @@
+
+<!DOCTYPE HTML>
+
+<html lang="de">
+
+<head>
+	<meta charset="utf-8">
+	<title>Back to Green. Das Projekt GOAL und das Potenzial von Grün Open Access - LIBREAS. Library Ideas</title>
+	<meta name="author" content="LIBREAS. Library Ideas">
+
+
+<!-- RDFa DC -->
+
+ <!-- RDFa Metadata (in DublinCore) -->
+    
+    <meta property="dc:title" content="Back to Green. Das Projekt GOAL und das Potenzial von Grün Open Access" />
+    
+    
+    
+    <meta property="dc:creator" content="Enrique Corredera" />
+    
+    <meta property="dc:creator" content="Valérie Andres" />
+    
+    
+    
+    <meta property="dc:date" content="2023" />
+    
+    <meta property="dc:format" content="text/html" />
+    <meta property="dc:language" content="de" />
+    <meta property="dc:identifier" content="https://libreas.eu/ausgabe44/corredera-andres/meta.yaml" />
+    
+    <meta property="dc:rights" prefix="cc: http://creativecommons.org/ns#" rel="cc:license" href="https://creativecommons.org/licenses/by/4.0/" content="CC-BY 4.0" />
+	
+    <meta property="dc:source" content="LIBREAS. Library Ideas" />
+    <meta property="dc:subject" content="Library and Information Science" />
+    <meta property="dc:type" content="website" />
+    <meta property="dc:description" content="&#39;GOAL – Unlocking the Green Open Access Potential&#39; (https://opengoal.ch) ist die kollektive Bestrebung einer Gruppe von wissenschaftlichen Bibliotheken zur Förderung des bisher wenig beachteten Potentials von Grün Open Access in der Schweizer Publikationslandschaft. Nicht oder nur marginal im Fokus der Nationalen Open-Access-Strategie sind die Fachhochschulen und Pädagogischen Hochschulen sowie kleine landessprachliche Verlage. Zunehmend seltener anerkannt wird auch der Weg der Open-Access-Zweitveröffentlichung oder &#39;Grün Open Access&#39;. Es scheint, als ob sich der Ball bei der Umsetzung von Open Access zunehmend im Besitz der &#39;Read &amp;amp; Publish&#39; Verträge und in der Förderung des Goldenen Weges befindet. Die &#39;grüne Alternative&#39; führt ein wenig wahrgenommenes Schattendasein am Rande des Spielfeldes und gilt als wenig attraktiv. Offenbar können auch die Argumente der Nachhaltigkeit und der erhöhten Sichtbarkeit nicht genügend überzeugen. Aus Sicht des Projektes GOAL eröffnet der Grüne Weg jedoch einen in der Schweiz noch wenig genutzten Handlungsspielraum, der sich jenseits der grossen Verlage oder bekannten Universitäten befindet und ein nicht zu unterschätzendes Potential hat. Das ist der Moment, in dem wir das Auge auf praxisorientierte Zeitschriften richten, welche von kleinen Verlagen, Fachgesellschaften oder öffentlichen Institutionen in den verschiedenen Landessprachen publiziert werden. Diese Zeitschriften haben bisher noch wenig Beachtung erhalten, obwohl sie eine entscheidende Rolle für Forschende an Fach- sowie Pädagogischen Hochschulen spielen. Hier ist das Spielfeld noch wenig besetzt und Open Access kann, unter Berücksichtigung der Ressourcen der Redaktionen und Hochschulen, noch aufgebaut werden. In unserem Beitrag stellen wir das Projekt vor, präsentieren die Ergebnisse von anderthalb Jahren Arbeit und stellen diese zur Diskussion."/>
+    <meta property="dc:source" resource="urn:ISSN:1860-7950" /> 
+
+<!-- Google Scholar -->
+
+	<meta name="citation_journal_title" content="LIBREAS. Library Ideas" />
+	<meta name="citation_issue" content="44" />
+	<meta name="citation_issn" content="1860-7950" />
+	
+    <meta name="citation_publication_date" content="2023" />
+    
+
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link href="/atom.xml" rel="alternate" title="LIBREAS. Library Ideas" type="application/atom+xml">
+	
+	<link rel="canonical" href="https://libreas.eu/ausgabe44/corredera-andres/meta.yaml">
+	<link href="/favicon.png" rel="shortcut icon">
+	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+
+
+    <!--   
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="public/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" href="favicon.png"> -->
+  
+	
+</head>
+
+
+
+
+  <body class="theme-base-wes">
+
+    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <a href="/">LIBREAS. Library Ideas</a>
+  </div>
+
+  <nav class="sidebar-nav">
+
+    	<a class="sidebar-nav-item" href="/ausgabe43/">Aktuelle Ausgabe</a>
+	<a class="sidebar-nav-item" href="/archiv.htm">Archiv</a>
+	<a class="sidebar-nav-item" href="http://edoc.hu-berlin.de/browsing/libreas/">edoc pdf-Archiv</a>
+	<a class="sidebar-nav-item" href="/autorinnen">Autor*innen</a>
+	<a class="sidebar-nav-item" href="http://libreas.wordpress.com/category/libreas-call-for-papers/">Call for Papers</a>
+	<a class="sidebar-nav-item" href="/authorguides">Author guidelines</a>
+	<a class="sidebar-nav-item" href="http://libreas.wordpress.com/">Blog</a>
+	<a class="sidebar-nav-item" href="http://libreas.tumblr.com/">Tumblr</a>
+    <a class="sidebar-nav-item" href="/dldl.html">DLDL</a>
+	<a class="sidebar-nav-item" href="https://web.archive.org/web/20171112100417/http://www.ib.hu-berlin.de/~libreas/libreas_neu/podcasts/">Podcasts</a>
+	<a class="sidebar-nav-item" href="http://libreas-verein.eu">Verein</a>
+	<a class="sidebar-nav-item" href="/about">Impressum</a>
+
+  </nav>
+</div>
+
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <!-- <div class="wrap">
+       <div class="masthead">
+        <div class="container">
+          <h1 class="masthead-title">
+            <a href="/" title="Home">LIBREAS. Library Ideas</a>
+            <small><br></small>
+          </h1>
+        </div>
+      </div> -->
+
+
+      <div class="container content">
+      <!-- GitHub et al icon -->
+      <div align="right" class="icons">
+        <a href="mailto:redaktion@libreas.eu"><i class="fa fa-envelope"></i></a>
+        <a href="https://github.com/libreas"><i class="fa fa-github-square"></i></a>
+        <a href="https://www.instagram.com/libreas.libraryideas/"><i class="fa fa-instagram"></i></a>
+        <a href="https://twitter.com/libreas"><i class="fa fa-twitter"></i></a>
+        <a href="https://edoc.hu-berlin.de/feed/atom_1.0/18452/149"><i class="fa fa-rss"></i></a>
+</div>
+        
+<article class="page" itemscope itemtype="http://schema.org/ScholarlyArticle">
+
+<div align="right">
+
+<strong> > > > <a href="inhalt.htm">LIBREAS. Library Ideas # 44</a></strong> <br><br>
+</div>
+
+
+
+
+    
+        
+    
+    <div align="right">
+    <p><small><a itemprop="sameAs" href="https://via.hypothes.is/https://libreas.eu/ausgabe44/corredera-andres/meta.yaml">Annotate via hypothes.is</a></small></p>
+        <small><a itemprop="sameAs" href="main.pdf">Download PDF</a></small>
+        </div>
+    
+    
+        
+
+        
+        <h1 itemprop="name" class="title">Back to Green. Das Projekt GOAL und das Potenzial von Grün Open Access</h1>
+        
+        
+
+        <div class="titelei">
+        
+        <i itemprop="author">Enrique Corredera, Valérie Andres</i>
+        
+    </div>
+
+<!-- 
+
+        
+        <div class="titelei">
+            
+              
+              
+            <i itemprop="author">Enrique Corredera</i> 
+            
+            
+               
+            </i><i itemprop="author">Valérie Andres</i>
+            
+            
+            
+        </div>
+ -->
+
+
+
+        
+
+        <p><small itemprop="description">'GOAL – Unlocking the Green Open Access Potential' (https://opengoal.ch) ist die kollektive Bestrebung einer Gruppe von wissenschaftlichen Bibliotheken zur Förderung des bisher wenig beachteten Potentials von Grün Open Access in der Schweizer Publikationslandschaft. Nicht oder nur marginal im Fokus der Nationalen Open-Access-Strategie sind die Fachhochschulen und Pädagogischen Hochschulen sowie kleine landessprachliche Verlage. Zunehmend seltener anerkannt wird auch der Weg der Open-Access-Zweitveröffentlichung oder 'Grün Open Access'. Es scheint, als ob sich der Ball bei der Umsetzung von Open Access zunehmend im Besitz der 'Read &amp; Publish' Verträge und in der Förderung des Goldenen Weges befindet. Die 'grüne Alternative' führt ein wenig wahrgenommenes Schattendasein am Rande des Spielfeldes und gilt als wenig attraktiv. Offenbar können auch die Argumente der Nachhaltigkeit und der erhöhten Sichtbarkeit nicht genügend überzeugen. Aus Sicht des Projektes GOAL eröffnet der Grüne Weg jedoch einen in der Schweiz noch wenig genutzten Handlungsspielraum, der sich jenseits der grossen Verlage oder bekannten Universitäten befindet und ein nicht zu unterschätzendes Potential hat. Das ist der Moment, in dem wir das Auge auf praxisorientierte Zeitschriften richten, welche von kleinen Verlagen, Fachgesellschaften oder öffentlichen Institutionen in den verschiedenen Landessprachen publiziert werden. Diese Zeitschriften haben bisher noch wenig Beachtung erhalten, obwohl sie eine entscheidende Rolle für Forschende an Fach- sowie Pädagogischen Hochschulen spielen. Hier ist das Spielfeld noch wenig besetzt und Open Access kann, unter Berücksichtigung der Ressourcen der Redaktionen und Hochschulen, noch aufgebaut werden. In unserem Beitrag stellen wir das Projekt vor, präsentieren die Ergebnisse von anderthalb Jahren Arbeit und stellen diese zur Diskussion.</small></p>
+
+        
+
+        
+
+        <br>
+
+        <p><small itemprop="description">'GOAL – Unlocking the Green Open Access Potential' (https://opengoal.ch) is the collective effort of a group of academic libraries to promote the hitherto little-noticed potential of Green Open Access in the Swiss publishing landscape. Universities of applied sciences and of teacher education as well as small publishers in vernacular languages have until now been only marginally in the focus of the Swiss National Open Access Strategy. Similarly, the option of self-archiving or 'Green Open Access' is hardly recognized as a solution. 'Read &amp; publish' agreements and the 'Gold Open Access' option seem to be the preferred and most promoted forms of implementing Open Access. The 'green alternative' lives thus a little-perceived shadowy existence on the fringes of the field and is seen as having little appeal. Apparently, the arguments of sustainability and increased visibility are not convincing enough either. From the point of view of the GOAL project, however, the 'green path' opens up a scope for action that is still little used in Switzerland, which lies beyond the big publishing houses and well-known universities and has a potential that should not be underestimated. It is time to turn our attention to practice-oriented journals published by small publishers, professional societies, or public institutions in the various national languages. These journals have so far received little attention, even though they play a crucial role for researchers at universities of applied sciences as well as universities of teacher education. Here, the playing field is still open and Open Access can be expanded, taking always into account the resources of the editorial offices and universities. In our contribution, we introduce the project, present the results of one and a half years of work, and put them up for discussion.</small></p>
+
+        
+
+
+
+        
+        <p>
+          <small>
+            <br>
+            Zitiervorschlag
+            <br>
+            
+            
+            Enrique Corredera,
+            
+            
+            
+            Valérie Andres,
+            
+            
+             
+            "Back to Green. Das Projekt GOAL und das Potenzial von Grün Open Access".
+            
+            <i itemprop="provider">LIBREAS. Library Ideas</i>, 44 (<span itemprop="datePublished">2023</span>). <a itemprop="url" href="https://libreas.eu/ausgabe44/corredera-andres/meta.yaml">https://libreas.eu/ausgabe44/corredera-andres/meta.yaml</a>
+        </small>
+        <hr>
+    </p>
+   
+    
+
+
+
+
+
+    <div class="entry-content" itemprop="articleBody"></div>
+
+    
+
+</article>
+
+
+
+
+        <footer class="footer">
+<hr>
+<p><a href="https://creativecommons.org/licenses/by/4.0/">All content licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)</a>, if not otherwise stated.
+</p>
+<p>LIBREAS. Library Ideas wird herausgegeben am <a href="https://www.ibi.hu-berlin.de/">Institut für Bibliotheks- und Informationswissenschaft</a> der <a href="https://www.hu-berlin.de/">Humboldt-Universität zu Berlin</a></p>
+<p>Hosted on <a href="http://github.com/libreas/libreas.github.io">GitHub</a>, made with <a href="http://octopress.org/">Jekyll/Octopress</a> and <a href="http://johnmacfarlane.net/pandoc/">pandoc</a></p>
+
+<p>ISSN: 1860-7950</p>
+
+
+    LIBREAS. Library Ideas
+
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2023-12-20</a>)</p>
+
+</footer>
+      </div>
+    </div>
+<label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+  </body>
+</html>

@@ -1,0 +1,491 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage[babel]{csquotes}
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage[labelformat=empty]{caption} % option 'labelformat=empty]' to surpress adding "Abbildung 1:" or "Figure 1" before each caption / use parameter '\captionsetup{labelformat=empty}' instead to change this for just one caption
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+\setcapindent{0pt} % no indentation in captions
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage{xurl}
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+% typo setup
+\clubpenalty = 10000
+\widowpenalty = 10000
+\displaywidowpenalty = 10000
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+\usepackage{breakurl}
+
+%meta
+%meta
+
+\fancyhead[L]{Chr. Erlinger \& J. Bemme\\ %author
+LIBREAS. Library Ideas, 44 (2023). % journal, issue, volume.
+%\href{https://doi.org/10.18452/27071}{\color{black}https://doi.org/10.18452/27071}
+{}} % doi 
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/4.0/}{\color{black}Creative Commons BY 4.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{Kamptaler Sakrallandschaften im Wikiversum} \vskip 1em \large{Edits mit Versionsgeschichte: Elementarteilchen offener Wissensproduktion am Beispiel eines Citizen Science-Projektes}}% title
+\author{Christian Erlinger und Jens Bemme} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={Kamptaler Sakrallandschaften im Wikiversum},
+     pdfauthor={Christian Erlinger, Jens Bemme},
+      pdfcopyright={CC BY 4.0 International},
+      pdfsubject={LIBREAS. Library Ideas, 44 (2023).},
+      pdfkeywords={Open access, Wikipedia, kollaboratives Schreiben, Sacherschließung},
+      pdflicenseurl={https://creativecommons.org/licenses/by/4.0/},
+      pdfurl={https://doi.org/},
+      pdfdoi={10.18452/},
+      pdflang={de},
+      pdfmetalang={de}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+\begin{abstract}
+\noindent
+Die Autoren skizzieren, dass insbesondere lokales und regionales Wissen
+mit Wikis entsteht und dauerhaft bleibt -- als Regionalia in globalen
+offenen Linkzusammenhängen. ``Grass Root Open Access'' bedeutet nicht
+nur, Publikationen auf selbst gezimmerte Art und Weise frei und unter
+offener Lizenz zu publizieren (``I have published my pdf under a cc
+license on my personal website''). ``Grass Root Open Science'' bedeutet
+auch, den Inhalt, die Daten und Bilder -- das Wissen einer
+publizistischen Arbeit an sich frei, offen und reproduzierbar zu
+veröffentlichen. Am Beispiel der ``Wikifizierung'' einer gedruckten,
+heimatkundlichen Buchpublikation wird gezeigt, wie mit
+Graswurzelstrategien im Wikiversums Open Science entsteht.
+
+Wir skizzieren einen solchen Prozess als `linked open': Methoden und
+Effekte regionaler Datenpflege als demokratisierende Praxis mittels
+Citizen Science, mit Blick auf Technologien und Gemeinschaften.
+Potentiell beeinflussen wir mit offenen, wiki-basierten und damit
+dezentralen Wissenssystemen die Kalkulation und Rentabilität
+öffentlicher und quasi-öffentlicher Investitionen in Bildungsressourcen,
+Informationsinfrastrukturen, Forschung und Entwicklung.
+\end{abstract}
+
+%body
+\hypertarget{einleitung}{%
+\section{Einleitung}\label{einleitung}}
+
+Das gängige Verständnis von Open Access umfasst den kosten- und
+möglichst barrierefreien elektronischen Zugang zu (wissenschaftlicher)
+Literatur (OA 2002) oder weiter gefasst die Zugänglichkeit zu Wissen (OA
+2003). Der 2003 ausgerufene Übergang zum \enquote{Open-Access-Pa\-ra\-dig\-ma
+für elektronische Publikationen} (OA 2003) ist heute von der
+Realisierung weit entfernt und maximal eines von Bibliotheken und
+Forschungsförderung getriebenes Tätigkeitsfeld. Der Blick in das
+Programm der Open-Access-Tage 2023 genügt, um zu sehen, wie bürokratisch
+Open Access ist: Kosten-Monitoring, Evaluation und Management der
+Transformation -- all das nimmt viel Raum und Zeit ein und kostet
+Ressourcen.\footnote{Programm der Open-Access-Tage 2023
+  \url{https://open-access-tage.de/open-access-tage-2023-berlin}, Stand
+  28.10.2023}
+
+Das Fundament der Bürokratie rund um Open Access und Open Science ist
+die wissenschaftliche Produktion. Versuchen wir im Bibliotheksbereich
+Publikation, Dokumentation und Vernetzung von wissenschaftlichen
+Erkenntnissen -- ganz gleich ob aus institutioneller oder
+bürger:in\-nen-wissenschaftlicher Produktion -- losgelöst von
+verlegerischen Ansprüchen mit einfachen technischen Hilfsmitteln dem
+simplen Grundsatz der kosten- und barrierefreien elektronischen
+Zugänglichkeit folgend zu realisieren, so sind die technischen
+Hilfsmittel die Gefäße oder Wurzeln, in denen die Forschung wachsen
+kann: \enquote{Grassroot Open Science}. Damit begeben wir uns auf den
+Boden wissenschaftlicher Kommunikation, wo die publizierten Inhalte von
+heute, der Humus sind, auf dem neue Erkenntnisse morgen entstehen
+können.
+
+\hypertarget{open-public-humanities-regionalgeschichte-und-offene-wissenschaft}{%
+\section{Open Public Humanities -- Regionalgeschichte und Offene
+Wissenschaft}\label{open-public-humanities-regionalgeschichte-und-offene-wissenschaft}}
+
+Citizen Science und Open Access wird in der Gemeinsamkeit bislang,
+abgesehen von Ausnahmen (Munke 2019), kaum diskutiert. Das mag
+einerseits daran liegen, dass Citizen Science oft als ein partizipativer
+Methodenkasten institutionalisierter Wissenschaft missverstanden wird,
+deren Ergebnisse dann wieder in das \enquote{klassische}
+Publikationssystem einfließen. Oder weil es in kaum einer Bibliothek
+Aufgabe ist, Bürger:innen in ihren \enquote{privaten Forschungen}
+Publikationsunterstützung zu geben. Doch genau darin liegt ein lohnendes
+Tätigkeitsfeld, das helfen kann, auch in Bibliotheken ein Methodenset
+aufzubauen, das für jede andere Anwendung einer offenen Wissenschaft
+genutzt werden kann.
+
+Regional- und Heimatgeschichte ist eines der typischen Forschungsgebiete
+für ein Feld mit hohem Einsatz von Bürger:innen. Als Hypothese lässt
+sich formulieren, dass gerade in diesem Feld die gedruckte Publikation,
+ob als Monographie in kleinster Auflage, im Selbstverlag oder als
+Beitrag in regionalen Blättern, einen hohen Stellenwert genießt. Viele
+Arbeiten sind stark \enquote{datengetrieben}, wenn darin beispielsweise
+Inventare von regionalhistorisch bedeutenden Personen, Bauwerken oder
+Ereignissen umfassend recherchiert und mittels Archivmaterialien,
+Bilddokumenten und anderen Quellenmaterialien zusammengestellt werden.
+Ziel einer \enquote{Grassroot-Open-Science-Transformation} in diesem
+Bereich muss daher nicht die bloße kostenfreie, elektronische
+Publikation sein, sondern vielmehr das offene Verfügbarmachen der
+grundlegenden Inhalte und Daten im Sinne von \enquote{open public
+humanities} (Erlinger 2022b). Ein idealer Ort, um heterogene Daten in
+strukturierter Form, neben Bildern und Textmaterialien dauerhaft und
+offen online zugänglich sowie auch nachnutzbar zu machen, ist das
+\emph{Wikiversum} (Kloppenburg \& Schwarzkopf 2016).
+
+\hypertarget{vom-buch-zum-datensatz-im-wikiversum}{%
+\section{\texorpdfstring{Vom Buch zum Datensatz im
+\emph{Wikiversum}}{Vom Buch zum Datensatz im Wikiversum}}\label{vom-buch-zum-datensatz-im-wikiversum}}
+
+Im Herbst 2020 wurde auf der Website des \enquote{Zeitbrücke-Museums} in
+Gars am Kamp (Niederösterreich)\footnote{Website des Zeitbrücke Museums
+  Gars am Kamp (Niederösterreich) \url{https://www.zeitbruecke.at/},
+  Stand: 28.10.2023} der Hinweis veröffentlicht, dass der damalige
+Leiter des Museums, der Maler und Lehrer Anton Ehrenberger,
+beabsichtigt, eine umfassende Dokumentation aller sakralen
+Kleindenkmäler in der Umgebung des Ortes zu verfassen und in Form eines
+Bildbandes im Eigenverlag zu veröffentlichen (Ehrenberger 2022).
+Kleindenkmalforschung ist ein Paradebeispiel von datengestützter,
+regionalwissenschaftlicher Forschungsarbeit mit einem hohen Grad quasi
+vollständiger Dokumentation eines Kulturgutbestandes zu einem bestimmten
+Zeitpunkt. Diese Ankündigung war der Anstoß dafür, dass ein Autor dieses
+Beitrags den Kleindenkmalforscher kontaktierte, um gemeinsam einen
+möglichst umfassenden Open Science-Ansatz auszuprobieren:
+
+\begin{itemize}
+\item
+  Das (selbst erstellte) Bildmaterial wird unter der Lizenz CC BY 4.0
+  auf Wikimedia Commons hochgeladen.
+\item
+  Jedes beschriebene Objekt erhält ein eigenständiges Wikidata-Item und
+  wird mit den im Buch veröffentlichten Informationen weitestgehend
+  beschrieben. Diese Daten sind unter CC 0 lizenziert.
+\end{itemize}
+
+Das Ergebnis der Zusammenarbeit ist ein öffentlich verfügbarer
+Datensatz, der jederzeit wiederverwendet werden kann und dem durch die
+grundlegenden Eigenschaften der Software MediaWiki (die zum Beispiel für
+die Wikipedia genutzt wird) wesentliche Elemente einer offenen
+Wissenschaft automatisch innewohnen:
+
+\begin{itemize}
+\item
+  Jeder Edit ist Teil einer Versionsgeschichte. Veränderungen am
+  Datensatz sind offen zugänglich und können überprüft werden.
+\item
+  Fehler können korrigiert werden. Fortlaufende, zukünftige
+  Veränderungen am Forschungsobjekt können eingepflegt werden.
+\item
+  Diskussionsseiten erlauben das Besprechen der eingearbeiteten Inhalte.
+  Fehler und Zweifel können diskutiert werden.
+\end{itemize}
+
+Die Übertragung der Daten aus dem Buch war eine zeitintensive und in
+erster Linie manuelle Tätigkeit. Gleichzeitig war dies eine besondere
+Art des gründlichen Korrekturlesens und wurde somit zu einer auch
+inhaltlichen Unterstützung in der Forschungsarbeit selbst. Das
+Übertragen der schriftlichen Informationen in strukturierte Daten in die
+Datenbank Wikidata (mit der unter anderem Daten für die Wikipedia
+bereitgestellt werden), förderte Ungereimtheiten zu Tage und half Fehler
+zu erkennen.
+
+In der nachfolgenden Tabelle ist beispielhaft angegeben, welche
+Eigenschaften in Wikidata für ein Objekt, im vorliegenden Fall das
+\enquote{Obenaus-Marterl}\footnote{Obenaus-Marterl, Wikidata-Item
+  Q38093425 \url{https://www.wikidata.org/wiki/Q38093425}, Stand:
+  28.10.2023} gewählt wurden und welche Bedeutung diese tragen
+(Entnommen aus Erlinger 2022a).
+
+\include{table.tex}
+
+Die ausgewählten Datenfelder der Tabelle sind exemplarisch jene Werte,
+die für das beschriebene Kleindenkmal bekannt sind. Die Flexibilität von
+Wikidata erlaubt aber die Erfassung weiterer detaillierter
+Informationen, beziehungsweise, die Daten können jederzeit um weitere
+\enquote{Datenfelder} ergänzt sowie auf Normdaten verlinkt werden:
+
+\begin{itemize}
+\item
+  Verlinkung und damit Referenzierung einer Vielzahl externer
+  Datenbanken oder Websites wie zum Beispiel marterl.at
+  (\url{https://www.marterl.at/}) oder die Gemeinsame Normdatei der
+  Deutschen Nationalbibliothek (GND).
+\item
+  Es können signifikante Ereignisse (Renovierung, Weihe) hinzugefügt und
+  detailliert werden.
+\item
+  Das Denkmal kann noch näher beschrieben werden: Baustil oder Epoche,
+  Größe, verwendetes Material et cetera.
+\item
+  Erfassung von Details wie Abbildungen oder Inschriften.
+\end{itemize}
+
+Gerade die Verlinkungen der beschriebenen Objekte mit gegebenenfalls der
+GND, mit der Datenbank des österreichischen Bundesdenkmalamtes oder
+anderen Quellen, war eine Tätigkeit, die klassisch bibliothekarisch
+motiviert war und die in der Buchpublikation befindlichen Inhalte
+darüber hinaus inhaltlich kontextualisierte. Umgekehrt wurden im
+gedruckten Buch sehr viele historische Quellenangaben zu den einzelnen
+Dokumenten notiert -- bei vielen dieser Quellen handelt es sich
+ebenfalls um graue Literatur. Abgesehen von der österreichischen
+Kunsttopographie, die Open Access verfügbar ist,\footnote{Digitalisat
+  der Österreichischen Kunsttopographie (1889), TUGraz DIGITAL Library,
+  \url{https://diglib.tugraz.at/oesterreichische-kunsttopographie-1889},
+  Stand: 28.10.2023} wurden noch keine weiteren Quellenangaben für das
+vorgestellte Projekt in Wikidata systematisch erfasst.
+
+Die Erfassung dieser Daten im \emph{Wikiversum} lädt unmittelbar dazu
+ein, solche Informationen mit anderen Daten und Objekten zu verbinden,
+die im Buch selbst nicht beschrieben sind, zum Beispiel aus
+Platzgründen. Dazu zählen neben der erwähnten Normdaten-Verlinkung auch
+Verbindungen zu Wikipedia-Artikeln oder die Vernetzung mit
+Bildmaterialien in Wikimedia Commons (und dazu die Erzeugung von
+Kategorien in Commons zur Sammlung von mehreren Mediendateien des
+gleichen Denkmals).
+
+Da die Daten nicht nur frei verfügbar und nutzbar, sondern auch
+beständig weiter editierbar sind - \enquote{it's a wiki!} - wurde
+bereits während der Drucklegung des Buches die Forschung fortgeführt. So
+konnten Renovierungen von Denkmälern erfasst werden oder auch Fehler,
+die trotz mehrfacher Korrekturläufe erst spät entdeckt wurden, zumindest
+im offenen Datensatz behoben werden. Dem Datenmodell von Wikidata sei
+Dank, brauchen solche Fehler nicht einfach überschrieben werden, sondern
+können als \enquote{deprecated} mit der entsprechenden Quellenangabe
+erfasst werden. Dies erlaubt ein digitales Erratum zur Publikation zu
+erstellen.\footnote{Wikidata SPARQL-Query \enquote{Errata der
+  Publikation \enquote*{Kamptaler Sakrallandschaften}},
+  \url{https://w.wiki/7vrL)}, Stand: 28.10.2023. (Dank an Lucas
+  Werkmeister (WMDE) für den Support bei dieser Abfrage!)}
+
+Das Weiterführen des Datensatzes durch Veränderungen der Denkmäler
+(Renovierungen, Verschwinden, Neuerrichtung et cetera), durch
+Präzisierung von Angaben, die in der Publikation nicht erfasst wurden
+(beispielsweise physische Abmessungen), Vernetzung mit anderen
+Datenquellen -- all das ist kontinuierlich möglich. Dazu soll die
+Veröffentlichung im \emph{Wikiversum} anregen: Jede:r kann editieren,
+auch ohne Registrierung, und helfen diesen Datenbestand weiter zu
+entwickeln.
+
+Die etwaige Nachnutzung der Daten macht dieses
+bürger:innen-wissenschaftliche Forschungsvorhaben aber erst richtig
+lebendig:
+
+\begin{itemize}
+\item
+  Neue Forschungsarbeiten zu diesem Themengebiet können nahtlos an das
+  Inventar aus dem Jahr 2022 anschließen und Vergleichsarbeiten
+  aufbauen.
+\item
+  Bilder können dank der offenen Lizenz für jeden Zweck verwendet
+  werden.
+\item
+  Online-Dokumentation: Mit einer Website\footnote{Online-Dokumentation
+    \enquote{Kamptaler Sakrallandschaften},
+    \url{https://kamptalersakrallandschaften.gitlab.io/}, Stand
+    28.10.2023} wurde gezeigt, wie ohne großen Aufwand die vorhandenen
+  Daten der Publikation online präsentiert werden können, und
+  gleichzeitig, welche Analysemöglichkeiten mit den einfachen
+  Visualisierungen des Wikidata-SPARQL-Endpoints durchführbar sind.
+\end{itemize}
+
+\hypertarget{neue-akteurinnen-fuxfcr-die-regionale-offene-wissensproduktion}{%
+\section{Neue Akteur:innen für die regionale offene
+Wissensproduktion}\label{neue-akteurinnen-fuxfcr-die-regionale-offene-wissensproduktion}}
+
+Das hier dokumentierte Projekt verknüpft traditionsreiche Felder der
+Heimatforschung oder des Denkmalschutzes und der Landeskunde mit Open
+Data-Werkzeugen des \emph{Wikiversums} und Arbeitsweisen dort.
+
+Welche Bedeutung aber haben Bibliotheken und insbesondere Landes- oder
+Kantonsbibliotheken für diese Art \enquote*{Grassroot Open Access}?
+Welche Rollen können Bibliotheken spielen, beziehungsweise die Menschen,
+die in Bibliotheken arbeiten, um solche Kooperationen
+\enquote*{regionaler Wissensproduktion} zu begleiten? Im idealen Fall
+kollaborativ nicht erst am Ende eines Forschungsprozesses als
+verlängerte Werkbank für gedruckte oder PDF-Publikationen, sondern als
+Co-Kreation einer nutzbaren und editierbaren Datenveröffentlichung mit
+Versionsgeschichte. Im Idealfall auch nicht nur im Ehrenamt wie im
+vorliegenden Fall, sondern als Bestandteil professioneller Unterstützung
+und etwaiger Bibliotheksdienste.
+
+Bei der Erschliessung der \enquote{Kamptaler Sakrallandschaften} hat
+sich erst im Verlauf gezeigt, dass mehr Aufwand entsteht als gedacht.
+Die Daten waren nicht, wie erhofft, bereits tabellarisch erfasst,
+sondern nur als Fließtext vorhanden. Der Text musste also Satz für Satz
+gelesen werden, um die wichtigsten Informationen für eine strukturierte
+Erfassung zu ermitteln. Andere Informationen wie geographische
+Koordinaten oder die Zuteilung zu den kleinsten Gebietskörperschaften
+wurden erst eigenständig ermittelt. Von der anfänglichen Vorstellung
+bloß \enquote{Datenteiler} zu sein, stand man auf einmal mitten im
+Forschungsprozess selbst.
+
+Werden regionale \enquote{Open GLAM Labore} zukünftig in der Lage sein,
+eine offene Datenkultur auch mit Regionalbibliotheken für regionale
+Forschungsprozesse, deren Edition und Publikation zu verstärken, zum
+Beispiel in der Heimatforschung? Seit circa 2018 formierte sich eine
+Gemeinschaft international orientierter Bibliotheken, um eigene
+Innovationslabore (Open Glam Labs) für (eigene) offene Datenkulturen zu
+gründen und zu vernetzen (OA 2018).
+
+Regionale \enquote{Open GLAM Labore} für \enquote{Graswurzel-Open Access
+für Regionalia} wären ein nächster Schritt, um diese Methoden auch
+\enquote{vor Ort} als mit Regionalbezug zu teilen -- sei es durch
+Landesbibliotheken, mit Fachstellen der öffentlichen Bibliotheken, mit
+Staats- und Stadtarchiven, mit Hackathon- und Editathon-Initiativen,
+beim nächsten Wikipedia-Stammtisch oder mit lokalen Open
+Data-Gemeinschaften.
+
+Ergo: Schafft Open GLAM-Labore für viele (Ebenen)!
+
+Edits mit Versionsgeschichte sind, hier im skizzierten Projekt, im
+\emph{Wikiversum} und für verknüpfte Datenbestände die Elementarteilchen
+der Wissensproduktion mit Wikidata und Wikimedia Commons -- in den
+offenen Forschungsdaten, deren crowdorientierter Datenedition,
+Publikation und Erschließung auf der Meta(daten)ebene. Die kleinste
+messbare Größe solcher offenen Publikationsprozesse ist \enquote*{1 Edit
+(+/- 0 Byte)}. Wikidata und andere offene Wissensplattformen sind in
+diesem Sinne Gefäße für regionales Wissen. Offene Texte, offene Daten
+und offene Metadaten können von jeder und jedem selbst geschaffen und
+veredelt werden -- angereichert, verknüpft, benutzt, gespeichert und neu
+beschrieben. Edits mit Versionsgeschichte sind dann eine Einheit zur
+Messung und der Maßstab der Openness für Regionalia.
+
+\hypertarget{bibliographie}{%
+\section{Bibliographie}\label{bibliographie}}
+
+Ehrenberger, Anton 2022. \emph{Kamptaler Sakrallandschaften: Gars -
+Schönberg - St.~Leonhard: mit den sieben Pfarren des Pfarrverbandes
+Gars: Gars, Freischling, Plank, Schönberg, Stiefern, St.~Leonhard,
+Tautendorf}. Zeitbrücke-Museum.
+
+Erlinger, Christian 2022a. Kamptaler Sakrallandschaften - Linked Open
+Data. \url{https://osf.io/7hvem/} {[}Stand 2022-10-02{]}
+
+Erlinger, Christian 2022b. Open Public Humanities.
+\url{https://zenodo.org/doi/10.5281/zenodo.6759428} {[}Stand
+2023-10-28{]}.
+
+Kloppenburg, Julia \& Schwarzkopf, Christopher 2016. Citizen Science im
+Wikiversum. In K. Oswald \& R. Smolarski, hg. \emph{Bürger Künste
+Wissenschaft: Citizen Science in Kultur und Geisteswissenschaften}.
+91--102. \url{https://doi.org/10.22032/dbt.39058}
+
+Munke, Martin 2019. Landesbibliographie und Citizen Science.
+Kooperationsmöglichkeiten für Bibliotheken und Wiki-Communities am
+Beispiel der Sächsischen Bibliograﬁe. \emph{Regionalbibliographien:
+Forschungsdaten und Quellen des kulturellen Gedächtnisses: Liber
+amicorum für Ludger Syré}13.
+
+OA 2003. Berliner Erklärung über den offenen Zugang zu
+wissenschaftlichem Wissen.
+\url{https://openaccess.mpg.de/68053/Berliner_Erklaerung_dt_Version_07-2006.pdf}.
+
+OA 2002. \emph{Budapest Open Access Initiative (German Translation)}.
+\url{https://www.budapestopenaccessinitiative.org/read/german-translation/}
+{[}Stand 2023-10-28{]}.
+
+OA 2018. \emph{Open a Glam Lab}. \url{https://glamlabs.pubpub.org/} {[}Stand
+2020-08-27{]}.
+
+%autor
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{Christian Erlinger} hat Raumplanung und Politikwissenschaft
+studiert und ist seit 2013 im Bibliotheksbereich tätig. Aktuell ist er
+Mitarbeiter an der ZHB Luzern (CH) und betreut ZentralGut.ch das
+digitale Kulturgutportal der Zentralschweiz. Er ist Wikidata-Enthusiast
+(\#DieDatenlaube) und setzt sich für das verstärkte Zusammenspiel von
+GLAM-Institutionen und dem Wikiversum ein. \textbf{ORCID}:
+0000-0001-7872-9617 \textbar{} \textbf{Mastodon}:
+librerli@openbiblio.social
+
+\textbf{Jens Bemme} studierte Verkehrswirtschaft und
+Lateinamerikastudien. Heute interessiert er sich für Dorfbacköfen und
+historisches Radfahrerwissen um 1900 in der Oberlausitz und der
+Ostseeprovinzen. Mit der `Datenlaube' und Christian Erlinger erschließt
+er Wikisource-Volltexte der Illustrierten `Die Gartenlaube' offen in
+Wikidata. Als Mitarbeiter der SLUB Dresden begleitet Jens
+landeskundliche Citizen Science-Initiativen insbesondere mit den
+digitalen Werkzeugen und Gemeinschaften der Wikimedia-Bewegung.
+\textbf{ORCID}: 0000-0001-6860-0924 \textbar{} \textbf{Mastodon}:
+JensB@openbiblio.social
+
+\end{document}
