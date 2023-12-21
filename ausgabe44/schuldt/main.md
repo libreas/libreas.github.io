@@ -547,7 +547,7 @@ Nationalsozialismus gab. (Puschner & Vollnhals 2012)
 Unschwer zu erkennen ist, dass beide -- also Nationalsozialismus und
 völkische Bewegung -- viele Grundwerte miteinander teilten. Und dennoch
 kann man beide nicht gleich setzen. Es gab in der
-Nationalsozialistischen Deutschen Arbeiterpartei (NSDAP) viele, auch
+*Nationalsozialistischen Deutschen Arbeiterpartei* (NSDAP) viele, auch
 einflussreiche, Mitglieder, die einen positiven Bezug zum völkischen
 Denken und der völkischen Bewegung hatten. Die NSDAP, beziehungsweise
 ihre Vorgängerorganisation *Deutsche Arbeiterpartei*, wurde 1919 in

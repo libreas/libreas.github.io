@@ -98,7 +98,7 @@ erster Linie manuelle Tätigkeit. Gleichzeitig war dies eine besondere
 Art des gründlichen Korrekturlesens und wurde somit zu einer auch
 inhaltlichen Unterstützung in der Forschungsarbeit selbst. Das
 Übertragen der schriftlichen Informationen in strukturierte Daten in die
-Datenbank Wikidata (mit der unter anderem Daten für die Wikipedia
+Datenbank Wikidata (Voß 2016) (mit der unter anderem Daten für die Wikipedia
 bereitgestellt werden), förderte Ungereimtheiten zu Tage und half Fehler
 zu erkennen.
 
@@ -312,7 +312,7 @@ angereichert, verknüpft, benutzt, gespeichert und neu beschrieben. Edits
 mit Versionsgeschichte sind dann eine Einheit zur Messung und der
 Maßstab der Openness für Regionalia.
 
-# Bibliographie
+### Bibliographie
 
 Ehrenberger, Anton 2022. *Kamptaler Sakrallandschaften: Gars -
 Schönberg - St. Leonhard: mit den sieben Pfarren des Pfarrverbandes
@@ -348,6 +348,16 @@ OA 2002. *Budapest Open Access Initiative (German Translation)*.
 
 OA 2018. *Open a Glam Lab*. <https://glamlabs.pubpub.org/> \[Stand
 2020-08-27\].
+
+Voß, Jakob 2016. Wikidata als Universalbibliographie: ein Kommentar. *LIBREAS. Library Ideas*, 29. <https://libreas.eu/ausgabe29/02voss/>
+
+---
+
+Das Wikidata-Item dieses Beitrags ist: <https://www.wikidata.org/wiki/Q118993380>
+
+Der Pre- (und Post-)Print des Beitrags ist editierbar unter: <https://de.wikiversity.org/wiki/DieDatenlaube/LIBREAS_Grassroots_Open_Access>
+
+
 
 [^1]: Programm der Open-Access-Tage 2023
     <https://open-access-tage.de/open-access-tage-2023-berlin>,

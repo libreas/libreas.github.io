@@ -39,6 +39,7 @@ final
 \usepackage[flushmargin,ragged]{footmisc} % left align footnote
 \usepackage{ccicons} 
 \setcapindent{0pt} % no indentation in captions
+\usepackage{xurl} % Breaks URLs
 
 %%%% fancy LIBREAS URL color 
 \usepackage{xcolor}
@@ -47,8 +48,6 @@ final
 \usepackage{listings}
 
 \urlstyle{same}  % don't use monospace font for urls
-
-\usepackage{xurl}
 
 \usepackage[fleqn]{amsmath}
 
@@ -105,7 +104,7 @@ LIBREAS. Library Ideas, 44 (2023). % journal, issue, volume.
      pdfauthor={Christian Erlinger, Jens Bemme},
       pdfcopyright={CC BY 4.0 International},
       pdfsubject={LIBREAS. Library Ideas, 44 (2023).},
-      pdfkeywords={Open access, Wikipedia, kollaboratives Schreiben, Sacherschließung},
+      pdfkeywords={Regionalgeschichte; Heimatkunde; Wikiversum; Linked Open Data; Wikidata; Wikimedia Commons; Open Public Humanities},
       pdflicenseurl={https://creativecommons.org/licenses/by/4.0/},
       pdfurl={https://doi.org/},
       pdfdoi={10.18452/},
@@ -143,6 +142,26 @@ Potentiell beeinflussen wir mit offenen, wiki-basierten und damit
 dezentralen Wissenssystemen die Kalkulation und Rentabilität
 öffentlicher und quasi-öffentlicher Investitionen in Bildungsressourcen,
 Informationsinfrastrukturen, Forschung und Entwicklung.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+The authors outline that local and regional knowledge in particular is
+created with wikis and remains permanent. ``Grass Root Open Access''
+does not only mean publishing freely and under an open licence in a
+self-made way (``I have published my pdf under a cc license on my
+personal website''). ``Grass Root Open Science'' means publishing the
+content, data and images - the knowledge of the scientific work itself -
+freely, openly and reproducibly. Using the example of the
+``wikification'' of a printed local history book publication, we show
+how grass root strategies in the Wikiverse can be used to create Open
+Science. We outline such a process `linked open': Methods and effects of
+regional data creation as a democratizing practice with open wiki-based
+and thus decentralized knowledge systems, we potentially influence the
+calculation and profitability of public and quasi-public investments in
+educational resources, in information infrastructures, in research and
+development.
+
+We outline such a process 'linked open': Methods and effects of regional data creation as a democratizing practice with open wiki-based and thus decentralized knowledge systems, we potentially influence the calculation and profitability of public and quasi-public investments in educational resources, in information infrastructures, in research and development.
 \end{abstract}
 
 %body
@@ -152,7 +171,7 @@ Informationsinfrastrukturen, Forschung und Entwicklung.
 Das gängige Verständnis von Open Access umfasst den kosten- und
 möglichst barrierefreien elektronischen Zugang zu (wissenschaftlicher)
 Literatur (OA 2002) oder weiter gefasst die Zugänglichkeit zu Wissen (OA
-2003). Der 2003 ausgerufene Übergang zum \enquote{Open-Access-Pa\-ra\-dig\-ma
+2003). Der 2003 ausgerufene Übergang zum \enquote{Open-Access-Paradigma
 für elektronische Publikationen} (OA 2003) ist heute von der
 Realisierung weit entfernt und maximal eines von Bibliotheken und
 Forschungsförderung getriebenes Tätigkeitsfeld. Der Blick in das
@@ -167,7 +186,7 @@ Das Fundament der Bürokratie rund um Open Access und Open Science ist
 die wissenschaftliche Produktion. Versuchen wir im Bibliotheksbereich
 Publikation, Dokumentation und Vernetzung von wissenschaftlichen
 Erkenntnissen -- ganz gleich ob aus institutioneller oder
-bürger:in\-nen-wissenschaftlicher Produktion -- losgelöst von
+bürger:innen-wissenschaftlicher Produktion -- losgelöst von
 verlegerischen Ansprüchen mit einfachen technischen Hilfsmitteln dem
 simplen Grundsatz der kosten- und barrierefreien elektronischen
 Zugänglichkeit folgend zu realisieren, so sind die technischen
@@ -263,18 +282,16 @@ erster Linie manuelle Tätigkeit. Gleichzeitig war dies eine besondere
 Art des gründlichen Korrekturlesens und wurde somit zu einer auch
 inhaltlichen Unterstützung in der Forschungsarbeit selbst. Das
 Übertragen der schriftlichen Informationen in strukturierte Daten in die
-Datenbank Wikidata (mit der unter anderem Daten für die Wikipedia
-bereitgestellt werden), förderte Ungereimtheiten zu Tage und half Fehler
-zu erkennen.
+Datenbank Wikidata (Voß 2016) (mit der unter anderem Daten für die
+Wikipedia bereitgestellt werden), förderte Ungereimtheiten zu Tage und
+half Fehler zu erkennen.
 
-In der nachfolgenden Tabelle ist beispielhaft angegeben, welche
+In der nachfolgenden Tabelle auf der nächsten Seite ist beispielhaft angegeben, welche
 Eigenschaften in Wikidata für ein Objekt, im vorliegenden Fall das
 \enquote{Obenaus-Marterl}\footnote{Obenaus-Marterl, Wikidata-Item
   Q38093425 \url{https://www.wikidata.org/wiki/Q38093425}, Stand:
   28.10.2023} gewählt wurden und welche Bedeutung diese tragen
 (Entnommen aus Erlinger 2022a).
-
-\include{table.tex}
 
 Die ausgewählten Datenfelder der Tabelle sind exemplarisch jene Werte,
 die für das beschriebene Kleindenkmal bekannt sind. Die Flexibilität von
@@ -335,6 +352,8 @@ erstellen.\footnote{Wikidata SPARQL-Query \enquote{Errata der
   \url{https://w.wiki/7vrL)}, Stand: 28.10.2023. (Dank an Lucas
   Werkmeister (WMDE) für den Support bei dieser Abfrage!)}
 
+\include{table.tex}
+
 Das Weiterführen des Datensatzes durch Veränderungen der Denkmäler
 (Renovierungen, Verschwinden, Neuerrichtung et cetera), durch
 Präzisierung von Angaben, die in der Publikation nicht erfasst wurden
@@ -343,6 +362,7 @@ Datenquellen -- all das ist kontinuierlich möglich. Dazu soll die
 Veröffentlichung im \emph{Wikiversum} anregen: Jede:r kann editieren,
 auch ohne Registrierung, und helfen diesen Datenbestand weiter zu
 entwickeln.
+
 
 Die etwaige Nachnutzung der Daten macht dieses
 bürger:innen-wissenschaftliche Forschungsvorhaben aber erst richtig
@@ -462,8 +482,20 @@ OA 2002. \emph{Budapest Open Access Initiative (German Translation)}.
 \url{https://www.budapestopenaccessinitiative.org/read/german-translation/}
 {[}Stand 2023-10-28{]}.
 
-OA 2018. \emph{Open a Glam Lab}. \url{https://glamlabs.pubpub.org/} {[}Stand
-2020-08-27{]}.
+OA 2018. \emph{Open a Glam Lab}. \url{https://glamlabs.pubpub.org/}
+{[}Stand 2020-08-27{]}.
+
+Voß, Jakob 2016. Wikidata als Universalbibliographie: ein Kommentar.
+\emph{LIBREAS. Library Ideas}, 29.
+\url{https://libreas.eu/ausgabe29/02voss/}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Das Wikidata-Item dieses Beitrags ist:
+\url{https://www.wikidata.org/wiki/Q118993380}
+
+Der Pre- (und Post-)Print des Beitrags ist editierbar unter:
+\url{https://de.wikiversity.org/wiki/DieDatenlaube/LIBREAS_Grassroots_Open_Access}
 
 %autor
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}

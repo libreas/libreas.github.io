@@ -5,7 +5,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>Kamptaler Sakrallandschaften im Wikiversum - LIBREAS. Library Ideas</title>
+	<title>Praxisbericht institutionalisiertes Grassroots Open Access : Beitrag der Vernetzungs- und Kompetenzstelle Open Access Brandenburg (VuK) zum Open Access Tracking Project (OATP)  - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
 
@@ -13,13 +13,9 @@
 
  <!-- RDFa Metadata (in DublinCore) -->
     
-    <meta property="dc:title" content="Kamptaler Sakrallandschaften im Wikiversum" />
+    <meta property="dc:title" content="Praxisbericht institutionalisiertes Grassroots Open Access : Beitrag der Vernetzungs- und Kompetenzstelle Open Access Brandenburg (VuK) zum Open Access Tracking Project (OATP) " />
     
     
-    
-    <meta property="dc:creator" content="Christian Erlinger" />
-    
-    <meta property="dc:creator" content="Jens Bemme" />
     
     
     
@@ -27,14 +23,14 @@
     
     <meta property="dc:format" content="text/html" />
     <meta property="dc:language" content="de" />
-    <meta property="dc:identifier" content="https://libreas.eu/ausgabe44/erlinger-bremme/meta.yaml" />
+    <meta property="dc:identifier" content="https://libreas.eu/ausgabe44/falkenburg/meta.yaml" />
     
     <meta property="dc:rights" prefix="cc: http://creativecommons.org/ns#" rel="cc:license" href="https://creativecommons.org/licenses/by/4.0/" content="CC-BY 4.0" />
 	
     <meta property="dc:source" content="LIBREAS. Library Ideas" />
     <meta property="dc:subject" content="Library and Information Science" />
     <meta property="dc:type" content="website" />
-    <meta property="dc:description" content="Die Autoren skizzieren, dass insbesondere lokales und regionales Wissen mit Wikis entsteht und dauerhaft bleibt – als Regionalia in globalen offenen Linkzusammenhängen. &lt;q&gt;Grass Root Open Access&lt;/q&gt; bedeutet nicht nur, Publikationen auf selbst gezimmerte Art und Weise frei und unter offener Lizenz zu publizieren (&lt;q&gt;I have published my pdf under a cc license on my personal website&lt;/q&gt;). &lt;q&gt;Grass Root Open Science&lt;/q&gt; bedeutet auch, den Inhalt, die Daten und Bilder &amp;mdash; das Wissen einer publizistischen Arbeit an sich frei, offen und reproduzierbar zu veröffentlichen. Am Beispiel der &lt;q&gt;Wikifizierung&lt;/q&gt; einer gedruckten, heimatkundlichen Buchpublikation wird gezeigt, wie mit Graswurzelstrategien im Wikiversums Open Science entsteht.&lt;br&gt; Wir skizzieren einen solchen Prozess als &#39;linked open&#39;: Methoden und Effekte regionaler Datenpflege als demokratisierende Praxis mittels Citizen Science, mit Blick auf Technologien und Gemeinschaften. Potentiell beeinflussen wir mit offenen, wiki-basierten und damit dezentralen Wissenssystemen die Kalkulation und Rentabilität öffentlicher und quasi-öffentlicher Investitionen in Bildungsressourcen, Informationsinfrastrukturen, Forschung und Entwicklung."/>
+    <meta property="dc:description" content=""/>
     <meta property="dc:source" resource="urn:ISSN:1860-7950" /> 
 
 <!-- Google Scholar -->
@@ -54,7 +50,7 @@
 
 	<link href="/atom.xml" rel="alternate" title="LIBREAS. Library Ideas" type="application/atom+xml">
 	
-	<link rel="canonical" href="https://libreas.eu/ausgabe44/erlinger-bremme/meta.yaml">
+	<link rel="canonical" href="https://libreas.eu/ausgabe44/falkenburg/meta.yaml">
 	<link href="/favicon.png" rel="shortcut icon">
 	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
 
@@ -137,7 +133,7 @@
         
     
     <div align="right">
-    <p><small><a itemprop="sameAs" href="https://via.hypothes.is/https://libreas.eu/ausgabe44/erlinger-bremme/meta.yaml">Annotate via hypothes.is</a></small></p>
+    <p><small><a itemprop="sameAs" href="https://via.hypothes.is/https://libreas.eu/ausgabe44/falkenburg/meta.yaml">Annotate via hypothes.is</a></small></p>
         <small><a itemprop="sameAs" href="main.pdf">Download PDF</a></small>
         </div>
     
@@ -145,15 +141,13 @@
         
 
         
-        <h1 itemprop="name" class="title">Kamptaler Sakrallandschaften im Wikiversum</h1>
-        
-        <h2><small>Edits mit Versionsgeschichte: Elementarteilchen offener Wissensproduktion am Beispiel eines Citizen Science-Projektes</small></h2>
+        <h1 itemprop="name" class="title">Praxisbericht institutionalisiertes Grassroots Open Access : Beitrag der Vernetzungs- und Kompetenzstelle Open Access Brandenburg (VuK) zum Open Access Tracking Project (OATP) </h1>
         
         
 
         <div class="titelei">
         
-        <i itemprop="author">Christian Erlinger, Jens Bemme</i>
+        <i itemprop="author">Philipp Falkenburg</i>
         
     </div>
 
@@ -163,23 +157,11 @@
         <div class="titelei">
             
               
-              
-            <i itemprop="author">Christian Erlinger</i> 
-            
-            
-               
-            </i><i itemprop="author">Jens Bemme</i>
-            
-            
             
         </div>
  -->
 
 
-
-        
-
-        <p><small itemprop="description">Die Autoren skizzieren, dass insbesondere lokales und regionales Wissen mit Wikis entsteht und dauerhaft bleibt – als Regionalia in globalen offenen Linkzusammenhängen. <q>Grass Root Open Access</q> bedeutet nicht nur, Publikationen auf selbst gezimmerte Art und Weise frei und unter offener Lizenz zu publizieren (<q>I have published my pdf under a cc license on my personal website</q>). <q>Grass Root Open Science</q> bedeutet auch, den Inhalt, die Daten und Bilder &mdash; das Wissen einer publizistischen Arbeit an sich frei, offen und reproduzierbar zu veröffentlichen. Am Beispiel der <q>Wikifizierung</q> einer gedruckten, heimatkundlichen Buchpublikation wird gezeigt, wie mit Graswurzelstrategien im Wikiversums Open Science entsteht.<br> Wir skizzieren einen solchen Prozess als 'linked open': Methoden und Effekte regionaler Datenpflege als demokratisierende Praxis mittels Citizen Science, mit Blick auf Technologien und Gemeinschaften. Potentiell beeinflussen wir mit offenen, wiki-basierten und damit dezentralen Wissenssystemen die Kalkulation und Rentabilität öffentlicher und quasi-öffentlicher Investitionen in Bildungsressourcen, Informationsinfrastrukturen, Forschung und Entwicklung.</small></p>
 
         
 
@@ -194,18 +176,10 @@
             Zitiervorschlag
             <br>
             
+             
+            "Praxisbericht institutionalisiertes Grassroots Open Access : Beitrag der Vernetzungs- und Kompetenzstelle Open Access Brandenburg (VuK) zum Open Access Tracking Project (OATP) ".
             
-            Christian Erlinger,
-            
-            
-            
-            Jens Bemme,
-            
-            
-            
-            "Kamptaler Sakrallandschaften im Wikiversum. Edits mit Versionsgeschichte: Elementarteilchen offener Wissensproduktion am Beispiel eines Citizen Science-Projektes".
-            
-            <i itemprop="provider">LIBREAS. Library Ideas</i>, 44 (<span itemprop="datePublished">2023</span>). <a itemprop="url" href="https://libreas.eu/ausgabe44/erlinger-bremme/meta.yaml">https://libreas.eu/ausgabe44/erlinger-bremme/meta.yaml</a>
+            <i itemprop="provider">LIBREAS. Library Ideas</i>, 44 (<span itemprop="datePublished">2023</span>). <a itemprop="url" href="https://libreas.eu/ausgabe44/falkenburg/meta.yaml">https://libreas.eu/ausgabe44/falkenburg/meta.yaml</a>
         </small>
         <hr>
     </p>
@@ -237,7 +211,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2023-12-20</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2023-12-21</a>)</p>
 
 </footer>
       </div>
