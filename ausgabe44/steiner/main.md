@@ -5,7 +5,7 @@ Vielfalt zugunsten techno-solutionistischer Implementationen ins
 Hintertreffen gerät oder gar mittelfristig verloren geht. Der
 vorliegende Beitrag geht im Folgenden daher näher auf den Ansatz des
 **scholar-led publishing** ein und zeigt auf, welche Zusammenhänge
-zwischen scholar-ledInitiativen und der 'klassischen'
+zwischen scholar-led-Initiativen und der 'klassischen'
 Open-Access-Bewegung bestehen.
 
 Dazu beginne ich mit einer kurzen Begrifflichkeits- und

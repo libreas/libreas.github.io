@@ -34,7 +34,7 @@
     <meta property="dc:source" content="LIBREAS. Library Ideas" />
     <meta property="dc:subject" content="Library and Information Science" />
     <meta property="dc:type" content="website" />
-    <meta property="dc:description" content=""/>
+    <meta property="dc:description" content="In den 2010er Jahren begann die Diskussion über Makerspaces in Bibliotheken als Reaktion auf die Digitalisierung und den Wunsch nach neuen Nutzungsmöglichkeiten. Diese Räume erweiterten Bibliotheken zu kollaborativen Zentren für digitales Gestalten und gemeinsame Tool-Anwendung. Sie fördern dabei kreative Zusammenarbeit und Kompetenzvermittlung in Hinblick auf digitale Verfahren. Der vorliegende Text ist als Vorlage für die weitere Beschäftigung mit Makerspaces und Library Labs in wissenschaftlichen Bibliotheken gedacht. Dafür betrachtet er Beispiele aus wissenschaftlichen Bibliotheken und diskutiert Ziele, Konzepte sowie Ausstattungsanforderungen. Diese werden in einer Übersicht zu Konzeptmerkmalen sowie einer Makerspace-Matrix zusammengefasst. Es wird deutlich, dass Digital Makerspaces und Library Labs agile Innovationsorte sind, die über unterschiedliche Formate und Methoden wie Co-Creating und Peer-to-Peer-Lernen interdisziplinäre Zusammenarbeit und inklusives Lernen fördern."/>
     <meta property="dc:source" resource="urn:ISSN:1860-7950" /> 
 
 <!-- Google Scholar -->
@@ -83,7 +83,7 @@
 
   <nav class="sidebar-nav">
 
-    	<a class="sidebar-nav-item" href="/ausgabe43/">Aktuelle Ausgabe</a>
+    	<a class="sidebar-nav-item" href="/ausgabe44/">Aktuelle Ausgabe</a>
 	<a class="sidebar-nav-item" href="/archiv.htm">Archiv</a>
 	<a class="sidebar-nav-item" href="http://edoc.hu-berlin.de/browsing/libreas/">edoc pdf-Archiv</a>
 	<a class="sidebar-nav-item" href="/autorinnen">Autor*innen</a>
@@ -127,8 +127,9 @@
 
 <div align="right">
 
-<strong> > > > <a href="inhalt.htm">LIBREAS. Library Ideas # 44</a></strong> <br><br>
+<strong> > > > <a href="/ausgabe44/inhalt/">LIBREAS. Library Ideas # 44</a></strong> <br><br>
 </div>
+
 
 
 
@@ -176,6 +177,16 @@
 
 
         
+
+        <p><small itemprop="description">In den 2010er Jahren begann die Diskussion über Makerspaces in Bibliotheken als Reaktion auf die Digitalisierung und den Wunsch nach neuen Nutzungsmöglichkeiten. Diese Räume erweiterten Bibliotheken zu kollaborativen Zentren für digitales Gestalten und gemeinsame Tool-Anwendung. Sie fördern dabei kreative Zusammenarbeit und Kompetenzvermittlung in Hinblick auf digitale Verfahren. Der vorliegende Text ist als Vorlage für die weitere Beschäftigung mit Makerspaces und Library Labs in wissenschaftlichen Bibliotheken gedacht. Dafür betrachtet er Beispiele aus wissenschaftlichen Bibliotheken und diskutiert Ziele, Konzepte sowie Ausstattungsanforderungen. Diese werden in einer Übersicht zu Konzeptmerkmalen sowie einer Makerspace-Matrix zusammengefasst. Es wird deutlich, dass Digital Makerspaces und Library Labs agile Innovationsorte sind, die über unterschiedliche Formate und Methoden wie Co-Creating und Peer-to-Peer-Lernen interdisziplinäre Zusammenarbeit und inklusives Lernen fördern.</small></p>
+
+        
+
+        
+
+        <br>
+
+        <p><small itemprop="description">In the 2010s, the discussion about makerspaces in libraries began as a reaction to digitalisation and the desire for new ways of use. These spaces expanded libraries into collaborative centres for digital creation and joint tool use. They encourage creative collaboration and skills transfer with regard to digital processes. This text is intended as a starting point for further exploration of makerspaces and library labs in academic libraries. To this end, it examines examples from academic libraries and discusses objectives, concepts as well as equipment requirements. These are summarised in an overview of concept features and a makerspace matrix. It emerges that digital makerspaces and library labs are agile places of innovation that promote interdisciplinary collaboration and inclusive learning through different formats and methods such as co-creation and peer-to-peer learning.</small></p>
 
         
 
@@ -231,7 +242,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2023-12-22</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2023-12-29</a>)</p>
 
 </footer>
       </div>

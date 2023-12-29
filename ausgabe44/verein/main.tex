@@ -1,0 +1,252 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage[babel]{csquotes}
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage[labelformat=empty]{caption} % option 'labelformat=empty]' to surpress adding "Abbildung 1:" or "Figure 1" before each caption / use parameter '\captionsetup{labelformat=empty}' instead to change this for just one caption
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+\setcapindent{0pt} % no indentation in captions
+\usepackage{xurl} % Breaks URLs
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+% typo setup
+\clubpenalty = 10000
+\widowpenalty = 10000
+\displaywidowpenalty = 10000
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+\usepackage{breakurl}
+
+%meta
+
+%meta
+
+\fancyhead[L]{Vorstand LIBREAS-Verein\\ %author
+LIBREAS. Library Ideas, 44 (2023). % journal, issue, volume.
+%\href{https://doi.org/10.18452/...}{\color{black}https://doi.org/10.18452/...}
+{}} % doi 
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/4.0/}{\color{black}Creative Commons BY 4.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{In eigener Sache: Bericht über die Aktivitäten des LIBREAS-Vereins 2022/2023}}% title
+\author{Vorstand LIBREAS-Verein} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={In eigener Sache: Bericht über die Aktivitäten des LIBREAS-Vereins 2022/2023},
+      pdfauthor={Vorstand LIBREAS-Verein},
+      pdfcopyright={CC BY 4.0 International},
+      pdfsubject={LIBREAS. Library Ideas, 44 (2023)},
+      pdfkeywords={Vereinsbericht, LIBREAS},
+      pdflicenseurl={https://creativecommons.org/licenses/by/4.0/},
+      pdfcontacturl={http://libreas.eu},
+      baseurl={},
+      pdflang={de},
+      pdfmetalang={de},
+      pdfdoi={10.18452/...},
+      pdfurl={https://doi.org/10.18452/...}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+
+%body
+\emph{Vorbemerkung: Die Mitgliederversammlung des LIBREAS-Vereins hat in
+ihrer Sitzung vom 29.11.2022 beschlossen, dass der Vereinsvorstand den
+Bericht über die Vereinsaktivitäten im Sinne der Transparenz künftig (in
+gekürzter Form) jeweils in der auf die Mitgliederversammlung folgenden
+Ausgabe der LIBREAS.Library Ideas veröffentlicht. Personenbeziehbare
+Daten werden dabei ausgelassen, sofern nicht die ausdrückliche
+Zustimmung der betreffenden Person(en) vorliegt. Ebenso werden Details
+ausgelassen, die das Vereinsvermögen betreffen. Sie können durch
+Mitglieder des Vereins beim Vereinsvorstand jederzeit erfragt werden
+beziehungsweise werden in den Protokollen der Versammlungen
+aufgeschlüsselt und mit den Mitgliedern geteilt.}
+
+\hypertarget{berichtszeitraum}{%
+\section{Berichtszeitraum}\label{berichtszeitraum}}
+
+Der Bericht bezieht sich auf den Zeitraum von der Mitgliederversammlung
+2022 (29.11.2022) bis zur Mitgliederversammlung 2023 (15.11.2023).
+
+\hypertarget{vorstand}{%
+\section{Vorstand}\label{vorstand}}
+
+Dem Vereinsvorstand gehörten im Berichtszeitraum Matti Stöhr
+(Vorsitzender), Dr.~Karsten Schuldt (stellvertretender Vorsitzender),
+Jana Rumler (Schriftleiterin), Dr.~Maxi Kindling (Finanzerin) und Ben
+Kaden (Ressort LIBREAS.Library Ideas) an. Der Vorstand hat sich
+regelmäßig getroffen und bei Bedarf virtuell ausgetauscht.
+
+\hypertarget{mitglieder}{%
+\section{Mitglieder}\label{mitglieder}}
+
+Der LIBREAS-Verein hat 52 Mitglieder (Stand 15.11.2023). Davon waren 49
+persönliche Mitglieder sowie drei Fördermitglieder.
+
+\hypertarget{vereinsfinanzen}{%
+\section{Vereinsfinanzen}\label{vereinsfinanzen}}
+
+Die Einnahmen des LIBREAS-Vereins setzten sich im Haushaltsjahr
+2022/2023 aus den Mitgliedsbeiträgen und Spenden zusammen. Ausgaben
+wurden getätigt für das Hosting der Webauftritte, Kontoführungsgebühren
+und die Servicepauschale für die L4F-Website. Darüber hinaus waren die
+größten Ausgabenposten ein Stipendium sowie ein Freiticket für die
+Open-Access-Tage 2023 in Berlin. Die Kasse wird jährlich geprüft und das
+Ergebnis im Rahmen der Mitgliederversammlung berichtet. Es gab keine
+Beanstandungen.
+
+\hypertarget{redaktion}{%
+\section{Redaktion}\label{redaktion}}
+
+Der Schwerpunkt der Vorstands- und der Vereinstätigkeit liegt in der
+Redaktion der LIBREAS. Im Berichtszeitraum lagen die Ausgaben
+\href{https://libreas.eu/ausgabe43/inhalt/}{\#43 Soziologie der
+Bibliothek} sowie
+\href{https://libreas.wordpress.com/2023/05/04/cfp-44-grassroots-open-access/}{\#44
+Grassroots Open Access}.
+
+Im Mai 2023 gab es eine gemeinsame Veranstaltung von LIBREAS und der
+Vernetzungs- und Kompetenzstelle Open Access Brandenburg (vergleiche
+\href{https://open-access-brandenburg.de/einladung-zum-33-open-access-smalltalk-grass-roots-open-access-gemeinsam-mit-libreas-e-v/}{Einladung
+zum 33. Open-Access-Smalltalk \enquote{Grassroots Open Access}}).
+
+\hypertarget{kommunikation}{%
+\section{Kommunikation}\label{kommunikation}}
+
+Der Social-Media-Kanal
+\href{https://twitter.com/libreas}{LIBREAS.Twitter} wurde bis circa
+Oktober 2023 mehr oder weniger regelmäßig bespielt. Aufgrund der
+aktuellen Entwicklungen auf der Plattform wird eine Weiterführung
+vorerst ausgesetzt. Parallel wurde der
+\href{https://openbiblio.social/@libreas}{LIBREAS.Mastodon}-Kanal
+aufgebaut. Zusätzlich wurde in geringem Maß der
+\href{https://www.instagram.com/libreas.libraryideas/}{LIBREAS.Instagram}-Kanal
+gepflegt.
+
+\hypertarget{stipendien}{%
+\section{Stipendien}\label{stipendien}}
+
+Für die Teilnahme an den Open-Access-Tagen 2023 wurde ein Stipendium in
+Höhe von 300,00 Euro vergeben. Der Stipendiat wird einen Bericht für die
+LIBREAS verfassen. Der Verein hat sich zudem an der in diesem Jahr
+erstmals durchgeführten Freiticket-Aktion bei den Open-Access-Tagen 2023
+beteiligt und ein Freiticket gesponsert.
+
+\hypertarget{libraries4future}{%
+\section{Libraries4Future}\label{libraries4future}}
+
+Der Vereinsvorstand hat sich bei der Verbreitung von Informationen via
+\href{https://climatejustice.global/@libraries4future}{Mastodon}
+eingebracht. Der
+\href{https://twitter.com/Libraries4F}{Twitter/X}-Account wird nicht
+mehr bespielt. Der Verein unterstützte weiterhin die Betreuung der
+\href{https://libraries4future.org/}{F4F-Website} finanziell. Die
+Initiative sucht weiterhin nach Menschen, die sich aktiv einbringen
+können. L4F-Material kann jederzeit bestellt werden.
+
+\hypertarget{website-des-vereins}{%
+\section{Website des Vereins}\label{website-des-vereins}}
+
+Aufgrund eines technischen Problems war die Website des Vereins längere
+Zeit nicht erreichbar. Das Problem ist inzwischen behoben.
+
+\hypertarget{teilnahme-an-veranstaltungen-fuxfcr-libreaslibreas-vereinsvorstand}{%
+\section{Teilnahme an Veranstaltungen für
+LIBREAS/LIBREAS-Vereinsvorstand**}\label{teilnahme-an-veranstaltungen-fuxfcr-libreaslibreas-vereinsvorstand}}
+
+Am 06.10.2023 nahmen zwei Vorstandsmitglieder am vom Institut für
+Bibliotheks- und Informationswissenschaft der Humboldt-Universtät zu
+Berlin und dem Einstein Center Digital Futures ausgerichtete
+Veranstaltung
+\href{https://www.digital-future.berlin/aktuelles/aktuelles-im-detail/news/recap-edit-a-thon-fuer-mehr-diversitaet-in-der-wikipedia1/?tx_news_pi1\%5Bcontroller\%5D=News\&tx_news_pi1\%5Baction\%5D=detail\&cHash=0b82716e054f4337bb13e5e04b7ce765}{\enquote{Edit-a-thon:
+Diversität in Wikipedia-Beträgen zur Bibliotheks- und
+Informationswissenschaft}} teil.
+
+Am 03.11.2023 beteiligte sich LIBREAS an der ersten digitalen
+Sprechstunde des
+\href{https://www.bib-info.de/berufspraxis/medien-an-den-raendern}{Netzwerkes
+\enquote{Medien an den Rändern}}.
+
+Am 21.11.2023 nahm LIBREAS am ersten Treffen der
+\enquote{\href{https://chaos.social/@fuzzyleapfrog/111362578487652002}{Queerbrarians}}
+teil.
+
+%autor
+
+\end{document}
