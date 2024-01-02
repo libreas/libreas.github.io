@@ -1,3 +1,3 @@
-**Kurzfassung**: Logical Methods in Computer Science ist eine wissenschaftsgesteuerte Diamond-Open-Access-Zeitschrift im Gebiet der Theoretischen Informatik. Wir berichten über die Entwicklung der Zeitschrift seit ihrer Gründung in 2004 und stellen Herausforderung und Erfolgsfaktoren dar.
+**Kurzfassung**: *Logical Methods in Computer Science* ist eine wissenschaftsgesteuerte Diamond-Open-Access-Zeitschrift im Gebiet der Theoretischen Informatik. Wir berichten über die Entwicklung der Zeitschrift seit ihrer Gründung in 2004 und stellen Herausforderungen und Erfolgsfaktoren dar.
 
-**Abstract**: Logical Method in Computer Science is a scholar-led diamond open access journal in theoretical computer science. We report on the development of the journal since its foundation in 2004 discuss challenges and success factors.
+**Abstract**: *Logical Method in Computer Science* is a scholar-led diamond open access journal in theoretical computer science. We report on the development of the journal since its foundation in 2004 and discuss challenges and success factors.

@@ -34,7 +34,7 @@
     <meta property="dc:source" content="LIBREAS. Library Ideas" />
     <meta property="dc:subject" content="Library and Information Science" />
     <meta property="dc:type" content="website" />
-    <meta property="dc:description" content="Logical Methods in Computer Science ist eine wissenschaftsgesteuerte Diamond-Open-Access-Zeitschrift im Gebiet der Theoretischen Informatik. Wir berichten über die Entwicklung der Zeitschrift seit ihrer Gründung in 2004 und stellen Herausforderung und Erfolgsfaktoren dar."/>
+    <meta property="dc:description" content="&lt;i&gt;Logical Methods in Computer Science&lt;/i&gt; ist eine wissenschaftsgesteuerte Diamond-Open-Access-Zeitschrift im Gebiet der Theoretischen Informatik. Wir berichten über die Entwicklung der Zeitschrift seit ihrer Gründung in 2004 und stellen Herausforderungen und Erfolgsfaktoren dar."/>
     <meta property="dc:source" resource="urn:ISSN:1860-7950" /> 
 
 <!-- Google Scholar -->
@@ -178,7 +178,7 @@
 
         
 
-        <p><small itemprop="description">Logical Methods in Computer Science ist eine wissenschaftsgesteuerte Diamond-Open-Access-Zeitschrift im Gebiet der Theoretischen Informatik. Wir berichten über die Entwicklung der Zeitschrift seit ihrer Gründung in 2004 und stellen Herausforderung und Erfolgsfaktoren dar.</small></p>
+        <p><small itemprop="description"><i>Logical Methods in Computer Science</i> ist eine wissenschaftsgesteuerte Diamond-Open-Access-Zeitschrift im Gebiet der Theoretischen Informatik. Wir berichten über die Entwicklung der Zeitschrift seit ihrer Gründung in 2004 und stellen Herausforderungen und Erfolgsfaktoren dar.</small></p>
 
         
 
@@ -186,7 +186,7 @@
 
         <br>
 
-        <p><small itemprop="description">Logical Method in Computer Science is a scholar-led diamond open access journal in theoretical computer science. We report on the development of the journal since its foundation in 2004 discuss challenges and success factors.</small></p>
+        <p><small itemprop="description"><i>Logical Method in Computer Science</i> is a scholar-led diamond open access journal in theoretical computer science. We report on the development of the journal since its foundation in 2004 and discuss challenges and success factors.</small></p>
 
         
 
@@ -242,7 +242,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2023-12-29</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2024-01-02</a>)</p>
 
 </footer>
       </div>

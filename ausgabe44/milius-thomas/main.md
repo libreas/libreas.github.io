@@ -71,13 +71,13 @@ begründete.
 ### Die Anfangsphase
 
 Beginnend mit dem 2. Quartal 2005 erschien LMCS zunächst mit 16 Artikeln
-und einer Special Issue.
+und eines Special Issue.
 
 Die Prominenz des ersten Editorial Boards und der ersten Autor/inn/en
-war aber nur eine Ebene der LMCS. Ein anderer Aspekt betraf die
+war aber nur eine Ebene von LMCS. Ein anderer Aspekt betraf die
 Herausbildung einer funktionsfähigen technischen Infrastruktur. Von
 Beginn an wurde LMCS als Overlay von arXiv.org konzipiert, also auf
-Basis des Publikationsservers ArXiv der Cornell University -- wie eine
+Basis des Publikationsservers ArXiv der Cornell University und wie eine
 klassische Zeitschrift mit "Volumes" und "Issues" organisiert, um auch
 durch die Zitationen die Akzeptanz bei der Community zu erreichen. Vor
 der eigentlichen Publikation stand aber als kritische Hürde die
@@ -89,9 +89,9 @@ Begutachtung befasster Personen, die alle eine gemeinsame technische
 Plattform brauchen. Dabei geht es nicht nur um den Austausch von
 Manuskripten und Gutachten, sondern auch um Mahnungen,
 Begleitkorrespondenz und dergleichen. Anfangs wurde eine Onlineplattform
-basierend auf dem Open Journal Systems (OJS) von 2004 beim Lehrstuhl von
-Jiří Adámek -- unter anderem mit eigenem Peer-Review-System,
-Unterstützung von Special Issues -- um- und weiterentwickelt. In den
+basierend auf dem Open Journal System (OJS) von 2004 beim Lehrstuhl von
+Jiří Adámek (unter anderem mit eigenem Peer-Review-System,
+Unterstützung von Special Issues) um- und weiterentwickelt. In den
 Anfangsjahren war die Arbeit an dieser Plattform eine große
 Herausforderung. Das Team von Jiří Adámek verbrachte zahllose Stunden
 (auch schlaflose Nächte) mit dieser Aktivität. Nicht zuletzt musste
@@ -263,7 +263,7 @@ Informatik publiziert.[^4] Dagstuhl stellt hier die gesamte
 Publikationsinfrastruktur basierend auf OJS zur Verfügung inklusive
 eines hervorragenden technischen Supports. Allerdings ist die Reihe
 nicht Diamond Open Access -- es gibt bei den LIPIcs Autorengebühren, die
-mit wenigen Hundert Euro pro Artikel zugegebenermaßen relativ gering
+mit weniger als Hundert Euro pro Artikel zugegebenermaßen relativ gering
 sind. Für Konferenzen stellt dies daher kein allzu großes Problem dar,
 da diese Autorengebühren relativ leicht in den Teilnahmegebühren der
 Konferenz verschwinden. Für eine Zeitschrift sieht dies aber anders aus,
@@ -365,7 +365,7 @@ Insgesamt ist die Entwicklung von LMCS bis hierher eine
 Erfolgsgeschichte. Die Zeitschrift veröffentlicht aktuell zwischen 100
 und 120 Artikel im Jahr, ist damit bei weitem die größte Zeitschrift bei
 Episciences und eine der international führenden im Bereich ihres
-Themenspektrums. Dies durch mehrere Faktoren möglich: Zunächst durch das
+Themenspektrums. Dies wurde durch mehrere Faktoren möglich: Zunächst durch das
 Engagement einer kleinen Gruppe von anfänglichen Gründern sowie die
 Tatsache, dass in einer Zeit, als es praktisch noch keine sonstigen
 Finanzierungsmöglichkeiten für Diamond Open Access gab, ein deutscher
@@ -440,7 +440,7 @@ Zeitschrift wie LMCS wurde selbst von den Universitäten der für die
 Zeitschrift verantwortlichen Wissenschaftler/innen nicht unterstützt.
 
 Eine spürbare Abhilfe für dieses Problem versprechen aktuelle
-Initiativen wie das KOALA-Projekt der TIB Hannover, das Zeitschriften
+Initiativen wie das KOALA-Projekt der TIB Hannover (<https://projects.tib.eu/koala/>), das Zeitschriften
 auf der einen Seite und Geldgeber wie Universitätsbibliotheken auf der
 anderen Seite im Rahmen einer konsortialen Finanzierung zusammenführt.
 LMCS nimmt zusammen mit sechs weiteren Zeitschriften im Bereich
