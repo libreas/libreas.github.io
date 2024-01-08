@@ -11,7 +11,7 @@ final
 \usepackage[babel]{csquotes}
 \usepackage{synttree}
 \usepackage{graphicx}
-\setkeys{Gin}{width=.4\textwidth} %default pics size
+\setkeys{Gin}{width=.6\textwidth} %default pics size
 
 \graphicspath{{./plots/}}
 \usepackage[ngerman]{babel}
@@ -39,6 +39,7 @@ final
 \usepackage[flushmargin,ragged]{footmisc} % left align footnote
 \usepackage{ccicons} 
 \setcapindent{0pt} % no indentation in captions
+\usepackage{xurl} % Breaks URLs
 
 %%%% fancy LIBREAS URL color 
 \usepackage{xcolor}
@@ -87,7 +88,7 @@ breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
 
 \fancyhead[L]{E. Corredera \& Valérie Andres\\ %author
 LIBREAS. Library Ideas, 44 (2023). % journal, issue, volume.
-%\href{https://doi.org/10.18452/x}{\color{black}https://doi.org/10.18452/x}
+%\href{https://doi.org/10.18452/27071}{\color{black}https://doi.org/10.18452/27071}
 {}} % doi 
 \fancyhead[R]{\thepage} %page number
 \fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/4.0/}{\color{black}Creative Commons BY 4.0}}  %licence
@@ -123,67 +124,54 @@ LIBREAS. Library Ideas, 44 (2023). % journal, issue, volume.
 \begin{abstract}
 \noindent
 \textbf{Kurzfassung}: «GOAL -- Unlocking the Green Open Access
-Potential» (\href{https://opengoal.ch/}{https://open goal.ch/}) ist die kollektive Bestrebung
+Potential» (\url{https://opengoal.ch/}) ist die kollektive Bestrebung
 einer Gruppe von wissenschaftlichen Bibliotheken zur Förderung des
 bisher wenig beachteten Potentials von Grün Open Access in der Schweizer
-Publikationslandschaft. 
+Publikationslandschaft. Nicht oder nur marginal im Fokus der Nationalen
+Open-Access-Strategie der Schweiz sind die Fachhochschulen und
+Pädagogischen Hochschulen sowie kleine landessprachliche Verlage.
+Zunehmend seltener anerkannt wird auch der Weg der
+Open-Access-Zweitveröffentlichung oder «Grün Open Access». Es scheint,
+als ob sich der Ball bei der Umsetzung von Open Access zunehmend im
+Besitz der «Read \& Publish» Verträge und in der Förderung des Goldenen
+Weges befindet. Die «grüne Alternative» führt ein wenig wahrgenommenes
+Schattendasein am Rande des Spielfeldes und gilt als wenig attraktiv.
+Offenbar können auch die Argumente der Nachhaltigkeit und der erhöhten
+Sichtbarkeit nicht genügend überzeugen. Aus Sicht des Projektes GOAL
+eröffnet der Grüne Weg jedoch einen in der Schweiz noch wenig genutzten
+Handlungsspielraum, der sich jenseits der grossen Verlage oder bekannten
+Universitäten befindet und ein nicht zu unterschätzendes Potential hat.
+Das ist der Moment, in dem wir das Auge auf praxisorientierte
+Zeitschriften richten, welche von kleinen Verlagen, Fachgesellschaften
+oder öffentlichen Institutionen in den verschiedenen Landessprachen
+publiziert werden. Diese Zeitschriften haben bisher noch wenig Beachtung
+erhalten, obwohl sie eine entscheidende Rolle für Forschende an Fach-
+sowie Pädagogischen Hochschulen spielen. Hier ist das Spielfeld noch
+wenig besetzt und Open Access kann, unter Berücksichtigung der
+Ressourcen der Redaktionen und Hochschulen, noch aufgebaut werden. In
+unserem Beitrag stellen wir das Projekt vor, präsentieren die Ergebnisse
+von anderthalb Jahren Arbeit und stellen diese zur Diskussion.
 
-Nicht oder nur marginal im Fokus der Nationalen
-Open-Access-Strategie sind die Fachhochschulen und Pädagogischen
-Hochschulen sowie kleine landessprachliche Verlage. Zunehmend seltener
-anerkannt wird auch der Weg der Open-Access-Zweitveröffentlichung oder
-«Grün Open Access». Es scheint, als ob sich der Ball bei der Umsetzung
-von Open Access zunehmend im Besitz der «Read \& Publish» Verträge und
-in der Förderung des Goldenen Weges befindet. 
-
-Die «grüne Alternative»
-führt ein wenig wahrgenommenes Schattendasein am Rande des Spielfeldes
-und gilt als wenig attraktiv. Offenbar können auch die Argumente der
-Nachhaltigkeit und der erhöhten Sichtbarkeit nicht genügend überzeugen.
-Aus Sicht des Projektes GOAL eröffnet der Grüne Weg jedoch einen in der
-Schweiz noch wenig genutzten Handlungsspielraum, der sich jenseits der
-grossen Verlage oder bekannten Universitäten befindet und ein nicht zu
-unterschätzendes Potential hat. Das ist der Moment, in dem wir das Auge
-auf praxisorientierte Zeitschriften richten, welche von kleinen
-Verlagen, Fachgesellschaften oder öffentlichen Institutionen in den
-verschiedenen Landessprachen publiziert werden. 
-
-Diese Zeitschriften
-haben bisher noch wenig Beachtung erhalten, obwohl sie eine
-entscheidende Rolle für Forschende an Fach- sowie Pädagogischen
-Hochschulen spielen. Hier ist das Spielfeld noch wenig besetzt und Open
-Access kann, unter Berücksichtigung der Ressourcen der Redaktionen und
-Hochschulen, noch aufgebaut werden. In unserem Beitrag stellen wir das
-Projekt vor, präsentieren die Ergebnisse von anderthalb Jahren Arbeit
-und stellen diese zur Diskussion.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\noindent \textbf{Abstract}: \lq{}GOAL -- Unlocking the Green Open Access Potential\rq{}
-(\href{https://opengoal.ch/}{https://opengoal. ch/}) is the collective effort of a group of
+\textbf{Abstract}: ``GOAL -- Unlocking the Green Open Access Potential''
+(\url{https://opengoal.ch/}) is the collective effort of a group of
 academic libraries to promote the hitherto little-noticed potential of
-Green Open Access in the Swiss publishing landscape. 
-
-Universities of
+Green Open Access in the Swiss publishing landscape. Universities of
 applied sciences and of teacher education as well as small publishers in
 vernacular languages have until now been only marginally in the focus of
 the Swiss National Open Access Strategy. Similarly, the option of
-self-archiving or \lq{}Green Open Access\rq{} is hardly recognized as a
-solution. \lq{}Read \& publish\rq{} agreements and the \lq{}Gold Open Access\rq{}
+self-archiving or ``Green Open Access'' is hardly recognized as a
+solution. ``Read \& publish'' agreements and the ``Gold Open Access''
 option seem to be the preferred and most promoted forms of implementing
-Open Access. 
-
-The \lq{}green alternative\rq{} lives thus a little-perceived
+Open Access. The ``green alternative'' lives thus a little-perceived
 shadowy existence on the fringes of the field and is seen as having
 little appeal. Apparently, the arguments of sustainability and increased
 visibility are not convincing enough either. From the point of view of
-the GOAL project, however, the \lq{}green path\rq{} opens up a scope for
+the GOAL project, however, the ``green path'' opens up a scope for
 action that is still little used in Switzerland, which lies beyond the
 big publishing houses and well-known universities and has a potential
 that should not be underestimated. It is time to turn our attention to
 practice-oriented journals published by small publishers, professional
 societies, or public institutions in the various national languages.
-
 These journals have so far received little attention, even though they
 play a crucial role for researchers at universities of applied sciences
 as well as universities of teacher education. Here, the playing field is
@@ -397,7 +385,7 @@ entstanden. Zudem haben wir aktiv an verschiedenen grösseren
 Veranstaltungen -- wie den Open-Access-Tagen 2022 in Bern und 2023 in
 Berlin -- teilgenommen.\footnote{Zenodo Community für
   Projektpublikationen, siehe
-  \url{https://zenodo.org/communities/goal/?page=1&size=20}
+  \url{https://zenodo.org/communities/goal/?page=1\&size=20}
 
   Poster Open-Access-Tage 2022: Wie das GOAL-Projekt nachhaltige
   Kollaborationen zwischen Menschen, Maschinen und Strukturen fördert,
@@ -431,6 +419,7 @@ bei der die Website der Zeitschrift im Zentrum steht, sammeln wir
 Informationen zu folgenden Punkten:
 
 \begin{itemize}
+\tightlist
 \item
   Unterscheidung wissenschaftliche oder praxisorientierte Zeitschrift,
 \item
@@ -481,11 +470,11 @@ Website gefunden werden. Als Alternative kann eine verkürzte Version der
 Richtlinien im Impressum oder den Autor:innenrichtlinien aufgeführt
 werden.
 
-\pagebreak
 Folgende Punkte stellen aus Sicht des GOAL-Projektes ein ideales
 Verhandlungsergebnis dar:
 
 \begin{itemize}
+\tightlist
 \item
   Nutzungslizenz CC BY, Rechte an Drittmaterialien geklärt
 \item
@@ -504,26 +493,27 @@ In der Praxis lassen sich unerwartete Fragen oder unbeachtete
 Perspektiven seitens der Redaktionen nicht komplett vermeiden;
 Anpassungen und Kompromisse sind nötig, um eine Policy zu vereinbaren.
 
-Anhand einer Zeitschrift aus der Bundesverwaltung, einer öffentlichen
-Institution, möchten wir unsere Herausforderungen und Learnings
-beschreiben: Die Autor:innen der Zeitschrift stammen aus Verwaltung,
-Versicherungen, Sozialen Institutionen sowie aus der Forschung. Seit
-2021 erscheint die Zeitschrift ausschliesslich in elektronischer
-Version. Die Artikel sind frei zugänglich, jedoch -- mit Verweis auf
-integrierte Drittmaterialien -- ohne freie Lizenz. Es wurde entschieden,
-kein separates Dokument für die Policy zu erstellen, sondern einen
-Hinweis im Impressum auf der Website anzubringen (vergleiche Abbildung
-1). Der zuvor schon existierende Hinweis zum Copyright sollte
-beibehalten und um die Open Access Policy ergänzt werden. Von GOAL
-wurden zwei denkbare Varianten für die Formulierung einer Policy zur
-Verfügung gestellt, die danach im Team der Zeitschrift besprochen und an
-gewissen Stellen angepasst wurden. Nachdem die Redaktion sich für die
-endgültige Version entschieden hatte, wurde der deutsche Text von einem
-Mitglied des GOAL-Teams ergänzend ins Französische übersetzt.
+Anhand einer Zeitschrift aus der schweizerischen Bundesverwaltung, einer
+öffentlichen Institution, möchten wir unsere Herausforderungen und
+Learnings beschreiben. Die Autor:innen der Zeitschrift stammen aus
+Verwaltung, Versicherungen, Sozialen Institutionen sowie aus der
+Forschung. Seit 2021 erscheint die Zeitschrift ausschliesslich in
+elektronischer Version. Die Artikel sind frei zugänglich, jedoch -- mit
+Verweis auf integrierte Drittmaterialien -- ohne freie Lizenz. Es wurde
+entschieden, kein separates Dokument für die Policy zu erstellen,
+sondern einen Hinweis im Impressum auf der Website anzubringen
+(vergleiche Abbildung 1). Der zuvor schon existierende Hinweis zum
+Copyright sollte beibehalten und um die Open Access Policy ergänzt
+werden. Von GOAL wurden zwei denkbare Varianten für die Formulierung
+einer Policy zur Verfügung gestellt, die danach im Team der Zeitschrift
+besprochen und an gewissen Stellen angepasst wurden. Nachdem die
+Redaktion sich für die endgültige Version entschieden hatte, wurde der
+deutsche Text von einem Mitglied des GOAL-Teams ergänzend ins
+Französische übersetzt.
 
-\begin{figure}[h!]
+\begin{figure}
 \centering
-\includegraphics[width=0.9\textwidth]{img/andres_corredera_abb1.jpg}
+\includegraphics{img/andres_corredera_abb1.jpg}
 \caption{Abbildung 1: Anweisungen zu Open Access beziehungsweise
 Zweiveröffentlichungsrechten im Impressum der Zeitschrift.}
 \end{figure}
@@ -563,6 +553,7 @@ Publikationsalltag und die damit verbundenen Hürden für die Umsetzung
 von Zweitveröffentlichungen:
 
 \begin{itemize}
+\tightlist
 \item
   OA-light: Erlaubnis zur Zweitveröffentlichung gemäss Urheberrecht auf
   dem Repositorium der Hochschule der Autor:innen. Vergabe einer
@@ -670,6 +661,7 @@ Zusammenfassend haben wir drei grosse Hürden identifiziert, die unsere
 Ergebnisse beeinflussen:
 
 \begin{itemize}
+\tightlist
 \item
   Die Rechteklärung der verwendeten Drittmaterialien in den
   Publikationen erweist sich als grösste Hürde und Fass ohne Boden bei
@@ -690,8 +682,8 @@ Ergebnisse beeinflussen:
 
 Annemark, M. (2017). Open Access och Big Business: hur Open Access blev
 en del av de stora förlagen {[}Open Access and Big Business: How Open
-Access Became a Part of Big Publishing{]}. Lund, Lund University
-(Master thesis). Link online:
+Access Became a Part of Big Publishing{]}. Lund, Lund University (Master
+thesis). Link online:
 \url{https://lup.lub.lu.se/student-papers/search/publication/8923551}
 {[}Accessed 10.10.2023{]}
 
@@ -706,7 +698,7 @@ Fachhochschulen, Hochschulen für angewandte Wissenschaften und
 Pädagogischen Hochschulen -- Ergebnisse zweier Untersuchungen aus
 Baden-Württemberg und der Schweiz» \emph{Informationspraxis}, 8:1
 (Preprint),
-\href{https://via.hypothes.is/https://informationspraxis.files.wordpress.com/2022/03/rosenkranz_etal_2022.pdf}{https://via.hypothes.is/https://informations praxis.files.wordpress.com/2022/03/rosenkranz\_etal\_2022.pdf}
+\url{https://via.hypothes.is/https://informationspraxis.files.wordpress.com/2022/03/rosenkranz_etal_2022.pdf}
 {[}Accessed 10.10.2023{]}
 
 Šimukovič, E. (2023). Of hopes, villains, and Trojan horses: Open Access
@@ -728,8 +720,8 @@ war er Postdoktorand und Lehrbeauftragter an der Universität Bern. Seit
 Januar 2021 arbeitet er an der Hochschulbibliothek der ZHAW (ROR ID:
 \url{https://ror.org/05pmsvm27}), als Teil von Research \&
 Infrastructure. Sein Schwerpunkt ist Open Science. Dr.~Corredera ist
-seit Januar 2022 Projektkoordinator von GOAL. \\
-ORCID ID: \url{https://orcid.org/0000-0002-4909-2415}
+seit Januar 2022 Projektkoordinator von GOAL. ORCID ID:
+\url{https://orcid.org/0000-0002-4909-2415}
 
 \textbf{Valérie Andres} hat Osteuropäische Geschichte und Russisch
 studiert und sich auf Fotografie als historische Quelle spezialisiert.

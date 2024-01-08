@@ -248,9 +248,7 @@ In der Praxis lassen sich unerwartete Fragen oder unbeachtete
 Perspektiven seitens der Redaktionen nicht komplett vermeiden;
 Anpassungen und Kompromisse sind nötig, um eine Policy zu vereinbaren.
 
-Anhand einer Zeitschrift aus der Bundesverwaltung, einer öffentlichen
-Institution, möchten wir unsere Herausforderungen und Learnings
-beschreiben: Die Autor:innen der Zeitschrift stammen aus Verwaltung,
+Anhand einer Zeitschrift aus der schweizerischen Bundesverwaltung, einer öffentlichen Institution, möchten wir unsere Herausforderungen und Learnings beschreiben. Die Autor:innen der Zeitschrift stammen aus Verwaltung,
 Versicherungen, Sozialen Institutionen sowie aus der Forschung. Seit
 2021 erscheint die Zeitschrift ausschliesslich in elektronischer
 Version. Die Artikel sind frei zugänglich, jedoch -- mit Verweis auf
