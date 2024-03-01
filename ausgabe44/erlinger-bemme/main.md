@@ -224,7 +224,7 @@ Commons (und dazu die Erzeugung von Kategorien in Commons zur Sammlung
 von mehreren Mediendateien des gleichen Denkmals).
 
 Da die Daten nicht nur frei verfügbar und nutzbar, sondern auch
-beständig weiter editierbar sind - "it's a wiki!" - wurde bereits
+beständig weiter editierbar sind – "it's a wiki!" – wurde bereits
 während der Drucklegung des Buches die Forschung fortgeführt. So konnten
 Renovierungen von Denkmälern erfasst werden oder auch Fehler, die trotz
 mehrfacher Korrekturläufe erst spät entdeckt wurden, zumindest im
@@ -334,9 +334,9 @@ Wissenschaft: Citizen Science in Kultur und Geisteswissenschaften*.
 
 Munke, Martin 2019. Landesbibliographie und Citizen Science.
 Kooperationsmöglichkeiten für Bibliotheken und Wiki-Communities am
-Beispiel der Sächsischen Bibliograﬁe. *Regionalbibliographien:
+Beispiel der Sächsischen Bibliografie. *Regionalbibliographien:
 Forschungsdaten und Quellen des kulturellen Gedächtnisses: Liber
-amicorum für Ludger Syré*13.
+amicorum für Ludger Syré* 13.
 
 OA 2003. Berliner Erklärung über den offenen Zugang zu
 wissenschaftlichem Wissen.

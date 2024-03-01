@@ -88,10 +88,10 @@ können. L4F-Material kann jederzeit bestellt werden.
 Aufgrund eines technischen Problems war die Website des Vereins längere
 Zeit nicht erreichbar. Das Problem ist inzwischen behoben.
 
-### Teilnahme an Veranstaltungen für LIBREAS/LIBREAS-Vereinsvorstand**
+### Teilnahme an Veranstaltungen für LIBREAS/LIBREAS-Vereinsvorstand
 
 Am 06.10.2023 nahmen zwei Vorstandsmitglieder am vom Institut für
-Bibliotheks- und Informationswissenschaft der Humboldt-Universtät zu
+Bibliotheks- und Informationswissenschaft der Humboldt-Universität zu
 Berlin und dem Einstein Center Digital Futures ausgerichtete
 Veranstaltung ["Edit-a-thon: Diversität in Wikipedia-Beträgen zur
 Bibliotheks- und

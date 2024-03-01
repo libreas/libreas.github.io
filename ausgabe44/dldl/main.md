@@ -24,7 +24,7 @@ unterstützt den Vereinszweck des LIBREAS-Vereins zur Förderung der
 bibliotheks- und informationswissenschaftlichen Kommunikation.
 
 LIBREAS liest gern und viel Open-Access-Veröffentlichungen. Wenn sich
-Beiträge dennoch hinter eine Bezahlschranke verbergen, werden diese
+Beiträge dennoch hinter einer Bezahlschranke verbergen, werden diese
 durch "\[Paywall\]" gekennzeichnet. Zwar macht das Plugin
 [Unpaywall](http://unpaywall.org/) das Finden von legalen
 Open-Access-Versionen sehr viel einfacher. Als Service an der
@@ -33,8 +33,8 @@ jedoch auch direkt. Für alle Beiträge, die dann immer noch nicht frei
 zugänglich sind, empfiehlt die Redaktion Werkzeuge wie den [Open Access
 Button](https://openaccessbutton.org/) oder
 [CORE](https://core.ac.uk/services/discovery/) zu nutzen
-oder auf Twitter mit
-[#icanhazpdf](https://twitter.com/hashtag/icanhazpdf?src=hash)
+sowie auf dem favorisierten Social-Media-Kanal mit
+[#icanhazpdf](https://mastodon.social/tags/icanhazpdf)
 um Hilfe bei der legalen Dokumentenbeschaffung zu bitten.
 
 Die bibliographischen Daten der besprochenen Beiträge aller Ausgaben
