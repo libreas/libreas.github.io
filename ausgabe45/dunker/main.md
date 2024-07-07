@@ -24,7 +24,7 @@ Die Tonaufzeichnungen im Einzelnen:
 #### 1.3 leise Nebengeräusche, leise Gespräche
 
 <audio controls>
-  <source src="audio/1.3 leise Nebengeräusche, leise Gespräche.mp3" type="audio/mpeg">
+  <source src="audio/1.3 leise Nebengeraeusche, leise Gespraeche.mp3" type="audio/mpeg">
 </audio>
 
 #### 1.4 lauter geworden, spielende Kinder: Einschreiten der Bibliothekarin
@@ -35,7 +35,7 @@ Die Tonaufzeichnungen im Einzelnen:
 #### 1.5 höflicher Austausch mit Kundinnen und Kunden
 
 <audio controls>
-  <source src="audio/1.5 höflicher Austausch mit Kunden.mp3" type="audio/mpeg">
+  <source src="audio/1.5 hoeflicher Austausch mit Kunden.mp3" type="audio/mpeg">
 </audio>
 
 ### 2. Im Kulturcafé:
@@ -48,7 +48,7 @@ Die Tonaufzeichnungen im Einzelnen:
 #### 2.2 Umrühren in einer Kaffeetasse
 
 <audio controls>
-  <source src="audio/2.2 Umrühren in einer Kaffeetasse.mp3" type="audio/mpeg">
+  <source src="audio/2.2 Umruehren in einer Kaffeetasse.mp3" type="audio/mpeg">
 </audio>
 
 #### 2.3 lauteres Spiel, steigert sich
@@ -60,7 +60,7 @@ Die Tonaufzeichnungen im Einzelnen:
 #### 2.4 Würfeln bei einem Gesellschaftsspiel
 
 <audio controls>
-  <source src="audio/2.4 Würfeln bei einem Gesellschaftsspiel.mp3" type="audio/mpeg">
+  <source src="audio/2.4 Wuerfeln bei einem Gesellschaftsspiel.mp3" type="audio/mpeg">
 </audio>
 
 Wir möchten mit diesen Aufnahmen dokumentieren, dass es in öffentlichen Bibliotheken inzwischen um einiges lebhafter geworden ist, es aber dennoch nicht an gegenseitiger Rücksichtnahme fehlt.
