@@ -1,0 +1,533 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage[babel]{csquotes}
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage[labelformat=empty]{caption} % option 'labelformat=empty]' to surpress adding "Abbildung 1:" or "Figure 1" before each caption / use parameter '\captionsetup{labelformat=empty}' instead to change this for just one caption
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+\setcapindent{0pt} % no indentation in captions
+\usepackage{xurl} % Breaks URLs
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+% typo setup
+\clubpenalty = 10000
+\widowpenalty = 10000
+\displaywidowpenalty = 10000
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+\usepackage{breakurl}
+
+%meta
+%meta
+
+\fancyhead[L]{I. Hansen-Goos et al.\\ %author
+LIBREAS. Library Ideas, 45 (2024). % journal, issue, volume.
+\href{https://doi.org/10.18452/...}{\color{black}https://doi.org/10.18452/...}
+{}} % doi 
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/4.0/}{\color{black}Creative Commons BY 4.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{Hinter den Geräuschkulissen –- ein Projekt zur akustischen Vermessung des Scharoun-Gebäudes der Staatsbibliothek zu Berlin}} % author
+\author{Ina Hansen-Goos, Barbara Heindl, Harald Krewer, Christian Mathieu}
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={Hinter den Geräuschkulissen – ein Projekt zur akustischen Vermessung 
+des Scharoun-Gebäudes der Staatsbibliothek zu Berlin},
+      pdfcopyright={CC BY 4.0 International},
+      pdfsubject={LIBREAS. Library Ideas, 45 (2024).},
+      pdfkeywords={Stabi Berlin, Soundscape, Staatsbibliothek Preussischer Kulturbesitz},
+      pdflicenseurl={https://creativecommons.org/licenses/by/4.0/},
+      pdfurl={https://doi.org/10.18452/...},
+      pdfdoi={10.18452/...},
+      pdflang={de},
+      pdfmetalang={de}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+\begin{abstract}
+\noindent
+\textbf{Zusammenfassung}: Die von Hans Scharoun entworfene
+Staatsbibliothek am Kulturforum ist ein zentraler Ort wissenschaftlicher
+wie literarischer Textproduktion in Berlin. Neben der hohen Raumqualität
+dieser Ikone moderner Bibliotheksarchitektur befördert auch ihre
+charakteristische, von Wim Wenders sogar in seinem Film Der Himmel über
+Berlin (1987) ästhetisierte Geräuschkulisse, ganz wesentlich die
+kreative Schreibarbeit im Lesesaal. In diesem Beitrag geht es um ein in
+Kooperation mit dem Hörverlag speak low sowie der
+Medienwissenschaftlerin Hannah Wiemer realisiertes Projekt der
+Staatsbibliothek zur akustischen Vermessung ihres Scharoun-Gebäudes am
+Kulturforum. Am Vorabend von dessen Generalinstandsetzung soll damit
+sowohl dem Inspirationspotential der Sounds of Stabi nachgegangen als
+auch und vor allem die Möglichkeit geschaffen werden, sich die
+Staatsbibliothek nach Hause zu holen -- gerade während ihrer
+baubedingten Schließzeit.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{Summary}: The Staatsbibliothek at the Kulturforum, designed by
+Hans Scharoun, is a central space for scientific and literary text
+production in Berlin. In addition to the high spatial quality of this
+icon of modern library architecture, its characteristic soundscape,
+which was even aestheticized by Wim Wenders in his film Wings of Desire
+(1987), also significantly promotes creative writing in the reading
+room. This article discusses a project realized by the Staatsbibliothek
+in collaboration with the publishing house speak low and media scientist
+Hannah Wiemer to conduct an acoustic survey of the Scharoun building at
+the Kulturforum. On the eve of its upcoming renovation, the aim is both
+to explore the inspirational potential of the Sounds of Stabi and, above
+all, to create the opportunity to take the Staatsbibliothek home --
+especially during its construction-related closure.
+\end{abstract}
+
+%body
+Im Rahmen der 18. Architekturbiennale von Venedig präsentierte das
+international tätige Hamburger Büro \emph{gmp. Architekten von Gerkan,
+Marg und Partner} eine Auswahl seiner aktuellen Projekte zum Bauen im
+Bestand. Zu den sieben im Rahmen der Ausstellung \emph{Umbau -- Nonstop
+Transformation} ins Rampenlicht gerückten Vorhaben zählt auch die
+Generalinstandsetzung der von Hans Scharoun entworfenen Staatsbibliothek
+am Berliner Kulturforum.\footnote{\url{https://umbau.gmp.de/}.} Während
+die gezeigten Modelle, Zeichnungen und Renderings der übrigen Umbauten
+mit Presslufthammergeräuschen oder historischen Rundfunk- und
+Fernsehsendungen inszeniert wurden, erklang vor den Ansichten des
+ikonischen Bibliotheksgebäudes in Dauerschleife ein raunendes Gemurmel
+-- ohne jede weitere Erläuterung in Katalog, Begleittexten und Parerga.
+Trotz fehlender Erklärung dürften freilich große Teile des
+Ausstellungspublikums leicht die Tonspur der minutenlangen Lesesaalszene
+aus Wim Wenders' Erfolgsfilm \emph{Der Himmel über Berlin} (1987)
+erkannt haben. In dieser Sequenz durchschreiten die beiden in die Welt
+gekommenen, für Menschenaugen aber unsichtbaren Engel Damiel und Cassiel
+vor der Geräuschkulisse eines geflüsterten, diffusen Parlando unklarer
+Herkunft unbemerkt den vollbesetzten Lesesaal: Werden so die tagtäglich
+dort entstehenden Texte, vielleicht die Gedanken der Anwesenden hörbar,
+oder strahlt dieses Klangkontinuum von den beschrifteten Buchrücken im
+Regal aus, indem sie gewissermaßen den Inhalt der darin aufgestellten
+Werke in den Raum projizieren? Die paradoxe Entscheidung der
+Ausstellungsverantwortlichen, die Innen- und Außenaufnahmen einer
+menschenleeren Bibliothek mit Stimmengemurmel beziehungsweise. -- für
+die Eingeweihten -- mit Spielfilmsounds zu konnotieren, kollidiert
+jedenfalls mit dem dokumentarischen Anspruch der Abbildungen und
+entrückt das dargestellte Gebäude ein Stück weit der Realität.
+
+Zwar zählen Bibliotheken wie auch Museen oder Kinos generell zu jenen
+lokalisierten Utopien, gesellschaftlichen Gegenräumen und kulturellen
+Projektionsflächen, die Michel Foucault als \emph{Heterotopien}
+bezeichnet.\footnote{Michel Foucault: Die Heterotopien. Der utopische
+  Körper. Zwei Radiovorträge, Frankfurt a.M. 2005.} Für die in zahllosen
+Romanen und nicht wenigen Spielfilmen -- etwa als Konzerthaus
+(\emph{Tár}) oder Flughafengebäude (\emph{Berlin Station}) --
+fiktionalisierte Staatsbibliothek am Kulturforum dürfte diese
+Zuschreibung aber in ganz besonderem Maße zutreffen.\footnote{Vgl.
+  Martin Hollender (Hg.): \emph{Denn eine Staatsbibliothek ist, bitte
+  sehr!, kein Vergnügungsetablissemang}. Die Berliner Staatsbibliothek
+  in der schönen Literatur, in Memoiren, Briefen und Bekenntnissen
+  namhafter Zeitgenossen aus fünf Jahrhunderten, Berlin 2008.} Dabei hat
+es geradezu den Anschein, als wirke der kulturelle Überschuss, das
+heterotopische Fluidum von Scharouns Bibliotheksikone als
+Kreativitätsstimulans -- für die wissenschaftliche wie die literarische
+Textproduktion gleichermaßen. Nach Stefanie de Velascos Einschätzung
+gibt es nämlich \enquote{viele von uns hier,
+Schriftstellerinnen.}\footnote{Stefanie de Velasco: Die Erste, in:
+  Zitty: das Wochenmagazin für Berlin 33 (2017), S. 78.} Und Judith
+Schalansky wie auch Eva Menasse bekennen sich sogar explizit zu
+Inspirationspotential und Bedeutung ihres Schreibtischs im Lesesaal der
+Staatsbibliothek für ihr Werk:
+
+\begin{quote}
+\enquote{Undenkbar, dass ich ohne diesen Ort auch nur eines meiner
+Bücher geschrieben hätte. Es vergeht kaum eine Woche, in der ich mich
+nicht hierher begebe.}\footnote{Judith Schalansky: Mein Schreibtisch
+  steht in der Staatsbibliothek, in: Bibliotheksmagazin: Mitteilungen
+  aus den Staatsbibliotheken in Berlin und München, 2012/3, S. 10--12;
+  hier S. 10, \url{https://doi.org/10.58159/20230413-005}.}
+
+\enquote{Meine letzten beiden Bücher sind zum größten Teil in der
+Berliner Staatsbibliothek am Potsdamer Platz entstanden. So ist mir
+diese Bibliothek zu einem fast mystischen Ort geworden, jenem nämlich,
+wo schon zweimal etwas Großes, Schweres gelungen ist.}\footnote{Eva
+  Menasse: Stabi + ich = stabil, in: Bibliotheksmagazin: Mitteilungen
+  aus den Staatsbibliotheken in Berlin und München, 2013/3, S. 49--52;
+  hier S. 49, \url{https://doi.org/10.58159/20230413-002}.}
+\end{quote}
+
+Da die von Hans Scharoun so bezeichnete \emph{Leselandschaft} einerseits
+architektonisch konstituiert ist, sich als relationaler sozialer Raum
+andererseits aber tagtäglich in Variationen neu reproduziert,\footnote{Vgl.
+  dazu grundlegend Martina Löw: Raumsoziologie, Frankfurt a.M. 2000.}
+dürfte ihr Kreativitätsimpuls also auch von ihrer spezifischen Akustik
+ausgehen. Immerhin war es selbst Wim Wenders wichtig -- wie er im Rahmen
+einer Masterclass zum Thema \emph{A Sense of Place: der Ortssinn im
+Film} betont --, die Dreharbeiten zu \emph{Der Himmel über Berlin} unter
+möglichst authentischen Nutzungs- und damit auch Klangbedingungen zu
+realisieren, weshalb er das reguläre Publikum der Staatsbibliothek zur
+Mitwirkung einlud.\footnote{Siehe
+  \url{https://www.khm.de/veranstaltungen_mitschnitte/id.29797.masterclass-mit-wim-wenders/}.}
+Denn entgegen ihres Namens sind Lesesäle keineswegs nur Räume der
+kontemplativen, stillen Rezeption, sondern auch und ganz überwiegend
+Schreibsäle, wissenschaftliche wie literarische Produktionsstätten,
+Kollektive in ihr jeweiliges Schaffen vertiefter Einzelpersonen -- mit
+einem charakteristischen Betriebsgeräusch. Im Fall der Staatsbibliothek
+am Kulturforum wird dieses nicht zuletzt von einer markanten Haustechnik
+geprägt, durchqueren doch zahlreiche Luftpoströhren und die Rollbahnen
+einer kilometerlangen Kastenförderanlage mit Zischen und Rattern das
+auch strukturell von funktionalen baulichen Bändern gegliederte Gebäude.
+
+\begin{quote}
+\enquote{In den Vorarbeiten zum Wettbewerb} -- so Hans Scharouns
+kongenialer Büropartner Edgar Wisniewski -- \enquote{entstanden die
+bibliotheksbezogenen Raumfolgen auf dem \emph{Weg des Buchs}: Poststelle
+-- Akzession -- Katalogisierung -- Einbandstelle -- Magazin; hieraus
+folgten die bandartigen Strukturen des Gebäudes. Das Band der Lesesäle
+und die in der Mitte liegende technische Kernzone mit den
+Treppenanlagen, Aufzügen, Ausgaben und Sanitärräumen u.a. waren zu der
+bandartigen Struktur der bibliothekarischen Räume die logische
+Konsequenz und räumliche Entsprechung. Der städtebauliche Archetyp der
+Bandstadt oder Scharouns Definition des geistigen Bandes Berlins -- der
+Ost-Westreihung geistiger Wirkkräfte vom Alexanderplatz bis
+Charlottenburg -- war in reduzierter Dimension wohl der Urimpuls zur
+Gesamtanlage.}\footnote{Edgar Wisniewski: Raumvision und Struktur:
+  Gedanken über Hans Scharouns Konzeption zum Bau der Staatsbibliothek,
+  in: Ekkehart Vesper (Hg.): Festgabe zur Eröffnung des Neubaus in
+  Berlin: Staatsbibliothek Preußischer Kulturbesitz, Wiesbaden 1978, S.
+  144--158; hier S. 144 f.}
+\end{quote}
+
+Ursprünglich hatte Scharoun sogar kommunikative Zonen in der
+Leselandschaft vorgesehen -- weiterer Beleg für die radikale Modernität
+seiner als scheinbar unbegrenztes, richtungsloses Raumkontinuum
+konzipierten Bibliotheksvision --, abgeschirmt von speziellen
+Deckenreflektoren zur Geräuschreduktion nach Plänen des renommierten
+Gebäudeakustikers Lothar Cremer.\footnote{Siehe dazu ausführlich Hannah
+  Wiemer: The West Berlin Staatsbibliothek and the Sound Politics of
+  Libraries, in: Grey Room 87 (2022), S. 44--65,
+  \url{https://doi.org/10.1162/grey_a_00343}.} Ähnlich den von Edgar
+Wisniewski als Attacke auf Scharouns Ästhetik beklagten nachträglich
+eingebauten Regalsystemen sollte aber auch diese Idee an den
+benutzungspraktischen Vorgaben der damaligen Bibliotheksleitung
+scheitern.\footnote{Vgl. Edgar Wisniewski: Hans Scharouns letztes Werk
+  für Berlin: ein Bericht über den fertiggestellten Bau, in: Bauwelt 70
+  (1979), S. 15--19; hier. S. 17.} Dabei ist es doch gerade die
+Fähigkeit von Schallwellen, physische Barrieren zu überwinden und
+durchdringen, die Scharouns Programm einer offenen, demokratischen
+Bibliotheksarchitektur in direkter Nachbarschaft zur Berliner Mauer
+vollendet. Und impliziert sein konzeptionelles Leitmotiv für den Entwurf
+der Staatsbibliothek \emph{das Individuum in der
+Gemeinschaft}\footnote{Wisniewski, Raumvision und Struktur (wie Anm. 9),
+  S. 158.} nicht ein gewisses kollektives Grundrauschen?
+
+In einer Tagebuchstudie zu Bibliotheksgewohnheiten der Stabi-Nutzenden
+im Frühjahr 2020 findet ein solcher grundlegender Klangteppich
+jedenfalls immer wieder Erwähnung:\footnote{Siehe dazu Romy
+  Hilbrich/Barbara Heindl: Stabi 2030 -- Tagebuchstudie, Berlin 2020,
+  \url{https://blog.sbb.berlin/wp-content/uploads/Tagebuchstudie_final.pdf}.}
+Klappernde Tastaturen, Klick-Mäuse, Gespräche, knallende Türen, Baulärm
+und vor allem Lüftungsgeräusche werden als störend und ablenkend
+wahrgenommen. Das akustische Grundrauschen inklusive Papiergeraschel
+wird dagegen als beruhigend beschrieben -- und die Bandbreite der
+\emph{Sounds of Stabi} ist groß:
+
+\begin{quote}
+\enquote{Auch hier oben {[}\ldots{]} gibt es Geräusche. An das dumpf
+ratternde Förderband (hinter einer provisorischen Wand) habe ich mich
+mehr oder weniger gewöhnt. Etwas störender sind die intermittierenden,
+hohen Pieptöne, die manchmal von irgendeiner Maschine ausgesendet werden
+(ich weiß nicht wo, im Fernleihbereich, hinter der ehem.
+Zeitungstheke?). Öfter kommt es vor, dass ein offenbar verwaistes
+Diensttelefon länger klingelt. Dann fragt man sich, wann nimmt er
+endlich ab?}\footnote{Hilbrich/Heindl, Stabi 2030 (wie Anm. 13),
+  Tagebuch 13m, Tag 3.}
+\end{quote}
+
+Um die auditive Signatur ihres Scharoun-Gebäudes am Vorabend seiner
+Generalinstandsetzung zu dokumentieren und auch während der baubedingten
+Schließzeit erfahrbar zu machen, haben Staatsbibliothek und Hörverlag
+\emph{speak low} die charakteristischen \emph{Sounds of Stabi} -- so der
+Titel der entstandenen CD -- aufgezeichnet.\footnote{Sounds of Stabi.
+  Eine akustische Vermessung der Staatsbibliothek zu Berlin am
+  Kulturforum, Berlin 2024.} Zum Einsatz kam dabei
+Kunstkopf-Stereophonie,\footnote{Zum Making-of siehe
+  \url{https://blog.sbb.berlin/kunstkopfkino/}.} ein bereits in den
+1920er Jahren entwickeltes, im Herbst 1973 im Rahmen der Internationalen
+Funkausstellung und damit just zum Richtfest der Bibliothek dem
+westdeutschen Publikum vorgestelltes Verfahren zur binauralen
+Tonaufnahme.\footnote{Vgl. dazu
+  \url{https://www.c2dh.uni.lu/projects/failure-and-success-dummy-head-recording-innovation-history-3d}.}
+Allerdings fiel die Entscheidung für diese Technologie keineswegs nur
+aufgrund ihres Berlin-Bezugs: Im Vergleich zu konventionellem Stereo
+ermöglicht Kunstkopf-Stereophonie nämlich eine räumlichere, geradezu
+immersive Hörwahrnehmung. Den Audiodateien mit den Geräuschkulissen von
+neun ausgewählten Räumen und technischen Anlagen ist ein von
+professionellen Stimmen gesprochener Hörspaziergang durch das Gebäude
+vorangestellt -- entlang der Forschungen der Medienwissenschaftlerin
+Hannah Wiemer, deren Projekt am Max-Planck-Institut für
+Wissenschaftsgeschichte \emph{The Sound of Books: West Berlin's
+Staatsbibliothek between Postwar City Visions, Organizational
+Cybernetics, and Heterotopia} auf die Rekonstruktion der materiellen wie
+intellektuellen Bedingungen der verschiedenen Klangsphären des Gebäudes
+zielt.\footnote{Siehe Hannah Wiemer: West-Berliner Leselandschaft. Die
+  Bibliothek als logistisches Denkwerkzeug, in: Zeitschrift für
+  Medienwissenschaft 14 (2022), S. 154--161
+  \url{https://doi.org/10.14361/zfmw-2022-140213}.} Daher führt die
+akustische Promenade sowohl zu Foyer, Lesesaal und Cafeteria als auch in
+die Eingeweide der Haustechnik -- etwa in die an die Kommandobrücke von
+Raumschiff Enterprise erinnernde Umschlagzentrale der
+Kastenförderanlage. Denn unter dem Eindruck der kybernetischen
+Steuerungseuphorie der 1960er Jahre entwarf Hans Scharoun seine
+Staatsbibliothek als gigantische selbstgesteuerte Maschine, von der
+konstant zugeführte Ströme von Medien und Informationen auf dem von
+Edgar Wisniewski erwähnten \emph{Weg des Buchs} gewissermaßen am
+Fließband zu Ideen, Texten und letztlich zu neuen Publikationen, zu
+frischem Rohstoff für den intellektuellen Produktionsprozess verarbeitet
+werden.\footnote{Siehe dazu Wiemer, Leselandschaft (wie Anm. 18) und
+  ihren Vortrag: Der Weg des Buches: der Scharounbau der
+  Staatsbibliothek zwischen Bücher- und Straßenverkehr, via:
+  \url{https://www.youtube.com/watch?v=fn3-zmepT5Q}.} Diesem
+Zusammenhang in seiner Bedeutung für das akustische
+Inspirationspotential von Scharouns Bibliotheksgebäude geht ein, im
+begleitenden CD-Booklet veröffentlichter, Essay ausführlicher
+nach.\footnote{Vgl. Christian Mathieu: Vom Band -- im Klangraum von Hans
+  Scharouns Büchermaschine. Eine Erhörung, in: Sounds of Stabi. Eine
+  akustische Vermessung der Staatsbibliothek zu Berlin am Kulturforum,
+  Berlin 2024, S. 9--19.}
+
+Die von \emph{speak low} realisierte Produktion umfasst zwei MP3-CDs mit
+einer Gesamtlaufzeit von 557 Minuten. Die auf der ersten CD publizierten
+Stereoaufnahmen können in gewohnter Weise über Lautsprecher abgespielt
+werden, während die zweite CD binaurale Aufnahmen enthält. Binaurale
+Aufnahmen sind dem natürlichen Hören mit beiden Ohren nachempfunden,
+weshalb sie die Wahrnehmung eines räumlichen Klangbilds ermöglichen, in
+dem Richtungen, Distanzen und Bewegungen von Geräuschen nicht nur
+zweidimensional von links und rechts (Stereo), sondern auch
+dreidimensional von vorne, hinten, oben und unten abgebildet sind. Für
+binaurale Aufnahmen werden in der Regel sogenannte Kunstköpfe
+eingesetzt, also Nachbildungen von menschlichen Schädeln mit
+modellierten Ohrmuscheln, in deren ‚Gehörgängen' jeweils ein Mikrofon
+sitzt. Das zweispurig aufgenommene binaurale Audiosignal beinhaltet
+daher auch die Filterungen und Reflektionen der Ohrmuscheln sowie die
+Abschattungen des Kopfes (und Torsos), die das menschliche Gehirn als
+räumliche Eigenschaften von Klängen interpretiert. Damit ein
+dreidimensionales Klangbild entsteht, sollte binaurales Audio über
+Kopfhörer gehört werden.
+
+Die im März 2024 mit dem Spitzenplatz der monatlichen
+\emph{hr2-Hörbuchbestenliste} von Hessischem Rundfunk und Börsenblatt
+ausgezeichnete\footnote{\url{https://www.boersenblatt.net/sites/default/files/documents/2024-02/hbl_2403plak.pdf}.}
+sowie in der Kategorie \emph{Wortkunst} für den Preis der deutschen
+Schallplattenkritik nominierte Doppel-CD ist im Buchhandel erhältlich
+sowie direkt über \emph{speak low}.\footnote{\url{https://www.schallplattenkritik.de/bestenlisten/longlist/longlist-2-2024}.}
+Alle Geräuschaufnahmen im Stereo- wie Binauralformat sind zusätzlich in
+eine virtuelle Ausstellung auf den Seiten der Staatsbibliothek
+eingebunden\footnote{\url{http://sbb.berlin/sounds}.} und stehen über
+das Multimediarepositorium der Stiftung Preußischer Kulturbesitz zum
+kostenfreien Download für den nicht-kommerziellen Privatgebrauch zur
+Verfügung.\footnote{\url{https://doi.org/10.58159/20231218-000}.}
+
+\hypertarget{zitierte-quellen-und-forschungsliteratur}{%
+\section{Zitierte Quellen und
+Forschungsliteratur}\label{zitierte-quellen-und-forschungsliteratur}}
+
+\_ Michel Foucault: Die Heterotopien. Der utopische Körper. Zwei
+Radiovorträge, Frankfurt a.M. 2005.
+
+\_ Romy Hilbrich/Barbara Heindl: Stabi 2030 -- Tagebuchstudie, Berlin
+2020,
+\url{https://blog.sbb.berlin/wp-content/uploads/Tagebuchstudie_final.pdf}.
+
+\_ Martin Hollender (Hg.): \emph{Denn eine Staatsbibliothek ist, bitte
+sehr!, kein Vergnügungsetablissemang}. Die Berliner Staatsbibliothek in
+der schönen Literatur, in Memoiren, Briefen und Bekenntnissen namhafter
+Zeitgenossen aus fünf Jahrhunderten, Berlin 2008.
+
+\_ Martina Löw: Raumsoziologie, Frankfurt a.M. 2000.
+
+\_ Christian Mathieu: Vom Band -- im Klangraum von Hans Scharouns
+Büchermaschine. Eine Erhörung, in: Sounds of Stabi. Eine akustische
+Vermessung der Staatsbibliothek zu Berlin am Kulturforum, Berlin 2024,
+S. 9--19 (Booklet zur CD).
+
+\_ Eva Menasse: Stabi + ich = stabil, in: Bibliotheksmagazin:
+Mitteilungen aus den Staatsbibliotheken in Berlin und München, 2013/3,
+S. 49--52, \url{https://doi.org/10.58159/20230413-002}.
+
+\_ Judith Schalansky: Mein Schreibtisch steht in der Staatsbibliothek,
+in: Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in
+Berlin und München, 2012/3, S. 10--12,
+\url{https://doi.org/10.58159/20230413-005}.
+
+\_ Stefanie de Velasco: Die Erste, in: Zitty: das Wochenmagazin für
+Berlin 33 (2017), S. 78.
+
+\_ Hannah Wiemer: Der Weg des Buches: der Scharounbau der
+Staatsbibliothek zwischen Bücher- und Straßenverkehr (2021),
+\url{https://www.youtube.com/watch?v=fn3-zmepT5Q}.
+
+\_ Hannah Wiemer: The West Berlin Staatsbibliothek and the Sound
+Politics of Libraries, in: Grey Room 87 (2022), S. 44--65,
+\url{https://doi.org/10.1162/grey_a_00343}.
+
+\_ Hannah Wiemer: West-Berliner Leselandschaft. Die Bibliothek als
+logistisches Denkwerkzeug, in: Zeitschrift für Medienwissenschaft 14
+(2022), S. 154--161, \url{https://doi.org/10.14361/zfmw-2022-140213}.
+
+\_ Edgar Wisniewski: Raumvision und Struktur: Gedanken über Hans
+Scharouns Konzeption zum Bau der Staatsbibliothek, in: Ekkehart Vesper
+(Hg.): Festgabe zur Eröffnung des Neubaus in Berlin: Staatsbibliothek
+Preußischer Kulturbesitz, Wiesbaden 1978, S. 144--158.
+
+\_ Edgar Wisniewski: Hans Scharouns letztes Werk für Berlin: ein Bericht
+über den fertiggestellten Bau, in: Bauwelt 70 (1979), S. 15--19.
+
+\_ Sounds of Stabi. Eine akustische Vermessung der Staatsbibliothek zu
+Berlin am Kulturforum, Berlin 2024 (CD).
+
+\underline{Websites}
+
+\_ \url{http://sbb.berlin/sounds}.
+
+\_ \url{https://blog.sbb.berlin/kunstkopfkino/}.
+
+\_ \url{https://umbau.gmp.de/}.
+
+\_
+\url{https://www.boersenblatt.net/sites/default/files/documents/2024-02/hbl_2403plak.pdf}.
+
+\_
+\url{https://www.c2dh.uni.lu/projects/failure-and-success-dummy-head-recording-innovation-history-3d}.
+
+\_
+\url{https://www.khm.de/veranstaltungen_mitschnitte/id.29797.masterclass-mit-wim-wenders/}.
+
+\_
+\url{https://www.schallplattenkritik.de/bestenlisten/longlist/longlist-2-2024}.
+
+%autor
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{Autor*innen}
+
+\_ Insa Hansen-Goos
+
+Insa Hansen-Goos studierte Germanistik und Kunstgeschichte in Hamburg,
+Stockholm und Potsdam. Nach dem Studium absolvierte sie ein Volontariat
+im Verbrecher Verlag, zudem organisiert sie Lesungen und
+Literaturveranstaltungen in Berlin. Bei speak low ist sie seit 2019
+unter anderem für die Bereiche Lektorat, Vertrieb sowie Rechte und
+Lizenzen zuständig.
+
+\_ Barbara Heindl
+
+Barbara Heindl studierte Germanistik und Romanistik in Tübingen und war
+anschließend wissenschaftliche Mitarbeiterin im Bereich
+Kulturwissenschaft an der Europa-Universität Viadrina. Seit 2017
+arbeitet sie in der Staatsbibliothek zu Berlin und leitet nach Stationen
+im Fachreferat und in der Benutzungsforschung den Bereich Presse- und
+Öffentlichkeitsarbeit.
+
+(\url{https://orcid.org/0000-0002-1395-647X})
+
+\_ Harald Krewer
+
+Harald Krewer studierte am Max Reinhardt Seminar in Wien Theaterregie
+und erhielt anschließend vom deutsch-französischen Kulturrat ein
+Arbeitsstipendium an der Pariser Comédie Française. Neben zahlreichen
+Theaterarbeiten als Regisseur und Dramaturg in Deutschland und
+Österreich, arbeitet er seit 1997 als freier Mitarbeiter in der
+Hörspielabteilung des Österreichischen Rundfunks. Als Hörspielregisseur
+ist er für den ORF und verschiedene ARD-Sendeanstalten tätig. Seit 2003
+ist er Dozent am Wiener Max Reinhardt Seminar und seit 2006 Mitinhaber
+des Hörverlags speak low.
+
+(\url{http://d-nb.info/gnd/1017320144})
+
+\_ Christian Mathieu
+
+Christian Mathieu wurde nach einem Studium der Geschichte und
+Kunstgeschichte 2006 mit einer Dissertation zur Umwelt- und
+Kulturgeschichte Venedigs in der Frühen Neuzeit promoviert. Nach
+Stationen an der Herzog August Bibliothek Wolfenbüttel sowie der
+Bayerischen Staatsbibliothek München arbeitet er seit 2012 als
+wissenschaftlicher Bibliothekar und Projektmanager an der
+Staatsbibliothek zu Berlin. Seine Tätigkeitsschwerpunkte liegen dort auf
+den Feldern von Digitalisierung, Open Access und
+Wissenschaftskommunikation.
+
+(\url{https://orcid.org/0000-0002-1974-6895})
+
+\end{document}

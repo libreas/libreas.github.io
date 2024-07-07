@@ -1,0 +1,2625 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Book rdf:about="#item_13945">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Berlin</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Deutscher Bibliotheksverband, Sektion Musikbibliotheken</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Thüringer</foaf:surname>
+                        <foaf:givenName>Peter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Theurich</foaf:surname>
+                        <foaf:givenName>Jutta</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hebenstreit</foaf:surname>
+                        <foaf:givenName>Rose</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <link:link rdf:resource="#item_13946"/>
+        <dc:title>Musikbibliotheken und Musikaliensammlungen in der Deutschen Demokratischen Republik</dc:title>
+        <dc:date>1969</dc:date>
+        <dc:description>Context Object: url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;ctx_enc=info%3Aofi%2Fenc%3AUTF-8&amp;rfr_id=bib%3Asbbpk&amp;rft.title=Musikbibliotheken+und+Musikaliensammlungen+in+der+Deutschen+Demokratischen+Republik&amp;rft.date=1969&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Musikbibliotheken+und+Musikaliensammlungen+in+der+Deutschen+Demokratischen+Republik&amp;rft.au=&amp;rft.pub=Dt.+Bibliotheksverb.%2C+Sekt.+Musikbibliotheken&amp;rft.edition=&amp;rft.isbn=</dc:description>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_13946">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Exemplare: Musikbibliotheken und Musikaliensammlungen in der Deutschen Demokratischen Republik :: StabiKat</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://stabikat.de/Record/218527225</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-08 16:57:45</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_13947">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Halle (Saale)</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Kreuz-Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ruehlmann</foaf:surname>
+                        <foaf:givenName>L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_13948"/>
+        <dc:title>Eine kleine Musikbücherei für dich: Eine Auswahl aus den Beständen der Musikbibliotheken Halle und Potsdam</dc:title>
+        <dc:date>1959</dc:date>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_13948">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Exemplare: Eine kleine Musikbücherei für dich :: StabiKat</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://stabikat.de/Record/446907200</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-08 17:00:03</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_13949">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Dresden</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Stadt- u. Bezirksbibliothek Dresden</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stadt- und Bezirksbibliothek Dresden</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_13950"/>
+        <dc:title>Mit uns zieht die neue Zeit Musikbibliothek Dresden</dc:title>
+        <dc:date>1958</dc:date>
+        <dc:description>Context Object: url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;ctx_enc=info%3Aofi%2Fenc%3AUTF-8&amp;rfr_id=bib%3Asbbpk&amp;rft.title=Mit+uns+zieht+die+neue+Zeit+Musikbibliothek+Dresden+%3B+%5BAuswahlbibliographie%5D&amp;rft.date=1958&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Mit+uns+zieht+die+neue+Zeit+Musikbibliothek+Dresden+%3B+%5BAuswahlbibliographie%5D&amp;rft.au=&amp;rft.pub=Stadt-+u.+Bezirksbibl.&amp;rft.edition=&amp;rft.isbn=</dc:description>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_13950">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Exemplare: Mit uns zieht die neue Zeit :: StabiKat</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://stabikat.de/Record/422103071</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-08 17:01:33</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_13951">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>1</prism:volume>
+                <dc:title>Blätter für Volksbibliotheken und Lesehallen</dc:title>
+                <prism:number>3-4</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Altmann</foaf:surname>
+                        <foaf:givenName>Wilhelm</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Gehören Musikalien in die Bücherhallen?</dc:title>
+        <dc:date>1900</dc:date>
+        <bib:pages>41-45</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_13952">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>6</prism:volume>
+                <dc:title>Blätter für Volksbibliotheken und Lesehallen</dc:title>
+                <prism:number>9-10</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hanauer</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Von der Musikalien-Frei-Bibliothek in Frankfurt a.M.</dc:title>
+        <dc:date>1905</dc:date>
+        <bib:pages>145-149</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_13953">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>17</prism:volume>
+                <dc:title>Blätter für Volksbibliotheken und Lesehallen</dc:title>
+                <prism:number>1-2</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marsop</foaf:surname>
+                        <foaf:givenName>Paul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Von den Volksbüchereien für Musik</dc:title>
+        <dc:date>1916</dc:date>
+        <bib:pages>1-2</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_13954">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>10</prism:volume>
+                <dc:title>Bücherei und Bildungspflege: Zeitschrift für die gesamten außerschulischen Bildungsmittel</dc:title>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ackerknecht</foaf:surname>
+                        <foaf:givenName>Erwin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Bildungspflege und Schallplatte</dc:title>
+        <dc:date>1930</dc:date>
+        <bib:pages>7-15</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_13955">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>11</prism:volume>
+                <dc:title>Bücherei und Bildungspflege: Zeitschrift für die gesamten außerschulischen Bildungsmittel</dc:title>
+                <prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bayer</foaf:surname>
+                        <foaf:givenName>Karl Th.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Musik und Bücherei</dc:title>
+        <dc:date>1931</dc:date>
+        <bib:pages>176-184</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_13956">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>1</prism:volume>
+                <dc:title>Blätter für Volksbibliotheken und Lesehallen</dc:title>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Der Herausgeber</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Zur Einführung</dc:title>
+        <dc:date>1900</dc:date>
+        <bib:pages>1-4</bib:pages>
+    </bib:Article>
+    <bib:Book rdf:about="#item_13957">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Bibliotheksdienst / Beiheft</dc:title>
+                <dc:identifier>23</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Berlin</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Deutscher Büchereiverband, Arbeitsstelle für das Büchereiwesen</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ott</foaf:surname>
+                        <foaf:givenName>Alfons</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_13958"/>
+        <dc:title>Probleme der musikbibliothekarischen und musikbibliographischen Arbeit: Zwei Vorträge</dc:title>
+        <dc:date>1967</dc:date>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_13958">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Exemplare: Probleme der musikbibliothekarischen und musikbibliographischen Arbeit :: StabiKat</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://stabikat.de/Record/1077718314</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-08 17:40:06</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_13973">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                        <vcard:locality>Mainz ; London ; Madrid ; New York ; Paris ; Tokyo ; Toronto</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Schott Musik International</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Niessen</foaf:surname>
+                        <foaf:givenName>Anne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_13974"/>
+        <dc:title>&quot;Die Lieder waren die eigentlichen Verführer!&quot;: Mädchen und Musik im Nationalsozialismus</dc:title>
+        <dc:date>1999</dc:date>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_13974">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;“Es wurde die ganze Zeit im NS gesungen.”&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Book rdf:about="#item_13975">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Systematische Musikwissenschaft und Musikkulturen der Gegenwart</dc:title>
+                <dc:identifier>2</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Marburg</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Tectum Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nierenz</foaf:surname>
+                        <foaf:givenName>Heike</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_13976"/>
+        <dc:title>Musik in den Ritualen einer Ersatzreligion: Der Nationalsozialismus und seine Gemeinschaftslieder - musikalische Analysen</dc:title>
+        <dc:date>2010</dc:date>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_13976">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;Einbindung von Musik in Rituale wie Morgenfeiern&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Book rdf:about="#item_13981">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Berlin</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Weidmannsche Buchhandlung</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ackerknecht</foaf:surname>
+                        <foaf:givenName>Erwin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Büchereifragen</dc:title>
+        <dc:date>1924</dc:date>
+    </bib:Book>
+    <bib:Article rdf:about="#item_13982">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>4</prism:volume>
+                <dc:title>Die Bücherei: Zeitschrift für Schriftumspflege</dc:title>
+                <prism:number>7-8</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Angermann</foaf:surname>
+                        <foaf:givenName>Rudolf</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Die Musikbücherei</dc:title>
+        <dc:date>1937</dc:date>
+        <bib:pages>301-310</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_13983">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>4</prism:volume>
+                <dc:title>Die Bücherei: Zeitschrift für Schriftumspflege</dc:title>
+                <prism:number>9-10</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Angermann</foaf:surname>
+                        <foaf:givenName>Rudolf</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Die Musikbücherei</dc:title>
+        <dc:date>1937</dc:date>
+        <bib:pages>387-397</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_13984">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>4</prism:volume>
+                <dc:title>Die Bücherei: Zeitschrift für Schriftumspflege</dc:title>
+                <prism:number>9-10</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jansen</foaf:surname>
+                        <foaf:givenName>Carl</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Die Musikbücherei als Mittelstelle für Hausmusikpartner</dc:title>
+        <dc:date>1937</dc:date>
+        <bib:pages>398-401</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_13985">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>5</prism:volume>
+                <dc:title>Die Bücherei: Zeitschrift für Schriftumspflege</dc:title>
+                <prism:number>2</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Klapp</foaf:surname>
+                        <foaf:givenName>Wilhelm</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Vom deutschen Musikbüchereiwesen</dc:title>
+        <dc:date>1938</dc:date>
+        <bib:pages>65-72</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_13986">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>7</prism:volume>
+                <dc:title>Die Bücherei: Zeitschrift für Schriftumspflege</dc:title>
+                <prism:number>9</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jansen</foaf:surname>
+                        <foaf:givenName>[Carl]</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Essens neue Volksbücherei-Hauptstelle: zu unserer Bildbeilage</dc:title>
+        <dc:date>1940</dc:date>
+        <bib:pages>279</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_13987">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>8</prism:volume>
+                <dc:title>Die Bücherei: Zeitschrift für Schriftumspflege</dc:title>
+                <prism:number>11</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schermall</foaf:surname>
+                        <foaf:givenName>Herbert</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Aus der Musikbücherei Berlin-Charlottenburg</dc:title>
+        <dc:date>1941</dc:date>
+        <bib:pages>396-399</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_13988">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>8</prism:volume>
+                <dc:title>Die Bücherei: Zeitschrift für Schriftumspflege</dc:title>
+                <prism:number>10</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Schöningh</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Zur Eröffnung der Beuthener Musikbücherei (Siehe Bildbeilage)</dc:title>
+        <dc:date>1941</dc:date>
+        <bib:pages>366-367</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_13989">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>9</prism:volume>
+                <dc:title>Die Bücherei: Zeitschrift für Schriftumspflege</dc:title>
+                <prism:number>9-12</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schermall</foaf:surname>
+                        <foaf:givenName>Herbert</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Fortbildungslehrgang für Musikbibliothekare und Musikbibliothekarinnen in Berlin</dc:title>
+        <dc:date>1942</dc:date>
+        <bib:pages>322-325</bib:pages>
+    </bib:Article>
+    <bib:BookSection rdf:about="#item_13990">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>Die Musikschule der Stadt Wien: Eine &quot;ideologische Lehr- und Lerngemeinschaft</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Wien</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Hollitzer Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rathkolb</foaf:surname>
+                        <foaf:givenName>Oliver</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zapke</foaf:surname>
+                        <foaf:givenName>Susana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rathkolb</foaf:surname>
+                        <foaf:givenName>Oliver</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Raminger</foaf:surname>
+                        <foaf:givenName>Kathrin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Friehs</foaf:surname>
+                        <foaf:givenName>Julia Teresa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wladika</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>Zeithistorische Anmerkungen zur Geschichte der Musikschule der Stadt Wien 1938-1945. Eine nationalsozialistische Gründung auf den Trümmern von drei privaten Konservatorien</dc:title>
+        <dc:date>2020</dc:date>
+        <bib:pages>15-53</bib:pages>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="#item_13991">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>Die Musikschule der Stadt Wien: Eine &quot;ideologische Lehr- und Lerngemeinschaft</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Wien</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Hollitzer Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zapke</foaf:surname>
+                        <foaf:givenName>Susana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zapke</foaf:surname>
+                        <foaf:givenName>Susana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rathkolb</foaf:surname>
+                        <foaf:givenName>Oliver</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Raminger</foaf:surname>
+                        <foaf:givenName>Kathrin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Friehs</foaf:surname>
+                        <foaf:givenName>Julia Teresa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wladika</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>Musik zur Volkserhebung und seelischen Kräftigung: Zur Programmatik der Musikschule der Stadt Wien</dc:title>
+        <dc:date>2020</dc:date>
+        <bib:pages>55-81</bib:pages>
+    </bib:BookSection>
+    <bib:Article rdf:about="#item_13992">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>11</prism:volume>
+                <dc:title>Die Bücherei: Zeitschrift für Schriftumspflege</dc:title>
+                <prism:number>10-12</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dähnhardt</foaf:surname>
+                        <foaf:givenName>Heinz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Warum bleiben die Büchereien geöffnet?</dc:title>
+        <dc:date>1944</dc:date>
+        <bib:pages>297-301</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_13993">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>11</prism:volume>
+                <dc:title>Hefte für Büchereiwesen</dc:title>
+                <prism:number>2</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hofmann</foaf:surname>
+                        <foaf:givenName>Hans</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ameln</foaf:surname>
+                        <foaf:givenName>Konrad</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Musik in der volkstümlichen Bücherei</dc:title>
+        <dc:date>1927</dc:date>
+        <bib:pages>71-79</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_13994">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>44</prism:volume>
+                <dc:title>Forum Musikbibliothek</dc:title>
+                <prism:number>2</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Straka</foaf:surname>
+                        <foaf:givenName>Beate</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Balkonkonzerte und MusikGespräche in der Stadtbibliothek Stuttgart</dc:title>
+        <dc:date>2023</dc:date>
+        <bib:pages>12-16</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_13995">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>44</prism:volume>
+                <dc:title>Forum Musikbibliothek</dc:title>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gründler</foaf:surname>
+                        <foaf:givenName>Felix</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Konzeption und Einrichtung eines Makerspace in einer öffentlichen Musikbibliothek am Beispiel von NEXT LEVEL in der Stadtbücherei Augsburg</dc:title>
+        <dc:date>2023</dc:date>
+        <bib:pages>30-35</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_13996">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>43</prism:volume>
+                <dc:title>Forum Musikbibliothek</dc:title>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Blase</foaf:surname>
+                        <foaf:givenName>Axel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Menschen mit Musik verbinden. Über den Beginn des Projektes &quot;Gemeinsam InTakt - mit Veeh-Harfen die Welt der Musik entdecken&quot; in der Stadtbibliothek Reutlingen</dc:title>
+        <dc:date>2022</dc:date>
+        <bib:pages>7-12</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_13997">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>43</prism:volume>
+                <dc:title>Forum Musikbibliothek</dc:title>
+                <prism:number>2</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wilke</foaf:surname>
+                        <foaf:givenName>Sebastian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Musikempfehlungen und kuratierte Inhalte über Spotiy - Erste Erfahrungen aus der Stadtbücherei Frankfurt am Main</dc:title>
+        <dc:date>2022</dc:date>
+        <bib:pages>16-20</bib:pages>
+    </bib:Article>
+    <bib:Book rdf:about="#item_13998">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Handbuch der Erwachsenenbildung</dc:title>
+                <dc:identifier>4</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Stuttgart</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Kohlhammer</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pöggeler</foaf:surname>
+                        <foaf:givenName>Franz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>Geschichte der Erwachsenenbildung</dc:title>
+        <dc:date>1974</dc:date>
+    </bib:Book>
+    <bib:Book rdf:about="#item_13999">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Berlin</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Weidmannsche Buchhandlung</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ackerknecht</foaf:surname>
+                        <foaf:givenName>Erwin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Vorlesestunden</dc:title>
+        <dc:date>1926</dc:date>
+        <prism:edition>2. Auflage</prism:edition>
+    </bib:Book>
+    <bib:Article rdf:about="#item_14000">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>34</prism:volume>
+                <dc:title>Forum Musikbibliothek</dc:title>
+                <prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Diet</foaf:surname>
+                        <foaf:givenName>Jürgen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Musikbibliothekarische Aus- und Fortbildung in Deutschland</dc:title>
+        <dc:date>2013</dc:date>
+        <bib:pages>24-28</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_14001">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>8</prism:volume>
+                <dc:title>Blätter für Volksbibliotheken und Lesehallen</dc:title>
+                <prism:number>5-6</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hanauer</foaf:surname>
+                        <foaf:givenName>J</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Erfahrungen und Vorschläge für Musikalien-Bibliotheken</dc:title>
+        <dc:date>1907</dc:date>
+        <bib:pages>76-79</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_14002">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>12</prism:volume>
+                <dc:title>Blätter für Volksbibliotheken und Lesehallen</dc:title>
+                <prism:number>9-10</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rothhardt</foaf:surname>
+                        <foaf:givenName>Hans</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Die Verleihung von Musikalien durch Volksbüchereien</dc:title>
+        <dc:date>1911</dc:date>
+        <bib:pages>133-136</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_14003">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>5</prism:volume>
+                <dc:title>Die Bücherei: Zeitschrift für Schriftumspflege</dc:title>
+                <prism:number>11</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Heiligenstaedt</foaf:surname>
+                        <foaf:givenName>Fritz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Volksbibliothekarische Zusammenarbeit. Vortrag, gehalten auf dem Deutschen Volksbüchereitag Leipzig 1938</dc:title>
+        <dc:date>1938</dc:date>
+        <bib:pages>656-670</bib:pages>
+    </bib:Article>
+    <bib:Book rdf:about="#item_14006">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Leipzig</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Einkaufshaus für Büchereien</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reichsstelle für das Volksbüchereiwesen</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Reichsliste für Musikbüchereien</dc:title>
+        <dc:date>1938</dc:date>
+    </bib:Book>
+    <bib:Book rdf:about="#item_14007">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Jüdische Musik: Studien und Quellen zur jüdischen Musikkultur</dc:title>
+                <dc:identifier>19</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Wiesbaden</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Harrassowitz Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Klause</foaf:surname>
+                        <foaf:givenName>Inna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>&quot;Und alles mit Musikbegleitung&quot;: Musikausübung im Gulag und in den nationalsozialistischen KZ im Vergleich</dc:title>
+        <dc:date>2021</dc:date>
+    </bib:Book>
+    <bib:Book rdf:about="#item_14008">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>MondesContemporains</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Presses de l'universitö Paris-Sorbonne</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Petit</foaf:surname>
+                        <foaf:givenName>Élise</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Musique et politique en Allemagne, du IIIe Reich à l'aube de la guerre froide</dc:title>
+        <dc:date>2018</dc:date>
+    </bib:Book>
+    <bib:Book rdf:about="#item_14009">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Uelvesbüll</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Der andere Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stoverock</foaf:surname>
+                        <foaf:givenName>Karin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Musik in der Hitlerjugend: Organisation, Entwicklung, Kontexte</dc:title>
+        <dc:date>2013</dc:date>
+        <prism:volume>1/2</prism:volume>
+    </bib:Book>
+    <bib:Book rdf:about="#item_14012">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>DIZ-Schriften</dc:title><dc:identifier>11</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Bremen</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Edition Temmen</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fackler</foaf:surname>
+                        <foaf:givenName>Guido</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>20th century</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Concentration camp inmates as musicians</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Concentration camps</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Deutschland</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Germany</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Geschichte 1900-1950</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Geschichte 1933-1936</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>History and criticism</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Holocaust</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Konzentrationslager</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Music</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Musik</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Musikleben</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Nationalsozialismus</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>&quot;Des Lagers Stimme&quot; - Musik im KZ: Alltag und Häftlingskultur in den Konzentrationslagern 1933 bis 1936 : mit einer Darstellung der weiteren Entwicklung bis 1945 und einer Biblio-/Mediographie</dc:title>
+        <dc:date>2000</dc:date>
+        <z:language>ger</z:language>
+        <z:shortTitle>&quot;Des Lagers Stimme&quot;&quot; - Musik im KZ</z:shortTitle>
+        <z:libraryCatalog>ostgr.swisscovery.slsp.ch</z:libraryCatalog>
+        <dc:description>Book Title: &quot;Des Lagers Stimme&quot;&quot; - Musik im KZ Alltag und Häftlingskultur in den Konzentrationslagern 1933 bis 1936 : mit einer Darstellung der weiteren Entwicklung bis 1945 und einer Biblio-/Mediographie
+ISBN: 9783861087595
+Series: DIZ-Schriften Bd. 11</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-0-19-927797-1">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>Oxford historical monographs</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Oxford</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Clarendon Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gilbert</foaf:surname>
+                        <foaf:givenName>Shirli</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Geschichte</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Germany</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Musik</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>20th century</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Music</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Allemagne</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>History and criticism</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Konzentrationslager</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Musikleben</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>20e siècle (milieu)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>20Th Century</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Camps de concentration</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Concetration camps</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Geschichte 1939-1945</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Getto</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Ghetto</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Holocaust, Jewish (1939-1945)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Jews</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Juden</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Music and the war</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Musique</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>National socialism and music</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Poland</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Pologne</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Prisons and prisoners, German</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Quartiers juifs</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Social conditions</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>World War, 1939-1945</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Music in the Holocaust: confronting life in the Nazi ghettos and camps</dc:title>
+        <dc:date>2005</dc:date>
+        <z:language>eng</z:language>
+        <z:shortTitle>Music in the Holocaust</z:shortTitle>
+        <z:libraryCatalog>ostgr.swisscovery.slsp.ch</z:libraryCatalog>
+        <dc:identifier>ISBN 978-0-19-927797-1</dc:identifier>
+        <z:numPages>243</z:numPages>
+    </bib:Book>
+    <bib:BookSection rdf:about="#item_14014">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                        <dc:title>Rombach Wissenschaften. Reihe Litterae</dc:title>
+                        <dc:identifier>144</dc:identifier>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:title>Leo Kestenberg: Musikpädagoge und Musikpolitiker in Berlin, Prag und Tel Aviv</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                        <vcard:locality>Freiburg im Breisgau; Berlin; Wien</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Rombach Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eschen</foaf:surname>
+                        <foaf:givenName>Andreas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fontaine</foaf:surname>
+                        <foaf:givenName>Susanne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mahlert</foaf:surname>
+                        <foaf:givenName>Ulrich</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schenk</foaf:surname>
+                        <foaf:givenName>Dietmar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Weber-Lucks</foaf:surname>
+                        <foaf:givenName>Theda</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Boakye-Ansah</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Kestenberg und die Jugendmusikbewegung: Von der Reichsschulkonferenz und Jödes Musikalische Jugendkultur bis zur Ernneung Jödes zum Professor</dc:title>
+        <dc:date>2008</dc:date>
+        <bib:pages>69-87</bib:pages>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="#item_14015">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                        <dc:title>Rombach Wissenschaften. Reihe Litterae</dc:title>
+                        <dc:identifier>144</dc:identifier>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:title>Leo Kestenberg: Musikpädagoge und Musikpolitiker in Berlin, Prag und Tel Aviv</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                        <vcard:locality>Freiburg im Breisgau; Berlin; Wien</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Rombach Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mahlert</foaf:surname>
+                        <foaf:givenName>Ulrich</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fontaine</foaf:surname>
+                        <foaf:givenName>Susanne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mahlert</foaf:surname>
+                        <foaf:givenName>Ulrich</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schenk</foaf:surname>
+                        <foaf:givenName>Dietmar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Weber-Lucks</foaf:surname>
+                        <foaf:givenName>Theda</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Boakye-Ansah</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Leo Kestenberg und das Seminar für Musikerziehung an der Berliner Hochschule für Musik: Einblicke und Ausblicke</dc:title>
+        <dc:date>2008</dc:date>
+        <bib:pages>89-117</bib:pages>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="#item_14016">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                        <dc:title>Rombach Wissenschaften. Reihe Litterae</dc:title>
+                        <dc:identifier>144</dc:identifier>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:title>Leo Kestenberg: Musikpädagoge und Musikpolitiker in Berlin, Prag und Tel Aviv</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                        <vcard:locality>Freiburg im Breisgau; Berlin; Wien</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Rombach Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Richter</foaf:surname>
+                        <foaf:givenName>Christoph</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fontaine</foaf:surname>
+                        <foaf:givenName>Susanne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mahlert</foaf:surname>
+                        <foaf:givenName>Ulrich</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schenk</foaf:surname>
+                        <foaf:givenName>Dietmar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Weber-Lucks</foaf:surname>
+                        <foaf:givenName>Theda</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Boakye-Ansah</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Leo Kestenbergs Reformutopien als Anregung und Aufgabe für die Gestaltung unseres Musiklebens</dc:title>
+        <dc:date>2008</dc:date>
+        <bib:pages>159-175</bib:pages>
+    </bib:BookSection>
+    <bib:Book rdf:about="urn:isbn:978-3-85409-010-6">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Wien</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Löcker Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pfoser</foaf:surname>
+                        <foaf:givenName>Alfred</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Österreich</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>20th century</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>History and criticism</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Literaturpolitik</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Austria</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Austrian literature</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Austro-Marxist school</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Austromarxismus</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Geschichte (umfassend)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Geschichte 1918-1934</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Literarisches Leben</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Socialism and literature</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Literatur und Austromarxismus</dc:title>
+        <dc:date>1980</dc:date>
+        <z:language>ger</z:language>
+        <z:libraryCatalog>ostgr.swisscovery.slsp.ch</z:libraryCatalog>
+        <dc:identifier>ISBN 978-3-85409-010-6</dc:identifier>
+        <z:numPages>352</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-3-205-05148-0">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Wiener musikwissenschaftliche Beiträge</dc:title>
+                <dc:identifier>17</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Wien</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Böhlau Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Seidl</foaf:surname>
+                        <foaf:givenName>Johann Wilhelm</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>19e siècle-1939</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Arbeitermusik</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Autriche</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mouvement ouvrier</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Musique</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Österreich</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Musik und Austromarxismus: Zur Musikrezeption der österreichischen Arbeiterbewegung im späten Kaiserreich und in der Ersten Republik</dc:title>
+        <dc:date>1989</dc:date>
+        <z:language>ger</z:language>
+        <z:shortTitle>Musik und Austromarxismus</z:shortTitle>
+        <z:libraryCatalog>ostgr.swisscovery.slsp.ch</z:libraryCatalog>
+        <dc:identifier>ISBN 978-3-205-05148-0</dc:identifier>
+        <z:numPages>232</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="#item_14019">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Internationale Hochschulschriften</dc:title>
+                <dc:identifier>663</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Münster</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Waxmann Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Holz</foaf:surname>
+                        <foaf:givenName>Mia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Musikschulen und Jugendmusikbewegung: Die Institutionalisierung des öffentlichen Musikschulwesens von den 1920ern bis in die 1960er-Jahre</dc:title>
+        <dc:date>2019</dc:date>
+    </bib:Book>
+    <bib:Article rdf:about="#item_14020">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>1</prism:volume>
+                <dc:title>Die Bücherei: Zeitschrift für Schriftumspflege</dc:title>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schuster</foaf:surname>
+                        <foaf:givenName>Wilhelm</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Die Neuordnung des Preußischen Büchereiwesens</dc:title>
+        <dc:date>1934</dc:date>
+        <bib:pages>9-17</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_14021">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>5</prism:volume>
+                <dc:title>Die Bücherei: Zeitschrift für Schriftumspflege</dc:title>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dähnhardt</foaf:surname>
+                        <foaf:givenName>Heinz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Richtlinien für das Volksbüchereiwesen</dc:title>
+        <dc:date>1938</dc:date>
+        <bib:pages>1-7</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_14022">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>5</prism:volume>
+                <dc:title>Die Bücherei: Zeitschrift für Schriftumspflege</dc:title>
+                <prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dähnhardt</foaf:surname>
+                        <foaf:givenName>Heinz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Richtlinien für das Volksbüchereiwesen</dc:title>
+        <dc:date>1938</dc:date>
+        <bib:pages>130-136</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_14024">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>5</prism:volume>
+                <dc:title>Die Bücherei: Zeitschrift für Schriftumspflege</dc:title>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Der Reichs- und Preußische Minister für Wissenschaft, Erziehung und Volksbildung</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Richtlinien für das Volksbüchereiwesen</dc:title>
+        <dc:date>1938</dc:date>
+        <bib:pages>39-46</bib:pages>
+    </bib:Article>
+    <bib:Book rdf:about="urn:isbn:978-3-596-16306-9">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Fischer Taschenbuch</dc:title>
+                <dc:identifier>16306</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Frankfurt am Main</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Fischer Taschenbuch Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barbian</foaf:surname>
+                        <foaf:givenName>Jan-Pieter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>1933-1945</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>20th century</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Bibliotheken</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Books and reading</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Buchhandel</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Deutsch</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Deutsche Literatur</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Deutschland</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Drittes Reich</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>German literature</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Germany</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Geschichte 1900-1950</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Geschichte 1933-1945</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>History</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>History and criticism</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Literatur</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Literaturpolitik</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>National socialism and literature</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>National socialism in literature</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Nationalsozialismus</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Politics and literature</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Politik</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Publishers and publishing</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Zensur</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Literaturpolitik im NS-Staat: Von der Gleichschaltung bis zum Ruin</dc:title>
+        <dc:date>2010</dc:date>
+        <z:language>ger</z:language>
+        <z:shortTitle>Literaturpolitik im NS-Staat</z:shortTitle>
+        <z:libraryCatalog>ostgr.swisscovery.slsp.ch</z:libraryCatalog>
+        <dc:identifier>ISBN 978-3-596-16306-9</dc:identifier>
+        <z:numPages>552</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-1-108-58084-7">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Publications of the German Historical Institute</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cambridge</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Cambridge University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zalar</foaf:surname>
+                        <foaf:givenName>Jeffrey T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Germany</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Books and reading</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>History</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Social aspects</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Catholics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Christian life</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Reading and rebellion in Catholic Germany, 1770-1914</dc:title>
+        <dc:date>2019</dc:date>
+        <z:language>eng</z:language>
+        <z:libraryCatalog>ostgr.swisscovery.slsp.ch</z:libraryCatalog>
+        <dc:identifier>ISBN 978-1-108-58084-7</dc:identifier>
+    </bib:Book>
+    <bib:Article rdf:about="#item_14027">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>7</prism:volume>
+                <dc:title>Comenius-Blätter für Volkserziehung</dc:title>
+                <prism:number>5-6</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gesamtvorstand der Comenius-Gesellschaft</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Schafft Bücherhallen!</dc:title>
+        <dc:date>1899</dc:date>
+        <bib:pages>67-74</bib:pages>
+    </bib:Article>
+    <bib:Book rdf:about="#item_14028">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Zivilisationen und Geschichte / Civilizations and History / Civilisations et Histoire</dc:title>
+                <dc:identifier>72</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Bern</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Peter Lang</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rindlisbacher</foaf:surname>
+                        <foaf:givenName>Stefan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_14029"/>
+        <dc:title>Lebensreform in der Schweiz (1850–1950): Vegetarisch essen, nackt baden und im Grünen wohnen</dc:title>
+        <dc:date>2022</dc:date>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_14029">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Lebensreform in der Schweiz (1850–1950): Vegetarisch essen, nackt baden und im Gruenen wohnen - OST - FHGR</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ostgr.swisscovery.slsp.ch/discovery/fulldisplay?docid=cdi_oapen_primary_oai_library_oapen_org_20_500_12657_52379&amp;context=PC&amp;vid=41SLSP_FHO:FHGR&amp;lang=de&amp;search_scope=DN_and_CI&amp;adaptor=Primo%20Central&amp;tab=41SLSP_FHO_DN_and_CI&amp;query=any,contains,wandervogel%20geschichte&amp;facet=rtype,include,books&amp;offset=10</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-12-14 20:40:28</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-3-8321-9873-2">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Köln</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>DuMont</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Michalzik</foaf:surname>
+                        <foaf:givenName>Peter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>20th century</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>History</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Europe</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Kulturkritik</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Intellectual life</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>1900</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Counterculture</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Fin de siècle</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Freikörperkultur</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Gegenkultur</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Geschichte 1900</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Geschichte 1900-1920</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Körperkultur</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Künstlerkolonie</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Lebensform</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Lebensreform</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Modes de vie alternatifs</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Monte Verità</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Monte Verità (Suisse, mont, TI)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mouvement de la Lebensreform</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Veganismus</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Visions</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>1900: Vegetarier, Künstler und Visionäre suchen nach dem neuen Paradies</dc:title>
+        <dc:date>2018</dc:date>
+        <z:language>ger</z:language>
+        <z:shortTitle>1900</z:shortTitle>
+        <z:libraryCatalog>ostgr.swisscovery.slsp.ch</z:libraryCatalog>
+        <dc:identifier>ISBN 978-3-8321-9873-2</dc:identifier>
+        <prism:edition>Erste Auflage</prism:edition>
+        <z:numPages>410</z:numPages>
+    </bib:Book>
+    <bib:BookSection rdf:about="#item_14032">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>Vorlesestunden und Volksbildungabende: Anleitung, Dichtung und Vortragsfolgen</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Bonn</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Verlag des Borromäusvereins</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zoumer</foaf:surname>
+                        <foaf:givenName>Jakob</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zimmermann</foaf:surname>
+                        <foaf:givenName>Josef</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>Der Volksbildungsabend und die Musik</dc:title>
+        <dc:date>1931</dc:date>
+        <bib:pages>57-62</bib:pages>
+        <prism:edition>2., bedeutend erweiterte Auflage</prism:edition>
+    </bib:BookSection>
+    <bib:Book rdf:about="#item_14033">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Blätter für Volksbibliotheken und Lesehallen, Ergänzungsheft</dc:title>
+                <dc:identifier>3</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Leipzig</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Harrassowitz Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Otten</foaf:surname>
+                        <foaf:givenName>Bennata</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Bibliothekstechnischer Ratgeber für Volksbibliotheken, Lesehallen und verwandte Büchereie : mit Bibliographie der Fachliteratur von 1900 - 1912</dc:title>
+        <dc:date>1913</dc:date>
+    </bib:Book>
+    <bib:Book rdf:about="#item_14034">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Perspektiven der Wirtschaftsgeschichte</dc:title>
+                <dc:identifier>10</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Stuttgart</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Franz Steiner Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Meier</foaf:surname>
+                        <foaf:givenName>Franziska</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Bündische Jugend</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Deutschland</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Geschichte 1918-1933</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Jugendbewegung</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Kulturwirtschaft</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Unternehmensgründung</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Verlag</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Ein &quot;bündischer Kulturmarkt&quot; entsteht: Die deutsche Jugendbewegung und Jugendmusikbewegung als Katalysator für den Aufbau von Kulturmarktunternehmen 1918-1933</dc:title>
+        <dc:date>2022</dc:date>
+        <z:language>ger</z:language>
+        <z:shortTitle>Ein &quot;bündischer Kulturmarkt&quot; entsteht</z:shortTitle>
+        <z:libraryCatalog>ostgr.swisscovery.slsp.ch</z:libraryCatalog>
+        <dc:description>Book Title: Ein &quot;bündischer Kulturmarkt&quot; entsteht die deutsche Jugendbewegung und Jugendmusikbewegung als Katalysator für den Aufbau von Kulturmarktunternehmen 1918-1933
+ISBN: 9783515133043
+Series: Perspektiven der Wirtschaftsgeschichte Band 10</dc:description>
+    </bib:Book>
+    <bib:BookSection rdf:about="#item_14035">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>Bausteine für eine lesende Kirche: Borromäusverein und katholische Büchereiarbeit ; Festgabe für Erich Hodick</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Mainz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Matthias Grünewald Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Trippen</foaf:surname>
+                        <foaf:givenName>Norbert</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Trippen</foaf:surname>
+                        <foaf:givenName>Norbert</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Patenge</foaf:surname>
+                        <foaf:givenName>Horst</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dörnemann</foaf:surname>
+                        <foaf:givenName>Katharina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>150 Jahre katholische Büchereiarbeit. Von der Gründung des Borromäusvereins 1845 bis zu seiner Neustrukturierung 1995</dc:title>
+        <dc:date>1996</dc:date>
+        <bib:pages>36-52</bib:pages>
+    </bib:BookSection>
+    <bib:Article rdf:about="#item_14036">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>5</prism:volume>
+                <dc:title>Die Bücherei: Zeitschrift für Schriftumspflege</dc:title>
+                <prism:number>5</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Löwe</foaf:surname>
+                        <foaf:givenName>Hans</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Die Aufgaben einer Gefängnisbücherei</dc:title>
+        <dc:date>1938</dc:date>
+        <bib:pages>276-283</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_14037">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>5</prism:volume>
+                <dc:title>Die Bücherei: Zeitschrift für Schriftumspflege</dc:title>
+                <prism:number>6</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schriewer</foaf:surname>
+                        <foaf:givenName>Franz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Leistungszahlen der Schülerbüchereien</dc:title>
+        <dc:date>1938</dc:date>
+        <bib:pages>340-342</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_14038">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>5</prism:volume>
+                <dc:title>Die Bücherei: Zeitschrift für Schriftumspflege</dc:title>
+                <prism:number>7-8</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Heiligenstaedt</foaf:surname>
+                        <foaf:givenName>Fritz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Die Schülerbücherei im Rahmen nationalsozialistischer Erziehungsarbeit</dc:title>
+        <dc:date>1938</dc:date>
+        <bib:pages>404-409</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_14039">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>10</prism:volume>
+                <dc:title>Die Bücherei: Zeitschrift für Schriftumspflege</dc:title>
+                <prism:number>1-3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hecker</foaf:surname>
+                        <foaf:givenName>Konrad</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Die Aufgabe des Katalogs</dc:title>
+        <dc:date>1943</dc:date>
+        <bib:pages>3-19</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_14040">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>10</prism:volume>
+                <dc:title>Die Bücherei: Zeitschrift für Schriftumspflege</dc:title>
+                <prism:number>4-6</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Thier</foaf:surname>
+                        <foaf:givenName>Erich</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Im Dickicht der Kataloge</dc:title>
+        <dc:date>1943</dc:date>
+        <bib:pages>98-117</bib:pages>
+    </bib:Article>
+    <bib:Book rdf:about="#item_14041">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Berlin</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Orplid-Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rothhardt</foaf:surname>
+                        <foaf:givenName>Hans</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Musikgärtlein</dc:title>
+        <dc:date>1923</dc:date>
+    </bib:Book>
+    <bib:Book rdf:about="#item_14042">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Berlin</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>W. Zieger</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rothhardt</foaf:surname>
+                        <foaf:givenName>Hans</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Das erste Jahrfünft der Stadtbücherei Berlin-Steglitz: Bericht anläßlich ihres fünfjährigen Bestehens am 1. Oktober 1925</dc:title>
+        <dc:date>1926</dc:date>
+    </bib:Book>
+    <bib:Book rdf:about="#item_14043">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Leipzig</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Karl Lentze Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rothhardt</foaf:surname>
+                        <foaf:givenName>Hans</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Meine lieben vier Wände: Gedichte</dc:title>
+        <dc:date>1909</dc:date>
+    </bib:Book>
+    <bib:Book rdf:about="#item_14044">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Veröffentlichungen der Berliner Bibliotheksschule, Abteilung für den Dienst an Volksbüchereieen</dc:title>
+                <dc:identifier>2</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Leipzig</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Einkaufshaus für Büchereien</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Weiß-Reyscher</foaf:surname>
+                        <foaf:givenName>Elisabeth</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Anweisung zur Titelaufnahme von Musikalien</dc:title>
+        <dc:date>1938</dc:date>
+    </bib:Book>
+</rdf:RDF>
