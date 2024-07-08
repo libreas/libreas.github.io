@@ -1,0 +1,393 @@
+Bibliotheken neigen bekanntlich dazu, sich in Arbeitsgruppen,
+Kommissionen, Unterverbänden und so weiter zu organisieren. Sind diese
+nur groß genug, dann -- so scheint es zumindest -- betreiben sie oft auch
+eigene Publikationen. Manchmal eigene Blogs und Homepages, manchmal
+Newsletter, aber manchmal auch eigene Zeitschriften. Musikbibliotheken
+sind ein Beispiel dafür. Sie sind seit langem gut organisiert, inklusive
+eines eigenen Weltverbandes (der International Association of Music
+Libraries, Archives and Documentation Centres, IAML) mit eigenen
+Ländergruppen, zum Beispiel in Deutschland, der Schweiz und Österreich,
+die wiederum zum Teil eigene Arbeitsgemeinschaften haben. Für die
+deutsche Bibliotheksstatistik stellen sie einen eigenen Bibliothekstyp
+dar. Und mit *Forum Musikbibliothek* existiert für sie seit 1980 eine
+kontinuierlich erscheinende Zeitschrift. Damit sind sie zwar nicht der
+einzige Bibliothekstyp -- zum Beispiel haben die Museumsbibliotheken mit
+den *AKMB-news* auch eine eigene Zeitschrift -- aber doch einer der
+wenigen.
+
+Für den Schwerpunkt der #45 der *LIBREAS* erscheint es nur passend, ein
+Interview quasi von Redaktion zu Redaktion über diese Zeitschrift zu
+führen. Was macht sie aus -- auch im Vergleich zu breit aufgestellten
+Zeitschriften wie der *LIBREAS*? Gibt es spezifische Herausforderungen
+bei der Redaktionsarbeit für Musikbibliotheken? Welchen besonderen Blick
+bringen die Musikbibliotheken in das Bibliothekswesen ein?
+
+Im Folgenden also ein schriftlich geführtes Interview mit Dina Heß und
+Susanne Hein aus der Schriftleitung von *Forum Musikbibliothek*. Die
+Fragen für die *LIBREAS* stellte Karsten Schuldt.
+
+*Karsten Schuldt (KS): Werte Frau Hein, werte Frau Heß. Sie sind beide,
+wenn ich richtig informiert bin, erst seit einigen Jahren in der
+Schriftleitung von Forum Musikbibliothek tätig. Deshalb gleich die
+Frage: Was hat Sie dazu getrieben, diese Verantwortung zu übernehmen?
+Sie sind ja beide selber in Musikbibliotheken tätig -- ist das einfach
+so, dass von den Kolleg\*innen in den anderen Musikbibliotheken erwartet
+wird, dass sie diese Aufgabe übernehmen, wenn sie "richtige
+Musikbibliothekar\*in" sein wollen, so als eine Form der rite de
+passage? Oder welche Gründe hat es für Sie gegeben?*
+
+Susanne Hein (SH): Zunächst eine kurze Information zur Organisation der
+Zeitschrift: Wir beide gehören zur Schriftleitung, die die Artikel
+einwirbt, inhaltlich verantwortet und auch grob die Linie der
+Zeitschrift oder zumindest eines Heftes festlegt, teils auch in
+Austausch mit dem Vorstand von IAML Deutschland. Auch über den Abdruck
+unaufgefordert eingereichter Beiträge entscheiden wir. Unser Redakteur
+dagegen korrigiert die Texte und später die Druckfahnen. Außerdem ist er
+für den Rezensionsteil zuständig und übernimmt den Kontakt zur
+Schriftsetzerin des Verlags.
+
+Um die Frage nach der Motivation für dieses Amt zu beantworten:
+Getrieben hat mich nichts und erwartet wurde es ebenfalls nicht. Ich
+wurde überrascht, als die Präsidentin von IAML-Deutschland mich (und
+einen mir bisher unbekannten Kollegen, Jonas Lamik) im Frühjahr 2020
+fragte. Aber ich hatte Lust dazu, denn es macht Spaß, diese Hefte
+gestalten zu können und die Ergebnisse zu sehen. Und ich bin sehr froh,
+das Amt nicht alleine bedienen zu müssen, denn die meiste Arbeit fällt
+in die Freizeit und es macht Freude, zu zweit in der Schriftleitung zu
+sein. Zum Glück hilft uns außerdem ein Beirat mit Mitgliedern aus den
+verschiedenen Musikbibliothekstypen sowie Vertretungen der
+IAML-Ländergruppen Österreich und der Schweiz. Sie werben ebenfalls
+Beiträge ein, vermitteln Rezensionen, übernehmen Interviews oder das
+Schreiben des Editorials. Grundsätzlich sind unter den
+Musikbibliothekar\*innen sehr viele Kolleg\*innen mit einer großen
+Portion Idealismus. Die ist ebenfalls nötig für die vielen Ämter im
+Verband. Es gibt nicht so viele Leute, die in Frage kommen -- mir hilft
+zum Beispiel meine Berufserfahrung und die langjährige Verbandsarbeit,
+daher kenne ich viele Menschen und bekomme oft mit, welche Projekte an
+welchen Bibliotheken laufen.
+
+Dina Heß (DH): Für mich ist das alles noch recht neu, weil ich erst seit
+letztem Jahr die Schriftleitung mit Susanne zusammen mache. Vielleicht,
+weil ich zwei Jahre in der Redaktion von *o-bib. Das offene
+Bibliotheksjournal* mitgearbeitet habe, haben mich Jonas Lamik und
+Susanne Hein angesprochen, ob ich Interesse hätte, in der Schriftleitung
+von *Forum Musikbibliothek* mitzuarbeiten. Es hat mich natürlich sehr
+gereizt, die ohnehin spannende Arbeit für ein Fachjournal nun in meinem
+Fachgebiet nicht nur in unterstützender Rolle, sondern mitgestaltend zu
+übernehmen.
+
+Ich empfinde das nicht als notwendigen *rite de passage*, aber durch
+*Forum Musikbibliothek* hatte ich schon nochmal einen anderen,
+intensiveren Eintritt in die Fachcommunity. Ich bin sehr glücklich
+darüber, mit Susanne eine so erfahrene Partnerin zu haben und das
+Vorhaben *Forum Musikbibliothek* auch gemeinsam mit unserem Redakteur
+und dem Beirat zu "wuppen".
+
+*KS: Zur Redaktionsarbeit: Musikbibliotheken liegen ja einigermaßen
+"quer" zu den anderen Bibliothekstypen. Öffentliche Bibliotheken,
+Wissenschaftliche Bibliotheken, Staats- und Kantonsbibliotheken -- sie
+alle können Musikabteilungen haben, abgesehen von ganz eigenständigen
+Musikbibliotheken. Stellt das ein Potential oder eine Herausforderung
+für das Einwerben von Artikeln dar?*
+
+SH: Natürlich ist das ein Potential -- einerseits gibt es Abwechslung
+und Vielfalt, andererseits aber gibt es überall Gemeinsamkeiten quer
+durch die Institutionen. Außer den von Ihnen genannten Typen sind in der
+IAML Musikarchive und Musikdokumentationszentren vertreten.
+
+DH: Als Musikhochschulbibliotheken sind wir eigentlich kein eigener
+Bibliothekstyp, aber in der Praxis stellt unsere Arbeit sich oft als ein
+sehr spannender Querschnitt aus Hochschulbibliothek, Öffentlicher
+Musikbibliothek und Spezialbibliothek dar. Natürlich ist es immer
+einfacher, in der eigenen Sparte Beiträge einzuwerben. Das ist auch ein
+Grund, weshalb es sich für das Schriftleitungsduo bewährt hat, wenn es
+mit Personen aus unterschiedlichen Richtungen innerhalb des
+Musikbibliothekswesens besetzt ist.
+
+*KS: Grundsätzlich auch die Frage: Was unterscheidet Musikbibliotheken
+eigentlich so sehr von anderen Bibliotheken, dass sie ihre eigene
+Zeitschrift und ihren eigenen Verband betreiben? Wieder ist das
+vielleicht mein spezifischer Blick, aber ich habe mich lange mit
+Schulbibliotheken beschäftigt. Die hatten von 1975 bis 2000 auch ihre
+eigene Zeitschrift, die damals wie Forum Musikbibliothek vom Deutschen
+Bibliotheksinstitut herausgegeben wurde. Aber sie haben es nicht
+geschafft, diese selbstständig weiterzuführen. Was macht dagegen
+Musikbibliotheken so gut darin, solche Strukturen selber zu organisieren
+und offenbar ja auch zu erhalten?*
+
+SH: Wie gesagt, Musikbibliothekar\*innen sind oft sehr motiviert. Unsere
+Materie (vor allem in Bezug auf Noten und Tonträger) stellt auf sehr
+vielen bibliothekarischen Gebieten andere beziehungsweise oft besondere
+Anforderungen im Vergleich zu gängigen Medienarten an
+Universalbibliotheken. Es geht um Katalogisierung und Recherche, um die
+Marktsichtung und Erfahrung mit bestimmten Discoverysystemen,
+Katalogisierungsprogrammen oder lizenzierbaren Streamingportalen bei
+Noten und Musikaufnahmen. Ich vermute, dass es bei Schulbibliotheken
+weniger Unterschiede zum allgemeinen Bibliothekswesen gibt oder auch,
+dass die Unterschiede innerhalb der verschiedenen Schulbibliothekstypen
+nicht so groß sind. Es tut gut und bringt uns fachlich weiter, sich dazu
+auf Tagungen austauschen zu können. Auf jeden Fall sind wir dankbar,
+dass die Träger der Musikbibliotheken diese Vernetzung unterstützen.
+Vielleicht war das bei den Schulbibliotheken anders?
+
+DH: In wissenschaftlichen und öffentlichen Musikbibliotheken haben wir
+in der Regel alles, was andere Bibliotheken auch haben, aber eben
+zusätzlich die Musik -- die sich in vielen Aspekten des
+Bibliothekswesens etwas anders verhält. Das hat in großem Maße auch
+damit zu tun, dass Noten anders genutzt werden. Wie ein literarisches
+Werk kann auch ein musikalisches Werk natürlich Gegenstand von Forschung
+sein. Aber im Fall von Noten wird eben auch daraus musiziert und das
+wiederum in verschiedenen Kontexten: zum Beispiel privat als Hobby oder
+professionell. Aus den verschiedenen Nutzungsarten ergeben sich
+unterschiedliche Anforderungen an zum Beispiel Editionen oder
+musikalische Ausgabeformen. Eine Sängerin, die eine Rolle aus Mozarts
+Oper "Die Zauberflöte" oder Bernsteins "West Side Story" einstudiert,
+braucht vielleicht den Klavierauszug, der Soloflötist eine Flötenstimme,
+die Dirigentin die kritische Edition der Partitur und der Regisseur
+vielleicht noch zusätzlich ein Libretto und wissenschaftliche Literatur
+zum Werk. Das sind andere Anforderungen als die eines
+Oberstufenschülers, der einen Aufsatz zu Mozarts Opern schreiben soll,
+einer Forscherin, die sich mit Geschlechterrollen im Musiktheater
+zwischen 1760 und 1960 beschäftigt oder einem Amateurmusiker, der auf
+der Hochzeit seiner Tochter eine Arie aus der Zauberflöte oder der West
+Side Story singen möchte.
+
+*KS: Für diese Ausgabe der LIBREAS habe ich mich mit der Geschichte der
+öffentlichen Musikbibliotheken am Anfang des 20. Jahrhunderts befasst.
+Damals erschienen Artikel zu musikbibliothekarischen Themen in den
+breiter aufgestellten bibliothekarischen Publikationen, beispielsweise
+in den Vorgängerinnen der heutigen BuB. Heute habe ich den Eindruck,
+dass das fast nicht mehr der Fall ist. Würden Sie diese Einschätzung
+teilen? Ist es halt nicht auch eine Gefahr, wenn so eine Zeitschrift wie
+die Ihre besteht, dass dann die Musikbibliotheken im gesamten
+Bibliothekswesen einigermassen "vergessen" gehen, weil sie halt nicht
+mehr in der BuB oder so auftauchen?*
+
+SH: Nein, das ergänzt sich alles ganz gut. In *BuB* erscheinen durchaus
+musikbibliothekarische Artikel, auch gelegentlich im
+*Bibliotheksdienst.* Außerdem erinnere ich mich an ein Sonderheft
+Musikbibliotheken der *ZfBB*. Teilweise stimmen wir das mit den
+Autor\*innen ab und haben sogar schon die Veröffentlichung einzelner
+Beiträge in *BuB* statt im *Forum Musikbibliothek* unterstützt, und zwar
+bei den Artikeln von Cortina Wuthe und Verena Funtenberger (Heft 12/22),
+damit sie ein größeres Publikum bekamen. Gerade ist wieder ein
+Sonderheft zum Thema Musikbibliotheken in *BuB* erschienen (Heft
+2-3/2024, das letzte war 04/2016); darüber wurden wir lange vorher aus
+der Musikbibliothekscommunity informiert. Ein Problem ist vielleicht
+eher die musikbibliothekarische Präsenz auf der und die Teilnahme an der
+*BiblioCon*. Gelegentlich gibt es auch dort musikbibliothekarische
+Inhalte und Musikbibliothekar\*innen profitieren bei der
+Tagungsteilnahme auf jeden Fall von allgemein-bibliothekarischen
+Vorträgen, aber es ist für die einzelnen Musikbibliotheks-Kolleg\*innen
+schwierig, alle Termine zu berücksichtigen beziehungsweise selbst mit
+Vorträgen präsent zu sein.
+
+*KS: Dazu eine Frage, die nichts direkt mit Ihrer Redaktionsarbeit zu
+tun hat, aber doch bestimmt noch mehr Menschen als mich brennend
+interessiert: Wer sind eigentlich die Musikbibliothekar\*innen? Wie
+verstehen die sich? Also: Würden die sich vor allem als Musiker\*innen
+beschreiben, die auch Bibliothekar\*innen sind? Oder
+Bibliothekar\*innen, die an Musik interessiert sind? Ich frage das auch,
+weil mir scheint, alle Musikbibliothekar\*innen, die ich so treffe,
+spielen aktiv irgendein Instrument. Das ist ja doch etwas anderes als in
+anderen Bibliotheken, wo Kolleg\*innen gerne einmal herausstellen, dass
+sie nicht vor allem lesen, sondern aktiv Bestände managen. Da scheinen
+Musikbibliothekar\*innen viel näher an "ihrem Thema" dran zu sein. Oder
+gibt es eine eigene Identität als Musikbibliothekar\*in?*
+
+SH: Es gibt sehr verschiedene Qualifikationen und Stellenprofile, was
+unter anderem von den Musikbibliothekstypen und der Größe der jeweiligen
+Bibliothek abhängt. In erster Linie kommen wir aus dem Bibliothekswesen
+und der Musikwissenschaft. Lange Zeit gab es in Stuttgart an der
+heutigen *Hochschule der Medien* ein halbjähriges
+musikbibliothekarisches Zusatzstudium im Anschluss an das
+bibliothekarische Diplom-Examen und später einen Schwerpunkt
+Musikinformationsmanagement im bibliothekarischen Masterstudiengang.
+Aktuell bietet die *Hochschule für Technik, Wirtschaft und Kultur
+Leipzig* einen Masterstudiengang Bibliotheks- und
+Informationswissenschaft mit der Profillinie Musikbibliotheken an. Viele
+von uns haben mehrere Abschlüsse. Fast alle spielen ein Instrument oder
+singen aktiv; ohne Notenkenntnisse und tieferes Verständnis für Musik
+kann der Beruf nicht gut ausgeübt werden. Musiker\*innen ohne
+bibliothekarischen Abschluss sind mir auf bibliothekarischen Stellen
+kaum bekannt. In den öffentlichen Musikbibliotheken werden dagegen
+neuerdings Musikpädagog\*innen eingestellt, dann aber mit dem Fokus auf
+Programmarbeit, Workshops und Musikvermittlung. Die Bandbreite wird
+sicher schon anhand unserer verschiedenen Antworten klar, da wir beide
+aus unterschiedlichen Bibliothekstypen kommen. Eine eigene Identität ist
+sicher übertrieben, aber die musikbibliothekarischen Gemeinsamkeiten
+schweißen uns schon sehr zusammen.
+
+DH: Unter den Orchesterbibliothekar\*innen gibt es vereinzelt
+Musiker\*innen oder Musikwissenschaftler\*innen ohne formale
+bibliothekarische Ausbildung oder, in kleineren Häusern, auch andere
+Quereinsteiger\*innen. Häufig arbeitet man da aber auch auf eine ganz
+andere Art mit den Musiker\*innen des eigenen Orchesters und
+insbesondere mit den Dirigent\*innen zusammen und richtet beispielsweise
+die Stimmen für eine Produktion ein. Das unterscheidet sich nochmal viel
+stärker von der "klassischen" Bibliotheksarbeit, als vielleicht in
+unseren beiden Sparten.\
+Natürlich arbeiten -- je nach Größe -- auch in öffentlichen und
+wissenschaftlichen Musikbibliotheken nicht nur Menschen, die sowohl
+musikalische als auch bibliothekarische Abschlüsse mitbringen. Ich halte
+es für Musikbibliothekar\*innen hier aber für sehr wichtig, sich nicht
+nur in der Bibliothekswissenschaft auszukennen, sondern zusätzlich eben
+auch, bis zu einem gewissen Grad Noten lesen zu können und das Vokabular
+und die Konzepte der Musik und ihrer Notation zu kennen: Schlüssel,
+Tonarten, Instrumente, Besetzungen, Epochen, Gattungen und Genres oder
+die schon erwähnten musikalischen Ausgabeformen sind allein für die
+Notensuche im Katalog fast unerlässlich; ebenso wichtig ist es, zu
+wissen, dass eine Rockband anders musiziert als ein philharmonisches
+Orchester, eine Opernsängerin anders als eine Popsängerin und ein
+Konzertpianist anders als ein Jazztrompeter und dass sie infolgedessen
+andere Bedarfe an eine Bibliothek haben und auch anders suchen.
+
+*KS: Etwas, was im Forum Musikbibliothek gleich auffällt, ist die Rubrik
+"Personalia", die ja immer wieder relativ viel Platz einnimmt. Das
+vermittelt für mich als Außenstehenden schon den Eindruck einer eng
+zusammenhängenden Community. Stimmt das? Wie wichtig ist denn diese
+Rubrik? Gibt es in den Musikbibliotheken wirklich das Verlangen danach,
+zu wissen, wer von welcher Musikbibliothek in eine andere
+Musikbibliothek gewechselt ist oder wer auf welchen Posten aufgestiegen
+ist? Ich frage auch, weil mir scheint, dass es solche Nachrichten früher
+viel öfter in bibliothekarischen Zeitschriften gab, aber heute fast nur
+noch in Ihrer Zeitschrift.*
+
+SH: Diese Rubrik wurde erst 2012 eingeführt und nimmt meist nur wenig
+Platz ein; im Heft 3/2023 fehlte sie sogar ganz. Bei einer Umfrage,
+welche Rubriken unsere Leser\*innen bevorzugen (Heft 3/2020) schnitt die
+Rubrik Personalia zwar weniger gut ab, aber der Abstand zu den anderen
+Rubriken war eher gering. Ja, wir sind eine übersichtliche und gut
+vernetzte Community. Da interessiert es schon zu erfahren, welche Posten
+mit welchen Personen besetzt werden oder es lohnt sich zu bilanzieren,
+was wir einzelnen Kolleg\*innen verdanken, die in den Ruhestand gehen.
+Vermutlich würden sich auch in anderen Bibliothekstypen Kolleg\*innen
+für solche Artikel interessieren und es scheitert nur am Aufwand und der
+Beitragsmenge?
+
+DH: Wir arbeiten tatsächlich äußerst eng zusammen und tauschen uns
+besonders innerhalb unser jeweiligen Sparten sehr viel aus -- zumindest
+empfinde ich das so. Die große Bibliothekscommunity spielt dabei eine
+viel kleinere Rolle. Das hängt mit den bereits angesprochenen
+Spezialisierungen zusammen und auch mit den besonderen Bedingungen. In
+Hochschulen ist das beispielsweise zusätzlich auch die Größe. Unsere
+Musikhochschulbibliotheken haben grundsätzlich ja dieselben Aufgaben wie
+eine Universitätsbibliothek, aber anstelle von 16.000 oder gar 30.000
+Studierenden haben unsere Hochschulen häufig 400 bis maximal 1.700
+Studierende. Gleichzeitig ist auch die Musikwelt -- also unsere
+Nutzer\*innen -- in einem viel höheren Maße vernetzt. In einzelnen
+Disziplinen kennt jede\*r buchstäblich jede\*n.
+
+*KS: Was mir weiterhin in Ihrer Zeitschrift auffällt, sind die recht
+vielen historischen Themen, also die Darstellungen zu Musiker\*innen und
+Komponist\*innen, aber auch die vielen Projektberichte zu Nachlässen.
+Haben Musikbibliotheken einen historischen Fokus? Gibt es da nicht auch
+Widerspruch aus der Profession dagegen? Musikbibliotheken wollen doch
+nicht nur historische Musik vermitteln.*
+
+SH: Institutionelle IAML-Mitglieder sind überwiegend wissenschaftliche
+Musikbibliotheken mit großen historischen Beständen und einem
+entsprechenden Auftrag. Diese Bestände machen viel Arbeit in der
+Erwerbung, Erschließung und Digitalisierung. Daher gibt es oft spezielle
+Projekte und berichtenswerte Resultate. Es ist für alle interessant zu
+erfahren, wo welche Bestände erworben und erschlossen wurden.
+Gegenfrage: Was meinen Sie mit "historischer Musik"? Nahezu alle
+Musikbibliotheken erwerben Partituren und Tonträger mit zeitgenössischer
+klassischer Musik. Bei Jazz, Rock und Pop erscheinen im Verhältnis zu
+Tonträgern nur wenig gedruckte Noten, diese gehören zum Profil vor allem
+der Musikabteilungen an öffentlichen Bibliotheken und
+Musikhochschulbibliotheken. Institutionen mit großen Tonträgersammlungen
+schließen sich der IASA an, nicht der IAML, aber es gibt Schnittmengen.
+
+DH: Unsere Bestände und auch die Vermittlung unserer Bestände sind so
+vielfältig wie die Musik selbst und ein Musikstück ist -- egal wie alt
+es ist -- immer auch in gewisser Weise "gegenwärtig", wenn es von
+jemandem musiziert wird. Manche Werke sind auch Jahrzehnte oder
+Jahrhunderte nach ihrer Entstehung unverändert beliebt, manche werden
+erst lange nach ihrem Entstehen durch die Musikwelt "wiederentdeckt".
+Das betrifft natürlich nicht nur die klassische Musik, sondern auch
+Jazz, Musical oder die Popmusik des 20. Jahrhunderts.\
+Die Musik selbst mag vor 400 oder 80 Jahren geschrieben worden sein,
+wird aber heute noch -- und das fast täglich -- gespielt, erforscht,
+gehört, bearbeitet und so weiter. Ich bezweifle, dass das bei
+literarischen Werken in diesem Maße passiert -- am ehesten vielleicht
+bei den Dramen von William Shakespeare oder den Romanen von Jane Austen.
+
+Nehmen wir das Violinkonzert op. 35 von Pjotr Iljitsch Tschaikowski, das
+1878 entstand. Ein Konzertmitschnitt vom September 2023, der auf
+*YouTube* verfügbar ist, hat jetzt, ein halbes Jahr später, über eine
+Million Streams. Ich glaube nicht, dass so viele Menschen im Zeitraum
+von einem halben Jahr 150 Jahre nach seiner Veröffentlichung 1878 den
+Roman "Vor dem Sturm" von Theodor Fontane rezipieren -- oder dass in
+Bibliotheken so häufig nach dem Roman gefragt wird, wie es Bedarf nach
+dem Notenmaterial für das Violinkonzert gibt.
+
+*KS: Die Frage eben interessiert mich auch, weil mir ebenso aufgefallen
+ist, dass doch recht viele, sagen wir einmal, digitale Themen im Forum
+Musikbibliothek Platz finden. Einerseits viele Projekte zur
+Digitalisierung von Nachlässen und Sammlungen. Andererseits aber gerade
+auch aus Öffentlichen Bibliotheken Beiträge zu Makerspaces und
+kuratierten Tracklists. Nehme ich das einfach falsch wahr? Ist das nicht
+ein gewisser Widerspruch zu den vielen historischen Themen? Oder bildet
+das einfach die Breite der Musikbibliotheken ab?*
+
+SH: Warum sollte das ein Widerspruch sein? Auch die Digitalisierung ist
+ein Thema, an der sich Musikbibliotheken (und wenige weitere
+Spezialbibliotheken) mehr abarbeiten müssen als die allgemeinen
+Bibliotheken, aber das ist doch eminent wichtig, wenn wir nicht als
+Fossilien enden wollen?!
+
+DH: Ich sehe da auch überhaupt keinen Widerspruch. Wir bewegen uns in
+der Musik immer im "Zeitlosen" oder zeitübergreifend und die
+Digitalisierung von Beständen hilft, die Brücke zu schlagen. Gute
+Digitalisierung eröffnet zudem neue Arten, mit Musik zu arbeiten, aber
+auch Musik zu erleben. Gleichzeitig ändert sich der praktische Umgang
+mit Noten auch im Konzertbetrieb. Eine E-Note muss -- genauso wie ihr
+gedrucktes Pendant -- viel mehr Anwendungskontexte erlauben als ein
+E-Book. Gleichzeitig beschäftigt sich auch die Musikwissenschaft als
+eine der Geisteswissenschaften zunehmend mit Themen der Digital
+Humanities.\
+Der Musikmarkt hat sich ebenso grundlegend geändert wie der Filmmarkt,
+vom physischen Medium hin zum Streaming. Das geht für Bibliotheken zum
+Beispiel mit neuen Lizenzmöglichkeiten einher.
+
+*KS: Wenn wir schon bei den Themen im Forum Musikbibliothek sind: Welche
+Themen würden Sie sich denn in Zukunft mehr wünschen? Sowohl als
+Schriftleitung als auch als aktive Musikbibliothekar\*innen?*
+
+SH: Welche Themen wir uns beziehungsweise unsere Leser\*innen sich mehr
+wünschen, ist sonnenklar: Praxisberichte zu Managementfragen und
+Erfahrungen mit verschiedenen Software-Anwendungen, Datenbanken oder
+Streamingportalen. Außerdem Erfahrungen mit Erwerbungsmodellen, bei
+denen bestimmte Tätigkeiten aus Lektorat, Katalogisierung und
+ausleihfertiger Bearbeitung an Firmen aus dem Buch- und Musikalienhandel
+vergeben werden. Es gibt aber nicht genug Kolleg\*innen, die darüber
+schreiben möchten, unter anderem weil es heikel ist beziehungsweise zu
+viel Interna tangiert.
+
+DH: Da kann ich nur zustimmen: Was vielen von uns am meisten hilft, sind
+Erfahrungen aus der Praxis und Überlegungen, wie sich unser Angebot in
+diesem Jahrzehnt und darüber hinaus entwickeln könnte. Mich persönlich
+treibt aber aktuell auch vermehrt die Frage um, was die Bedarfe unserer
+Nutzenden in ein paar Jahren sein werden -- wohin sich Musikpraxis und
+-forschung entwickeln und welche Rolle Bibliotheken dabei spielen
+werden.
+
+*KS: Okay. Eine Frage habe ich mir für das Ende aufgehoben, weil sie
+vielleicht in ein Wespennest stößt. Deshalb lassen Sie mich kurz vorher
+sagen, dass ich persönlich ein großer Freund von physischen Medien bin ‒
+ich lese, was ich kann, gedruckt; ich höre, was ich kann, direkt von
+Vinyl. Aber auch, weil die LIBREAS so wie viele andere bibliothekarische
+Zeitschriften einen anderen Weg gehen: Warum erscheint Forum
+Musikbibliothek eigentlich weiterhin gedruckt? Ich weiss, nach zwölf
+Monaten publizieren Sie alle Artikel als Open Access. Aber dennoch ist
+der Hauptpublikationsweg ja weiterhin die gedruckte Ausgabe. Ist das von
+den Musikbibliotheken so gewollt? Wird das auch in Zukunft so sein?*
+
+SH & DH: Momentan stellen wir uns diese Frage nicht -- eine Mehrheit
+möchte noch das gedruckte Exemplar und mit der erwähnten OA-Strategie
+sind wir zufrieden. Es wäre außerdem eher eine Entscheidung des
+IAML-Vorstands beziehungsweise der Mitgliederversammlung, denn *Forum
+Musikbibliothek* ist (auch) eine Verbandszeitschrift.
+
+*KS: Frau Heß, Frau Hein, haben Sie vielen Dank für Ihre Antworten.*
