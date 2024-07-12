@@ -1,0 +1,8 @@
+**Zusammenfassung**: Digitale Sammlungen klingen erstmal nicht. Aber dann.
+‘Spoken Wikisource – German’ enthält Töne von Joachim Ringelnatz, gesprochene, Texte aus ‘Die Gartenlaube’, auch ‘spoken’, Stimmen und Ideen. Der Klang der ‘Gesprochenen Wikisource’ ist vielschichtig beziehungsweise kann und könnte er sehr vielseitig sein – metaphorisch als der Klang des Projekts ‘Gesprochene Wikisource’, durch die Stimmen der beteiligten Gemeinschaften oder der Räume, in denen diese Aufnahmen entstehen; zum Beispiel Tonstudios, in denen Sprecher:innen sprechen.
+Gesprochen werden Textquellen aus Wikisource akustisch erfahrbar. Wahrnehmbar wird dadurch nicht nur der Inhalt, sondern auch eine Textinterpretation. Im Bibliothekskatalog gibt es diese Möglichkeit noch nicht, die Quellen sind entweder als Text oder Audio verfügbar, hybrid selten.
+Beim Einsprechen und Hören ist ein Teil der Rezeption zu spüren: Wie verstehe und interpretiere ich den Text einer Vorleser- oder Sprecherin, die sich mit gesprochenem Volltext des Portals Wikisource auseinandersetzt?! Dabei findet Interpretation statt, mehr als eine.
+Wikisource gewinnt so als gesprochene digitale Sammlung weitere Deutungs- und Metaebenen – Nuancen, Zugänge und Freiheitsgrade, Bedeutungen, Links. Dieser ‘Sound of Gesprochene Wikisource’ ist ein Nachhall medialer Auseinandersetzungen mit … Text in einer Bibliothek. Die Autorinnen berichten, betonen und spielen dabei mit Aspekten der ‘Gesprochenen Wikisource’ in historischen, bibliophilen und modernen Linkzusammenhängen mit dem Podcaststudio der SLUB, mit den offenen Kulturdaten des Dresdner Geschichtsvereins, mit 'DatenlaubeJam' am Dienstag und Lesungen im Advent – ‘The Sound of Wikisource’ sozusagen, ‘read, spoken and linked open’.
+
+---
+

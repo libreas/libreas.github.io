@@ -17,6 +17,8 @@
     
     
     
+    <meta property="dc:creator" content="Julia Kohlbach" />
+    
     
     
     <meta property="dc:date" content="2024" />
@@ -157,6 +159,10 @@
         <div class="titelei">
             
               
+              
+            <i itemprop="author">Julia Kohlbach</i> 
+            
+            
             
         </div>
  -->
@@ -175,6 +181,10 @@
             <br>
             Zitiervorschlag
             <br>
+            
+            
+            Julia Kohlbach,
+            
             
              
             "Von wegen ein stilles Örtchen".
@@ -211,7 +221,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2024-07-08</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2024-07-12</a>)</p>
 
 </footer>
       </div>

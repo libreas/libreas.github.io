@@ -1,0 +1,388 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage[babel]{csquotes}
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage[labelformat=empty]{caption} % option 'labelformat=empty]' to surpress adding "Abbildung 1:" or "Figure 1" before each caption / use parameter '\captionsetup{labelformat=empty}' instead to change this for just one caption
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+\setcapindent{0pt} % no indentation in captions
+\usepackage{xurl} % Breaks URLs
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+% typo setup
+\clubpenalty = 10000
+\widowpenalty = 10000
+\displaywidowpenalty = 10000
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+\usepackage{breakurl}
+
+%meta
+%meta
+
+\fancyhead[L]{J. Bemme, C. Förster, J. Flade\\ %author
+LIBREAS. Library Ideas, 45 (2024). % journal, issue, volume.
+\href{https://doi.org/10.18452/...}{\color{black}https://doi.org/10.18452/...}
+{}} % doi 
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/4.0/}{\color{black}Creative Commons BY 4.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{The Sound of Gesprochene Wikisource}}% title
+\author{Jens Bemme, Caroline Förster, Juliane Flade} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={The Sound of Gesprochene Wikisource},
+      pdfauthor={Jens Bemme, Caroline Förster, Juliane Flade},
+      pdfcopyright={CC BY 4.0 International},
+      pdfsubject={LIBREAS. Library Ideas, 45 (2024).},
+      pdfkeywords={Bibliothek, Citizen Science, Gartenlaube, Vertonung, Wikisource, Vereinsarbeit},
+      pdflicenseurl={https://creativecommons.org/licenses/by/4.0/},
+	  pdfurl={https://doi.org/10.18452/...},
+	  pdfdoi={10.18452/...},
+      pdflang={de},
+      pdfmetalang={de}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+\begin{abstract}
+\noindent
+\textbf{Zusammenfassung}: Digitale Sammlungen klingen erstmal nicht. Aber dann.
+
+\enquote*{Spoken Wikisource -- German}\footnote{\url{https://commons.wikimedia.org/wiki/Category:Spoken_Wikisource_-_German}} enthält Töne von Joachim Ringelnatz,
+gesprochene\footnote{\url{https://commons.wikimedia.org/wiki/Category:Joachim_Ringelnatz_spoken}}, Texte aus \enquote*{Die Gartenlaube}, auch \enquote*{spoken}\footnote{\url{https://commons.wikimedia.org/wiki/Category:Die_Gartenlaube_spoken}}, Stimmen und
+Ideen. Der Klang der \enquote*{Gesprochenen Wikisource} ist vielschichtig
+beziehungsweise kann und könnte er sehr vielseitig sein -- metaphorisch
+als der Klang des Projekts \enquote*{Gesprochene Wikisource}, durch die Stimmen
+der beteiligten Gemeinschaften oder der Räume, in denen diese Aufnahmen
+entstehen; zum Beispiel Tonstudios, in denen Sprecher:innen sprechen.\footnote{Jens Bemme und Juliane Flade: Hat man da schon Töne? So funktioniert Gesprochene Wikisource, SLUB Open Science Lab, 20. Dezember 2023, \url{https://osl.hypotheses.org/9881}}
+
+Gesprochen werden Textquellen aus Wikisource akustisch erfahrbar.
+Wahrnehmbar wird dadurch nicht nur der Inhalt, sondern auch eine
+Textinterpretation. Im Bibliothekskatalog gibt es diese Möglichkeit noch
+nicht, die Quellen sind entweder als Text oder Audio verfügbar, hybrid
+selten.
+
+Beim Einsprechen und Hören ist ein Teil der Rezeption zu spüren:
+Wie verstehe und interpretiere ich den Text einer Vorleser- oder
+Sprecherin, die sich mit gesprochenem Volltext des Portals Wikisource
+auseinandersetzt?! Dabei findet Interpretation statt, mehr als eine.
+
+Wikisource gewinnt so als gesprochene digitale Sammlung weitere
+Deutungs- und Metaebenen -- Nuancen, Zugänge und Freiheitsgrade,
+Bedeutungen, Links. Dieser \enquote*{Sound of Gesprochene Wikisource} ist ein
+Nachhall medialer Auseinandersetzungen mit \ldots{} Text in einer
+Bibliothek. Die Autorinnen berichten, betonen und spielen dabei mit
+Aspekten der \enquote*{Gesprochenen Wikisource} in historischen, bibliophilen und
+modernen Linkzusammenhängen mit dem Podcaststudio der SLUB, mit den
+offenen Kulturdaten des Dresdner Geschichtsvereins, mit \enquote*{DatenlaubeJam}
+am Dienstag und Lesungen im Advent -- \enquote*{The Sound of Wikisource}
+sozusagen, \enquote*{read, spoken and linked open}.\footnote{\url{https://de.wikiversity.org/wiki/DieDatenlaube/LIBREAS_The_Sound_of_Gesprochene_Wikisource}}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+\end{abstract}
+
+%body
+
+\newpage
+\hypertarget{einleitung}{%
+\section{Einleitung}\label{einleitung}}
+
+\begin{center}
+\emph{Was meint ihr wohl, was eure Eltern treiben,}
+
+\emph{Wenn ihr schlafen gehen müßt?}
+
+\emph{Und sie angeblich noch Briefe schreiben.}
+
+\emph{Ich kann's euch sagen: (...)}
+\end{center}
+
+Ja, was kann man abends alles machen? Lesen, Transkribieren, Editieren
+und Edieren. Die Verszeilen \enquote*{An Berliner Kinder} von Joachim
+Ringelnatz stehen im \enquote*{Kinder-Verwirr-Buch} von 1931. Das
+Gedicht und das Buch wurden transkribiert und sind Teil der
+deutschsprachigen Wikisource.\footnote{\url{https://de.wikisource.org/wiki/An_Berliner_Kinder}}
+Man findet den Text vertont längst auf YouTube,\footnote{\url{https://youtu.be/nbWMbkPey-k}}
+seit Weihnachten 2023 auch eingesprochen\footnote{\url{https://www.slub-dresden.de/besuchen/arbeitsplaetze-und-arbeitsraeume/podcaststudio}}
+in Wikimedia Commons -- verknüpft in den Wikisourceseiten, in Wikidata
+und eingebettet in Blogbeiträgen.\footnote{\url{https://osl.hypotheses.org/9881}}
+So klingt 'Gesprochene Wikisource\textquotesingle{} für uns.
+
+\hypertarget{sound-of-hackathon-editathon-dienstags}{%
+\section{{[}{[}Sound of\ldots{]}{]} Hackathon, Editathon,
+dienstags}\label{sound-of-hackathon-editathon-dienstags}}
+
+Anfang 2022 begannen wir beim wöchentlichen \enquote*{DatenlaubeJam}
+Schriften des Dresdner Geschichtsvereins aus den Jahrzehnten um 1900 für
+Transkriptionen mit Wikisource ins Auge zu fassen.\footnote{\url{https://de.wikiversity.org/wiki/DieDatenlaube/Notizen/2022}}
+Ein paar Aktive, andere Freunde des Vereins und die Geschäftsführerin
+öffneten von da an dienstags morgens Browser und Webcams, um zu lernen
+mit den Methoden der \enquote*{Datenlaube} erst ein
+Mitgliederverzeichnis und dann reihenweise Vereinsmitteilungen und
+Sonderveröffentlichungen in Wikisource\footnote{\url{https://de.wikisource.org/wiki/Dresdner_Geschichtsverein}}
+neu zu publizieren.\footnote{\url{https://saxorum.hypotheses.org/10099}}
+
+Hinzu kam das Podcaststudio in der Zentralbibliothek der Staats-,
+Landes- und Universitätsbibliothek (SLUB), das 2022 eingerichtet wurde,
+als neue Infrastruktur für digitale Töne. Erste Aufnahmen
+selbstgewählter Texte entstanden dort an einem vorweihnachtlichen
+Dienstagmorgen im Advent gemeinsam: Technikschulung, Gedichte von
+Ringelnatz, kurze Artikel aus der \enquote*{Gartenlaube} -- eine kleine
+Weihnachtsfeier.\footnote{\url{https://de.wikiversity.org/wiki/DieDatenlaube/Gesprochene_Wikisource\#Dezember_2022}}
+Seitdem wächst die Liste fertiger Transkriptionen und damit der Fundus
+umfangreicher Vereinsmitteilungen um 1900, kurzer und unterhaltender
+\enquote*{Dresdner Geschichtsblätter}\footnote{\url{https://de.wikisource.org/wiki/Dresdner_Geschichtsbl\%C3\%A4tter}},
+die bisher zwar gescannt und mit Optical Character Recognition (OCR) in
+digitalen Sammlungen der SLUB aber gänzlich unbearbeitet zugänglich
+waren. 2024 werden möglicherweise einige dieser -- unserer --
+Geschichtsblätter eingesprochen und neu veröffentlicht, möglicherweise
+wieder im Advent.
+
+Wichtig dabei: Austausch, Spaß, Reflexion und Gruppendynamik. Von
+\enquote*{Hackathon ist immer (dienstags)}\footnote{\url{https://de.wikiversity.org/wiki/DieDatenlaube/Notizen/GeNeMe_Abstrakt}},
+einem inoffiziellen Leitspruch des \enquote*{DatenlaubeJams}, gibt es
+längst Varianten: \enquote*{Editathon (auch) ist immer} und Hackathon
+ist immer (öfter). Fast alle historischen \enquote*{Mittheilungen} des
+Geschichtsvereins sind komplett in Wikisource bearbeitet. Die
+Autor:innen verwiesen darin auf ihre weiteren Veröffentlichungen und auf
+andere Referenzen, zum Beispiel in den \enquote*{Dresdner
+Geschichtsblättern}. Diese Verweise können wir in Wikisource direkt
+verlinken und in Wikidata nachweisen (WikiCite\footnote{\url{https://meta.wikimedia.org/wiki/WikiCite}}).
+Band 1 der Geschichtsblätter ist fast komplett, der zweite wird in Kürze
+gemeinsam korrigiert, Band 7 folgt.\footnote{\url{https://de.wikisource.org/wiki/Dresdner_Geschichtsverein\#Dresdner_Geschichtsbl\%C3\%A4tter}}
+
+\hypertarget{vereins--und-beteiligungsprojekt}{%
+\section{Vereins- und
+Beteiligungsprojekt}\label{vereins--und-beteiligungsprojekt}}
+
+Mit dem Seitenprojekt \enquote*{Gesprochene Wikisource} geht es
+einerseits um die Inhalte und die Nutzung der historischen Texte. Basis
+sind auf der anderen Seite die Textproduktion und -edition: die
+Erstellung und das eigenhändige Bearbeiten -- also das Transkribieren --
+von Vereinsmitteilungen, Aufsätzen und Artikeln als Aktivität des
+Geschichtsvereins mit dem Team der \enquote*{Datenlaube} und der
+Bibliothek.
+
+Was motiviert uns, als Aktive, Mitglieder des Geschichtsvereins, Gründer
+des Datenlaube-Pro\-jekts und Mitarbeiter:innen der SLUB? Die Motivation,
+mit Wikisource ehrenamtlich tätig zu werden, speist sich aus eigenem
+Interesse an Geschichte in Dresden, Anerkennung und dem Gefühl von
+Selbstwirksamkeit in einer Gemeinschaft ähnlich \enquote*{tickender}
+Menschen. Welche Themen wecken überhaupt Interesse? Der Dresdner
+Geschichtsverein -- vielmehr der historische Vorgängerverein -- war als
+Herausgeber geschichts(bürger)wissenschaftlicher Schriften äußerst
+produktiv. Wir haben hier einen reichen Fundus von Textquellen, die für
+Dresden Stadtgeschichte beschreiben. Die SLUB erprobt nebenbei Citizen
+Science sowie Crowdsourcing und gewinnt weitere digitale Versionen plus
+Katalogisate historischer Drucke.
+
+Teilnehmer:innen am DatenlaubeJam suchen sich Texte selbst aus, die sie
+bearbeiten, und sind dann meist begeistert. Diese Bearbeitung ist
+zeitlich nicht an den \enquote*{DatenlaubeJam} gebunden und geschieht
+unabhängig. Jede:r arbeitet weitgehend autonom in Wikisource und bei
+Bedarf mit Wikimedia Commons und Wikidata.
+
+Anerkennung bietet der DatenlaubeJam, die digitale morgendliche
+Austauschrunde jeden Dienstag. Aber auch der Geschichtsverein, der
+Ergebnisse dieser Arbeiten in \enquote*{Dresdner Heften}, in Vorträgen
+und Artikeln aufgreift und publik macht.\footnote{\url{https://www.dresdner-geschichtsverein.de/dresdner_hefte.html}}
+
+Selbstwirksamkeit entsteht hier aus erlernter digitaler
+Methodenkompetenz und gegenseitiger Hilfe. Die Bedienoberfläche von
+Wikisource für sich zu erschließen, dort immer sicherer und schneller zu
+werden, ist Erfolg und Ansporn. Dabei erhalten alle Unterstützung von
+erfahrenen Wikisourclern innerhalb und außerhalb der sich regelmäßig
+treffenden Gruppe. Diese Selbstwirksamkeit ist ein gewichtiges Motiv für
+diese Form bürgerwissenschaftlichen Arbeitens: Transkriptionen und
+Citizen Science mit historischen Quellen der Geschichtswissenschaft,
+deren bibliografischer Erschließung, Edition und schließlich Vertonung
+für \enquote*{Gesprochene Wikisource}.
+
+Solche selbst vertonten, gesprochenen historischen Quellen fügen dem
+Bearbeiten und Erleben eine Stufe hinzu: Sprache und Wahrnehmung der
+eigenen Stimme, verschiedene Ausdrucksweisen, Aufnahmetechnik und
+gemeinsames Ausprobieren. Oder: Die Scheu, die eigene Stimme zu hören
+und sich nicht als Profi zu fühlen, schreckt manche:n letztlich ab,
+einen Wikisourcetext einzusprechen oder die Aufnahme dann auch zu
+veröffentlichen. So oder so: Das gemeinsame digitale Treffen und
+Ausprobieren sowie die technische Einführung im Podcaststudio prägen
+indirekt auch die eigene Arbeit an den Quellen, Texten und
+Linkzusammenhängen in Wikisource, Wikidata, Commons und in benachbarten
+Webprojekten, Blogs und Open-Access-Publikationen wie LIBREAS. Der
+Dresdner Geschichtsverein hat mit Wikisource ein Vereinsprojekt entdeckt
+und entwickelt. \enquote*{Die Datenlaube} vermittelt digitale Methoden.
+Die Bibliothek bietet Räume, Technik und Begleitung und gewinnt
+Erfahrungen für die Nutzung des Podcaststudios. \enquote*{Sound}
+entsteht dabei durch Kooperation.
+
+\hypertarget{wikisource-inklusive-klang-mit-sprachen}{%
+\section{Wikisource inklusive Klang mit
+Sprachen}\label{wikisource-inklusive-klang-mit-sprachen}}
+
+Die Arbeit an Texten in Wikisource und die Aufnahmen für
+\enquote*{Gesprochene Wikisource} offenbaren längst weitere Facetten und
+daran anknüpfend Ideen für Neues. Ein paar Beispiele zum Weiterdenken:
+
+Die Texte werden gelesen, transkribiert und gesprochen nach dem
+Zwei-Sinne-Prinzip barrierefreier Gestaltung zugänglicher.\footnote{\url{https://www.dguv.de/barrierefrei/grundlagen/anwendung/ergonomie/zwei-sinne/index.jsp}}
+
+\begin{center}
+\emph{(...) Ich kann's euch sagen: Da wird geküßt,}
+
+\emph{Geraucht, getanzt, gesoffen, gefressen,}
+
+\emph{Da schleichen verdächtige Gäste herbei. (...)}
+\end{center}
+
+Durch die offene Wikimedia-Infrastruktur und das Podcaststudio der
+Bibliothek lässt sich Inklusion schnell und unkompliziert verwirklichen.
+Barrierefreiheit kann so von jeder und jedem selbst umgesetzt werden.
+Könnten wir den Ansatz ähnlich einfach auf Videospuren mit eingebetteter
+Gebärdensprache übertragen? Wikimedia Commons speichert auch Videos.
+
+\begin{center}
+\emph{(...) Da wird jede Stufe der Unzucht durchmessen}
+
+\emph{Bis zur Papagei-Sodomiterei.}
+
+\emph{Da wird hasardiert um unsagbare Summen.}
+
+\emph{Da dampft es von Opium und Kokain.}
+
+\emph{Da wird gepaart, daß die Schädel brummen. (...)}
+\end{center}
+
+Multilingualität -- Vielsprachigkeit: Wikisource gibt es in vielen
+Sprachversionen.\footnote{\url{https://wikisource.org/}} Wikidata bietet
+multilinguale Metadaten für all diese Transkriptionen und deren
+Tonaufnahmen. Wir können diese \enquote*{Spoken Wikisources} und
+Podcaststudios in Bibliotheken zusammen als offene
+Informationsinfrastruktur denken, in denen Tonspuren entstehen. Im
+Idealfall sind das neue offene Bildungsressourcen mit soliden offenen
+Metadaten, verknüpfbar, leicht einzubetten, einfach benutzbar und damit
+nützlich auch an potentiell vielen anderen Stellen im offenen Web.
+
+Verlinkendes Datendenken\footnote{\url{https://blog.slub-dresden.de/beitrag/2021/07/21/heimatforschung-mit-wikidata}}:
+Wir können mit Tonaufnahmen transkribierter Wikisourcetexte und mit
+deren offenen Metadaten in Wikidata \enquote*{Linked Open Data}-Methoden
+neu beziehungsweise anders vermitteln. Wie verändert sich dann unsere
+Idee der \enquote*{Digitalen Bibliothek}, wenn wir \enquote*{alles}
+(immer öfter und systematischer) abtippen, transkribieren und/oder ein-
+und aussprechen, vertonen, annotieren und offen erschließen?
+
+\enquote*{The Sound of Gesprochene Wikisource} ist ein Resonanzraum: für
+Menschen in Bibliotheken und deren offene Daten; für Ideen, was man mit
+solchen Daten alles machen kann; für und mit Gemeinschaften, die neue
+Medien erzeugen.
+
+\begin{center}
+\emph{(...) Ach schweigen wir lieber. --- Pfui Spinne, Berlin!}\footnote{Das vertonte Gedicht kann hier angehört werden: \url{https://commons.wikimedia.org/wiki/File:An\_Berliner\_Kinder.ogg}}
+\end{center}
+
+%autor
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{Autor*innen}
+
+Jens Bemme
+
+Jens Bemme studierte Verkehrswirtschaft und Lateinamerikastudien. Heute interessiert er sich für Dorfbacköfen 
+und historisches Radfahrerwissen um 1900 in der Oberlausitz und der Ostseeprovinzen. Mit der ‘Datenlaube’ und 
+Christian Erlinger erschließt er Wikisource-Volltexte der Illustrierten ‘Die Gartenlaube’ offen in Wikidata. 
+Als Mitarbeiter der SLUB Dresden begleitet Jens landeskundliche Citizen Science-Initiativen insbesondere mit 
+den digitalen Werkzeugen und Gemeinschaften der Wikimedia-Bewegung. Mastodon: JensB@openbiblio.social
+
+(\url{https://orcid.org/0000-0001-6860-0924})
+
+Juliane Flade
+
+Juliane Flade studierte an der TU Dresden Sprach-, Literatur- und Kulturwissenschaften. Ihr Schwerpunkt lag hierbei 
+auf der Literatur der Gegenwart im ländlichen Raum. Vor ihrem Studium arbeitete sie als Logopädin. Aktuell ist sie 
+in der SLUB Dresden als Projektmanagerin für Inklusion und Citizen Science tätig. Dabei ist ihr Ziel Quellen, Wissen 
+und die Bibliothek zugänglicher zu machen. Ein Beispiel hierfür ist das Projekt Gesprochene Wikisource.
+
+(\url{https://orcid.org/0000-0002-3249-7299})
+
+Caroline Förster
+
+Caroline Förster ist Geschäftsführerin des Dresdner Geschichtsverein e.V.
+
+
+\end{document}

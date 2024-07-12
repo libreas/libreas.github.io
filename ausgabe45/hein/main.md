@@ -375,7 +375,7 @@ werden.
 
 *KS: Okay. Eine Frage habe ich mir für das Ende aufgehoben, weil sie
 vielleicht in ein Wespennest stößt. Deshalb lassen Sie mich kurz vorher
-sagen, dass ich persönlich ein großer Freund von physischen Medien bin ‒
+sagen, dass ich persönlich ein großer Freund von physischen Medien bin –
 ich lese, was ich kann, gedruckt; ich höre, was ich kann, direkt von
 Vinyl. Aber auch, weil die LIBREAS so wie viele andere bibliothekarische
 Zeitschriften einen anderen Weg gehen: Warum erscheint Forum
