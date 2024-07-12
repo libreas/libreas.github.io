@@ -2897,6 +2897,10 @@
         <lastmod>2024-07-12T17:23:04+02:00</lastmod>
     </url>
     <url>
+        <loc>https://libreas.eu/ausgabe45/</loc>
+        <lastmod>2024-07-12T21:53:32+02:00</lastmod>
+    </url>
+    <url>
         <loc>https://libreas.eu/ausgabe45/editorial/</loc>
         <lastmod>2024-07-12T17:23:04+02:00</lastmod>
     </url>
@@ -2953,8 +2957,24 @@
         <lastmod>2024-07-12T17:23:04+02:00</lastmod>
     </url>
     <url>
+        <loc>https://libreas.eu/ausgabe45/inhalt/</loc>
+        <lastmod>2024-07-12T21:53:32+02:00</lastmod>
+    </url>
+    <url>
+        <loc>https://libreas.eu/ausgabe45/roth/</loc>
+        <lastmod>2024-07-12T21:53:32+02:00</lastmod>
+    </url>
+    <url>
+        <loc>https://libreas.eu/ausgabe45/roth/vita.html</loc>
+        <lastmod>2024-07-12T21:53:32+02:00</lastmod>
+    </url>
+    <url>
+        <loc>https://libreas.eu/ausgabe45/roth/meta.yaml</loc>
+        <lastmod>2024-07-12T21:53:32+02:00</lastmod>
+    </url>
+    <url>
         <loc>https://libreas.eu/ausgabe45/schuldt/</loc>
-        <lastmod>2024-07-12T17:23:04+02:00</lastmod>
+        <lastmod>2024-07-12T21:59:19+02:00</lastmod>
     </url>
     <url>
         <loc>https://libreas.eu/ausgabe45/schuldt/vita.html</loc>
@@ -2978,7 +2998,7 @@
     </url>
     <url>
         <loc>https://libreas.eu/ausgabe45/dldl/</loc>
-        <lastmod>2024-07-12T17:23:04+02:00</lastmod>
+        <lastmod>2024-07-12T21:59:19+02:00</lastmod>
     </url>
     <url>
         <loc>https://libreas.eu/ausgabe45/dldl/meta.yaml</loc>

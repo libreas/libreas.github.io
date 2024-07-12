@@ -343,7 +343,7 @@ weitgehend systematische Literatursichtung durch. Sie versammeln
 Literatur der letzten Jahre und besprechen sie einzeln. Auch wenn das
 nicht ihr Ziel war, liefern sie damit eine Handreichung für
 Bibliothekar\*innen, die sich für das Thema interessieren. Ungewollt ist
-dies also ein weiteres "Trans 101", aber vielleicht eines, dass ein
+dies also ein weiteres "Trans 101", aber vielleicht eines, das ein
 "Weitergehen" motiviert, da so sichtbar wird, dass die Grundlagen
 eigentlich alle schon mehrfach erklärt wurden. (ks)
 

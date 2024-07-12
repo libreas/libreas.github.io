@@ -1016,7 +1016,7 @@ Einrichtung. Er plädierte explizit für die Ausleihe von
 «ausgewählte\[n\] *Schallplatten*» (Angermann 1937a: 397), wie es «an
 einzelnen Orten verwirklicht worden \[ist\]» (Angermann 1937a: 397).
 
-## 3.2 Förderung der Hausmusik (1937)
+#### 3.2 Förderung der Hausmusik (1937)
 
 Direkt im Anschluss an den zweiten Teil des Beitrags von Angermann
 erschien, beginnend auf der nächsten Druckseite, eine kurze Darstellung
