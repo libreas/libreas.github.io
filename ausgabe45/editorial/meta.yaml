@@ -1,11 +1,11 @@
 
 <!DOCTYPE HTML>
 
-<html lang="en">
+<html lang="de">
 
 <head>
 	<meta charset="utf-8">
-	<title>Eindrücke von einem Dienstag (dem ausleihstärksten Tag der Woche) aus der Gemeindebücherei Grasbrunn im Dezember 2023 - LIBREAS. Library Ideas</title>
+	<title>Editorial #45: The Sound of Libraries - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
 
@@ -13,11 +13,11 @@
 
  <!-- RDFa Metadata (in DublinCore) -->
     
-    <meta property="dc:title" content="Eindrücke von einem Dienstag (dem ausleihstärksten Tag der Woche) aus der Gemeindebücherei Grasbrunn im Dezember 2023" />
+    <meta property="dc:title" content="Editorial #45: The Sound of Libraries" />
     
     
     
-    <meta property="dc:creator" content="Sabine Dunker" />
+    <meta property="dc:creator" content="Redaktion LIBREAS" />
     
     
     
@@ -25,7 +25,7 @@
     
     <meta property="dc:format" content="text/html" />
     <meta property="dc:language" content="de" />
-    <meta property="dc:identifier" content="https://libreas.eu/ausgabe45/dunker/meta.yaml" />
+    <meta property="dc:identifier" content="https://libreas.eu/ausgabe45/editorial/meta.yaml" />
     
     <meta property="dc:rights" prefix="cc: http://creativecommons.org/ns#" rel="cc:license" href="https://creativecommons.org/licenses/by/4.0/" content="CC-BY 4.0" />
 	
@@ -52,7 +52,7 @@
 
 	<link href="/atom.xml" rel="alternate" title="LIBREAS. Library Ideas" type="application/atom+xml">
 	
-	<link rel="canonical" href="https://libreas.eu/ausgabe45/dunker/meta.yaml">
+	<link rel="canonical" href="https://libreas.eu/ausgabe45/editorial/meta.yaml">
 	<link href="/favicon.png" rel="shortcut icon">
 	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
 
@@ -135,7 +135,7 @@
         
     
     <div align="right">
-    <p><small><a itemprop="sameAs" href="https://via.hypothes.is/https://libreas.eu/ausgabe45/dunker/meta.yaml">Annotate via hypothes.is</a></small></p>
+    <p><small><a itemprop="sameAs" href="https://via.hypothes.is/https://libreas.eu/ausgabe45/editorial/meta.yaml">Annotate via hypothes.is</a></small></p>
         <small><a itemprop="sameAs" href="main.pdf">Download PDF</a></small>
         </div>
     
@@ -143,13 +143,13 @@
         
 
         
-        <h1 itemprop="name" class="title">Eindrücke von einem Dienstag (dem ausleihstärksten Tag der Woche) aus der Gemeindebücherei Grasbrunn im Dezember 2023</h1>
+        <h1 itemprop="name" class="title">Editorial #45: The Sound of Libraries</h1>
         
         
 
         <div class="titelei">
         
-        <i itemprop="author">Sabine Dunker</i>
+        <i itemprop="author">Redaktion LIBREAS</i>
         
     </div>
 
@@ -160,7 +160,7 @@
             
               
               
-            <i itemprop="author">Sabine Dunker</i> 
+            <i itemprop="author">Redaktion LIBREAS</i> 
             
             
             
@@ -183,13 +183,13 @@
             <br>
             
             
-            Sabine Dunker,
+            Redaktion LIBREAS,
             
             
              
-            "Eindrücke von einem Dienstag (dem ausleihstärksten Tag der Woche) aus der Gemeindebücherei Grasbrunn im Dezember 2023".
+            "Editorial #45: The Sound of Libraries".
             
-            <i itemprop="provider">LIBREAS. Library Ideas</i>, 45 (<span itemprop="datePublished">2024</span>). <a itemprop="url" href="https://libreas.eu/ausgabe45/dunker/meta.yaml">https://libreas.eu/ausgabe45/dunker/meta.yaml</a>
+            <i itemprop="provider">LIBREAS. Library Ideas</i>, 45 (<span itemprop="datePublished">2024</span>). <a itemprop="url" href="https://libreas.eu/ausgabe45/editorial/meta.yaml">https://libreas.eu/ausgabe45/editorial/meta.yaml</a>
         </small>
         <hr>
     </p>

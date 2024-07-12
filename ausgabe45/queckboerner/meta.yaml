@@ -17,6 +17,8 @@
     
     
     
+    <meta property="dc:creator" content="Boris Queckbörner" />
+    
     
     
     <meta property="dc:date" content="2024" />
@@ -30,7 +32,7 @@
     <meta property="dc:source" content="LIBREAS. Library Ideas" />
     <meta property="dc:subject" content="Library and Information Science" />
     <meta property="dc:type" content="website" />
-    <meta property="dc:description" content="Der Beitrag stellt in aller Kürze das Konzept der Soundscape vor, wie es vor allem von R. Murray Schafer (1977) entwickelt worden ist. Ausgehend von Schafer wird in der Folge argumentiert, dass es sich bei der Bibliothek um eine spezifische Ausprägung einer Soundscape handelt, die im Kontrast zur gesellschaftlichen Umwelt als klangliche Heterotopie (Hi-Fi-Soundscape) beschrieben werden kann. Diese Hi-Fi-Umgebung trägt maßgeblich zur Entstehung einer lernförderlichen Atmosphäre in Bibliotheken bei, die unter anderem mit Begriffen wie &lt;q&gt;Bibliothekskonzentration&lt;/q&gt; oder die &lt;q&gt;Out-of-the-Box-Konzentration&lt;/q&gt; (Fansa, 2008) beschrieben worden ist und als Alleinstellungsmerkmal der Einrichtung gilt. Das Soundscape-Konzept ermöglicht hier eine neue analytische Perspektive auf diese Zusammenhänge, wodurch ein Mehrwert unter anderem für die bibliothekarischen Diskussionen um den physischen Lernort Bibliothek generiert werden kann. Zum Abschluss werden einige potentielle Anschlussthemen skizziert."/>
+    <meta property="dc:description" content="Der Beitrag stellt in aller Kürze das Konzept der Soundscape vor, wie es vor allem von R. Murray Schafer (1977) entwickelt worden ist. Ausgehend von Schafer wird in der Folge argumentiert, dass es sich bei der Bibliothek um eine spezifische Ausprägung einer Soundscape handelt, die im Kontrast zur gesellschaftlichen Umwelt als klangliche Heterotopie (Hi-Fi-Soundscape) beschrieben werden kann. Diese Hi-Fi-Umgebung trägt maßgeblich zur Entstehung einer lernförderlichen Atmosphäre in Bibliotheken bei, die unter anderem mit Begriffen wie &lt;q&gt;Bibliothekskonzentration&lt;/q&gt; oder &lt;q&gt;Out-of-the-Box-Konzentration&lt;/q&gt; (Fansa, 2008) beschrieben worden ist und als Alleinstellungsmerkmal der Einrichtung gilt. Das Soundscape-Konzept ermöglicht hier eine neue analytische Perspektive auf diese Zusammenhänge, wodurch ein Mehrwert unter anderem für die bibliothekarischen Diskussionen um den physischen Lernort Bibliothek generiert werden kann. Zum Abschluss werden einige potentielle Anschlussthemen skizziert."/>
     <meta property="dc:source" resource="urn:ISSN:1860-7950" /> 
 
 <!-- Google Scholar -->
@@ -157,6 +159,10 @@
         <div class="titelei">
             
               
+              
+            <i itemprop="author">Boris Queckbörner</i> 
+            
+            
             
         </div>
  -->
@@ -165,7 +171,7 @@
 
         
 
-        <p><small itemprop="description">Der Beitrag stellt in aller Kürze das Konzept der Soundscape vor, wie es vor allem von R. Murray Schafer (1977) entwickelt worden ist. Ausgehend von Schafer wird in der Folge argumentiert, dass es sich bei der Bibliothek um eine spezifische Ausprägung einer Soundscape handelt, die im Kontrast zur gesellschaftlichen Umwelt als klangliche Heterotopie (Hi-Fi-Soundscape) beschrieben werden kann. Diese Hi-Fi-Umgebung trägt maßgeblich zur Entstehung einer lernförderlichen Atmosphäre in Bibliotheken bei, die unter anderem mit Begriffen wie <q>Bibliothekskonzentration</q> oder die <q>Out-of-the-Box-Konzentration</q> (Fansa, 2008) beschrieben worden ist und als Alleinstellungsmerkmal der Einrichtung gilt. Das Soundscape-Konzept ermöglicht hier eine neue analytische Perspektive auf diese Zusammenhänge, wodurch ein Mehrwert unter anderem für die bibliothekarischen Diskussionen um den physischen Lernort Bibliothek generiert werden kann. Zum Abschluss werden einige potentielle Anschlussthemen skizziert.</small></p>
+        <p><small itemprop="description">Der Beitrag stellt in aller Kürze das Konzept der Soundscape vor, wie es vor allem von R. Murray Schafer (1977) entwickelt worden ist. Ausgehend von Schafer wird in der Folge argumentiert, dass es sich bei der Bibliothek um eine spezifische Ausprägung einer Soundscape handelt, die im Kontrast zur gesellschaftlichen Umwelt als klangliche Heterotopie (Hi-Fi-Soundscape) beschrieben werden kann. Diese Hi-Fi-Umgebung trägt maßgeblich zur Entstehung einer lernförderlichen Atmosphäre in Bibliotheken bei, die unter anderem mit Begriffen wie <q>Bibliothekskonzentration</q> oder <q>Out-of-the-Box-Konzentration</q> (Fansa, 2008) beschrieben worden ist und als Alleinstellungsmerkmal der Einrichtung gilt. Das Soundscape-Konzept ermöglicht hier eine neue analytische Perspektive auf diese Zusammenhänge, wodurch ein Mehrwert unter anderem für die bibliothekarischen Diskussionen um den physischen Lernort Bibliothek generiert werden kann. Zum Abschluss werden einige potentielle Anschlussthemen skizziert.</small></p>
 
         
 
@@ -185,6 +191,10 @@
             <br>
             Zitiervorschlag
             <br>
+            
+            
+            Boris Queckbörner,
+            
             
              
             "Vom <q>Sound-of-Silence</q> – Anmerkungen zur Soundscape Bibliothek".

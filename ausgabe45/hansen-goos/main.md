@@ -189,82 +189,75 @@ Privatgebrauch zur Verfügung.[^24]
 
 ### Zitierte Quellen und Forschungsliteratur
 
-\_ Michel Foucault: Die Heterotopien. Der utopische Körper. Zwei
+Michel Foucault: Die Heterotopien. Der utopische Körper. Zwei
 Radiovorträge, Frankfurt a.M. 2005.
 
-\_ Romy Hilbrich/Barbara Heindl: Stabi 2030 -- Tagebuchstudie, Berlin
+Romy Hilbrich, Barbara Heindl: Stabi 2030 -- Tagebuchstudie, Berlin
 2020,
 [https://blog.sbb.berlin/wp-content/uploads/Tagebuchstudie_final.pdf](https://blog.sbb.berlin/wp-content/uploads/Tagebuchstudie_final.pdf).
 
-\_ Martin Hollender (Hg.): *Denn eine Staatsbibliothek ist, bitte sehr!,
+Martin Hollender (Hg.): *Denn eine Staatsbibliothek ist, bitte sehr!,
 kein Vergnügungsetablissemang*. Die Berliner Staatsbibliothek in der
 schönen Literatur, in Memoiren, Briefen und Bekenntnissen namhafter
 Zeitgenossen aus fünf Jahrhunderten, Berlin 2008.
 
-\_ Martina Löw: Raumsoziologie, Frankfurt a.M. 2000.
+Martina Löw: Raumsoziologie, Frankfurt a.M. 2000.
 
-\_ Christian Mathieu: Vom Band -- im Klangraum von Hans Scharouns
+Christian Mathieu: Vom Band -- im Klangraum von Hans Scharouns
 Büchermaschine. Eine Erhörung, in: Sounds of Stabi. Eine akustische
 Vermessung der Staatsbibliothek zu Berlin am Kulturforum, Berlin 2024,
 S. 9--19 (Booklet zur CD).
 
-\_ Eva Menasse: Stabi + ich = stabil, in: Bibliotheksmagazin:
+Eva Menasse: Stabi + ich = stabil, in: Bibliotheksmagazin:
 Mitteilungen aus den Staatsbibliotheken in Berlin und München, 2013/3,
 S. 49--52,
 [https://doi.org/10.58159/20230413-002](https://doi.org/10.58159/20230413-002).
 
-\_ Judith Schalansky: Mein Schreibtisch steht in der Staatsbibliothek,
+Judith Schalansky: Mein Schreibtisch steht in der Staatsbibliothek,
 in: Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in
 Berlin und München, 2012/3, S. 10--12,
 [https://doi.org/10.58159/20230413-005](https://doi.org/10.58159/20230413-005).
 
-\_ Stefanie de Velasco: Die Erste, in: Zitty: das Wochenmagazin für
+Staatsbibliothek zu Berlin, speak low, Hannah Wiemer: Sounds of Stabi. Eine akustische Vermessung der Staatsbibliothek zu Berlin am Kulturforum, Berlin 2024 (CD). [https://doi.org/10.58159/20231218-000](https://doi.org/10.58159/20231218-000).
+
+Stefanie de Velasco: Die Erste, in: Zitty: das Wochenmagazin für
 Berlin 33 (2017), S. 78.
 
-\_ Hannah Wiemer: Der Weg des Buches: der Scharounbau der
+Hannah Wiemer: Der Weg des Buches: der Scharounbau der
 Staatsbibliothek zwischen Bücher- und Straßenverkehr (2021),
 [https://www.youtube.com/watch?v=fn3-zmepT5Q](https://www.youtube.com/watch?v=fn3-zmepT5Q).
 
-\_ Hannah Wiemer: The West Berlin Staatsbibliothek and the Sound
+Hannah Wiemer: The West Berlin Staatsbibliothek and the Sound
 Politics of Libraries, in: Grey Room 87 (2022), S. 44--65,
 [https://doi.org/10.1162/grey_a\_00343](https://doi.org/10.1162/grey_a_00343).
 
-\_ Hannah Wiemer: West-Berliner Leselandschaft. Die Bibliothek als
+Hannah Wiemer: West-Berliner Leselandschaft. Die Bibliothek als
 logistisches Denkwerkzeug, in: Zeitschrift für Medienwissenschaft 14
 (2022), S. 154--161,
 [https://doi.org/10.14361/zfmw-2022-140213](https://doi.org/10.14361/zfmw-2022-140213).
 
-\_ Edgar Wisniewski: Raumvision und Struktur: Gedanken über Hans
+Edgar Wisniewski: Raumvision und Struktur: Gedanken über Hans
 Scharouns Konzeption zum Bau der Staatsbibliothek, in: Ekkehart Vesper
 (Hg.): Festgabe zur Eröffnung des Neubaus in Berlin: Staatsbibliothek
 Preußischer Kulturbesitz, Wiesbaden 1978, S. 144--158.
 
-\_ Edgar Wisniewski: Hans Scharouns letztes Werk für Berlin: ein Bericht
+Edgar Wisniewski: Hans Scharouns letztes Werk für Berlin: ein Bericht
 über den fertiggestellten Bau, in: Bauwelt 70 (1979), S. 15--19.
 
-\_ Sounds of Stabi. Eine akustische Vermessung der Staatsbibliothek zu
-Berlin am Kulturforum, Berlin 2024 (CD).
+#### Websites:
 
-[Websites]{.ul}
+[http://sbb.berlin/sounds](http://sbb.berlin/sounds)
 
-\_ [http://sbb.berlin/sounds](http://sbb.berlin/sounds).
+[https://blog.sbb.berlin/kunstkopfkino/](https://blog.sbb.berlin/kunstkopfkino/)
 
-\_
-[https://blog.sbb.berlin/kunstkopfkino/](https://blog.sbb.berlin/kunstkopfkino/).
+[https://umbau.gmp.de/](https://umbau.gmp.de/)
 
-\_ [https://umbau.gmp.de/](https://umbau.gmp.de/).
+[https://www.boersenblatt.net/sites/default/files/documents/2024-02/hbl_2403plak.pdf](https://www.boersenblatt.net/sites/default/files/documents/2024-02/hbl_2403plak.pdf)
+[https://www.c2dh.uni.lu/projects/failure-and-success-dummy-head-recording-innovation-history-3d](https://www.c2dh.uni.lu/projects/failure-and-success-dummy-head-recording-innovation-history-3d)
 
-\_
-[https://www.boersenblatt.net/sites/default/files/documents/2024-02/hbl_2403plak.pdf](https://www.boersenblatt.net/sites/default/files/documents/2024-02/hbl_2403plak.pdf).
+[https://www.khm.de/veranstaltungen_mitschnitte/id.29797.masterclass-mit-wim-wenders/](https://www.khm.de/veranstaltungen_mitschnitte/id.29797.masterclass-mit-wim-wenders/)
 
-\_
-[https://www.c2dh.uni.lu/projects/failure-and-success-dummy-head-recording-innovation-history-3d](https://www.c2dh.uni.lu/projects/failure-and-success-dummy-head-recording-innovation-history-3d).
-
-\_
-[https://www.khm.de/veranstaltungen_mitschnitte/id.29797.masterclass-mit-wim-wenders/](https://www.khm.de/veranstaltungen_mitschnitte/id.29797.masterclass-mit-wim-wenders/).
-
-\_
-[https://www.schallplattenkritik.de/bestenlisten/longlist/longlist-2-2024](https://www.schallplattenkritik.de/bestenlisten/longlist/longlist-2-2024).
+[https://www.schallplattenkritik.de/bestenlisten/longlist/longlist-2-2024](https://www.schallplattenkritik.de/bestenlisten/longlist/longlist-2-2024)
 
 
 [^1]: [https://umbau.gmp.de/](https://umbau.gmp.de/).
@@ -319,8 +312,7 @@ Tagebuchstudie, Berlin 2020,
 
 [^14]: Hilbrich/Heindl, Stabi 2030 (wie Anm. 13), Tagebuch 13m, Tag 3.
 
-[^15]: Sounds of Stabi. Eine akustische Vermessung der Staatsbibliothek
-zu Berlin am Kulturforum, Berlin 2024.
+[^15]: Staatsbibliothek zu Berlin, speak low, Hannah Wiemer: Sounds of Stabi. Eine akustische Vermessung der Staatsbibliothek zu Berlin am Kulturforum, Berlin 2024 (CD). [https://doi.org/10.58159/20231218-000](https://doi.org/10.58159/20231218-000).
 
 [^16]: Zum Making-of siehe
 [https://blog.sbb.berlin/kunstkopfkino/](https://blog.sbb.berlin/kunstkopfkino/).
@@ -349,4 +341,4 @@ Berlin 2024, S. 9--19.
 
 [^23]: [http://sbb.berlin/sounds](http://sbb.berlin/sounds).
 
-[^24]: [https://doi.org/10.58159/20231218-000](https://doi.org/10.58159/20231218-000).
+[^24]: Staatsbibliothek zu Berlin, speak low, Hannah Wiemer: Sounds of Stabi. Eine akustische Vermessung der Staatsbibliothek zu Berlin am Kulturforum, Berlin 2024 (CD). [https://doi.org/10.58159/20231218-000](https://doi.org/10.58159/20231218-000).

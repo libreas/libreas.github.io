@@ -5,7 +5,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>Von wegen ein stilles Örtchen - LIBREAS. Library Ideas</title>
+	<title>Von wegen ein Stilles Örtchen - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
 
@@ -13,7 +13,7 @@
 
  <!-- RDFa Metadata (in DublinCore) -->
     
-    <meta property="dc:title" content="Von wegen ein stilles Örtchen" />
+    <meta property="dc:title" content="Von wegen ein Stilles Örtchen" />
     
     
     
@@ -143,7 +143,7 @@
         
 
         
-        <h1 itemprop="name" class="title">Von wegen ein stilles Örtchen</h1>
+        <h1 itemprop="name" class="title">Von wegen ein Stilles Örtchen</h1>
         
         
 
@@ -187,7 +187,7 @@
             
             
              
-            "Von wegen ein stilles Örtchen".
+            "Von wegen ein Stilles Örtchen".
             
             <i itemprop="provider">LIBREAS. Library Ideas</i>, 45 (<span itemprop="datePublished">2024</span>). <a itemprop="url" href="https://libreas.eu/ausgabe45/kohlbach/meta.yaml">https://libreas.eu/ausgabe45/kohlbach/meta.yaml</a>
         </small>

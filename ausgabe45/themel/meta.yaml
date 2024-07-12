@@ -17,6 +17,8 @@
     
     
     
+    <meta property="dc:creator" content="Sarah Themel" />
+    
     
     
     <meta property="dc:date" content="2024" />
@@ -157,6 +159,10 @@
         <div class="titelei">
             
               
+              
+            <i itemprop="author">Sarah Themel</i> 
+            
+            
             
         </div>
  -->
@@ -175,6 +181,10 @@
             <br>
             Zitiervorschlag
             <br>
+            
+            
+            Sarah Themel,
+            
             
              
             "The Sound of Libraries – ein Hörbild der Stadt Wien Büchereien".

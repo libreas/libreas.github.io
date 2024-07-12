@@ -17,6 +17,8 @@
     
     
     
+    <meta property="dc:creator" content="Karsten Schuldt" />
+    
     
     
     <meta property="dc:date" content="2024" />
@@ -157,6 +159,10 @@
         <div class="titelei">
             
               
+              
+            <i itemprop="author">Karsten Schuldt</i> 
+            
+            
             
         </div>
  -->
@@ -185,6 +191,10 @@
             <br>
             Zitiervorschlag
             <br>
+            
+            
+            Karsten Schuldt,
+            
             
              
             "Musik und Volksbüchereien in Deutschland, 1900–1945".

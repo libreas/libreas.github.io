@@ -5,9 +5,9 @@
 Das Hörbild "The Sound of Libraries -- ein Hörbild der Stadt Wien -
 Büchereien" entstand im Rahmen meiner Abschlussarbeit im "Lehrgang für
 hauptamtliche Bibliothekar\*innen" durch den BVÖ (Büchereiverband
-Österreich). Die Arbeit trägt den Titel "Wir hören einander zu" -
+Österreich). Die Arbeit trägt den Titel *"Wir hören einander zu" -
 Lehrlingsprojekt "Hörbild". Partizipation als Notwendigkeit hin zur
-Demokratisierung von Arbeitsabläufen (Themel, 2023).
+Demokratisierung von Arbeitsabläufen* (Themel, 2023).
 
 Mit März 2020 und der Coronapandemie änderte sich mein ursprüngliches
 Vorhaben, ein Hörspiel mit einigen Lehrlingen der Stadt Wien -

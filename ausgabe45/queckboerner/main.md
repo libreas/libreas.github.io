@@ -75,7 +75,7 @@ diesem Themenbereich.
 
 In seiner heutzutage zumeist genutzten Form geht der Begriff der
 Soundscape zurück auf den kanadischen Komponisten und Klangforscher R.
-Murray Schafer, der ihn in seiner zuerst 1977 erschienen Studie "The
+Murray Schafer, der ihn in seiner zuerst 1977 erschienenen Studie "The
 Tuning of the World" in den wesentlichen Grundlagen ausarbeitete.[^9]
 Die Studie basiert dabei in großen Teilen auf dem von ihm initiierten
 und von der UNESCO unterstützten "World Soundscape Project", das er mit
@@ -337,7 +337,7 @@ einzelner Bereiche erfasst und verglichen. Eine interessante Beobachtung
 ergibt sich dabei aus dem Vergleich zweier Bereiche mit annähernd
 gleichen Geräuschpegeln. So wurden für den Garderobenbereich (55dB) und
 den sogenannten offenen Bereich (48dB), der sich hinter dem Haupteingang
-befindet, nahezu gleiche Dezibelwerte gemessen. In der Ausertung merkt
+befindet, nahezu gleiche Dezibelwerte gemessen. In der Auswertung merkt
 die Autorin jedoch an:
 
 > "Für das eigene Empfinden waren diese Geräusche jedoch durchaus unterschiedlich in ihrer 'Qualität'. Während man die Geräuschkulisse im Offenen Bereich eher als ein, teils durchaus anregendes Hintergrundrumoren beschreiben könnte, ist es -- vor allem in den Stoßzeiten -- im Garderobenbereich einfach nur ... Lärm."[^51]
@@ -500,7 +500,7 @@ Kontextualisierung vorzunehmen. Das Konzept der Soundscape avanciert
 damit zu einem analytischen Werkzeug, das vielfältig eingesetzt werden
 kann: als Frageperspektive für weitere Studien, als These zur
 Plausibilisierung oder Falsifizierung, als Sammelbegriff für positive
-und negative Effekte der genuin Geräuschkulisse in Bibliotheken oder als
+und negative Effekte der genuinen Geräuschkulisse in Bibliotheken oder als
 Anknüpfungspunkt für die Integration in andere Diskussionszusammenhänge
 wie etwa Lernraumentwicklungsdebatten.
 
@@ -551,7 +551,7 @@ Beziehung*, hg. von Christoph Conrad und Martina Kessel, 121--140.
 Stuttgart: Reclam (Universal-Bibliothek: 9638).
 
 Daniel, Ute (2006): Kompendium Kulturgeschichte: Theorien, Praxis,
-Schlüsselwörter. 5., Durchges. und Aktual. Aufl. Frankfurt am Main:
+Schlüsselwörter. 5., durchges. und aktual. Aufl. Frankfurt am Main:
 Suhrkamp (Suhrkamp-Taschenbuch Wissenschaft: 1523).
 
 Depping, Ralf (2013): Können Bibliotheksbau und -ausstattung
@@ -714,7 +714,7 @@ Lernraumgestaltung im digitalen Wandel. Berlin: Hochschulforum
 Digitalisierung (Arbeitspapier: 45).
 
 Ruoff, Michael (2018): Foucault-Lexikon. Entwicklung - Kernbegriffe -
-Zusammenhänge. 4., Aktual. und erw. Aufl. Paderborn: Wilhelm Fink.
+Zusammenhänge. 4., aktual. und erw. Aufl. Paderborn: Wilhelm Fink.
 
 Schafer, R. Murray (1977): The tuning of the world. 1st ed. New York: A.
 A. Knopf.

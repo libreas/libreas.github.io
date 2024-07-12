@@ -17,6 +17,8 @@
     
     
     
+    <meta property="dc:creator" content="Alexander Struck" />
+    
     
     
     <meta property="dc:date" content="2024" />
@@ -157,6 +159,10 @@
         <div class="titelei">
             
               
+              
+            <i itemprop="author">Alexander Struck</i> 
+            
+            
             
         </div>
  -->
@@ -185,6 +191,10 @@
             <br>
             Zitiervorschlag
             <br>
+            
+            
+            Alexander Struck,
+            
             
              
             "Library Music – Audio for the Screens from Libraries of Sound".

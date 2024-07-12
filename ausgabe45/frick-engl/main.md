@@ -1,0 +1,1084 @@
+### Queerness and libraries
+
+Libraries are by the people and for the people and therefore inevitably
+reflect human realities, human needs, and human knowledge in all its
+facets through their staff, patrons, services, and collections. This
+also includes the dimensions of *identity* and *orientation* (Diversity
+Charter n.d.; Elsheri et al. 2022, Supplement Figure 2; Timmo D. 2022).
+In German the term \'Geschlechtsidentität\' is usually used, which is an
+insufficient translation of the more accurate English term
+[gender]
+*[identity]*](https://lgbtqia.fandom.com/wiki/Gender_identity)
+since English allows us to distinguish between sex and gender while
+German doesn\'t. According to the [split-attraction
+model](https://lgbtqia.mywikis.wiki/wiki/Split_Attraction_Model),
+*orientation* can be defined as romantic and sexual orientation (Glass
+2022). In this article, we combine all of these aspects under the terms
+*queerness* and *queer* to refer to people who identify as part of the
+[LGBTQIA+](https://lgbtqia.mywikis.wiki/wiki/LGBT)
+community and their lived realities and needs.
+
+We choose *queerness* and *queer* with care and intention not only for
+this article, but also for *Queerbrarians,* the network of queer people
+working or aiming to work in libraries that this article is about. The
+term *queer* is not without controversy and was used as an insult for a
+long time before the community reclaimed it as a positive term
+(Diversity Arts Culture n.d.). Today, it is sometimes even used to avoid
+more detailed labels (Log 2022) or as a synonym for *LGBTQIA+* (Wright
+2024). However, not all members of the community use it to identify
+themselves or accept it as a superordinate label. Others go so far as to
+explicitly remove themselves from the community, distancing themselves
+from it and the term *queer*. There are two recent and well-known
+examples of this in Germany. Jens Spahn is the former Federal Minister
+of Health and member of the Christian Democratic Union of Germany who
+immortalized himself with the words \"I\'m not queer, I\'m gay.\"[^1]
+(Achterberg 2023). Alice Weidel is a member of the Bundestag and member
+of the Alternative for Germany, a right-wing political party, who
+proclaimed \"I\'m not queer, I\'m married to a woman I\'ve known for
+twenty years.\"[^2] (Achterberg 2023). We have no intention of
+contradicting their refusal to use the term *queer* for themselves,
+especially since *queer* is a political term and includes the commitment
+against discrimination and for equal treatment of all members of the
+LGBTQIA+ community, to which these people don\'t commit themselves to.
+So the fact that we use *queer* here and in the network is in itself
+political.
+
+Some readers might also be irritated by the fact that *we* is being used
+in this article. This is not always common in journal articles. However,
+we recognize that our identification as part of the LGBTQIA+ community
+has an impact on both the perspectives presented here and the visibility
+of queer voices in the library world. In German-speaking countries,
+*queerness* is still an underrepresented topic in libraries compared to
+the US (Gerlach 2023). According to the loop model, there is an
+interdependency between the self-image of libraries, library science and
+practice, and the personal positioning of librarians (Gerlach 2023). The
+underrepresentation mentioned above is therefore also due to the
+reluctance of queer people involved in research and practice to take a
+personal stance and voice that they are affected themselves. As part of
+*Queerbrarians,* we would like to positively reinforce this
+interdependence both with the contribution we make with this article and
+with the creation of *Queerbrarians.*[^3] We take our cue from those who
+came before us, who paved the way for us and whose openness made others
+feel less alone and allowed them to be approached with questions about
+name changes, advice on coming out to colleagues and much more (Walters
+2023).
+
+### Queerbrarians
+
+The idea for *Queerbrarians* was born in a small group during the
+planning and submission for a hands-on lab for BiblioCon 2024 (Zeuner
+et al. 2024).[^4] The session titled \"More Glitter? How To LGBTQIA+
+Safe Space for Libraries\" was planned as an open discussion for
+collectively answering the questions of how one can be a safe person for
+the LGBTQIA+ community and make the library a safe(r) space (The
+Roestone Collective 2014; Minkov 2021). It was noted with some
+frustration that the impetus for the discussion and the design of the
+hands-on lab was once again in the hands of the community itself.
+
+If the LGBTQIA+ community wants change, it has to create it itself. This
+is a dilemma because overburdening, i.e. overloading members of the
+community with additional emotional and actual work around the topic of
+*queerness* (Heinze 2021), is not to be underestimated as an additional
+burden to already existing professional activities. This was also
+discussed at the first *Queerbrarians* meeting*:* The additional burden
+of the unintentionally assumed or ascribed role as a main contact when
+dealing with *queerness*, advocating for visibility and against
+discrimination or by coming out, mixes with the need to finally see
+change.
+
+Roberto wrote about his experiences as a
+[trans](https://lgbtqia.fandom.com/wiki/Transgender) man
+in his library in 2011:
+
+> \"Accept that you will be That Transgender Library Staffer for a
+> while, just because this may be new and unusual at your work, and
+> because people like to gossip. If you become heavily involved in
+> workplace activism, you may ultimately become That Angry Transgender
+> Library Staffer Who Ruins Everything.\" (Roberto 2011, p. 127)
+
+The fact that even in 2024, people with such a role and commitment to
+the LGBTQIA+ community are still not always met positively and are
+rarely appreciated for their efforts is an additional complication. In
+the end, the joke \"Then we might as well set up a network and at least
+help each other\" became a reality and *Queerbrarians* was founded.
+
+The first meeting with around 60 people took place online on November
+21, 2023. This was the overwhelming number of people who responded to
+the call via the DACH[^5] Discord server, TikTok and several German
+library mailing lists. At this meeting, communication channels through
+Discord[^6] and email[^7] were established, further meetings were
+planned and topics, wishes and concerns were collected. Everything that
+interests queer library people, on a large and small scale. In the end,
+the focus was still on networking: Who are you? Where do you work? How
+are you doing there? What are your pronouns? Is anyone else here
+[aroace](https://lgbtqia.mywikis.wiki/wiki/Aroace)? No
+less central was the establishment of certain rules that apply both to
+the virtual meetings[^8] and to Discord (Table 1).
+
+| *Queerbrarians* is a safe space for the queer community. To ensure that they remain a safe space, there are a few rules for the Discord server and the meetings. |                                                                                                                                                                             |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1                                                                                                                                                              | Respectful and friendly interaction with one another.                                                                                                                       |
+| 2                                                                                                                                                              | Respect the pronouns of others (click on the profile picture to see them, otherwise ask).                                                                                   |
+| 3                                                                                                                                                              | Discrimination on the basis of ethnicity, sex, gender identity, sexual or romantic orientation, religion, nationality, age, heritage, or disability is not tolerated here.  |
+| 4                                                                                                                                                              | Stick to appropriate content.                                                                                                                                               |
+| 5                                                                                                                                                              | No topics discussed during the meeting or on Discord will be made public in any way unless it has been mutually agreed on beforehand.                                       |
+| 6                                                                                                                                                              | Nobody is forced to come out. If you’re here, it’s assumed that you’re part of the LGBTQIA+ community and that’s all anyone needs to know.                                  |
+| 7                                                                                                                                                              | [TERFs](https://en.wikipedia.org/wiki/TERF_(acronym)) and trans hostile people in general are not tolerated here.                                                                                                           |
+| 8                                                                                                                                                              | The A in LGBTQIA+ does not stand for [Ally](https://lgbtqia.mywikis.wiki/wiki/Ally), but for [Asexual](https://lgbtqia.mywikis.wiki/wiki/Asexual), [Aromantic](https://lgbtqia.mywikis.wiki/wiki/Aromantic) and [Agender](https://lgbtqia.mywikis.wiki/wiki/Agender). You are part of the community and therefore part of us.                                  |
+| 9                                                                                                                                                              | No spamming and no trolling.                                                                                                                                                |
+| 10                                                                                                                                                             | No inappropriate profiles (user names, avatars, accounts and statuses).                                                                                                     |
+| 11                                                                                                                                                             | Before you send a direct message, please ask the person in question if this is welcome.                                                                                     |
+
+Table 1: The rules of *Queerbrarians* (as of February 20, 2024).
+
+On Discord there are channels on the topic of *Queerbrarianship*, i.e.
+everything to do with *queerness* and libraries, as well as general
+interests and the further development of *Queerbrarians* as a network.
+The next online meetings are also announced on the server, as well as
+via email and on the website <https://queerbrarians.de/>.
+The meetings currently consist of a pre-defined thematic part at the
+beginning, such as queer media tips or everyday life as a queer person
+in your own library, and an open part for networking and community
+building at the end. The current aim is to network and support each
+other professionally and thematically, but also just general community
+building.
+
+### Queer topics
+
+At the first *Queerbrarians* meeting, a digital pinboard was used to
+collect topics and concerns that people would like to discuss. Through
+upvotes, all attendees were also able to indicate which topics
+interested them as well. In this article, we have compiled the results
+and divided them into nine thematic blocks. However individual topics
+may fit several different thematic blocks. We also supplement these with
+suitable literature and other aspects. It's important to note that the
+topics included here are not an exhaustive list, but rather a reflection
+of the concerns that are of particular relevance to *Queerbrarians.*
+
+#### Queer togetherness
+
+The topic with the second most upvotes was the stated goal of \"making
+the library world more queer-friendly\" (25 upvotes). At this point,
+everyone should pause, because this can only be a goal if it is not yet
+the case. This realization must be internalized by everyone, especially
+the non-queer members of the library community. Only in this way is
+change possible. The library world means everything and everyone:
+employees, patrons, services, and collections.
+
+Libraries cannot be safe(r) spaces for their patrons if they are not
+safe(r) spaces for their employees. The topic \"Queer-hostile
+workplaces\" was accompanied by the specific questions \"How do I deal
+with queer-hostile colleagues?\" (12 upvotes) and \"\[W\]hat do I do
+with deadnaming in the workplace \[\...\]?\" (7 upvotes). Deadnaming
+refers to the use of the name that a trans or
+[non-binary](https://lgbtqia.fandom.com/wiki/Gender_identity#Non-binary)
+person was given at birth, the so-called
+[deadname](https://www.merriam-webster.com/dictionary/deadname),
+instead of the chosen name (Sinclair-Palm & Chokly 2023). The extent to
+which the latter in particular can also put a strain on professional
+relationships can be seen from the comments on the question, which ask
+about how to deal with incorrect forms of address in business emails and
+the limits of cordiality after multiple callouts on the issue. The
+question of how long one must remain friendly when boundaries are
+crossed repeatedly, such as the use of the correct pronouns and form of
+address, is a punch in the gut of all those who belong to one or more
+marginalized groups and often experience tone policing.[^9]
+
+Another problem is the fact that the deadname cannot be legally changed
+so easily and therefore still frequently appears on official documents
+such as employment contracts, and affected people are entirely dependent
+on the respect and empathy of colleagues and superiors. People who do
+not use pronouns, neopronouns,[^10] or alternate pronouns and forms of
+address are also dependent on the willingness of their colleagues to
+learn new things and be flexible. Their only other alternatives are to
+accept
+[misgendering](https://lgbtqia.fandom.com/wiki/Misgendering)
+or to remain in the closet and conform to the ideas of others. This can
+be a painful experience and includes, but is not limited to, people who
+identify as non-binary,
+[agender](https://lgbtqia.fandom.com/wiki/Agender),
+[genderqueer](https://lgbtqia.fandom.com/wiki/Genderqueer)
+or
+[genderfluid](https://lgbtqia.fandom.com/wiki/Genderfluid)
+(Thorne et al. 2020; Bradford et al. 2020). Guidelines on
+gender-sensitive language that also include gender identities beyond the
+binary scheme are a good start (Berufsverband Information Bibliothek
+2020; Keite 2024). Unfortunately, integrating and practicing this in
+collegial communication is still far from the current reality in some
+places.
+
+Nevertheless, *Queerbrarians* do not think about negative experiences
+exclusively, but also aim to address constructive issues such as how to
+\"raise colleagues' awareness - for queer topics, problems, etc.\" (15
+upvotes). This ranges from recognizing these small forms of everyday
+discrimination to thinking about non-cis and non-hetero perspectives and
+actively advocating for the LGBTQIA+ community. One example of this is
+\"\[u\]npleasant Harry Potter discussions or justifications for why I
+don\'t want to do HP events\" (8 upvotes). For all those who don\'t know
+why queer people have a very difficult to outright negative relationship
+with Harry Potter (HP), it\'s time to find out now by doing your own
+research (Dias Correia 2023). Researching this yourself and not
+expecting to have it explained to you by queer people on demand is part
+of the process, the first step to becoming an
+[Ally](https://lgbtqia.mywikis.wiki/wiki/Ally), and avoids
+the overburdening which has already been mentioned. Creating awareness
+for queer issues does not necessarily mean dismissing such an event
+entirely, but being sensible of the problem, addressing it openly, not
+following up if someone refuses the assignment and not scheduling one of
+the openly queer people in the team to host it.
+
+The library community needs to talk about how to create a queer-friendly
+environment for staff and patrons. Establishing a \"Code of Conduct for
+Events\" (3 upvotes) in our libraries, as is the case with formats such
+as Jugend hackt[^11], can be a start. Codes of conduct at our
+conferences and meetings, and in our libraries in general can also help
+us all to reduce uncertainty and build trust in our interactions with
+one another. In addition, clear position papers are a tool for libraries
+to signal to members of the LGBTQIA+ community that their actions will
+reflect their words. It needs \"position papers when things get serious
+again\" (9 upvotes). The fact that things can get serious is being felt
+globally and also in German-speaking countries (Siggelkow & Reveland
+2023). Libraries should therefore be visible and clear allies for the
+diversity of all identities and orientations. Equally, this can be
+understood to mean that *Queerbrarians*, as a community of queer library
+people, want to speak out through position papers on queer library
+issues. Together we can give ourselves a voice.
+
+#### Queerness on site
+
+The place in which this togetherness is created is inevitably linked to
+the concept of safe(r) spaces. In addition to gender-sensitive language
+and queer-friendly interaction, we also need spaces in which queerness
+is taken into account. \"Unisex toilets in libraries\" (22 upvotes)
+remain a current and important issue and have been implemented too
+rarely to this date.[^12] Just as we create a safe(r) space in the
+communicative space through gender-sensitive language in which we
+include all identities, we can and must also do this in the physical
+space.
+
+Public libraries in particular create visibility for queer issues by
+using [pride flags](https://www.hrc.org/resources/lgbtq-pride-flags)
+during Pride Month or permanently to highlight queer literature. While
+this can be Rainbow-Washing[^13] (Fille 2022), it still signals that
+queer people are welcome. The point of all this is not to be perfect
+from the start, but to show that the topic is being reflected upon and
+that one is open to feedback and improvement.
+
+#### Queer IT
+
+While we have the opportunity to correct our words and actions in direct
+conversation, such as when misgendering a person, this is not possible
+on the website or in registration or similar forms, such as the
+registration form for new patrons (Frick & Honold 2022). Registration
+forms can usually still be changed easily, in contrast to the underlying
+IT systems. Another relevant topic is therefore the connection between
+\"queerness and IT\" (12 upvotes).
+
+The majority of processes in libraries are now handled digitally in
+predefined workflows. Everything starts with the registration form and
+adding new patrons into the library\'s patron administration. When
+discussing the topic, a uniform picture emerged: gender is queried at
+these points \"because the system asks for it\". The discussion about
+other reasons for this leads to statistics, on the basis of which
+literature is purchased and provided. However, this is counteractive to
+the desire for libraries not to reproduce outdated gender roles and to
+offer readers what they want to read, regardless of their gender
+identity (Leyrer 2014).
+
+Adapting or omitting the gender query and changing existing forms and
+systems makes them more queer-friendly, because non-binary and trans
+people in particular can be put in awkward situations by such queries.
+Adjustments of this kind often require major consultations and sometimes
+a legal push. However, even the current legally prescribed option in
+Germany *diverse* will not solve this problem, as it is only aimed at
+[inter\*](https://lgbtqia.mywikis.wiki/wiki/Intersex)
+people (Antidiskriminierungsstelle des Bundes n.d.). Here too,
+*Queerbrarians* want to constructively discuss how to initiate change
+and find solutions, at least in libraries.
+
+In addition to the handling of patron data, there are also discussions
+about how and whether established software and processes can be
+redesigned when it comes to employee data. Dealing with \"specifications
+and \[overcoming\] difficulties in the implementation of e.g. email
+signatures and the like\" (11 upvotes) is an important aspect. Among
+other things, this refers to the voluntary inclusion of pronouns in
+one\'s own email signature. A step that can theoretically be implemented
+quickly and leads to the active inclusion of one\'s own pronouns being
+normalized, as it takes the focus off those who do so in order to avoid
+being misgendered (Frick & Honold 2022). It also helps to address others
+properly and avoids confusion and uncertainty. Unfortunately, it is not
+uncommon to hear reports that such information is not welcome in the
+signature or even prohibited.
+
+#### Queer cataloging
+
+*Queerness* must also be considered in the traditional library field of
+cataloging. The topic \"Queer Cataloging - which subject heading(s) to
+use for queer literature?\" (17 upvotes) not only came up at the first
+*Queerbrarians* meeting, but is a regular topic of discussion. For
+example, it has already been discussed whether the keyword *LGBTQIA+* is
+sufficient if one medium is actually specifically about bisexuality and
+another about aromanticism, or whether it is even appropriate to tag
+media as *diverse* or *queer* (Brown 2020; Drabinski 2013; Wilk &
+Vincent 2018). The GND[^14] catalog for subject headings has some
+shortcomings when it comes to queer subject headings. Terms such as
+*cisgender* are not listed, unlike *transgender. Gender* as the English
+term to describe gender identity and not sex assigned at birth has only
+been implemented recently (Aleksander 2022). The existence or
+non-existence and the practice of assigning subject headings have not
+only recently come under criticism (Sparber 2016).
+
+How much depth and range we allow in our subject headings and
+classifications has an impact both externally and internally. Continuous
+reflection, taking into account the perspectives of those affected and
+critically questioning and changing previous practices (Hutchinson &
+Nakatomi 2023) are a step in the right direction. Homosaurus
+(<https://homosaurus.org/>) and the Queer Metadata Collective
+(https://queermetadatacollective.org/)
+are two examples of such initiatives. This is directly followed by
+considerations on \"Naming in the GND\" (8 upvotes). Whether, and if so,
+how, a person\'s dead name should be recorded there requires a queer
+librarian\'s perspective and a discussion of library ethics on weighing
+up the wishes of the person, library practice and the sometimes outdated
+rules and regulations written without a queer perspective. Since German
+is a very gendered language, job titles are also clearly gendered male
+or female. This is particularly problematic if they are used in an
+authority record for a non-binary or agender person (Bargmann 2022).
+
+#### Queer collections
+
+The collections of libraries reflect the realities of human life, human
+needs, and human knowledge in all its facets. Each type of library does
+this in its own unique way, and each library is unique in its own way.
+From strategic collection management to individual acquisition
+decisions, many levels can influence the content represented and the
+respective range and depth. External factors are also increasingly
+trying to influence library collections. This has been particularly
+evident in school libraries in the USA since around 2021, where
+so-called book bans have dramatically expanded the scope of censorship
+(Orsborn 2022). So far, there is no sign of a decline in the trend; on
+the contrary, the number of banned and questioned media continues to
+rise. PEN America observes and documents what is happening and notes
+that it often affects especially those books that have long had to fight
+for a place on the shelf: books by BIPoC (Black, Indigenous, and People
+of Color) or members of the LGBTQIA+ community as well as books that
+address racism, sexuality, gender, and history regardless of the
+author.[^15] Protests by parents or initiatives, administrative
+decisions, or political pressure lead to restricted access to these
+books or them disappearing from school libraries altogether. The fact
+that pressure is also exerted on library collections in German-speaking
+countries is nothing new (Laudenbach 2023, Mobile Beratung gegen
+Rechtsextremismus Berlin 2023). *Queerbrarians* would therefore like to
+address and keep an eye on the \"banning of queer books in America -
+(and Germany? Hopefully not\...)\" (8 upvotes), also to support the
+libraries abroad.
+
+A general discussion about \"Queer themes/characters in movies, series,
+books\" (2 upvotes) can and should also take place. In order to ensure
+adequate representation of all gender identities and orientations,
+creative collection development is still required in some cases. For
+example, self-publishing plays an important role, especially for
+underrepresented parts of the LGBTQIA+ community (Kennon 2021).
+\"Activist literature and associations\" (2 upvotes) in libraries is
+also a topic that should be addressed, as well as the
+\"[fetishization](https://www.youthoutright.org/articles/fetishization-of-the-queer-community)
+of BL/GL (in manga)\" (6 upvotes). BL stands for *Boys Love* and GL for
+*Girls Love*. It was further explained: \"Choosing non-fetishizing books
+is sometimes hard, especially in the mainstream and also because it
+often just feels like it\'s the most read material. I like to try and
+explain why these books/portrayed relationships are problematic, but
+often find it like pushing a boulder up a hill. Do you have problems
+like this too?\" *Queerbrarians* want to and should be a place for
+precisely these kinds of questions, which often go unheard in our own
+libraries. So it\'s no wonder that \"convincing colleagues to view
+\[and\] expand queer collections\" (7 upvotes) is also a topic.
+
+Libraries can \"normalize being queer more\" (12 upvotes) through their
+collections and thus realize a wish expressed by *Queerbrarians.* We do
+not want to ignore the fact that there are already (albeit not always
+librarian) role models for libraries and collections with a queer focus.
+Examples include the Queer Library (<https://queerbib.de/>), the
+Queerfeminist Library of the General Students' Committee of the FU
+Berlin (<https://astafu.de/bibliothek>) and the library of the Gay Museum in Berlin
+(<https://www.schwulesmuseum.de/bibliothek/>).
+
+#### Access to queer topics
+
+> \"Oftentimes, when an individual is discovering and exploring their
+> identity, they will search for mirror characters: examples of
+> themselves in media as a way to understand what it means to identify a
+> particular way.\" (Allen 2022, p. 3).
+
+Young people in particular therefore associate reading with the
+experience of finding themselves in fictional characters and identifying
+with them. Accompanying them on their journeys through life, difficult
+situations and finding their identity can be an integral part of growing
+up and finding one\'s own identity. For queer young people in
+particular, studies show \"that LGBTIQ+ identity development processes
+are their primary motivators to read\" (Wexelbaum 2019, p. 115). With a
+greater range and density of diversity in all media today, it has also
+become easier for marginalized groups to find stories that reflect them
+while learning to understand their identity, relationships, and the
+world around them. However, this is only possible if access to the media
+is not restricted or prevented altogether by initiatives such as book
+bans.
+
+People who feel they belong to the LGBTQIA+ community experience more
+bullying, sexual violence, and mental health problems (Orsborn 2022). It
+is therefore all the more important that libraries act as safe(r) public
+spaces and give queer people the opportunity to inform themselves,
+exchange ideas, and develop in a protected environment (Wright 2024).
+This can be essential, especially for people with underrepresented
+identities and orientations:
+
+> \"The validation and affirmation of
+> [asexuality](https://lgbtqia.fandom.com/wiki/Asexual) as
+> an orientation and the equitable recognition of the full spectrum of
+> asexuality are particularly significant for questioning,
+> [ace](https://lgbtqia.fandom.com/wiki/Asexual), and
+> [acespec](https://lgbtqia.fandom.com/wiki/Asexual_spectrum)
+> young readers seeking representation and who might not have
+> encountered inclusive and respectful stories about their experiences
+> and identities.\" (Kennon 2021, p. 19; links added by the authors)
+
+On the occasion of Christopher Street Day (CSD), the German name for
+Pride parades, in the year 2022, Hanover City Library displayed
+information flyers on the topic of
+[binding](https://trans.fandom.com/wiki/Binding) and
+[tucking](https://trans.fandom.com/wiki/Tucking) (Becker
+2023). The outrage on social media was huge \"and the first reaction was
+to simply put the flyers away\", said Tom Becker, Head of Hanover City
+Library (Mobile Beratung gegen Rechtsextremismus 2023, p. 37). Instead,
+he sums up: \"We need to become more resilient here - even when it comes
+to issues that are not always immediately obvious to our employees.\"
+(Mobile Beratung gegen Rechtsextremismus 2023, p. 37) This is how
+normalization of access to queer and especially health-related queer
+topics works. Libraries can make a significant contribution to the
+health education and safety of queer young people, especially by
+displaying such flyers. The LGBTQIA+ community has a lot of experience
+in organizing and providing health information independently, which grew
+out of the sad reality of necessity, and focuses on the collective
+knowledge and experiences of its members (Kitzie et al. 2023). Public
+library initiatives should therefore work with the community, as Hanover
+City Library has done, and not give in to pushbacks.
+
+The event \"Wir lesen euch die Welt, wie sie euch gefällt\"[^16]
+organized by Munich City Library in June 2023 (Heudorfer 2023) also
+sparked heated discussions and demonstrations. This was a reading in
+which a [drag queen](https://dictionary.cambridge.org/de/worterbuch/englisch/drag-queen)
+and a [drag king](https://dictionary.cambridge.org/de/worterbuch/englisch/drag-king)
+read from children\'s books and did educational work. The stories were
+about overcoming gender stereotypes (Miebach 2023) and discovering
+one\'s own independent development (Heizereder 2023). This reading was
+not the first of its kind in this library, but it was the first with
+election-related and media-effective dissenting voices from all
+directions. For example, the CSU (Christian Social Union in Bavaria)
+spoke of \"woke early sexualization\" (Miebach 2023) and someone
+commented in a *letter to the editor* for the professional journal of
+Berufsverband Information Bibliothek (BuB) that \"libraries should not
+overload their programmes with social messages\" (Werner 2024, p. 21).
+Ackermann, the director of Munich City Library, emphasized the opposite:
+\"We need role models who show us that it is okay to be different\"
+(Miebach 2023).
+
+In order to avoid the impression that access to queer topics is only
+relevant for public libraries, we would like to highlight that a strong
+academic library with extensive and diverse collections, supportive and
+helpful staff, and relevant services in cooperation and exchange with
+queer networks on campus can greatly contribute to making the campus
+more inclusive for students from the LGBTQIA+ community (Clarke 2011,
+Wright 2024). In addition, prospective and current librarians also need
+access to queer issues. How often these topics arise and are dealt with
+in professional and higher education institutions can only be speculated
+upon. The choice of queer topics for theses and their publication can be
+an indication and at least signals openness in university settings to
+the outside world. The same applies to student projects (Berends et al.
+2023, 2024). We must not underestimate how important the visibility of
+*queerness* in our professional field can be for those interested in
+training and studying. Where we do not see *queerness*, we cannot be
+sure that our *queerness* is welcome. But *queerness* can and should
+also be a regular topic in training and studies. Mehra already described
+possible approaches in 2011. In addition to formal representation, such
+as through working groups and networks, official contacts and workshops
+to raise awareness can not only be signals, but can also make our
+colleagues more sensitive or even more diverse (Mehra 2011, Table 1).
+
+#### Out in work, training and study
+
+At the first meeting of *Queerbrarians,* the question of who is out at
+work was asked at one point in casual conversation. The result was very
+mixed. At this point, it is often argued that cis and hetero people are
+not out at work or do not show off their identity and orientation.
+However, we live in a cis- and heteronormative world. Many people are
+apparently not aware that the male perceived colleague who talks about
+the weekend with his wife and children does not necessarily have to be
+cis and hetero. The male perceived colleague who talks about the weekend
+with his husband and children however automatically outs himself as at
+least not hetero, although he does nothing different from the colleague
+before: talking about his weekend with his family. A non-binary person
+who does not want to come out at work is inevitably misgendered because
+the prevailing German language still prefers binary forms, meaning that
+people primarily use male or female pronouns and forms to address others
+and choose which ones to use based on their perception of the person. If
+the person also has a chosen name that they do not use in order to avoid
+coming out, this results in deadnaming. The opposite can also be the
+case: If a non-binary or trans person has chosen a name that others feel
+does not match their perceived gender, this person is often forced to
+come out, justify their choice of name or sometimes have unpleasant
+discussions on the subject. This is particularly the case if the
+deadname still appears in official correspondence, i.e. their own email
+address or in other places. It still has to be legally stated
+everywhere, and administration and IT do not have to make any
+adjustments without a legal change.
+
+\"Out at work, yes\[,\] no? How? Dealing with a lack of understanding
+and prejudice\" (14 upvotes) is therefore a key aspect for the
+well-being and impartiality of queer people in the workplace (Riggle et
+al. 2017). According to a study from 2020, 31% of respondents in Germany
+are not open about their *queerness* in the workplace (Vries et al.
+2020). At this point, it must be recognized that there are significant
+differences within the LGBTQIA+ community. According to a study
+conducted by the British government in 2018, 29% of cis people and 38%
+of trans people surveyed were not out to anyone at work (Government
+Equalities Office 2018, p. 139 and p. 142). These figures vary greatly
+depending on sexual orientation. While only 18% of cis people who
+identify as gay or lesbian have not come out to anyone at work, 77% of
+cis people who identify as asexual have not. For trans people, these
+figures are 27% for trans people who identify as gay or lesbian and 57%
+for trans people who identify as asexual. With regard to school,
+training, and studies, it can be seen that 10% of both cis and trans
+respondents are not out to their classmates or fellow students
+(Government Equalities Office 2018, p. 111 and p. 113). The differences
+depending on sexual orientation are significantly smaller in these
+groups of people, but still exist. There are no studies with this level
+of detail in Germany to date.
+
+For those that are out of the closet outside of work, training, or
+studies, but not within, find themselves constantly on guard: \"I was
+female-identified at work, and some flavor of transgender almost
+everywhere else; as I\'ve never really been able to completely separate
+my personal and professional lives, this was incredibly difficult to
+do.\" (Roberto 2011, p. 124) This costs energy and puts a strain on
+mental health.
+
+The desire and need for more visibility and representation must be met
+with structural and community changes. This task should not be put upon
+the members of the LGBTQIA+ community and certainly not be defined as
+their individual responsibility. Being open about one\'s *queerness*
+still has negative consequences. \"One student was told by a senior
+lecturer that talking about their asexuality in their work would limit
+their career.\" (Benoit & de Santos 2023, p. 13). It is just as
+unacceptable that people cannot come out because they fear repercussions
+as it is unacceptable to expect people to come out in order to make
+*queerness* more visible and normalize it. We are talking about very
+personal and individual choices here, as well as personal safety and
+visibility, and all options are legitimate and to be supported.[^17]
+This also means that no one should ever out another person.
+
+Libraries need to create an atmosphere in which all members of the
+LGBTQIA+ community feel safe enough to freely decide whether or not to
+come out. Employees should feel free to bring their authentic selves to
+the workplace (Wright 2024). In an ideal world, if we can dream here, no
+one would assume anything about another person\'s identity and
+orientation, thus no one or everyone would need to 'come out'. However,
+our cis- and heteronormative world is not there yet. *Queerbrarians*
+therefore also want to \"normalize being queer more\" (12 upvotes) by
+standing together and thus being visible as a group and not necessarily
+as individuals.
+
+#### Queer personnel development
+
+For those who are out at work, the topic of *queerness* in their
+professional life quickly becomes a matter of the heart. In many cases,
+this leads to queer issues and development processes getting stuck with
+these people and quickly resulting in overburdening. To ensure that this
+does not happen and that the necessary efforts can be spread across many
+shoulders, there must be more training opportunities and educational
+work on diversity, which includes *queerness* among many other topics.
+The need to talk about \"raise colleagues' awareness - for queer topics,
+problems, etc.\" (15 upvotes) reflects this desire. On the other hand,
+there is the problem that many employees see no need for further
+training in this area (Mefebue 2016). There may be no malicious intent
+behind this. \"\[the\] workplace \[is\] not queer-hostile at all, but
+still very heteronormative\" (19 upvotes). However, ignorance on the
+part of non-queer, and in some cases queer, employees means that issues
+that need to be addressed are not seen and therefore not addressed. This
+is where further training measures and increasing the attractiveness of
+libraries as a workplace for queer people can come in.
+
+In addition to the personal development of employees, change must also
+take place at the institutional level if the situation is to change in
+the long term:
+
+> \"We must put our money where our mouths are. We must have leadership
+> that is willing to engage in brave, difficult conversations that
+> interrogate the hiring practices of their organizations, as well as
+> how to retain talented people from underrepresented backgrounds\"
+> (Stringer-Stanback & Jackson 2023, p. 463).
+
+One person reported that their own library is currently working on
+drawing up an \"equality plan\" (6 upvotes). Suggestions and ideas for
+queer measures that could be included in this plan were collected on the
+Discord server. Such initiatives are one of many cornerstones for the
+future-oriented development of libraries and their employees, in which
+everyone is considered and involved.
+
+#### Queer network
+
+> \"In my working life as a library technician \[\...\], being trans has
+> led to hilarious and awkward conversations with colleagues, moments of
+> genuine connection, and exciting professional development. I\'ve also
+> felt the impact and toll when transgender issues enter workplace
+> discussions. My experience of being a trans library technician has
+> been positive overall, but there is always fear.\" (Nault 2023, p. 46)
+
+In the network, *Queerbrarians* want to share positive and negative
+experiences with each other to support one another in order to not feel
+alone. At the same time, this creates connections and synergies that can
+create something new, like this article. It is therefore not surprising
+that \"Get to know new people\" (28 upvotes) had the most upvotes. But
+other networking activities also came up, such as mutual \"book tips,
+queer novels, good picture books, gender-sensitive sex education books
+etc.\" (11 upvotes), the \"collection of all academic work from the
+network \[\...\] on the topic - e.g. articles, bachelor theses,
+dissertations\...\" (6 upvotes) as an open Zotero group and an
+examination of differences in the community itself, such as the \"age
+gap between different
+LGBTQIA/[FLINTA](https://en.wikipedia.org/wiki/FLINTA*)[^18]
+generations\" (7 upvotes). These were all ideas that came up at the
+first meeting and are currently being addressed by the network. In all
+of this, it resonates that change can best be achieved as a team and
+that *Queerbrarians* offer a possible framework for this.
+
+### Queer future
+
+The representation of *queerness* in libraries in German-speaking
+countries, whether it's for patrons, people working in libraries, in
+collections or catalogs, is still not sufficient to support queer people
+and give them enough security to exist and develop freely. Based on the
+experiences and wishes gathered from *Queerbrarians*, and the literature
+cited, we identify the still insufficient awareness of these issues and
+queer lived realities in the library community as one of the main
+causes. We recognize that for some it is still unusual to think about
+non-cis and non-hetero perspectives, but at the same time queer people
+always think about cis and hetero perspectives and cannot be solely
+responsible for ensuring that queer realities are represented and
+supported in library work. This is a joint mission that must not fail
+due to a lack of willingness on the part of non-queer employees and
+superiors.
+
+Arguments that present the topic as a marginal issue fail to recognize
+the library\'s mission and the fact that inclusion is always important,
+even if it only affects one person. If libraries want to be open to all
+realities of life, queer people must be included, regardless of whether
+they are patrons or library staff. *Queerness* should not be pushed out
+of the conversation due to a lack of awareness or by right-wing
+movements. Queer people are part of our patrons and part of the library
+community. No person working in a library should have to realize \"how
+deeply alienating and dehumanizing it is to always be thinking about how
+to better serve a community when it\'s politically toxic to even
+acknowledge that you and people like you are part of that community.\"
+(Baker 2023, p. 158) We would therefore prefer not to argue with
+statistics at this point, but since some people need them, we would like
+to point out that according to the Ipsos survey on LGBT+ Pride 2023, 13%
+of the population surveyed in Switzerland and 11% in Germany identify as
+part of the LGBTQIA+ community (Ipsos 2023). The fact that libraries
+should contribute to the normalization of queer realities cannot be
+argued away.
+
+*Queerbrarians* would like to actively work on formulating what
+queer-friendly libraries can look like for staff and patrons and how
+this can be implemented in library policy, organize training courses and
+lectures, and offer open meetings for all library staff and those
+working in library institutions, including non-queer people. At the same
+time, we recognize our own bias as a predominantly white network --- an
+overrepresentation that the entire library community must also become
+aware of in order to eliminate it. Intersectional perspectives need more
+space and visibility. We need more understanding for each other. We need
+more knowledge about queer issues. We need more knowledge about romantic
+and sexual orientations. \"Wir brauchen mehr Wissen über geschlechtliche
+Vielfalt, mehr Informationsmöglichkeiten und eine ehrliche
+Auseinandersetzung.\"[^19] (Lieb 2023, p. 88)
+
+### English translation
+
+Please note that this is a translation of a German text that reflects
+the cultural context of Central Europe and is limited to the latter.
+
+This English translation was partially carried out by using the website
+DeepL (<https://www.deepl.com/translator>) to create a basis to work off and to speed up the translation process.
+The automatic translation was checked and revised by some of the
+original authors, to assure its integrity and to ensure that the message
+we are trying to convey did not get lost.
+
+We also thank Ryan Wright and Caleb England, both native English
+speakers, for finalizing the English translation, as well as an
+anonymous librarian and English native speaker for their support on
+library-specific terminology.
+
+### References
+
+Achterberg, B. (2023, November 15). Jens Spahn distanziert sich vom
+Queer-Begriff: Bin nicht queer, ich bin schwul. *Neue Zürcher Zeitung*.
+Retrieved February 20, 2024, from
+<https://www.nzz.ch/international/jens-spahn-distanziert-sich-vom-queer-begriff-bin-nicht-queer-ich-bin-schwul-ld.1765767>
+
+Aleksander, K. (2022). Antrag zur Aufnahme des Sachbegriffs "Gender" in
+die Gemeinsame Normdatei (GND) der Deutschen Nationalbibliothek (DNB).
+*027.7 Zeitschrift Für Bibliothekskultur / Journal for Library Culture*,
+*9*(4).
+<https://doi.org/10.21428/1bfadeb6.c232c54d>
+
+Allen, M. (2022). \"In a Romantic Way, Not Just a Friend Way!\":
+Exploring the Developmental Implications of Positive Depictions of
+Bisexuality in Alice Oseman\'s Heartstopper. *Journal of Bisexuality*,
+23(2), 197-228.
+<https://doi.org/10.1080/15299716.2022.2153191>
+
+Antidiskriminierungsstelle des Bundes. (n.d.). *Frau -- Mann - Divers:
+Die "Dritte Option" und das Allgemeine Gleichbehandlungsgesetz (AGG)*.
+Antidiskriminierungsstelle des Bundes. Retrieved February 20, 2024, from
+<https://www.antidiskriminierungsstelle.de/DE/ueber-diskriminierung/diskriminierungsmerkmale/geschlecht-und-geschlechtsidentitaet/dritte-option/Dritte_Option.html>
+
+Baker, A. E. (2023). Holding onto Dreams. In K. K. Adolpho, S. G.
+Krueger, & K. McCracken (Eds.), *Trans and gender diverse voices in
+libraries* (pp. 157-167). Library Juice Press.
+
+Bargmann, M., Blumesberger, S., Gruber, A., Luef, E., & Steltzer, R.
+(2022). Sacherschließung geschlechtergerecht?! Rückblick auf den
+Online-Workshop am 11. Mai 2022 und Aufruf zu gemeinsamen Aktivitäten.
+*Mitteilungen der Vereinigung Österreichischer Bibliothekarinnen und
+Bibliothekare*, *75*(2), Article 2.
+<https://doi.org/10.31263/voebm.v75i2.7582>
+
+Becker, T. (2023, July 13). »Der Sinn von Politik ist Freiheit«. *BuB -
+Forum Bibliothek und Information*. Retrieved February 20, 2024, from
+<https://www.b-u-b.de/detail/der-sinn-von-politik-ist-freiheit>
+
+Benoit, Y., & de Santos, R. (2023). *Ace in the UK Report.* Stonewall.
+Retrieved February 20, 2024, from
+<https://www.stonewall.org.uk/system/files/ace_in_the_uk_report_2023.pdf>
+
+Berends, A., Fabian, L. S., Fels, R., Lächelt, A.-L., Nguyen Thu, M.,
+Reinhard, J., Schliemann, T., Schmidt, L., Steinike-Kuhn, J., Storch,
+J., & Waldorf, M. (2023). *Diversität in Bibliotheken - Wie gut sind
+Bibliotheken aufgestellt?*
+<https://doi.org/10.25968/OPUS-2933>
+
+Berends, A., Fabian, L. S., Fels, R., Lächelt, A.-L., Nguyen Thu, M.,
+Reinhard, J., Schliemann, T., Schmidt, L., Steinike-Kuhn, J., Storch,
+J., & Waldorf, M. (2024, January 17). ). Diversität in Bibliotheken --
+Wie gut sind Bibliotheken aufgestellt? *BuB - Forum Bibliothek und
+Information*. Retrieved February 20, 2024, from
+<https://www.b-u-b.de/detail/diversitaet-in-bibliotheken-wie-gut-sind-bibliotheken-aufgestellt>
+
+Berufsverband Information Bibliothek (2020). *Leitfaden für
+gendersensible Sprache und diskriminierungsfreie Kommunikation*.
+Retrieved February 20, 2024, from
+<https://www.bib-info.de/fileadmin/public/Dokumente_und_Bilder/BIB-Standpunkte/LeitfadenSpracheBild_20201107.pdf>
+
+Bradford, N. J., Rider, G. N., Catalpa, J. M., Morrow, Q. J., Berg, D.
+R., Spencer, K. G., & McGuire, J. K. (2020). Creating gender: A thematic
+analysis of genderqueer narratives. In Joz, M., Nieder, T., & Bouman, W.
+(Eds.), *Non-binary and genderqueer genders* (pp. 37-50). Routledge.
+
+Brown, A. (2020, August 26). How Labeling Books as \"Diverse\"
+Reinforces White Supremacy. Lee & Low Blog. The Open Book Blog.
+<https://blog.leeandlow.com/2020/08/26/how-labeling-books-as-diverse-reinforces-white-supremacy/>
+
+Charta der Vielfalt (n.d.). *Vielfaltsdimensionen - Die sieben
+Dimensionen von Vielfalt.* Retrieved February 20, 2024, from
+<https://www.charta-der-vielfalt.de/fuer-organisationen/vielfaltsdimensionen/>
+
+Clarke, K. L. (2011). LGBTIQ Users and Collections in Academic
+Libraries. In E. Greenblatt (Ed.), *Serving LGBTIQ library and archives
+users: Essays on outreach, service, collections and access* (pp. 81-93).
+McFarland & Company, Inc., Publishers.
+
+Drabinski, E. (2013). Queering the Catalog: Queer Theory and the
+Politics of Correction. *The Library Quarterly*, 83(2), 94-111.
+<https://doi.org/10.1086/669547>
+
+Dias Correira, J. (2023). Asking the Bigger Questions: The Problem with
+LGBT+ Allyship in Libraries. In K. K. Adolpho, S. G. Krueger, & K.
+McCracken (Eds.), *Trans and gender diverse voices in libraries* (pp.
+449-453). Library Juice Press.
+
+Diversity Arts Culture (n.d.). Queer. In *Diversity Arts Culture*.
+Retrieved January 3, 2024, from
+<https://diversity-arts-culture.berlin/woerterbuch/queer>
+
+Elsherif, M. M., Middleton, S. L., Phan, J. M., Azevedo, F., Iley, B.
+J., Grose-Hodge, M., Tyler, S. L., Kapp, S. K., Gourdon-Kanhukamwe, A.,
+Grafton-Clarke, D., Yeung, S. K., Shaw, J. J., Hartmann, H., & Dokovova,
+M. (2022). Bridging Neurodiversity and Open Scholarship: How Shared
+Values Can Guide Best Practices for Research Integrity, Social Justice,
+and Principled Education. *MetaArXiv*.
+<https://doi.org/10.31222/osf.io/k7a9p>
+
+Fille, R. (2022). *Rainbowashing: Does it Impact Purchase Intention?*
+\[Honors Thesis, Bryant University\].
+<https://digitalcommons.bryant.edu/honors_marketing/46>
+
+Frick, C., & Honold, C. (2022). Gendersensible Sprache im Kontakt mit
+Bibliotheksnutzenden. *027.7 Zeitschrift Für Bibliothekskultur / Journal
+for Library Culture*, 9(4).
+<https://doi.org/10.21428/1bfadeb6.58e38319>
+
+Gerlach, S. (2023). *How queer is the library (not)? - Die
+bibliothekswissenschaftliche Rezeption von LGBTIQ\*: ein Vergleich
+zwischen Deutschland und den USA.* \[Master\'s thesis, Cologne
+University of Applied Sciences\].
+<https://nbn-resolving.org/urn:nbn:de:hbz:79pbc-opus-20933>
+
+Glass, V. Q. (2022). Queering Relationships: Exploring Phenomena of
+Asexually Identified Persons in Relationships. *Contemporary Family
+Therapy*, 44(4), 344-359.
+<https://doi.org/10.1007/s10591-022-09650-9>
+
+Government Equalities Office (2018). *National LGBT Survey: Research
+Report.* Government Equalities Office.
+<https://assets.publishing.service.gov.uk/media/5b3b2d1eed915d33e245fbe3/LGBT-survey-research-report.pdf>
+
+Heinze, J. L. (2021, January 24). Fact Sheet on Injustice in the LGBTQ
+community. National Sexual Violence Resource Center.
+<https://www.nsvrc.org/blogs/fact-sheet-injustice-lgbtq-community>
+
+Heizereder, S. (2023). Der Twitter-Mob wütet. *BuB - Forum Bibliothek
+und Information*, 75(6), 257.
+
+Heudorfer, K., Steinbauer, M. M., Schröter, A. M., & Brack, G. (2023,
+June 13). *Drag-Lesung für Kinder: 500 Menschen für ein buntes München*.
+BR24. Retrieved February 20, 2024, from
+<https://www.br.de/nachrichten/bayern/drag-lesung-fuer-kinder-500-menschen-fuer-ein-buntes-muenchen,Th3oG7z>
+
+Hutchinson, J., & Nakatomi, J. (2023). Improving Subject Description of
+an LGBTQ+ Collection. *Cataloging & Classification Quarterly*,*61*(3-4),
+380-394 .
+<https://doi.org/10.1080/01639374.2023.2229828>
+
+Ipsos. (2023, June 1). *LGBT+ Pride 2023*. Retrieved February 20, 2024,
+from
+<https://www.ipsos.com/en/pride-month-2023-9-of-adults-identify-as-lgbt>
+
+Keite, U. (2024). Gendersensible und diskriminierungsfreie Sprache. In
+Berufsverband Information Bibliothek / Kommission für One-Person
+Libraries, *OPL-Checklisten*, Checkliste 47. Retrieved February 20,
+2024, from
+<https://www.bib-info.de/fileadmin/public/Dokumente_und_Bilder/Komm_OPL/Checklisten/check47.pdf>
+
+Kennon, P. (2021). Asexuality and the Potential of Young Adult
+Literature for Disrupting Allonormativity. *The International Journal of
+Young Adult Literature*, 2(1), 1-24.
+<https://doi.org/10.24877/IJYAL.41>
+
+Kitzie, V., Vera, A.N., Lookingbill, V. and Wagner, T.L. (2024), \"What
+is a wave but 1000 drops working together?\": The role of public
+libraries in addressing LGBTQIA+ health information disparities\',
+*Journal of Documentation*, 80(2), 533-551.
+<https://doi.org/10.1108/JD-06-2023-0122>
+
+Laudenbach, P. (2023, August 30). Rechte Angriffe auf Bibliotheken:
+Bücher mit Messern zerschnitten - Kulturkampf. *Süddeutsche Zeitung.*
+Retrieved February 20, 2024, from
+<https://www.sueddeutsche.de/kultur/bibliotheken-rechte-angriffe-antisemitismus-buecher-zerschneiden-1.6177557>
+
+Leyrer, K. (2014). Das Geschlecht spukt in der Stadtbibliothek: Ein
+Aufruf für genderneutrale Bibliotheksangebote, *LIBREAS Library Ideas,*
+25, 76-79.
+<https://doi.org/10.25595/401>
+
+Lieb, S. (2023). *Alle(s) Gender: Wie kommt das Geschlecht in den Kopf?*
+(1st edition). Querverlag.
+
+Log, A. (2022, November 15). Answering questions on the label \"queer\".
+*The Clock*.
+<https://www.plymouth.edu/theclock/answering-questions-on-the-label-queer/>
+
+Mefebue, A. B. (2016). Umgang mit sozialer Diversität in der
+Bibliotheksarbeit -- eine empirische Untersuchung. In K. Futterlieb & J.
+Probstmeyer (Hrsg.), *Diversity Management und interkulturelle Arbeit in
+Bibliotheken* (pp. 43-74). De Gruyter.
+<https://doi.org/10.1515/9783110338980-005>
+
+Mehra, B. (2011). Integrating LGBTIQ Representation Across the Library
+and Information Science Curriculum: A Strategic Framework for
+Student-Centered Interventions. In E. Greenblatt (Ed.), *Serving LGBTIQ
+library and archives users: Essays on outreach, service, collections and
+access* (pp. 298-309). McFarland & Company, Inc, Publishers.
+
+Miebach, E. (2023, June 13). Eine Kinderbuchlesung im Wahlkampfstrudel.
+*ZDFheute*. Retrieved February 20, 2024, from
+<https://www.zdf.de/nachrichten/panorama/muenchen-dragqueen-lesung-diskussion-demo-100.html>
+
+Minkov, M. (2021). Eine Pause von der Welt. *Zeitgeister: Das
+Kulturmagazin des Goethe-Instituts.* Retrieved February 20, 2024, from
+<https://www.goethe.de/prj/zei/de/art/22554555.html>
+
+Mobile Beratung gegen Rechtsextremismus Berlin. (2023). *Alles nur leere
+Worte? - Zum Umngang mit dem Kulturkampf von rechts in Bibliotheken.*
+Retrieved February 20, 2024, from
+<https://www.mbr-duesseldorf.de/fileadmin/content/medien/230715_MBR_Broschuere_Bibliotheken_online.pdf>
+
+Nault, C. (2023). On Fear, Professionalism, and Being That Trans Guy
+Library Technician. In K. K. Adolpho, S. G. Krueger, & K. McCracken
+(Eds.), *Trans and gender diverse voices in libraries* (pp. 45-51).
+Library Juice Press.
+
+Orsborn, C. E. (2022). *A Golden Age of Censorship: LGBTQ Young Adult
+Literature in High School Libraries* \[Electronic thesis or
+dissertation, Ohio Dominican University\]. OhioLINK Electronic Theses
+and Dissertations Center.
+<http://rave.ohiolink.edu/etdc/view?acc_num=oduhonors1669994581915957>
+
+Riggle, E. D. B., Rostosky, S. S., Black, W. W., & Rosenkrantz, D. E.
+(2017). Outness, concealment, and authenticity: Associations with LGB
+individuals\' psychological distress and well-being. *Psychology of
+Sexual Orientation and Gender Diversity*, 4(1), 54-62.
+<https://doi.org/10.1037/sgd0000202>
+
+Roberto, K. R. (2011). Passing Tips and Pronoun Police: A Guide to
+Transitioning at Your Local Library. In T. M. Nectoux (Ed.), *Out behind
+the desk: Workplace issues for LGBTQ librarians* (pp. 121-127). Library
+Juice Press.
+
+Siggelkow, C., & Reveland, P. (2023, July 17). *Queerfeindlichkeit:
+Verstärkte Mobilisierung gegen queere Menschen*. Tagesschau. Retrieved
+February 20, 2024, from
+<https://www.tagesschau.de/faktenfinder/kontext/queerfeindlichkeit-desinformation-100.html>
+
+Sinclair-Palm, J., & Chokly, K. (2023). \'It\'s a giant faux pas\':
+Exploring young trans people\'s beliefs about deadnaming and the term
+deadname. *Journal of LGBT Youth*, 20(2), 370-389.
+<https://doi.org/10.1080/19361653.2022.2076182>
+
+Sparber, S. (2016). What\'s the frequency, Kenneth? -- Eine
+(queer)feministische Kritik an Sexismen und Rassismen im
+Schlagwortkatalog. *Mitteilungen der Vereinigung Österreichischer
+Bibliothekarinnen und Bibliothekare*, 69(2), 236-243.
+<https://doi.org/10.31263/voebm.v69i2.1629>
+
+Stringer-Stanback, K., & Jackson, L. (2023). Remixing LIS Leadership:
+Considering Gender-Variant BIPOC - Are we there yet? In K. K. Adolpho,
+S. G. Krueger, & K. McCracken (Eds.), *Trans and gender diverse voices
+in libraries* (pp. 455-465). Library Juice Press.
+
+The Roestone Collective (2014). Safe Space: Towards a
+Reconceptualization. *Antipode*, 46(5), 1346-1365.
+<https://doi.org/10.1111/anti.12089>
+
+Thorne, N., Yip, A. K.-T., Bouman, W. P., Marshall, E., & Arcelus, J.
+(2020). The terminology of identities between, outside and beyond the
+gender binary - A systematic review. In J. Motmans, T. O. Nieder, & W.
+P. Bouman (Eds.), *Non-binary and Genderqueer Genders* (pp. 20-36).
+Routledge.
+
+Timmo D. (2022). *Wheel of Privilege and Power*. Center for Teaching,
+Learning & Mentoring.
+<https://kb.wisc.edu/instructional-resources/page.php?id=119380ional-resources/page.php?id=119380>
+
+Vries, L. D., Fischer, M., Kasprowski, D., Kroh, M., Kühne, S., Richter,
+D., & Zindel, Z. (2020). LGBTQI\*-Menschen am Arbeitsmarkt: Hoch
+gebildet und oftmals diskriminiert. *DIW Wochenbericht*, 36, 620--627.
+<https://doi.org/10.18723/DIW_WB:2020-36-1>
+
+Walters, J. (2023). Standing Out. In K. K. Adolpho, S. G. Krueger, & K.
+McCracken (Eds.), *Trans and gender diverse voices in libraries* (pp.
+175-180). Library Juice Press.
+
+Werner, K. U. (2024). Gut gemeint ist nicht immer gut. *BuB - Forum
+Bibliothek und Information*, 76(1), 21.
+
+Wexelbaum, R. (2019). The Reading Habits and Preferences of LGBTIQ+
+Youth. *The International Journal of Information, Diversity, & Inclusion
+(IJIDI)*, 3(1),
+112-129.<https://doi.org/10.33137/ijidi.v3i1.32270>
+
+Wilk, A., & Vincent, J. (2018, April 3). Respecting anonymity through
+collection development. *Open Shelf*. Retrieved February 20, 2024, from
+<https://open-shelf.ca/180403-respecting-anonymity-through-collection-development/>
+
+Wright, D. (2024, February 23). *Heartstopper! Sustaining the
+Library-LGBTQ Love Affair.* Making collections accessible and diverse:
+current approaches to audience engagement \[Video\]. YouTube.
+<https://youtu.be/6t4yJGK4QGY?t=2282>
+
+Zeuner, P., Buchert, C., Fischer, Y., Baumann, N., Frick, C., & Ramünke,
+S. (2024). Bibliotheken als Safe(r) Spaces für die LGBTQIA+ Community?
+Hands-on Lab auf der BiblioCon 2024. API Magazin, 5(2), Article 2.
+<https://doi.org/10.15460/apimagazin.2024.5.2.209>
+
+[^1]: "Ich bin nicht queer, ich bin schwul."
+
+[^2]: "Ich bin nicht queer, sondern ich bin mit einer Frau verheiratet,
+    die ich seit zwanzig Jahren kenne."
+
+[^3]: We are writing here as part of the *Queerbrarians* and not for our
+    institutions and libraries.
+
+[^4]: The biggest library conference in Germany.
+    <https://2024.bibliocon.de/>
+
+[^5]: DACH is an acronym used for the German speaking countries Germany
+    (D), Austria (A) and Switzerland (CH).
+
+[^6]: Discord
+    (<https://discord.com/>
+    communication platform on which communities can organize and
+    exchange information on their own servers in voice, video and text
+    channels.
+
+[^7]: If you are not on Discord but would still like to be informed
+    about meetings, write to
+    [librarians@queerbrarians.de](mailto:librarians@queerbrarians.de)
+    and ask to be added to the email distribution list.
+
+[^8]: <https://queerbrarians.de/naechste-termine/>
+
+[^9]: In \"tone policing\", the (allegedly inappropriate) tone of voice
+    is criticized without addressing the actual argument or even
+    explicitly rejecting the legitimacy of the argument with reference
+    to the tone of voice, for further explanations see
+    <https://geekfeminism.fandom.com/wiki/Tone_argument>.
+
+[^10]: Neopronouns in German include \"xier\" or \"dey\", see
+    <https://www.nonbinary.ch/pronomen-anwendung/>.
+
+[^11]: Jugend hackt is a non-profit program of the non-profit
+    associations Open Knowledge Foundation Deutschland e.V. and mediale
+    pfade - Verein für Medienbildung e.V. With the motto \"Improve the
+    world with code\", it is aimed at young people between the ages of
+    12 and 18. For the Code of Conduct, see
+    <https://jugendhackt.org/code-of-conduct/>.
+
+[^12]: As a positive example, we would at least like to mention the
+    all-gender toilets in the libraries of Cologne University of Applied
+    Sciences and Neu-Ulm University of Applied Sciences. Retrieved
+    February 20, 2024, from
+    <https://www.asta.th-koeln.de/ueber-uns/lgbt/>
+    and
+    <https://www.hnu.de/alle-news/detail/2023/11/9/erste-all-gender-toiletten-an-der-hochschule-neu-ulm>.
+
+[^13]: \"Rainbow-washing\" refers to strategies that advertise (alleged)
+    support for the LGBTQIA+ movement in order to appear modern,
+    progressive and tolerant, without actually implementing any
+    measures. See also
+    <https://thisisgendered.org/entry/rainbow-washing/>.
+
+[^14]: "The Integrated Authority File (GND) is a service facilitating
+    the collaborative use and administration of authority data."
+    <https://www.dnb.de/EN/Professionell/Standardisierung/GND/gnd_node.html>
+
+[^15]: <https://pen.org/issue/book-bans/>
+
+[^16]: "We read the world to you as you\'d like it to be."
+
+[^17]: For this reason, we have decided to collectively refrain from
+    using our pronouns in order to protect the privacy of the individual
+    participants.
+
+[^18]: FLINTA is used in German to refer to female, lesbian, inter\*,
+    non-binary, trans and agender people.
+
+[^19]: \"We need more knowledge about gender diversity, more information
+    options and an honest debate.\"

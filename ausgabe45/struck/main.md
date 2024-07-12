@@ -170,7 +170,7 @@ Some labels even allowed customers to scribble down their own notes in a
 dedicated column -- 'your notes' on 'MP2000' records or next to the
 'tempo' descriptions on 'Tele Music' productions as shown in Figure 3.
 
-![Fig.3: Vinyl back cover of Michel Gonet – SO4 H2 The Electronic Era (<https://www.discogs.com/release/1112157>) – original on the right; on the left with translated and extended metadata by the former record owner. S/he decided to replace French and English data on instruments and timing with German mood classification and use cases. The notes column and color code classification (bottom and top right) are still visible.](img/Fig3.jpg)
+![Fig. 3: Vinyl back cover of Michel Gonet – SO4 H2 The Electronic Era (<https://www.discogs.com/release/1112157>) – original on the right; on the left with translated and extended metadata by the former record owner. S/he decided to replace French and English data on instruments and timing with German mood classification and use cases. The notes column and color code classification (bottom and top right) are still visible.](img/Fig3.jpg)
 
 <!-- The image shows the back cover of a library music record where the French and English metadata was replaced by a typewriter printout augmented with mood classification and use case. The column for taking notes is still visible and untouched. At the bottom and top right, mood classification in color code is visible for faster retrieval. -->
 
@@ -268,7 +268,7 @@ Cataloging recording series is sometimes challenging.[^23] While the
 'April Orchestra' series only mentions the composer, the 'Tele Music'
 cover just shows the title.
 
-![Fig 5: Four minimalistic library music covers](img/Fig5.jpg)
+![Fig. 5: Four minimalistic library music covers](img/Fig5.jpg)
 
 <!-- The image shows four record covers in different colors with minimalistic typography -->
 
@@ -337,7 +337,7 @@ reflected in visual art that at best transports certain moods.
 
 > "There are no pictures of \[the musicians\] on the record sleeves, no personality cult, no fashion, no looks or age to confuse things. Another plus is that not a note of this music was ever played live, or sold directly to the public, so irrelevant irritations like audience reaction or 'commercial viability' weren't really a consideration." (Dammers in foreword to Trunk p. 8)
 
-![Fig 6: Three example covers for library music composer Oronzo de Filippi, only the titles are displayed on the front: "Vacanze", "Meccanizzazione", "Nel Mondo Del Lavoro"](img/Fig6.jpg)
+![Fig. 6: Three example covers for library music composer Oronzo de Filippi, only the titles are displayed on the front: "Vacanze", "Meccanizzazione", "Nel Mondo Del Lavoro"](img/Fig6.jpg)
 
 <!-- The image shows three record covers for the artist Oronzo de Filippi. The left is titled 'Vacanze' and shows a stylized beach scene on a white background. The record in the middle is titled 'Meccanizzazione' inside a large square on a blue background. The cover to the right shows a black and white scene from a factory floor and the title 'Nel Mondo Del Lavoro'. -->
 

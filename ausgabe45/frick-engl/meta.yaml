@@ -1,11 +1,11 @@
 
 <!DOCTYPE HTML>
 
-<html lang="en">
+<html lang="de">
 
 <head>
 	<meta charset="utf-8">
-	<title>Eindrücke von einem Dienstag (dem ausleihstärksten Tag der Woche) aus der Gemeindebücherei Grasbrunn im Dezember 2023 - LIBREAS. Library Ideas</title>
+	<title>Being queer (in libraries) is political - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
 
@@ -13,11 +13,27 @@
 
  <!-- RDFa Metadata (in DublinCore) -->
     
-    <meta property="dc:title" content="Eindrücke von einem Dienstag (dem ausleihstärksten Tag der Woche) aus der Gemeindebücherei Grasbrunn im Dezember 2023" />
+    <meta property="dc:title" content="Being queer (in libraries) is political" />
     
     
     
-    <meta property="dc:creator" content="Sabine Dunker" />
+    <meta property="dc:creator" content="Caudia Frick" />
+    
+    <meta property="dc:creator" content="Philipp Zeuner" />
+    
+    <meta property="dc:creator" content="Caleb Buchert" />
+    
+    <meta property="dc:creator" content="Daniela Markus" />
+    
+    <meta property="dc:creator" content="Norma Fötsch" />
+    
+    <meta property="dc:creator" content="Yvonne Fischer" />
+    
+    <meta property="dc:creator" content="Emma Wieseler" />
+    
+    <meta property="dc:creator" content="Sabrina Ramünke" />
+    
+    <meta property="dc:creator" content="Nik Baumann" />
     
     
     
@@ -25,14 +41,14 @@
     
     <meta property="dc:format" content="text/html" />
     <meta property="dc:language" content="de" />
-    <meta property="dc:identifier" content="https://libreas.eu/ausgabe45/dunker/meta.yaml" />
+    <meta property="dc:identifier" content="https://libreas.eu/ausgabe45/frick-engl/meta.yaml" />
     
     <meta property="dc:rights" prefix="cc: http://creativecommons.org/ns#" rel="cc:license" href="https://creativecommons.org/licenses/by/4.0/" content="CC-BY 4.0" />
 	
     <meta property="dc:source" content="LIBREAS. Library Ideas" />
     <meta property="dc:subject" content="Library and Information Science" />
     <meta property="dc:type" content="website" />
-    <meta property="dc:description" content=""/>
+    <meta property="dc:description" content="Queerbrarians is a German-speaking network of queer librarians and people working or aiming to work in libraries or library institutions that was founded in November 2023. Based upon topics gathered at the first network meeting, this article presents the motivations for the creation of the network as well as its ideas and visions of more queer-friendly libraries. Queerness is still an underrepresented topic in libraries in German-speaking countries, whether it’s about patrons, about people working in libraries, or about the collections or the catalogs. This needs to change. Queerbrarians and this article want to initiate this change, explain why it is important and valuable, and raise awareness for the queer perspective. It is almost inevitable that (library) policy considerations will come into play, because being queer (in libraries) is political."/>
     <meta property="dc:source" resource="urn:ISSN:1860-7950" /> 
 
 <!-- Google Scholar -->
@@ -52,7 +68,7 @@
 
 	<link href="/atom.xml" rel="alternate" title="LIBREAS. Library Ideas" type="application/atom+xml">
 	
-	<link rel="canonical" href="https://libreas.eu/ausgabe45/dunker/meta.yaml">
+	<link rel="canonical" href="https://libreas.eu/ausgabe45/frick-engl/meta.yaml">
 	<link href="/favicon.png" rel="shortcut icon">
 	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
 
@@ -135,7 +151,7 @@
         
     
     <div align="right">
-    <p><small><a itemprop="sameAs" href="https://via.hypothes.is/https://libreas.eu/ausgabe45/dunker/meta.yaml">Annotate via hypothes.is</a></small></p>
+    <p><small><a itemprop="sameAs" href="https://via.hypothes.is/https://libreas.eu/ausgabe45/frick-engl/meta.yaml">Annotate via hypothes.is</a></small></p>
         <small><a itemprop="sameAs" href="main.pdf">Download PDF</a></small>
         </div>
     
@@ -143,13 +159,13 @@
         
 
         
-        <h1 itemprop="name" class="title">Eindrücke von einem Dienstag (dem ausleihstärksten Tag der Woche) aus der Gemeindebücherei Grasbrunn im Dezember 2023</h1>
+        <h1 itemprop="name" class="title">Being queer (in libraries) is political</h1>
         
         
 
         <div class="titelei">
         
-        <i itemprop="author">Sabine Dunker</i>
+        <i itemprop="author">Caudia Frick, Philipp Zeuner, Caleb Buchert, Daniela Markus, Norma Fötsch, Yvonne Fischer, Emma Wieseler, Sabrina Ramünke, Nik Baumann</i>
         
     </div>
 
@@ -160,7 +176,39 @@
             
               
               
-            <i itemprop="author">Sabine Dunker</i> 
+            <i itemprop="author">Caudia Frick</i> 
+            
+            
+              
+            <i itemprop="author">Philipp Zeuner</i>
+            
+            
+              
+            <i itemprop="author">Caleb Buchert</i>
+            
+            
+              
+            <i itemprop="author">Daniela Markus</i>
+            
+            
+              
+            <i itemprop="author">Norma Fötsch</i>
+            
+            
+              
+            <i itemprop="author">Yvonne Fischer</i>
+            
+            
+              
+            <i itemprop="author">Emma Wieseler</i>
+            
+            
+              
+            <i itemprop="author">Sabrina Ramünke</i>
+            
+            
+               
+            </i><i itemprop="author">Nik Baumann</i>
             
             
             
@@ -168,6 +216,10 @@
  -->
 
 
+
+        
+
+        <p><small itemprop="description">Queerbrarians is a German-speaking network of queer librarians and people working or aiming to work in libraries or library institutions that was founded in November 2023. Based upon topics gathered at the first network meeting, this article presents the motivations for the creation of the network as well as its ideas and visions of more queer-friendly libraries. Queerness is still an underrepresented topic in libraries in German-speaking countries, whether it’s about patrons, about people working in libraries, or about the collections or the catalogs. This needs to change. Queerbrarians and this article want to initiate this change, explain why it is important and valuable, and raise awareness for the queer perspective. It is almost inevitable that (library) policy considerations will come into play, because being queer (in libraries) is political.</small></p>
 
         
 
@@ -183,13 +235,45 @@
             <br>
             
             
-            Sabine Dunker,
+            Caudia Frick,
+            
+            
+            
+            Philipp Zeuner,
+            
+            
+            
+            Caleb Buchert,
+            
+            
+            
+            Daniela Markus,
+            
+            
+            
+            Norma Fötsch,
+            
+            
+            
+            Yvonne Fischer,
+            
+            
+            
+            Emma Wieseler,
+            
+            
+            
+            Sabrina Ramünke,
+            
+            
+            
+            Nik Baumann,
             
             
              
-            "Eindrücke von einem Dienstag (dem ausleihstärksten Tag der Woche) aus der Gemeindebücherei Grasbrunn im Dezember 2023".
+            "Being queer (in libraries) is political".
             
-            <i itemprop="provider">LIBREAS. Library Ideas</i>, 45 (<span itemprop="datePublished">2024</span>). <a itemprop="url" href="https://libreas.eu/ausgabe45/dunker/meta.yaml">https://libreas.eu/ausgabe45/dunker/meta.yaml</a>
+            <i itemprop="provider">LIBREAS. Library Ideas</i>, 45 (<span itemprop="datePublished">2024</span>). <a itemprop="url" href="https://libreas.eu/ausgabe45/frick-engl/meta.yaml">https://libreas.eu/ausgabe45/frick-engl/meta.yaml</a>
         </small>
         <hr>
     </p>
