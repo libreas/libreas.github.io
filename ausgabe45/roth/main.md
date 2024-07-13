@@ -25,7 +25,7 @@ Musik aus allen Zeiten wird im Kopierraum geräuschvoll durch die
 Maschine gezogen, um sie an einem anderen Ort zu spielen, aber auch im
 Lesesaal zu studieren, also sich innerlich vorzustellen.
 
-![Abbildung 1: Mikael Szafirowski, Student am Sonic Space Basel der Hochschule für Musik Basel, improvisiert in der Vera Oeri Bibliothek zu live gestreamten Klängen des Lüftungssystems und einer alpinen Seilbahn. Foto: Christoph Moor.](img/Abb1.jpg)
+![Abbildung 1: Mikael Szafirowski, Student am Sonic Space Basel der Hochschule für Musik Basel, improvisiert in der Vera Oeri Bibliothek zu live gestreamten Klängen des Lüftungssystems und einer alpinen Seilbahn. Foto: Christoph Moor. ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))](img/Abb1.jpg)
 
 ### Luftige Ohrwürmer
 
@@ -52,7 +52,7 @@ Wettervorhersage. Roths Tonarchiv[^roth] umfasst bereits
 Hunderte von Aufnahmen, wobei er ein Gerät entwickelt hat, das
 Seilklänge auch live streamen und damit endlos aufzeichnen lässt[^seil].
 
-![Abbildung 2: Eingangsfoyer der Vera Oeri Bibliothek mit Infotafel der Ausstellung *Singende Seile. Klingende Stadt. Eine Hörseilbahn durch die Bibliothek.* Foto: Szenografie Stauffenegger + Partner.](img/Abb2.jpg)
+![Abbildung 2: Eingangsfoyer der Vera Oeri Bibliothek mit Infotafel der Ausstellung *Singende Seile. Klingende Stadt. Eine Hörseilbahn durch die Bibliothek.* Foto: Szenografie Stauffenegger + Partner. ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))](img/Abb2.jpg)
 
 ### Von der Klangbibliothek zum Klang der Bibliothek
 
@@ -65,9 +65,9 @@ Stadt, welche beobachten wir, geben uns Identität und Orientierung oder
 deuten auf Veränderungen unserer Umwelt hin beziehungsweise werden als
 störend empfunden?
 
-![Abbildung 3: Lesesaal der Vera Oeri Bibliothek mit verspannten Seilen als visuelle Signalisation des Verlaufs der Hörseilbahn, ebenso Tafeln mit Hintergrundinformationen und Einladung ans Publikum, über den Klang der Bibliothek nachzudenken. Foto: Szenografie Stauffenegger + Partner.](img/Abb3.jpg)
+![Abbildung 3: Lesesaal der Vera Oeri Bibliothek mit verspannten Seilen als visuelle Signalisation des Verlaufs der Hörseilbahn, ebenso Tafeln mit Hintergrundinformationen und Einladung ans Publikum, über den Klang der Bibliothek nachzudenken. Foto: Szenografie Stauffenegger + Partner. ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))](img/Abb3.jpg)
 
-![Abbildung 4: Das Seil und damit die Ausstellung führt über insgesamt vier Stockwerke quer durch die Vera Oeri Bibliothek. Foto: Szenografie Stauffenegger + Partner.](img/Abb4.jpg)
+![Abbildung 4: Das Seil und damit die Ausstellung führt über insgesamt vier Stockwerke quer durch die Vera Oeri Bibliothek. Foto: Szenografie Stauffenegger + Partner. ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))](img/Abb4.jpg)
 
 
 Nebst live gestreamten Klängen aus den Alpen und Zugriff auf Michel
@@ -82,7 +82,7 @@ Klangraum der Bibliothek erkunden.
 Das Publikum wurde mit Postkarten zu eigenen Hörexperimenten angeleitet,
 zum Beispiel:
 
-![Abbildung 5: Eine von mehreren in der Bibliothek verteilten Postkarten mit Hörexperimenten. Viele entstammen Büchern und anderen Medien, die Teil des Bestands der Vera Oeri Bibliothek sind.](img/Abb5.jpg)
+![Abbildung 5: Eine von mehreren in der Bibliothek verteilten Postkarten mit Hörexperimenten. Viele entstammen Büchern und anderen Medien, die Teil des Bestands der Vera Oeri Bibliothek sind. ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))](img/Abb5.jpg)
 
 #### 2. Hörachse
 
@@ -95,7 +95,7 @@ bereitgelegten Postkarten zu beschreiben:
 
 ![](img/Abb8.jpg) 
 
-![Abbildung 6-9: Auswahl beschrifteter Postkarten mit Höreindrücken vom Klang der Vera Oeri Bibliothek. Ein häufiges Thema war die Lüftung und sich nicht ruhig verhaltende Gäste.](img/Abb9.jpg)
+![Abbildungen 6–9: Auswahl beschrifteter Postkarten mit Höreindrücken vom Klang der Vera Oeri Bibliothek. Ein häufiges Thema war die Lüftung und sich nicht ruhig verhaltende Gäste. ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))](img/Abb9.jpg)
 
 
 #### 3. Hörachse
@@ -108,7 +108,7 @@ thematisierten:
 
 ![](img/Abb11.jpg)
 
-![Abbildung 10-12: Beschriftete Postkarten mit Klangerinnerungen, Auswahl von Beispielen mit Bezug zur Musikbibliothek. Jemand hat eine Visualisierung einer Seilbahntonaufnahme kurzerhand auf den Klang der Alarmanlage der Vera Oeri Bibliothek bezogen.](img/Abb12.jpg) 
+![Abbildungen 10–12: Beschriftete Postkarten mit Klangerinnerungen, Auswahl von Beispielen mit Bezug zur Musikbibliothek. Jemand hat eine Visualisierung einer Seilbahntonaufnahme kurzerhand auf den Klang der Alarmanlage der Vera Oeri Bibliothek bezogen. ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))](img/Abb12.jpg) 
 
 
 Die mehrfach erwähnte Lüftung der Bibliothek, die sowohl positiv
@@ -117,7 +117,7 @@ Roths Forschungsmethode in die Ausstellung integriert, indem nebst dem
 "Singen" von zwei Seilbahnen auch das Rauschen eines Lüftungsrohrs der
 Bibliothek über Hunderte von Stunden live gestreamt wurde.
 
-![Abbildung 13: Das kräftige Rauschen im Innern der Lüftungsrohre der Vera Oeri Bibliothek wird mit einem Kontaktmikrophon aufgezeichnet und als Livestream in die Ausstellung integriert. Als der Gitarrist Mikael Szafirowski mit diesem Livestream musizierte, kam es zu zwei Rückkopplungen, die in der folgenden Aufnahme dokumentiert sind (ab Minute 7 und ab Minute 22): <https://soundcloud.com/user-975110633/aircondition>; Foto: Michel Roth.](img/Abb13.jpg)
+![Abbildung 13: Das kräftige Rauschen im Innern der Lüftungsrohre der Vera Oeri Bibliothek wird mit einem Kontaktmikrophon aufgezeichnet und als Livestream in die Ausstellung integriert. Als der Gitarrist Mikael Szafirowski mit diesem Livestream musizierte, kam es zu zwei Rückkopplungen, die in der folgenden Aufnahme dokumentiert sind (ab Minute 7 und ab Minute 22): <https://soundcloud.com/user-975110633/aircondition>; Foto: Michel Roth. ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))](img/Abb13.jpg)
 
 #### 4. Hörachse
 
@@ -128,13 +128,13 @@ haben:
 
 ![](img/Abb14.jpg)
 
-![Abbildung 14-15: Auswahl beschrifteter Postkarten mit Klangvorstellungen: Beide Beispiele nutzen die Infrastruktur der Bibliothek, Bücher und Regale, als Klanggenerator.](img/Abb15.jpg)
+![Abbildungen 14–15: Auswahl beschrifteter Postkarten mit Klangvorstellungen: Beide Beispiele nutzen die Infrastruktur der Bibliothek, Bücher und Regale, als Klanggenerator. ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))](img/Abb15.jpg)
 
 Über die Ausstellungsdauer akkumulierten sich so auf den Magnettafeln
 etwa 90 Beiträge von Besucher:innen der Ausstellung oder zufällig
 anwesenden Nutzer:innen der Bibliothek.
 
-![Abbildung 16: Eine Magnettafel mit beschrifteten Postkarten zum Klang der Vera Oeri Bibliothek. Foto: Michel Roth.](img/Abb16.jpg)
+![Abbildung 16: Eine Magnettafel mit beschrifteten Postkarten zum Klang der Vera Oeri Bibliothek. Foto: Michel Roth. ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))](img/Abb16.jpg)
 
 
 Ein wichtiger Bestandteil des Projekts waren konzentrierte akustische
@@ -170,7 +170,7 @@ Stille. Dann ruft meine Mutter: "Steh auf!" Dann höre ich das leise
 Knistern meines Hochbettes, wenn ich herunterstieg. Den Wasserhahn. Die
 Schritte von meinen Füssen... und so weiter..."
 
-![Abbildung 17: Hörtagebuch Ukrainisch--Deutsch einer Schülerin der ukrainischen Schulklasse Basel-Stadt. Foto: zvg.](img/Abb17.jpg)
+![Abbildung 17: Hörtagebuch Ukrainisch--Deutsch einer Schülerin der ukrainischen Schulklasse Basel-Stadt. Foto: zvg. ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))](img/Abb17.jpg)
 
 ### Eigene Klangräume komponieren
 
@@ -194,7 +194,7 @@ auf dem Campus und haben einfach die *Soundscape* erforscht und
 beobachtet. Andere haben aktiv etwas geändert, haben gesprochen und
 sogar Rhythmen auf Objekten gespielt. Daraus sind am Computer
 faszinierende Hörstücke entstanden, wie das folgende Beispiel zeigt:
-<https://soundcloud.com/user-975110633/bohdan>
+<https://soundcloud.com/user-975110633/bohdan>.
 
 
 ### Klang als Heimat
@@ -204,7 +204,7 @@ Bibliothek haben die Schüler:innen vor den Eltern und interessierten
 Zuhörer:innen aus ihren Hörtagebüchern vorgelesen und ihre Kompositionen
 präsentiert.
 
-![Abbildung 18: Abschlussperformance der ukrainischen Schulklasse Basel-Stadt mit Lesungen aus den Hörtagebüchern und Vorstellen der Klangkompositionen in der "Musikbox" der Vera Oeri Bibliothek Basel. Foto: Christoph Moor.](img/Abb18.jpg)
+![Abbildung 18: Abschlussperformance der ukrainischen Schulklasse Basel-Stadt mit Lesungen aus den Hörtagebüchern und Vorstellen der Klangkompositionen in der "Musikbox" der Vera Oeri Bibliothek Basel. Foto: Christoph Moor. ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))](img/Abb18.jpg)
 
 Es wurde deutlich, welche weitreichenden Auswirkungen eine verstärkte
 Aufmerksamkeit gegenüber alltäglichen Klängen haben kann: Eine
@@ -213,7 +213,7 @@ der Aufführung die berührende Rückmeldung, dass ihr durch das Projekt
 aufgefallen sei, dass man auch mitten in der Stadt Basel die Vögel
 singen höre -- wie sie es von ihrem ukrainischen Heimatort kennt.
 
-**Dank**
+### Dank
 
 Wir bedanken uns herzlich beim Team der Vera Oeri Bibliothek, namentlich
 beim Leiter Thomas Nierlin, für die engagierte Unterstützung und

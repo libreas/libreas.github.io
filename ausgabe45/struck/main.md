@@ -103,7 +103,7 @@ The composer had to create a wide and diverse array of mood music to
 pre-emptively strike the sound(track) editors' taste for any kind of
 situation that may happen. This is a demanding task but at the same time
 offers the composers a wide musical spectrum to be creative in
-(Mansfield as quoted in Hollander p. 75).
+(Mansfield in Hollander p. 75).
 
 ![Fig. 1: Track classification on a tape](<img/Fig1.jpg>)
 
