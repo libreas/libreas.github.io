@@ -89,7 +89,7 @@ der Autorin zu sein. (ks)
 
 Larsen, Håkon (2024). *Managing Norwegian public libraries as civil
 public spheres: recent controversies*. In: Journal of Documentation 80
-(2024) 1, 116-130, <https://doi.org/10.1108/JD-02-2023-0036> \[Paywall\]
+(2024) 1, 116--130, <https://doi.org/10.1108/JD-02-2023-0036> \[Paywall\]
 
 Mit der Revision des norwegischen Bibliotheksgesetzes wurde 2014
 explizit festgeschrieben, dass Öffentliche Bibliotheken einen Ort für
@@ -143,7 +143,7 @@ Bestimmung im Bibliotheksalltag stellen. (ks)
 
 Roy, Mantra ; Chatterjee, Sutapa (2024). *Barriers in LIS Scholarship in
 India: Some Observations*. In: International Journal of Librarianship 8
-(2024) 4: 114-127, <https://doi.org/10.23974/ijol.2024.vol8.4.330>
+(2024) 4: 114--127, <https://doi.org/10.23974/ijol.2024.vol8.4.330>
 
 In Indien -- wie auch in einigen anderen Staaten -- ist es notwendig,
 dass Bibliothekar\*innen, um auf bestimmten Stellen in
@@ -224,7 +224,7 @@ die Bibliotheks- und Informationswissenschaft relevantes Feld darstellt.
 
 Centerwall, Ulrika (2024). *In plain sight: School librarian practices
 within infrastructures for learning*. In: Journal of Librarianship and
-Information Science 56 (2024) 1: 211-222,
+Information Science 56 (2024) 1: 211--222,
 <https://doi.org/10.1177/09610006221140881> \[Paywall\]
 
 Für die hier vorgestellten Studie wurden zwölf Schulbibliothekar\*innen
@@ -378,7 +378,7 @@ wissenschaftlichen Arbeit daherkommen (was sie allerdings nicht sind).
 
 Hackett, Cody ; Kim, Jeonghyun (2024). *Planning, implementing and
 evaluating research data services in academic libraries: a model
-approach*. In: Journal of Documentation 80 (2024) 1, 27-38,
+approach*. In: Journal of Documentation 80 (2024) 1, 27--38,
 <https://doi.org/10.1108/JD-01-2023-0007> \[Paywall\]
 
 Der Titel des Textes ist irreführend. Es geht nicht um ein weiteres
@@ -393,7 +393,7 @@ Bereich in Bewegung befindet. (ks)
 #### 2.3 Wissenschaftskommunikation und wissenschaftliche Zeitschriften
 
 Koçak, Zafer (2023). *Misleading Metrics: Predatory Trade Expands*. In:
-Trakya University Journal of Natural Sciences 24 (2023) 2, 1-3,
+Trakya University Journal of Natural Sciences 24 (2023) 2, 1--3,
 <https://doi.org/10.23902/trkjnat.1368563>
 
 In diesem kurzen Editorial gibt der Autor einen Überblick über Praktiken
@@ -463,7 +463,7 @@ Mitglieder. Bibliotheken müssen ihre eigenen Schlüsse ziehen. (ks)
 Haruto Hiraba, Yoshimasa Takeuchi, Kensuke Nishio, Hiroyasu Koizumi,
 Takayuki Yoneyama, Hideo Matsumura: *Current status of dental journals
 published by Japanese organization*. In: Japanese Dental Science Review.
-Vol. 60, 2024, S. 40-43, <https://doi.org/10.1016/j.jdsr.2023.12.001>
+Vol. 60, 2024, S. 40--43, <https://doi.org/10.1016/j.jdsr.2023.12.001>
 
 Die Autor\*innen analysieren die internationale Sichtbarkeit von
 japanischen Fachzeitschriften aus dem Bereich der Zahnmedizin anhand der
@@ -487,7 +487,7 @@ Finanzierung und die der Qualitätssicherung. (bk)
 Dueholm Müller, Sune ; Sæbø, Johan Ivar (2024). *The 'hijacking' of the
 Scandinavian Journal of Information Systems: Implications for the
 information systems community*. In: Information Systems Journal 34
-(2024) 2: 364-383, <https://doi.org/10.1111/isj.12481>
+(2024) 2: 364--383, <https://doi.org/10.1111/isj.12481>
 
 Eine (relativ) neue Art von Betrug im Bereich wissenschaftliche
 Zeitschriften wird in diesem Artikel anhand eines konkreten Beispiels,
@@ -522,7 +522,7 @@ Betrug reagiert werden kann, kommen dabei allerdings nicht sehr weit.
 Chan, Jennifer ; Zhangm Erica ; Vrmeij, Hermine ; Riemer, John (2024).
 *Metadata Librarians for Open Access: A Path Towards Sustainable
 Discovery and Impact for Open Access Resources.* In: International
-Journal of Librarianship 8 (2024) 4: 30-41,
+Journal of Librarianship 8 (2024) 4: 30--41,
 <https://doi.org/10.23974/ijol.2024.vol8.4.351>
 
 Am Ende ist dieser Artikel ein Praxisbericht darüber, wie eine,
@@ -1131,7 +1131,7 @@ gar nicht erst thematisiert. (ks)
 
 Kristof, Nicholas (2023). *We know the cure for loneliness. So why do we
 suffer?* In: The New York Times -- International Edition. September 8,
-2023. S. 9, <https://www.nytimes.com/2023/09/06/opinion/loneliness-epidemic-solutions.html?unlocked_article_code=JEOPFGKQBauhm0-RPny94Guinp1-eOMASsQy3iPuUjw-xSH_g7LVhlnzh4bRtJUSOaKtA1N0pX19hHM9_jN1HNQ18EEDeuCn21PbfKGDIpo8sgiwrZsjMqnVcJhUD0stLlbnLdUWTWN65q6XaXBVKtICx-7f1IsXMJ8QLdyaT2gHkEU8MX9XEFBoGnQbxykPTGARDA3Opi1GXOKH2rQ9gsAF7TOMIc8iZi2oyrQ1BOB6XfwSYquCqyUKipbI9Na3uzOBOnAmT_Pf5WmeEqkAdDWW3W3cAQO47OPjjB3YtPZDhuu4diDGG2_64FwvsFiXm0l0ZS1JD6OBzOdb4OhBuGry4Nar8GE&smid=url-share>
+2023. S. 9, <https://www.nytimes.com/2023/09/06/opinion/loneliness-epidemic-solutions.html>
 \[Paywall\]
 
 In einem ausführlichen Beitrag über Einsamkeit als soziale und
@@ -1354,7 +1354,7 @@ Anliegen war ausdrücklich auch, den Nutzerinnen einen Rückzugsort zu
 geben. (bk)
 
 Jane Margolies: *Not Just for Scooby-Doo Anymore*. In: New York Times,
-March 10, 2024, Section F, S. 9
+March 10, 2024, Section F, S. 9, <https://www.nytimes.com/2024/03/07/realestate/design-trend-secret-doors.html>
 
 In einem Bericht über die Popularität von versteckten Räumen in privaten
 Neubauten in den USA stellt die Autorin einen Bezug zur
@@ -1505,7 +1505,7 @@ ihre Gründung, Finanzierung und ihr Niedergang abhängig war von den
 unterschiedlichen politischen Interessen der wechselnden
 Machthaber\*innen in Ägypten. (ks)
 
-Sophia Kimmig: *Von Füchsen und Menschen*. München: Piper Verlag, 2022
+Sophia Kimmig: *Von Füchsen und Menschen*. München: Piper Verlag, 2022 \[gedruckt und als E-Book, Paywall\]
 
 In ihrem Buch über Füchse und die Stadtnatur erwähnt die Autorin den
 Bibliotheksfuchs der Staatsbibliothek zu Berlin, Haus Unter den Linden,
@@ -1513,7 +1513,7 @@ der offenbar das einzigartige Klettertalent der Tiere dadurch zum
 Ausdruck brachte, dass er hin und wieder auf Fensterbrettern auftauchte.
 (vergleiche S. 29f.) (bk)
 
-Robert Barry: *compact disc*. New York: Bloomsbury Academic, 2020
+Robert Barry: *compact disc*. New York: Bloomsbury Academic, 2020 \[gedruckt und als E-Book, Paywall\]
 
 In seiner Mediengeschichte der Compact Disc (CD) berichtet Robert Barry,
 warum als Leitverpackung das Jewelcase gewählt wurde. Das Marketing von
@@ -1524,7 +1524,7 @@ in der Aufreihung im Regal, also auch bei großen Sammlungen, deutlicher
 lesbar bleibt. (vergleiche S. 119) (bk)
 
 Marc Masters: High Bias: *The distorted history of the cassette tape*.
-Chapel Hill: The University of North Carolina Press, 2023
+Chapel Hill: The University of North Carolina Press, 2023 \[gedruckt und als E-Book, Paywall\]
 
 In seiner Medien- und Kulturgeschichte der Kompaktkassette nicht zuletzt
 als soziales Medium erwähnt Marc Masters auch einige Bezüge zur
