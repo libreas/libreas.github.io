@@ -7,8 +7,7 @@ also includes the dimensions of *identity* and *orientation* (Diversity
 Charter n.d.; Elsheri et al. 2022, Supplement Figure 2; Timmo D. 2022).
 In German the term \'Geschlechtsidentität\' is usually used, which is an
 insufficient translation of the more accurate English term
-[gender]
-*[identity]*](https://lgbtqia.fandom.com/wiki/Gender_identity)
+[gender *identity*](https://lgbtqia.fandom.com/wiki/Gender_identity)
 since English allows us to distinguish between sex and gender while
 German doesn\'t. According to the [split-attraction
 model](https://lgbtqia.mywikis.wiki/wiki/Split_Attraction_Model),
@@ -916,7 +915,7 @@ Kulturmagazin des Goethe-Instituts.* Retrieved February 20, 2024, from
 <https://www.goethe.de/prj/zei/de/art/22554555.html>
 
 Mobile Beratung gegen Rechtsextremismus Berlin. (2023). *Alles nur leere
-Worte? - Zum Umngang mit dem Kulturkampf von rechts in Bibliotheken.*
+Worte? - Zum Umgang mit dem Kulturkampf von rechts in Bibliotheken.*
 Retrieved February 20, 2024, from
 <https://www.mbr-duesseldorf.de/fileadmin/content/medien/230715_MBR_Broschuere_Bibliotheken_online.pdf>
 

@@ -952,7 +952,7 @@ Kulturmagazin des Goethe-Instituts.* Abgerufen 20. Februar 2024, von
 [https://www.goethe.de/prj/zei/de/art/22554555.html](https://www.goethe.de/prj/zei/de/art/22554555.html)
 
 Mobile Beratung gegen Rechtsextremismus Berlin. (2023). *Alles nur leere
-Worte? - Zum Umngang mit dem Kulturkampf von rechts in Bibliotheken.*
+Worte? - Zum Umgang mit dem Kulturkampf von rechts in Bibliotheken.*
 Abgerufen 20. Februar 2024, von
 [https://www.mbr-duesseldorf.de/fileadmin/content/medien/230715_MBR_Broschuere_Bibliotheken_online.pdf](https://www.mbr-duesseldorf.de/fileadmin/content/medien/230715_MBR_Broschuere_Bibliotheken_online.pdf)
 
