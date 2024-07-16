@@ -1,7 +1,7 @@
 Die Bibliothek von Babel, beschrieben von Jorge Luis Borges, ist ein
 stiller Ort. Jedenfalls widmet sich die gleichnamige Erzählung nur ihrer
 visuellen Erscheinung: Selbst Bücherverbrennungen und
-Selbstmordndcloude, die sich laut Borges in diesem papierenen Universum
+Selbstmorde, die sich laut Borges in diesem papierenen Universum
 ereignen, scheinen lautlos zu geschehen. Zwar wird behauptet, dass diese
 unendliche Bibliothek alle kombinatorisch möglichen Bücher enthalte,
 doch die Erzählung verweist vor allem auf sich selbst, auf fiktionale
