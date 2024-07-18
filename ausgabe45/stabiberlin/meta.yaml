@@ -17,7 +17,7 @@
     
     
     
-    <meta property="dc:creator" content="Ina Hansen-Goos" />
+    <meta property="dc:creator" content="Insa Hansen-Goos" />
     
     <meta property="dc:creator" content="Barbara Heindl" />
     
@@ -38,7 +38,7 @@
     <meta property="dc:source" content="LIBREAS. Library Ideas" />
     <meta property="dc:subject" content="Library and Information Science" />
     <meta property="dc:type" content="website" />
-    <meta property="dc:description" content="Die von Hans Scharoun entworfene Staatsbibliothek am Kulturforum ist ein zentraler Ort wissenschaftlicher wie literarischer Textproduktion in Berlin. Neben der hohen Raumqualität dieser Ikone moderner Bibliotheksarchitektur befördert auch ihre charakteristische, von Wim Wenders sogar in seinem Film &lt;i&gt;Der Himmel über Berlin&lt;/i&gt; (1987) ästhetisierte Geräuschkulisse, ganz wesentlich die kreative Schreibarbeit im Lesesaal.&lt;/br&gt;In diesem Beitrag geht es um ein in Kooperation mit dem Hörverlag speak low sowie der Medienwissenschaftlerin Hannah Wiemer realisiertes Projekt der Staatsbibliothek zur akustischen Vermessung ihres Scharoun-Gebäudes am Kulturforum. Am Vorabend von dessen Generalinstandsetzung soll damit sowohl dem Inspirationspotential der Sounds of Stabi nachgegangen als auch und vor allem die Möglichkeit geschaffen werden, sich die Staatsbibliothek nach Hause zu holen &amp;mdash; gerade während ihrer baubedingten Schließzeit."/>
+    <meta property="dc:description" content="Die von Hans Scharoun entworfene Staatsbibliothek am Kulturforum ist ein zentraler Ort wissenschaftlicher wie literarischer Textproduktion in Berlin. Neben der hohen Raumqualität dieser Ikone moderner Bibliotheksarchitektur befördert auch ihre charakteristische, von Wim Wenders sogar in seinem Film &lt;i&gt;Der Himmel über Berlin&lt;/i&gt; (1987) ästhetisierte Geräuschkulisse ganz wesentlich die kreative Schreibarbeit im Lesesaal.&lt;/br&gt;In diesem Beitrag geht es um ein in Kooperation mit dem Hörverlag speak low sowie der Medienwissenschaftlerin Hannah Wiemer realisiertes Projekt der Staatsbibliothek zur akustischen Vermessung ihres Scharoun-Gebäudes am Kulturforum. Am Vorabend von dessen Generalinstandsetzung soll damit sowohl dem Inspirationspotential der Sounds of Stabi nachgegangen als auch und vor allem die Möglichkeit geschaffen werden, sich die Staatsbibliothek nach Hause zu holen &amp;mdash; gerade während ihrer baubedingten Schließzeit."/>
     <meta property="dc:source" resource="urn:ISSN:1860-7950" /> 
 
 <!-- Google Scholar -->
@@ -156,7 +156,7 @@
 
         <div class="titelei">
         
-        <i itemprop="author">Ina Hansen-Goos, Barbara Heindl, Harald Krewer, Christian Mathieu</i>
+        <i itemprop="author">Insa Hansen-Goos, Barbara Heindl, Harald Krewer, Christian Mathieu</i>
         
     </div>
 
@@ -167,7 +167,7 @@
             
               
               
-            <i itemprop="author">Ina Hansen-Goos</i> 
+            <i itemprop="author">Insa Hansen-Goos</i> 
             
             
               
@@ -190,7 +190,7 @@
 
         
 
-        <p><small itemprop="description">Die von Hans Scharoun entworfene Staatsbibliothek am Kulturforum ist ein zentraler Ort wissenschaftlicher wie literarischer Textproduktion in Berlin. Neben der hohen Raumqualität dieser Ikone moderner Bibliotheksarchitektur befördert auch ihre charakteristische, von Wim Wenders sogar in seinem Film <i>Der Himmel über Berlin</i> (1987) ästhetisierte Geräuschkulisse, ganz wesentlich die kreative Schreibarbeit im Lesesaal.</br>In diesem Beitrag geht es um ein in Kooperation mit dem Hörverlag speak low sowie der Medienwissenschaftlerin Hannah Wiemer realisiertes Projekt der Staatsbibliothek zur akustischen Vermessung ihres Scharoun-Gebäudes am Kulturforum. Am Vorabend von dessen Generalinstandsetzung soll damit sowohl dem Inspirationspotential der Sounds of Stabi nachgegangen als auch und vor allem die Möglichkeit geschaffen werden, sich die Staatsbibliothek nach Hause zu holen &mdash; gerade während ihrer baubedingten Schließzeit.</small></p>
+        <p><small itemprop="description">Die von Hans Scharoun entworfene Staatsbibliothek am Kulturforum ist ein zentraler Ort wissenschaftlicher wie literarischer Textproduktion in Berlin. Neben der hohen Raumqualität dieser Ikone moderner Bibliotheksarchitektur befördert auch ihre charakteristische, von Wim Wenders sogar in seinem Film <i>Der Himmel über Berlin</i> (1987) ästhetisierte Geräuschkulisse ganz wesentlich die kreative Schreibarbeit im Lesesaal.</br>In diesem Beitrag geht es um ein in Kooperation mit dem Hörverlag speak low sowie der Medienwissenschaftlerin Hannah Wiemer realisiertes Projekt der Staatsbibliothek zur akustischen Vermessung ihres Scharoun-Gebäudes am Kulturforum. Am Vorabend von dessen Generalinstandsetzung soll damit sowohl dem Inspirationspotential der Sounds of Stabi nachgegangen als auch und vor allem die Möglichkeit geschaffen werden, sich die Staatsbibliothek nach Hause zu holen &mdash; gerade während ihrer baubedingten Schließzeit.</small></p>
 
         
 
@@ -212,7 +212,7 @@
             <br>
             
             
-            Ina Hansen-Goos,
+            Insa Hansen-Goos,
             
             
             
@@ -262,7 +262,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2024-07-16</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2024-07-18</a>)</p>
 
 </footer>
       </div>

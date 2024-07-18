@@ -253,6 +253,7 @@ Edgar Wisniewski: Hans Scharouns letztes Werk für Berlin: ein Bericht
 [https://umbau.gmp.de/](https://umbau.gmp.de/)
 
 [https://www.boersenblatt.net/sites/default/files/documents/2024-02/hbl_2403plak.pdf](https://www.boersenblatt.net/sites/default/files/documents/2024-02/hbl_2403plak.pdf)
+
 [https://www.c2dh.uni.lu/projects/failure-and-success-dummy-head-recording-innovation-history-3d](https://www.c2dh.uni.lu/projects/failure-and-success-dummy-head-recording-innovation-history-3d)
 
 [https://www.khm.de/veranstaltungen_mitschnitte/id.29797.masterclass-mit-wim-wenders/](https://www.khm.de/veranstaltungen_mitschnitte/id.29797.masterclass-mit-wim-wenders/)
