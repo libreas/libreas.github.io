@@ -64,6 +64,8 @@ die Datenbank eingeflossen. Der Aufsatz zeichnet nach, wie es dazu kam,
 dass nordamerikanische, westeuropäische und englischsprachige Quellen in
 den Indizes auch heute noch bevorzugt werden. (nj)
 
+---
+
 Modero, Gina C. (2023). *The Special Collections Reading Room: A Study
 of Culture and Its Impact on the Researcher Experience*. In: RBM: A
 Journal of Rare Books, Manuscripts, and Cultural Heritage 24 (2023) 2,
@@ -86,6 +88,8 @@ Bibliotheken untersuchen kann. Aber die Argumente, die für das Ergebnis
 angeführt werden, überzeugen durch ihre sporadische Darstellung im Text
 nicht wirklich. Sie scheinen hier vor allem subjektive Interpretationen
 der Autorin zu sein. (ks)
+
+---
 
 Larsen, Håkon (2024). *Managing Norwegian public libraries as civil
 public spheres: recent controversies*. In: Journal of Documentation 80
@@ -141,6 +145,8 @@ gegeben ist. Für Bibliotheken im DACH-Raum ist der Text eine
 Lernmöglichkeit, da sich ähnliche Fragen auch ohne gesetzliche
 Bestimmung im Bibliotheksalltag stellen. (ks)
 
+---
+
 Roy, Mantra ; Chatterjee, Sutapa (2024). *Barriers in LIS Scholarship in
 India: Some Observations*. In: International Journal of Librarianship 8
 (2024) 4: 114--127, <https://doi.org/10.23974/ijol.2024.vol8.4.330>
@@ -176,6 +182,8 @@ Publizierens in Open Access ohne Kosten, informiert. Alles in allem
 scheint die Situation also von verschiedenen Hürden geprägt, die auf
 unterschiedliche Weise angegangen werden können. (ks)
 
+---
+
 *Case Studies in Library Publishing* 1 (2023) 1,
 <https://cslp.pubpub.org/issue-1>
 
@@ -202,6 +210,8 @@ vergleichbare Services aufbauen will. Interessanter ist aber, dass sich
 das "Feld" des Library Publishings mit dieser Zeitschrift weiter zu
 festigen scheint. (ks)
 
+---
+
 Albergaria, Matheus (2024). *The economics of libraries*. In: Journal of
 Information Science \[Online first\], <https://doi.org/10.1177/01655515241233741>
 \[Paywall\]
@@ -221,6 +231,8 @@ Tradition der Kritik solcher Studien und vor allem des "Weltbildes" der
 Ökonomie gibt, schliesst aber, dass es ein wachsendes und deshalb für
 die Bibliotheks- und Informationswissenschaft relevantes Feld darstellt.
 (ks)
+
+---
 
 Centerwall, Ulrika (2024). *In plain sight: School librarian practices
 within infrastructures for learning*. In: Journal of Librarianship and
@@ -250,6 +262,8 @@ können, da sie zum Beispiel auf zahlreiche etablierte Standards und
 Richtlinien zurückgreifen können -- implizit deutet sie damit an, dass
 solche gemeinsam in der schulbibliothekarischen Profession erarbeitete
 Standards hilfreich wären. (ks)
+
+---
 
 Guss, Samantha ; Cunningham, Sojourna ; Stout, Jennifer (2024). *Not all
 staying is the same: Unpacking retention and turnover in academic
@@ -293,6 +307,8 @@ Bibliothekar\*innen in unbefriedigenden Situationen gibt, die -- wenn
 man die Parallele zieht -- vor allem ihre Arbeit machen, aber ansonsten
 weder sich noch die Einrichtung weiterentwickeln. (ks)
 
+---
+
 Engström, Lisa ; Eckerdal, Johanna Rivano (2024). *Bringing on the
 Social: Infrastructuring Libraries Through Zine-making Workshops*. In:
 The Journal of Creative Library Practice,
@@ -316,6 +332,8 @@ sie als wichtig und was als weniger wichtig ansehen. Die Ergebnisse
 waren wenig überraschend, sondern spiegelten den Diskurs über die
 Bibliothek als "offenen, demokratischen Ort", der sich auch in der
 Literatur zu Öffentlichen Bibliotheken im DACH-Raum findet. (ks)
+
+---
 
 Adolpho, Keahi ; Krueger, Stephen G. (2024). *Decistifying trans and
 gender diverse inclusion in library work: A literature review.* In: In
@@ -376,6 +394,8 @@ darstellen (was seine Berechtigung hat), aber im Format einer
 wissenschaftlichen Arbeit daherkommen (was sie allerdings nicht sind).
 (ks)
 
+---
+
 Hackett, Cody ; Kim, Jeonghyun (2024). *Planning, implementing and
 evaluating research data services in academic libraries: a model
 approach*. In: Journal of Documentation 80 (2024) 1, 27--38,
@@ -404,6 +424,8 @@ aufgelistet und wichtige Publikationen zum Thema erwähnt. Der Text
 eignet sich gut, um einen schnellen Überblick über das Thema zu
 erhalten. (eb)
 
+---
+
 Dejan Pajić, Aleksandra Babić, Tanja Jevremov (2023): *Open access
 practice in personality research: a bibliometric perspective.*
 Primenjena Psihologija, 16(4). <https://doi.org/10.19090/pp.v16i4.2511>
@@ -425,6 +447,8 @@ insofern problematisch, weil es die Bewegung von Green-OA zu Gold-OA
 gibt. Die Autor\*innen vermuten, dass die steigende Akzeptanz von
 Gold-OA zu einer Abnahme der Motivation für Green-OA, also die
 Zweitveröffentlichung über Repositorien führt. (bk)
+
+---
 
 Eve, Martin Paul (2024). *Digital Scholarly Journals Are Poorly
 Preserved: A Study of 7 Million Articles*. In: Journal of Librarianship
@@ -460,6 +484,8 @@ mögliche Konsequenzen für crossref ein, vor allem strengere Durchsetzung
 von Anforderungen für die Vergabe von DOIs und bessere Beratung ihrer
 Mitglieder. Bibliotheken müssen ihre eigenen Schlüsse ziehen. (ks)
 
+---
+
 Haruto Hiraba, Yoshimasa Takeuchi, Kensuke Nishio, Hiroyasu Koizumi,
 Takayuki Yoneyama, Hideo Matsumura: *Current status of dental journals
 published by Japanese organization*. In: Japanese Dental Science Review.
@@ -483,6 +509,8 @@ Gold-Open-Access aus. Sie erwarten dadurch höhere JIF, EF und AIS-Werte
 und einen stärkeren Wettbewerb der Titel untereinander. Als die beiden
 zentralen Herausforderungen für Open Access sehen sie die Frage der
 Finanzierung und die der Qualitätssicherung. (bk)
+
+---
 
 Dueholm Müller, Sune ; Sæbø, Johan Ivar (2024). *The 'hijacking' of the
 Scandinavian Journal of Information Systems: Implications for the
@@ -557,22 +585,23 @@ würde dem Werk gut tun.)
 
 Ein neues Buzz-Word und neues Futter aus amerikanischer Produktion für
 die Berufsbilddebatte im wissenschaftlichen Bibliothekswesen, also auch
-für "Fachreferent:innen und umzu\", denkt man. Und rollt dann bei
-einigen der (sehr kurzen) Beiträge angesichts der recht \"heroischen\"
+für "Fachreferent:innen und umzu", denkt man. Und rollt dann bei
+einigen der (sehr kurzen) Beiträge angesichts der recht "heroischen"
 Darstellungen ein wenig mit den Augen.
 
 Die angesprochenen Themenbereiche und vor allem die zu jedem Beitrag
-aufgeführten \"Discussion questions\" können aber für das Nachdenken
-über die Lage an deutschen Bibliotheken durchaus \"Knabberzeug\"
-liefern. (vv)
+aufgeführten "Discussion questions" können aber für das Nachdenken
+über die Lage an deutschen Bibliotheken durchaus "Knabberzeug" liefern. (vv)
+
+---
 
 Lo, Patrick ; Baker, David (2024). *The Marketing of Academic, National
 and Public Libraries Worldwide: Marketing, Branding, Community
 Engagement*. Cambridge, Kidlington: Chandos Publishing, 2024,
 <https://doi.org/10.1016/C2022-0-01950-4> \[Paywall\]
 
-Von einem Buch mit dem Titel \"The marketing of academic, national and
-public libraries worldwide: marketing, branding, community engagement\",
+Von einem Buch mit dem Titel "The marketing of academic, national and
+public libraries worldwide: marketing, branding, community engagement",
 das 753 Seiten umfasst, könnte man eine Fülle von Fallbeispielen und
 Good Practices aus dem Marketing für wissenschaftliche Bibliotheken
 erwarten. In diesem Fall aber bekommt man eine Sammlung von Interviews
@@ -581,17 +610,17 @@ Aktivitäten in ihren Bibliotheken zuständig sind.
 
 Die Antworten sind streckenweise durchaus interessant zu lesen. Aber
 aufgrund einiger der (meines Erachtens viel zu groß formatierten)
-Fragen, schwanken sie oft zwischen Marketing \"für Bibliotheken\" und
-\"für die jeweiligen Bibliothekar:innen\" (bis hin zu \"What would you
-like to be remembered for when you retire?\").
+Fragen, schwanken sie oft zwischen Marketing "für Bibliotheken" und
+"für die jeweiligen Bibliothekar:innen" (bis hin zu "What would you
+like to be remembered for when you retire?").
 
 Die Auswahl der befragten Kolleg:innen hat einen USA-Schwerpunkt, aber
 es gibt auch Beiträge aus anderen Ländern der Welt, darunter
 Deutschland. Für die Reihenfolge im Band habe ich kein Muster erkennen
 können. In einigen Fällen ist die Auswahl der Interviewten oder
 zumindest die Aufnahme der Interviews in die Sammlung fragwürdig (zum
-Beispiel \"as I am not the marketing expert, I can\'t really answer the
-question\", S. 243).
+Beispiel "as I am not the marketing expert, I can\'t really answer the
+question", S. 243).
 
 Hat man sich nach ein paar Seiten also von der Idee verabschiedet,
 Inspirationen für Marketingmaßnahmen im eigenen Haus finden zu können,
@@ -603,6 +632,8 @@ Kurzportraits kennen -- und kann nach der Lektüre dann vielleicht auch
 darüber nachdenken, für was man denn selbst nach dem Abschied in den
 Ruhestand (oder in Richtung einer anderen Aufgabe oder Bibliothek) in
 Erinnerung bleiben möchte. (vv)
+
+---
 
 Jaminson, Andrea (2024). *Decentering Whiteness in Libraries: A
 Framework for Inclusive Collection Management Practices.* (Beta Phi Mu
@@ -658,6 +689,8 @@ Das ist eine andere Kultur des Bestandsmanagement, was auch heisst, dass
 Bibliotheken im DACH-Raum die Werkzeuge, Strukturen, Formeln und so
 weiter nicht einfach aus den USA übernehmen können, wenn sie selber das
 Ziel haben, ihre Bestände diverser zu machen. (ks)
+
+---
 
 Medaille, Ann (2024). *The Librarian's Guide to Learning Theory:
 Practical Applications in Library Settings*. Chicago: ALA editions, 2024
@@ -747,6 +780,8 @@ Bürgermeisterin wann eine Brief geschrieben oder eine Rede gehalten hat.
 An solchen Stellen ist den Darstellungen schwer zu folgen, weil sich die
 Situationen über die Jahrzehnte sehr ähneln. (ks)
 
+---
+
 Senarclens, Vanessa de (Hrsg.) (2024). *Bücher und ihre Wege:
 Bibliomigration zwischen Deutschland und Polen seit 1939*. (Fokus: Neue
 Studien zur Geschichte Polens und Osteuropas, 12). Paderborn: Brill
@@ -754,7 +789,7 @@ Schöningh, 2024.
 <https://doi.org/10.30965/9783657791750>. \[gedruckt und als E-Book, Paywall\]
 
 Auch wenn er in diesem Buch nicht benutzt wird, wäre wohl der Begriff
-\"Entanglement\" von Bibliotheken und Geschichte geeignet, um den Inhalt
+"Entanglement" von Bibliotheken und Geschichte geeignet, um den Inhalt
 dieses Werkes zu beschreiben. Ausgehend von einer Konferenz versammelt
 der Band Beiträge zu der Frage, wie Bibliotheken und Bestände im Laufe
 der polnischen und deutschen Geschichte "wanderten", aber auch -- sehr
@@ -779,6 +814,8 @@ Seite und heute für eine Zusammenarbeit der Bibliotheken beider Länder.
 In vielen Beiträgen geht es darum, wie Bibliotheken zerstört wurden oder
 welche Wege Bestände nahmen. Teilweise wird dies als grossangelegte
 Geschichte erzählt, teilweise anhand von einzelnen Büchern. (ks)
+
+---
 
 zur Lage, Julian (2022). *Geschichtsschreibung aus der Bibliothek:
 Sesshafte Gelehrte und globale Wissenszirkulation (ca. 1750--1815).*
@@ -826,6 +863,8 @@ transportiert und dann in Laboren ausgewertet zu werden -- einführt. Das
 scheint für Reiseberichte und deren Verwendung eigentlich ein sinnvolles
 Modell zu sein. Jedoch kommt der Autor im Laufe der Untersuchung
 erstaunlicherweise nicht mehr auf diese theoretische Basis zurück. (ks)
+
+---
 
 Smirnova, Victoria (2023). *Medieval* Exempla *in Transition: Caesarius
 of Heisterbachs* Dialogus miraculourm *and Its Readers.* (Cistercian
@@ -892,6 +931,8 @@ Gleichzeitig ist sie heute selber Wissenschaftliche Mitarbeiterin in
 einer der grössten Bibliotheken mit einer solchen Sammlung, nämlich der
 Bayerischen Staatsbibliothek in München. (ks)
 
+---
+
 Purdy, Jessica G. (2024). *Reading Between the Lines: Parish Libraries
 and their Readers in Early Modern England, 1558--1709.* (Library of the
 Written Word, 120 ; The Handpress World, 98). Leiden, Boston: Brill,
@@ -938,6 +979,8 @@ Geschichte liegt im Dunkeln. Insoweit werden auch in Zukunft noch mehr
 dieser Bibliotheken "auftauchen". Die Autorin präsentiert ihre Daten
 aber so, als wären sie abgeschlossen und weist sie auch nicht einzeln
 nach. (ks)
+
+---
 
 Strickland, Forrest C. (2023). *The Devotion of Collecting: Dutch
 Ministers and the Culture of Print in the Seventeenth Century*. (Library
@@ -1001,6 +1044,8 @@ werden. Und nicht zuletzt wird sichtbar, wie Bücher immer mehr zum
 Allgemeingut wurden, also auch immer mehr "handliche" Ausgaben
 erschienen. Das ist alles interessant, allerdings teilweise sehr
 ausführlich und deshalb langsam zu lesen. (ks)
+
+---
 
 Bassermann-Jordan, Gabriele von ; Fromm, Waldemar ; Haug, Christine ;
 Raabe, Christiane (Hrsg.) (2024). *Jella Lepman: Journalistin, Autorin,
@@ -1076,7 +1121,7 @@ werden *können*. Und ob nicht manche Tätigkeiten bewusst unterlassen
 oder niedrig priorisiert werden sollten. Zumstein argumentiert dies am
 Beispiel der Informationsbudgets und einer granularen Erfassung
 verschiedener Publikationskostenarten -- er plädiert dafür, besser für
-Strukturen zu sorgen, damit \"antiquierte\" Publikationsgebühren (etwa
+Strukturen zu sorgen, damit "antiquierte" Publikationsgebühren (etwa
 color oder page charges) nicht mehr gezahlt werden -- anstatt immer
 besser darin zu werden, die verschiedenen Kostenarten granular zu
 erfassen und umfangreich mit Publikationsmetadaten zu verknüpfen.
@@ -1086,6 +1131,8 @@ kritische Diskussion der Ziele der Open-Access-Transformation anzuregen.
 Genau für eine solche Diskussion -- mit den Leitungen von Bibliotheken
 und Hochschulen, wie auch innerhalb der OA-Community -- liefert er viele
 Anregungen. (mv)
+
+---
 
 Schön, Margit ; Barbers, Irene; Mittermaier, Bernhard (2024).
 *Publikationskostenmonitoring: Aktueller Stand und Herausforderungen von
@@ -1149,8 +1196,10 @@ infrastructure, such as parks and libraries, and also social
 infrastructure to weave together volunteers or enthusiasts with similar
 interests." Zudem erwähnt Nicholas Kristof eine "Bibliothek der Dinge"
 in der britischen Stadt Frome, die passenderweise SHARE FROME heißt,
-siehe [[https://sharefrome.org/]{.underline}](https://sharefrome.org/).
+siehe [https://sharefrome.org/](https://sharefrome.org/).
 (bk)
+
+---
 
 Caspari, Heinrich: *Lieferung an italienische staatliche Bibliotheken
 betreffend*. In: Börsenblatt für den Deutschen Buchhandel. Nr. 179, 03.
@@ -1162,6 +1211,8 @@ eine von seiner Buchhandlung versorgte staatliche Bibliothek in Italien
 den Bezug nach offizieller Anordnung einstellen muss, da entsprechende
 Abrechnungen nur noch innerhalb Italiens möglich sind. Der Buchhändler
 fragt nach den Erfahrungen anderer Buchhandlungen. (bk)
+
+---
 
 o.A.: *From Kenosha to the Children of Italy*. In: Wisconsin Library
 Bulletin. January 1947, S. 26
@@ -1181,6 +1232,8 @@ sich in der Schatztruhe dreißig Bücher zeittypischer Kinderliteratur wie
 The Story of Little Black Sambo, Daniel Boone, Millions of Cats und Make
 Way for Ducklings. (bk)
 
+---
+
 Schmitz, Jasmin: *Beyond Predatory Publishing: Additional Questionable
 Offers in Scholarly Publishing*. In: Scholarly Communications in
 Transition. A Blog about Predatory and Other Phenomena in Academia,
@@ -1194,6 +1247,8 @@ Auswirkungen dieses wissenschaftlichen Fehlverhaltens auf die Forschung
 insgesamt. Der Blogbeitrag bietet dabei einen übersichtlichen Einstieg
 in aktuelle Entwicklungen und verleitet mit ausführlichen Referenzen zur
 vertieften Recherche. (eb)
+
+---
 
 Oreskes, Naomi: *Trouble in the Fast Lane. Scientific research needs to
 slow down, not speed up*. In: Scientific American, Vol. 330, No. 4
@@ -1215,6 +1270,8 @@ nachgewiesenen Zahl von 265 Autor\*innen, die im Schnitt alle fünf Tage
 ein Paper veröffentlichten. Der Artikel beschreibt also ein
 wohlbekanntes Phänomen, das für die Bewertung der Forschung bislang
 nicht gelöst ist. (bk)
+
+---
 
 McKie, Robin: '*The situation has become appalling': fake scientific
 papers push research credibility to crisis point*. In: The Observer /
@@ -1244,6 +1301,8 @@ zeigte. Die Langzeitfolgen könnten noch verheerender werden, wenn
 Personen mithilfe gefälschter Forschung Karriere bis in
 wissenschaftliche Steuerungspositionen machen. (bk)
 
+---
+
 Jochen Zenthöfer: *Schwarzmarkt für den Zitatkauf*. In: Frankfurter
 Allgemeine Zeitung, 21.02.2024, S. N4
 
@@ -1265,6 +1324,8 @@ chinesischen Regierung, die alle Hochschulen des Landes verpflichtete,
 sämtliche Fälle zurückgezogener Publikationen zu melden und auf ein
 wissenschaftliches Fehlverhalten zu prüfen. (bk)
 
+---
+
 Zoë Beery: *Want a Synthesizer? Go Ahead, Take One*. In: New York Times
 / nytimes.com 08.12.2023,
 <https://www.nytimes.com/2023/12/08/nyregion/synth-library-brooklyn.html>
@@ -1283,6 +1344,8 @@ Mitglieder dieser Community. Erwartungsgemäß gibt es auch Workshops und
 Betreibenden einen besonderen Zweck haben: "spread the synth bug". In
 den zweieinhalb Jahren der Existenz der Synth-Bibliothek ging übrigens
 noch keines der Instrumente verloren. (bk)
+
+---
 
 Rachel Felder: *Colette's Sarah Andelman Is Back With Another Idea*. In:
 New York Times / nytimes.com, 28.02.2024.
@@ -1303,6 +1366,8 @@ Yellow"-Socken der amerikanischen Buchkulturvermarkter "Out of Print".
 Buch- und Bibliothekskultur sind offenbar nach wie vor lebendig,
 zugleich aber außergewöhnlich genug, um als Distinktionsthema zu wirken.
 (bk)
+
+---
 
 Sam Lubell: *An Architect Builds Toward the Future on Mexico's Border*.
 In: New York Times / nytimes.com. 01.03.2024.
@@ -1326,7 +1391,9 @@ entgegenzusetzen. Die Bibliothek ist nun beispielsweise Ort eines
 lokalen Kulturfestivals und dient einem Buchclub als Ort seiner
 samstäglichen Sitzungen. (bk)
 
-k.A.: *The Woman\'s Library*. In: New York Times. 25.08.1860. S. 4.
+---
+
+k.A.: *The Woman's Library*. In: New York Times. 25.08.1860. S. 4.
 <https://nyti.ms/48BHaFH> \[Paywall\]
 
 Die New York Times vermeldete am 25. August 1860 die anstehende
@@ -1353,6 +1420,8 @@ own" durch zwei Männer, Henry Ward Beecher und James T. Brady. Das
 Anliegen war ausdrücklich auch, den Nutzerinnen einen Rückzugsort zu
 geben. (bk)
 
+---
+
 Jane Margolies: *Not Just for Scooby-Doo Anymore*. In: New York Times,
 March 10, 2024, Section F, S. 9, <https://www.nytimes.com/2024/03/07/realestate/design-trend-secret-doors.html>
 
@@ -1366,9 +1435,11 @@ untergebracht, hinter denen sich eine Art Betriebstreppenhaus für die
 Bibliothekar\*innen befanden. Weiterhin ließ sich Morgan in seinem
 Arbeitszimmer ein verstecktes Regal in einem verschiebbaren Bücherregal
 einbauen, in dem Titel untergebracht werden konnten, von denen
-\"vielleicht nicht jeder Gentleman möchte, dass es jeder sieht\". Auf
+"vielleicht nicht jeder Gentleman möchte, dass es jeder sieht". Auf
 einer Webseite der Bibliothek werden drei dieser Titel erwähnt: Fanny
 Hill, La nouvelle Sapho und Le diable au corp. (bk)
+
+---
 
 Maya Pontone: Armed Groups in Haiti Ransack National Library. In:
 Hyperallergic. April 4, 2024,
@@ -1382,7 +1453,9 @@ Diebstahl von Möbeln sowie eines Generators, wies aber auch noch einmal
 nachdrücklich auf die Bedrohung für die Rara, die Manuskriptsammlung
 sowie das Zeitungsarchiv hin. (bk)
 
-Zenthöfer, Jochen (2024). *\"Für die Nut­zung dau­er­haft gesperrt\":
+---
+
+Zenthöfer, Jochen (2024). *"Für die Nutzung dauerhaft gesperrt":
 Umgang mit plagiierten Jura-Büchern*. In: Legal Tribune Online,
 26.04.2024,
 <https://www.lto.de/recht/hintergruende/h/plagiat-jura-dissertation-aberkennung-doktortitel-ausleihe-bibliothek-wissenschaft/>
@@ -1399,6 +1472,8 @@ Publikation auf juristische Werke, aber selbstverständlich gilt die
 Darstellung des Bestandsmanagements, die er liefert, auch für andere
 Sachgruppen. (ks)
 
+---
+
 Tondo, Lorenzo: Plato's final hours recounted in scroll found in
 Vesuvius ash. In: THE GUARDIAN / guardian.com, 29.04.2024
 <https://www.theguardian.com/books/2024/apr/29/herculaneum-scroll-plato-final-hours-burial-site>
@@ -1410,6 +1485,8 @@ Stunden mit Musik. Ein versklavtes thrakisches Mädchen, so der Bericht,
 spielte für ihn auf der Flöte. Trotz seines Zustands ließ es sich Platon
 anscheinend nicht nehmen, die Flötenspielerin ob ihres aus seiner Sicht
 defizitären Rhythmusgefühls zu kritisieren. (bk)
+
+---
 
 Last Week Tonight With John Oliver: "Public Libraries", (Season 11,
 Episode 10, Erstausstrahlung 5.5.2024), Streaming via HBO
@@ -1436,6 +1513,8 @@ die Bibliotheksarbeit (inklusive in der Gemeinde ungewollte
 Bibliotheksschließungen). Sehempfehlung! Nicht zuletzt ist es eine
 satirische Unterhaltungssendung mit Bildungs- und Aufklärungsanpruch.
 (mv)
+
+---
 
 Muldowney, Decca (2023). *Meet the Woman Training Parents How to Get
 Books Banned*. In: The Daily Beast, 01.12.2023,
@@ -1505,6 +1584,8 @@ ihre Gründung, Finanzierung und ihr Niedergang abhängig war von den
 unterschiedlichen politischen Interessen der wechselnden
 Machthaber\*innen in Ägypten. (ks)
 
+---
+
 Sophia Kimmig: *Von Füchsen und Menschen*. München: Piper Verlag, 2022 \[gedruckt und als E-Book, Paywall\]
 
 In ihrem Buch über Füchse und die Stadtnatur erwähnt die Autorin den
@@ -1512,6 +1593,8 @@ Bibliotheksfuchs der Staatsbibliothek zu Berlin, Haus Unter den Linden,
 der offenbar das einzigartige Klettertalent der Tiere dadurch zum
 Ausdruck brachte, dass er hin und wieder auf Fensterbrettern auftauchte.
 (vergleiche S. 29f.) (bk)
+
+---
 
 Robert Barry: *compact disc*. New York: Bloomsbury Academic, 2020 \[gedruckt und als E-Book, Paywall\]
 
@@ -1522,6 +1605,8 @@ zugeschnitten wurde, da die Angaben zum Inhalt der CD mit dem so
 standardisierten und geschützten Labeling im Vergleich zu Schallplatten
 in der Aufreihung im Regal, also auch bei großen Sammlungen, deutlicher
 lesbar bleibt. (vergleiche S. 119) (bk)
+
+---
 
 Marc Masters: High Bias: *The distorted history of the cassette tape*.
 Chapel Hill: The University of North Carolina Press, 2023 \[gedruckt und als E-Book, Paywall\]
@@ -1553,6 +1638,8 @@ zusammengetragene Sammlung syrischer Kassettenkultur digitalisiert und
 präsentiert er über eine Seite namens Syrian Cassette Archives
 (<https://syriancassettearchives.org/>). (bk)
 
+---
+
 British Library: *Learning Lessons from the Cyber Attack. British
 Library Cyber Incident Review*. 8 March 2024.
 <https://www.bl.uk/home/british-library-cyber-incident-review-8-march-2024.pdf>.
@@ -1567,6 +1654,8 @@ betreffen (viele veraltete Anwendungen und Systemstrukturen, wenig
 Multi-Faktor-Authentifizierung et cetera). Er zeigt klar, wie
 verletzlich nahezu alle unsere Systeme sind und ermutigt stark zur
 Erstellung eines Notfallplans für Cyberattacken. (eb)
+
+---
 
 Byredo: *Bibliothèque* (Duftkerze)
 
@@ -1587,6 +1676,8 @@ Birkenholz des Fonds drang kaum durch. Es ist ein sehr schöner, durchaus
 prägnanter, fruchtig-komplexer Duft, der aber die von der Bezeichnung
 intendierte Assoziation nicht findet. Mit Bestnoten wurde das Thema
 verfehlt. (bk)
+
+---
 
 Publisher of Library Hi Tech News (2024). Retraction notice: Artificial
 intelligence as enabler of future library services: how prepared are
