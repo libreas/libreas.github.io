@@ -1,0 +1,374 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage[babel]{csquotes}
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage[labelformat=empty]{caption} % option 'labelformat=empty]' to surpress adding "Abbildung 1:" or "Figure 1" before each caption / use parameter '\captionsetup{labelformat=empty}' instead to change this for just one caption
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+\setcapindent{0pt} % no indentation in captions
+\usepackage{xurl} % Breaks URLs
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+% typo setup
+\clubpenalty = 10000
+\widowpenalty = 10000
+\displaywidowpenalty = 10000
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+\usepackage{breakurl}
+
+%meta
+%meta
+
+\fancyhead[L]{N. Sarad, L. Fuhrer und J. Reiling\\ %author
+LIBREAS. Library Ideas, 46 (2024). % journal, issue, volume.
+\href{https://doi.org/10.18452/}{\color{black}https://doi.org/10.18452/}
+{}} % doi 
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/4.0/}{\color{black}Creative Commons BY 4.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{Bestandserhaltung analog und digital. Ein Praxisbericht aus der Zentralbibliothek Zürich}}% title
+\author{Nadine Sarad, Lea Fuhrer, Jesko Reiling} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={Bestandserhaltung analog und digital. Ein Praxisbericht aus der Zentralbibliothek Zürich},
+      pdfauthor={Nadine Sarad, Lea Fuhrer, Jesko Reiling},
+      pdfcopyright={CC BY 4.0 International},
+      pdfsubject={LIBREAS. Library Ideas, 46 (2024).},
+      pdfkeywords={Bestandserhaltung, Digitalisierung, Langzeitarchivierung, preservation, digitization, long-term archiving},
+      pdflicenseurl={https://creativecommons.org/licenses/by/4.0/},
+      pdfurl={https://doi.org/10.18452/},
+      pdfdoi={10.18452/},
+      pdflang={de},
+      pdfmetalang={de}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+\begin{abstract}
+\noindent
+\textbf{Zusammenfassung:} Für die Zentralbibliothek Zürich (ZB) hat die
+Erhaltung des Bestandes eine hohe Bedeutung. Eine eigene Abteilung ist
+für die Konservierung und Restaurierung der wertvollen analogen Bestände
+verantwortlich. Neben Arbeiten am konkreten Objekt befasst sie sich auch
+mit allgemeinen bestandserhaltenden Maßnahmen wie zum Beispiel dem
+gebäudeübergreifenden Klimamonitoring. Im Rahmen der
+Schutzdigitalisierung bereitet sie die Objekte auf verschiedene Arten
+für das Scannen vor, so dass diese im Digitalisierungsprozess keine
+Schäden nehmen. Dies gilt auch für Digitalisierungsprojekte mit anderer
+Zielstellung. Ein zunehmend größeres Arbeitsfeld ist die Erhaltung der
+verschiedenen digitalen ZB-Bestände, wozu neben Retrodigitalisaten auch
+«born-digital»-Objekte gehören. Hierfür hat die ZB neue Infrastrukturen
+aufgebaut und betreibt seit 2023 ein digitales Langzeitarchiv nach
+OAIS-Standard. \\
+
+\noindent
+\textbf{Abstract:} For the Zurich Central Library (ZB), the preservation
+of its collection is of great importance. A dedicated department is
+responsible for the conservation and restoration of valuable analogue
+materials. In addition to working on specific objects, it also focuses
+on general preservation measures, such as cross-building climate
+monitoring. As part of digitization projects, this department prepares
+objects in various ways for scanning, ensuring that they do not incur
+damage during the digitization process. An increasingly significant area
+of work is the preservation of the various digital ZB collections, which
+include both retro-digitized materials and \enquote{born-digital} objects. To
+support this, the ZB has established new infrastructures and has been
+operating a digital long-term archive based on the OAIS standard since
+2023.
+\end{abstract}
+
+%body
+\section{Allgemeine präventive Aufgaben der Abteilung
+Bestandserhaltung}\label{allgemeine-pruxe4ventive-aufgaben-der-abteilung-bestandserhaltung}
+
+Die ZB ist eine der wenigen Institutionen in der Schweiz, die über eine
+eigene Abteilung für Bestandserhaltung verfügt. Diese ist für den Erhalt
+der umfassenden und diversen Bestände zuständig, die in den hausinternen
+mehrstöckigen Magazinen und in externen Depots aufbewahrt werden. Die
+Abteilung Bestandserhaltung beschäftigt elf festangestellte
+Mitarbeitende und setzt sich zusammen aus der Ausrüsterei, der
+Buchbinderei sowie der Konservierung und Restaurierung von Bibliotheks-
+und Archivgut. Während sich die Ausrüsterei um den Buchdurchlauf der
+Bibliothek kümmert und unter anderem Neuzugänge mit Signaturen und einem
+elektronischen \enquote*{Tag} versieht, beschäftigt sich die
+Buchbinderei des Hauses mit kleineren Reparaturen, der Vorbereitung für
+Neubindungen durch externe Dienstleister:innen und unterstützt die
+Restauratorinnen zum Beispiel auch bei internen Ausstellungen.
+
+Zu den Hauptaufgaben der sieben Buch- und Papierrestauratorinnen gehören
+neben konservatorischen Maßnahmen, wie zum Beispiel der Trockenreinigung
+von Objekten, auch praktische Restaurierungsarbeiten wie Einband- und
+Papierrestaurierungen an den Beständen der Spezialsammlungen.
+
+In Kooperation mit dem Gebäudemanagement etablierte die
+Bestandserhaltung ein integriertes Schädlingsbekämpfungsmanagement
+(Integrated Pest Management, IPM) und ein nachhaltiges und
+gebäudeübergreifendes Klimamonitoring. Zusammen mit einer externen Firma
+entwickelte sie einen Notfallplan zur Rettung der Dokumente im
+Havariefall. Diese konservatorischen, präventiven Aspekte der
+Bestandserhaltung haben in den letzten zwanzig Jahren deutlich an
+Relevanz gewonnen und sich in der Zentralbibliothek etabliert. Innerhalb
+eines Jahrzehnts wuchs die ehemalige kleine Buchbinderei auf fast das
+Dreifache an und der Schwerpunkt verschob sich in Richtung Erhalt der
+Bestände.
+
+\section{Neueres Aufgabenfeld: Schutzdigitalisierung und
+Vorbereitungsarbeiten für
+Digitalisierungsprojekte}\label{neueres-aufgabenfeld-schutzdigitalisierung-und-vorbereitungsarbeiten-fuxfcr-digitalisierungsprojekte}
+
+Die ZB digitalisiert seit zwei Jahrzehnten kontinuierlich ihre Bestände.
+Die damit verbundenen Ziele sind die Erleichterung des Zugangs und der
+Schutz der Originale. Für die Abteilung Bestandserhaltung ist in diesem
+Zusammenhang über die Jahre ein neues Aufgabenfeld entstanden. Sie sorgt
+dafür, die Dokumente für die Digitalisierung vorzubereiten und
+sicherzustellen, dass diese durch die Digitalisierung keinen Schaden
+erleiden. Es geht zudem darum, die Scanner und die Mitarbeitenden vor
+Verunreinigungen durch Staub oder Schmutz zu schützen, weshalb das
+Bibliotheksgut auch trockengereinigt wird. Im aktuellen
+Google-Digitalisierungsprojekt, das die ZB seit Mitte 2023 zusammen mit
+der Universitätsbibliothek Basel, der Universitätsbibliothek Bern und
+der Zentral- und Hochschulbibliothek Luzern durchführt, zählt es etwa zu
+den Aufgaben der Bestandserhaltung, die von der Bestandslogistik
+bereitgestellten Bücher vor der Digitalisierung zu begutachten. Die
+beiden verantwortlichen Restauratorinnen prüfen den allgemeinen Zustand
+eines jeden Buches und ob das Buch dem umfangreichen Katalog von
+Anforderungen, die Google an die Scanbarkeit von Werken anlegt, genügt.
+Monatlich werden auf diese Weise 5.000 Bücher ‚verarbeitet'. In anderen
+Digitalisierungsprojekten legen die Restauratorinnen fest, bis zu
+welchem Öffnungswinkel Bücher geöffnet und auf den Scanner gelegt werden
+können. Zudem führen sie, falls notwendig, konservatorische
+Sicherungsarbeiten an den ausgewählten Büchern durch, die leichte
+Schäden aufweisen, um möglichst viele Bücher digitalisieren zu können.
+
+\pagebreak
+\section{Objektschonende Digitalisierung ermöglicht Zugang zu
+fragilen
+Dokumenten}\label{objektschonende-digitalisierung-ermuxf6glicht-zugang-zu-fragilen-dokumenten}
+
+Die Abteilung ist organisatorisch dem Bereich \enquote{Spezialsammlungen
+/ Digitalisierung} angegliedert, in welchem auch die bestandsbesitzenden
+Abteilungen Handschriften, Alte Drucke und Rara, Graphische Sammlung und
+Fotoarchiv, Karten und Panoramen, Musik sowie Turicensia (das sind
+Zürcher Drucke und Medien nach 1800) versammelt sind. Zum Bereich gehört
+im Weiteren auch die Abteilung \enquote{Digitale Produktion und
+Plattformen} und darin das Digitalisierungszentrum (Digiz) der ZB, mit
+dem die Bestandserhaltung seit gut einem Jahrzehnt zunehmend stärker
+zusammenarbeitet.
+
+Der Bestandserhaltung und der Abteilung Digitale Produktion und
+Plattformen ist gemein, dass sie prozessbasiert arbeiten und
+abteilungsübergreifend kooperieren. Besonders der Prozess der
+Eigendigitalisierung der ZB kann nur durch eine engmaschige
+Projektplanung beider Abteilungen erfolgreich erfolgen. Die Prüfung
+eines Objekts durch die Bestandserhaltung ist fester Bestandteil des
+Digitalisierungsworkflows und erfolgt nach der Erfassung des
+Digitalisierungsauftrags immer als erster Schritt. Zu den Aufgaben der
+Bestandserhaltung zählen, wie oben bereits erwähnt, die Festlegung der
+Öffnungswinkel der zu digitalisierenden Bücher sowie Teil- oder auch
+Vollrestaurierungen. Die vorausgehende Prüfung und Behandlung durch die
+Bestandserhaltung gewährleisten eine objektschonende Digitalisierung.
+
+Die vom Digiz erstellten Digitalisate, die nach gängigen Standards der
+Kulturgüterdigitalisierung produziert werden, werden auf den Plattformen
+\href{http://www.e-rara.ch/}{e-rara.ch},
+\href{http://e-manuscripta.ch}{e-manuscripta.ch} und Zurich Open
+Plattform (ZOP, erreichbar unter
+\href{http://zop.zb.uzh.ch}{zop.zb.uzh.ch}) publiziert und sind so für
+Benutzer:innen auf der ganzen Welt digital abruf- und nutzbar. Neben der
+besseren und breiteren Nutzbarkeit der Objekte durch die Digitalisierung
+werden auf diesem Weg auch die Originale geschont, da sie seltener
+konsultiert werden müssen. Die Digitalisierung erlaubt es darüber
+hinaus, dass fragile Werke, die für die Benutzung aus konservatorischen
+Gründen eigentlich gesperrt sind, gleichwohl zugänglich gemacht werden
+können. Bücher, die nur mit einem sehr kleinen Winkel geöffnet werden
+dürfen, können mit Spezialscannern wie etwa dem Wolfenbütteler
+Buchspiegel digitalisiert werden und werden so in digitaler Form
+einsehbar gemacht.
+
+\section{Erhaltung der digitalen
+Bestände}\label{erhaltung-der-digitalen-bestuxe4nde}
+
+Durch die qualitativ hochwertige Digitalisierung erhält die ZB eine
+digitale Sicherheitskopie der analogen Originale. Mit der
+fortschreitenden Digitalisierung stellt sich auch die Frage, wie die
+Erhaltung der stetig wachsenden digitalen Bestände sichergestellt werden
+kann. Seit 2023 betreibt die ZB deshalb ein eigenes digitales
+Langzeitarchiv nach dem Standard des Open Archival Information System
+(OAIS) in Zusammenarbeit mit der Firma docuteam AG (Softwarelösung
+\enquote{docuteam cosmos}). Ziel ist es, alle digitalen Dokumente, die
+von den Abteilungen der Spezialsammlungen als archivwürdig bewertet
+werden, in das digitale Langzeitarchiv zu überführen und so langfristig
+zu erhalten. Explizit von der Archivierung ausgeschlossen sind zum
+aktuellen Zeitpunkt kommerzielle oder frei zugängliche digitale Inhalte
+(insbesondere Streamingangebote), für welche die ZB lediglich
+Zugriffsrechte besitzt, sowie Inhalte wie E-Books und E-Journals, bei
+denen die Zentralbibliothek ihre Archivierungsrechte im Rahmen der
+Beteiligung an internationalen Kooperationen wahrnimmt (LOCKSS,
+Portico).
+
+Seit Oktober 2023 werden alle neu veröffentlichten Digitalisate auf den
+Plattformen e-rara.ch und e-manuscripta.ch direkt im neuen digitalen
+Langzeitarchiv gesichert. Aktuell läuft zudem eine Einspeisung der
+Altdaten dieser zwei Plattformen, welche seit der Aufschaltung von
+e-rara im Jahr 2010 und von e-manuscripta 2013 entstanden sind. Für das
+nächste Jahr ist die Implementierung des Workflows für die
+Zeitungsdigitalisate der ZB, die auf der Plattform
+\href{http://e-newspaperarchives.ch}{e-newspaperarchives.ch} publiziert
+werden, sowie die Anbindung von ZOP an das digitale Langzeitarchiv
+geplant.
+
+Neben dieser großen und stetig wachsenden Menge an Retrodigitalisaten
+bewahrt die ZB in ihren Sammlungen auch sogenannte
+\enquote{born-digital} Bestände auf. Diese Bestände, die bereits
+ursprünglich in digitaler Form erzeugt worden sind, entsprechen entweder
+dem Turicensia-Sammelauftrag, zum Beispiel neue Zürcher Publikationen,
+die als PDF akquiriert werden, oder gelangen durch Archivübernahmen in
+die Spezialsammlungen der Zentralbibliothek. Insgesamt verwaltet die ZB
+aktuell circa 250 TB an potenziell archivwürdigen Daten.
+
+\section{Zukünftige Herausforderungen bei der Bewahrung des
+digitalen
+Bestandes}\label{zukuxfcnftige-herausforderungen-bei-der-bewahrung-des-digitalen-bestandes}
+
+Eine Herausforderung für die digitale Langzeitarchivierung stellen
+insbesondere die \enquote{born-digital} Bestände in den Vor- und
+Nachlässen der Spezialsammlungen dar. Obwohl es sich im Vergleich zu den
+Retrodigitalisaten um eine überschaubare Datenmenge handelt, gibt es
+hier eine Vielzahl von Dateiformaten. Häufig ist auch der Status der
+Dateien nicht eindeutig geklärt, weshalb für diese Bestände eine
+aufwändige Bewertung und Erschließung auf Einzeldokumentstufe nötig sein
+wird. Bei diesen Datenbeständen liegt der Fokus daher aktuell auf
+Abklärungs- und Vorbereitungsarbeiten. Unter anderem wurde ein
+Zwischenarchiv für die digitale Langzeitarchivierung eingerichtet,
+welches aus einer gesicherten Serverinfrastruktur mit einem regelmäßigen
+Back-up besteht. Die Daten, die vorgängig an den diversen Speicherorten
+und auf den verschiedensten Speichermedien gesichert waren, werden
+zentral, nach Abteilungen geordnet, im Zwischenarchiv gesichert. Das
+Zwischenarchiv bildet die Voraussetzung, um auch für all diese
+Datenbestände eine möglichst effiziente Lösung für die digitale
+Langzeitarchivierung zu erarbeiten und verhindert einen Datenverlust
+infolge von veralteten oder beschädigten Datenträgern.
+
+Eine weitere Herausforderung für die Bestandserhaltung sind die in der
+ZB aufbewahrten audiovisuellen Medien. Video- und Audiobestände können
+sowohl konservatorisch bedroht als auch von technologischer Obsoleszenz
+betroffen sein. In solchen Fällen stellt die Digitalisierung häufig die
+beste Möglichkeit dar, dieses Kulturgut für zukünftige Generationen zu
+sichern. Aus diesem Grund startet die ZB ab 2025 ein mehrjähriges
+Digitalisierungsprojekt, welches die digitale Sicherung der unikalen
+audiovisuellen Medien in den Beständen der Spezialsammlungen zum Ziel
+hat.
+
+Die Digitalisierung nach hohen Qualitätsstandards ist hier Bestandteil
+einer umfassenden Bestandserhaltungsstrategie der ZB. Da die Abteilung
+Bestandserhaltung mit diesen Medientypen aktuell noch keine Expertise
+besitzt, wird die ZB bei diesen Medien mit externen Dienstleister:innen
+zusammenarbeiten.
+
+%autor
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{Nadine Sarad} (M.A.) ist Restauratorin und seit Anfang des
+Jahres Abteilungsleitung der Bestandserhaltung in der Zentralbibliothek
+Zürich. Sie studierte Restaurierung und Buchgeschichte in London
+(Großbritannien) und erwarb ihre praktischen Erfahrungen hauptsächlich
+als selbständige Restauratorin in Deutschland. Weiterhin arbeitete sie
+viele Jahre als Projektrestauratorin, Werkstattkoordinatorin und zuletzt
+als Teamleitung im Sachgebiet Bestandserhaltung im Historischen Archiv
+Köln.
+
+\textbf{Lea Fuhrer} (M.A.) ist wissenschaftliche Mitarbeiterin in der
+Abteilung Digitale Produktion und Plattformen und für die digitale
+Langzeitarchivierung bei der Zentralbibliothek Zürich verantwortlich.
+Sie hat Deutsche Sprach- und Literaturwissenschaft und Kulturanalyse an
+der Universität Zürich studiert. Von 2017 bis 2023 war sie bei der
+Fotostiftung Schweiz als wissenschaftliche Mitarbeiterin tätig. Daneben
+hat sie berufsbegleitend den MAS ALIS (Master of Advanced Studies in
+Archival, Library and Information Science) an den Universitäten Bern und
+Lausanne absolviert.
+
+\textbf{Jesko Reiling} (PD Dr.) leitet seit mehreren Jahren die
+Abteilung Digitale Produktion und Plattformen. Nach dem
+Germanistik-Studium an der Universität Zürich arbeitete er viele Jahre
+als Dozent an der Universität Bern und habilitierte sich 2018 an der
+Universität Fribourg. Danach war er in verschiedenen Forschungs- und
+Editionsprojekten tätig.
+
+\end{document}
