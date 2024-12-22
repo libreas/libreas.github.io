@@ -1,11 +1,11 @@
 
 <!DOCTYPE HTML>
 
-<html>
+<html lang="de">
 
 <head>
 	<meta charset="utf-8">
-	<title>Impressum - LIBREAS. Library Ideas</title>
+	<title>Kolumne Bibliotheksphilokartie: Eine Erinnerungskarte aus Berlin-Friedrichshain. - LIBREAS. Library Ideas</title>
 	<meta name="author" content="LIBREAS. Library Ideas">
 
 
@@ -13,15 +13,19 @@
 
  <!-- RDFa Metadata (in DublinCore) -->
     
-    <meta property="dc:title" content="Impressum" />
+    <meta property="dc:title" content="Kolumne Bibliotheksphilokartie: Eine Erinnerungskarte aus Berlin-Friedrichshain." />
     
     
     
+    <meta property="dc:creator" content="Ben Kaden" />
     
+    
+    
+    <meta property="dc:date" content="2024" />
     
     <meta property="dc:format" content="text/html" />
     <meta property="dc:language" content="de" />
-    <meta property="dc:identifier" content="https://libreas.eu/about/index.html" />
+    <meta property="dc:identifier" content="https://libreas.eu/ausgabe46/kaden/meta.yaml" />
     
     <meta property="dc:rights" prefix="cc: http://creativecommons.org/ns#" rel="cc:license" href="https://creativecommons.org/licenses/by/4.0/" content="CC-BY 4.0" />
 	
@@ -34,9 +38,11 @@
 <!-- Google Scholar -->
 
 	<meta name="citation_journal_title" content="LIBREAS. Library Ideas" />
-	<meta name="citation_issue" content="" />
+	<meta name="citation_issue" content="46" />
 	<meta name="citation_issn" content="1860-7950" />
 	
+    <meta name="citation_publication_date" content="2024" />
+    
 
 
   <!-- http://t.co/dKP3o1e -->
@@ -46,7 +52,7 @@
 
 	<link href="/atom.xml" rel="alternate" title="LIBREAS. Library Ideas" type="application/atom+xml">
 	
-	<link rel="canonical" href="https://libreas.eu/about/">
+	<link rel="canonical" href="https://libreas.eu/ausgabe46/kaden/meta.yaml">
 	<link href="/favicon.png" rel="shortcut icon">
 	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
 
@@ -122,22 +128,38 @@
         <a href="https://edoc.hu-berlin.de/feed/atom_1.0/18452/149"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill = "#700000" d="M0 64C0 46.3 14.3 32 32 32c229.8 0 416 186.2 416 416c0 17.7-14.3 32-32 32s-32-14.3-32-32C384 253.6 226.4 96 32 96C14.3 96 0 81.7 0 64zM0 416a64 64 0 1 1 128 0A64 64 0 1 1 0 416zM32 160c159.1 0 288 128.9 288 288c0 17.7-14.3 32-32 32s-32-14.3-32-32c0-123.7-100.3-224-224-224c-17.7 0-32-14.3-32-32s14.3-32 32-32z"/></svg></i></a>
 </div>
         
-<article class="page">
-    
+<article class="page" itemscope itemtype="http://schema.org/ScholarlyArticle">
+
+<div align="right">
+
+<strong> > > > <a href="inhalt.htm">LIBREAS. Library Ideas # 46</a></strong> <br><br>
+</div>
+
+
 
 
     
         
     
+    <div align="right">
+    <p><small><a itemprop="sameAs" href="https://via.hypothes.is/https://libreas.eu/ausgabe46/kaden/meta.yaml">Annotate via hypothes.is</a></small></p>
+        <small><a itemprop="sameAs" href="https://doi.org/10.18452/...">Download PDF</a></small>
+        </div>
     
+    
+    <div align="right">
+        <small><a itemprop="sameAs" href="https://doi.org/10.18452/...">doi:10.18452/...</a> (edoc HU Berlin)</small>
+        </div>
         
 
         
-        <h1 itemprop="name" class="title">Impressum</h1>
+        <h1 itemprop="name" class="title">Kolumne Bibliotheksphilokartie: Eine Erinnerungskarte aus Berlin-Friedrichshain.</h1>
         
         
 
         <div class="titelei">
+        
+        <i itemprop="author">Ben Kaden</i>
         
     </div>
 
@@ -147,6 +169,10 @@
         <div class="titelei">
             
               
+              
+            <i itemprop="author">Ben Kaden</i> 
+            
+            
             
         </div>
  -->
@@ -160,81 +186,31 @@
 
 
         
+        <p>
+          <small>
+            <br>
+            Zitiervorschlag
+            <br>
+            
+            
+            Ben Kaden,
+            
+            
+             
+            "Kolumne Bibliotheksphilokartie: Eine Erinnerungskarte aus Berlin-Friedrichshain.".
+            
+            <i itemprop="provider">LIBREAS. Library Ideas</i>, 46 (<span itemprop="datePublished">2024</span>). <a itemprop="url" href="https://libreas.eu/ausgabe46/kaden/meta.yaml">https://libreas.eu/ausgabe46/kaden/meta.yaml</a>
+        </small>
+        <hr>
+    </p>
+   
+    
 
 
 
 
 
-    <div class="entry-content" itemprop="articleBody"><p>Die Zeitschrift LIBREAS. Library Ideas sowie das <a href="http://libreas.wordpress.com/">Weblog</a> werden durch den <a href="http://libreas-verein.eu/">LIBREAS-Verein</a> am <a href="http://www.ibi.hu-berlin.de">Institut für Bibliotheks- und Informationswissenschaft</a> der <a href="http://www.hu-berlin.de">Humboldt-Universität zu Berlin</a> herausgegeben.</p>
-
-<p>Namentlich gekennzeichnete Beiträge geben nicht in jedem Fall die Meinung der Herausgeber*innen oder der Redaktion wieder. Für die Richtigkeit der in ihren Beiträgen dargestellten Aussagen zeichnent sich die jeweiligen Urheber*innen verantwortlich.</p>
-
-<p><strong>ISSN 1860-7950</strong></p>
-
-<p>Kontakt: <a href="&#x6d;&#x61;&#105;&#x6c;&#116;&#111;&#58;&#x72;&#x65;&#100;&#97;&#x6b;&#x74;&#105;&#x6f;&#x6e;&#64;&#108;&#x69;&#98;&#x72;&#x65;&#97;&#115;&#46;&#x65;&#117;">&#x72;&#101;&#100;&#97;&#x6b;&#x74;&#105;&#111;&#x6e;&#64;&#x6c;&#x69;&#98;&#x72;&#x65;&#x61;&#115;&#x2e;&#101;&#117;</a></p>
-
-<h3>Editorial Board</h3>
-
-<p>Herausgeber*innen:</p>
-
-<ul>
-<li>Ben Kaden M.A. (<a href="https://orcid.org/0000-0002-8021-1785">https://orcid.org/0000-0002-8021-1785</a>) &mdash; <a href="&#x6d;&#97;&#x69;&#x6c;&#116;&#x6f;&#58;&#98;&#x65;&#x6e;&#x40;&#108;&#105;&#x62;&#114;&#x65;&#97;&#x73;&#46;&#x65;&#x75;">&#x62;&#101;&#x6e;&#64;&#x6c;&#x69;&#98;&#114;&#x65;&#97;&#115;&#46;&#101;&#x75;</a></li>
-<li>Dr. Maxi Kindling (<a href="https://orcid.org/0000-0002-0167-0466">https://orcid.org/0000-0002-0167-0466</a>) &mdash; <a href="&#109;&#x61;&#x69;&#108;&#116;&#x6f;&#x3a;&#109;&#x61;&#120;&#x69;&#64;&#108;&#105;&#98;&#114;&#x65;&#x61;&#115;&#x2e;&#x65;&#117;">&#109;&#97;&#120;&#x69;&#64;&#108;&#x69;&#98;&#114;&#x65;&#x61;&#x73;&#46;&#x65;&#117;</a></li>
-</ul>
-
-
-<!-- Redaktion -->
-
-
-<p>Redaktion:</p>
-
-<ul>
-<li>Eva Bunge M.S., M.A. (<a href="https://orcid.org/0000-0002-5587-5934">https://orcid.org/0000-0002-5587-5934</a>) &mdash; <a href="&#x6d;&#97;&#x69;&#108;&#x74;&#111;&#58;&#x65;&#118;&#97;&#64;&#108;&#x69;&#x62;&#x72;&#x65;&#x61;&#x73;&#x2e;&#x65;&#117;">&#101;&#118;&#97;&#64;&#108;&#105;&#x62;&#114;&#x65;&#97;&#x73;&#x2e;&#x65;&#x75;</a></li>
-<li>Philipp Falkenburg (<a href="https://orcid.org/0000-0001-9788-8277">https://orcid.org/0000-0001-9788-8277</a>) &mdash; <a href="&#109;&#x61;&#105;&#x6c;&#116;&#111;&#58;&#112;&#x68;&#x69;&#x6c;&#105;&#x70;&#x70;&#64;&#108;&#x69;&#98;&#114;&#x65;&#97;&#115;&#x2e;&#x65;&#117;">&#x70;&#x68;&#105;&#108;&#x69;&#x70;&#x70;&#64;&#x6c;&#105;&#98;&#114;&#101;&#97;&#x73;&#46;&#101;&#117;</a></li>
-<li>Dr. Linda Freyberg (BBF | Bibliothek für Bildungsgeschichtliche Forschung des DIPF | Leibniz-Institut für Bildungsforschung und Bildungsinformation, <a href="https://orcid.org/0000-0002-4620-7571">https://orcid.org/0000-0002-4620-7571</a>) &mdash; <a href="&#x6d;&#x61;&#105;&#x6c;&#116;&#111;&#x3a;&#x66;&#114;&#101;&#x79;&#x62;&#101;&#114;&#x67;&#64;&#100;&#105;&#112;&#x66;&#46;&#x64;&#101;">&#x66;&#x72;&#101;&#x79;&#x62;&#101;&#x72;&#x67;&#x40;&#100;&#x69;&#112;&#102;&#x2e;&#100;&#101;</a></li>
-<li>Najko Jahn M.A. (SUB Göttingen) &mdash; <a href="&#x6d;&#97;&#x69;&#108;&#116;&#x6f;&#x3a;&#x6e;&#x61;&#x6a;&#x6b;&#x6f;&#64;&#108;&#x69;&#x62;&#114;&#x65;&#97;&#x73;&#46;&#101;&#117;">&#x6e;&#97;&#x6a;&#107;&#x6f;&#64;&#108;&#x69;&#x62;&#114;&#101;&#x61;&#115;&#x2e;&#x65;&#x75;</a></li>
-<li>Jana Rumler M.A. (<a href="https://orcid.org/0000-0002-4222-5318">https://orcid.org/0000-0002-4222-5318</a>) &ndash; <a href="&#109;&#97;&#105;&#x6c;&#116;&#x6f;&#58;&#x6a;&#x61;&#110;&#97;&#64;&#108;&#105;&#98;&#x72;&#101;&#x61;&#x73;&#x2e;&#x65;&#x75;">&#106;&#97;&#x6e;&#97;&#x40;&#108;&#x69;&#98;&#x72;&#101;&#x61;&#115;&#x2e;&#x65;&#x75;</a></li>
-<li>Dr. Karsten Schuldt (Schweizerisches Institut für Informationswissenschaft, FH Graubünden) &mdash; <a href="&#109;&#x61;&#105;&#108;&#x74;&#111;&#58;&#x6b;&#97;&#x72;&#x73;&#x74;&#x65;&#x6e;&#64;&#108;&#x69;&#98;&#114;&#101;&#x61;&#115;&#x2e;&#101;&#x75;">&#x6b;&#x61;&#x72;&#x73;&#116;&#101;&#x6e;&#x40;&#108;&#x69;&#98;&#114;&#x65;&#x61;&#115;&#46;&#x65;&#x75;</a></li>
-<li>Michaela Voigt M.A. (<a href="https://orcid.org/0000-0001-9486-3189">https://orcid.org/0000-0001-9486-3189</a>) &mdash; <a href="&#x6d;&#97;&#x69;&#108;&#x74;&#x6f;&#58;&#x6d;&#x69;&#99;&#x68;&#x61;&#x65;&#108;&#97;&#x40;&#x6c;&#105;&#x62;&#114;&#101;&#97;&#x73;&#46;&#101;&#117;">&#109;&#x69;&#x63;&#x68;&#97;&#101;&#x6c;&#97;&#64;&#108;&#x69;&#98;&#114;&#101;&#97;&#x73;&#x2e;&#101;&#x75;</a></li>
-</ul>
-
-
-<h4>ehemalige Redaktionsmitglieder</h4>
-
-<p>Julia Hempel | Sandra Lechelt | Boris Jacob M.A. | Sara Juen | Elisabeth Simon | Heike Stadler | Walburga Lösch | Julia Pagel | Manuela Schulz
-(Gründungsherausgeberin und Redaktion) | Matti Stöhr | Christoph Szepanski | Doreen
-Thiede</p>
-
-<h3>Postanschrift</h3>
-
-<p>LIBREAS / Maxi Kindling</p>
-
-<p>Humboldt-Universität zu Berlin</p>
-
-<p>Institut für Bibliotheks- und Informationswissenschaft</p>
-
-<p>Unter den Linden 6</p>
-
-<p>D-10099 Berlin</p>
-
-<p>Deutschland</p>
-
-<h3>Haftungsausschluss</h3>
-
-<p>LIBREAS. Library Ideas übernimmt keine Verantwortung für Inhalt und
-weiterführende Verweise auf den Internetseiten, zu denen wir Links
-anbieten. Dafür sind ausschließlich die Inhaber*innen der verlinkten
-Internetseiten verantwortlich und haftbar zu machen.</p>
-
-<p>Bitte beachten Sie auch unsere <a href="https://libreas.eu/authorguides/">urheber- und lizenzrechtlichen sowie Hinweise für Autor*innen</a>.</p>
-
-<p>LIBREAS ist im Directory of Open Access Journals (<a href="https://doaj.org/toc/1860-7950">DOAJ</a>) gelistet. Die Beiträge werden über den edoc-Server der Humboldt-Universität zu Berlin und damit mittelbar durch die Deutsche Nationalbibliothek langzeitarchiviert.</p>
-
-<p>LOCKSS system has permission to collect, preserve, and serve this open
-access Archival Unit.</p>
-
-<p>(Stand April 2023)</p>
-</div>
+    <div class="entry-content" itemprop="articleBody"></div>
 
     
 
