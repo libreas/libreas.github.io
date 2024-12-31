@@ -396,7 +396,7 @@ Wiese, Robert ; Lange, Marc (2024). *Open Access und die VG Wort: Was es bei wis
 VG Wort e.&#8239;V. (ohne Datum). *Allgemeines*,
 [https://perma.cc/X789-V6JZ](https://perma.cc/X789-V6JZ)
 
-WV VG Wort (2024). Wahrnehmungsvertrag,
+WV VG Wort (2024). *Wahrnehmungsvertrag*,
 [https://perma.cc/2REX-2L3P](https://perma.cc/2REX-2L3P)
 
 #### Gesetze

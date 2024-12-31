@@ -49,7 +49,7 @@ Erstellung der LIBREAS-Ausgaben Ausgaben #44 Grassroots Open Access
 (<https://libreas.eu/ausgabe44/>) und #45 The Sound of Libraries
 (<https://libreas.eu/ausgabe45/>) und der Vorbereitung der Ausgabe #46
 "Bestandserhaltung". Zudem wurde der Call für die Ausgabe #47 "Lug und
-Betrug (im Wissenschaftssystem)" vorbereitet.\
+Trug (im Wissenschaftssystem)" vorbereitet.\
 
 ### Kommunikation
 

@@ -120,7 +120,7 @@ Beteiligung an internationalen Kooperationen wahrnimmt (LOCKSS,
 Portico).
 
 Seit Oktober 2023 werden alle neu veröffentlichten Digitalisate auf den
-Plattformen e-rara.ch und e-manuscripta.ch direkt im neuen digitalen
+Plattformen [e-rara.ch](https://www.e-rara.ch/) und [e-manuscripta.ch](https://www.e-manuscripta.ch/) direkt im neuen digitalen
 Langzeitarchiv gesichert. Aktuell läuft zudem eine Einspeisung der
 Altdaten dieser zwei Plattformen, welche seit der Aufschaltung von
 e-rara im Jahr 2010 und von e-manuscripta 2013 entstanden sind. Für das
