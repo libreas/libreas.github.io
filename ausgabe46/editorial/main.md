@@ -19,7 +19,7 @@ verändert sich kontinuierlich.
 Wir wissen nie, woran es liegt, dass einige Themen zu vielen und andere
 zu wenigen Einreichungen führen. Ist es das Thema? Das Timing der
 Ausschreibung des Themas? Oder gibt es einen anderen Grund? Ist es
-vielleicht so, dass ‒ verständlicherweise ‒ viele Kolleg\*innen das
+vielleicht so, dass – verständlicherweise – viele Kolleg\*innen das
 Gefühl haben, dass die Gesellschaft langsam etwas arg aus den Fugen ist,
 die Umwelt sich gegen die Menschen zu wehren beginnt, die Probleme immer
 nur zunehmen und die Krisen permanent werden? Werden darob
@@ -37,11 +37,11 @@ möglicherweise ein faszinierendes Thema für eine kommende Aufgabe.
 ![Abb. 2: Redaktionsorte XXV: Köln, Herbst 2024](img/redaktionsorte_koeln_II.jpg) 
 
 So oder so legen wir hiermit die 46. Ausgabe der LIBREAS vor. Damit
-nähern wir uns dem 20. Jahr dieser Zeitschrift ‒ was uns sowohl erfreut
+nähern wir uns dem 20. Jahr dieser Zeitschrift – was uns sowohl erfreut
 als auch erschreckt. So alt fühlen wir uns eigentlich nicht. Zur Feier
 dieses Ereignisses werden wir am Freitag vor Pfingsten 2025, dem 6. Juni
 2025 nach Berlin zu einer Veranstaltung laden. Wir hoffen, wir sehen
-dort ‒ trotz oder gerade wegen allem ‒ viele unserer Leser\*innen
+dort – trotz oder gerade wegen allem – viele unserer Leser\*innen
 persönlich.
 
 Bis dahin,

@@ -118,7 +118,7 @@ In diesem Text dargestellt sind hauptsächlich weitergehende
 im Projekt erstellte Dashboard integriert wurden. In diesem Kapitel wird
 aber für den Gesamtkontext das Projekt vorgestellt (2.1), dann auf die
 Datenqualität eingegangen (2.2) und abschliessend einige Ergebnisse, die
-direkt im Dashboard sichtbar sind, gezeigt. (2.3) Darauf aufbauend wird
+direkt im Dashboard sichtbar sind, gezeigt (2.3). Darauf aufbauend wird
 dann im nächsten Kapitel (3) auf weitere Potentiale bei der Auswertung
 der Daten eingegangen.
 
@@ -381,6 +381,7 @@ Table: Tabelle 1: Median der Ausleihen pro Bibliothek
 |     2021        |     19.256                        |
 |     2022        |     18.440                        |
 |     2023        |     20.309                        |
+
 
 Der einzige Wert, welcher dieser Entwicklung einigermassen
 entgegensteht, ist der Umsatz der Medien, welcher angibt, wie oft ein

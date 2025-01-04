@@ -84,7 +84,7 @@ kontextualisieren die beschriebenen Ergebnisse aber auch nochmal.
 Im Ganzen liest sich der Text aber vor allem als die Beschreibung einer
 krisenhaften Situation. Alle Autor\*innen sind an der School of
 Information and Communication Studies der Charles Sturt University
-(Wagga Wagga) angestellt ‒ und damit an der letzten Einrichtung, welche
+(Wagga Wagga) angestellt – und damit an der letzten Einrichtung, welche
 eine Ausbildung für Schulbibliothekar\*innen in Australien und
 Neuseeland anbietet. Dies war einmal anders: Während der 1960er und
 1970er Jahre interessierte sich die australische Politik mehr für den
@@ -93,7 +93,7 @@ welche diese unterstützt (Ausbildung, Beratungsstellen, Forschung). In
 den letzten Jahren wurde dies zurückgefahren: Die Infrastrukturen wurden
 zurückgebaut oder ganz geschlossen, die Politik führt lieber
 kurzfristige, dafür grosse Projekte durch, in denen neue
-Schulbibliotheken aufgebaut werden ‒ ohne für ihre nachhaltige
+Schulbibliotheken aufgebaut werden – ohne für ihre nachhaltige
 Finanzierung oder Ausstattung mit Personal zu sorgen. Eine übergreifende
 Forschung existiert auch nicht mehr.
 
@@ -105,7 +105,7 @@ zeigen, dass sich die Geschichte der Schulbibliotheken in Australien bis
 zum Anfang des 20. Jahrhunderts anhand von Literatur nachweisen lässt
 (und nicht erst seit den 1960er Jahren). Sie zeigen auch, wie sich die
 wandelnde Politik direkt auf die Schulbibliotheken und die Literatur
-über diese auswirken ‒ mehr Infrastruktur und nachhaltige Finanzierung
+über diese auswirken – mehr Infrastruktur und nachhaltige Finanzierung
 führten zu mehr Literatur, die Umstellung auf kurzfristige Projekte
 führte auch zu weniger (und anderer) Literatur. Zudem stellen sie fest
 (das ist vielleicht einer der wenigen Lichtblicke), dass die
@@ -161,8 +161,8 @@ movements.* In: Journal of Documentation 79 (2023) 1: 36--51,
 Die Autorin versucht, eine soziologische Erklärung dafür zu finden, wie
 Bibliothekar\*innen und Öffentliche Bibliotheken anhand von Beispielen
 aus Dänemark und Schweden ihre Beteiligung an gesellschaftspolitischen
-Themen ‒ im Fall dieses Artikels im Bereich LGBTQ+-Rechte, ökologische
-Bewegung und Antirassismus ‒ begründen und wie diese Begründung
+Themen – im Fall dieses Artikels im Bereich LGBTQ+-Rechte, ökologische
+Bewegung und Antirassismus – begründen und wie diese Begründung
 zusammenhängt mit der grundsätzlichen Absicherung der Bibliotheken
 gegenüber ihren Trägern. Sie basiert diese Überlegungen nicht nur auf
 Interviews mit aktiven Bibliothekar\*innen, sondern auch auf Studien,
@@ -175,8 +175,8 @@ jeweils verschiedene Werte vertreten und verschiedene Argumente
 mobilisieren, die sich jeweils an unterschiedliche Träger richten und
 dabei auch disparate Ziele anstreben können. Öffentliche Bibliotheken
 würden "funktionieren", weil sie neben den gesellschaftspolitischen
-Zielen ‒ die auch nicht immer eindeutig, sondern oft für
-Interpretationen offen sind ‒ auch andere Aufgaben betonen,
+Zielen – die auch nicht immer eindeutig, sondern oft für
+Interpretationen offen sind – auch andere Aufgaben betonen,
 beispielsweise die Literaturversorgung der Bevölkerung.
 
 Die Argumentation der Autorin wird nicht alle Leser\*innen überzeugen.
@@ -253,8 +253,8 @@ geschrieben, aber ausser in einem Beitrag, in welchem auch die
 Universitätsbibliothek Wien vorkommt, wird nur über deutsche
 Bibliotheken geschrieben. Andererseits wird ständig so geschrieben, als
 seien "koloniale Sammlungen" Teil aller Bibliotheken, dabei ist dieses
-spezifische Thema ‒ im Gegensatz zu Wirkungen kolonialer
-Wissensproduktion ‒ nur für eine Anzahl von Bibliotheken relevant. (ks)
+spezifische Thema – im Gegensatz zu Wirkungen kolonialer
+Wissensproduktion – nur für eine Anzahl von Bibliotheken relevant. (ks)
 
 ---
 
@@ -323,8 +323,8 @@ Dowell, Laura (2024). *Library instruction and information literacy
 \[Paywall\]
 
 Dieser Beitrag stellt eine annotierte Liste von englischsprachigen
-Beiträgen zum Thema "library instruction" ‒ also Einführungen in die
-Bibliotheksnutzung und Nutzer\*innenschulungen von Bibliotheken ‒ dar,
+Beiträgen zum Thema "library instruction" – also Einführungen in die
+Bibliotheksnutzung und Nutzer\*innenschulungen von Bibliotheken – dar,
 die im Jahre 2023 erschienen sind. Insgesamt sind dies 374 Beiträge,
 welche für diesen Beitrag gelesen, geordnet, zusammengefasst und
 bewertet wurden. Eine solche Übersicht erscheint in dieser Zeitschrift
@@ -336,7 +336,7 @@ mit diesem Themenfeld beschäftigt, wird diese Liste kennen.
 In dieser Ausgabe hat die Gruppe, welche die Liste erstellt, aber eine
 Anzahl von vorhergehenden Überlegungen an den Anfang gestellt, die aus
 einer Art Selbstreflektion entstanden sind. Sie schildern, welche
-Grenzen ihre Annotationen haben ‒ beispielsweise, dass sie immer als
+Grenzen ihre Annotationen haben – beispielsweise, dass sie immer als
 Bibliothekar\*innen und Bibliothekswissenschaftler\*innen beschreiben,
 aber nicht aus einer pädagogischen Perspektive oder aber, dass sie zwar
 anstreben, die Liste nicht als Wertung gelten zu lassen, aber es schwer
@@ -351,8 +351,8 @@ ist dies, weil solche fachlichen, annotierten Liste zur Literatur über
 bibliothekarische Themen heute kaum noch erstellt werden. (Wenn man
 nicht diese Kolumne hier als so eine Liste werten wollen würde.) Die
 Darstellung am Anfang dieses Beitrags gibt eine Übersicht dazu, welche
-Arbeit nötig wäre, um weitere solcher Listen ‒ für andere Themen oder
-für andere Sprachen ‒ zu erstellen. Etwas, was grundsätzlich zu
+Arbeit nötig wäre, um weitere solcher Listen – für andere Themen oder
+für andere Sprachen – zu erstellen. Etwas, was grundsätzlich zu
 begrüssen wäre. (ks)
 
 #### 2.2 Inklusion und Safe Spaces
@@ -605,7 +605,7 @@ zeitlicher und finanzieller Restriktionen enge Grenzen gesetzt." Für das
 öffentliche Beschaffungsrecht stellen sie fest, dass beide Modelle
 beziehungsweise Hochschulen und deren Angehörige grundsätzlich dem
 öffentlichen Beschaffungsrecht unterliegen, "wenn sie bei gewerblich
-tätigen Dritten ‒ den Verlagen ‒ Leistungen erwerben." Somit unterlägen
+tätigen Dritten – den Verlagen – Leistungen erwerben." Somit unterlägen
 sie auch den beschaffungsrechtlichen Prinzipien. Im Beitrag legen die
 Autor\*innen einen Fokus auf das für die Beschaffung im öffentlichen
 Bereich seit 2021 geltende Prinzip der Nachhaltigkeit. Sie führen dazu
@@ -692,19 +692,19 @@ nachzudenken. Die Texte richten sich in den meisten Fällen an andere
 (potentielle) Bibliothekar\*innen, die sich selber in diesem Spektrum
 verorten. Einige Texte sprechen auch direkt Bibliotheken, das
 Bibliothekswesen als Ganzes oder Ausbildungseinrichtungen an, vor allem
-um Forderungen zu stellen. Aber hauptsächlich vermittelt das Buch ‒
-explizit gewollt ‒ den Eindruck von und für Kolleg\*innen mit den
+um Forderungen zu stellen. Aber hauptsächlich vermittelt das Buch –
+explizit gewollt – den Eindruck von und für Kolleg\*innen mit den
 gleichen Erfahrungen geschrieben zu sein, schon um ihnen zu zeigen, dass
 sie mit ihren Erfahrungen nicht alleine sind.
 
 Man könnte vermuten, dass der Rezensent (männlich, cis, heterosexuell)
 nicht die richtige Person wäre, um dieses Buch hier anzuzeigen. Aber die
 Herausgeber\*innen betonen in der Einleitung extra, dass es auch für das
-ganze Bibliothekswesen gedacht sei ‒ es sollte genutzt werden, um
+ganze Bibliothekswesen gedacht sei – es sollte genutzt werden, um
 zuzuhören; um zu verstehen, wie die Erfahrungen von Kolleg\*innen, die
 Trans oder Gender Diverse sind, tatsächlich sind und auch, um das
 gesamte Bibliothekssystem zu ändern. Hauptsächlich sollte das
-Bibliothekswesen ‒ so wieder die Herausgeber\*innen ‒ lernen, dass die
+Bibliothekswesen – so wieder die Herausgeber\*innen – lernen, dass die
 Betroffenen wütend sind, weil es zwar grosse Versprechungen dahingehend
 gibt, dass Bibliotheken safe spaces seien und dass das Bibliothekswesen
 als Ganzes Diversität fördern würde, aber das diese Versprechen oft
@@ -741,9 +741,9 @@ besprochenen Einrichtungen zurückgeführt werden zu können. Das
 vermittelt am Ende aber einen vielleicht positiveren Eindruck, da
 "positive" Texte so viel eher veröffentlicht wurden.) Im Ganzen
 vermittelt das Buch den Eindruck, dass es wichtig ist, diese Schritte
-proaktiv weiterzugehen ‒ und beispielsweise nicht darauf zu warten, dass
+proaktiv weiterzugehen – und beispielsweise nicht darauf zu warten, dass
 Transpersonen im Bibliothekswesen sich erst beschweren, bevor sich etwas
-ändert ‒, aber auch, dass schon ein grosser Teil des Weges zurückgelegt
+ändert –, aber auch, dass schon ein grosser Teil des Weges zurückgelegt
 wurde. (ks)
 
 ---
@@ -780,7 +780,7 @@ Berater für Bibliotheken tätig ist, welche diese Methoden einsetzen.
 Aber sie umfasst fraglos weitere Kolleg\*innen in verschiedensten
 Bibliotheken.
 
-Seit 2016 ‒ mit Unterbrechung von 2020‒2021 ‒ findet jährlich eine
+Seit 2016 – mit Unterbrechung von 2020–2021 – findet jährlich eine
 Tagung dieser Community statt (UXLibs), welche jeweils in einem
 Tagungsband dokumentiert wird. Das vorliegende Buch ist der Band für das
 Treffen 2023 in Brighton, UK. Hauptsächlich sind hier die gehaltenen
@@ -817,12 +817,12 @@ nicht.)
 Sicherlich lohnt es sich, von Zeit zu Zeit wahrzunehmen, was in dieser
 Community unternommen wird. Es ist nicht die einzige Community von
 Bibliothekar\*innen, die sich mit Fragen der Nutzer\*innenforschung
-beschäftigt ‒ zu nennen wäre auch die um die Zeitschrift *Evidence Based
+beschäftigt – zu nennen wäre auch die um die Zeitschrift *Evidence Based
 Library and Information Practice* als mehr wissenschaftlich orientierte
-‒, aber eine der lebendigsten. Das wird mit diesen Tagungsbänden
-ermöglicht. Das Buch selber vermittelt mit seinem Layout und Inhalt ‒
+–, aber eine der lebendigsten. Das wird mit diesen Tagungsbänden
+ermöglicht. Das Buch selber vermittelt mit seinem Layout und Inhalt –
 insbesondere seitenlangen Bilderstrecken von social events der Konferenz
-‒ aber auch schnell den Eindruck, dass die Community vor allem für
+– aber auch schnell den Eindruck, dass die Community vor allem für
 Kolleg\*innen offen ist, die solche sozialen Interaktionen und den Fokus
 auf praktische Fragen mögen sowie sich nicht scheuen, in Workshops mit
 Lego zu arbeiten. Also: Es ist nicht für alle. (Der Rezent selber ist
@@ -853,16 +853,16 @@ Das vorliegende Buch ist praktisch dieses Beratungsangebot in
 schriftlicher Form. Grundsätzlich geht es darum, Bibliotheken dahin zu
 bringen, Partizipation als die Abgabe von Macht zu verstehen:
 Nutzer\*innen sollen die Entwicklung von Bibliotheken und deren
-Angeboten direkt mitbestimmen können und nicht nur ‒ wie dies laut den
-Autor\*innen heute der Normalfall wäre ‒ mit ihren Meinungen einbezogen
+Angeboten direkt mitbestimmen können und nicht nur – wie dies laut den
+Autor\*innen heute der Normalfall wäre – mit ihren Meinungen einbezogen
 werden, aber ohne die Macht, Entscheidungen zu treffen. Der Grossteil
 des Buches geht darauf ein, wie ein solches Ziel konkret in Bibliotheken
 umgesetzt werden kann. Es ist sehr praxisorientiert und thematisiert
 beispielsweise, was sich für das Personal ändert, welche Formen von
 Workshops, Partizipationsmöglichkeiten, Evaluationen des Erfolgs dieser
-Anstrengungen und so weiter existieren. Der inhaltliche Teil ‒ in
+Anstrengungen und so weiter existieren. Der inhaltliche Teil – in
 welchem neben dem Prinzip Partizipation auch die Grundidee von
-Diversität erläutert wird ‒ ist dagegen recht kurz. Ganz offensichtlich
+Diversität erläutert wird – ist dagegen recht kurz. Ganz offensichtlich
 ist das Buch aus der Beratungsarbeit der beiden Autor\*innen entstanden
 und enthält auch viele konkrete Beispiele.
 
@@ -912,8 +912,8 @@ ergänzen. In anderen Beiträgen gibt es weitere Verweise zu Theorien des
 Sammelns (vor allem aus der Forschung um Museen und Archive). Das öffnet
 immer wieder andere Blickwinkel auf Bibliotheksbestände, aber
 gleichzeitig fehlt dadurch ein umfassendes Konzept, mit dem eine
-konkrete Frage ‒ zu erwarten wäre die im Titel des Buches genannte "Wie
-Provenienzforschung die Bibliotheken verändert" ‒ bearbeitet würde. (ks)
+konkrete Frage – zu erwarten wäre die im Titel des Buches genannte "Wie
+Provenienzforschung die Bibliotheken verändert" – bearbeitet würde. (ks)
 
 #### 3.2 Bibliotheks- und Buchgeschichte
 
@@ -935,8 +935,8 @@ wurden nach 1989 geschlossen. Das Buch arbeitet diese Geschichte auf. Es
 stammt aus der Kunstgeschichte, was die gesamte Darstellung massiv
 beeinflusst.
 
-Eine Besonderheit der Artotheken in der DDR war, dass sie ‒ bis auf
-Ausnahmen ‒ keine Originalkunstwerke erwarben und verliehen, sondern
+Eine Besonderheit der Artotheken in der DDR war, dass sie – bis auf
+Ausnahmen – keine Originalkunstwerke erwarben und verliehen, sondern
 Reproduktionen. (Röhner widerspricht dabei explizit Konrad Umlauf, der
 sie deshalb gerade nicht als Artotheken gelten lässt.) Zuerst arbeitet
 Röhner deshalb die Idee von Reproduktionen als Form der Kunstvermittlung
@@ -962,7 +962,7 @@ positiver darzustellen, als sie in der Realität wohl waren. Insbesondere
 vergleicht Röhner Behauptungen in der Literatur mit Photographien aus
 den tatsächlichen Artotheken und kann Differenzen zeigen. Gleichzeitig
 wird sichtbar, dass die meisten grösseren Artotheken vom Engagement
-einzelner Bibliothekar\*innen abhingen ‒ was aber auch dazu führte, dass
+einzelner Bibliothekar\*innen abhingen – was aber auch dazu führte, dass
 sie teilweise in Kleinstädten erstaunliche Grössen erreichen konnten.
 Wieder mit Ausnahmen stand in ihnen der erzieherische beziehungsweise
 pädagogische Aspekt im Mittelpunkt.
@@ -983,8 +983,8 @@ eine übersichtliche, teilweise durch zu viele geschilderte Details aber
 auch repetitive Geschichte.
 
 Eine Frage, die allerdings nicht beantwortet wird, ist die, was
-eigentlich das Problem mit Kunstreproduktionen ‒ im Gegensatz zu
-Originalen ‒ sein soll, insbesondere wenn es um kunstpädagogische Ziele
+eigentlich das Problem mit Kunstreproduktionen – im Gegensatz zu
+Originalen – sein soll, insbesondere wenn es um kunstpädagogische Ziele
 geht. Der Fokus auf Kunstreproduktionen wird die ganze Zeit als
 Besonderheit der Artotheken in der DDR angeführt und hat dann auch dazu
 geführt, dass sie nach 1989 grösstenteils geschlossen wurden. Vielleicht
@@ -1015,12 +1015,12 @@ die Darstellung der von Röhner. (Gleichwohl ist das Buch von Hinterthür
 über 500 Seiten stark. Für die gesamte Geschichte bis 1989/1990 hätte es
 wohl eines tausendseitigen Werkes bedurft.) Es gab in der Sowjetischen
 Besatzungszone nach Ende des Zweiten Weltkrieges eine Anzahl von
-betreffenden Verlagen ‒ teilweise mit zerstörten Produktionsanlagen,
-aber teilweise auch mit gut erhaltenen Druckereien und Lagerbeständen ‒
+betreffenden Verlagen – teilweise mit zerstörten Produktionsanlagen,
+aber teilweise auch mit gut erhaltenen Druckereien und Lagerbeständen –
 und gleichzeitig Versuche, erst der KPD, dann der SED, diese in die
 Kulturpolitik einzubinden. Dies funktionierte nicht sofort, sondern erst
 in einem langen Prozess, was teilweise damit zu tun hatte, dass die
-Partei ‒ im Gegensatz zur Literatur ‒ für die spezifischen Bereiche
+Partei – im Gegensatz zur Literatur – für die spezifischen Bereiche
 Musik und Kunst vor 1945 keine eigenständigen Konzeptionen entwickelte
 hatte, sondern diese erst im Laufe der Zeit erarbeitete. Teilweise
 widersetzten sich aber auch die Verlagsinhabenden oder -mitarbeitenden
@@ -1245,18 +1245,18 @@ Knowlton, Steven A. ; Pozzi, Ellen M. ; Sly, Jordan S. ; Spunaugle,
 Emily D. (edit.) (2024). *Libraries without borders: New directions in
 library history*. Chicago: ALA editions, 2024 \[gedruckt\]
 
-Der *Library History Round Table* ist eine Arbeitsgruppe in der ALA ‒
+Der *Library History Round Table* ist eine Arbeitsgruppe in der ALA –
 vergleichbar mit einer Sektion im *Bibliosuisse* oder einer Kommission
-im *dbv* ‒, welche die Beschäftigung mit Bibliotheksgeschichte
-vorantreibt. Dazu organisiert sie unter anderem jährlich Seminare ‒
-praktisch kleine Konferenzen ‒ und gibt die Zeitschrift *Libraries:
+im *dbv* –, welche die Beschäftigung mit Bibliotheksgeschichte
+vorantreibt. Dazu organisiert sie unter anderem jährlich Seminare –
+praktisch kleine Konferenzen – und gibt die Zeitschrift *Libraries:
 Culture, History, and Society* heraus. Die Vorträge auf den Seminaren
 und die Beiträge in der Zeitschrift beschäftigen sich
 verständlicherweise zumeist mit der US-amerikanischen
 Bibliotheksgeschichte. Aber der Round Table ist auch bemüht, diesen
 Fokus zu erweitern. Seit einigen Jahren gibt es explizite Bemühungen,
-die Geschichte marginalisierter Gruppen ‒ also zum Beispiel
-afroamerikanischer Bibliothekar\*innen ‒ sichtbar zu machen.
+die Geschichte marginalisierter Gruppen – also zum Beispiel
+afroamerikanischer Bibliothekar\*innen – sichtbar zu machen.
 
 Das vorliegende Buch ist nun praktisch die Publikation der meisten
 Vorträge, die auf dem Anfang 2020 abgehaltenen Seminar gehalten wurden.
@@ -1309,7 +1309,7 @@ auch die Bibliothek des Instituts thematisiert wird, zumindest die,
 welche bis 1933 im ersten Institutsgebäude existierte. Dabei wird der
 wichtige Punkt gemacht, dass über die "wichtigen Persönlichkeiten" des
 Instituts (Theodor W. Adorno, Max Horkheimer, Friedrich Pollock, Felix
-Weil und andere ‒ mit der Ausnahme von Hannah Arendt, die mit dem
+Weil und andere – mit der Ausnahme von Hannah Arendt, die mit dem
 Institut in Verbindung stand, aber sich auch bald abwandte, praktisch
 alles Männer) schon sehr viel geforscht wurde, aber über das Personal,
 welches das Institut mit ihrer alltäglichen Arbeit ermöglichten,

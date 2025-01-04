@@ -149,9 +149,9 @@ im zeittypischen immergrünen Stempellila prangt dazu ein Wort, das
 zugleich das Motto meiner Blicke auf derartige Ansichtskarten sein
 könnte: "Zurück".
 
-[^1]: Neues Deutschland, 14.08.1984, S.8
+[^1]: Neues Deutschland, 14.08.1984, S. 8
 
-[^2]: Neues Deutschland, 25.02.1975, S.8
+[^2]: Neues Deutschland, 25.02.1975, S. 8
 
 [^3]: Ebenda
 
