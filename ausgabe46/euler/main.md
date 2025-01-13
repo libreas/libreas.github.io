@@ -26,20 +26,20 @@ Auf die Beteiligung an Einnahmen aus vergütungspflichtigen gesetzlich
 erlaubten Nutzungen ihrer Texte, zum Beispiel Vergütung für die
 Anfertigung einer Kopie mit einem Vervielfältigungsgerät, die nur über
 eine Verwertungsgesellschaft (hier die VG WORT e.&#8239;V., ohne Datum) geltend
-gemacht werden können, sind sie erst recht nicht angewiesen. Ist es also
+gemacht werden können, sind wissenschaftliche Autorinnen erst recht nicht angewiesen. Ist es also
 gerechtfertigt, dass sie an der jährlichen Ausschüttung der Einnahmen
 der VG Wort teilnehmen können? Oder sollten Wissenschaftlerinnen der VG
 WORT gar nicht erst als Mitglied beitreten? Diese Frage stellt sich umso
 mehr, wenn Wissenschaftlerinnen den im Rahmen der öffentlich
 finanzierten Tätigkeit entstandenen Text der Allgemeinheit kostenfrei
 zugänglich gemacht haben und mittels einer freien Lizenz umfassende
-einfache Nutzungsrechte eingeräumt, also im Open Access publiziert haben
+einfache Nutzungsrechte eingeräumt, also im Open Access publiziert haben,
 und ist regelmäßig Auslöser hitziger Debatten, so beispielsweise einer
 über die Mailingliste IPOA-Forum von September 2024 (IPOA-Forum, 2024)
 geführten Diskussion aus Anlass eines Beitrages bei irights.info (Wiese
 & Lange, 2024), der die Vereinbarkeit der Mitgliedschaft von
 wissenschaftlichen Autor\*innen in der VG Wort mit der freien
-Lizenzierbarkeit, zum Beispiel mit Creative-Commons-Lizenzen
+Lizenzierbarkeit, zum Beispiel mit Creative-Commons-Lizenzen,s
 herausgestellt hat.
 
 ### VG Wort und ihre Rolle in der Wissenschaft
@@ -122,7 +122,7 @@ die Publikation "wann immer möglich", den **FAIR**-Prinzipien
 ("**F**indable, **A**ccessible, **I**nteroperable, **R**eusable")
 entsprechend in anerkannten Archiven und Repositorien zugänglich gemacht
 wird. Durch die weiche Formulierung "*unter Berücksichtigung der
-Gepflogenheiten des betroffenen Fachgebiets*"" werden sich zurückhaltende
+Gepflogenheiten des betroffenen Fachgebiets*" werden sich zurückhaltende
 Disziplinen voraussichtlich auch weiter zurückhaltend verhalten können.
 
 Die Zurückhaltung in der Rechtswissenschaft ist nicht zuletzt darauf
@@ -132,7 +132,7 @@ Periodika) Geld verdienen lässt. Möglich ist das, weil und solange die
 Publikation nicht nur kostendeckend ist, sondern Gewinne produziert, an
 denen die Autorinnen beteiligt werden können. In der Regel geschieht
 dies durch Verkauf von Zugängen oder gedruckten Exemplaren. Zugang hat
-dann nur, wer sich diesen leisten kann, oder Zugang zu einer Bibliothek
+dann nur, wer sich diesen leisten kann oder Zugang zu einer Bibliothek
 hat, die diesen finanziert.
 
 Die Open-Access-Bewegung will unter anderem diese strukturellen
