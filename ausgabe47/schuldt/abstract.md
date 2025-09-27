@@ -1,0 +1,5 @@
+**Zusammenfassung**: Die Waldhandschrift wurde 1985–1987 nach dem Vorbild mittelalterlicher Handschriften (auf Pergament, mit mittelalterlichen Techniken des Schreibens und Buchmalens) produziert. Thematisch geht es in ihr um das Waldsterben. Sie unterliegt spezifischen Nutzungsbedingungen, unter anderem darf sie nur per Hand abgeschrieben werden. Heute liegt sie in der Stiftsbibliothek St. Gallen. In diesem Essay geht es darum, die Waldhandschrift möglichst nahe am Objekt zu beschreiben und gleichzeitig eine Interpretation zu versuchen: Wie wirkt sie heute?
+
+---
+
+**Abstract**: The Waldhandschrift (forest manuscript) is a book produced 1985–1987 following medieval procedures (on parchment, with medieval techniques for writing and book illustration). Its topic is the “Waldsterben” (forest decline). It is subject to specific requirements, for instance handwriting as the only form of reproduction method permitted. Today, the Waldhandschrift is deposited at the abbey library of Saint Gall. This essay tries to describe the Waldhandschrift as concrete as possible and attempts to interpret this manuscript: How does it affect today?

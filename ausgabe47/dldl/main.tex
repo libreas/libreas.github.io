@@ -1,0 +1,1648 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage[babel]{csquotes}
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage[labelformat=empty]{caption} % option 'labelformat=empty]' to surpress adding "Abbildung 1:" or "Figure 1" before each caption / use parameter '\captionsetup{labelformat=empty}' instead to change this for just one caption
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+\setcapindent{0pt} % no indentation in captions
+\usepackage{xurl} % Breaks URLs
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+% typo setup
+\clubpenalty = 10000
+\widowpenalty = 10000
+\displaywidowpenalty = 10000
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+\usepackage{breakurl}
+
+%meta
+%meta
+
+\fancyhead[L]{Redaktion LIBREAS\\ %author
+LIBREAS. Library Ideas, 47 (2025). % journal, issue, volume.
+\href{https://doi.org/10.18452/x}{\color{black}https://doi.org/10.18452/x}
+{}} % doi 
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/4.0/}{\color{black}Creative Commons BY 4.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{Das liest die LIBREAS, Nummer \#16 (Frühling–Sommer 2025)}}% title
+\author{Redaktion LIBREAS} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={Das liest die LIBREAS, Nummer \#16 (Frühling–Sommer 2025)},
+      pdfauthor={Redaktion LIBREAS},
+      pdfsubject={LIBREAS. Library Ideas, 47 (2025)},
+      pdfkeywords={Literaturübersicht, Bibliothekswissenschaft, Informationswissenschaft, Bibliothekswesen, Rezension, literature overview, library science, information science, library sector, review},
+      pdflicenseurl={https://creativecommons.org/licenses/by/4.0/},
+      pdfcopyright={CC BY 4.0 International},
+      pdfcontacturl={http://libreas.eu},
+      pdfurl={},
+      pdfdoi={},
+      pdflang={de},
+      pdfmetalang={de}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+
+%body
+Beiträge von Eva Bunge (eb), Najko Jahn (nj), Ben Kaden (bk), Karsten
+Schuldt (ks)
+
+\section{1. Zur Kolumne}\label{zur-kolumne}
+
+Ziel dieser Kolumne ist es, eine Übersicht über ausgewählte in der
+letzten Zeit erschienene bibliothekarische, informations- und
+bibliothekswissenschaftliche sowie für diesen Bereich interessante
+Literatur zu geben. Enthalten sind Beiträge, die der LIBREAS-Redaktion
+oder anderen Beitragenden als relevant erschienen.
+
+Eine Themenvielfalt sowie ein Nebeneinander von wissenschaftlichen und
+nicht-wissenschaftlichen Ansätzen wird angestrebt. Auch in der Form
+sollen traditionelle Publikationen ebenso erwähnt werden wie andere
+Medieninhalte, beispielsweise Blogbeiträge oder Videos beziehungsweise
+TV-Beiträge.
+
+Wir freuen uns über Hinweise auf interessante Publikationen. Diese bitte
+an die Redaktion richten. (Siehe
+\href{http://libreas.eu/about/}{Impressum}, Mailkontakt für diese
+Kolumne ist
+\href{mailto:zeitschriftenschau@libreas.eu}{\nolinkurl{zeitschriftenschau@libreas.eu}}.)
+
+Die Koordination der Kolumne liegt bei Karsten Schuldt, verantwortlich
+für die Inhalte sind die jeweiligen Beitragenden. Die Kolumne
+unterstützt den Vereinszweck des LIBREAS-Vereins zur Förderung der
+bibliotheks- und informationswissenschaftlichen Kommunikation.
+
+LIBREAS liest gern und viel Open-Access-Veröffentlichungen. Wenn sich
+Beiträge dennoch hinter einer Bezahlschranke verbergen, werden diese
+durch \enquote{{[}Paywall{]}} gekennzeichnet. Zwar macht das Plugin
+\href{http://unpaywall.org/}{Unpaywall} das Finden von legalen
+Open-Access-Versionen sehr viel einfacher. Als Service an der
+Leserschaft verlinken wir jedoch auch direkt OA-Versionen, die wir vorab
+finden konnten. Für alle Beiträge, die dann immer noch nicht frei
+zugänglich sind, empfiehlt die Redaktion (neben
+\href{http://unpaywall.org/}{Unpaywall}) die Browser-Plugins
+\href{https://openaccessbutton.org/}{Open Access Button} oder
+\href{https://core.ac.uk/services/discovery/}{CORE} zu nutzen sowie auf
+dem favorisierten Social-Media-Kanal mit
+\href{https://mastodon.social/tags/icanhazpdf}{\#icanhazpdf}, um Hilfe
+bei der legalen Dokumentenbeschaffung zu bitten.
+
+Die bibliographischen Daten der besprochenen Beiträge aller Ausgaben
+dieser Kolumne finden sich in der öffentlich zugänglichen Zotero-Gruppe:
+\url{https://www.zotero.org/groups/4620604/libreas_dldl/library}.
+
+\section{2. Artikel und
+Zeitschriftenausgaben}\label{artikel-und-zeitschriftenausgaben}
+
+\subsection{2.1 Vermischte Themen}\label{vermischte-themen}
+
+Lupu, Viorica ; Țurcan, Nelly ; Cujba, Robica (2025). \emph{Moldovan
+academic librarians' perception on research data management.} In: IFLA
+Journal 2025, Online First,
+\url{https://doi.org/10.1177/03400352241304118} {[}Paywall{]}
+{[}\href{http://repository.utm.md/handle/5014/29162}{OA-Version}{]}
+
+Die Studie präsentiert die Ergebnisse einer Onlineumfrage zu Ansichten
+Wissenschaftlicher Bibliothekar*innen in der Republik Moldau zum
+Forschungsdatenmanagement und andere Themen der Open Science.
+Grundsätzlich geht es darum, ob die Kolleg*innen sich schon aktiv mit
+dem Thema beschäftigen, ob die Bibliotheken Services aufgebaut haben,
+Kooperationen innerhalb ihrer Einrichtung eingegangen sind oder ob
+zumindest das Thema bekannt ist. Dies ist alles zu grossen Teilen der
+Fall. Zwar gibt es in vielen moldawischen Bibliotheken auch immer den
+Wunsch, mehr zu tun und die Vermutung, dass es vor allem fehlende
+Ressourcen wären, welche den Aufbau weiterer Services behindern würden.
+(Der Text postuliert, dass dies seinen Grund in der wirtschaftlichen
+Lage des Landes hätte. Aber die Situation findet sich auch in anderen
+Ländern.) Gleichzeitig ist das Thema etabliert. Die Autor*innen zeigen
+in der Literaturübersicht auch, dass die gleichen Fragen in den letzten
+Jahren in anderen Studien schon in anderen Ländern gestellt wurden und
+dort ähnliche Ergebnisse zeigten. Die Studie und ihre Ergebnisse selber
+sind also wenig innovativ.
+
+Der Text sticht aber durch eine kurzen Absatz am Anfang des
+Methodenkapitels hervor. Dort steht, dass die Umfrage eigentlich für
+Moldawien, Rumänien, Georgien und die Ukraine geplant war. Das hätte
+zeigen können, ob es unterschiedliche Antworten bei den
+Bibliothekar*innen dieser Länder gibt. Aber: \enquote{Due to the war
+initiated by Russia against Ukraine and its subsequent consequences, we
+were compelled to restrict our data collection to libraries in the
+Republic of Moldova.} (ebenda: 4) Sicherlich hat dieser Krieg weit
+schlimmere Folgen -- ganz abgesehen davon, dass er auch in Moldawien
+selber zu Problemen führt --, aber offenbar zerstört er auch
+Möglichkeiten der internationalen Zusammenarbeit im Bereich
+Bibliothekswesen und Bibliotheksforschung. \enquote{War -- what is it
+good for? Absolutely nothing.} (The Temptations / Edwin Starr) (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Lim, Elisha ; Lisker, Mareike ; Hess, Lukas ; Engeler, Malte ; Friedman,
+Leah ; Lingel, Jessa ; Ali, Muna-Ubdi (2025). \emph{Abolish privacy}.
+In: First Monday 30 (2025) 2,
+\url{https://doi.org/10.5210/fm.v30i2.13671}
+
+Die Idee von \enquote{Privacy} -- also das Recht, die \enquote{eigenen}
+Daten und deren Nutzung zu kontrollieren -- ist fest verbunden mit einer
+ungerechten Gesellschaft und einer Geschichte, die es zu überwinden
+gilt. Die Diskurse um Privacy und die Versuche, diese zum Beispiel durch
+Gesetze sicherzustellen, sind vielleicht gut gemeint, lösen aber das
+Hauptproblem nicht: Dass es überhaupt eine Notwendigkeit gibt, diese
+\enquote{Privatheit} von der restlichen Gesellschaft abzugrenzen und zu
+verteidigen. \enquote{Privatheit} ist das Ergebnis der aktuellen
+Gesellschaftsstruktur und eine umfassende Lösung wird nur durch die
+Veränderung dieser Struktur möglich sein. Deshalb muss über diese
+Veränderung nachgedacht werden.
+
+Wenn das überraschende Aussagen sind, dann ist die Hauptfunktion des
+hier besprochenen Textes erfüllt. Es ist ein explizit politisches
+Manifest und als solches darauf ausgelegt, Gewissheiten zu erschüttern
+sowie zum utopischen Denken anzuregen, um mögliche Zukünfte
+vorzuzeichnen. Dabei, das ist wichtig, geht es den Autor*innen nicht um
+eine libertäre, techno-utopische Zukunft, wie sie mit prägenden
+Diskursen des \enquote{Silicon Valley} verbunden sind. Privacy soll
+nicht aufgegeben werden, damit einfach alle Daten über alle Menschen von
+einigen wenigen Firmen und Personen genutzt werden können. Vielmehr soll
+eine Gesellschaft angestrebt werden, in welcher Privacy nicht notwendig
+ist, weil es keine Notwendigkeit zur Herstellung einer \enquote{privaten
+Sphäre} mehr gibt. Die Autor*innen argumentieren auf der Basis von
+dekolonialer und feministischer Theorie dafür, zu erkennen, dass diese
+\enquote{private Sphäre} zusammen mit den modernen Gesellschaften
+entstanden ist. Eingeschrieben in diese Sphäre ist also zum Beispiel die
+Geschichte des Kolonialismus, der Daten über Menschen produzierte und
+nutzte, um sie zu beherrschen und auszubeuten.
+
+Den Rezenten -- vielleicht zeigt sich hier dessen intellektuelle
+Geschichte -- erinnert das Manifest in seiner Argumentation vor allem an
+marxistisch oder anarchistisch geprägte Gesellschaftsanalysen aus dem
+frühen 20. Jahrhundert und an ebenso marxistische geprägte radikale
+Texte aus der US-amerikanischen Black-Power-Bewegung in den 1960er und
+1970er Jahren, welche die Frage stellten, ob bestimmte
+Auseinandersetzungen der jeweiligen Zeit tatsächlich Veränderungen
+ermöglichen werden oder ob sie die jeweiligen Systeme erhalten. Also
+beispielsweise, ob Genossenschaften nicht die kapitalistische
+Gesellschaftsstruktur reproduzieren, wenn sie auch deren Auswirkungen
+\enquote{abfedern} würden, oder ob die Inklusion von schwarzen Menschen
+in die Parlamente und Polizeieinheiten nicht grundsätzlich ein
+rassistisches System mit erhalten, wenn auch leicht verbessert? Oder ob
+halt nicht eine andere Gesellschaft -- je nach Text eine
+nicht-kapitalistische, eine machtfreie oder eine nicht-rassistische --
+besser wäre? Was die Autor*innen dieses Textes zu argumentieren
+scheinen, ist, dass eine Gesellschaft, in der zum Beispiel Unterschiede
+zwischen Menschen mit verschiedenen sexuellen Identitäten egal sind oder
+in denen der Fokus darauf liegt, die notwendige Pflege für alle Menschen
+zu ermöglichen (und nicht sie zu privatisieren oder staatlich zu
+regeln), auch die Notwendigkeit verschwinden lassen würden, überhaupt
+eine \enquote{private Sphäre} oder \enquote{private Daten} zu
+verteidigen. Eine Gesellschaft, in der Daten nicht verwendet werden
+(können), um Menschen auszubeuten oder zu unterdrücken, würde die
+Probleme, welche der Datenschutz regeln will, besser und endgültig
+regeln. Sie schliessen, dass es sinnvoller wäre, über eine solche
+Gesellschaft und dann auch Datennutzung nachzudenken, als sich in der
+Frage zu verlieren, wie immer wieder neue Regeln erlassen und
+durchgesetzt werden können, um private Daten zu schützen. Das erinnert
+an die Fragen zu Beginn des 20. Jahrhunderts und in den 1960er/1970er
+Jahren, nur hier zu einem anderen Thema.
+
+Was das Manifest schafft und empfehlenswert macht, ist, dazu zu zwingen,
+die eigenen Grundannahmen zu hinterfragen. In diesem Fall gerade im
+Bibliothekswesen, in dem sich stark im Bereich Daten und Fragen des
+Datenschutzes engagiert wird. Was genau ist eigentlich das Ziel dieses
+Engagements? Sollte man nicht ganz andere, weitergreifende Ziele
+anstreben, als \enquote{nur} die Menschen zu befähigen, \enquote{ihre
+Daten} zu schützen? Es gibt keine klare Antwort auf diese Fragen --
+etwas, was man auch aus der Geschichte anderer radikaler Bewegungen
+lernen kann. Aber es fühlt sich wie ein notwendiger Schritt an, diese
+Fragen anzugehen und nicht einfach nur auf Überzeugungen zum Datenschutz
+zu beharren. Sicherlich: Egal, welche Position jemand nach dem Lesen und
+Durchdenken des Textes anschliessend vertritt -- das anschliessende
+Handeln ist dann wichtiger als die Meinung selbst. Auch das hat dieses
+Manifest mit früheren Manifesten gemein. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Eckerdal, Johanna Rivano ; Engström, Lisa ; Färber, Alexa ; Hamm, Marion
+; Kofi, Jamea ; Landau-Donnelly, Friederike ; van Melik, Rianne (2024).
+\emph{Social infrastructuring in public libraries:
+librarians\textquotesingle{} continuous care in everyday library
+practice}. In: Journal of Documentation 80 (2024) 7: 206--225,
+\url{https://doi.org/10.1108/JD-12-2023-0260}
+
+Die Arbeit stammt aus der Ethnologie und geht deshalb auch ethnologisch
+vor. Sie will klären, wie in Personen in Öffentlichen Bibliotheken
+handeln, damit diese Einrichtungen zu einem \enquote{place of care} werden. Im
+Fokus stehen dabei die Handlungen von Bibliothekar*innen selber, welche
+die Bibliothek und ihre konkrete Arbeit so gestalten, dass sich
+Nutzer*innen in diesen Bibliotheken ernst genommen fühlen. Dieser Fokus
+auf das Handeln von Bibliothekar*innen ist explizit ethnologisch, da es
+in dieser Forschungsrichtung ja immer darum geht, zu fragen, wie
+konkretes Handeln zum Entstehen und zur Reproduktion von sozialen
+Strukturen, Identitäten und Kulturen führt.
+
+Grundsätzlich referiert die Arbeit zuerst die gängigen
+bibliothekarischen Diskurse darüber, dass Öffentliche Bibliotheken
+aktuell \enquote{Orte} beziehungsweise \enquote{Dritte Orte} wären. Anschliessend
+beschreibt der Text, wie die Forschenden in sechs Bibliotheken (je die
+Hauptfiliale und eine Zweigstelle in Wien, Rotterdam und Malmö)
+Bibliothekar*innen bei ihrem Arbeitsalltag begleiteten. Bei dieser
+Begleitung wurde beobachtet, was die Bibliothekar*innen tun und dieses
+Handeln anschliessend von den Forschenden interpretiert. Dabei wird
+sichtbar, dass Bibliothekar*innen bemüht sind, die Probleme von
+Nutzer*innen möglichst umfassend zu lösen und deren Interessen zu
+befriedigen. Dies geht oft damit einher, konkrete Regeln zu übertreten
+oder zumindest \enquote{zu dehnen}. (Ein Beispiel im Text war, dass eine
+Bibliothekar*in in Wien die Nutzer*in einer Abteilung bediente, obwohl
+diese Abteilung eigentlich an diesem Tag noch geschlossen war.) Die
+Autor*innen betonen zwar Unterschiede zwischen den Bibliothekssystemen
+in den drei Ländern, in denen sie forschten. Beispielsweise gehen sie
+auf explizit von der Politik formulierte Erwartungen an die
+niederländischen Bibliotheken ein, Nutzer*innen beim Umgang mit der
+öffentlichen Bürokratie zu unterstützen, also zum Beispiel beim
+Ausfüllen von Formularen behilflich zu sein -- was in Österreich und
+Schweden nicht zum Aufgabenbereich von Bibliotheken gehört. Aber aus
+diesen thematisierten Unterschieden scheint sich für die weitere
+Untersuchung wenig zu ergeben.
+
+Auffällig sind zudem zwei Dinge: Erstens beobachteten die Forschenden
+eigentlich nur Interaktionen, die von Nutzer*innen initiiert wurden, die
+etwas von Bibliothekar*innen \enquote{wollen} (selbst, wenn es in einem Fall
+Kinder sind, die den Bibliothekar*innen einen Dankesbrief überreichen
+wollen). Andere Arbeiten oder gar Interaktionen, die von den
+Bibliothekar*innen ausgelöst werden, scheinen nicht in den Fokus der
+Untersuchung gelangt zu sein. Angekündigt ist zwar, dass im weiteren
+Projekt auch andere Fragen angegangen werden. Aber es überrascht schon,
+dass die Autor*innen bereits aus der \enquote{Lösung von Problemen von
+Nutzer*innen} zu schliessen scheinen, dass Bibliothekar*innen aktiv den
+\enquote{Ort Bibliothek} schaffen. Ist das wirklich die wichtigste Form sozialer
+Interaktion in Öffentlichen Bibliotheken? Zweitens stellen die
+Autor*innen am Anfang, wie erwähnt, den zeitgenössischen
+bibliothekarischen Diskurs dar, aber sie kommen dann auf ihn in ihren
+Ausführungen nicht mehr zurück. Dabei wäre es interessant gewesen zu
+erfahren, ob und wenn ja, wie dieser einen Einfluss auf das konkrete
+Handeln von Bibliothekar*innen hat. Jetzt zumindest vermittelt der
+Artikel eher den Eindruck, dass dieser Diskurs so weit von der konkreten
+Praxis entfernt ist, dass er eigentlich auch ignoriert werden kann. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+{[}Editorial{]}. \emph{Transparent peer review to be extended to all of
+Nature's research papers}. In: Nature 642, 542 (2025)
+\url{https://doi.org/10.1038/d41586-025-01880-9}
+
+Im Juni 2025 meldet die Nature-Redaktion, dass die Zeitschrift zu den
+jeweiligen Aufsätzen auch jeweils ein Peer-Review-File publizieren wird.
+Dieses dokumentiert die Kommunikation zwischen den Reviewer*innen und
+den Autor*innen und erhöht, so die Hoffnung, die Transparenz und damit
+auch das Verständnis für wissenschaftliche Kommunikationsprozesse. Die
+Peer-Review-Report-Veröffentlichung war bisher bereits per opt-in
+verfügbar. Ab sofort ist es für Veröffentlichungen in Nature der
+Standard. Das Verfahren der Peer Review selbst wurde bei Nature im Jahr
+1973 verpflichtend eingeführt. (bk)
+
+\subsection{2.2 Geschichte der Bibliotheken und der
+Informationswissenschaft}\label{geschichte-der-bibliotheken-und-der-informationswissenschaft}
+
+Kayak, Noyan (2025). \emph{Bibliothèques de musées: entre métier et
+approche historique.} In: RESSI - Revue électronique Suisse de science
+de l'information 25 (2025),
+\url{https://doi.org/10.55790/journals/ressi.2025.e1885}
+
+In gewisser Weise ist dieser Artikel ein verzweifelter Ruf. Kayak führt
+seit 2022 die Bibliothek des Musée Ariana, dem schweizerischen Museum
+für Keramik und Glas in Genf. Dies beinhaltete unter anderem, einen Plan
+für die Weiterentwicklung der Bibliothek aufzustellen. Für Kayak war
+offenbar klar, dass dies nur auf Basis einer Geschichte dieser
+Einrichtung geschehen kann: Entwicklung sei als Weiterentwicklung
+anzusehen, die nicht einfach mit dem Status Quo startet, sondern früher
+-- in diesem konkreten Fall 1993, mit der Gründung der Bibliothek -- und
+die dann unter Einbezug der bisherigen Arbeiten in die Zukunft
+verlängert werden kann. Eine solche Geschichte würde Auskunft darüber
+geben, was schon etabliert wurde, was sich schon entwickelt hat oder
+auch nicht entwickeln konnte. Aber: Es gibt diese Geschichte nicht. Wie
+Kayak feststellt, gibt es noch nicht einmal eine Übersicht über die
+Entwicklung von Museumsbibliotheken im Allgemeinen.
+
+Er hat daraufhin in einem anderen Artikel diese Geschichte für die
+betreffenden Einrichtungen in Genf aufbereitet. Im vorliegenden Text
+ruft er Bibliothekar*innen vor allem dazu auf, die Geschichte der
+eigenen Profession zu erarbeiten, denn offenbar würden sich
+Historiker*innen wenig für dieses Thema interessieren. Dabei müsse
+methodisch vorgegangen werden und nicht einfach Anekdoten versammelt
+werden. Eine solche Geschichte würde es der Profession ermöglichen,
+selbstbewusster und realistischer in die Zukunft zu planen und zum
+Beispiel auch zu wissen, was sie schon erfolgreich gemeistert hat. Ein
+Anfang wäre schon, wenn Bibliotheken auf ihren Homepages eine Übersicht
+über die eigene Geschichte bieten würden. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Schwerpunkt ``\emph{Libraries at the intersection of history and the
+present''} (2024). In: IFLA Journal 50 (2024) 4,
+\url{https://journals.sagepub.com/toc/iflb/50/4} {[}Paywall{]}
+{[}\href{https://repository.ifla.org/handle/20.500.14598/3703}{OA-Version}{]}
+
+Die IFLA -- also die International Federation of Library Associations
+and Institutions -- wird 2027 hundert Jahre alt. Eine in ihr
+angesiedelte Special Interest Group zur Bibliotheksgeschichte bereitet
+zu diesem Jubiläum ein Buch vor. In Vorbereitung dazu führte sie 2023
+eine Tagung durch. Die dort präsentierten Paper sind in dieser
+Schwerpunktausgabe des IFLA Journals veröffentlicht. Grundsätzlich
+sollen sie sich mit den Quellen befassen, welche die Geschichte von
+Bibliotheksverbänden -- sowohl gesamthaft der IFLA als auch einzelner
+Verbände -- nachvollziehbar machen können. Dabei geht es laut dem
+einleitenden Editorial auch darum, ob es aktiv gepflegte Archive der
+Verbände gibt, wie ihr Erhaltungszustand ist und ob sie zugänglich sind.
+Mehrfach wird im Editorial und einzelnen Artikeln darauf verwiesen, dass
+gerade Bibliotheksverbände und Bibliotheken schlecht darin sind, die
+eigene Geschichte zu erhalten, auszuwerten und zu reflektieren. Hervor
+sticht dabei gleich der erste Artikel von Alistar Black (Black, Alistar
+(2024). \emph{Memory and amnesia in the archival practices of national
+library and information associations}. In: IFLA Journal 50 (2024) 4:
+696--705, \url{https://doi.org/10.1177/03400352241236733} {[}Paywall{]}
+{[}\href{https://repository.ifla.org/handle/20.500.14598/3703}{OA-Version}
+S. 8{]}), der konkret festhält, dass diese Einrichtungen sich für
+Bibliotheksgeschichte eigentlich nur dann interessieren, wenn sie für
+repräsentative Zwecke genutzt werden kann. Ansonsten würde sie praktisch
+nicht betrieben. Aktiv würden die Dokumente der Verbände kaum
+langfristig erhalten und die Möglichkeiten von Bibliotheksgeschichte --
+nämlich aus ihr zu lernen, welchen konkreten Traditionen Bibliotheken
+und Bibliotheksverbände folgen -- würden nicht genutzt. Das ist eine
+zutreffende Beschreibung der Situation.
+
+Insgesamt macht die Schwerpunktausgabe aber einen unausgewogenen
+Eindruck. Neben dem Artikel von Black beschäftigen sich einzelne Texte
+mit konkreten Archivbeständen, die von einer sehr kleinen Anzahl von
+Bibliotheksverbänden tatsächlich gepflegt werden. (Unter anderem
+Bertram, Cara (2024). \emph{Preserving the history of the American
+Library Association}. In: IFLA Journal 50 (2024) 4: 724--731,
+\url{https://doi.org/10.1177/03400352241246445} {[}Paywall{]}
+{[}\href{https://repository.ifla.org/handle/20.500.14598/3703}{OA-Version}
+S. 36{]}.) Dabei wird sichtbar, dass die beste Lösung im Sinne eines
+nachhaltigen Betriebs und Erhalts dieser Archivalien offenbar die
+konkrete Zusammenarbeit mit einem schon existierenden Archiv, welches
+die Bestände erhält, sowie einer konkreten Strategie zur regelmässigen
+Abgabe von Dokumenten an dieses Archiv besteht. Diese Strategie muss von
+den Verbandsvorständen aktiv umgesetzt werden.
+
+Andere Texte erzählen kleinteilig und mit einem Fokus auf Entscheidungen
+ausgesuchter Personen die Entwicklung einzelner Verbände. Sichtbar wird
+dabei eine andere Gefahr für die Bibliotheksgeschichte, nämlich dass
+Bestände, wenn sie einmal vorhanden sind, einfach kontextlos nacherzählt
+werden -- also der Blick nur auf sie fokussiert bleibt --, während
+gerade dann, wenn diese Bestände nicht existieren oder nur sehr wenig
+umfangreich sind, offenbar mehr Kontext dargestellt wird.
+
+Bei einer Anzahl von Beiträgen ist der Zusammenhang zum eigentlichen
+Thema des Schwerpunkts aber gar nicht klar. Diese stellen zwar auch
+Bibliotheksgeschichte dar (Interessant vor allem Fontanin, Matilde
+(2024). \emph{A narrative on the codebreakers\textquotesingle{} library
+at Blechtley Park}. In: IFLA Journal 50 (2024) 4: 787--797,
+\url{https://doi.org/10.1177/03400352241265376} {[}Paywall{]}
+{[}\href{https://repository.ifla.org/handle/20.500.14598/3703}{OA-Version}
+S. 99{]}.), aber beziehen sich gerade nicht auf Bibliotheksverbände.
+Insgesamt lässt sich also aus diesem Schwerpunkt noch nicht
+erschliessen, was genau der Fokus der für 2027 versprochenen Publikation
+sein wird, ob sie also eine Ansammlung von Geschichten, eine
+Nacherzählung von Entwicklungen oder aber eine -- notwendige --
+kritische Reflektion der Geschichte der IFLA sein wird. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Stock, Wolfgang G. (2024). \emph{Information science in the German
+Democratic Republic}. In: Journal of Documentation 80 (2024) 7:
+287--305, \url{https://doi.org/10.1108/JD-03-2024-0058}
+
+Der Autor stellt zutreffend fest, dass die bisherige
+Geschichtsschreibung zur Informationswissenschaft im DACH-Raum die DDR
+praktisch vollständig übergangen hat, obwohl gerade in der DDR eine
+eigene Informationslandschaft und -wissenschaft bestand, die auch -- wie
+implizit aus dem Text klar wird -- auf viele Ressourcen zurückgreifen
+konnte. Der Text unternimmt nun den Versuch, diese Geschichte
+darzustellen. Dabei muss er sich hauptsächlich auf publizierte
+Zeitschriftenartikel stützen, da andere Materialien bislang kaum
+aufgearbeitet wurden.
+
+Dargestellt wird, dass die Entwicklung der Informationswissenschaft in
+der DDR explizit verbunden war mit der DDR-Politik und der
+Weltanschauung, auf deren Basis diese Politik betrieben wurde. Der Autor
+zeigt dies zum Beispiel daran, wie das Konzept \enquote{Information} in das
+marxistische Denken integriert wurde, obgleich es zum Beispiel bei den
+Begründern der Kybernetik so konzipiert war -- als \enquote{nicht Materie, nicht
+Ideologie} --, dass es eigentlich nicht in dieses Denksystem eingefügt
+werden konnte. Gleichzeitig machte es die Struktur des
+Wissenschaftssystems in der DDR möglich, ein System von
+Forschungsinformation zu etablieren, bei dem die Forschenden zu aktiver
+Zuarbeit verpflichtet wurden. Zu diesem System gehörten nicht nur
+\enquote{Pflichtenhefte}, welche von den Forschenden zu Beginn eines Projektes
+auszufüllen waren, sondern auch zahlreiche Datenbanken und
+Informationsstrukturen, eine eigene Ausbildung von
+Informationsspezialist*innen, und auf dem Gebiet der
+Informationswissenschaft eigene Forschungen, Tagungen und
+Theorieentwicklungen sowie ein eigenes Zentralinstitut.
+Informationswesen und -wissenschaft waren in der DDR ein konkretes
+Arbeitsfeld für eine wohl beachtliche Anzahl von Personen.
+
+Der Autor stellt in seinem Text neben dem System selber vor allem vier
+theoretische Zugänge zur Wissenschaftlichen Information und deren
+Nutzung vor, welche in der DDR erarbeitet wurden. Wenig geht er auf die
+konkrete Arbeit in Informationseinrichtungen ein. Vielmehr widmet er ein
+recht langes Kapitel der Abwicklung dieser Strukturen nach 1989 sowie
+einer Einordnung in die heutige Forschung. Dabei postuliert er, dass die
+Tradition der DDR-Forschung abgebrochen und praktisch vergessen wurde.
+(Der Text vermittelt aber den Eindruck, als wäre er im Original in einer
+viel längeren, ausführlicheren Variante geschrieben, aber dann für die
+Publikation gerade um diese Kapitel, die sich mit der konkreten Praxis
+beschäftigten, gekürzt worden.) Während diese Klagen inhaltlich
+berechtigt sind, tragen sie wenig zu einer weiteren Forschung bei. Dabei
+drängen sich andere Fragen auf. Beispielsweise zeigt der Autor, dass es
+in der DDR ein System von Forschungsinformation gab, dass in Vielem das
+Gleiche zu erreichen versuchte, wie heute mit Current Research
+Information Systems oder den verschiedenen Persistent Identifiers im
+Wissenschaftsbereich (ORCID, DOI und so weiter) angestrebt wird. Was
+liesse sich aus den Erfahrungen der DDR mit diesem System lernen?
+
+Gleichzeitig zeigt der Artikel, wie eng Informationspraxis und
+ideologische Basis miteinander verbunden waren, was für heute die Frage
+aufwirft, ob das Denken über Information nicht auch eine ideologische
+Basis hat -- nur eine, die nicht so explizit wie in der DDR thematisiert
+wird. (ks)
+
+\subsection{2.3 Open Access}\label{open-access}
+
+o.A. (2025): \emph{Universiteter betaler dyrt for Open Access}. In:
+Forskerforum. Dezember 2024, S. 13,
+\url{https://dm.dk/media/vebn2rmg/forskerforum-nr-6-2024.pdf}
+
+In einer kurzen Einschätzung beschreibt die dänische
+Hochschulzeitschrift \emph{Forskerforum} die Herausforderungen der
+Kosten für Open Access für die Universitäten in Dänemark. Auch dort
+werden Publikationsgebühren zunehmend als problematisch angesehen,
+besonders da die Lizenzierungskosten für wissenschaftliche Zeitschriften
+ebenfalls steigen. Angegeben wird eine Kostensteigerung von 20~\% über
+vier Jahre. Dies widerspricht aus Sicht des Sprechers der dänischen
+Universitäten, Jesper Langergaard, der Idee des Open Access. Als
+schwierig zeigt sich, dass die Universitäten einzeln mit den Verlagen
+verhandeln und keine gemeinsame und damit wirksamere Position einnehmen.
+Das Interesse der Forschenden ist dagegen vor allem, in bestimmten
+Journalen zu erscheinen, was die Nutzung der vorhandenen Alternativen
+wie Green Open Access bremst. Aus Sicht der dänischen Universitäten wäre
+eine supranationale Lösung, also durch die Europäische Gemeinschaft, für
+die Finanzierung des Open-Access-Publizierens und des Durchbrechens von
+Monopolstrukturen wünschenswert. (bk)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Céspedes, Lucía ; Kozlowski, Diego ; Pradier, Carolina et al.~(2025).
+\emph{Evaluating the linguistic coverage of OpenAlex: An assessment of
+metadata accuracy and completeness.} In: Journal of the Association for
+Information Science and Technology.
+\url{https://doi.org/10.1002/asi.24979}
+
+Die Studie analysierte die sprachliche Abdeckung und die Qualität der
+Metadaten von OpenAlex im Vergleich zu Web of Science (WoS). Es lässt
+sich festhalten, dass OpenAlex gegenüber WoS eine ausgewogenere
+sprachliche Abdeckung besitzt. Damit bietet es sich prinzipiell für
+linguistische Auswertungen und Untersuchungen an, wobei die Qualität der
+Sprachmetadaten zum Zeitpunkt der Studie noch Qualitätsmängel aufwiesen.
+Entsprechend scheint bei OpenAlex Englisch derzeit überrepräsentiert.
+Auch mögliche Nachweislücken bei Publikationen, die keinen PID haben,
+werden benannt. Die Autor*innen empfehlen daher den Ausbau der Forschung
+zu disziplinären Klassifikationen und Publikationstypen in OpenAlex und
+gehen davon aus, dass die Datenqualität unter anderem durch das Feedback
+der Nutzenden steigen wird. Als Alternative zu proprietären Datenbanken
+und zur wissenschaftstheoretischen und linguistischen Forschung besitzt
+OpenAlex ein großes Potential. (bk)
+
+\subsection{2.4 Bestandsmanagement und
+Bibliotheksbestände}\label{bestandsmanagement-und-bibliotheksbestuxe4nde}
+
+England, Erica (2025). \emph{Will We Ever Learn?: The Un-Enlightenment
+of Selector Librarians}. In: Journal of Radical Librarianship 11 (2025):
+1--32,
+\url{https://journal.radicallibrarianship.org/index.php/journal/article/view/114}
+
+Der Studie geht es darum, ob und wie Bibliothekar*innen in
+US-amerikanischen Bibliotheken das Ziel umsetzen, den jeweiligen Bestand
+diverser zu gestalten, also Medien aufzunehmen, die eine breitere,
+gesellschaftlich repräsentativere Auswahl darstellen. Der Text hält sich
+lange mit der Herleitung dieses Themas auf, aber grundsätzlich basiert
+er auf der Auswertung von semi-strukturierten Interviews mit 19
+Bibliothekar*innen, welche Bestandsmanagement betreiben. Diese Auswahl
+war durch eine vorhergehende Umfrage schon einigermassen gesteuert: Es
+waren alles Personen, die ein Interesse daran hatten, den jeweiligen
+Bestand divers zu gestalten.
+
+Das wichtige Ergebnis ist, dass allen die Notwendigkeit dafür bewusst
+ist, um einen gesellschaftlich sinnvollen, fairen Bestand zu entwickeln,
+aber dass es strukturelle Hürden gibt. Weder in der Ausbildung noch in
+der Weiterbildung würde vermittelt werden, wie dieses Ziel praktisch
+umsetzbar ist. Wenn überhaupt, dann sei vermittelt worden, dass es
+wichtig wäre. Eigentliche Werkzeuge oder Vorgehensweisen würden dagegen
+nicht thematisiert. Zum anderen müsse man sich beim Bestandsmanagement
+immer mehr auf den Einsatz von Tools von externen Anbietern verlassen.
+Die Medienauswahl erfolgte immer weniger direkt durch die
+Bibliothekar*innen. Stattdessen verliessen sie sich auf die Auswahl von
+Verlagen, dem Buchhandel oder mehr noch spezifischen Anbietern.
+
+Der Text ruft zwar dazu auf, die Aus- und Weiterbildung praktischer zu
+orientieren, also direkt zu vermitteln, wie Bibliothekar*innen
+diversitätsorientiert Bestände auswählen oder Medien so einschätzen und
+bewerten können, dass sie am Ende zu diversen Beständen führen. Was
+nicht diskutiert wird, ist, ob nicht auch die anderen Strukturen
+verändert werden könnten, beispielsweise durch (wieder mehr)
+bibliothekarische Besprechungen oder aber dadurch, dass Anbieter
+verpflichtet werden, ihre Auswahlkriterien transparent darzulegen und
+gegebenenfalls anzupassen. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Orner, Sylvia (2024). \emph{Analyzing and Assessing a Library Collection
+Using Faculty Via OpenAlex and R}. In: Evidence Based Library and
+Information Science 19 (2024) 4: 39--52,
+\url{https://doi.org/10.18438/eblip30493}
+
+Der Artikel stellt dar, wie eine Universitätsbibliothek -- die
+University of Scranton, Pennsylvania -- versuchte, die Nutzung des
+Bibliotheksbestandes durch die Forschenden der Universität mittels einer
+Auswertung von Zitations- und anderen Daten zu erheben. Das Ganze war
+Teil einer Evaluation des gesamten Bibliotheksbestandes. Es wurde also
+unter anderem gefragt, ob die Forschenden Literatur zitieren, die von
+der Bibliothek lizenziert oder gekauft worden war.
+
+Solche Versuche, die Publikationen von Forschenden zu nutzen, um die
+Bestände von Bibliotheken zu evaluieren, sind nicht grundsätzlich neu.
+Interessant an diesem Beispiel ist aber -- neben dem, dass dies hier
+einmal publiziert wurde und nicht intern in einer Bibliothek verblieb
+--, dass dafür OpenAlex und R genutzt wurden. OpenAlex ist als Anbieter
+von Forschungsinformation relativ neu, scheint sich aber sehr schnell
+als offene Alternative zu den bekannten kommerziellen Anbietern zu
+etablieren. R ist ebenso eine offene Variante des Angebots eines
+kommerziellen Anbieters, aber schon länger etabliert. Was der Artikel
+zeigt, ist, dass es für Bibliotheken jetzt tatsächlich relativ einfach
+möglich ist, ohne grossen finanziellen oder personellen Aufwand solche
+Analysen durchzuführen. (Der Artikel stellt die Schritte der Analyse
+dar, die verwendeten R-Skripte sind ebenso publiziert.) Nicht diskutiert
+wird allerdings, ob diese ausgewerteten Daten tatsächlich etwas über den
+Bibliotheksbestand aussagen. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+René, Will (2024). \emph{Displaying sound: the National Poetry
+Library\textquotesingle s vinyl collection, 2019--2024}. In: Art
+Libraries Journal 49 (2024) 4: 126--135,
+\url{https://doi.org/10.1017/alj.2024.21} {[}Paywall{]}
+
+In diesem Artikel geht es um einen sehr speziellen Bestand in einer sehr
+spezifischen Bibliothek: Die National Poetry Library in London sammelt,
+erschliesst und präsentiert die Lyrik Grossbritanniens. Das beinhaltet
+auch das Veranstalten von Lesungen oder Workshops sowie das Ausrichten
+von Ausstellungen. Im Bestand der Bibliothek finden sich -- allerdings
+zu Beginn der im Artikel diskutierten Periode noch sehr verstreut --
+aufgezeichnete Lesungen von Lyrik, zumeist von den Dichter*innen selber,
+auf Vinyl.
+
+Der Text beschreibt nun, wie dieser Bestand in den letzten Jahren
+zusammengezogen, bibliothekarisch bearbeitet und neu präsentiert wurde.
+Es ist ein sehr praxisorientierter Artikel, der aber einmal direkt auf
+die konkrete Arbeit von Bibliothekar*innen mit den Medien eingeht.
+Angesichts dessen, dass in der bibliothekarischen Fachliteratur sonst
+gerne über abstraktere Themen berichtet wird, ist er erfrischend nerdig.
+(ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Bobrow, Evan (2025). \emph{The Role of Academic Libraries in the
+Shifting Landscape of Zines.} In: College \& Research Libraries, 86
+(2025) 2: 204--208, \url{https://doi.org/10.5860/crl.86.2.204}
+
+Zines -- also selber hergestellte, gedruckte Hefte, die vor allem seit
+dem Aufkommen von Kopierern eine Rolle in fast allen Subkulturen im
+Globalen Norden spielten -- sind Teil von Beständen US-amerikanischer
+Bibliotheken geworden. Es gab in den letzten Jahren verstärkt
+Publikationen zu diesem Thema und auch Projekte, diese Medien nicht nur
+in die Bestände aufzunehmen, sondern auch aktiv zu vermitteln. Das
+Editorial von Bobrow reflektiert kurz den Stand und die möglichen
+Entwicklungen.
+
+Dabei wird betont, dass Zines weiterhin das Potential haben, eine
+Gegenöffentlichkeit herzustellen und auch Personen zu motivieren, selber
+Zines zu erstellen. Gerade in Zeiten, in denen auf der einen Seite alles
+online gestellt werden könnte, aber auf der anderen Seite immer mehr der
+Eindruck entsteht, dass online alles immer weniger sinnvoll und
+selbstbestimmt ist, stellten Zines ein Gegenmedium dar. Wer ein Zine
+erstellt, entscheidet sich explizit für das materielle Objekt.
+Gleichzeitig gäbe es aktuell eine Entwicklung dahin, Zines als grosse
+Projekte zu planen und zu realisieren, inklusive künstlerischer
+Ausgestaltung und gutem Druck. Dies vermittle aber vielen Menschen den
+Eindruck, dass es für die Herstellung eines Zines bestimmter Fähigkeiten
+bedürfe. Bobrow führt dies darauf zurück, wie vor allem junge Leute
+heute Medien kennenlernen würden -- nämlich zuerst digital, also auch in
+\enquote{professionellem} Layout. Hingegen sei es wichtig, dass sie auch
+einfach hergestellte Zines als Medium kennenlernen würden, also lieber
+als selber kopierte und geklammerte Hefte, anstatt als fertiges,
+\enquote{professionelles} Druckerzeugnis. Dies vermittelte, dass
+wirklich alle etwas sagen könnten und auch die Mittel dazu hätten.
+Bestände solcher Zines in Bibliotheken, so die implizite Aussage, würden
+dazu beitragen. (ks)
+
+\section{3. Monographien und
+Buchkapitel}\label{monographien-und-buchkapitel}
+
+\subsection{3.1 Vermischte Themen}\label{vermischte-themen-1}
+
+Keyes, Kelsey ; Dworak, Ellie (2024). \emph{Supporting Student Parents
+in the Academic Library: Designing Spaces, Policies, and Services}.
+Chicago: Association of College and Research Libraries, 2024
+{[}gedruckt{]}
+
+Wie im Titel angegeben, beschäftigt sich das Buch aus Sicht von
+Hochschulbibliotheken mit Eltern, die studieren und damit, wie diese
+durch die Bibliotheken beim Studium unterstützt werden können. Die
+Autor*innen (beide arbeiteten in der Bibliothek der Boise State
+University in Idaho) zeigen schon im Vorwort anhand von selber erlebten
+Situationen, dass dies grundsätzlich sinnvoll und notwendig ist. Sie
+berichten davon, dass die meisten Hochschulbibliotheken nicht einmal
+klare Regeln dazu hätten, ob Eltern ihre Kinder mit in die Bibliotheken
+bringen können und wenn ja, mit welchen Auflagen. Es sei oft nicht
+einmal klar, ob Kinder \enquote{ruhig} sein müssten und was
+\enquote{Ruhe} genau heisst. Dabei gibt es eine grosse Anzahl von
+Studierenden, die Kinder in allen Altersstufen betreuen und gleichzeitig
+Studium, Elternschaft und Arbeit managen.
+
+Die Universitäten in den USA und auch deren Bibliotheken seien für
+Studierende eingerichtet, die es immer weniger gäbe: Nämlich solche,
+welche direkt nach der Schule auf den Campus ziehen, sich dann dort
+vollkommen auf das Studium konzentrieren könnten und keine
+Verpflichtungen für Kinder (oder andere Angehörige) hätten. Die
+Autor*innen argumentieren, dass es richtig sei, diesen Blick zu weiten.
+Obwohl die Daten nicht eindeutig wären, ist doch davon auszugehen, dass
+an jeder Hochschule eine grosse Minderheit der Studierenden selber
+Eltern sind. Die Autor*innen betonen zudem, dass davon auch die
+Universitäten selber profitieren werden, weil sie so für mehr
+Studierende offen werden und gleichzeitig dazu beitragen können, dass
+mehr Studierende das Studium auch abschliessen und nicht vorzeitig
+abbrechen müssen.
+
+Am Ende laufen ihre Empfehlungen darauf hinaus, klare Regeln zu
+etablieren, eigene Bereiche für Studierende und ihre Kinder einzurichten
+sowie im Idealfall Services wie Lesestunden oder Hausaufgabenhilfe
+anzubieten und dies auch in Zusammenarbeit mit anderen Einrichtungen,
+wobei unter den besprochenen erstaunlicherweise die Public Libraries
+fehlen.
+
+Das Buch ist aber mehr als diese Argumentation. Es will daneben Daten
+zusammentragen, um diese Argumentation zu unterstützen, gleichzeitig
+zeigen, wie Bibliotheken studierende Eltern unterstützen können und
+zudem eine ganze Anzahl von Beispielen aus Bibliotheken dokumentieren.
+Diese verschiedenen Ziele erweisen sich als Schwäche der Publikation.
+Sie lässt sich als Potpourri beschreiben: Lange Abschnitte zu einem
+spezifischen Thema stehen neben Auswertungen einzelner Datensätze (zum
+Beispiel zu den Policies von Universitätsbibliotheken). Daneben stehen
+Beschreibungen von Studien. Gleichzeitig finden sich detaillierte
+Beschreibungen dazu, welche Daten es zu studierenden Eltern gibt oder
+wie eine Policy geschrieben werden könnte, die studierende Eltern in
+einer Bibliothek willkommen heisst. Mitten im Text stehen dann noch Case
+Studies -- sogar im Kapitel zur Boise State University Library, das
+selber eine Case Study ist --, die nicht immer eine Verbindung zum
+Kapitel zu haben scheinen, in denen sie stehen. Das alles vermittelt
+einen ungeordneten, unklaren Eindruck.
+
+Zudem ist dies alles, wie zu erwarten, immer direkt auf die USA bezogen.
+Für den DACH-Raum, wo ja zum Beispiel das \enquote{Leben auf dem Campus}
+praktisch nicht zum Studienalltag gehört, kann es nicht direkt genutzt
+werden -- auch wenn das Thema \enquote{studierende Eltern} für
+Hochschulbibliotheken hierzulande ebenfalls ein relevantes Thema sein
+sollte. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Jürgens, Moritz ; Sander, Julia ; Werner, Sybille (Hrsg.) (2022).
+\emph{Leseförderung in der Ganztagsschule}. (Lesesozialisation und
+Medien) Weinheim, Basel: Beltz Juventa, 2022 {[}gedruckt{]}
+
+In der bibliothekarischen Fachpresse wird erstaunlich selten auf die
+Forschung zur Leseförderung zurückgegriffen, welche im Rahmen der
+Erziehungswissenschaft produziert wird. Angesichts dessen, dass
+Öffentliche Bibliotheken sich gerne selber als Ort der Leseförderung
+begreifen, wäre das eigentlich zu erwarten.
+
+Dieser aktuelle Band mit Forschungsergebnissen und Praxisbeispielen
+deutet allerdings an, dass es auch Schulen selber schwerfällt,
+konsequent und nachvollziehbar auf die vorliegende Forschung zu
+reagieren. Interessant ist allerdings, dass Bibliotheken in diesem Band
+tatsächlich auch direkt thematisiert werden. In dem Buch werden in
+einigen Beiträgen theoretische Konzepte der Leseförderung erklärt, dann
+Ergebnisse aus Schulleistungsvergleichsstudien (PISA, Nationaler
+Bildungsbericht) und vergleichbarer weitflächiger Untersuchungen der
+letzten Jahre referiert. Dann wird eine Studie, die genau eine Schule
+betrachtet, dargestellt und anschliessend eine Anzahl von
+Praxisbeispielen zur Leseförderung in Schulen. Die letzten beiden
+Beiträge beschäftigen sich mit Schulbibliotheken. Der Fokus des gesamten
+Bandes liegt, ausser bei einem Text über die Situation in Finnland,
+immer auf Deutschland.
+
+Im Gesamtblick fallen zwei Dinge auf: Es gibt keine richtige Verbindung
+zwischen den Ergebnissen aus den \enquote{grossen} Studien und der
+Praxis in den Schulen. Und: Die Fördermassnahmen der vergangenen fast
+zwanzig Jahre hatten wenig nachweisbaren Erfolg. Diese Massnahmen der
+jüngeren Vergangenheit zielten darauf, Lesekompetenz als Set von
+Kompetenzen und Fähigkeiten zu definieren und diese dann gezielt zu
+fördern. Es ging also nicht mehr darum, Lesen an sich zu promoten,
+sondern beispielsweise das Sinn-entnehmende Lesen zu üben. In
+kontrollierten Settings konnten damit messbare Erfolge nachgewiesen
+werden, aber offenbar nicht mehr, wenn dies breitflächig im gesamten
+Schulsystem angewendet wurde. Gleichwohl zeigen die Daten, dass die
+Probleme, die schon bei der ersten PISA-Studie 2003 sichtbar waren,
+weiter bestehen: Im Vergleich zu anderen Ländern ist die Lesekompetenz
+von Schüler*innen in Deutschland schwach, wobei vor allem auffällt, dass
+es zwar viele leistungsstarke, aber auch viele leistungsschwache
+Schüler*innen gibt. Diese Spreizung ist weit grösser als in
+vergleichbaren Ländern. Zudem sind die Ergebnisse bei der Lesekompetenz
+weit mehr als in anderen Ländern an den sozialen Status des Elternhauses
+gebunden. Oder anders gesagt: Im deutschen Bildungssystem werden soziale
+Unterschiede stärker reproduziert als in anderen Ländern und dies hat
+sich, trotz einiger versprechender Ansätze, nicht gross geändert.
+
+Die Beiträge zu den übergreifenden Daten sind interessant, wenn auch
+desillusionierend zu lesen. Aber die Praxisbeispiele beziehen sich dann
+gar nicht darauf, die Probleme -- also die soziale Ungerechtigkeit --
+anzugehen, sondern setzen andere Schwerpunkte bei der Leseförderung.
+Während in den einführenden Beiträgen des Buches argumentiert wird, dass
+es eine Aufgabe der Schulen sein muss, sozial gerechter zu werden, indem
+der soziale Hintergrund des Lesenlernens betrachtet wird, wird in den
+meisten Praxisbeiträgen behauptet, dass es darum ginge, möglichst viele
+Kinder zu erreichen und beispielsweise mittels Partizipation zum Lesen
+zu motivieren. Im Ganzen vermitteln diese Beiträge den Eindruck, dass in
+der Leseförderung in Schulen in Deutschland zwar engagiert gehandelt
+wird, aber unterhalb dieser ganzen Aktivitäten gerade die tatsächlichen
+Probleme ignoriert und damit reproduziert werden. In diesem scheinen
+Schulen den Bibliotheken zu gleichen, deren Leseförderungsaktivitäten
+auch oft die vorliegenden Daten nicht wahrzunehmen scheinen und
+stattdessen versuchen, andere Probleme anzugehen.
+
+Um auf Bibliotheksthemen zu sprechen zu kommen: In einer ganzen Reihe
+der datenbasierten Beiträge wird darauf insistiert, dass es wichtig
+wäre, Kindern in der Schule direkt Lesezeiten zur Verfügung zu stellen
+und zwar möglichst selbstbestimmt sowie in gesonderten Leseräumen, aber
+auch in Leseecken in den Schulzimmern. Man verspricht sich davon, dass
+das Lesen so durch kontinuierliche Praxis besser gelernt werden kann.
+Genannt werden dabei mehrfach Schulbibliotheken. Allerdings sind auch
+hier zwei Dinge sichtbar: Zum einen beziehen sich diese Nennungen nie
+auf die bibliothekarische Literatur oder bibliothekarische Vorstellungen
+von Schulbibliotheken. Man stellt sich letztere meist nur als Leseräume
+mit Büchern vor, die einfach einzurichten wären. Alle weiteren
+Funktionen von Schulbibliotheken werden offenbar nicht angedacht.
+Ergänzt wird dieser reine \enquote{Schulblick} noch dadurch, dass es ein
+Blick nur auf Deutschland ist. Mit der Schweiz gibt es nämlich ein Land,
+dessen Schulsystem dem deutschen sehr ähnlich ist, aber in dem freie
+Lesestunden für Schüler*innen in recht gut ausgestatteten
+Schulbibliotheken Teil des Unterrichtsalltags in Primarschulen sind.
+Wenn dies eine Lösung für die Probleme in Deutschland wäre, müsste sich
+das zum Beispiel in den PISA-Studien zeigen. Aber das tut es nicht
+wirklich. Ein Grossteil der besseren Ergebnisse in der Schweiz scheint
+sich aus dem allgemein höheren sozio-ökonomischen Stand der Haushalte zu
+erklären. Ansonsten sind die Leistungen und die Spreizung zwischen
+\enquote{guten} und \enquote{schlechten} Leser*innen fast gleich gross.
+Insoweit ist nicht klar, warum dieser Vorschlag eine bessere Lösung als
+die jetzige Praxis darstellen soll.
+
+Die beiden Beiträge zu Schulbibliotheken am Ende des Buches helfen
+wenig, diesen grundsätzlich verwirrenden Gesamteindruck des Bandes zu
+mildern. Im ersten wird dargestellt, wie in Bibliotheken Bestände
+systematisiert werden, um dann eine mit Kindern erarbeitete Systematik
+in einer konkreten Schulbibliothek darzustellen. Im zweiten stellen
+Kolleg*innen der schulbibliothekarischen Arbeitsstelle in Frankfurt am
+Main überblicksartig dar, was Schulbibliotheken angeblich alles
+ermöglichen würden und dann, wie sie in Frankfurt unterstützt werden.
+Dieser Text liest sich wie ein Werbetext, der am Ende zudem die ganzen
+Daten aus den ersten Beiträgen des Bandes ignoriert. Auch hier wird ohne
+jede Herleitung behauptet, dass eine Schulbibliothek das Lesen aller
+Schüler*innen fördert. Alles in allem ist dieser Band also eher
+verwirrend und zeigt, wie inkonsequent die Leseförderung in Deutschland
+bezogen auf das Ziel von Bildungsgerechtigkeit eigentlich ist. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Lo, Patrick ; Sutherland, Robert ; Hsu, Wei-En ; Girsberger, Russ
+(edit.) (2022). \emph{Stories and Lessons from the World's Leading
+Opera, Orchestra Librarians, and Music Archivists, Volume 1: North and
+South America}. Bingley: Emerald Publishing Limited, 2022 {[}gedruckt{]}
+
+Lo, Patrick ; Sutherland, Robert ; Hsu, Wei-En ; Girsberger, Russ
+(edit.) (2022). \emph{Stories and Lessons from the World's Leading
+Opera, Orchestra Librarians, and Music Archivists, Volume 2: Europa and
+Asia}. Bingley: Emerald Publishing Limited, 2022 {[}gedruckt{]}
+
+Die beiden Bände versammeln Interviews mit \enquote{Opera Librarians}
+und Personen mit ähnlichen Positionen. Dies stellt ein eigenes
+Aufgabenfeld dar und -- so argumentieren die Herausgebenden in den
+kurzen Vorworten der beiden Bände -- praktisch einen eigenen
+Bibliotheks- und Archivtyp. Opera Librarians haben in den Orchestern,
+für die sie angestellt sind, verschiedene, unterstützende Aufgaben: Sie
+verwalten die Notenblätter, welche im Besitz der Orchester sind, üben
+praktisch Lizenzmanagement aus (obgleich sie die Lizenzen mit den
+Musikverlagen oft nicht selber schliessen, sondern jemand anders im
+Orchester dafür zuständig ist), bereiten Noten für die Musiker*innen vor
+und bearbeiten sie zum Teil in Zusammenarbeit mit den Dirigent*innen.
+Aber sie sind auch zum Teil verantwortlich dafür, Instrumente anzuordnen
+oder Notenhalter aufzustellen sowie die Aktivitäten der Orchester zu
+dokumentieren. Bei den Orchestern, die in diesen beiden Bänden
+thematisiert werden, handelt es sich immer um grosse, professionelle und
+wohl durchgehend staatlich finanzierte: Die Berliner Philharmonie, die
+Wiener Staatsoper oder die Canadian Opera Company sind einige der hier
+vertretenen.
+
+Auch die Herausgeber*innen, welche die Interviews durchführten, arbeiten
+in solchen Positionen. Es scheint sich -- wie die Opernwelt an sich --
+um eine eigene, international stark vernetzte Szene zu handeln. (Wobei
+die Internationalität auch eingeschränkt ist, offenbar hier auf
+Personen, die Englisch sprechen und unter Auslassung von Afrika und
+Ozeanien.) Das Erstaunlichste ist wohl, dass es tatsächlich so viele
+Opera Librarians gibt, dass sich so viele rund je zehnseitige Interviews
+führen lassen, um zwei Bände zu füllen. Man hat beim Lesen nicht den
+Eindruck, dass hier lauter Ausnahmen gemacht werden mussten, um mehr
+Personen zu finden, die inkludiert werden konnten. Bis auf eine Person,
+die in der Musikabteilung der Library of Congress arbeitet, sind alle
+wirklich fest an Orchestern angestellt. Allerdings zeigt sich in den
+Interviews auch die grosse Vertrautheit miteinander. Obgleich alle
+Personen am Anfang vorgestellt werden, hat es immer den Eindruck, als
+wenn Personen miteinander reden würden, die sich alle kennen. Ständig
+werden persönliche Anekdoten erzählt oder es gibt Verweise auf andere
+Personen, deren Interviews sich oft auch in den Bänden finden.
+
+Die Interviews geben Einblick in den Arbeitsalltag der Opera Librarians.
+Dieser ist abwechslungsreich, direkt an die Arbeit der Orchester
+gebunden und beispielsweise von Probe- und Aufführungsaisons geprägt. Er
+lässt sich nicht auf das Verwalten von Noten reduzieren, sondern ist
+tatsächlich Teil der \enquote{Infrastrukturarbeit} für die Orchester.
+Dies geschieht alles in recht offenen, wertschätzenden Gesprächen,
+welche oft durch Bildmaterial unterstützt werden. Aber was kaum sichtbar
+wird, ist die konkrete bibliothekarische Arbeit. Man erfährt weit mehr
+über die Orchester selber, über herausragende Aufführungen oder die
+Zusammenarbeit von Opera Librarians und anderen Personen, als darüber,
+wie der Bestand gemanagt wird oder wie genau das Lizenzmanagement
+geschieht. Es sind unterhaltsame Einblicke, aber sie sind wohl am Besten
+als eine Selbstvergewisserung der \enquote{Szene} der Opera Librarians
+zu verstehen, die sich hier gegenseitig präsentieren und damit
+bestätigen, dass es sie als eigene Profession gibt und sie nicht jeweils
+allein stehen. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\pagebreak
+
+Wiley, Claire Walker ; Click, Amanda B. ; Houlihan, Meggan (edit.)
+(2023). \emph{Everyday Evidence-Based Practice in Academic Libraries:
+Case Studies and Reflections}. Chicago: Association of Research and
+College Libraries, 2023 {[}gedruckt{]}
+
+Evidence Based Library and Information Practice ist ein Sammelbegriff
+für den Einsatz wissenschaftlicher Methoden und Denkweisen beim Treffen
+von Entscheidungen in Bibliotheken, also beispielsweise der Planung der
+Bestandsentwicklung oder der Evaluierung von Bibliotheksservices. Anfang
+des 21. Jahrhunderts wurde es insbesondere in Kanada als eigene Richtung
+-- inklusive eigener Zeitschrift, Einbindung in die bibliothekarische
+Ausbildung und Praxis -- entwickelt. Damals wurde sich stark an die
+Evidence Based Medicine angelehnt, welche den Einsatz jeweils der besten
+wissenschaftlichen Fakten im Medizinbereich, also zum Beispiel bei der
+Wahl von Therapien, anstrebt.
+
+Seitdem hat sich diese \enquote{Bewegung} ausgebreitet, eigene Modelle
+etabliert und dabei auch Veränderungen vollzogen. So ist es heute auch
+in anderen englisch-sprachigen Bibliothekswesen im Globalen Norden (vor
+allem Grossbritannien und Australien) verbreitet. Es wurde sich auch vom
+medizinischen Vorbild abgewandt und eine der Praxisorientierung von
+Bibliotheken angepasste Variante entwickelt. Ein wichtiges Modell ist
+dabei ein Modell, das mit der Abkürzung \enquote{5As process} benannt
+wurde: Articulate (Formulieren einer praxisorientierten Forschungsfrage,
+zum Beispiel: \enquote{Was denken unsere Nutzer*innen über die neue
+Möblierung der Bibliothek?}), Assemble (Zusammentragen von Evidenzen zum
+Thema, beispielsweise der wissenschaftlichen Forschung oder anderen
+Bibliotheken, und durch eigene Datenerhebungen), Assess (Übertragung der
+Evidenz auf die lokale Situation und gemeinsame Interpretation,
+Beantwortung der Frage), Agree (Gemeinsames Treffen von Entscheidungen
+über das weitere Vorgehen in der Bibliothek, auf Basis der Ergebnisse),
+Adapt (Umsetzen der Entscheidung und Überprüfung der Ergebnisse). Diese
+Schritte sind als Kreislauf vorgesehen. Es soll am Ende also immer
+wieder mit neuen Fragen angeschlossen werden. Ziel ist es, die
+Entscheidungen in Bibliotheken grundsätzlich auf Evidenzen aufzubauen
+und nicht auf \enquote{Bauchgefühl} oder rein strukturellen Zwängen. Das
+Modell wurde 2016 in einem auf Forschungen zum tatsächlichen Einsatz von
+\enquote{Evidence Based Practices} in Bibliotheken basierenden Buch
+vorgeschlagen. (Brettle, Allison ; Koufogiannakis, Denise (edit.)
+(2016). \emph{Being Evidence Based in Library and Information Practice}.
+London: Facet Publishing, 2016 {[}gedruckt{]}) Die beiden damaligen
+Herausgeber*innen führen das Modell in diesem Buch im ersten Beitrag
+noch einmal aus und schreiben darüber, wie es seitdem von anderen
+weiterentwickelt wurde.
+
+Der Rest des Buches besteht aber aus Beiträgen, in denen der
+\enquote{originale} 5As process von Hochschulbibliotheken in den USA
+angewendet wurde. Es liest sich ein wenig wie eine Ergänzung zum Buch
+von 2016. Jeder dieser Beiträge beginnt mit einer Darstellung der
+jeweiligen Bibliothek und folgt dann dem Prozess selber. In jedem
+Beitrag wird eine praxisorientierte Forschung vorgestellt. Zudem ist
+praktisch jedem Beitrag ein Anhang mit den jeweiligen
+Forschungsinstrumenten beigefügt, die erstellt wurden (also zum Beispiel
+die Fragebögen oder Interviewleitfäden). Was damit gezeigt wird, ist,
+dass der Prozess genutzt werden kann, um Entscheidungen zu treffen.
+Gleichzeitig wird vermittelt, dass praxisorientierte Forschung in
+Bibliotheken möglich und sinnvoll ist. Ansonsten sind die Beispiele alle
+immer wieder spezifisch für die jeweilige Bibliothek. Wenn das Buch
+einen Einfluss haben kann, dann wohl vor allem, andere Bibliotheken dazu
+anzuspornen, den Prozess bei eigenen Fragen einzusetzen. (ks)
+
+\subsection{3.2 Schrift- und
+Bibliotheksgeschichte}\label{schrift--und-bibliotheksgeschichte}
+
+Ferrara, Silvia (2021). \emph{La Fabuleuse Histoire de
+l\textquotesingle invention de l\textquotesingle écriture}. (Traduit de
+l\textquotesingle italien par Jacques Dalarun) Paris: Éditions du Seuil,
+2021 {[}gedruckt{]}
+
+Ferrara, Silvia (2023). \emph{Avant l\textquotesingle écriture: Signes,
+figures, paroles. Voyage au source de l\textquotesingle imagination}.
+(Traduit de l\textquotesingle italien par Jacques Dalarun) Paris:
+Éditions du Seuil, 2023 {[}gedruckt{]}
+
+Diese beiden Bücher sind aufeinander bezogen. Beide erschienen je zwei
+Jahre vor ihrer französischen Übersetzung (die hier für die Besprechung
+herangezogen werden) im italienischen Original (also 2019 respektive
+2021). Die Autorin ist Professorin für mykenische Philologie oder anders
+gesagt: Expertin für eine vorantike Kultur im heutigen Griechenland. In
+ihren Büchern geht es ihr um die Frage, wie Menschen weltweit -- und
+also nicht nur im heutigen Griechenland -- begannen, Schrift und
+Schriftkultur zu entwickeln sowie wie sie zuvor Erfahrungen
+aufzeichneten. Während es im ersten Buch darum geht, wie, wo, wieso und
+von welchen Menschen in früheren Kulturen die Schrift \enquote{erfunden} wurde,
+geht es im zweiten Buch um Zeichen und Symbole, die von
+\enquote{vorschriftlichen} Kulturen hinterlassen wurden.
+
+Zum Thema passend kann Ferrara für diese Themen fast nicht mit
+schriftlichen Quellen arbeiten, sondern muss erste Symbolsysteme, die
+Schriften sein könnten oder aber auch \enquote{noch nicht wirklich Schriften
+sind}, interpretieren oder -- im zweiten Buch -- Symbole (Einritzungen
+in Berge, Höhlenzeichnungen, intentional angeordnete Steine und so
+weiter), die teilweise mehrere 10.000 Jahre alt sind, zum Ausgang ihrer
+Überlegungen nehmen. Beide Bücher zeichnet aus, dass hier die Ergebnisse
+historischer Forschung mit expliziten Spekulationen und Mutmassungen
+verbunden werden. Dabei wird nicht versucht, die Grenzen zwischen Fakten
+und Interpretationen zu vermischen. Aber es liest sich nicht wie ein
+historisches Fachbuch, sondern ein wenig so, als würde Ferrara in
+geselliger Runde begeistert von ihrem Thema, von archäologischen Funden
+und dann von ihren Vermutungen erzählen. Dabei werden im Text sowohl
+recht unbekannte Funde präsentiert als auch prominente wie zum Beispiel
+die Bauten in Göbekli Tepe.
+
+Was Ferrara offenbar fasziniert, ist, dass Menschen (und nicht nur Homo
+sapiens) über mehrere Jahrtausende immer wieder dazu angetrieben wurden,
+entweder (im zweiten Buch) Spuren, Zeichnungen und ähnliches zu
+hinterlassen oder (im ersten Buch) von diesen Zeichen ausgehend
+Zeichensysteme zu entwickeln, die dann zu Schriften wurden. Immer wieder
+versucht Ferrara, sich vorzustellen, in welchen Situationen und zu
+welchen Zwecken das passierte. Und sie fragt auch, warum es immer wieder
+neu passierte. An den Grenzen zur Schriftlichkeit scheint Ferrara einen
+Willen der damaligen Menschen zu vermuten, ihre Gedanken zu hinterlassen
+und zu kommunizieren. Gleichzeitig scheinen Schriftsysteme auch wieder
+eingegangen zu sein. In einem Kapitel geht Ferrara auf die Geschichte
+der chinesischen Schrift ein, die gleichsam \enquote{fertig} die Welt betritt --
+in einem Grab (von \enquote{Lady} Fu Hao), das rund 1.200 Jahre vor unserer
+Zeitrechnung angelegt wurde, findet sich der erste Text in dieser
+Schrift, ohne dass wir (bislang) Vorläufersysteme kennen, aus denen sie
+sich entwickelt hat. Auch dieses Beispiel lässt die gleichen Fragen
+offen: Wie wurde dieses komplexe Schriftsystem erfunden, ohne weitere
+Spuren hinterlassen zu haben? Warum so und nicht anders? Was sagt diese
+Form der Schrift über die Menschen, die sie benutzt haben? Das Thema
+steht also immer an der Grenze von Verständlichkeit und
+Nicht-Verständlichkeit, von Vermutungen und Fakten.
+
+Beide Bücher sind erfrischend zu lesen und ähneln einem langem Gespräch
+mit einer Person, die sich in ein interessantes Spezialthema
+eingearbeitet hat und die hier hinter die sonst so alltägliche
+scheinende \enquote{Schrift} zu schauen versucht. Wobei Ferrara dabei ein
+erfrischend humanistisches Interesse an allen Menschen hat, welches die
+ganzen Vermutungen und Darstellungen durchzieht: Immer geht es darum,
+die \enquote{früheren Menschen} in ihrer ganzen Komplexität zu verstehen
+und wertzuschätzen. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Charles, Sara J. (2024). \emph{The Medieval Scriptorium: Making Books in
+the Middle Ages}. London: Reaktion Books, 2024 {[}gedruckt{]}
+
+Das Buch gibt einen gut lesbaren, wenn auch an Stellen vielleicht etwas
+zu detaillierten, Überblick zur Buchherstellung in der Spätantike und im
+(europäischen) Mittelalter, beginnend mit den ersten christlichen
+Schriften im zweiten Jahrhundert unserer Zeitrechnung und endend mit der
+Verbreitung des Buchdrucks. Dabei geht Sara J. Charles nicht nur auf die
+Bücher selber, sondern auch auf das ein, was über die Herstellung der
+Handschriften und der Materialien für diese (Pergament, Tinten und
+Farben, Schreibwerkzeuge, das Buchbinden) bekannt ist. Zudem stellt sie
+dar, was überhaupt über die \enquote{Skriptorien} an den europäischen Klöstern
+nachgewiesen ist. Dieser Fokus auf die Herstellungsprozesse hebt das
+Buch von anderen Werken zu diesem Thema ab. Während Beispiele
+mittelalterlicher Handschriften in vielen Büchern -- von \enquote{Coffee Table
+Books} bis zu wissenschaftlichen Arbeiten -- oft präsentiert werden und
+auch die historische Entwicklung der verwendeten Schriften gerne
+dargestellt wird, werden die Fragen, wie diese Bücher überhaupt
+hergestellt werden, zumeist nur kurz angeschnitten -- dann oft mit
+Zitaten von Schreibenden, die sich in den Manuskripten selber beklagen,
+wie anstrengend ihre Arbeit sei.
+
+Was in diesem Buch zu lernen ist, ist, dass die Herstellungsprozesse
+recht anstrengend und unhygienisch waren, beispielsweise wenn bei der
+Produktion von Pergament Urin eingesetzt wurde. Gleichzeitig zeigen die
+verwendeten Materialien auch, wie stark die mittelalterlichen Klöster
+notwendigerweise für einige der Inhaltsstoffe in weitreichende
+Handelsnetzwerke eingebunden waren. Gleichzeitig zeigt Charles, dass die
+Vorstellung von kontinuierlich arbeitenden, extra eingerichteten
+Skriptorien wohl falsch ist. Es gibt nur einige Hinweise (auf dem St.
+Galler Klosterplan und in einigen Texten), aber keine archäologischen
+Funde, die solche nachweisen würden. Wenn, dann existierten sie wohl nur
+für eine bestimmte Zeit. Aber eher scheinen \enquote{schreibende} Mönche
+und Nonnen oft allein gearbeitet zu haben.
+
+Jedes Kapitel des Buches beginnt mit einer erfundenen Geschichte über
+eine Person, die an der spätantiken oder mittelalterlichen
+Buchproduktion beteiligt ist -- immer zum jeweiligen Thema des Kapitels
+passend und basierend auf Personen, deren Existenz nachgewiesen ist,
+also beispielsweise Schreibern und Illustratorinnen, die sich in
+Handschriften selber genannt haben oder, im letzten Kapitel zum Ende der
+Buchproduktion, Johannes Gutenberg. Nach dieser Geschichte wird jeweils
+in einer erzählenden Weise das Thema des Kapitels dargestellt. Dabei ist
+zu merken, dass Charles ein persönliches Interesse an den konkreten
+Herstellungsprozessen hat. Die dazu vorhandenen Kapitel lesen sich
+lebhafter als die anderen und sind teilweise mit Bildern aus der
+Herstellung illustriert, die Charles selber experimentell durchgeführt
+hat. Eine anzubringende Kritik ist, dass in anderen Kapiteln oft auf
+Handschriften als Beispiele für jeweils geschilderte Fakten verwiesen
+wird, ohne dass diese abgebildet werden (oder alternativ auf
+Digitalisate verwiesen wird). Dies scheint eher dem Verlag anzulasten zu
+sein, da diese Manuskripte selbstverständlich alle gemeinfrei sind.
+Davon abgesehen kann man dieses Buch aber sehr als Einführung ins Thema
+empfehlen. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Nikolaizig, Andrea ; Kohl, Annika (2024). \emph{Helene Petrenz und die
+Ernst-Abbe-Bücherei Jena 1865 -- 1899 -- 2023}. Leipzig: Leipziger
+Universitätsverlag, 2024 {[}gedruckt{]}
+
+Helene Petrenz war die Bibliothekarin, welche in Jena in den ersten
+Jahren des 20. Jahrhunderts als Direktorin die dortige \emph{Lesehalle
+und Volksbibliothek} -- Vorgängerin der heutigen \emph{Ernst Abbe
+Bücherei} -- aufbaute. Diese war damals eine der grössten und modernsten
+Volksbibliotheken in Deutschland. Über die Jahre wurde sie deshalb zum
+Beispiel in der volksbibliothekarischen Presse immer wieder
+thematisiert. Und dennoch ist Petrenz selber kaum bekannt, so wie die
+Arbeit der meisten Bibliothekar*innen ausserhalb ihres jeweiligen
+Wirkungskreises für die Nachwelt meist unbekannt bleibt. Dass der
+Förderkreis der heutigen Bücherei diese Publikation über Petrenz
+veranlasste, ist zu begrüssen: Petrenz leistete in einer Zeit, in der
+die Gesellschaft sich rapide veränderte und (bürgerliche) Frauen sich
+ihren Platz in der Arbeitswelt erst erobern mussten, eine
+kontinuierliche, selbstbewusste und wirksame Arbeit.
+
+Die reich bebilderte Publikation basiert auf zahlreichen Quellen von und
+über Petrenz sowie der Volksbibliothek selber. Dabei, so wird im Text
+sichtbar, ist aber auch vieles heute einfach nicht mehr bekannt. Die
+beiden Autorinnen können Einiges über das Leben und Wirken Petrenz
+zeigen, aber wirklich an die Person Helene Petrenz kommen sie nicht mehr
+heran. Diese hat vor allem Quellen über ihre Arbeit, nicht aber über ihr
+Leben hinterlassen. Wir wissen, wo sie geboren wurde, wo sie starb, mit
+wem sie verheiratet war und auch, wie viele Kinder sie hatte. Aber was
+sie dachte, welche Ziele sie hatte, welche Träume und welche Erfolge
+oder Misserfolge -- das wissen wir praktisch nicht mehr. Auch das wird
+für das Leben vielen Bibliothekar*innen gelten. Die
+Bibliotheksgeschichte ist halt fast immer eine Geschichte der
+Einrichtungen und nicht der einzelnen Bibliothekar*innen.
+
+Dennoch ist die Publikation mit Vorsicht zu lesen. Zuerst fällt auf,
+dass der Text nicht so inhaltsreich ist, wie es auf den ersten Blick
+erscheint. Nicht nur ist der Band, wie schon gesagt, mit sehr vielen
+Abbildungen ausgestattet. Auch zitiert der Text an vielen Stellen
+unnötig lang einzelne Statistiken oder Briefe, die zum eigentlichen
+Inhalt wenig beitragen. Am erstaunlichsten ist aber, dass an vielen
+Stellen der Eindruck auftaucht, als wären die Autorinnen -- obgleich
+beide im Bibliothekswesen aktiv -- praktisch nicht mit der Geschichte
+der Volksbüchereien vertraut. Immer dann, wenn es um die Einordnung der
+professionellen Aktivitäten von Petrenz geht, wird der zeitgenössische
+Kontext, welcher für eine solche Bewertung nötig wäre, nicht wirklich
+dargestellt. Die Autorinnen präsentieren zum Beispiel den
+Richtungsstreit -- eine heftig geführte ideologische Auseinandersetzung
+über die Aufgaben und Arbeitsweisen der deutschen und österreichischen
+Volksbüchereien, welche in den 1910er bis 1930er Jahren geführt wurde --
+praktisch nur als eine Auseinandersetzung um das Verhalten einer Person
+(Walter Hofmann) und das auch nur, weil Petrenz einmal einen Offenen
+Brief unterzeichnet hatte, der sich an Hofmann richtete. Sie verorten
+auch die Arbeit der Volksbibliothek überhaupt nicht in der
+\enquote{normalen} Arbeit der damaligen Zeit, können also nirgends
+zeigen, was an der Bibliothek in Jena besonders modern oder gerade nicht
+modern war. Einzig, dass sie als eine der ersten eine Frau als
+Direktorin einsetzte (wenn auch gerade nicht als \enquote{erste Wahl},
+wie im Text dargestellt wird), können sie hervorheben. Erstaunlich ist
+auch, dass sie sich offenbar gar nicht die Frage stellen, wie es in der
+damals aufstrebenden Industriestadt um andere Büchereien (vor allem um
+Arbeiterbibliotheken und Leihbuchhandlungen) stand, so dass bei ihnen
+die Volksbücherei als eine alleinstehende Einrichtung erscheint, nicht
+als Teil einer Landschaft von Büchereien, die sie mit hoher
+Wahrscheinlichkeit war. Sie scheinen bei der -- wie sie schreiben --
+\enquote{Spurensuche} vergessen zu haben, Quellen kritisch zu lesen und
+zu kontextualisieren.
+
+Insoweit ist die Publikation zwar zu begrüssen und vermittelt mit den
+Abbildungen auch tatsächlich ein \enquote{Bild} der damaligen Arbeit in
+der Volksbibliothek in Jena. Das Leben von mehr Bibliothekar*innen
+sollte so sichtbar gemacht werden. Es ist gewiss auch ein Beitrag zur
+Stadtgeschichte Jenas. Aber als Beitrag zur Bibliotheksgeschichte ist
+sie kritisch zu sehen. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Wolcott, Renée (2022). \emph{Preserving Useful Knowledge: A History of
+Collection Care at the APS Library}. (Transactions of the American
+Philosophical Society, Volume 111, Part 1.) Philadelphia: American
+Philosophical Society Press, 2022 {[}gedruckt{]}
+
+Die Autorin ist aktuell eine der Bibliothekar*innen, welche mit dem
+Erhalt und der Reparatur der Bestände in der Bibliothek der American
+Philosophical Society beauftragt ist. Dies ist eine der ältesten
+wissenschaftlichen Vereinigungen in den USA, gegründet einige Jahre vor
+der US-amerikanischen Revolution, unter anderem von Benjamin Franklin.
+Die ältesten Bücher und Manuskripte der Sammlung stammen aus dieser
+Gründungszeit. Das Buch stellt die Ausarbeitung eines längeren Vortrags
+vor, in dem die Autorin die Geschichte ihre Vorgänger*innen und deren
+Arbeit darstellte. Unterteilt in vier Hauptkapitel tut sie dies dann
+auch in dieser Publikation. Im ersten Kapitel werden Buchbindearbeiten
+im ersten Jahrhundert der Bibliothek bis Mitte des 19. Jahrhunderts
+vorgestellt, im zweiten einzelne Buchbinder*innen und Restaurator*innen
+sowie deren Arbeit. Nicht zu allen liegen heute viele biographische
+Angaben vor. Schwierig ist auch, dass sich erst in den letzten
+Jahrzehnten etabliert hat, dass bei solchen Arbeiten jeweils genau
+dokumentiert wird, warum ein Buch oder Manuskript repariert und wie
+dabei vorgegangen wurde. Daher muss die Autorin immer wieder Spuren
+früherer Arbeiten an den Medien durch Autopsie interpretieren. Sie ist
+dabei immer wertschätzend gegenüber ihren Vorgänger*innen, stellt aber
+auch mehrfach dar, dass diese viele Entscheidungen trafen, die bei der
+heutigen Restaurierungsarbeit nicht mehr getroffen werden würden. Dann,
+im dritten Teil, werden relativ aktuelle Reparaturen vorgestellt,
+inklusive bildlicher Darstellungen. Hier können die Leser*innen
+praktisch einen Einblick in die Werkstatt von Buch- und
+Papierrestaurator*innen erhalten. Im abschliessenden vierten Kapitel
+gibt die Autorin nochmal einen Überblick darüber, welche Entscheidungen
+getroffen werden müssen, wenn ein Bestand, wie der von ihr betreute,
+langfristig erhalten werden soll.
+
+Das Buch erschien in der wissenschaftlichen Publikationsreihe der
+Society und richtet sich offenbar an Personen, die auf der einen Seite
+wohl keinen professionellen Bezug zu dieser Arbeit haben, aber auf der
+anderen Seite nicht davon überzeugt werden müssen, dass sie notwendig
+ist. Sicherlich ist diese Arbeit heute ein Spezialthema des
+Bibliothekswesens. Dieses Buch bietet einen guten Einblick in deren
+Status Quo, wenn auch am Beispiel einer ausserordentlich gut mit
+Ressourcen ausgestatteten Einrichtung. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Pavillon, Olivier (2024). \emph{Les Maisons du Peuple de Lausanne
+(1899-1945).} (Collection Histoire) Lausanne: Éditions Antipodes, 2024
+{[}gedruckt{]}
+
+Maisons du Peuple -- in deutsch \enquote{Volkshaus}, in italienisch
+\enquote{Casa del Popolo} -- waren vor allem in der ersten Hälfte des
+20. Jahrhunderts Orte der Selbsthilfe und Bildungsbestrebungen der
+Arbeiter*innenbewegungen. Oft von Gewerkschaften und linken Parteien,
+aber auch von Einkaufsgenossenschaften und Einzelmitgliedern getragen,
+stellten sie Einrichtungen dar, in denen verschiedene Bildungs- und
+Freizeitaktivitäten stattfanden, Genossenschaften Läden betrieben,
+Gesundheitspraxen für Arbeiter*innen unterhalten wurden und so weiter.
+Sie waren auch Orte der gewerkschaftlichen und politischen Organisation.
+Teilweise waren sie aber auch von Personen aus dem damaligen
+\enquote{bürgerlichen} Spektrum getragen, die etwas für Arbeiter*innen
+unternehmen wollten. Solche Einrichtungen gab es in verschiedenen
+europäischen Städten. In der Schweiz existieren sie heute, wenn auch oft
+mit anderen Funktionen -- vor allem als Gewerkschaftshäuser -- teilweise
+weiter, unter anderem in Lausanne. Dieses kurze Buch beschäftigt sich
+mit der Geschichte der Maison du Peuple in dieser Stadt.
+
+Dabei zeigt der Autor, dass das heutige Maison du Peuple nur eines von
+zweien war. Während das heute noch bestehende in den 1930er Jahren
+direkt von sozialistischen und gewerkschaftlichen Gruppen gegründet
+wurde, war das andere eines, das auf genossenschaftlicher Basis auch von
+\enquote{bürgerlichen} Gruppen und Personen getragen wurde. Der Autor
+schildert, immer in sehr kurzen Kapiteln und unterstützt von vielen
+Abbildungen, die Geschichten der beiden Einrichtungen, der Aktivitäten,
+die in ihnen stattfanden und auch der politischen Auseinandersetzungen
+in ihnen und um sie. Es ist eine sehr lokale Geschichte, die auch
+dadurch unterstützt wird, dass ein Grossteil der Strassen und Adressen,
+die genannt werden, heute noch existieren. Wer sich in Lausanne
+auskennt, kann die ganze Zeit nachvollziehen, auf was für einer doch
+kleinen Fläche sich diese Geschichte abspielte.
+
+Der Rezensent hat dieses Buch nicht nur aus einem lokalhistorischen
+Interesse gelesen, sondern auch, um zu erfahren, ob sich etwas über die
+Bibliotheken der beiden Maison du Peuple lernen lässt. In dieser
+Hinsicht ist das Buch enttäuschend: Schon auf dem Cover findet sich ein
+Bild des ersten Volkshauses. Auf diesem Bild ist unter dem Namen der
+Einrichtung der explizite Verweis auf eine Bibliothek zu finden. Auch im
+Buch taucht diese Bibliothek immer wieder auf. Schon bei der Gründung
+des ersten Hauses wird eine solche angedacht und ein Etat für sie
+bereitgestellt. Immer wieder wird erwähnt, wie wichtig sie war und dass
+die Arbeitsgruppe, welche die Bibliothek betreute, teilweise die grösste
+war. Auch wird erwähnt, dass die Bibliothek mehrfach erweitert und
+modernisiert wurde. Aber es gibt keine konkreteren Informationen. Der
+Autor schreibt über einzelne Vorträge, die in beiden Häusern gehalten
+wurden, über Abstimmungen, über handgreifliche Auseinandersetzung in der
+Bar des zweiten Maison und so weiter. Aber die Arbeit der Bibliothek --
+die ja offenbar im Alltag wichtig war -- thematisiert er nicht. Wie so
+oft scheint diese Bibliothek (oder, so klar ist es nicht, ob es sie im
+zweiten Haus auch gab, vielleicht dieser beiden Bibliotheken) schnell in
+den Hintergrund zu geraten. Irgendwie wichtig, aber offenbar für die
+Geschichtsschreibung doch nicht spannend.
+
+Dabei ist noch heute auffällig, dass die Stadtbibliothek in Lausanne
+eine Filiale direkt neben dem heute noch existierenden Maison du Peuple
+führt. Es wäre interessant gewesen, herauszufinden, ob das Zufall ist,
+ob sie einst eine \enquote{Arbeiterbibliothek} gewesen war, die zur
+städtischen umgewidmet wurde oder ob sie von der Stadt explizit dort
+angesiedelt wurde, um die Bildung der Arbeiter*innen nicht dem
+selbstorganisierten Maison du Peuple zu überlassen. Aber leider schweigt
+das -- sonst recht kurzweilige -- Buch zum Thema Bibliothek. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Hui, Andrew (2025). \emph{The Study: The Inner Life of Renaissance
+Libraries}. Princeton ; Oxford: Princeton University Press, 2025
+{[}gedruckt{]}
+
+In diesem Buch geht es, wie im Titel genannt, um die Bibliotheks-, Lese-
+und Arbeitsräume von Humanisten (immer Männer), um die Gedanken und
+Ängste, die sie in diesen Räumen formulierten und die Netzwerke, die sie
+aus diesen Räumen heraus knüpften. Es geht um Träume und Alpträume.
+Aber: Es ist ein kulturwissenschaftliches Werk, kein rein historisches.
+Es gibt schon frühere Arbeiten, welche die privaten Bibliotheken der
+Humanisten untersuchten, auf die Hui hier aufbaut. Was ihn interessiert,
+sind die Welten, die in den Köpfen der Humanisten entstanden, als sie in
+diesen Privatbibliotheken arbeiteten.
+
+Das alles ist ein Parforceritt durch die Aufklärung und gleichzeitig
+Interpretation von Schlüsseltexten sowie Bildern der damaligen Zeit,
+immer wieder zurückgeführt auf den Raum Bibliothek oder die Sammlung von
+Büchern, mit denen sich die Aufklärer umgaben. Gleichzeitig schreibt
+sich Hui persönlich mit seinen Gedanken in den Text. Innovativ sind die
+Verweise auf ähnliche Diskurse, Denk- und Bildprogramme, wie sie in
+asiatischen Kulturen (hier China und Japan) existierten, die Hui an
+verschiedenen Stellen (aber nicht systematisch) einflicht.
+
+Hui beschreibt sein Buch als Essay und, wohl getreu der
+kulturwissenschaftlichen Herangehensweise, muss man es auch so lesen. Es
+ist keine neue Geschichte der genannten Bibliotheken, sondern eine -- in
+vielen Teilen auch anregende -- Denkübung über Bibliotheken und
+Humanismus. Für diese bietet die Geschichte, hier als chronologische
+Abfolge verstanden, ein Organisationsprinzip, an dem sich entlang
+gehangelt wird. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Blume, Patricia F. (2024). \emph{Die Geschichte der Leipziger Buchmesse
+in der DDR: Literaturtransfer, Buchhandel und Kulturpolitik in
+deutsch-deutscher Dimension}. Berlin, Boston: Walter de Gruyter, 2024,
+\url{https://doi.org/10.1515/9783111317076}
+
+Diese Arbeit stellt die Entwicklung der Leipziger Buchmesse und ihrer
+Vorläufer von 1946 bis 1990, einschliesslich einem Ausblick auf das
+\enquote{Überleben} und \enquote{Neuerfinden} in der Zeit danach, dar, also die Zeit
+nach dem Ende des Zweiten Weltkrieges bis zum Ende der DDR. Das alles
+passiert umfassend, detailliert, teilweise ausschweifend. Quellen sind
+Archivmaterialien, offizielle Veröffentlichungen, Berichte des
+Ministeriums für Staatssicherheit, Interviews mit Beteiligten und mit
+damaligen Besucher*innen. Einige dieser Quellen -- mindestens die
+Interviews mit ehemaligen Besucher*innen -- wurden auch mit Studierenden
+in einem Seminar er- und bearbeitet. Insgesamt ist die Arbeit
+gleichzeitig eine Dissertation, für die sich Detailgenauigkeit anbietet.
+Aber in gewisser Weise stellt diese Fülle an Quellen auch das Problem
+der Arbeit dar: Sie ist über 700 Seiten lang und äusserst genau. Im
+Grunde stellt sie mehrere Bücher dar. Gerade der Abschnitt zur
+Überwachung der Messe durch die Staatssicherheit ist so fokussiert
+geschrieben und umfassend, dass er auch hätte selbstständig erscheinen
+können. Die Detailtreue führt auch dazu, dass bei der Darstellung nicht
+immer klar wird, ob umfassende Entwicklungen geschildert werden oder ob
+es um die inhaltlichen Positionen und Entscheidungen von Einzelpersonen
+geht. Teilweise scheint es in der Darstellung, als wären bestimmte
+Entwicklungen nur aufgrund von Einzelpersonen geschehen. Das alles führt
+dazu, dass die Arbeit die Lesenden stellenweise mit Fakten, Daten und
+Einschätzungen überhäuft. Es stellt sich dann der Eindruck ein, dass es
+notwendig ist, sich \enquote{durch den Text zu kämpfen}, um zwischen den Details
+nicht die grosse Geschichte zu verpassen. Dass eine historische
+Dissertation keine für die breite Öffentlichkeit geschriebene
+Darstellung ist, ist dieser Arbeit anzumerken.
+
+Nichtsdestotrotz ist sie selbstverständlich relevant. Sie zeigt, wie die
+Buchmesse als \enquote{Mustermesse} gegründet wurde, welche die Produktion der
+sowjetischen Besatzungszone widerspiegeln sollte und dabei für den
+Buchbereich an die traditionelle Leipziger Messe für die Buchbranche
+(aber nicht für ein allgemeines Publikum) anknüpfte, die während des
+Zweiten Weltkrieges eingestellt worden war. Es wird sichtbar, wie die
+Messe in der Folge weg entwickelt wurde von einer Veranstaltung, bei der
+vor allem Verlage und Sortimente (also der Buchhandel) miteinander
+verhandelten und Geschäfte machten, hin zu einer Publikumsmesse. Das
+geschah unter anderem, weil sich andere Formen des Buchhandels (neue
+Bestellverfahren) entwickelten. Aber bis zum Ende der DDR geschah es
+auch immer im Rahmen der gesamten Leipziger Messe. Alle Versuche, die
+Buchmesse als eigenständige Veranstaltung zu etablieren, schlugen fehl.
+
+Die Arbeit ist grösstenteils chronologisch aufgebaut -- nur der
+Abschnitt zur Überwachung durch die Staatssicherheit weicht davon ab,
+weil er einem Zeitraum zugeordnet wurde, aber eigentlich für die gesamte
+Zeit der DDR gilt -- und folgt Einteilungen, die sich aus der
+Entwicklung der Buchmesse selber ergeben. Beispielsweise ist der Umzug
+der Messe in ein eigenes Haus der Punkt, an dem ein Kapitel endet.
+Gleichzeitig zeigt die Arbeit, dass die Messe sich auch immer mit der
+allgemeinen Kulturpolitik der DDR (und, da diese immer auch auf die BRD
+bezogen war, auch die der BRD) zusammenhing. Die Schliessungen gegenüber
+Westdeutschland, der Mauerbau, die Ausweisung von Wolf Biermann, die
+Niederschlagung des Prager Frühlings und darauffolgende kulturpolitische
+Entscheidungen, die Angst vor dem \enquote{Übergreifen} der Solidarność sowie
+der Perestroika und auch die vorsichtige Annäherung an die BRD ab den
+1970er Jahren, spielten alle eine Rolle für die Buchmesse. Sie war immer
+als Veranstaltung gedacht, die eine Aussenwirkung haben sollte und
+deshalb zum Beispiel immer daran interessiert war, möglichst viele
+unterschiedliche Länder zu präsentieren und zudem aus der BRD möglichst
+viele Verlage. Gleichzeitig geriet die Messe immer wieder neu in Krisen,
+die regelmässig angegangen werden mussten.
+
+Was in der Arbeit aber auch klar wird, ist, dass der Messe und der
+Literatur von Seiten der DDR-Führung (und der Staatssicherheit) eine
+erstaunlich hohe Wirkung zugeschrieben wurde. Sie musste ständig
+überwacht, ausgehandelt und auf ihren möglichen Einfluss auf die
+DDR-Bevölkerung hin abgeklopft werden. Bibliotheken kommen im Werk
+allerdings nur am Rand vor -- teilweise als Einrichtung, welche die
+Zensur unterstützen, teilweise als Teil der Kund*innen. Ansonsten ist
+dies Literatur-, aber keine Bibliotheksgeschichte. (ks)
+
+\section{4. Weitere wissenschaftliche Medien (Konferenzberichte,
+Abschlussarbeiten)}\label{weitere-wissenschaftliche-medien-konferenzberichte-abschlussarbeiten}
+
+{[}Diesmal keine Beiträge{]}
+
+\section{5. Populäre Medien (Social Media, Zeitungen, Radio,
+TV)}\label{populuxe4re-medien-social-media-zeitungen-radio-tv}
+
+Knibbs, Kate (2023). \emph{The Battle Over Books Could Change AI
+Forever.} In: Wired, 04.09.2023,
+\url{https://www.wired.com/story/battle-over-books3/}
+
+Der Artikel beschreibt, wie es dazu kam, dass ein Datensatz von circa
+196.000 digitalen Büchern als Trainingsgrundlage für eine Vielzahl von
+Large Language Model KI-Anwendungen verwendet wurde. Dabei kommen
+verschiedene Personen zu Wort, die diese Verwendung ablehnen oder
+befürworten. Die ablehnende Position wird vor allem durch
+Urheberrechtsverstöße und die Verletzung der Rechte der Autor:innen
+begründet. Befürworter:innen sehen durch die freie Verfügbarkeit des
+Datensatzes insbesondere die Chancengleichheit kleiner und
+nicht-kommerzieller Anbieter von KI-Anwendungen gewahrt, die sonst durch
+finanzstarke Großkonzerne übervorteilt würden. Der Artikel gibt damit
+einen interessanten Einblick in die Sichtweisen der verschiedenen
+Akteure. (eb)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Savin, Serge (März 2025). \emph{Biblioteket som en varmestue}. In:
+Akademikerbladet.
+\url{https://dm.dk/akademikerbladet/magasinet/2025/dm-akademikerbladet-nr-1-2025/biblioteket-som-en-varmestue/}
+
+In der Mitgliederzeitschrift \emph{Akademikerbladet} der dänischen
+Gewerkschaft DM wird über die Herausforderungen im Umgang mit
+auffälligen Personen in öffentlichen Bibliotheken aus Sicht des
+Bibliothekspersonals berichtet. Ausgangspunkt ist eine Umfrage der
+Gewerkschaft, nach der 90 \% der Beschäftigten Unruhe, Geschrei und
+unangemessenes Verhalten erlebt haben, davon 50 \% mindestens einmal
+täglich oder wöchentlich. Diese gehen vor allem von Obdachlosen,
+psychisch Erkrankten und anderen benachteiligten Personengruppen aus.
+Sie treffen in der Regel auf unvorbereitetes Bibliothekspersonal, das
+nicht dafür ausgebildet ist, mit solchen Konfliktsituationen umzugehen.
+Am Beispiel der Bibliothek Næstved werden Anpassungsstrategien
+diskutiert, die sowohl die Sicherheit des Personals (Dienstausweise mit
+integrierten Notrufknöpfen, Fluchtwege für das Personal,
+Videoüberwachung) als auch bauliche Veränderungen zur Verhinderung von
+Vandalismus (Wegfall der Waschbecken in den Toiletten zugunsten einer
+zentralen Waschgelegenheit auf dem Flur) umfassen. Besonders
+erfolgversprechend erscheint der Einsatz von sogenannten
+\enquote{relationsmedarbejder}, die über eine sozialpädagogische
+Ausbildung verfügen. Sie sprechen Personen mit auffälligem Verhalten an,
+vermitteln sozialpsychologische Unterstützungsangebote der Kommune und
+ziehen gegebenenfalls die Polizei hinzu. In den Kopenhagener
+Stadtteilbibliotheken in Vesterbro konnte so die Zahl der Vorfälle um 60
+\% gesenkt werden, so dass nun auch in Nørrebro
+\enquote{relationsmedarbejder} eingesetzt werden. Auch in Næstved wird
+auf die Zusammenarbeit mit Streetworkern und Polizei gesetzt. Die
+Gewerkschaft DM unterstützt ihre Mitglieder mit virtuellen
+Konfliktseminaren und setzt sich bei den Bibliotheksleitungen für mehr
+Sicherheit ein. (nj)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Redaktion back-aktuell, js (15.04.2025). \emph{\enquote{Dies ist ein Werk mit
+umstrittenem Inhalt}: Autor muss Warnhinweis einer Bücherei dulden.} In:
+beck-aktuell. Heute im Recht.
+\url{https://rsw.beck.de/aktuell/daily/meldung/detail/vg-muenster-1l5925-einordnung-hinweis-buch-gerechtfertigt-stadtbuecherei}
+
+Im Blogeintrag wird kurz über einen Beschluss des Verwaltungsgerichts
+Münster berichtet. Ein Autor hatte in einem Eilverfahren verlangt, dass
+ein Hinweis entfernt wird, den die Stadtbücherei Münster in einem von
+ihm verfassten Buch angebracht hatte. Es wurde darin auf den
+umstrittenen Inhalt des Buches, das insbesondere auch die
+Atombombenabwürfe in Hiroshima und Nagasaki bestreitet, hingewiesen.
+
+Das Verwaltungsgericht entschied, dass dieser Hinweis zulässig ist. In
+der Begründung wurde dabei auf die folgenden Punkte verwiesen: 1)
+Bibliotheken können inhaltlich durch Empfehlungen oder durch Kritik zu
+ihren Medien Stellung beziehen. 2) Bibliotheken haben einen
+Bildungsauftrag, der durch das reine Verleihen von Büchern nicht gedeckt
+sei. 3) Die Bibliothek sei nicht verpflichtet, gegenüber dem Autor
+neutral zu sein. 4) Die Bibliothek sei dem Sachlichkeitsgebot gefolgt,
+da der Hinweis auf Tatsachen beruhe. (eb)
+
+\section{6. Weitere Medien}\label{weitere-medien}
+
+\emph{Case Tracker: Artificial Intelligence, Copyrights and Class
+Actions},
+\url{https://www.bakerlaw.com/services/artificial-intelligence-ai/case-tracker-artificial-intelligence-copyrights-and-class-actions/}
+(abgerufen: 16.12.2024)
+
+Auf dieser Seite bietet eine amerikanische Anwaltskanzlei eine laufend
+aktualisierte, detailreiche Übersicht über laufende Gerichtsverfahren
+zum Thema KI und Copyright. Dies beschränkt sich zwar auf die
+Vereinigten Staaten, aber da die einschlägigen Konzerne dort ihren Sitz
+haben, gibt es potentiell Auswirkungen für den gesamten KI-Markt. (eb)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Harington, Robert (2024). \emph{A Dissonance of Ideals: Openness,
+Copyright, and AI}. In: The Scholarly Kitchen, 25.11.2024,
+\url{https://scholarlykitchen.sspnet.org/2024/11/25/robert-harington-attempts-to-reveal-inherent-conflicts-in-our-drive-to-be-as-open-as-possible-authors-need-to-understand-their-rights-and-a-librarys-mandate-to-provide-their-patron/}
+
+Der Artikel diskutiert -- unter dem Stichwort der kognitiven Dissonanz
+-- eine Zwickmühle, in der sich Bibliotheken befänden, die mit den neuen
+Tatsachen der KI-Anwendungen konfrontiert sind. Auf der einen Seite
+setze man sich im Zuge der Open-Access-Bewegung dafür ein, dass
+Autor:innen ihre Publikationen so offen wie möglich verbreiten und
+gleichzeitig die Rechte an ihren Werken weitestmöglich wahren. Auf der
+anderen Seite würden die Anbieter von KI-Anwendungen und eben auch das
+der KI zugrundeliegende technische Prinzip eben diese Rechte der
+Autor:innen routinemäßig verletzen. Gleichzeitig sollen Bibliotheken
+ihren Nutzer:innen bestmögliche Unterstützung bei Forschung und
+Recherche bieten und kämen dabei früher oder später nicht um
+KI-Anwendungen herum.
+
+Der Artikel bietet keine Lösung für diese widersprüchlichen Prinzipien,
+verweist aber auf erste, punktuelle Anstrengungen zur Behebung des
+Problems und weitere Rahmenbedingungen und Informationsressourcen. (eb)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Jasper Franz T. Mapa: \emph{Pirates of the Academe: A Critical
+Criminological Analysis of Intellectual Property Laws Criminalizing
+Filipino College Students Using Pirated Papers from Sci-Hub.} Manila: De
+La Salle University Publishing House. 2024. Asia-Pacific Intellectual
+Property Management and Innovation Book Series. 3.
+\url{https://animorepository.dlsu.edu.ph/apipmibookseries/3}
+
+Die Studie untersucht am Beispiel von Sci-Hub die Nutzung von
+Schattenbibliotheken durch Studierende in den Philippinen. Sie kommt zu
+dem Ergebnis, dass die Nutzung aus juristischer Sicht zwar gesetzlich
+untersagt ist (\emph{malum prohibitum}), aber nicht inhärent unrecht ist
+(\emph{malum in se}). Die Angebote tragen sogar zu einer mitunter
+gewünschten besonderen Verbreitung von Inhalten aus Kunst und
+Wissenschaft bei, so dass sie aus der Perspektive unterschiedlicher
+Interessen reflektiert werden müssen. Sie erfolgt in der Praxis der
+Studierenden aus dem Bedarf heraus, für die wissenschaftliche Ausbildung
+relevante Quellen einsehen und zitieren zu können. Der Bedarf ist
+besonders ausgeprägt, wenn aus sozioökonomischen Gründen keine andere
+Möglichkeit zum Zugriff auf diese Inhalte besteht. Dies betrifft
+überproportional Studierende in Ländern des Globalen Südens. Als
+Lösungen für die sich aus dem Gebrauch von Schattenbibliotheken
+ethischen ergebenden Problemen werden unterschiedliche Ansätze
+vorgeschlagen, unter anderem der Ausbau von Open-Access- beziehungsweise
+alternativen Publikationsmodellen; gegebenenfalls verzögerte
+Open-Access-Publikation nach einem zeitlichen Embargo, eine stärkere
+auch forschende Problematisierung von Zielkonflikten zwischen
+Urheberrecht beziehungsweise Intellectual Property und den
+Zugangsinteressen. (bk)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Rhea Nayyar (2025): \emph{Historic Buildings Destroyed in Southern
+California Blazes}. In: Hyperallergic / News. 08. Januar 2025.
+\url{https://hyperallergic.com/982535/it-looks-like-a-bomb-exploded-la-artists-grapple-with-loss-as-fires-rage/}
+
+Während des Palisades Fire brannte im Januar 2025 in Pacific Palisades,
+Los Angeles die dortige Palisades Branch Library, Zweigstelle der Los
+Angeles Public Library, vollständig nieder. (bk)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Lisa Yin Zhang (2025): \emph{Raquel Rabinovich, Artist of Submerged
+Worlds, Dies at 95}. In: In: Hyperallergic / Obituaries. 10.01.2025.
+\url{https://hyperallergic.com/982551/raquel-rabinovich-artist-of-submerged-worlds-dies-at-95/}
+
+Am 05. Januar 2025 starb die aus Argentinien stammende Künstlerin Raquel
+Rabinovich, zu deren Zentralwerk die Langzeitserie \enquote{River
+Library} gehört, eine Serie von Zeichnungen auf handgeschöpftem Papier,
+für die sie den Schlamm aus verschiedenen Flüssen als Material
+verwendet. Im Schlamm und seiner Eigenschaft als Schichtung sowohl als
+Lebensraum als auch von totem Material sah sie die Erdgeschichte und die
+der Menschheit kumuliert. (bk)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+o.A. (2025): \emph{\enquote{Bibliothek der Dinge} für blinde Kinder
+eröffnet}. In: Deutschlandfunk / deutschlandfunk.de. 07.01.2025
+\url{https://www.deutschlandfunk.de/bibliothek-der-dinge-fuer-blinde-kinder-eroeffnet-104.html}
+
+Die in Marburg ansässige Deutsche Blindenstudienanstalt e. V. (blista)
+eröffnete, wie verschiedene Medien melden, Anfang Dezember 2024 die
+erste \enquote{Deutsche Blinden-Mediathek}. (bk)
+
+%autor
+
+\end{document}

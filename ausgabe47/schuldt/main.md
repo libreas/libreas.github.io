@@ -1,0 +1,1099 @@
+Der Zugang zur Waldhandschrift ist nicht ganz einfach -- und das ist so
+gewollt. Sie ist eine in der Stiftsbibliothek St. Gallen verwahrte
+Handschrift. Um sie einzusehen, muss man sich beim Stiftsbibliothekar
+anmelden, um dann, nach der Bestätigung, persönlich am vereinbarten Tag
+(nicht am Wochenende und nicht in der Mittagspause) in St. Gallen zu
+erscheinen. Das gilt auch für die anderen Codices und alle vor 1900
+produzierten Medien, die in der Bibliothek vorhanden sind. Aber im
+Gegensatz zu diesen ist die Waldhandschrift recht aktuell. Die
+Stiftsbibliothek selber ist bekannt für die mittelalterlichen
+Handschriften, die sie verwahrt, und für ihren barocken Bibliothekssaal,
+der in fast allen Kalendern über die schönsten Bibliotheken der Welt
+abgebildet wird. Die Waldhandschrift hingegen wurde erst 1985--1987
+erstellt (was jetzt allerdings auch schon fast vierzig Jahre her ist).
+(Scapatetti & Schäffel 1991)
+
+Ihr vorangestellt ist eine Präambel, die in den vier schweizerischen
+Landessprachen (Deutsch, Französisch, Italienisch, Rätoromanisch)
+weitere Nutzungsbedingungen festlegt. Unter anderem soll die Handschrift
+allen zugänglich sein, aber sie soll nicht in Vitrinen ausgestellt
+werden (Waldhandschrift 1987: 2f.). Und sie darf nicht mechanisch
+vervielfältigt werden (Waldhandschrift 1987: 2f.). Es geht darum, dass
+die Handschrift gelesen, vorgelesen und abgeschrieben wird. Explizit
+wird in der Präambel geschrieben, dass sie sich so verbreiten und zum
+aktiven Handeln motivieren soll. Sie soll Aufwand machen. Es soll nicht
+trivial sein, sie zu konsumieren.[^1]
+
+### Die Waldhandschrift als Objekt
+
+April 2025. Im Lesesaal der Stiftsbibliothek St. Gallen liegt die
+Waldhandschrift für mich aus. «Saal» scheint ein wenig der falsche Name
+für diesen Raum zu sein. Er hat zwei grosse Tische mit acht
+Arbeitsplätzen. Buch- und Zeitschriftenregale sind in den Wänden
+eingelassen, und er ist auch sonst mit ausgesuchten Gegenständen
+ausgestattet. Zwei Holzstatuen von Mönchen stehen auf den Schränken (ich
+denke, es sind Benedikt von Nursia und St. Gallus, aber katholische
+Ikonographie ist wirklich nicht meine Expertise). Zwischen ihnen steht
+ein aufgeklapptes Triptychon, welches im Mittelteil die Kreuzigung Jesus
+zeigt. Es ist klar, dass ich mich in einem ehemaligen
+Benediktinerkloster befinde. Aber im Gegensatz zum bekannten
+Bibliotheksraum gleich nebenan, hinter einer der Türen, scheint der
+Lesesaal doch recht klein. Eine Art Klause.
+
+Die Waldhandschrift ist explizit als Codex gestaltet, nach dem Vorbild
+der spätmittelalterlichen Codices, die in der Stiftsbibliothek lagern.
+(Scrapatetti & Schäffel 1991) Ihre Seiten bestehen aus Pergament, nicht
+aus Papier. Der Codex ist von einer Anzahl von Skriptor\*innen händisch
+geschrieben worden. Er ist -- wenn man die gebräuchlichen Bezeichnungen
+für mittelalterliche Schriften anlegt -- ein Folioband. (Der Katalog der
+Stiftsbibliothek gibt die Grösse an als: 36 × 28 cm, also etwas kleiner
+als das heutige DIN A3 mit seinen 42 × 29,7 cm.) Einige wenige Seiten
+sind leer. Initialen, Verzierungen und Miniaturen sind von einem
+Buchkünstler direkt auf das Pergament gemalt worden. Hier und da finden
+sich Glossen. Verwendet wurden explizit Schriften, die im
+Spätmittelalter auf dem Gebiet der heutigen Schweiz verbreitet waren:
+vor allem gebrochene Schriften, aber auch einige Buchkursive und
+Beispiele der sogenannten «humanistischen Schrift» (siehe Scarpatetti
+2022: 55ff.). Für die Schrift wurden -- wie in klösterlichen
+Handschriften des Mittelalters üblich -- die Farben schwarz und rot
+verwendet.[^2]
+
+Wie von den Nutzungsbedingungen der Stiftsbibliothek und in der Präambel
+vorgegeben, habe ich nur Papier und Bleistift mit in den Raum genommen.
+Mache keine Photos. Lese und schreibe ab. (Aber wenn ich mich an den
+Geist der Präambel halte, kann ich diese Abschriften nicht zitieren,
+sondern muss sie bei Bedarf wohl wieder abschreiben und als Brief
+verschicken oder direkt übergeben.)
+
+Ich blättere die Waldhandschrift durch, lese sie. Dabei hilft mir, dass
+ich gebrochene Schriften und Kursive lesen gelernt habe -- ohne das
+würde ich wohl weniger entziffern können. Es hilft auch, dass ich die
+Landessprachen zumindest alle lesen kann. Auffällt, dass erstaunlich
+viele Texte in Rätoromanisch abgefasst sind. Als Bündner, also Bürger
+des Kantons Graubünden, freut mich das. Diese Sprache ist Teil dessen,
+was meinen Kanton besonders macht. Aber gleichzeitig: Wie viele Menschen
+werden das verstehen können? Gleichzeitig finde ich nur wenige
+italienische Texte. Eine ganze Anzahl der Texte, aber nicht alle, sind
+zugleich in eine der anderen Landessprachen -- meist ins Deutsche --
+übersetzt, was sie zumindest etwas mehr zugänglich macht.
+
+Die Waldhandschrift ist ein zusammenhängendes Werk: Sie hat ein Thema,
+den Wald und das Waldsterben. Das Pergament hat immer das gleiche Format
+(soweit das bei Pergament möglich ist, also immer mit leichten
+Unebenheiten, Kanten und auch Eigenheiten der jeweiligen einzelnen
+Seite, beispielsweise leicht unterschiedlicher Farbe und Stärke). Die
+Qualität des Schriftbildes und der Illustrationen ist
+gleichbleibend.[^3] Sie ist also nicht einfach ein Codex, in dem ganz
+verschiedene Handschriften zusammengebunden wurden. Sie ist aber auch
+gerade kein mittelalterliches Werk. Es gibt zum Beispiel ein
+Inhaltsverzeichnis und ein Register der Autor\*innen, was bei
+mittelalterlichen Werken so nicht der Fall war. (Duncan 2021)
+
+Gleichzeitig ist die Waldhandschrift nicht «aus einem Guss». Die
+Schriften und die Schriftgrössen, die Ausstattung, teilweise auch das
+Layout, wechseln von Text zu Text. Es ist erkennbar das Werk mehrerer
+Hände. Zudem lässt sie sich einfach blättern, einfacher als das meiner
+Erfahrung nach bei anderen Codices der Fall ist. Sicherlich: Es ist
+Pergament, nicht Papier. Also ist es schwerer. Das führt dazu, mit der
+Handschrift bedächtiger umzugehen als mit einem Buch aus Papier. Aber
+gleichzeitig ist die Bindung relativ neu, ebenso wie der lederne Einband
+sowie der Lederkoffer, welcher für die Lagerung und den möglichen
+Transport der Waldhandschrift geschaffen wurde.
+
+Was mich interessiert und warum ich eigentlich hier bin: Das ist dieses
+Objekt Waldhandschrift -- als Objekt. Als eine Art Kunstwerk, als Medium
+in einer Bibliothek, als ökologisches Werk, kurzum: als eine Art Enigma.
+
+### Im Rheintal
+
+7469 vor unserer Zeitrechnung, plus/minus zwei Jahre, stürzte ein Berg
+im Rheintal. Die Trümmer stapelten sich und führten den Fluss, der heute
+Vorderrhein beziehungsweise (im lokalen Dialekt des Rätoromanischen)
+Rein Anteriur heisst, höher, als er zuvor floss. Die Felsen ragen jetzt
+steil und schroff nach oben. Der Boden ist mit Steinen bedeckt. Ein Teil
+dieser Fläche ist heute Naturschutzgebiet. Aber ein anderer Teil --
+zwischen dem Bahnhof Versam-Safien und dem Bahnhof Valendas-Sagogn --
+lässt sich erwandern. Auf diesem Weg läuft man grundsätzlich am Fluss
+entlang, auch wenn man dabei einige Dutzend Höhenmeter überwindet.
+
+Im Sommer ist dies, aus guten Gründen, ein beliebter Wanderweg: Er ist
+leicht herausfordernd, aber nicht unüberwindbar. Der Ausblick ist
+teilweise spektakulär. Es gibt eine Stelle, wo man ganz am Rand eines
+Felsens steht und die ganz mit Steinen bedeckt ist. Einige Meter
+darunter fliesst, an diesem Ort in ein engeres Flussbett gedrängt und
+deshalb noch mächtiger als anderswo, der reissende Fluss. Gegenüber, am
+anderen Ufer, steht ein Felsen, an dem die Bruchstellen des Bergsturzes
+direkt sichtbar sind. So sieht es zumindest für mich aus. Ganz auf Höhe
+des Flusses ist dort eine grosse, leere Höhle. Ein dunkles, fast
+schwarzes Loch im grauen Felsen. Höher als ein Mensch. Wer daran glaubt,
+dass die Natur belebt ist, wird diese Mächte dort fühlen. Praktisch
+immer finden sich an dieser Stelle Steinhaufen, die so aufgeschichtet
+sind, als wären sie Hinterlassenschaften von Ritualen -- als würden
+einige Menschen sich dazu gedrängt fühlen, sie genau an diesem Ort zu
+errichten. So ist die Landschaft dort.
+
+Ich gehe diesen Weg auch zu anderen Jahreszeiten oft. Versam-Safien ist
+keine halbe Stunde von meinem Wohnort entfernt. Über die Jahre ist diese
+Strecke für mich zu einem Ort geworden, um den Kopf freizubekommen. An
+einer Stelle, recht früh auf dem Weg, steht man praktisch direkt neben
+dem gestürzten Berg. Auf der einen Seite der Felsen, gerne
+hundertfünfzig Meter hoch, reiner Stein mit sichtbaren Bruchstellen. Auf
+ihm wachsen Bäume, die in ihrem ganzen Leben nie von Menschen berührt
+werden, weil sie so unerreichbar sind. Auf der anderen Seite der
+schäumende Fluss. Wenn niemand anders auf dem Weg ist, wenn das Wetter
+noch nicht oder nicht mehr perfekt ist, dann ist diese Stelle die Beste
+auf dem ganzen Weg. Hier bleibe ich immer stehen und sehe dem Berg beim
+Zerfallen zu.
+
+Wenn man ruhig ist, wenn man nur steht und zuschaut, dann hört und sieht
+man es nämlich: kontinuierlich weiter fallende Steine. Keine grossen
+Brocken. Manchmal fast Steinstaub, aber gelegentlich auch kleine Steine.
+Oft ist hier nichts zu hören, als das fliessende Wasser und die Steine,
+die auf schon vor ihnen gefallenen Steinen aufschlagen. Tag und Nacht,
+zu jeder Uhrzeit. Denn das ist etwas, was man in den Bergen mit ihren
+sagenhaften Ausblicken oft vergisst: Sie bewegen sich, verändern sich.
+Der Bergsturz im Rheintal ist auch jetzt, rund 9500 Jahre später, noch
+nicht wirklich vorbei. Er ist immer noch im Gang und wenn er einmal
+aufhört, wenn der Berg also ganz gestürzt ist (falls das je passieren
+wird), dann werden wir alle nicht mehr da sein. Schon lange nicht mehr.
+
+Man fühlt sich hier schnell irrelevant. Nicht nur man selber, sondern
+die ganze Menschheit fühlt sich hier, am stürzenden Berg, irrelevant an.
+Kein Wunder, dass Menschen Steinhaufen bauen und versuchen (vielleicht),
+sich mittels Ritualen mit den hier wirkenden Kräften gut zu stellen.
+
+### Eine Beschreibung der Waldhandschrift
+
+Inhaltlich geht es in der Waldhandschrift um das Sterben der
+schweizerischen Wälder -- in der damaligen Gegenwart Mitte der 1980er
+Jahre, aber auch in den Jahrzehnten zuvor und in Zukunft. Sie ist auch
+ein Aufruf zur Tat, zur Rettung dieser Wälder. In einigen Texten geht es
+auch um die Rettung aller Wälder der Welt. Aber die Waldhandschrift, ihr
+Inhalt und ihre Gestaltung sind lokal verankert: Die Verwendung der vier
+Landessprachen und die Texte, welche alle von schweizerischen
+Autor\*innen stammen, verorten sie konkret in diesem einen Land.[^4] Die
+Skriptor\*innen, der Buchmaler, der Hersteller des Pergaments -- sie
+alle sind zum Zeitpunkt der Erstellung der Waldhandschrift in der
+Schweiz verortet. Auch der Inhalt ist schweizerisch: Orte, die genannt
+werden, sind praktisch immer schweizerische. Verweise auf politische
+Entscheidungen sind immer Verweise auf solche, die in der Schweiz
+getroffen werden sollen. Sie wurde 1987 bei einer Art Ritual auf dem
+Rütli bekannt gemacht. (Das Rütli ist eine Wiese mit hoher symbolischer
+Bedeutung für die schweizerische nationale Identität. Auf ihm wurde dem
+Mythos, beziehungsweise einer alten mittelalterlichen Chronik nach, 1291
+durch drei Kantone die Eidgenossenschaft gegründet. Seit dem 19.
+Jahrhundert wird das Rütli immer wieder als Ort von Ritualen mit Bezug
+auf die Schweiz genutzt, und zwar aus fast allen politischen
+Richtungen.)
+
+Ebenso ist die Gestaltung der Handschrift als Objekt, das auf die
+spätmittelalterliche Schriftkultur der mitteleuropäischen Klöster
+verweist, eine lokale Verortung. Sie ist intentional: Es wäre zum
+Beispiel möglich gewesen, auf die Schriftkulturen anderer Regionen
+zurückzugreifen. Oder, in der Schweiz, auch auf Schriftkulturen aus
+anderen Zeiten, vielleicht die des römischen Reiches oder die der
+Renaissance. Aber es ging offenbar darum, ein schweizerisches Objekt zu
+gestalten, kein internationales; eines, das mehr mit der Schweiz zu tun
+hat als mit der «weiten Welt», welche mit einem Rückgriff auf das
+römische Reich oder auf die Zeit der Omnipräsenz französischer Kultur
+während der Renaissance wohl eher aufgerufen worden wäre. Deshalb liegt
+sie im Kloster in St. Gallen und nicht irgendwo anders.[^5]
+
+Es gibt bislang keine literaturwissenschaftliche Auseinandersetzung mit
+dem Inhalt der Waldhandschrift -- und angesichts dessen, dass dem Geist
+der Präambel folgend nicht direkt aus ihr zitiert und sie nicht einfach
+kopiert werden kann, ist es auch schwierig, sich vorzustellen, wie dies
+passieren sollte. Deshalb vielleicht sind die Verweise auf den Inhalt,
+die sich in einigen wissenschaftlichen Texten und vielen Presse- und
+Magazinartikeln über die Waldhandschrift finden, recht oberflächlich: Es
+gehe um den Wald und das Waldsterben. (Siehe zum Beispiel Ochsenbein
+1987) Mehr wird sonst eigentlich nicht gesagt. Das Thema selber war
+nicht so überraschend: Vielmehr stand es Mitte der 1980er Jahre (auch)
+in der Schweiz auf der politischen Tagesordnung. Nicht nur bei
+Umweltschutzverbänden, sondern auch in der Gesamtgesellschaft und
+Politik galt das Waldsterben als eine ernsthafte Gefahr, der aktiv
+begegnet werden müsse. Dazu trug auch das «Europäische Umweltjahr» 1987
+bei, an dem sich die Schweiz -- obgleich nicht Mitglied der Europäischen
+Union -- beteiligte. (Brändli et al. 1987) Die Beweggründe und Analysen
+für das jeweilige Engagement waren damals sehr unterschiedlich. Aber
+dass das Thema Bedeutung hatte, ist im Rückblick schon durch die damals
+von zahlreichen Stellen publizierten Gutachten, Analysen,
+Forderungskataloge und Aktionsvorschläge nachzuvollziehen. (Zum Beispiel
+Aegerter & Leder 1984, Schweizerische Gesellschaft für Umweltschutz
+1984, Schweizerischer Bund für Naturschutz et al. 1985, Burkhard 1986)
+
+Zur Waldhandschrift werden auch immer wieder die gleichen Daten
+angegeben: 123 Autor\*innen seien mit Texten vertreten, 33
+Skriptor\*innen hätten sie geschrieben, ein Buchmaler hätte gemalt und
+ein Lederer hätte das Pergament geliefert. (Siehe Scrapatetti & Schäffel
+1991, aber auch an vielen anderen Stellen, zum Beispiel immer wieder in
+Meyer & Welti 2016) Diese Zahlen klingen recht «magisch» (1-2-3, zweimal
+die drei) und sind vielleicht auch so gemeint -- so wie in
+mittelalterlichen Quellen eine Zahl oft etwas anderes bedeutet, als die
+angegebene Menge oder wie in der Bibel «40 Jahre» nicht wirklich 40
+Jahre heisst, sondern «eine lange Zeit». Ich nämlich komme beim
+Nachzählen in der Waldhandschrift auf leicht andere Zahlen, die nicht so
+«magisch» klingen: Es sind 138 Autor\*innen, die mit Namen erwähnt
+werden, zudem gibt es Briefe von 30 Kindern (die teilweise mit einem
+Vornamen erwähnt, teilweise nur «ein Kind» genannt werden) sowie 20
+anonyme Texte. Skriptor\*innen zähle ich 37 bis 39, die sich selber
+namentlich erwähnen.[^6] Hinzu treten viele Texte, bei denen keine
+Skriptor\*innen erwähnt sind.
+
+Was steht in den Texten selber? Wie sind sie zu lesen? Zuerst fällt auf,
+dass sie -- mit einer Ausnahme -- allesamt recht kurz sind.
+Grösstenteils sind es literarische Texte, vor allem Gedichte, sehr kurze
+Erzählungen oder Reflexionen über den Zustand der Wälder und der Welt.
+(So auch dargestellt in Scrapatetti & Schäffel 1991.) Ein Beitrag
+besteht aus anonymisierten Kinderbriefen an die schweizerische Politik.
+(\[Das sind Briefe und Wünsche, welche um des Waldes Willen...\],
+Waldhandschrift 1987: 123--128) Insgesamt geht es in den Texten vor
+allem um Beschreibungen, also um das Feststellen des Status quo in den
+1980er Jahren. Aber wirkliche Aufrufe zu irgendeiner konkreten Tat, eine
+tiefergehende Analyse der Situation und der gesellschaftlichen
+Möglichkeiten, den Wald «zu retten», findet sich fast nicht.[^7]
+
+Nur wenige Beiträge weichen davon ab. Der bei Weitem umfangreichste Text
+(mit elf Textseiten) stellt in Form eines Manifests den Plan für ein
+Dorf dar, welches so konstruiert wurde, dass es den Wald nutzt, ohne ihm
+zu schaden. (\[Silvania das Oekodorf\], Waldhandschrift 1987: 179--201)
+Heute würden wir es vielleicht ein «Zero Impact Dorf» nennen. Es ist
+offenbar ein Verweis auf andere «Ökotopien», die in den 1980er Jahren
+(und zuvor, aber auch heute[^8]) populär waren: Unter Rückbezug auf das
+Regionale wurde damals immer wieder versucht (nicht nur theoretisch,
+sondern auch in der Praxis), lokale Gemeinschaften des Zusammenlebens
+und Wirtschaftens zu etablieren, oft explizit für eine «überschaubare»
+Gruppe von Menschen und deshalb nicht in einer Grossstadt. Diese
+Gemeinschaften sollten möglichst umweltverträglich sein. Dabei wurde
+auch oft über den Sinn und die Gefahren solcher Lebensweisen
+reflektiert. (Siehe für einen zeitgenössischen Sammelband Greverus &
+Haindl 1984) Der Text in der Waldhandschrift stellt einen (weiteren)
+dieser Pläne dar. Gleichzeitig ist der Beitrag aber auch ein Verweis auf
+den «St. Galler Klosterplan», ein zwischen 819 und 830 unserer Zeit
+entstandener Entwurf für den damaligen Neubau des Klosters St. Gallen,
+welcher alle Funktionen eines Reichsklosters modellhaft aufführt.[^9]
+Die letzte Seite des Textes ist eine Skizze des idealtypischen Plans
+dieses «Oekodorfs», handgemalt in der Zeichensprache, welcher sich auch
+der Klosterplan bediente.[^10]
+
+Die Texte in der Waldhandschrift sind in 14 Bücher unterteilt. Diese
+Bücher beginnen immer mit einer Erwähnung in der Art: «Dieses ist das
+\[...\]te Buch, genannt \[...\]». Einer mittelalterlichen Handschrift
+gemäss ist diese Erwähnung aber nicht einheitlich, sondern bei jedem
+Buch ein wenig abgewandelt und zudem immer wieder in einer anderen
+Landessprache ausgeführt. Zudem wird der Titel des Buches als
+Seitentitel geführt (jeweils pro Seite in einer der Landessprachen). In
+jedem Buch, meist am Ende, findet sich zudem eine «Chronik», in der --
+offenbar mittelalterlichen Vorbildern folgend -- bemerkenswerte
+Ereignisse der (damals) letzten Jahre notiert wurden. Diese Chroniken
+folgen den mittelalterlichen Vorbildern darin, dass sie auf genaue
+Daten, Quellenangaben oder erkennbare Kriterien für die Auswahl
+verzichten. (Alle Chroniken sind anonym, deshalb ist nicht klar, wer sie
+verfasst hat.) Die Texte sind meistens, aber nicht immer, in zwei
+Spalten pro Seite gesetzt. Tabelle 1 zeigt den Aufbau der
+Waldhandschrift.
+
+|  Nummer des Buches | Buchtitel             | Seiten            |
+| :----------------- | --------------------- | -----------------:|
+|                    | Präambel              | 2–3               |
+| 1                  | Der Baum              | 5–22              |
+| 2                  | Die Zeit              | 23–50             |
+| 3                  | Der Wald              | 51–82             |
+| 4                  | Göttin und Gott       | 83–94             |
+| 5                  | Die Frau              | 95–110            |
+| 6                  | Der Mann              | 111–122           |
+| 7                  | Das Kind              | 123–146           |
+| 8                  | Der Tod               | 123–146           |
+| 9                  | Das Tier              | 147–154           |
+| 10                 | Die Erde              | 167–174           |
+| 11                 | Das Dorf              | 175–194           |
+| 12                 | Die Stadt             | 195–206           |
+| 13                 | Die Schweiz           | 207–224           |
+| 14                 | Die Tat               | 225–230           |
+|                    | [Inhaltsverzeichnis]  | 231–234           |
+|                    | [Autor*innenregister] | 234–236           |
+|                    | [Abschlussgedicht]    | Innenseite hinten |
+
+table: Tabelle 1: Inhalt der Waldhandschrift*
+
+Ohne genaue Analyse ist es schwer zu begründen, aber die Texte
+vermitteln immer den Eindruck, explizit in den 1980er Jahren geschrieben
+worden zu sein. Die Sprache ist nicht mehr die, die man heute im
+ökologischen Bereich erwarten würde. Nicht nur wird binär gedacht und
+geschrieben (Mann oder Frau), sondern es wird auch immer wieder als
+Lösung einfach der Verzicht auf bestimmte Dinge angepriesen (auf Konsum,
+auf die Nutzung industriell produzierter Nahrungsmittel, auf das
+Autofahren und auf Flugreisen, aber, anders als heute, offenbar nicht
+auf das Fleischessen an sich). Oder die Rückkehr zu einer vorgeblich
+früher vorhandenen Einheit von Mensch und Natur wird als Lösung
+impliziert. Aber eine übergreifende soziale Utopie oder politische
+Forderungen finden sich nicht. Dagegen spielt die Spiritualität eine
+grosse Rolle -- in einer recht offenen, nicht unbedingt christlichen
+Form, wie schon am Buchtitel «Göttin und Gott» sichtbar wird. Teilweise
+führt das zu Texten, die affirmativ «Wilde» als die naturnäheren,
+besseren Menschen zeichnen -- und dabei rassistische Bilder über diese
+Menschen verbreiten, was heute aus guten Gründen nicht mehr opportun
+ist. (Explizit im anonymen «Das ist die Anrufung der Sioux-Indianer»,
+Waldhandschrift 1987: 89, aber auch an anderen Stellen.) Ebenso
+zeittypisch sind dann auch die konkreten Verweise: So untersagt zum
+Beispiel die Präambel explizit das Photographieren, Faksimilisieren oder
+Drucken der Waldhandschrift (Waldhandschrift 1987: 2f.) -- aber nicht
+die digitale Abbildung, die heute in diese Aufzählung eingefügt würde.
+
+Es scheint so, als wenn es keine expliziten Kriterien dafür gab, wie die
+Texte ausgewählt wurden. Zu diesem Thema verbleiben sowohl die Texte,
+die über die Waldhandschrift veröffentlicht wurden, als auch der
+eigentliche Organisator Beat von Scarpatetti in einem Gespräch mit dem
+Autor, ein wenig im Unklaren.[^11] (Scarpatetti 2025) Es wurden offenbar
+Einladungen an Autor\*innen verschickt, von denen dann viele Texte
+zurücklieferten.[^12] (Scarpatetti 2025) Eine Auswahl und Bewertung
+scheinen nicht stattgefunden zu haben. Soweit aus den Texten selber
+sichtbar wird, scheint es sich jeweils um Arbeiten zu handeln, die
+explizit für dieses Werk verfasst wurden. Die erwähnten Texte aus
+Kinderbriefen stammen von einer Aktion des World Wide Fund for Nature
+(WWF), welcher zudem die Waldhandschrift mitfinanzierte.
+
+Das Ergebnis dieses Prozesses lässt sich auch in weiteren Zahlen
+ausdrücken. Lässt man das Impressum und Texte, die nach 1987 hinzugefügt
+wurden, aus, dann enthält die Waldhandschrift 168 Texte. Davon sind 88
+Gedichte, 32 stellen Reflexionen über den Zustand der Wälder und der
+Welt dar, 19 sind Kurzgeschichten. Zudem gibt es 14 Mal die schon
+erwähnten Chroniken und drei explizite Lieder (zwei davon mit Noten).
+Andere Textformen sind Ausnahmen: Spruch (1x), Prophezeiung (1x),
+Aphorismus (1x), Gebet (1x), die erwähnten Briefe von Kindern (1x),
+Reiseberichte (2x), Essays (2x), Präambeln (2x) und das schon erwähnte
+Manifest (1x).
+
+Wie zuvor dargestellt, sind die vier Landessprachen der Schweiz
+vertreten.[^13] Dabei überwiegt das Deutsche: 109 Texte sind in Deutsch,
+zudem fünf in einem schweizerdeutschen Dialekt und zwei explizit in
+Deutsch und Französisch (im Wechsel innerhalb des Textes) verfasst.
+Französische Texte finden sich 32 Mal, zwei sind zugleich in Französisch
+und Deutsch geschrieben (hier überwiegt jeweils das Französische).
+Rätoromanische Texte finden sich zwölf Mal, italienische vier Mal. Nur
+ein Text (die Präambel der Waldhandschrift) ist in allen vier Sprachen
+verfasst. Schon gesagt wurde, dass einige Texte auch übersetzt sind.
+Sechs deutschen Texten folgen französische Übersetzungen, fünf
+französischen je eine deutsche. Die italienischen Texte sind nicht
+übersetzt, aber alle rätoromanischen liegen auch je in einer deutschen
+Version vor. Wer diese Übersetzungen vornahm, ist nicht immer erkennbar.
+Manchmal waren es explizit die Autor\*innen, aber meist gibt es dazu
+keinen Hinweis. Das alles spiegelt die Sprachlandschaft der Schweiz zum
+Teil wider, insbesondere die hohe Bedeutung des Deutschen. Aber beim
+Rätoromanischen und Italienischen sind die Verhältnisse vertauscht: Das
+Italienische wird viel öfter gesprochen und geschrieben, als in der
+Waldhandschrift repräsentiert, das Rätoromanische weniger. (Bundesamt
+für Statistik 2023)
+
+Für die Skriptor\*innen und die Qualität ihrer Arbeit hingegen gab es
+offenbar klarere Vorgaben. Zwar wird in der Waldhandschrift und der
+dazugehörigen Literatur immer wieder betont, dass sie das Ergebnis der
+Arbeit vieler Menschen war, aber treibende Kraft hinter ihr war der
+schon genannte Beat von Scarpatetti, damals Handschriftenbibliothekar an
+der Stiftsbibliothek St. Gallen. Von Scarpatetti ist Mediävist und
+Experte für mittelalterliche Handschriften. Aber neben seiner
+eigentlichen Arbeit war er (und ist auch weiterhin, trotz Verrentung)
+auch ökologisch engagiert. Zum Beispiel war er Gründer des Vereins «Club
+der Autofreien» (Steiner 2016) und schrieb -- als aktualisierte
+Umarbeitung der ersten helvetischen Verfassung von 1798 -- eine
+«helvetische ökologische Verfassung» (Scarpatetti 1998), welche bei
+Fragen der Umsetzung konkreter ist, als die Texte in der Waldhandschrift
+und in der auch betont wird, dass Ökologie nicht auf ein Land beschränkt
+werden kann, sondern global gedacht werden muss. Für die Waldhandschrift
+entwarf Scarpatetti den Plan, organisierte die Finanzierung und setzte
+die Qualitätskriterien.
+
+Ein Ergebnis der Handschrift war die Organisierung der Skriptor\*innen
+in der Schweiz selber. Diese seien zuvor untereinander nicht in Kontakt
+gewesen, sondern erst für dieses Projekt zusammengebracht worden.
+(Scarpatetti & Schäffel 1991, Scarpatetti 2025) Es ist ohne weitere
+Forschung schwer zu überprüfen, ob dies tatsächlich so war. Aber
+offenbar gab es im Rahmen des Projektes Treffen von Skriptor\*innen in
+St. Gallen, die es vorher nicht gab. Und heute gibt es tatsächlich eine
+-- allerdings erst 1990 offiziell gegründete -- Schweizerische
+Kalligraphische Gesellschaft.[^14] Und es gab, so wieder die Auskunft
+von Beat von Scarpatetti selber, für die Waldhandschrift Regeln dafür,
+was akzeptabel war und was nicht: Die Schriften in der Waldhandschrift
+sollten sich an den Schriften orientieren, die im Mittelalter genutzt
+wurden -- Vorbild waren die Handschriften, die sich in der
+Stiftsbibliothek St. Gallen selber befinden. Es durfte zum Beispiel
+keine «Verschnörkelungen» geben -- warum, ist nicht klar gesagt.[^15]
+Aber zu vermuten ist, dass diese nicht «mittelalterlich» sind, sondern
+erst in den Jahrhunderten später aufkamen.
+
+### As slow as possible, Halberstadt
+
+ORGAN²/ASLSP ist ein 1987 von John Cage geschriebenes Musikstück. Cage
+ist bekannt als Komponist herausfordernder, moderner Musik, insbesondere
+für sein Stück 4ˈ33. In Texten über Cage wird regelmässig geschrieben,
+dass er vor allem Konzepte komponierte. (Metzger 2011, Haskins 2012)
+ORGAN²/ASLSP ist ein solches Konzept und eine Herausforderung. Die
+Notierung ist nur wenige Seiten lang, allerdings ist ASLSP eine
+Abkürzung für *as slow as possible*, was im Gegensatz zu dieser Kürze
+als Aufforderung gemeint ist.
+
+In Halberstadt, am Rand der Altstadt mit den Fachwerkhäusern, steht ein
+aufgelöstes Kloster. Ein Teil seiner Gebäude ist nur noch zum Teil
+erhalten, andere sind renoviert und werden von verschiedenen
+Einrichtungen genutzt. Die Klosterkirche ist ebenso halb zerfallen --
+eine Ruine, die so weit wiederhergestellt wurde, dass der Innenraum vor
+Wetter geschützt ist. Aber ansonsten ist sie leer. Keine Kirchenbank,
+kein Altar, kein Bild von Jesus, Maria oder Heiligen ist zu finden. Der
+Boden ist teilweise Schotter.
+
+In dieser Kirche stehen eine Orgel und zwei grosse Blasebälge. Es ist
+keine Kirchenorgel, sondern ein extra konstruiertes Instrument, in das
+im laufenden Betrieb Pfeifen ein- und ausgeschraubt werden können. Die
+Orgel wird nicht über Tasten bedient. Stattdessen werden Gewichte an die
+Pfeifen gehangen.
+
+Diese Orgel spielt seit 2001 das Stück von Cage -- und zwar durchgehend
+für eine Dauer von 639 Jahren. Das heisst, dass ein Ton durchgehend über
+Monate oder Jahre gehalten wird. Es gab und wird auch weiterhin Pausen
+geben -- weil diese in der Notierung vorgegeben sind --, in denen die
+Orgel keinen Ton macht. Wann die Töne gewechselt werden, also wann
+Pfeifen ein- und ausgeschraubt, Gewichte angehangen oder abgenommen
+werden, ist vorhergesehen. Dies war bislang immer ein Ereignis, das von
+einer Anzahl von Menschen gemeinsam begangen wurde. Aber auch sonst ist
+die Orgel zugänglich.
+
+Als wir die Orgel im Sommer 2024 besuchen, sind wir nicht alleine.
+Gerade spielt sie einen dunklen, stumpfen Ton. Alle, die hier sind, sind
+sehr ruhig und bedächtig. Die Kirche in ihrem halbzerfallenen Zustand
+vermittelt den Eindruck einer ihr eigenen Beständigkeit. Ihre
+eigentliche Funktion ist lange Vergangenheit. Das Kloster wurde 1810
+aufgehoben, die Zahl der Katholik\*innen liegt in Sachsen-Anhalt, wo
+sich Halberstadt befindet, bei gegen 3 %. (Statistische Ämter 2022) Es
+gibt keinen Bedarf für eine Klosterkirche mehr. Und dennoch sind das
+Gebäude und das alte Klostergelände da. Heute hat die Natur vieles
+besetzt. Überall auf dem Gelände blühen Bäume, wachsen Gräser. Die Vögel
+hören nicht auf, Laute zu machen.
+
+Die Kirchruine und die Orgel zwingen praktisch dazu, sich langsam zu
+bewegen, vorsichtig. Zuzuhören. Zuzuschauen. Es ist nur ein Ton, der
+gespielt wird, ohne Veränderung. Aber die Orgel, hier in diesem Raum,
+vermittelt auch ein Vertrauen auf etwas: Dass es möglich sein wird, das
+Stück zu Ende zu spielen. Niemand wird das gesamte Stück in seiner
+gesamten Länge erleben. Wer auch immer, wann auch immer, im Laufe dieser
+639 Jahre vorbeikommt, wird immer nur einen Teil hören können. (Die Töne
+werden einzeln aufgezeichnet und die schon gespielten können auch heute
+auf der Homepage des Projektes abgespielt werden.[^16] Aber das schnelle
+Abspielen ist ja etwas anderes, als eigentlich vorgesehen.)
+
+639 Jahre, an diesem Ort, sind eine lange Zeit. In den 639 Jahren vor
+dem Projekt ist hier nicht nur das Kloster gewachsen, ständig ausgebaut
+und dann doch aufgehoben worden, sondern es sind auch Staaten, die über
+Halberstadt herrschten, entstanden und wieder untergegangen.
+Religionsgemeinschaften sind hier gewachsen und wurden dann praktisch
+vernichtet (die jüdische, wobei deren Spuren in den letzten Jahren
+wieder sichtbar gemacht wurden) oder sind fast ganz eingegangen (die
+christliche, insbesondere in der katholischen Variante). Menschen (und
+Tiere) haben hier gelebt. Halberstadt ist reich geworden, dann in eine
+Krise geraten -- und das mehrfach. All das ist jetzt vorbei und geht
+gleichzeitig weiter. Aber die Kirchenruine steht und die Orgel in ihr,
+die stupende ihren Ton spielt, zwingt den Gedanken auf, dass die Zeit
+der Menschen nur eine individuelle Zeit ist. Dass ihre Probleme und
+Wünsche, Ängste und Freuden lang sind, im Vergleich zum Leben der Vögel
+vor dem Fenster -- aber kurz, sehr kurz im Vergleich zu anderem. Wenn
+Menschen glauben, dass es eine höhere Macht gibt, dann wäre
+verständlich, wenn sie hier den Eindruck hätten, diese zu spüren.
+
+### Das Projekt Waldhandschrift als Kulturkritik
+
+Warum soll man die Waldhandschrift eigentlich nur abschreiben? Fast alle
+Texte über sie und ihre Präambel selber betonen dies. (Und, wie gesagt,
+halte auch mich hier an diesen Wunsch.) Aber: Warum gibt es diesen
+Wunsch eigentlich? Eine Antwort wäre, dass es im europäischen
+Spätmittelalter, auf welches die Handschrift Bezug nimmt, vor allem die
+Möglichkeiten des Lesens, Vorlesens und Abschreibens gab, um eine
+Schrift wirken zu lassen. Dann könnte man die heutigen Möglichkeiten der
+Reproduktion (oder die, welche es Mitte der 1980er Jahre gab), als Teil
+der modernen Entwicklung der Gesellschaft sehen, die nach dem
+Mittelalter einen falschen Weg genommen hat, der jetzt (in den 1980er
+Jahren) dazu führt, dass der Wald stirbt. Die Präambel schweigt sich
+dazu aber aus.
+
+Dies, das Verbreiten von Literatur durch Abschreiben, Lesen und Vorlesen
+in den 1980er Jahren, erinnerte mich, als ich im Lesesaal der
+Stiftsbibliothek die Präambel abschrieb, an die Praxis des Samizdat in
+den sozialistischen Staaten. In der DDR und anderen Ländern war dies
+eine der Möglichkeiten, «unter der Hand», also ohne vom Staat beobachtet
+zu werden, Literatur zu verbreiten. Sowohl solche, die verboten und
+damit «gefährlich», als auch solche, die schwer zu erhalten war, da sie
+zum Beispiel in zu geringer Stückzahl existierte, wurde über Jahrzehnte
+abgeschrieben und weitergegeben. (Allerdings nicht nur per Hand, sondern
+über alle Wege der Reproduktion, die sich damals irgendwie organisieren
+liessen. In Camarade et al. (2023) werden dafür beispielsweise
+Schreibmaschinen, Stempeldruck oder Tonbänder aufgeführt.) Ist das Lesen
+der Waldhandschrift also vielleicht als politischer Akt gedacht, der
+Wissen unterhalb der staatlichen und gesellschaftlichen Strukturen
+verbreiten will?
+
+Oder ist dieses Gebot, die Waldhandschrift selber zu lesen und dann per
+Hand abzuschreiben, eine praktische Kulturübung, die sich auf die
+persönliche Lebenspraxis niederschlagen soll? Soll durch Verlangsamung
+ein ökologischeres, «waldnaheres» Leben ermöglicht werden? Dadurch, dass
+man sich auf den Text, auf die Schrift, konzentriert und dadurch, dass
+man sie langsam reproduziert -- soll man dadurch lernen, auch langsamer,
+achtsamer zu leben? Ist das also eine kulturelle Übung? Wurden deshalb
+vielleicht auch die spätmittelalterlichen Schriften gewählt -- die zu
+lesen für die meisten Menschen heute (oder 1987) eine Anstrengung
+darstellen, weil das gerade nicht ihre alltägliche Praxis ist? Das war
+meine Idee, als ich das erste Mal darauf stiess, dass es die
+Waldhandschrift gibt.
+
+Alles das stimmt nicht. Oder zumindest nicht vollständig. Es gibt
+mehrere Texte, welche für das Projekt der Waldhandschrift
+unterschiedliche Gründe angeben. Meine Überlegungen bestritt Beat von
+Scarpatetti im Gespräch direkt (Scarpatetti 2025). Er gab mir auch einen
+-- unvollständigen und undatierten, aber wohl von 1987 stammenden --
+Projektantrag mit, den er bei der Stiftung «Pro Helvetia» eingereicht
+hatte, um für die Finanzierung der «öffentlichen Präsentation»
+(Scarpatetti 1987: 1) der Waldhandschrift anzufragen. In diesem schreibt
+er, dass das Thema Wald «sicher gewählt worden \[ist,\] wegen des
+Primats von Pflanze, Natur, Leben, aber auch, weil es am ehesten
+Gegenstand eines nationalen Konsenses bildet» (Scarpatetti 1987: 9).
+Sicherlich muss man bedenken, dass Pro Helvetia die Schweizer Kunst und
+Kultur sowie ihre Repräsentation im Ausland fördert. Insoweit kann
+dieser Satz im Antrag stehen, um der Stiftung ein Argument für die
+Förderung zu unterbreiten, welches direkt in den Stiftungszweck fällt.
+Aber im weiteren Antrag scheint es dann tatsächlich immer mehr, als ob
+das eigentliche Thema der Waldhandschrift -- also der schweizerische
+Wald und sein Sterben -- nicht unwichtig wären, aber doch nicht die
+Haupttriebkraft hinter der ganzen Arbeit waren.
+
+Es geht nämlich auch um Kultur, die bedroht sei: «In der
+Massengesellschaft ist der Umgang mit Literatur heute verschlissen.
+\[...\] Der Akt des Abschreibens ist zentral als Akt der
+Interiorisierung. Abschreiben ist eine Form sinnlicher und seelischer
+Aneignung, die bereits eine Wiedergabe auf ebendiese Weise vorbereitet.
+\[...\] In der Schule ist heute der Zerfall von Schrift und Formvermögen
+(Seitenbild) eklatant. \[...\] \[Die Waldhandschrift\] bringt \[...\]
+den Versuch einer Stimulierung der Freude an Literatur durch den
+spielerischen Reichtum von Form und Farbe in einem faszinierenden Buch.»
+(Scarpatetti 1987: 10). Damit das nicht falsch verstanden wird: Der
+Antrag spricht auch davon, dass die Waldhandschrift eine «Kulturtat sein
+\[will\]» (Scarpatetti 1987: 10), die auch ein ökologisches Ziel hat:
+«Die \[Waldhandschrift\] wird heute selbst hergestellt, die Scriptoren
+\[sic!\] leben, zeigen Handwerk und Atelier, ihr Produkt wird den Leuten
+in die Hände gegeben, Mit- und Nachvollziehen sind möglich. Kreativer
+Umgang mit Kultur als psychologische Brücke zur kreativen Mitgestaltung
+von Umwelt und Politik.» (Scarpatetti 1987: 10)
+
+Dem ökologischen Aktivisten Beat von Scarpatetti geht es um die
+Ökologie, um aktives Handeln und um Kultur. Aber dem
+Handschriftenbibliothekar und Mediävisten Beat von Scarpatetti geht es
+auch um das Schreiben per Hand, um das Sammeln der Erfahrung mit
+Pergament als Schreibmaterial (Scarpatetti & Schäffel 1991), um die
+mittelalterliche Schrift und Buchproduktion, um die Aura des Originals.
+Um ein gewisses Zurück zu einer alten Kultur.[^17]
+
+Das eine Objekt, die Waldhandschrift, ist also -- wie alle Objekte der
+Kultur -- offen für Interpretationen. Ich bringe meine intellektuelle
+Biographie mit und interpretiere sie vor der damals, 1987,
+zeitgenössischen Praxis des Samizdat. Scarpatetti interpretiert sie als
+Kulturtat in Verbindung mit dem Kloster St. Gallen. Wir treffen uns wohl
+beide in der Sorge um die Umwelt und die Auswirkungen der
+Massengesellschaft auf diese. Aber das Objekt Waldhandschrift sagt uns
+nicht, wer näher an der Wahrheit ist. Dass es aus der Zeit gefallen und
+doch so sehr mit seiner eigenen Zeit verbunden ist, zwingt heute zu
+neuen Interpretationsleistungen. In gewisser Weise ist es unmöglich, die
+Waldhandschrift nicht zu interpretieren, wenn man erst einmal von ihr
+gehört hat.
+
+Ich sitze in der Stiftsbibliothek und frage die Waldhandschrift: «Was
+bist du? Was willst du? Zu welcher Zeit gehörst du?» Gut möglich, dass
+in zweihundert Jahren -- wenn der Wald ganz verschwunden ist oder auch
+wieder gesundet und lebendig -- jemand anders die gleichen Fragen an
+dieses Objekt stellen wird, mit noch anderen Antworten.
+
+### Über Sent
+
+Der schweizerische Winterwanderweg 355 führt vom Skigebiet Motta Naluns
+am Berg entlang und dann hinab in das Dorf Sent. Man beginnt ihn, indem
+man vom Bahnhof Scoul-Tarasp mit der Seilbahn (oder, wie es hier heisst,
+den Pendicularas) hinauffährt, mit all den Personen, die hier auf den
+Pisten Ski fahren wollen. Oben bei der ersten Bergstation angekommen --
+beim Restaurant und der Information -- geht man dann zuerst an diesen
+Pisten entlang. Mehrere kleinere Seilbahnen fahren dort im Skigebiet und
+bringen Menschen auf noch weitere Pisten hinauf. Beim Wandern sind diese
+alle zu sehen und die Menschen auf ihnen ständig zu hören. Erst nach
+einer ganzen Weile, vielleicht nach dreissig oder fünfundvierzig
+Minuten, lässt man die letzte Seilbahnstation hinter sich. Jetzt geht es
+den Berg wirklich hinauf -- gar nicht so viel, vielleicht einige Dutzend
+Meter Höhenunterschied, aber halt im Schnee, mit einem steilen Anstieg
+und auf rund 2200 Meter über dem Meeresspiegel.
+
+Noch eine lange Weile hört man hinter sich die Menschen auf den Pisten.
+Aber dann beginnen sie leiser zu werden und ihre Laute ganz zu
+verschwinden. Irgendwann schaut man sich um und sieht auch die Pisten
+nicht mehr. Vor einem eine weite Fläche Schnee. Der Wanderweg ist mit
+Maschinen geglättet und -- wie alle schweizerischen Winterwanderwege --
+mit magentafarbenen Stöcken gekennzeichnet. Es ist also nicht so, als ob
+man in einer verlassenen Wildnis wäre. «Der Mensch», andere Menschen,
+sind hier gewesen. Aber man trifft sie nicht.
+
+Jetzt, nach zwei, zweieinhalb Stunden Wandern, bin ich alleine. Schnee
+vor und hinter mir. Manchmal ein Vogel. Links der Berg, den ich entlang
+gehe. Rechts, hinter dem Abgrund und dem Tal, die nächsten Berge. Ihre
+Gipfel tragen alle das rätoromanische «Piz», Gipfel oder Spitze, im
+Namen: Piz Ajüz, Piz Lischana, Piz Triazza.
+
+An einer Stelle, die sich anfühlt, als würde es danach auf dem Wanderweg
+wieder hinab gehen, bleibe ich stehen. Es ist nichts zu sehen als Berge,
+Schnee, Himmel und Wolken. Ich stehe am Rande einer grossen, weissen
+Fläche. Drüben die Berge sehen kleiner aus, als sie sind. Aber alle
+wild, abweisend und anziehend zugleich. Der Wind ist recht stark hier
+oben, der Geruch des Schnees liegt über allem. Es fühlt sich an, als
+wäre vieles egal. Morgen, aber auch in tausend Jahren, werden hier noch
+Berge stehen. Sicher: Auch sie zerfallen, verändern sich. Bergrutsche
+und Bergstürze sind eine zunehmende Gefahr in den Alpen. Doch auch ohne
+sie gibt es Veränderung. Aber langsame. Wäre ich im Sommer hier, gäbe es
+hier einen anderen Wanderweg, die Etappe 10 der Via Engiadina. Von dem
+aus würde man auf die Bäume hinunterschauen. Die Baumgrenze liegt hier
+in den Alpen bei rund 1800 Metern, auf dem Weg würde man knapp darüber
+laufen. Der Wald würde nicht so gesund aussehen wie noch vor einigen
+Jahren. Wohl mit immer mehr Lücken und immer mehr toten Bäumen.
+
+Aber jetzt, im Winter, wo Schnee liegt (wo «hier noch Schnee liegt», wie
+es allgemein heisst, denn die Menschen wissen, dass die Klimakatastrophe
+auch hierzulande wirkt, selbst wenn sie dies im Alltag verdrängen und in
+Volksabstimmungen zu grossem Teil gegen Regelungen stimmen, die die
+Schweiz ökologischer machen würden), scheint es, als wäre das alles
+egal. Die Natur, die Berge, sie waren hier, bevor wir da waren. Und sie
+werden auch hier sein, wenn wir wieder weg sind. Es fühlt sich
+gleichzeitig so an, als wäre ich Teil eines viel grösserem Ganzen, zu
+dem alles gehört und als wäre ich, als wären wir alle als einzelne
+Menschen, recht egal.
+
+Ich gehöre nicht zu den Menschen, die das Gefühl haben, dass es eine
+höhere Macht gäbe -- nicht, wenn ich in Klosterruinen stehe, nicht, wenn
+ich Musik zuhöre, die länger klingen wird als ein Menschenleben und auch
+nicht, wenn ich die Macht der Natur direkt vor mir wirken sehe. Auch
+nicht, wenn ich in Büchern blättere, die daraufhin ausgelegt sind, uns
+alle zu überdauern. Aber all das -- Objekte wie die Waldhandschrift, das
+Projekt in Halberstadt, die Natur im Rheintal und oben auf den Alpen --
+sind Erinnerungen daran, dass wir als einzelne Menschen uns in einem
+anderen Zeitablauf bewegen als die menschliche Geschichte und diese noch
+einmal in einem anderen Zeitlauf als die Geschichte der Natur.
+
+355 ist ein Wanderweg. Man kann also so lange bleiben, wie man will. (Es
+ist aber nicht klug, in der Dunkelheit am Berg zu sein, wenn man kein
+Licht dabei hat.) Dann allerdings geht man weiter, bis zur nächsten
+Hütte, von da ab eine Weile direkt auf der Piste entlang und dann ganz
+hinab ins Tal, hinunter nach Sent.
+
+### Die Objekte in Bibliotheken, die uns überdauern
+
+Warum interessiert mich die Waldhandschrift eigentlich? Ich bin auf sie
+gestossen, als ich die Festschrift für Beat von Scarpatettis' 75.
+Geburtstag las. (Egli et al. 2016) Die hatte ich mir besorgt, nachdem
+ich den langen Einführungstext gelesen hatte, den Scarpatetti in seinem
+kommentierten Katalog der Bibliothek des Heynlin von Stein vorangestellt
+hatte. («Einleitung: Zur Person Heynlins, zum Katalog, zur
+Interpretation der Glossen und zum Problem der Weltverachtung»,
+Scarpatetti 2022: 11--113) Heynlin war am Ende des Mittelalters, im 15.
+Jahrhundert, in Basel und im oberrheinischen Raum unter anderem
+Prediger. Vorher war er aber zum Beispiel in Paris auch Professor und
+dann Rektor der Sorbonne. Er selber war es, der um 1470 die
+französischen Erstdrucker nach Paris holte und damit den Medienwandel
+vom handgeschriebenen Codex zum gedruckten Buch mit auslöste. Diese
+Einleitung von Scarpatetti geht auf die Bibliothek Heynlins, auf dessen
+Biographie und Theologie ein. Aber sie vermittelt auch den Eindruck,
+dass der Autor in ihr etwas über sich selbst reflektiert, nämlich die
+(im Mittelalter oft diskutierte) Frage danach, ob die vita activa, das
+aktive Handeln in der Welt, oder die vita contemplativa, das
+zurückgezogene, intellektuelle Leben, vorzuziehen sei. Heynlin war in
+seiner Zeit äusserst aktiv, zog sich aber am Ende seines Lebens ins
+Kloster -- die kleine Klause in Basel -- zurück, wechselte also von der
+vita activa zur vita contemplativa. In seinen Predigten rief er immer
+wieder dazu auf, sich von der Welt ab- und dem geistigen Leben
+zuzuwenden -- insoweit war dieser Rückzug auch konsequent. Scarpatetti
+aber schien mir dies in seiner Einleitung abzulehnen, mit dem expliziten
+Verweis auf die ökologischen Fragen, die in der heutigen Zeit drängend
+seien[^18] -- aber gleichzeitig hatte er als Handschriftenbibliothekar
+einen Beruf, der gerade der vita contemplativa zugeordnet werden könnte.
+
+In der Festschrift wird die Waldhandschrift mehrfach erwähnt. (Mit
+eigenem Kapitel: Egli et al. 2016: 43--53, aber auch immer wieder in den
+anderen Texten.) Was mich an ihr faszinierte, war, dass sie einerseits
+eine Antwort auf die Frage nach vita activa oder vita contemplativa zu
+sein schien -- ein Objekt, in mühevoller Kleinarbeit erstellt, welches
+aber Handeln in der Welt hervorbringen soll -- und gleichzeitig ein
+Objekt, dem eine eigene Zeitlichkeit eingeschrieben wurde. Es soll
+benutzt werden. Explizit geht es darum, dass die Waldhandschrift gelesen
+und in ihr geblättert wird. Es wurden sogar, wie ich später erfuhr,
+Seiten eingefügt, die nachträglich ausgefüllt werden können.
+(Scarpatetti & Schäffel 1991)[^19] Damit ist die Waldhandschrift ein
+Objekt, dem in gewisser Weise ein Ende eingeschrieben ist. Denn egal,
+wie gut eine Handschrift erhalten wird: Benutzung lässt Spuren zurück
+und beschleunigt den Zerfall. Schon heute, nicht ganz vierzig Jahre nach
+der Erstellung, hat sie Nutzungsspuren. Aber es ist ein Zerfall, der
+wohl langsam vonstattengehen wird. Weit mehr als ein Menschenleben, eher
+mehrere Generationen lang. Es scheint auch dieser Waldhandschrift eine
+gewisse Hoffnung mitgegeben worden zu sein, nämlich dass sie einmal
+nicht mehr benutzt werden muss -- weil, um es einfach zu sagen, der Wald
+gerettet ist.
+
+Mich interessiert auch, dass als Objekt für dieses Projekt gerade ein
+Buch gewählt und dann in einer Bibliothek mit einer langen Geschichte
+untergebracht wurde. Sicherlich: Das hat auch mit der Biographie und der
+Arbeit des Organisators, also Beat von Scarpatetti, zu tun. Aber das
+wusste ich noch nicht, als ich auf die Waldhandschrift stiess und
+dennoch erschien mir diese Wahl (also Buch und Bibliothek) sofort
+relevant, als ich dann das erste Mal von ihr las. Zudem hat es ja nicht
+nur ihn überzeugt, sondern eine ganze Reihe von Autor\*innen,
+Skriptor\*innen und anderen Personen sowie eine Zahl von mittelgebenden
+Organisationen.
+
+\*\*\*
+
+Ich weiss nicht, auch jetzt, nachdem ich die Waldhandschrift gesehen und
+in ihr gelesen habe, ob mich das Objekt als «Kulturtat» überzeugt.
+Umweltschutz, Politik an sich, ist für mich eher das Feld von Aktion:
+Organisierung, politische Strategien, Machtkämpfe, konkretes Handeln.
+Ich kann den Drang zu aktiven Taten, die Andres Malm in seinem Buch «How
+to blow up a pipeline» (Malm 2021) propagiert, viel eher nachvollziehen,
+als die langsame, teilweise introspektive Vorgehensweise, welche die
+Waldhandschrift exemplifiziert. Doch Ökologie wird immer aus sehr
+verschiedenen Ansätzen heraus betrieben, insoweit ist es nicht zu
+überraschend, dass ich nicht ganz mit der Waldhandschrift übereinstimme.
+Nicht zuletzt, weil sie an vielen Stellen sehr zeittypisch die Schweiz
+der 1980er Jahre widerspiegelt -- nicht die des Jahres 2025. Und: Es
+geht bei ihr halt offenbar nicht nur um das Waldsterben. Es geht auch um
+mehr. Beispielsweise um Handschrift, um den Umgang mit Pergament, um
+Kultur, um Literatur und darum, etwas im lokalen Rahmen zu tun. Es geht
+darum, so würde ich es jetzt interpretieren, ein wenig aus der Zeit zu
+fallen, um damit zu einem anderen Handeln und Denken zu motivieren.
+Dieses Fallen aus der Zeit, das ich ebenso bei Projekten wie dem in
+Halberstadt verspüre oder wenn ich mich alleine in der Natur
+wiederfinde, scheint mir dann auch wieder eine hilfreiche Praktik zu
+sein, um mit den Katastrophen, in denen wir uns alle befinden,
+umzugehen. Aber sie führt halt nicht direkt zum aktiven Handeln.
+
+Interessant scheint mir aber, dass auch dies eine Funktion sein kann,
+wie ein Buch und eine Bibliothek genutzt wird. Eine, die, wie mir
+scheint, heute kaum reflektiert wird -- und wenn doch, dann eine, die
+wohl schnell im Ruf des Rückwärtsgewandten oder Spirituellen steht,
+obwohl sie als Praxis für alle Menschen in diesen, unseren
+katastrophalen Zeiten hilfreich sein kann. Ich würde beispielsweise
+beides (rückwärtsgewandt zu sein oder spirituell) persönlich von mir
+weisen, und dennoch scheint mir ein temporäres «aus der Zeit fallen»
+sehr hilfreich. Letztlich kann ich mich der Faszination für das Projekt
+Waldhandschrift nicht entziehen.
+
+Von der Waldhandschrift geht ein grosser Optimismus aus: Es ist möglich,
+alte Techniken für aktuelle Themen einzusetzen. Es ist möglich, dass
+Menschen zusammenarbeiten, um ein solches Projekt, das ja zum Beispiel
+gar keinen finanziellen Gewinn haben kann, umzusetzen. Es ist möglich,
+Menschen für ein solches Projekt zu gewinnen, das über ihr Menschenleben
+hinauswirken soll.[^20]
+
+### Literatur
+
+Aegerter, Irene ; Leder, Rudolf A. (1984). *Waldsterben*.
+(EF-Dokumentation, 26) Bern: Energieforum Schweiz, 1984
+
+Brändli, Niklaus ; Dietrich, Elsbeth ; Kirchhofer, Markus (1987).
+*Umweltpolitik 1987: Standortbestimmung und Perspektiven*.
+(Schriftenreihe des Stapferhauses auf der Lenzburg, 17) Aarau: Verlag
+Sauerländer, 1987
+
+Büker, Dieter (2020). *In Neuem Licht -- der Klosterplan Von St. Gallen:
+Aspekte seiner Beschaffenheit und Erschaffung.* Frankfurt am Main: Peter
+Lang, 2020
+
+Burkhard, HP. ; Hanser, Ch. ; Meier, U. ; Troxler, Ch. ; Fischer, U.
+(1986). *Die wirtschaftlichen Folgen des Waldsterbens in der Schweiz*.
+Zürich: Schweizerische Gesellschaft für Umweltschutz, 1986
+
+Bundesamt für Statistik (\[2023\]). *Sprachen Hauptsprachen, Sprachen,
+die zu Hause und bei der Arbeit gesprochen werden.*
+<https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/sprachen-religionen/sprachen.html>
+\[Zugriff: 08.04.2024\]
+
+Camarade, Hélène; Galmiche, Xavier ; Jurgenson, Luba (dir.) (2023).
+*Samizdat: Publications clandestines et autoédition en Europe centrale
+et orientale (années 1950-1990)*. Paris: Nouveau Monde éditions, 2023
+
+Duncan, Dennis (2021). *Index, A history of the : a bookish adventure*.
+London : Allen Lane, 2021
+
+Egli, Daniel (Hrsg.), Meyer, Kurt (Redak.), Welti, Manfred (Redak.)
+(2016). *Kultur und Ökologie: Festschrift zum 75. Geburtstag von Beat
+von Scarpatetti*. Binningen: Verein Ökogemeinde Binningen, 2016
+
+Greverus, Ina-Maria ; Haindl, Erika (Hrsg.) (1984). *ÖKOlogie PROvinz
+REGIONalismus.* (Notizen, 16) Frankfurt am Main: Institut für
+Kulturantrophologie und Europäische Ethnologie, 1984
+
+Heller, Jakob Christoph ; Nitzke, Solvejg (2022). *Ökologische und
+postapokalyptische Idyllen im 20. und 21. Jahrhundert*. In: Gerstner,
+Jan ; Heller, Jakob Christoph ; Schmitt, Christian (Hrsg.). Handbuch
+Idylle: Verfahren -- Traditionen -- Theorien. Berlin: J. B. Metzler,
+2022: 271--276
+
+Kleine Waldhandschrift (1989). *Kleine Waldhandschrift*
+(Stiftsbibliothek: Cod. Sang. 348a)
+
+Metzger, Christoph (2011). *John Cage: Abstract Music. Zwölf
+Vorlesungen*. Saarbrücken, Pfau Verlag, 2011
+
+Haskins, Rob (2012). *John Cage*. (Critical Lives). London: Reaktion
+Books, 2021
+
+Malm, Andreas (2021). *How to blow up a pipeline: learning to fight in a
+world on fire*. London, New York: Verso, 2021
+
+Ochsenbein, Peter (1987). *Die St. Galler Waldhandschrift.* In:
+Schweizer Monathefte: Zeitschrift für Politik, Wirtschaft, Kultur 67
+(1987) 12: 1014--1017
+
+Ochsenbein, Peter ; Schmucki, Karl (Hrsg.) (2002). *Studien zum St.
+Galler Klosterplan II*. (Studien zur vaterländischen Geschichte, 52) St.
+Gallen: Historischer Verein des Kantons St. Gallen, 2002
+
+Scarpatetti, Beat von (\[1987\]). *Projekbeschreibung «St. Galler
+Waldhandschrift» und Finanzgesuch für öffentliche Präsentationen in den
+vier Sprachgebieten der Schweiz und im benachbarten Ausland*. Basel, St.
+Gallen, \[1987\]
+
+Scarpatetti, Beat von ; Schäffel, Klaus-Peter (1991). *33 Schreiber auf
+119 Folia Pergaments: Ein schweizerischer Erfahrungsbericht zur «St.
+Galler Waldhandschrift» (1986/87)*. In: Rück, Peter (Hrsg.) (1991).
+Pergament: Geschichte, Struktur, Restaurierung, Herstellung.
+(Historische Hilfswissenschaften, 2) Sigmaringen: Jan Thorbecke Verlag,
+1991: 159--167
+
+Scarpatetti, Beat von (1998). *Helvetische ökologische Verfassung :
+constitution helvétique 1798 -- ökologische Verfassung 1998 : ein
+Entwurf*. Basel: Schwabe, 1998
+
+Scarpatetti, Beat von (Hrsg.) (2022). *Bücherliebe und Weltverachtung :
+die Bibliothek des Volkspredigers Heynlin von Stein und ihr Geheimnis*.
+Basel: Schwabe Verlag, 2022
+
+Scarpatetti, Beat von (2025). Persönliches Gespräch mit dem Autor, St.
+Gallen, 02.04.2025
+
+Statistische Ämter (2022). *Bevölkerung nach Religionszugehörigkeit im
+Zensus 2022 und im Zensus 2011 - je Bundesland*,
+<https://www.zensus2022.de/DE/Ergebnisse-des-Zensus/Sonderauswertung_Religionszugehoerigkeit.html>
+\[Zugriff: 08.04.2025\]
+
+Steiner, Dieter (2016). *Ein wahrer «Automobilist»*. In: Egli, Daniel
+(Hrsg.), Meyer, Kurt (Redak.), Welti, Manfred (Redak.) (2016). *Kultur
+und Ökologie: Festschrift zum 75. Geburtstag von Beat von Scarpatetti*.
+Binningen: Verein Ökogemeinde Binningen, 2016: 99--106
+
+Schweizerischer Bund für Umweltschutz ; Schweizerische Gesellschaft für
+Umweltschutz ; Verkehrs-Club der Schweiz ; World Wildlife Fund Schweiz
+(1985). *Tut etwas Mutiges!: Abschätzung der Wirksamkeit beschlossener,
+versprochener und zusätzlich notwendiger Massnahmen gegen das
+Waldsterben*. Zürich: infras, 1985
+
+Schweizerische Gesellschaft für Umweltschutz (1984). *Massnahmen gegen
+das Waldsterben.* Zürich: infras, 1984
+
+Vereinigung Bündner Umweltschutzorganisationen VBU (1989). *Die
+Waldhandschrift in Graubünden: 11. August bis 3. November 1989.* In:
+Bündner Schulblatt 49 (1989/90) 1: 98--100
+
+Waldhandschrift (1987). *St. Galler Wandhandschrift*. (Stiftsbibliothek:
+Cod. Sang. 1999)
+
+### Anhang: Methodik
+
+Die im Text angeführten Zahlen über die konkrete Waldhandschrift wurden
+(ausser, wenn anders angegeben) vom Autor selber erhoben. Dazu wurde die
+Waldhandschrift im April 2025 bei mehrfachen Besuchen vor Ort in der
+Stiftsbibliothek St. Gallen durchgesehen. Dabei wurden pro Beitrag
+erhoben:
+
+- Namen der Autor\*innen.
+- Titel der Beiträge.
+- Seitenzahlen.
+- Die Sprachen, in denen der jeweilige Beitrag vorliegt. Bei Beiträgen in mehreren Sprachen wurde die jeweils zuerst in der Waldhandschrift stehende als Originalsprache, die andere (oder anderen) als Übersetzungssprachen gezählt.
+- Die Textform des jeweiligen Beitrags wurde bestimmt. Dabei wurde auf die Titel, den Aufbau und Inhalt der Beiträge Bezug genommen. Gleichzeitig fand diese Zuteilung (unter anderem wegen der begrenzten Zeit, die dafür zur Verfügung stand) ad hoc statt. Sie ist also eine mögliche Quelle von Kritik. Andere Personen könnten -- insbesondere, wenn sie mit klareren Definitionen und Kriterien für verschiedene Textformen arbeiten -- zu anderen Ergebnissen kommen. Zu vermuten ist aber, dass so überprüfte Ergebnisse eher in Einzelfällen, aber nicht vom hier im Text skizzierten Gesamtbild über die Waldhandschrift und deren Inhalt abweichen werden.
+- Die Zahl der Illustrationen und der gesondert buchmalerisch gestalteten Initialen und Textränder wurde ausgezählt.
+- Die Namen oder Initialen der Skriptor\*innen wurden, wenn diese solche hinterliessen, ebenso ausgezählt. Dies ersetzt selbstverständlich keine kritische Analyse der einzelnen Texte, die aufgrund anderer Kriterien einzelne Skriptor\*innen identifizieren können. Es ging bei dieser Auszählung um ein erstes Bild über die Anzahl der beteiligten Personen.
+- Ausgelassen wurden bei der Auszählung (a) das (lateinische) Impressum (Waldhandschrift 1987: 168) sowie die Teile, welche nach 1987 ergänzt wurden (Waldhandschrift 1987: 225--230). Ersteres ist nicht inhaltlicher Bestandteil der Handschrift, letzteres war nicht Teil der Handschrift, als diese verfasst wurde.
+
+Diese Auszählung wurde mehrfach überprüft. Ebenso wurde bei
+Unklarheiten, die bei der Datenaufnahme auftraten, versucht, diese bei
+späteren Besuchen in der Stiftsbibliothek anhand der Waldhandschrift zu
+klären. Dennoch ist klar, dass dieses Verfahren -- welches durch die
+Vorgaben zur Handhabung der Waldhandschrift und die vorhandenen
+Ressourcen (insbesondere die zur Verfügung stehende Zeit) bedingt waren
+-- in weiteren Forschungen verbessert werden können.
+
+[^1]: In einer anderen Version als der Präambel liegen die
+    Nutzungsbedingungen auch gedruckt vor (Scarpatetti & Schäffel 1991:
+    167). Eigentlich soll die Waldhandschrift auch von der
+    Stiftsbibliothek verliehen werden, allerdings unter sehr
+    spezifischen Bedingungen, beispielsweise der, dass sie «bei der
+    Benützung stets von einem Menschen betreut \[wird\]» (Scarpattit &
+    Schäffel 1991: 167). In der Vergangenheit ist dies vorgekommen
+    (siehe unter anderem Vereinigung Bündner Umweltschutzorganisationen
+    VBU (1989)), in den letzten Jahren aber offenbar nicht mehr.
+
+[^2]: Allerdings scheint schon auf den ersten Blick die im Mittelalter
+    bestehende Konvention, dass der rote Text jeweils den «heiligen
+    Teil» (also vor allem Texte aus der Bibel) darstellt, nicht beachtet
+    worden zu sein.
+
+[^3]: Später lerne ich (in Scrapatetti & Schäffel 1991), dass das auch
+    nicht ganz stimmt. Für ein Bild wurden explizit Farben in
+    mittelalterlichen Verfahren hergestellt, für die anderen wurden
+    industriell hergestellte, und deshalb käuflich zu erwerbende,
+    genutzt. Wenn man die Orientierung an den mittelalterlichen Texten
+    als Kriterium nimmt, hat also dieses eine Bild eine andere Qualität.
+    Aber ich, als ungeübter Leser mittelalterlicher Codices, kann den
+    Unterschied nicht erkennen, auch nicht, als ich noch einmal nach St.
+    Gallen fahre und die Handschrift erneut durcharbeite.
+
+[^4]: Ausnahme ist ein\*e Autor\*in aus der Schweiz, aber wohnhaft in
+    Paris. Aber auch dies, Schweizer Autor\*innen, die in Paris (oder
+    Wien und Berlin) wohnen, gehört in gewisser Weise zur Schweiz. Auch
+    sie -- solange sie sich weiter mit der Schweiz verbunden fühlen und
+    immer wieder zurückkehren -- prägen dieses Land.
+
+[^5]: Scarpatetti & Schäffel (1991) stellen sie allerdings auch -- in
+    einem Sammelband, der sich explizit der Pergamentforschung als
+    historischer Hilfswissenschaft widmet -- explizit in den
+    Zusammenhang von damaligen Versuchen, die Pergamentherstellung und
+    -nutzung als Schreibmaterial selber zu beleben und über die
+    Herstellung einer solchen Schrift -- im Sinne der experimental
+    archeology, wie es heute heissen würde --, Wissen über das Pergament
+    zu erarbeiten.
+
+[^6]: Eine\*r könnte einmal Initialen, einmal einen Namen verwendet
+    haben, bei einem weiteren wird gesagt, er hätte den Text sowohl
+    geschrieben als auch gestaltet -- was unterschiedliches heissen
+    kann, aber halt auch, dass er selber als Skriptor tätig war.
+
+[^7]: Das ist noch auffälliger, wenn man daneben die schon erwähnten
+    anderen Texte aus der damaligen Zeit liest, in denen selbst bei
+    repräsentativen Veranstaltungen wie der offiziellen Eröffnung des
+    «Europäischen Umweltjahres» klare Ansagen über notwendige
+    gesetzliche Regelungen gemacht werden (Brändli et al. 1987), ganz
+    abgesehen von der Radikalität anderer Texte.
+
+[^8]: Allerdings neigt diese Tradition sich heute eher Dystopien zu.
+    (Heller & Nitzke 2022)
+
+[^9]: Der Rückverweis auf den Klosterplan ist aus der Waldhandschrift
+    selber offensichtlich, wurde aber von Beat von Scarpatetti auch
+    explizit bestätigt. (Scarpatetti 2025)
+
+[^10]: Das Kloster wurde damals so geplant, dass es sich autark
+    versorgen konnte und alle für das Leben der Mönche notwendigen
+    Institutionen unterhielt. Insoweit ist die Parallele nicht
+    unpassend. Der Klosterplan hat sich bis heute erhalten -- er ist in
+    einem anderen Gebäude des Klosterbezirks in einer Ausstellung des
+    Stiftsarchivs zu sehen, dabei allerdings eingelassen in die
+    klaustrophobische Geschichte eines Mönchs, der mit acht Jahren von
+    seinen Eltern dem Kloster übergeben wird und dann dieses nur noch
+    verlässt, wenn der Abt dies anweist, sogar noch nach seinem Tod --
+    und gilt als der älteste erhaltene Plan eines europäischen Klosters.
+    (Vergleiche das Digitalisat unter
+    <http://dx.doi.org/10.5076/e-codices-csg-1092>.)
+    Er ist auch oft untersucht worden, siehe beispielsweise Ochsenbein &
+    Schmuki (2002) oder Büker (2020).
+
+[^11]: In der Stiftsbibliothek lagern heute auch die archivierten
+    Arbeitsakten von Beat von Scarpatetti, inklusive eines Teilbestandes
+    zum Projekt Waldhandschrift. In Zukunft könnten diese
+    durchgearbeitet und mehr über die eigentlichen Entscheidungsprozesse
+    in diesem Projekt eruiert werden.
+
+[^12]: Die Einladungen sollen auf Pergament geschrieben worden sein.
+    Diese -- oder der Text dieser Einladung -- sind offenbar nicht
+    dokumentiert. Eventuell findet sie sich aber in den in der
+    vorhergehenden Fussnote genannten Arbeitsakten.
+
+[^13]: Das Impressum (Waldhandschrift 1987: 223) ist in Latein gehalten,
+    andere Sprachen wurden nicht verwendet.
+
+[^14]: Auffällig ist, dass diese sich «Kalligraphisch» nennt und gerade
+    nicht auf Skriptorien bezieht. Aber sie umfasst auch Personen, die
+    sich mit der Handschrift auseinandersetzen und sie praktizieren, und
+    nicht nur solche, die sich auf mittelalterliche Schriften
+    spezialisieren.
+
+[^15]: Dieses Verbot ist auch interessant, da andere Kompromisse sehr
+    wohl eingegangen wurden. So ist nur ein Teil der Seiten (laut
+    Scarpatetti & Schäffel (1991: 160) «rund 90») mit Gänsekiel
+    geschrieben worden, die anderen mit der -- für ein mittelalterliches
+    Skriptorium anachronistischen -- metallenen Spitzfeder.
+
+[^16]: <https://www.aslsp.org/das-projekt.html>
+    \[Zugriff 08.04.2025\].
+
+[^17]: Was überwiegt und wie zum Beispiel die beteiligten Autor\*innen,
+    Skriptor\*innen und anderen beteiligten Personen die Waldhandschrift
+    interpretierten, wäre eine Frage für weitergehende Forschungen.
+
+[^18]: Das ist in den letzten Seiten der Einleitung, der «Konklusion»
+    recht eindeutig: «Heynlins über Jahre unentwegte, ja verzweifelte
+    Busspredigt an der Schwelle der Moderne musste u.a. an der
+    Hauptbruchstelle des christlichen Weltverhältnisses scheitern, an
+    der ‹Weltverachtung›. In säkularisierter Form führt das moderne
+    ‹Umwelt›problem das transformierte Erbe dieser Weltverachtung der
+    Öffentlichkeit drastisch vor Augen. Diese religions- und
+    mentalitätsgeschichtliche Wurzel des heutigen Umweltdesasters ist
+    noch nicht adäquat aufgearbeitet und bewusst.» (Scarpatetti 2022:
+    103) Und zu den Fragen, die sich ausgehend von Heynlins Bibliothek
+    und der Umweltproblematik stellen: «Kann das Christentum Elemente
+    zum Ausweg \[aus der heutigen Situation, KS.\] beitragen? Antwort:
+    ja, aber es sind dann nicht die zentralen Botschaften, sondern aus
+    prophetischem Charisma und der Grundstimmung der Parousie \[die
+    «Anwesenheit Gottes» in der Welt und die Erwartung der Wiederkehr
+    Jesus, KS.\] herausgewachsene wertvolle moralische Errungenschaften
+    wie die Nächsten- und Feindesliebe und die Werte der Bergpredigt.»
+    (Scarpatetti 2022: 103)
+
+[^19]: Sie wurden jetzt ausgefüllt mit einer Aufzählung von Taten, die
+    einzelne Personen aus sechs Kantonen -- hier «Stände» genannt -- für
+    die Umwelt vollbracht hatten. Neben der Aufzählung dieser Taten
+    wurde in Deutsch und Französisch ein weiteres Manifest -- die
+    «Charta Mensch Natur 1991» / «Charte de l'homme et de la nature»
+    (Waldhandschrift 1987: 223 f.) -- eingefügt.
+
+[^20]: Neben der Waldhandschrift findet sich im Bestand der
+    Stiftsbibliothek eine «Kleine Waldhandschrift» (1989), die eine
+    Abschrift der Waldhandschrift darstellt -- auch auf Pergament und in
+    «mittelalterlicher Schrift», aber in einem kleineren Format. Ganz im
+    Sinne von mittelalterlichen Kopien stimmt diese nicht genau mit der
+    Waldhandschrift überein, sondern ist in gewisser Weise eine
+    Interpretation. Die Kleine Waldhandschrift scheint viel eher ein
+    Werk aus einer Hand zu sein. Die Schrift ist nicht durchgängig die
+    gleiche, aber das Schriftbild ist doch einheitlicher als in der
+    grossen Handschrift. Es werden mehr graphische Elemente genutzt,
+    beispielsweise sind Übersetzungen in kleinerer Schrift um den
+    Originaltext herum gesetzt oder aber in Zwischenzeilen. Einige Texte
+    wurden ergänzt, unter anderem durch Nachträge von Autor\*innen.
+    Zudem wurde an den Plan des «Oekodorfes» ein weiteres Manifest
+    angefügt, der «Codex Raetus» geschrieben von «Anonymus Raetus».
+    (Wobei sich Raetus offensichtlich auf «Raetia» bezieht, dem Namen
+    einer römischen Provinz, welcher sich selber auf einen dort lebenden
+    «Stamm» bezog, der vom römischen Reich unterworfen wurde. Seit dem
+    19. Jahrhundert werden Begriffe wie Raetia, Rhätien oder rhätisch
+    für das Kanton Graubünden verwendet, heute beispielsweise bei der
+    «Rhätischen Bahn».) Dies sind nur einige der Unterschiede. In der
+    Mediävistik wird heute bei mittelalterlichen Texten immer von
+    «Textzeugen» gesprochen und davon ausgegangen, dass es bei diesen
+    Texten niemals einen gültigen «Urtext» gibt, da alle diese
+    unterschiedlichen Versionen (auch die, die nicht bis heute
+    überliefert wurden) wirksam waren. Die «Kleine Waldhandschrift»
+    generiert quasi eine Form dieses «Textzeugen», obgleich wir mit der
+    Waldhandschrift eigentlich ein Original vorliegen haben. Aber
+    gerade, wenn man die beiden Handschriften im Sinne der experimental
+    archeology als Versuche betrachtet, die Arbeit in mittelalterlichen
+    Skriptorien zu reproduzieren, ist dies nur folgerichtig -- ein
+    Grossteil der dortigen Arbeit bestand nicht im Erstellen ganz neuer
+    Werke, sondern in der Reproduktion schon vorliegender. Die
+    Skriptor\*innen schrieben vor allem Werke ab, die sie als Objekt
+    schon kannten und vor sich liegen hatten. Dies ist in der kleinen
+    Handschrift reproduziert. Eine Untersuchung der Unterschiede
+    zwischen diesen beiden Waldhandschriften steht noch aus.
