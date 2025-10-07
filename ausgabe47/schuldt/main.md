@@ -180,7 +180,7 @@ Entscheidungen sind immer Verweise auf solche, die in der Schweiz
 getroffen werden sollen. Sie wurde 1987 bei einer Art Ritual auf dem
 Rütli bekannt gemacht. (Das Rütli ist eine Wiese mit hoher symbolischer
 Bedeutung für die schweizerische nationale Identität. Auf ihm wurde dem
-Mythos, beziehungsweise einer alten mittelalterlichen Chronik nach, 1291
+Mythos beziehungsweise einer alten mittelalterlichen Chronik nach 1291
 durch drei Kantone die Eidgenossenschaft gegründet. Seit dem 19.
 Jahrhundert wird das Rütli immer wieder als Ort von Ritualen mit Bezug
 auf die Schweiz genutzt, und zwar aus fast allen politischen
@@ -314,7 +314,7 @@ Waldhandschrift.
 |                    | [Autor*innenregister] | 234–236           |
 |                    | [Abschlussgedicht]    | Innenseite hinten |
 
-table: Tabelle 1: Inhalt der Waldhandschrift*
+table: Tabelle 1: Inhalt der Waldhandschrift
 
 Ohne genaue Analyse ist es schwer zu begründen, aber die Texte
 vermitteln immer den Eindruck, explizit in den 1980er Jahren geschrieben
@@ -379,7 +379,7 @@ französischen je eine deutsche. Die italienischen Texte sind nicht
 Version vor. Wer diese Übersetzungen vornahm, ist nicht immer erkennbar.
 Manchmal waren es explizit die Autor\*innen, aber meist gibt es dazu
 keinen Hinweis. Das alles spiegelt die Sprachlandschaft der Schweiz zum
-Teil wider, insbesondere die hohe Bedeutung des Deutschen. Aber beim
+Teil wieder, insbesondere die hohe Bedeutung des Deutschen. Aber beim
 Rätoromanischen und Italienischen sind die Verhältnisse vertauscht: Das
 Italienische wird viel öfter gesprochen und geschrieben, als in der
 Waldhandschrift repräsentiert, das Rätoromanische weniger. (Bundesamt
@@ -400,7 +400,7 @@ Umarbeitung der ersten helvetischen Verfassung von 1798 -- eine
 Fragen der Umsetzung konkreter ist, als die Texte in der Waldhandschrift
 und in der auch betont wird, dass Ökologie nicht auf ein Land beschränkt
 werden kann, sondern global gedacht werden muss. Für die Waldhandschrift
-entwarf Scarpatetti den Plan, organisierte die Finanzierung und setzte
+entwarf von Scarpatetti den Plan, organisierte die Finanzierung und setzte
 die Qualitätskriterien.
 
 Ein Ergebnis der Handschrift war die Organisierung der Skriptor\*innen
@@ -591,7 +591,7 @@ Um ein gewisses Zurück zu einer alten Kultur.[^17]
 Das eine Objekt, die Waldhandschrift, ist also -- wie alle Objekte der
 Kultur -- offen für Interpretationen. Ich bringe meine intellektuelle
 Biographie mit und interpretiere sie vor der damals, 1987,
-zeitgenössischen Praxis des Samizdat. Scarpatetti interpretiert sie als
+zeitgenössischen Praxis des Samizdat. Von Scarpatetti interpretiert sie als
 Kulturtat in Verbindung mit dem Kloster St. Gallen. Wir treffen uns wohl
 beide in der Sorge um die Umwelt und die Auswirkungen der
 Massengesellschaft auf diese. Aber das Objekt Waldhandschrift sagt uns
@@ -688,7 +688,7 @@ hinab ins Tal, hinunter nach Sent.
 Warum interessiert mich die Waldhandschrift eigentlich? Ich bin auf sie
 gestossen, als ich die Festschrift für Beat von Scarpatettis' 75.
 Geburtstag las. (Egli et al. 2016) Die hatte ich mir besorgt, nachdem
-ich den langen Einführungstext gelesen hatte, den Scarpatetti in seinem
+ich den langen Einführungstext gelesen hatte, den von Scarpatetti in seinem
 kommentierten Katalog der Bibliothek des Heynlin von Stein vorangestellt
 hatte. («Einleitung: Zur Person Heynlins, zum Katalog, zur
 Interpretation der Glossen und zum Problem der Weltverachtung»,
@@ -708,7 +708,7 @@ seiner Zeit äusserst aktiv, zog sich aber am Ende seines Lebens ins
 Kloster -- die kleine Klause in Basel -- zurück, wechselte also von der
 vita activa zur vita contemplativa. In seinen Predigten rief er immer
 wieder dazu auf, sich von der Welt ab- und dem geistigen Leben
-zuzuwenden -- insoweit war dieser Rückzug auch konsequent. Scarpatetti
+zuzuwenden -- insoweit war dieser Rückzug auch konsequent. Von Scarpatetti
 aber schien mir dies in seiner Einleitung abzulehnen, mit dem expliziten
 Verweis auf die ökologischen Fragen, die in der heutigen Zeit drängend
 seien[^18] -- aber gleichzeitig hatte er als Handschriftenbibliothekar
@@ -746,7 +746,7 @@ nur ihn überzeugt, sondern eine ganze Reihe von Autor\*innen,
 Skriptor\*innen und anderen Personen sowie eine Zahl von mittelgebenden
 Organisationen.
 
-\*\*\*
+---
 
 Ich weiss nicht, auch jetzt, nachdem ich die Waldhandschrift gesehen und
 in ihr gelesen habe, ob mich das Objekt als «Kulturtat» überzeugt.
@@ -925,7 +925,7 @@ späteren Besuchen in der Stiftsbibliothek anhand der Waldhandschrift zu
 klären. Dennoch ist klar, dass dieses Verfahren -- welches durch die
 Vorgaben zur Handhabung der Waldhandschrift und die vorhandenen
 Ressourcen (insbesondere die zur Verfügung stehende Zeit) bedingt waren
--- in weiteren Forschungen verbessert werden können.
+-- in weiteren Forschungen verbessert werden kann.
 
 [^1]: In einer anderen Version als der Präambel liegen die
     Nutzungsbedingungen auch gedruckt vor (Scarpatetti & Schäffel 1991:
