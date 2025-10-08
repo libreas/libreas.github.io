@@ -17,9 +17,9 @@ effective with Chinese journals.
 **Figure 1: *Chinese Journal of Evidence-Based Medicine*: authentic and cloned
 websites**
 
-![Fig. 1a: Authentic journal (Source: <https://www.cjebm.net/>)](img/fig1a.png)
+![Fig. 1a: Authentic journal (Source: <https://english.cjebm.com/journal/zgxzyxzz>)](img/fig1a.png)
 
-![Fig. 1b: Hijacked journal (Source: <https://web.archive.org/web/20190331173644/https://www.russianlawjournal.org/jour>)](img/fig1b.png)
+![Fig. 1b: Hijacked journal (Source: <https://web.archive.org/web/20240413062259/https://www.cjebm.net/>)](img/fig1b.png)
 
 
 Another method is to register the expired web domain of an existing
