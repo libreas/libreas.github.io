@@ -23,7 +23,7 @@ und Jahren durchleben mussten und müssen (einige von Weitem, einige, wie
 die Klimakatastrophe, auch ganz nah), so überwältigend, dass die Zeit
 dafür, Beiträge zu verfassen, fehlt?
 
-![Redaktionsorte XXVI: Bremen](img/Bremen_Redaktionsorte.jpg)
+![Redaktionsorte XXVI: Berlin (Foto: Juliane Stiller)](img/Berlin_Redaktionsorte.jpg)
 
 Immerhin, um dem Ganzen auch etwas Positives abzugewinnen: Die
 eingereichten und in die Ausgabe publizierten Beiträge haben offenbar
