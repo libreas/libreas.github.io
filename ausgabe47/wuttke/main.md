@@ -2,9 +2,7 @@
 
 In den letzten Jahren hat sich der Fokus der internationalen,
 kommerziellen Verlagslandschaft von klassischen
-Publikationsdienstleistungen hin zu Data-Analytics-
-
-Dienstleistungen verschoben. Nicht zuletzt seitdem sich der
+Publikationsdienstleistungen hin zu Data-Analytics-Dienstleistungen verschoben. Nicht zuletzt seitdem sich der
 DFG-Ausschuss für Wissenschaftliche Bibliotheken und Informationssysteme
 (AWBI) 2021 in einer Stellungnahme[^1] bezüglich der Problematik dieser
 Entwicklung, die Risiken für die digitale Souveränität der Wissenschaft
