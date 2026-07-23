@@ -1,0 +1,196 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage[babel]{csquotes}
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage[labelformat=empty]{caption} % option 'labelformat=empty]' to surpress adding "Abbildung 1:" or "Figure 1" before each caption / use parameter '\captionsetup{labelformat=empty}' instead to change this for just one caption
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+\setcapindent{0pt} % no indentation in captions
+\usepackage{xurl} % Breaks URLs
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+% typo setup
+\clubpenalty = 10000
+\widowpenalty = 10000
+\displaywidowpenalty = 10000
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+\usepackage{breakurl}
+
+%meta
+%meta
+
+\fancyhead[L]{Redaktion LIBREAS\\ %author
+LIBREAS. Library Ideas, 48 (2026). % journal, issue, volume.
+\href{https://doi.org/10.18452/}{\color{black}https://doi.org/10.18452/}
+{}} % doi 
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/4.0/}{\color{black}Creative Commons BY 4.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{Editorial \#48: Let’s talk. Interviews)}}% title
+\author{Redaktion LIBREAS} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={Editorial \#48: Let’s talk. Interviews},
+      pdfauthor={Redaktion LIBREAS},
+      pdfsubject={LIBREAS. Library Ideas, 48 (2026)},
+      pdfkeywords={Editorial, Bibliothekswesen, Interviews, Kommunikation},
+      pdflicenseurl={https://creativecommons.org/licenses/by/4.0/},
+      pdfcopyright={CC BY 4.0 International},
+      pdfcontacturl={http://libreas.eu},
+      pdfurl={https://doi.org/10.18452/},
+      pdfdoi={10.18452/},
+      pdflang={de},
+      pdfmetalang={de}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+
+%body
+Mitte April 2026, in Berlin an einem Tag, der erst noch ganz grau und
+verhangen war, aber dann über Mittag doch noch zu bestem Frühlingswetter
+wechselte. Ein Teil der LIBREAS-Redaktion – der, der gerade in der Stadt
+sein kann – trifft sich in einem der Parks. Sicherlich: Der Park ist
+irgendwie schon zu voll. Die Grillwiese ist praktisch komplett besetzt.
+Menschen spielen dort Frisbee, wo andere Menschen durchgehen wollen. Die
+Schlangen vor dem Imbiss sind zu lang (aber zum Glück noch nicht die in
+den umliegenden Spätis). Auf dem Hügel im Park finden wir aber doch
+einen Platz, auf einer der dort neu gebauten Bänke mit Blick über die
+Bäume, die Häuser hinweg in den weiten Horizont. Später dann wechseln
+wir auf eine Bank am Brunnen des Parks, der heute besser gepflegt ist,
+als es noch vor einigen Jahren der Fall war.
+
+Was wir hier tun, ist vor allem miteinander zu reden. An sich geht es um
+das Soziale, aber selbstverständlich geht es auch immer wieder um die
+Zeitschrift. Um Dinge, die wir gerne in Zukunft umsetzen wollen, um
+Dinge, die bislang nicht so geklappt haben. Um all das. Grundsätzlich
+ist es positiv. Sicherlich: Wir wissen auch, dass die Welt sich gerade
+nicht nur zum Guten entwickelt, dass es vielen Menschen viel schlechter
+geht als uns hier: Kriege, Book Bans, Sparmaßnahmen. Es fällt leicht,
+solche Punkte aufzuzählen. Aber was hier doch überwiegt: Das gemeinsame
+Gespräch, der Frühling, die Dinge, die dann neu werden, die aufblühende
+Natur, die Enten im Brunnen, vermitteln Positives. Bei all dem, was
+falsch läuft, was besser werden muss – das Gespräch miteinander hilft
+uns auch, einen ruhigen Blick auf die Zukunft zu gewinnen.
+
+Sicherlich, diese Grundstimmung passt gerade gut auf die Zeitschrift:
+Wir haben mehrfach verkündet, dass sich intern einiges ändert. (Und, um
+daran zu erinnern: Wir sind weiterhin auf der Suche nach Personen, die
+in der Redaktion mitarbeiten wollen.\footnote{Call für Mitglieder der
+  LIBREAS-Redaktion und des LIBREAS-Vereinsvorstandes, 08.01.2026,
+  \url{https://libreas.wordpress.com/2026/01/08/call-fur-mitglieder-der-libreas-redaktion-und-des-libreas-vereinsvorstandes/}})
+Aber es scheint uns auch, dass wir diese Veränderungen gut meistern.
+
+\begin{figure}
+\centering
+\pandocbounded{\includegraphics[width=.8\textwidth,keepaspectratio,alt={Redaktionsorte XXVII: Berlin, Frühling 2026}]{img/brunnen.jpg}}
+\caption{Redaktionsorte XXVII: Berlin, Frühling 2026}
+\end{figure}
+
+Und das passt auch auf unsere neue Ausgabe. Das Schwerpunktthema
+\enquote{Interviews} wird von einer ganzen Reihe von Gesprächen
+aufgegriffen, die tatsächlich, so wie wir gehofft haben, mit sehr
+verschiedenen Personen aus dem Bibliothekswesen geführt wurden. Neuen
+Direktor*innen, alten und aktuellen Mitgliedern von Redaktionen,
+Professor*innen, Bibliothekar*innen. (Wer wieder einmal fehlt, sind
+Nutzer*innen von Bibliotheken. Aber vielleicht wäre das ja ein Thema für
+eine spätere Ausgabe.) Zudem erreichten uns einige Beiträge, welche die
+Methode des Interviews reflektieren. In den Beiträgen außerhalb des
+Schwerpunktes geht es wieder einmal (was wir begrüßen) um Projekte im
+Rahmen des Wikiversums und sowie (was auch ein wichtiges Thema ist,
+obgleich man sich immer wünscht, dass es nicht in der eigenen
+Einrichtung relevant wird) um Schädlinge, also Insekten vor dem
+Hintergrund des Klimawandels.
+
+Mit Hoffnung auf ein besseres Morgen und einen Verweis auf den laufenden
+Call für die Ausgabe \#49 zum Schwerpunkt \enquote{Genuss --- Essen,
+Trinken, Schlafen in der Bibliothek}\footnote{CFP \#49: Genuss ---
+  Essen, Trinken, Schlafen in der Bibliothek, 14.04.2026,
+  \url{https://libreas.wordpress.com/2026/04/14/cfp-49-genuss-essen-trinken-schlafen-in-der-bibliothek/}}
+verbleiben wir mit Wünschen für eine angenehme Lektüre.
+
+Redaktion LIBREAS
+
+(Berlin, Brandenburg an der Havel, Chur, Göttingen, Karlsruhe und
+München)
+
+%autor
+
+\end{document}

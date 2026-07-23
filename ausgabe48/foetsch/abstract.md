@@ -1,0 +1,5 @@
+**Kurzfassung**: In der Universitätsbibliothek von Nimwegen führte die unabhängige Filmemacherin Ivana Smudja ein Interview mit zwei Verfechterinnen des Zugangs zu Informationen: Marjolein Hordijk und Norma Fötsch. Gemeinsam beleuchteten sie die Realität verbotener Bücher in den Niederlanden und den Vereinigten Staaten, erörterten die Beweggründe für Zensur und reflektierten über die Bedeutung der Lesefreiheit.
+
+---
+
+**Abstract**: At the university library in Nijmegen, Ivana Smudja, an independent filmmaker, met with bibliophiles and access-to-information advocates Marjolein Hordijk and Norma Fötsch. Together, they explored the reality of banned books in the Netherlands and the United States, unpacked the motivations behind censorship, and reflected on the importance of the freedom to read.

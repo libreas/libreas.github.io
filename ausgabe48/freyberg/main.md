@@ -1,0 +1,684 @@
+Geführt von Linda Freyberg am 24.03.2026
+<br />
+
+---
+
+*Linda Freyberg: Es geht heute um LIBREAS: Wie alles angefangen hat, wie
+es weiterging und wie ihr das alles einschätzt und empfunden habt. Wir
+beginnen mit der Gründung und reisen jetzt erst mal ins Institut für
+Bibliothekswissenschaft in den 2000er Jahren zurück.*
+
+*Wie kam die erste Idee für LIBREAS zustande? Wer war dabei? Was war der
+Kontext am Institut? Und was war eure Motivation und in welchem Jahr war
+das?*
+
+*Ben Kaden:* Also, das war im Jahr 2004: Das Institut hieß damals noch
+Institut für Bibliothekswissenschaft (IB). Kurz darauf wurde es dann zum
+Institut für Bibliotheks- und Informationswissenschaft (IBI). Und es
+hatte gerade so die Kurve bekommen, da es kurz zuvor wegen Sparmaßnahmen
+beinahe geschlossen worden wäre.
+
+So etwas traf und trifft ja hin und wieder Institute an der
+Humboldt-Universität und einige sind auch verschwunden. Jemand in der
+Hochschulleitung hatte damals also entschieden, dass auch das Institut
+für Bibliothekswissenschaft verzichtbar wäre. Es gab Gründe dafür, auf
+die müssen wir jetzt nicht eingehen. Aber es gab zugleich natürlich
+reichlich Gründe dagegen. Für uns sprach zunächst einmal dagegen, dass
+wir dort studierten und uns mit dem Fach identifizierten. Entsprechend
+war unsere Position: Ja, wir sehen großen Sinn darin, das einzige
+Institut für Bibliothekswissenschaft an einer deutschen Universität am
+Leben zu erhalten. Es war, wenn man so will, halb Eigennutz, halb Stolz
+aufs Fach. Es gab also ab dem Wintersemester 2003/04 Protestbewegungen,
+Demonstrationen, eine Sarg-Niederlegung vor der Staatsbibliothek.
+
+Als sich die Situation dann konsolidiert hatte und wir immer noch ein
+und am Institut waren -- ich hatte ja auch eine Stelle am Institut, saß
+in der Saur-Bibliothek und arbeitete für Walther Umstätter --, dachten
+wir uns, wir müssten aus dem Protest etwas Nachhaltiges ableiten.
+Parallel und übergeordnet setzte sich zeitgleich etwas durch, was man
+Web 2.0 nannte, also die Idee, dass Leute sehr einfach und frei Inhalte
+im Internet publizieren können.
+
+Wir hatten das Thema auch auf der Agenda unseres Studienplans. Dieser
+enthielt außerdem ein Seminar, in dem wir lernten, wie man Bücher macht:
+"Von der Idee zum Buch" von Petra Hauke. Das war ein tolles Projekt
+und es motivierte uns, selbst ein Publikationsprojekt anzugehen.
+
+Daneben hatten wir etwas Technik und Handwerkszeug, sprich einen
+Computer mit Dreamweaver-Zugang im Institut und ein paar
+HTML-Kenntnisse. Und wir hatten ein kleines Netzwerk unter anderem mit
+Elisabeth Simon und Walburga Lösch. Beide führten damals einen kleinen
+Verlag namens BibSpider.[^1] Wir kamen ins Gespräch und dann kam
+irgendwann der Gedanke, naja, warum gründen wir nicht eigentlich eine
+eigene Zeitschrift.
+
+Für uns als Studierende war es zu dieser Zeit sehr schwer, in etablierte
+Journals reinzukommen. In unserem Fach waren es alles noch gedruckte
+Zeitschriften. Open Access war in der deutschen Bibliothekswissenschaft
+noch gar nicht etabliert.
+
+Wir haben dann diese Bausteine für uns zusammengezogen und gedacht: Hier
+ist der Aufbruchsgeist, wir wollen etwas für die Sichtbarkeit der
+Berliner Bibliothekswissenschaft im Internet machen -- warum
+eigentlich nicht gleich eine frei zugängliche elektronische Zeitschrift?
+Also probierten wir es einfach aus und bastelten uns eine eigene
+Plattform. Wir meinten es ernst damit, wie man im Editorial der ersten
+Ausgabe immer noch nachlesen kann[^2], eine Zeitschrift zu machen, wie
+wir sie selbst gern lesen wollten.
+
+Es gab auch eine weitere, ein bisschen weniger bekannte Entwicklung mit
+einem verstärkenden Effekt: Walther Umstätter hatte mich als seinen
+studentischen Mitarbeiter beauftragt, herauszubekommen, was eine
+elektronische Zeitschrift für Bibliothekswissenschaft eigentlich
+erfordern würde. Er trug sich auch mit einer Gründungsidee. Diese
+verlief allerdings im Sand, weil dann, wenn man es groß aufziehen
+möchte, sofort 100 Leute Einwände haben und sagen, wie es gemacht werden
+sollte. Wir als Studierende waren da einerseits freier und andererseits
+naiv und dreist genug, um so etwas zu übergehen. Wir wollten nicht
+darauf warten, bis die Zeit insgesamt reif ist. Denn für uns war sie es
+ja bereits.
+
+*Linda: Wer war bei der ursprünglichen Gruppe dabei und inwiefern hatte
+das mit der Fachschaft zu tun, in der ihr ja beide auch sehr engagiert
+wart und wie würdet ihr die Atmosphäre damals beschreiben?*
+
+*Maxi Kindling:* Ja, das waren aus der Fachschaftsinitiative damals:
+Ben, Manuela Schulz und ich. Ich würde auch nochmal unterstreichen, was
+Ben gerade gesagt hat: Im Rückblick war es eine Zeit, in der wir
+erstaunlicherweise niemandem Rechenschaft ablegen mussten. Das IB war
+einfach ein Ort, an dem man solche Dinge ausprobieren konnte. Sicher gab
+es auch einige kritische Rückmeldungen. Aber uns legte niemand wirklich
+Steine in den Weg. Ich weiß nicht, ob man das so heute reproduzieren
+könnte.
+
+Ebenfalls wichtig ist, dass wir zwar Open Access gemacht haben, aber es
+nicht OA genannt haben. Wir begannen LIBREAS nicht als Open Access
+Journal. Es sollte einfach frei zu lesen und auf keinen Fall mit
+irgendwelchen Schranken verbunden sein. Erst 2006 entstand der Lehrstuhl
+von Peter Schirmbacher. Das IBI setzte sich dann enger mit dem Thema
+Open Access auseinander. Erst dann wurde uns klar, dass das, was wir da
+machen, eigentlich auch einen Namen hat. Und erst zu einem späteren
+Zeitpunkt beschäftigten wir uns auch mit Dingen wie Lizenzen. Anfangs
+spielte das noch keine große Rolle.
+
+Was ich vielleicht noch ergänzen möchte, ist, dass wir, Manuela und ich,
+damals überhaupt keine Sorge hatten, dass wir so ein Journal nicht
+gefüllt bekommen. Denn eigentlich hätten wir uns ja auch fragen können,
+wo kriegen wir überhaupt Autor\*innen her? Aber einerseits gab es diese
+Verbindung mit dem BibSpider-Verlag, bei der wir sichergehen konnten,
+dass sie sich mit darum kümmern werden, dass wir Autor\*innen bekommen.
+Gleichzeitig wussten wir, dass Ben Text ohne Ende produzieren kann, weil
+er damals auch ganz viel im IB-Weblog schrieb, sodass irgendwie immer
+klar war, an Content wird es uns nicht mangeln und auch an niemandem,
+der Editorials verfasst und so weiter. Ich glaube, da trafen ganz viele
+gute Umstände zusammen, so dass sich alles so umsetzen ließ, wie wir es
+wollten.
+
+Man muss auch wirklich noch einmal betonen: Das IB war von Anfang an
+wirklich total aufgeschlossen. Wir sprachen natürlich auch mit diversen
+Personen. Sicher waren nicht alle vorbehaltlos überzeugt oder auch nur
+glücklich, was wir da ohne die richtige Zuständigkeit des Instituts als
+solches machten. Aber im Grunde ließ man uns da enorm viel Freiheit und
+dafür bin ich wirklich dankbar.
+
+*Ben:* Wir hatten ja auch sofort Webspace, da ich ohnehin die Webseite
+des Instituts betreute. Wir konnten im Prinzip selber sogar das
+Verzeichnis anlegen. Auch Michael Heinz, damaliger IT-Admin am IB,
+unterstützte uns und meinte: Macht einfach, wir finden es gut, dass
+jetzt so etwas passiert. Es war, glaube ich, aber auch nur so
+unkompliziert möglich, weil gerade dieser Schock der Beinaheschließung
+im Raum stand. So kanalisierte man das Engagement der Studierenden in
+gewisser Weise. Ich kann mich an tatsächlich viele Kommentare von Leuten
+erinnern, die ein bisschen sehr überlegen meinten: Ihr macht dann zwei
+Ausgaben und dann habt ihr sowieso keine Lust mehr. Oder dann findet ihr
+keine Inhalte. Es gab durchaus auch Skepsis.
+
+Und wie das so ist bei Skepsis ist und bei Leuten wie uns, hat uns das
+nur noch mehr motiviert. Parallel erhielten wir auch ziemlich schnell
+viel Zuspruch. Die Ausgaben füllten sich und wir konnten alles Mögliche
+ausprobieren. So zogen wir es, wo es sich anbot, multilingual auf und
+hatten Artikel auf Russisch und Französisch in den frühen Nummern. Wir
+haben Fotostrecken reingebracht. Alles, was im Web möglich war,
+probierten wir zu dieser Zeit aus. Und es war ein toller Lernprozess für
+uns und im Prinzip ein fortlaufendes Projektseminar, das wir für uns in
+Eigenregie durchführten.
+
+*Maxi:* Vielleicht war es auch gerade deshalb erfolgreich, weil wir
+keinerlei Druck hatten, dass es ein erfolgreiches Projekt werden muss,
+dass so und so viele Ausgaben entstehen müssen oder dass irgendeine Form
+von Reputation daraus entsteht. Es war ja für uns komplett offen, wohin
+es führt und was das Ergebnis sein wird.
+
+Wir wurden damals auch vom Lehrstuhl von Peter Schirmbacher gut
+unterstützt, auch wenn dort anfangs ein bisschen Skepsis herrschte, dass
+wir nur ein vergängliches und hemdsärmeliges Studierendenprojekt sind.
+Wir wurden bei der technischen Ausrichtung unterstützt und ich erinnere
+mich, dass wir sehr viel Support von Uwe Müller bekamen. Recht bald
+konnten wir dann auch die ersten Ausgaben als Archiv auf dem edoc-Server
+publizieren. PDFs auf dem edoc-Server zu haben, war für uns ein großer
+Schritt. Denn so gab es eine echte Langzeitperspektive für die Dokumente
+und nicht nur HTML-Seiten und selbst hochgeladene PDFs.
+
+*Ben:* Ich kann mich an den Tag erinnern. Wir mussten nämlich nach
+Adlershof fahren und haben dort vor Peter Schirmbacher und seinem Team
+unseren Plan vorgestellt. Das war ein bisschen komisch, weil es wie so
+eine Art Projekt-Pitch war. Am Ende war es aber völlig unkompliziert.
+Wir hatten da mit Peter Schirmbacher jemanden, der Dinge für uns möglich
+gemacht hat.
+
+*Linda: Und was war dann im Endeffekt das Thema der ersten Ausgabe? Und
+wie seid ihr an die Autor\*innen herangekommen? Sind die im Institut auf
+euch zugekommen womöglich?*
+
+*Ben:* Wir sprachen Leute aktiv an. Und dann hat uns Herr Umstätter
+einen Beitrag geschrieben. Das erste Thema war Bibliotheksbau. Es gab in
+diesen Jahren ja eine Reihe von Neubauten und für uns in der chronischen
+Großbaustelle Berlin war Architektur auch so ein attraktives Thema. So
+haben wir nach und nach verschiedene Sachen zusammengetragen. Elisabeth
+Simon ging ebenfalls auf Tour und holte Leute dazu. Und wir selbst
+schreiben auch etwas. Es gab auch einen sehr freundlichen Grafikdesigner
+in unserem Umfeld. Von ihm kam das Logo-Design. T-Shirts gab es auch.
+Zum Launch hatten wir also auch eine kleine Art Corporate Identity. Und
+die Farben sind ja immer noch aktuell.
+
+Auf dem Bibliothekartag 2005 *launchten* wir dann die erste Ausgabe. Wir
+waren ohnehin mit Petra Hauke in Düsseldorf, da wir den im Seminar
+entstandenen Band "Bibliothekswissenschaft – quo vadis?" vorstellten.
+
+Leider erinnere ich mich nicht mehr, in welcher Form der Launch geschah.
+Vermutlich haben wir einfach unsere Visitenkarten verteilt. Auf der
+stand mein Name und der von Elisabeth Simon, was dazu führte, dass Leute
+dachten, Maxis Name sei Elisabeth.
+
+*Maxi:* Ich glaube, BibSpider als unser damaliger Partner streute es
+ebenfalls in ihrem Netzwerk. In der InetBib[^3], die damals ein richtig
+großes Ding war, wurde LIBREAS auf jeden Fall verkündet.
+
+*Ben:* Daran kann man bei der Gelegenheit auch nochmal deutlicher
+erinnern. Die InetBib ist bibliothekarische Internetgeschichte. Die
+Liste war zumindest von den späteren 1990ern vielleicht bis Ende der
+Nullerjahre das zentrale digitale Austauschformat für die
+Bibliothekswelt in Deutschland oder im DACH-Raum.
+
+*Linda: Ihr habt ihr also die erste Ausgabe auf dem Bibliothekartag in
+Düsseldorf gelauncht und dann seid ihr zurückgekommen nach Berlin.*
+
+*Und wie ging es denn dann in den nächsten Jahren weiter? Die Redaktion
+hat sich ja dann verändert, nehme ich an. Sind Leute dazugekommen?*
+
+*Ben:* Das hat aber ein bisschen gedauert, wenn ich mich richtig
+erinnere. Ich denke, die ersten vier, fünf Aufgaben haben wir weitgehend
+im kleineren Kreis, also zu dritt, gemacht.
+
+*Maxi:* Und mit dem Verlag BibSpider. Zu diesem gehörten Walburga Lösch,
+Elisabeth Simon und ganz am Anfang Julia Pagel.
+
+*Ben:* Das stimmt. Generell hat uns der Verlag sehr unterstützt. Er
+besorgte uns eine ISSN, kaufte die Domain und so weiter. Er übernahm
+diese Kleinstfinanzierung, die man trotzdem immer braucht. Und ein
+Diktiergerät haben sie uns auch finanziert. Das habe ich noch hier.
+Handys konnten zu diesem Zeitpunkt noch nicht so gut mitschneiden. Am
+Ende haben wir aber nur vielleicht vier Interviews damit geführt.
+
+*Maxi:* Das ging in dem Umfang ungefähr ein Jahr, vielleicht anderthalb
+Jahre so. Am Anfang produzierten wir ja auch noch mehr Ausgaben pro
+Jahr. Vier Ausgaben pro Jahr wollten wir immer machen. So ab 2006, 2007,
+2008 stießen dann mehr Leute dazu, alles Studierende des IBI.
+
+*Linda: Ja, und meint ihr, das hat dann mit dem erwähnten Kontext mit
+Peter Schirmbacher und Open Access zu tun, dass da auch das Interesse
+dann gewachsen ist, oder?*
+
+*Ben:* Es hatte vor allen Dingen damit zu tun, dass wir viel Zeit in der
+Saur-Bibliothek verbrachten. Andere studentische Mitarbeiter wie Boris
+Jacob waren auch immer präsent. Es war ein bisschen unser zweites
+Wohnzimmer. Und so hat sich das dann fortgesetzt. Wir haben so immer
+wieder offensiv Leute eingesponnen. Einige blieben hängen. Boris zum
+Beispiel war eine unglaubliche Bereicherung, weil er auch noch mal ganz
+andere Formate bedient hat. Er startete zum Beispiel eine Podcast-Reihe.
+Oder LIBREAS in Second Life. LIBREAS war ja auch etwas, womit man sich
+ausprobieren konnte.
+
+Michael Seadle kam zu dieser Zeit ebenfalls ans Institut und führte die
+Unterstützung weiter. Zum Beispiel bekamen wir einen sehr schönen
+Redaktionslaptop.
+
+*Maxi:* Matti Stöhr und Doreen Thiede waren zu dieser Zeit auch dabei.
+Sandra Lechelt machte zeitweise mit. Karsten Schuldt kam dazu. Und
+irgendwann gab es auch eine Phase, wo wir LIBREAS um Leute von außerhalb
+des IBI erweitern konnten, mit Heike Stadler zum Beispiel. Aber wenn wir
+ehrlich sind, war es nie so, wie wir es vielleicht uns manchmal auch
+gewünscht hätten, nämlich dass wir stärker aus unserer IBI-Bubble
+rauskommen.
+
+*Ben:* Wir hatten dafür damals leider auch nicht so richtig die
+Kontakte. Irgendwie mussten wir immer durch den Institutsrahmen
+zusammenfinden. Naiko Jahn zum Beispiel kam dazu aus dem
+Magister-Kolloquium. Wir haben mehr oder weniger zeitgleich unsere
+Magisterarbeit geschrieben. So kam dann eins zum anderen.
+
+Bei der BOBCATSS-Konferenz in Zadar lernten wir Bibliothekarinnen aus
+Minnesota kennen, die uns für einige Jahre und einige Beiträge eine Art
+amerikanische Dépendance geschaffen haben, bis sie dann in andere Berufe
+wechselten und das Bibliothekswesen so ein bisschen hinter sich ließen.
+Hätten wir diese Netzwerkarbeit aktiver ausgedehnt, hätten wir uns
+vielleicht stärker erweitern können. Aber wir nahmen es, wie es zu uns
+kam. Es war zu diesem Zeitpunkt nicht systematisch. Wer Lust zum
+Mitmachen hatte, kam einfach dazu.
+
+*Maxi:* Damals hatten wir auch Zeit. Irgendwie waren wir da alle noch in
+einer Phase, in der andere Sachen einfach ohne Weiteres auch
+zurückgestellt werden konnten und man sich dann auf LIBREAS fokussiert
+hat.
+
+*Ben:* Das kann ich bestätigen. Ich hatte für eine Weile immer
+Projektstellen mit 50 % Anteil. Teilweise am IBI, womit das dann wieder
+ganz traditionell ineinander floß. Und natürlich kommt auch dazu, dass
+wir deutlich jünger und familiär nicht so eingebunden waren.
+
+*Maxi:* Bis zu dem Moment, wo ein großer Teil von uns Familien gegründet
+hat, habe ich das immer noch als total einfach und so nebenher
+empfunden.
+
+*Linda: Aber habt ihr euch über das Profil am Anfang oder über die Zeit
+dann noch stärker Gedanken gemacht, weil es ja schon eine
+bibliothekswissenschaftliche Zeitschrift ist, aber auch eben diese
+leichten Themen immer behandelt hat und kulturelle Phänomene aufgenommen
+hat et cetera.*
+
+*Also war das so ein bewusster Prozess, dass ihr irgendwann euch so eine
+Art Profil überlegt habt oder war es von Anfang an der Gedanke, eine
+gewisse Offenheit zu haben und nicht etwas rein Wissenschaftliches
+anzubieten? Also, wie kam die inhaltliche Ausrichtung?*
+
+*Ben:* Ich glaube, wir waren einfach an dem Punkt, dass wir das machen
+wollten, worauf wir Lust hatten. So kann man es in knapper Form fassen.
+
+Wir haben das in die Zeitschrift eingespielt, was uns irgendwie begegnet
+ist, was wir interessant fanden und das war auch bewusst so gesetzt. Das
+deutsche Bibliothekswesen besaß eigentlich bereits genug
+Fachzeitschriften. Unser Anspruch war nie, mit diesen Zeitschriften zu
+konkurrieren. Dass wir sie oft auch nicht übermäßig mitreißend fanden,
+kam dazu. Für die fachliche Weiterbildung waren sie immer relevant und
+auch interessant. Aber wir wollten doch etwas anderes machen.
+
+Man darf auch nicht vergessen, dass wir in Berlin-Mitte saßen und das
+war zu dieser Zeit sehr improvisiert und aufregend. Das Tacheles lag
+beispielsweise in Laufweite. Die Stadt Berlin in ihrem beständigen
+Aufbruch wirkte auch auf uns zurück. Also diese Lebensweise, wenn man
+Mitte 20 ist, in Berlin und mit viel Zeit an der Hand. All das, worauf
+wir Lust hatten, haben wir mitunter auch in aller Unbeholfenheit
+ausprobiert und was wenig überraschend auch dazu führte, dass andere
+sagten, naja, das ist irgendwie so ein studentisches Ding und gar nicht
+so bibliothekswissenschaftlich. Ich persönlich tat mich selbst mit dem
+Label Bibliothekswissenschaft an dieser Stelle ein bisschen schwer, auch
+wenn ich es sonst immer hochhielt. Aber gerade diese Zeitschrift sollte
+nun aus meiner Sicht bewusst keine reine bibliothekswissenschaftliche
+Zeitschrift sein und werden, sondern eher eine, die ein
+Experimentierfeld ist, auf dem man alles ausprobieren kann, worauf man
+gerade Lust verspürt.
+
+*Maxi:* Ja, ich würde auch sagen, dass wir durch diese Namenserweiterung
+des IB, also Institut für Bibliothekswissenschaft zu Institut für
+Bibliotheks- und Informationswissenschaft, eine gewisse thematische
+Offenheit mitgetragen haben, die sich ein Stück weit ebenfalls in
+LIBREAS widerspiegelte. Das Spektrum wurde breiter. Aus der Redaktion
+hat dann der eine mal eine interessante Idee für einen Call gehabt oder
+für ein Thema und ein anderes Mal die andere. Manchmal kamen Ideen auch
+von außen. Wir haben uns nie irgendwie auf etwas eingegrenzt.
+
+*Ben:* Du erinnerst mich an einen wichtigen Punkt, den man hier
+vielleicht auch noch einmal betrachten kann. Das ganze Fach der
+Bibliothekswissenschaft war in diesen Jahren grundlegend im Umbruch. Als
+ich mein Studium begann, ging es um Aussonderungsregeln,
+Aufstellungssystematiken und Verbundklassifikationen. Raus ging ich dann
+mit Bibliothek 2.0 und Open Access. Über den Zeitraum von fünf Jahren
+hat sich das Fach in seiner Berliner Ausprägung enorm verändert.
+
+Die traditionellen bibliotheksorganisatorischen Fragestellungen
+verschwanden weitgehend und ganz viele digitale Fragestellungen kamen
+hinein. Davon haben wir sehr profitiert. Parallel vollzogen sich
+zahlreiche personelle Veränderungen am IBI. Neue Akteure kamen und
+brachten eine neue Agenda mit. Diese Dynamik des Faches der
+Bibliothekswissenschaft sowie des Bibliothekswesens, inklusive der damit
+einhergehenden großen Verunsicherung des Berufsfeldes wirkte auch in
+LIBREAS hinein.
+
+Ich habe mich während meines Studiums durchweg gefragt, wie ich mich
+hier eigentlich spezialisieren will? In welche Richtung will ich gehen?
+Dann das, womit ich begonnen habe, war auf einmal gar kein Thema mehr.
+Diese erzwungene Agilität war für LIBREAS sehr zuträglich. Zehn Jahre
+zuvor hätten wir es aus verschiedenen Gründen nicht so umsetzen können.
+Und zehn Jahre später vielleicht auch nicht.
+
+Was nebenbei vielleicht auch ein Tipp für
+Nachwuchswissenschaftler\*innen ist: Wenn man so eine Zeitschrift und
+eine Visitenkarte hat, dann hat man immer ein tolles Thema, um auf
+Konferenzen Menschen anzusprechen. Dann drückt man ihnen die Karte in
+die Hand, erzählt, was man macht und bittet sie um einen Beitrag. Und in
+einigen Fällen sagen die Leute dann auch zu und man erweitert so sein
+generelles Netzwerk. Heute nutzt man dafür vielleicht LinkedIn. Aber das
+gab es damals nicht. Und so ist es häufiger passiert. Deswegen hatten
+wir am Anfang auch, glaube ich, eine höhere Zahl von englischsprachigen
+Beiträgen, was sich jetzt mittlerweile doch sehr aufgelöst hat, da wir
+auch nicht mehr so sehr in dieser Form unterwegs und auf Konferenzen
+sind. Aber wir waren zum Beispiel mehrfach bei der IFLA. Da kam es gut
+an, wenn man offensiv reingeht, jung ist und sagt, wir haben hier eine
+eigene Zeitschrift gegründet.
+
+*Maxi:* Wir sind auch mit den LIBREAS-T-Shirts auf den Konferenzen
+unterwegs gewesen. Als ich mich nochmal rückblickend gefragt habe, was
+hat denn eigentlich so Spaß gemacht an LIBREAS, dann ist das genau das,
+an das ich mich sehr gerne erinnere: Man hatte immer ein Gesprächsthema,
+war eigentlich völlig frei, interessante Leute anzusprechen und sie um
+Beiträge zu bitten oder überhaupt einfach inhaltlich in einen Austausch
+zu kommen. Und vielleicht auch manchmal ein bisschen unkonventionell.
+
+*Linda: Spannender Punkt, wie euer Branding am Anfang war und wie es
+vielleicht bis heute nachwirkt. Also sowas wie jung, wild und
+studentisch. Oder was wurde über euch gesagt und wart ihr dann
+vielleicht gerade deswegen so cool, dass alle für LIBREAS schreiben
+wollten?*
+
+*Ben:* Alle wollten ja nicht schreiben... Ich weiß auch nicht, ob wir
+wirklich "cool" waren. Wir waren vielleicht eher nerdy, sogar ein
+bisschen skurril. Aber wir haben, glaube ich, damit auch etwas gemacht,
+das es zu diesem Zeitpunkt sonst nicht gab. Später kamen andere neue
+Zeitschriften. Andere Kolleg\*innen haben ihre eigenen
+Open-Access-Zeitschriften gemacht, die möglicherweise auch deutlich
+seriöser und bibliothekstheoretischer oder -praktischer waren als das,
+was wir produzierten. Diese Auffächerung war sicher auch notwendig und
+tat der Fachkommunikation gut.
+
+*Maxi:* Ich erinnere mich aber, dass es auf jeden Fall mindestens eine
+Diskussion in InetBib gab, in der sich darüber geäußert wurde, dass
+LIBREAS eine Art immerwährendes studentisches Projekt ist. Diese
+Wahrnehmung hielt sich sehr lange, hat uns aber nicht wirklich
+geschadet.
+
+*Ben:* Den Vorgang um diese Diskussion haben wir auch gut bei uns im
+Weblog dokumentiert.
+
+Das kann man sich heute auch nicht mehr so richtig vorstellen. Wir haben
+ja parallel zu der Zeitschrift auch dieses LIBREAS-Blog ziemlich
+hochfrequent bestückt. Dazu kamen auch noch Veranstaltungen. Für eine
+Unkonferenz gab es einen Countdown im Blog, wofür back-to-back 28
+Beiträge an 28 Tagen erschienen.[^4] Heute ist es fast nicht
+nachvollziehbar, dass man sich hinsetzt und so eine Menge Output
+produziert.
+
+*Linda: Ihr wart ja dann bei vielen Kanälen eine Art Vorreiter oder
+zumindest, dass ihr Formate immer schon früh ausprobiert habt. Also
+Podcast wurde eben gesagt und auch das Format Blog wurde schnell sehr
+intensiv genutzt.*
+
+*Und dann waren plötzlich zehn Jahre vorbei und dann 15 und dann 20. Und
+man stellt fest, man ist eigentlich das älteste deutschsprachige
+Open-Access-Journal im bibliothekswissenschaftlichen Bereich. Wie hat
+sich das dann geändert? Gab es Punkte, wo ihr gedacht habt, jetzt haben
+wir ja doch etwas sehr Großes aufgebaut, was nun schon lange Bestand
+hat. Habt ihr dann gedacht, jetzt müssen wir vielleicht doch mal stärker
+professionalisieren, zum Beispiel eine Stelle durch Drittmittelförderung
+beantragen oder so?*
+
+*Maxi:* Ja, es fehlte immer eine Person, die überhaupt Kapazitäten hat,
+sich um redaktionelle Prozesse zu kümmern. Aber ich würde nicht sagen,
+dass wir den Druck hatten, uns zu professionalisieren. Wenn es doch
+nötig gewesen wäre, dann um die Autor\*innenbetreuung und diese ganze
+Kommunikation besser zu steuern. Es hat bei uns dann doch mal länger
+gedauert, bis wieder jemand ins Redaktionspostfach schaute und Mails
+beantwortete. An diesen Stellen wurde es dann schon irgendwann etwas
+herausfordernder. Es gab diverse Vorstöße, ein Projekt auch zu
+beantragen. Wir waren auch tatsächlich schon so weit, dass wir eine
+halbe Antragsskizze fertig hatten. Aber irgendwie fehlten uns dann immer
+auch die Kapazitäten, das zu Ende zu bringen. Daran sieht man auch, dass
+irgendwann ein Punkt kommen musste, an dem ein Kapazitätsproblem spürbar
+wurde.
+
+*Ben:* Aus meiner Sicht gab es noch einen anderen Punkt, der da hinein
+spielte, nämlich tatsächlich die Natur der Sache selber. Hätten wir
+einen DFG-Antrag gestellt und ein \'professionelles\' Journal gemacht,
+dann hätten wir uns auf einmal auch mit der Organisation von
+Peer-Review-Prozessen beschäftigen müssen und mit einer anderen
+inhaltlichen Aufstellung. Das hätte die Zeitschrift verändert und in
+eine andere Form gebracht. Und möglicherweise waren wir noch nicht
+bereit für diesen Schritt. Und wir wären eine Zeitschrift gewesen wie
+viele andere.
+
+Unser Branding der Unkonventionalität war ja, wenn schon nicht unbedingt
+bewusst gewählt, so doch organisch gewachsen. Und je professioneller man
+wird, je mehr Bindungen man eingeht, desto weniger Spielräume hat man in
+dieser Hinsicht. Aber der Hauptpunkt war sicher: Wenn man einen Antrag
+stellen möchte, dann muss man das auch durchziehen. Eine Hürde war auch,
+dass wir selbst zu der Zeit auch institutionell noch nicht so verankert
+waren, dass es leicht möglich gewesen wäre, selbst einen Antrag zu
+stellen.
+
+*Maxi:* Es gab damals auch nicht das eine Programm zum Beispiel der DFG,
+auf das wir dann gezielt da hätten einen Antrag schreiben können. Und da
+wir eben kein wissenschaftliches Journal im klassischen Sinne waren,
+also mit Peer Review, hätten wir es wahrscheinlich auch eher als ein
+Infrastrukturvorhaben machen müssen.
+
+Wir haben es also bis zu einem bestimmten Punkt durchaus ernsthafter
+verfolgt und dann ist es auch wieder so ein bisschen im Sande verlaufen.
+Außerdem gab es dann auch den Verein, den wir ja parallel gegründet
+haben.
+
+*Ben:* Der Verein sollte auch die genannten Herausforderungen auffangen
+oder wenigstens abfedern. Ein wenig Druck entstand auch, weil BibSpider
+ab einem Punkt nicht mehr dabei war. Wir realisierten, dass wir uns um
+bestimmte Dinge strukturierter kümmern müssen, zum Beispiel, wie wir die
+Domain und den Webspace bezahlen. LIBREAS war, ist und bleibt eine
+ehrenamtliche Angelegenheit. Aber es gibt ja trotzdem Kosten und wir
+haben auch Veranstaltungen organisiert und dann stellt sich die Frage:
+Was machen wir eigentlich, wenn uns jemand 200 Euro für eine
+Veranstaltung spendet? Dann braucht man ein Konto. Das waren alles
+Punkte, an denen sich der Bedarf für eine dahinterliegende Struktur
+zeigte. Daher gründeten wir den Verein. Der läuft ja auch ganz gut und
+arbeitet auch insofern in unserem kleinen Rahmen kostendeckend. Das war
+das Ziel.
+
+Und das zweite Ziel des Vereins war natürlich, Möglichkeiten zu
+schaffen, doch bei Bedarf irgendwo anders andocken zu können. Das geht
+mit einem Verein einfacher als mit so einer sehr losen und auch
+überhaupt nicht vertraglich irgendwie eingebundenen Redaktion und
+Herausgeberschaft. Es ist über einen Verein schlicht besser zu
+organisieren. Da ist eine andere Bindungskraft gegeben.
+
+*Linda: Und wie war es mit der Vereinsgründung? Und vielleicht könnt ihr
+ja kurz sagen, was es für Mitgliedsformen gibt, für Mitglieder es gibt
+und was ihr da so gemacht habt.*
+
+Maxi: BibSpider hatte uns organisatorisch mit angeschoben und wir hatten
+auch die IBI-Anbindung, die naturgemäß weniger wurde, je weniger wir
+selbst alle am IBI tätig waren. Dennoch erschienen wir weiterhin am IBI
+und das Institut hat uns unter anderem dabei unterstützt, die Marke
+LIBREAS anzumelden.
+
+Die Vereinsgründung war 2011. Bis heute gibt es drei Formen von
+Mitgliedschaften. Man kann als natürliche Person Mitglied werden für
+einen minimalen Beitrag von zwölf Euro. Die Idee dazu war damals, dass
+wir einen Jahresbeitrag erheben wollen und pro Monat einfach einen Euro
+nehmen.
+
+Dann gibt es die Fördermitgliedschaft für 48 Euro und die
+institutionelle Mitgliedschaft für 24 Euro. Dabei sind wir auch bis
+heute geblieben und es hat ausgereicht. Damit konnte natürlich nie eine
+Stelle oder ein Dienstleister finanziert werden oder einen finanziellen
+Ausgleich bekommen. Das war auch nie das Ziel. Aber alle Unkosten und
+die eine oder andere Veranstaltung und Stipendien konnten wir so
+finanzieren.
+
+*Ben:* Was man aber auch noch ehrlicherweise ergänzen muss, ist, dass
+sich, wenn man einen Verein zu einer Zeitschrift gründet, die im
+Ehrenamt entsteht, der ehrenamtliche Aufwand verdoppelt. Man muss auf
+einmal neben der Arbeit an der Zeitschrift auch Arbeit am Verein
+tätigen. Und dies bedeutet nicht, dass man sich mal trifft und nett
+zusammensitzt. Sondern dazu gehören der Gang zum Notar, das Erstellen
+und Aushandeln von Satzungen, Kassenprüfungen und solche Dinge.
+
+*Maxi:* Wir hatten vorher tatsächlich nicht geahnt, wie viel Arbeit der
+Verein selbst auch nochmal mitbringt. Keiner von uns hatte so etwas
+vorher gemacht. Also galt auch da: Wir haben es einfach gemacht, ohne es
+groß vorab abzuwägen.
+
+*Linda: Ja, und was für Leute sind dann Mitglieder geworden? Und haben
+die auch was mitgestalten können? Oder wollten die das überhaupt
+womöglich vielleicht ja auch nicht?*
+
+*Ben:* Ja, Friends and Family, kann man erst mal sagen. Wenigstens für
+die Anfangszeit.
+
+*Maxi:* Auf jeden Fall, so sind wir auch mit unseren
+Gründungsmitgliedern gestartet. Und der Verein hat ja das Ziel der
+Förderung der bibliotheks- und informationswissenschaftlichen
+Kommunikation und als Hauptkommunikationsplattformen, die unterstützt
+werden, das Journal und den Blog.
+
+Ich denke, dass die meisten Mitglieder auch deshalb Mitglieder geworden
+sind, weil sie das Journal unterstützen wollen. Und weil das eben auch
+kein hoher Jahresbeitrag ist, der aber trotzdem für die Sache sehr
+wichtig ist und gut half. Ich glaube die Erwartung an den Verein ist
+vielleicht auch, hauptsächlich das Journal zu unterstützen. Und
+punktuell hatten wir auf jeden Fall Mitgestaltungsmöglichkeiten.
+
+*Ben:* Fridays For Future beziehungsweise Libraries4Future kann man an
+dieser Stelle auch noch erwähnen.
+
+*Maxi:* Also ich würde sagen, wir haben schon in dem Maß, wie wir es
+konnten, auch über LIBREAS hinaus Aktivitäten unterstützt. Wir haben
+auch mehrfach Stipendien angeboten für Menschen, die an Konferenzen
+teilnehmen wollten. Und das Echo war auch recht unterschiedlich auf die
+verschiedenen Angebote.
+
+*Linda: Vieles habt ihr jetzt schon gesagt und auch, was ihr an LIBREAS
+gut fandet, vor allem am Anfang. Also vielleicht wäre es doch schön, aus
+eurer persönlichen Sicht zu sagen, welche Rolle LIBREAS hatte. Es war
+natürlich ein Teil eurer beruflichen und auch privaten Biografie.*
+
+*Aber könntet ihr das so zusammenfassen oder sagen, was euch das gelehrt
+hat, gegeben hat, was ihr so mitgenommen habt für euer Leben, was ihr
+dadurch vielleicht erst gelernt habt?*
+
+*Maxi:* Also ich würde sagen, dass LIBREAS für mich über die Jahre immer
+ein fester Anker auch innerhalb der Disziplin war. Und selbst wenn man
+sich beruflich oder auch aus familiären, persönlichen Gründen vielleicht
+an dem einen oder anderen Punkt etwas weiter auch vom Fach entfernt
+hatte, waren wir über LIBREAS immer mit dem Fach selbst und auch mit dem
+Institut verbunden. So eine Konstante über so eine lange Zeit zu haben,
+jetzt eben doch schon deutlich über 20 Jahre, ist sehr wertvoll. Ich
+würde sagen, wir haben da auf ganz vielen Ebenen immer auch profitiert
+und das ganze Netzwerk, was da so drumrum war, ist natürlich auch bis
+heute großartig.
+
+*Linda: Und bei dir, Ben, was für eine Rolle hat das für dich gespielt?*
+
+*Ben:* Ich habe unglaublich viel gelernt, vor allen Dingen auch
+inhaltlich. Das Schöne mit LIBREAS und für Studierende meiner Generation
+ganz spannend war, dass man, wenn man zum Beispiel auf einer Messe
+herumschlenderte, zu irgendeinem Verlag gehen und sagen konnte: Wir
+haben hier ein Journal, wir würden gerne das Buch rezensieren und dann
+wurde es uns zugeschickt. Ich habe hier immer noch einen ganzen
+Regalmeter mit Titeln, die ich zum Rezensieren bekam. Mal habe ich sie
+besprochen, mal habe ich sie genossen. Damals war das fantastisch und
+ich habe ganz viele Dinge gelesen, die ich sonst nicht gelesen hätte.\
+Und ich habe über diverse Dinge geschrieben und wenn man über Dinge
+schreibt, lernt man auch viel über die Dinge, über die man schreibt.
+Entsprechend war das für mich eine absolut prägende Phase, in der ich im
+Prinzip die Themen gefunden habe, mit denen ich mich dann intensiver
+beschäftigte. Über Digital Humanities habe ich zum ersten Mal in LIBREAS
+geschrieben. Da hatte irgendjemand das Buch von Franco Moretti auf den
+Tisch gelegt und gefragt, ob ich das nicht rezensieren will. Also habe
+ich eine Rezension geschrieben und nebenbei gelernt, was Digital
+Humanities eigentlich sind und welche Potentiale es da gibt. Das hat die
+Agenda gesetzt. Bei Open Access war es genauso.
+
+Diese Spezialisierung von Open Access, die viele von uns haben aus der
+Redaktion, die hat sich notwendigerweise fast abgeleitet daraus, dass
+wir sehr früh ein de facto Diamond Open Access Journal herausgegeben
+haben. Keine Kosten für die Autor\*innen, keine Kosten für die Lesenden.
+Das hat mich im Prinzip dahin geführt, wo ich heute arbeite. Es war
+wirklich sehr wichtig für mich, das zu machen.
+
+*Maxi:* Ja, das auf jeden Fall.
+
+Was mir noch einfällt, ist, dass wir teilweise Themen bearbeitet haben,
+die so weit weg waren von dem, was man vielleicht in der Tätigkeit als
+studentische Hilfskraft gemacht hat oder dann später auf den jeweiligen
+Stellen. Es gab viele sehr spezifisch bibliothekarische Themen, mit
+denen ich ja sehr wenig Berührung im Alltag hatte. Aber über LIBREAS
+konnte ich immer noch ein bisschen am Ball bleiben und dazu Leute
+kennenlernen und, wie wir am Anfang schon gesagt haben, dann auch
+einfach mal fragen: Wollt ihr nicht mal einen Beitrag für LIBREAS
+darüber schreiben? Das finde sehr wertvoll.
+
+*Linda: Ihr seid ja beide als Gründungs-Herausgeber\*innen und als
+Redaktionsmitglieder\*innen mittlerweile ausgeschieden und
+voraussichtlich nur noch eine Amtsperiode im Verein aktiv. Was waren die
+Gründe dafür, möchtet ihr dazu etwas sagen?*
+
+*Maxi:* Das ist wirklich verbunden mit einem lachenden und einem
+weinenden Auge. Einerseits werden Kapazitäten frei und und andererseits
+steckt einfach so viel Herzblut drin. Es tut schon auch weh. Aber ich
+glaube, für mich ist jetzt so ein Punkt erreicht gewesen, wo es wichtig
+war, auch mal Dinge loszulassen und vielleicht auch neuen Personen eine
+Möglichkeit zu geben, sich zu entfalten, so wie wir es damals konnten
+oder auch ganz anders. Ich glaube, es funktioniert nicht gut, wenn immer
+noch sozusagen 'die Alten', die ja auch eine bestimmte Vorstellung davon
+haben, wie manche Sachen damals gemacht wurden und wie man sie dann
+später weiterentwickelt hat, den Ton angeben. Somit ist es auch gut,
+wenn man sich da löst und das vertrauensvoll in gute Hände gibt. Und das
+können wir ja mit euch auch gerade machen.
+
+Ben: Ich muss sagen, dass ich sehr ungern gehe. Aber ich sehe, dass es
+notwendig ist. Ich habe es vorhin auch schon angedeutet. LIBREAS war ja
+ein sehr junges, dynamisches Ding. Wir haben eigentlich schon frühzeitig
+versucht, die nächste Generation reinzuholen. Und dann hatten wir oft
+wunderbare Menschen dabei, die so für zwei, drei Jahre mitmachten und
+wieder rausgegangen sind. Aber eigentlich zu selten.
+
+Und das ist vielleicht die eine Sache, was ich auch in der Rückschau
+einen Hauch bedaure, nämlich, dass wir tatsächlich häufig etwas
+hermetisch gewirkt haben, dass wir es nie schafften, auch einmal ganz
+andere Personen zu uns zu holen. Also auch Leute vielleicht, die wir
+nicht persönlich kennen. Wir wollten es gar nicht sein, aber ich
+befürchte, wir wirkten oft wie ein Insider-Projekt.
+
+Und ich glaube, das hat leider auch unsere Außenwahrnehmung sehr
+geprägt, was wiederum die Mitgestaltung durch externe Personen
+erschwerte. Ich will nicht sagen, dass ich es bereue, aber ich stelle es
+so in der Rückschau fest. Und ich denke, dass es notwendig ist, auch
+diesen Raum jetzt wirklich und konsequent zu öffnen. Ich hoffe, es
+gelingt, auch andere Leute für LIBREAS zu begeistern.
+
+Ich gehe natürlich auch mit Wehmut. LIBREAS ist unser 'Kind' und wir
+lassen es jetzt so in die Welt und haben keine Kontrolle mehr darüber.
+Aber es wäre umso mehr ein Erfolg, wenn andere Leute mit der Sache auch
+was anfangen können, wie wir damit etwas anfangen konnten. Wenn sie
+etwas eigenes damit machen. Man merkt übrigens auch, dass man woanders
+im Leben steht. Und es ist nicht mehr das Jahr 2005 oder 2006, sondern
+das Jahr 2026.
+
+*Maxi:* Das 'Kind' ist volljährig, mittlerweile 21.
+
+*Ben:* Es fällt erstaunlich schwer trotz allem. Das muss man auch sagen.
+Es ist gibt da auch eine emotionale Komponente. Das unterstreicht
+eventuell noch einmal, dass LIBREAS nicht so ein professionelles Projekt
+war wie ein professionelles Projekt es eben wäre. Sondern es ist
+wirklich etwas, das mir sehr nahe geht, was extrem persönlich ist. Jetzt
+muss es ohne uns weiterlaufen. Wir sind jetzt nicht mehr 'die Eltern',
+sondern die entfernten Verwandten. Vielleicht kann man das so nehmen.
+Ich wünsche mir, dass ein paar Menschen hinzukommen, die vielleicht halb
+so alt sind wie ich, die vielleicht genauso alt sind wie LIBREAS. Und es
+neu erfinden.
+
+[^1]: [https://www.bibspider.de/](https://www.bibspider.de/)
+
+[^2]: Redaktion LIBREAS, \"Zur Zeitschrift - Young Hearts Run Free. \".
+    *LIBREAS. Library Ideas*, 1 (2005).
+    [https://libreas.eu/ausgabe1/001ed1.htm](https://libreas.eu/ausgabe1/001ed1.htm)
+
+[^3]: [https://www.inetbib.de/](https://www.inetbib.de/)
+
+[^4]: [https://libreas.wordpress.com/tag/frei13/page/4/](https://libreas.wordpress.com/tag/frei13/page/4/)

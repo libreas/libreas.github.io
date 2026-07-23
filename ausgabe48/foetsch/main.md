@@ -1,0 +1,282 @@
+What follows is an edited transcript of this conversation, published
+alongside a short [audiovisual summary](https://www.voxweb.nl/nieuws/waarom-worden-boeken-verboden-en-kan-dit-ook-in-nederland-gebeuren)
+that was released earlier.
+
+Transcript by Norma Fötsch and Marjolein Hordijk
+
+Video and questions by Ivana Smudja
+
+**1. What can we see on the table here, and what makes these books
+special or controversial?**
+
+*Norma Fötsch (NF):* My colleagues regularly organise exhibitions to
+raise awareness about specific issues. The table next to us is an
+example of this; it focuses on banned books and shows textbooks on
+banned books and examples of banned books.
+
+Throughout history, books have been banned or access to them has been
+restricted. The reasons for these can vary greatly and include
+political, religious or social reasons, or the fact that they contain
+sexual content. The list of controversial books is incredibly long.
+
+**2. Could you show us an example of a banned book? Why is this book
+banned?**
+
+*Marjolein Hordijk (MH):* Banned books? I could bring my whole bookcase.
+"The Hate U Give" is one of the most frequently banned books in American
+school libraries, and one of my favourite books. The reasons given
+include concerns about coarse language, drug use, and sexual scenes and
+references. It is also claimed that the book is anti-police and promotes
+a particular social agenda.
+
+The book is about a girl, Starr, who grows up in 'the hood' but attends
+a white school outside the neighbourhood because her parents think it's
+better for her. As a result, she feels out of place in both groups.
+Until the moment comes when her best friend is killed by a white police
+officer who thought the boy was pulling out a weapon. It was actually a
+hairbrush. A Black Lives Matter movement against the police emerges. As
+the key witness, Starr eventually decides to speak out and she becomes
+the figurehead of these demonstrations.
+
+So you could argue that all the issues mentioned earlier, such as coarse
+language and sexual scenes, are being used as grounds for removing a
+book from a school library. But it certainly raises eyebrows. After all,
+isn't it far more likely that people simply don't want books that
+empower black communities? Because this doesn't fit with the
+conservative white American narrative?
+
+**3. What does it mean when a book is \'banned\'? Does it refer to a
+legal prohibition, or to the removal of books from libraries, for
+example?**
+
+*NF:* When a book is banned, it is worth checking precisely what is
+prohibited. Is printing or distribution prohibited, or is access to the
+book restricted? For example, if the ban concerns printing the book, it
+may be that someone else holds the copyright, meaning you are not
+permitted to do so. If the issue is more about the content, however, it
+could be considered censorship. Censorship involves government
+supervision of spoken and written expressions that it deems
+objectionable. Measures can range from the removal of publications and
+blocking access to the internet to intimidation and arrests.
+
+In the Netherlands, you do not need prior permission to publish
+anything. There is also no such thing as an index of banned books.
+However, the distribution of texts can be prohibited by the courts after
+publication, and authors can be prosecuted for inflammatory texts, for
+example.
+
+In the United States, ongoing book bans often involve the removal of
+books from school libraries. Access to these books is restricted. These
+restrictions are often initiated by non-governmental organisations, such
+as Moms for Liberty. Therefore, book bans are not just
+government-imposed, but community-led too.
+
+**4. What is your opinion on how we should deal with difficult or
+controversial books? Should they always be made available?**
+
+*NF:* When it comes to dealing with controversial books, conflicting
+interests come into play. Let me introduce you to two examples.
+
+The first concerns the right to free speech versus anti-discrimination
+law. Freedom of speech is an important right that should be respected.
+But should we accept that anyone can publish or republish books in which
+a Nazi spreads hateful thoughts and calls for the killing of anyone who
+does not conform to the norm? No, we should not accept it, and you
+probably know the book I\'m talking about: "Mein Kampf" by Adolf Hitler.
+
+Another example of conflicting interests is the need for access to the
+original text versus adapting it to modern language. Some children\'s
+books use the n-word. Should we destroy the original books and only make
+the adapted versions available? This is a real example. In Denmark, for
+instance, there was a significant debate surrounding the adaptation of
+Halfdan Rasmussen\'s children\'s poems. Ultimately, eight of his poems
+were not republished due to their racist content, but the original book
+containing all the poems is still available.
+
+These examples demonstrate that the issue of banning books is complex.
+But don\'t get me wrong, governments and communities would be wise to
+avoid banning books. A true democracy can tolerate different
+perspectives.
+
+There are plenty of other ways to deal with questionable publications.
+As a publisher, for instance, you could publish an annotated edition of
+a controversial book. As a library, you could offer textbooks alongside
+the original book to explain why it is harmful or discriminatory. As a
+reader, you could choose to read books that highlight different
+perspectives.
+
+**5. Are there any banned books or books with restricted access in this
+library? How do you make that decision?**
+
+*NF:* The Radboud University Library\'s core task is to provide
+essential books and materials for study and research. This distinguishes
+it from a public library, which serves a broader public purpose.
+Furthermore, our aim is not to preserve every book, since we do not
+fulfil an archival function. Our current collection has been carefully
+developed in close consultation with the faculties. Every new
+acquisition is subject to careful assessment to determine its potential
+contribution to study and/or research. The criteria used for this
+assessment may vary from publication to publication and from faculty to
+faculty.
+
+**6. What is the current climate in the US and Europe with regard to
+sensitive or controversial titles?**
+
+*MH:* We must not assume that book bans only happen in other countries.
+Here in Europe, too, we are seeing a strong shift towards right-wing
+conservatism. Here, too, there are books that are under attack. These
+are, in particular, books relating to gender and sexuality. When
+populism is on the rise, there is no need for critical thinkers. Books
+give people a broader perspective and encourage them to think for
+themselves.
+
+**7. In the United States, an increasing number of books are being
+removed from school libraries. Is this indeed the case, and what kind of
+books are we talking about?**
+
+*NF:* Unfortunately, I can be brief about this. This picture is
+accurate. In the US, books are being removed from school libraries.
+Since 2021, PEN America has been monitoring which books are being
+removed. PEN America is an organisation dedicated to literature and
+human rights. According to their records, almost 10,000 titles are no
+longer permitted in school libraries. Notably, the majority of these
+books are about people of colour, such as "The Hate U Give", which
+Marjolein mentioned, as well as books about queer and political issues.
+
+An example of a queer book is: "Gender Queer: A Memoir". It was written
+and illustrated by Maia Kobabe. The protagonist discovers what it means
+to be nonbinary and that they are romantically attracted to others, but
+not sexually attracted to anyone. Despite this, the book has been banned
+for its sexual content. The book "Fun Home: A Family Tragicomic" by the
+great Alison Bechdel has also been banned for its sexual content. The
+book is about the author's coming of age as a lesbian and deals with
+gender roles and dysfunctional family life, among other things. One
+final example I would like to share with you is "Maus", a graphic novel
+by Art Spiegelman. It recounts the experiences of a Polish Jew who
+survived the Holocaust. It took me a while to find out why this book was
+banned. It turned out that the depiction of naked mice representing Jews
+in a concentration camp was the reason for the ban.
+
+Books are often banned on the grounds of sexual content. However, this
+argument is applied very selectively in the US. It is primarily employed
+to prohibit books that address unwelcome topics, such as racism, gay and
+lesbian sexuality, and critical historical reflections.
+
+**8. Are any books banned in the Netherlands? If so, which ones and
+why? And if not so, have there ever been plans to ban certain titles?**
+
+*MH:* At present times, no books are banned. "Mein Kampf" was banned for
+a very long time, but that was partly because the book could be kept off
+the shelves due to copyright. When the copyright expired, there was a
+debate about what to do with the book because of its hateful content.
+Ultimately, an annotated edition was published. I think it is important
+to continue having these kinds of discussions.
+
+In the Netherlands, it is enshrined in law that libraries are autonomous
+in choosing the composition of their collections. The government cannot
+intervene in this. However, social or religious pressure can influence
+this. For instance, there are many schools with a religious basis that
+refuse to include books, often gender-related, in their collections.
+Libraries and schools are constantly discussing this issue. They are
+seeking a balance between their own ideals and the reading enjoyment of
+many children.
+
+Although in practice, titles can only be banned if they are extremely
+hateful and discriminatory, it is very rare for a book to actually be
+banned. However, retailers such as BOL.com and NBD Biblion, a library
+supplier, do make a selection. They do not actively offer those books.
+
+**9. What are the implications of certain books being banned from
+schools and universities? What consequences may this have?**
+
+*MH:* Put very simply, you can't be something you don't know about. If
+you're a young boy and you feel that you're more attracted to other
+boys, but you've never heard of 'being gay', then you can't be gay.
+Because you don't know what it is.
+
+Banning books creates a very one-sided view of the world. But that
+doesn't mean all these other feelings don't exist. It leads to one-sided
+representation and unhappy children who don't fit the mould. That's a
+lot of children. Anyone and everyone who doesn't fit the heteronormative
+white mould won't recognise themselves. It's precisely those books that
+provide mirrors and windows. In a mirror, you can recognise yourself,
+and a window gives you a different view of the world.
+
+When you talk about banning books by critical thinkers or influential
+writers, you are erasing parts of history. You are erasing people's
+identities. As far as I'm concerned, it's the first step towards
+dehumanisation.
+
+**10. Why is it so important for a democratic society to have free
+access to books and knowledge?**
+
+*NF:* For a democratic society to thrive, people must understand
+political decisions, question them critically, and take action
+themselves. Books, journals and other academic and non-academic
+publications provide background information and offer different
+perspectives. Without this information, we cannot assess current events
+critically, nor can we take action.
+
+Nearly 4,000 unique titles are on last year\'s list of banned books.
+Most of the affected titles involve publications on LGBTQIA+ topics,
+race, and politics. The aim is to prevent young people from reading
+these books. The aim is to make these books invisible. However, it\'s
+not just about making these books invisible; it\'s also about making
+queer people, people of colour, and left-wing individuals invisible.
+
+On a personal level, I believe that free access to books is a necessity,
+not a luxury. It is a prerequisite for a society in which diversity and
+equal treatment are valued. For instance, removing queer books from
+school libraries excludes people and renders queer individuals
+invisible. As a child in the 1980s, I would have loved to read books
+about two girls falling in love, for example. However, I couldn't find
+any. Consequently, as an adult, I have struggled to find the right
+words. Fortunately, these books now exist, and I am happy for young
+people, hoping that these books will remain available to them.
+
+**11. What is your view on the future? Do you think that more books
+will disappear, or that banned titles will be reinstated?**
+
+*MH:* We haven't hit rock bottom yet. In the Netherlands, we're seeing
+coordinated campaigns gaining traction, such as the 'Week van de
+Lentekriebels' project for primary schools, which introduces pupils to
+sex and relationship education, and campaigns targeting certain authors.
+They're having the desired effect. People are complaining to their
+children's schools and speaking out on social media. There are political
+parties currently sitting in the House of Representatives whose
+manifestos call for the desexualisation of school textbooks. Many
+authors have now started to self-censor out of fear. Publishers are also
+asking their authors to delete passages. We live in a time when a
+children's book author received so many death threats that he had to be
+put under security protection and leave his home. This is already
+happening, and although I hope we will get past this very soon, I fear
+it will take some time and is likely to get even worse.
+
+**12. You are organising and participating in a screening of the
+documentary "The Librarians" at the city film house, followed by a
+discussion on book censorship in the US. Why is this discussion
+important, and what do you hope to achieve with the event?**
+
+*NF:* I would like to use this opportunity to emphasise the importance
+of libraries and free access to information. My personal aim is to raise
+awareness of this issue. I want my colleagues and friends to see what is
+happening, and the documentary "[The Librarians](https://thelibrariansfilm.com/)" by Kim A. Snyder shows this
+in a really compelling way.
+
+I have previously watched this documentary. Afterwards, I felt a mixture
+of powerlessness and anger, but also a desire to take action. I am not
+the only one who felt this way. Marjolein just told me that becoming
+active is also the topic of the manifesto "Doe Iets", published last
+year by ProBiblio. It\'s about activism in libraries. When I think about
+what I can do, a lot of activities come to mind. You could think of
+supporting special libraries and archives like "The Black Archives" in
+the Netherlands or the "Transgender Archives" in Canada. But the easiest
+and most obvious one would be reading banned books.
+
+*MH:* For me, it's important to show people that what's happening in
+America isn't just a distant problem. They're ahead of us, but we're not
+far behind. I want to make people aware of this. At the same time, I
+want to inspire people to take action. We're part of this ourselves and
+can take action ourselves. If we don't, we too run the risk of slipping
+down that path. The arts, including books, are the first to suffer. We
+must take this warning very seriously.

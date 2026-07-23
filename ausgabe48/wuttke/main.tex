@@ -1,0 +1,515 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage[babel]{csquotes}
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage[labelformat=empty]{caption} % option 'labelformat=empty]' to surpress adding "Abbildung 1:" or "Figure 1" before each caption / use parameter '\captionsetup{labelformat=empty}' instead to change this for just one caption
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+\setcapindent{0pt} % no indentation in captions
+\usepackage{xurl} % Breaks URLs
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+% typo setup
+\clubpenalty = 10000
+\widowpenalty = 10000
+\displaywidowpenalty = 10000
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+\usepackage{breakurl}
+
+%meta
+%meta
+
+\fancyhead[L]{U. Wuttke\\ %author
+LIBREAS. Library Ideas, 48 (2026). % journal, issue, volume.
+\href{https://doi.org/10.18452/37898}{\color{black}https://doi.org/10.18452/37898}
+{}} % doi
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/4.0/}{\color{black}Creative Commons BY 4.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{Die Genese des Wissenschaftspodcasts \enquote{Die Wissensarchitekt*innen} – von der Idee ins Ohr}}% title
+\author{Ulrike Wuttke} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={Die Genese des Wissenschaftspodcasts „Die Wissensarchitekt*innen“ – von der Idee ins Ohr},
+      pdfauthor={Ulrike Wuttke},
+      pdfcopyright={CC BY 4.0 International},
+      pdfsubject={LIBREAS. Library Ideas, 48 (2026)},
+      pdfkeywords={Wissenschaftskommunikation, Wissenschaftspodcast, Podcasting, Datentracking, science communication, science podcast, data tracking},
+      pdflicenseurl={https://creativecommons.org/licenses/by/4.0/},
+      pdfcontacturl={http://libreas.eu},
+      pdfurl={https://doi.org/10.18452/37898},
+      pdfdoi={10.18452/37898},
+      pdflang={de},
+      pdfmetalang={de}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+\begin{abstract}
+\noindent
+\textbf{Kurzfassung}: Dieser Beitrag präsentiert in Dialogform als
+fiktives Interview die Genese des Podcasts \enquote{Die
+Wissensarchitekt*innen}. Diese wird anhand der Punkte Motivation
+\& Themenverständnis, Gesprächspartner*innen \& Vorbereitung,
+Episodenstruktur \& Dramaturgie, Technik \& Tools und Rezeption,
+Feedback \& Ausblick vorgestellt. Dabei werden sowohl spezifische
+inhaltliche Aspekte des Podcasts als auch Learnings für allgemein am
+Podcasting als Format der Wissenschaftskommunikation interessierte
+Personen erörtert.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+\end{abstract}
+
+%body
+\section{Intro}\label{intro}
+
+\textbf{Ulrike Wuttke:} Tapp, tapp, tapp\ldots{} Räusper, ist das
+Mikrofon eigentlich an?\footnote{Anmerkung: Dieser Beitrag präsentiert
+  in Dialogform als fiktives Interview die Genese des Podcasts
+  \enquote{Die Wissensarchitekt*innen}. Die Persona \enquote{Die
+  Aufnahmeleitung} ist ein Alter Ego der Autorin und hat keinerlei
+  Ähnlichkeiten mit lebenden Personen.}
+
+\textbf{Die Aufnahmeleitung:} \emph{Ja, ich denke schon, wir sind
+bereit! Können Sie sich bitte kurz vorstellen?}
+
+\textbf{Ulrike Wuttke:} Ich bin Ulrike Wuttke und ich bin Professorin
+für Bibliothekswissenschaft -- Strategien, Serviceentwicklung und
+Wissenschaftskommunikation am Fachbereich Informationswissenschaften der
+Fachhochschule Potsdam. Februar 2026 bin ich nach langer Vorbereitung
+mit einem eigenen Podcast gestartet, er heißt \enquote{Die
+Wissensarchitekt*innen}. In ihm rede ich mit spannenden Gäst*innen über
+das Thema Datentracking in der Wissenschaft. Danke, dass ich mit dabei
+sein darf.
+
+\section{Motivation \&
+Themenverständnis}\label{motivation-themenverstuxe4ndnis}
+
+\textbf{Die Aufnahmeleitung:} \emph{Frau Wuttke, Sie haben sich dafür
+entschieden, einen neuen bibliothekarischen Podcast zu starten. Auf der
+Übersicht vom Bibliotheksverband sind alleine schon über 20
+Bibliothekspodcasts verzeichnet}\footnote{O. A. Bibliothekarische
+  Podcasts. \emph{Bibliotheksportal}.
+  \url{https://bibliotheksportal.de/bibliothekarische-podcasts/}}
+\emph{und auch sonst gibt es eine sehr große Anzahl Podcasts. Warum
+braucht es noch einen Podcast, nämlich Ihren?}
+
+\textbf{Ulrike Wuttke:} Es kann natürlich nie genügend Podcasts geben!
+(lacht). Und auch bibliothekarische Podcasts sind schon eine Weile im
+Trend und übernehmen Funktionen sowohl in der Wissenschaftskommunikation
+als auch in der Öffentlichkeitsarbeit beziehungsweise im
+Marketingmix.\footnote{Siehe zum Beispiel Siegfried, Doreen. 2023.
+  Wirkungsorientierte Kommunikationsarbeit: Positionierung der ZBW als
+  Open-Science-Partner für die Wirtschaftsforschung. \emph{B.I.T.
+  online} 26, Nr. 3: 234--241,
+  \url{https://www.b-i-t-online.de/heft/2023-03-fachbeitrag-siegfried.pdf}
+  Feidicker, Charlotte. 2025. Ein Medium, das Spaß macht und den
+  Austausch fördert SUBTEXT für Partizipation: Podcast \enquote{Über die
+  Benutzung von Bibliotheken}. \emph{BuB -- Forum Bibliothek und
+  Information} 77, Nr. 10: 496--499,
+  \url{https://doi.org/10.24403/jp.1529576}} Daher habe ich letztes Jahr
+zusammen mit Alexander Winkler und Ralf Stockmann bei der BiblioCon 2025
+in Bremen ein Hands-On-Lab mit dem Titel \enquote{Podcasts in
+Bibliotheken} gegeben.\footnote{Wuttke, Ulrike, Ralf Stockmann und
+  Alexander Winkler. 2026. Podcasts als bibliothekarisches
+  Handlungsfeld. \emph{B.I.T. online} 29, Nr. 1: 48--53,
+  \url{https://www.b-i-t-online.de/heft/2026-01-nachrichtenbeitrag-wuttke.pdf}}
+Darin ging es neben der eigenen Produktion von Podcasts durch
+Bibliothekar*innen auch um bibliothekarische Dienstleistungen rund um
+das Podcasting. Mittlerweile hat sogar die ehrwürdige Stabi Berlin im
+April 2026 ein eigenes \enquote{Mikrofone ready}-Podcaststudio
+eröffnet.\footnote{Bucher, Michael. 2026. Podcaststudio
+  Einführungskurse. \emph{Staatsbibliothek zu Berlin: Blog-Netzwerk für
+  Forschung und Kultur}. 3. Februar.
+  \url{https://blog.sbb.berlin/podcaststudio/}}
+
+\textbf{Die Aufnahmeleitung:} \emph{Und da dachten Sie, warum habe ich
+eigentlich keinen Podcast?}
+
+\textbf{Ulrike Wuttke:} Fast! Im Ernst, angesichts der steigenden
+Beliebtheit von Podcasts in der Wissenschaftskommunikation habe ich
+schon eine Weile mit dem Gedanken gespielt, einen Podcast zu starten, um
+mit Expert*innen über Fragen aus dem \enquote{Maschinenraum der
+Informationsgesellschaft} zu sprechen, und zwar als Wissenschaftlerin,
+aus einer überinstitutionellen Perspektive. Und ich wollte im Rahmen
+meiner Transferprofessur mehr Aufmerksamkeit für das Thema Datentracking
+in der Praxis erwecken. Da bot es sich an, das Medium Podcast
+auszuprobieren, vor allem auch, weil mein Praxispartner für den
+Transfer, Ralf Stockmann von der Zentral- und Landesbibliothek Berlin
+(ZLB) selbst ein sehr erfahrener Podcaster ist.
+
+\textbf{Die Aufnahmeleitung:} \emph{Und was hat es mit dem Namen des
+Podcasts \enquote{Die Wissensarchitekt*innen} auf sich?}
+
+\textbf{Ulrike Wuttke:} Also, ich wollte keinen reinen
+Bibliothekspodcast gründen. Ich habe ja auch keine Bibliothek, sondern
+einen Podcast, der sich im breiteren Sinn aus Sicht der
+Informationswissenschaften mit der Welt hinter den Daten und was
+Bibliotheken, Forschung und Algorithmen miteinander verbindet,
+beschäftigt. Weil ich selbst ein sehr neugieriger Mensch bin, wollte ich
+spannende Personen interviewen, die unsere Informationsinfrastrukturen
+gestalten, und mit ihnen kritisch etablierte Strukturen, aktuelle
+Entwicklungen und Herausforderungen besprechen. Daher \enquote{Die
+Wissensarchitekt*innen}, es sollte auch ein wenig geheimnisvoll klingen.
+
+\textbf{Die Aufnahmeleitung:} \emph{Die erste Staffel Ihres Podcasts ist
+dem Thema Datentracking bzw. Science Tracking gewidmet. Warum haben Sie
+genau dieses Thema gewählt?}
+
+\textbf{Ulrike Wuttke:} Science Tracking, also Datentracking in der
+Wissenschaft insbesondere durch kommerzielle Player, ist ein
+hochbrisantes Thema. Was das genau ist, erklären zum Beispiel Renke
+Siems und Yuliya Fadeeva in der ersten Episode und Nicola Mößner in der
+zweiten Episode, Link ist natürlich in den Shownotes.\footnote{Wuttke,
+  Ulrike. 2026. Was ihr schon immer über Datentracking in der
+  Wissenschaft wissen wolltet. Mit Renke Siems und Yuliya Fadeeva.
+  \emph{Die Wissensarchitekt*innen} (Podcast). 1. Februar 2026.
+  \url{https://podcasts.homes/@Die_Wissensarchitekt_innen/episodes/was-ihr-schon-immer-uber-datentracking-in-der-wissenschaft-wissen-wolltet}
+  Wuttke, Ulrike. 2026. Business as usual? Philosophische Reflexionen
+  zum Datentracking. Mit Nicola Mößner. \emph{Die
+  Wissensarchitekt*innen} (Podcast). 1. März 2026.
+  \url{https://podcasts.homes/@Die_Wissensarchitekt_innen/episodes/business-as-usual-philosophische-reflexionen-zum-datentracking}}
+Angesichts des Ernsts der Lage ist es meine Motivation, zu diesem Thema
+einen Transfer in die Gesellschaft und die Praxis herzustellen. Dafür
+habe ich von meiner Hochschule, wie bereits erwähnt, eine sogenannte
+Transferprofessur bekommen. Hierdurch habe ich Zeit, mich in kooperative
+Projekte mit Partner*innen aus Wirtschaft, Politik, Zivilgesellschaft
+und Verwaltung einzubringen. Nach langer Recherche und Vorsondierungen,
+habe ich mir gedacht, dass so ein Podcast ein großes Potenzial für eine
+Breitenwirkung haben kann, um diese Leerstelle im bibliothekarischen
+Diskurs zu bespielen, aber auch um darüber hinaus Aufmerksamkeit für
+dieses bislang in der Öffentlichkeit unterbelichtete Thema zu
+erreichen.\footnote{Weiß, Monika. 2026. Wissenschaft kommuniziert --
+  audiovisuell: Science-Videos als digitale Transformation des
+  Publizierens. \emph{kommunikation@gesellschaft} 26, Nr. 1.
+  \url{https://doi.org/10.15460/kommges.2025.26.1.1866}} Und dann habe
+ich gedacht, ok, jetzt probiere ich das aus. So fing eigentlich alles
+an.
+
+\textbf{Die Aufnahmeleitung:} \emph{Apropos Transfer und Publikum, an
+wen richtet sich der Podcast?}
+
+\textbf{Ulrike Wuttke:} Ich habe ein Bild vor Augen, dass der Podcast
+\enquote{Die Wissensarchitekt*innen} ein Muss für alle sein sollte, die
+sich für Wissen, Daten und Gesellschaft interessieren und ein Faible für
+wissenschaftliche Themen aus Bibliothekswesen, Informationswissenschaft
+und Digital Humanities haben. Das können Studierende und
+Wissenschaftler*innen in den Informationswissenschaften, Digital
+Humanities, Angewandter Informatik und anverwandten Gebieten sein,
+Bibliotheksmenschen und Information Professionals, aber auch Personen
+aus der Zivilgesellschaft, die sich für Wissen, Daten und Gesellschaft
+interessieren. Das Thema ist natürlich schon eine etwas nerdige Nische.
+Aber wer sich nun wirklich direkt angesprochen fühlt, muss sich noch
+zeigen, der Podcast ist ja gerade erst gestartet. Und gerade für
+Nischenthemen eignet sich das Podcastformat durchaus, wie die breite
+Themenlandschaft zum Beispiel bei der Plattform
+\href{https://wissenschaftspodcasts.de}{Wissenschaftspodcasts.de} zeigt.
+
+\section{Gesprächspartner*innen \&
+Vorbereitung}\label{gespruxe4chspartnerinnen-vorbereitung}
+
+\textbf{Die Aufnahmeleitung:} \emph{Wie wählen Sie die
+Gesprächspartner*innen aus? Haben Sie da bestimmte Vorgaben oder
+Kriterien?}
+
+\textbf{Ulrike Wuttke:} Selbstverständlich müssen die Gäst*innen zum
+Thema der Staffel passen. Aber sonst entscheide ich alleine, wen ich
+einlade. Die Personen müssen dann natürlich noch \enquote{ja} sagen und
+wir müssen einen Termin finden. Ich versuche auch, auf das
+Geschlechtergleichgewicht zu achten. Bei technischen Themen treten immer
+noch schnell eher männlich gelesene Personen in den Vordergrund. Im
+Umkehrschluss heißt es aber nicht, dass ich nur weiblich gelesene
+Personen in den Podcast einlade, das ist nicht das Konzept, wie zum
+Beispiel bei \enquote{Informatik für die moderne Hausfrau}\footnote{\url{https://informatik-hausfrau.de/}},
+ein toller Podcast übrigens.
+
+Ein paar Gäst*innen habe ich schon seit der Planung der ersten Staffel
+auf meiner Wunschliste. Momentan wächst diese Liste aber immer weiter,
+das liegt auch daran, dass eine feste Rubrik im Podcast die sogenannte
+Kettenfrage ist. Da frage ich meine Gäst*innen, wen ich zu welchem Thema
+einladen soll. Das ist sehr spannend und inspirierend. Das kann eine
+umfangreiche Staffel werden\ldots{}
+
+\textbf{Die Aufnahmeleitung:} \emph{Wie bereiten Sie sich auf die
+Gespräche vor? Stellen Sie immer die gleichen Fragen?}
+
+\textbf{Ulrike Wuttke:} Das Gute an einem Podcastinterview ist, dass ich
+die Freiheit habe, unterschiedliche und vor allem auch spontane Fragen
+zu stellen, auch wenn es feste Rubriken gibt, wie zum Beispiel die eben
+erwähnte Kettenfrage. Ich frage auch nicht völlig planlos, sondern
+stimme im Vorfeld die Fragen mit den Interviewpartner*innen ab. Das
+heißt, ich recherchiere erst umfangreich und führe dann nach Möglichkeit
+mit den Gäst*innen ein Vorgespräch zur Feinabstimmung. Gerade Personen
+mit wenig Podcasterfahrung wünschen sich das explizit im Vorfeld, das
+gibt ihnen eine gewisse Sicherheit. Es hilft auch dabei, einen roten
+Faden im Gespräch zu haben. Es ist ja trotzdem immer noch möglich,
+nachzuhaken. Gute Podcastinterviews sind also eine Frage der guten
+Vorbereitung, nicht von Kontrolle, weil nur dadurch eine gewisse
+Spontanität entsteht, die aus meiner Sicht die für ein gutes Gespräch
+notwendige Balance zwischen Fachlichkeit und Persönlichkeit schafft.
+
+\textbf{Die Aufnahmeleitung:} \emph{Es gibt also durchaus Raum für
+spontane Momente?}
+
+\textbf{Ulrike Wuttke:} Ja, auf jeden Fall! Ich glaube, die Hörer*innen
+schätzen an Podcasts als Mittel der Wissenschaftskommunikation, dass sie
+weniger \enquote{glatt} produziert sind als typische Radiofeatures.
+
+\section{Episodenstruktur \&
+Dramaturgie}\label{episodenstruktur-dramaturgie}
+
+\textbf{Die Aufnahmeleitung:} \emph{Kommen wir noch einmal zur Struktur
+des Podcasts. Sie haben ja schon gesagt, dass es feste Bestandteile
+gibt. Warum und welche Bestandteile sind das bei den
+Wissensarchitekt*innen?}
+
+\textbf{Ulrike Wuttke:} Jede Episode der ersten Staffel hat im Prinzip
+eine ähnliche Dramaturgie, um die Hörer*innen mitzunehmen, wobei
+Variationen aber durchaus möglich sind. Klassische Bestandteile jedes
+Podcasts sind natürlich Intro und Outro, die sozusagen den Rahmen jeder
+Episode bilden. Mein Podcast hat ein festes Intro, aber das Outro
+spreche ich jedes Mal neu ein, weil ich darin versuche, einen Ausblick
+auf die nächste Episode zu geben, sozusagen als Cliffhanger. Nach dem
+Intro gibt es die Vorstellung der Gäst*innen, das heißt, erst stelle ich
+die Gäst*innen biografisch vor, dann erzählen sie in der Rubrik
+\enquote{Persönlicher Pfad} etwas über ihren Hintergrund und wie sie zum
+Thema Datentracking gekommen sind, und dann stelle ich spezifische
+Fragen zum Fokusthema der Episode, die sich aus Recherche und
+Vorgespräch ergeben haben. Dann gibt es meist einen Tooltip, das heißt,
+die Gäst*innen stellen ein digitales Werkzeug oder Konzept vor, und die
+bereits erwähnte Kettenfrage.
+
+\textbf{Die Aufnahmeleitung:} \emph{Sind alle Fragen vorher
+abgesprochen?}
+
+\textbf{Ulrike Wuttke:} Es ist durchaus Platz für Spontanität. Je nach
+Konstellation habe ich auch noch die Rubrik \enquote{Gäst*innen fragen}
+-- Gäst*innen stellen sich also gegenseitig eine Frage, oder aber auch
+mir. Das ist zum Beispiel spontan. Und dann natürlich am Ende, das finde
+ich immer sehr höflich, die Frage, ob es noch etwas gibt, was noch nicht
+gesagt wurde.
+
+\section{Technik \& Tools}\label{technik-tools}
+
+\textbf{Die Aufnahmeleitung:} \emph{Ich würde gerne noch ein wenig auf
+technische und organisatorische Learnings eingehen. Wie läuft die
+Produktion so ab, welche Ausstattung ist am Start?}
+
+\textbf{Ulrike Wuttke:} Also vielleicht stelle ich erst einmal klar, der
+Podcast \enquote{Die Wissensarchitekt*in\-nen} ist momentan eine
+One-Woman-Show und Low-Budget. Ich konzeptioniere, produziere und
+veröffentliche alle Episoden alleine und mache Werbung auf Social Media.
+Daher ist auch noch nicht alles 100\,\%, aber das Grundprinzip steht.
+
+Zum Schneiden verwende ich die Open-Source-Software
+Ultraschall.\footnote{\url{https://ultraschall.fm/}} Das Hosting erfolgt
+über \href{https://podcasts.homes}{Podcasts.homes/}.\footnote{\url{https://podcasts.homes/@Die_Wissensarchitekt_innen/about}}
+Das ist ein kleiner, aber feiner \enquote{Castopod}-Server\footnote{\enquote{Castopod
+  is a free and open-source podcast hosting solution made for podcasters
+  who want engage and interact with their audience.} Vgl.
+  \url{https://github.com/ad-aures/castopod}} im Fediverse. Ich bin sehr
+dankbar, dass der Podcast dort eine Heimat gefunden hat. Ansonsten
+spiele ich zusätzliche Materialien, wie zum Beispiel die
+Transkriptionen, über meine Webseite aus.\footnote{\url{https://ulrikewuttke.wordpress.com/die-wissensarchitektinnen/}}
+Da überlege ich für die Zukunft, ob ich das vielleicht über Zenodo löse,
+auch als paralleler Publikationsort für die Mediendateien. Das wäre noch
+nachhaltiger und dann bekämen sie zusätzlich einen DOI.
+
+\textbf{Die Aufnahmeleitung:} \emph{Welche Rolle spielt die Technik bei
+der Produktion des Podcasts?}
+
+\textbf{Ulrike Wuttke:} Ich habe ein gutes mobiles Aufnahmegerät und ein
+Studiomikrofon vom Labor für Wissenschaftskommunikation meines
+Fachbereichs zur Verfügung gestellt bekommen, weil eine gute Tonqualität
+für ein intimes Medium wie einen Podcast, wo Mensch ja direkt auf den
+Ohren der Hörer*innen liegt, sehr wichtig ist. Sonst sehe ich Technik
+als Ermöglicherin und nicht als Selbstzweck, wobei mir schon wichtig
+ist, weniger proprietäre Tools zu verwenden und datensparsam zu
+arbeiten. Da habe ich mich an Good Practices anderer Podcasts orientiert
+und viel umgehört, bei Zusammentreffen von Podcaster*innen wie beim
+GanzOhr oder einem Workshop, den ich an der FH Potsdam organisiert
+habe.\footnote{Ulrike Wuttke (2025), \#WissPodPotsdam2024: Nachbericht
+  zum Workshop zu Formaten und Etablierung von Wissenschaftspodcasts
+  (Fachhochschule Potsdam, 18.--19.07.2024), DHd-Blog, Link:
+  \url{https://dhd-blog.org/?p=21891}} Manchmal sind es so kleine
+Sachen, wie darauf zu achten, dass der Podcast einen echten RSS-Feed
+hat, damit er plattformunabhängig abonniert werden kann, zum Beispiel
+mit der datensparsamen App Antennapod.\footnote{\url{https://antennapod.org/de/}}
+Für eine bessere Sichtbarkeit habe ich ihn zusätzlich über die
+wichtigsten üblichen Verzeichnisse und Plattformen distribuiert.
+
+\section{Rezeption, Feedback \&
+Ausblick}\label{rezeption-feedback-ausblick}
+
+\textbf{Die Aufnahmeleitung:} \emph{Kommen wir nun zu Ihrem Fazit aus
+den ersten Episoden. Was hat Sie am meisten überrascht, was gibt es
+bislang für Rückmeldungen?}
+
+\textbf{Ulrike Wuttke:} So ein Podcast macht eine Menge Arbeit. Neben
+dem Schneiden und den Transkriptionen sind vor allem die Werbung über
+Mailinglisten und Social Media zeitintensiv. Positive Rückmeldungen wie
+\enquote{Das ist echt unheimlich wichtig.}, \enquote{Erst jetzt habe ich
+die Tragweite von Science Tracking verstanden.} oder auch einfach
+\enquote{Super interessante Episode!} motivieren aber ungemein und
+zeigen meiner Meinung nach, dass das Konzept aufgegangen ist, diesem
+nicht nur für Bibliotheksmenschen hochrelevanten Thema einen neuen
+Gesprächsraum zu bieten. Vielleicht trägt dazu auch bei, dass ich das
+Thema an die Initiative Digital Independence Day angebunden
+habe.\footnote{\url{https://di.day/de}}
+
+\textbf{Die Aufnahmeleitung:} \emph{Gibt es noch etwas, das noch gesagt
+werden sollte? Welche Pläne haben Sie mit dem Podcast?}
+
+\textbf{Ulrike Wuttke:} Also ein paar weitere Episoden zum Datentracking
+habe ich schon in der Planung \ldots{} Ich bin positiv überrascht, wie
+viele Personen bereits spontan zugesagt haben. Es besteht natürlich auch
+die Möglichkeit, Sonderepisoden zu anderen Themen dazwischenzuschieben
+oder weitere Staffeln, auch zu anderen Themen, aufzunehmen. Außerdem
+möchte ich gerne die Reichweite erhöhen. Also bitte weitersagen:
+\enquote{Die Wissensarchitekt*innen}, Staffel 1 zum Datentracking in der
+Wissenschaft, auf \href{https://podcasts.homes}{Podcasts.homes/} und
+überall, wo es Podcasts gibt, abonnieren, liken, und eine positive
+Bewertung hinterlassen.
+
+Bis dahin, bleibt kritisch -- und vergesst nicht, Wissen ist gestaltbar!
+
+\textbf{Die Aufnahmeleitung:} \emph{Vielen Dank für dieses Interview!}
+
+\textbf{Ulrike Wuttke:} Danke, dass ich hier sein durfte!
+
+\section{Literaturverzeichnis}\label{literaturverzeichnis}
+
+O. A. Bibliothekarische Podcasts. \emph{Bibliotheksportal}.
+\url{https://bibliotheksportal.de/bibliothekarische-podcasts/}
+(zugegriffen: 14. April 2026).
+
+Bucher, Michael. 2026. Podcaststudio Einführungskurse.
+\emph{Staatsbibliothek zu Berlin: Blog-Netzwerk für Forschung und
+Kultur}. 3. Februar. \url{https://blog.sbb.berlin/podcaststudio/}
+(zugegriffen: 14. April 2026).
+
+Feidicker, Charlotte. 2025. Ein Medium, das Spaß macht und den Austausch
+fördert SUBTEXT für Partizipation: Podcast \enquote{Über die Benutzung
+von Bibliotheken}. \emph{BuB -- Forum Bibliothek und Information} 77,
+Nr. 10: 496--499. \url{https://doi.org/10.24403/jp.1529576}
+
+Siegfried, Doreen. 2023. Wirkungsorientierte Kommunikationsarbeit:
+Positionierung der ZBW als Open-Science-Partner für die
+Wirtschaftsforschung. \emph{B.I.T. online} 26, Nr. 3: 234--241.
+\url{https://www.b-i-t-online.de/heft/2023-03-fachbeitrag-siegfried.pdf}
+
+Weiß, Monika. 2026. Wissenschaft kommuniziert -- audiovisuell:
+Science-Videos als digitale \linebreak Transformation des Publizierens.
+\emph{kommunikation@gesellschaft} 26, Nr. 1.
+doi:\href{https://doi.org/10.15460/kommges.2025.26.1.18666}{10.15460/kommges.20 25.26.1.1866}, \url{https://journals.sub.uni-hamburg.de/hup2/kommges/article/view/1866}
+(zugegriffen: 14. April 2026).
+
+Wuttke, Ulrike, Ralf Stockmann und Alexander Winkler. 2026. Podcasts als
+bibliothekarisches Handlungsfeld. \emph{B.I.T. online} 29, Nr. 1:
+48--53.
+\url{https://www.b-i-t-online.de/heft/2026-01-nachrichtenbeitrag-wuttke.pdf}
+
+Wuttke, Ulrike. 2026. Was ihr schon immer über Datentracking in der
+Wissenschaft wissen wolltet. Mit Renke Siems und Yuliya Fadeeva.
+\emph{Die Wissensarchitekt*innen} (Podcast). 1. Februar 2026.
+\url{https://podcasts.homes/@Die_Wissensarchitekt_innen/episodes/was-ihr-schon-immer-uber-datentracking-in-der-wissenschaft-wissen-wolltet}
+(zugegriffen: 14. April 2026).
+
+Wuttke, Ulrike. 2026. Business as usual? Philosophische Reflexionen zum
+Datentracking. Mit Nicola Mößner. \emph{Die Wissensarchitekt*innen}
+(Podcast). 1. März 2026.
+\url{https://podcasts.homes/@Die_Wissensarchitekt_innen/episodes/business-as-usual-philosophische-reflexionen-zum-datentracking}
+(zugegriffen: 14. April 2026).
+
+Wuttke, Ulrike (2025), \#WissPodPotsdam2024: Nachbericht zum Workshop zu
+Formaten und Etablierung von Wissenschaftspodcasts (Fachhochschule
+Potsdam, 18.--19.07.2024), \emph{DHd-Blog}, Link:
+\url{https://dhd-blog.org/?p=21891} (zugegriffen: 14. April 2026).
+
+%autor
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{Ulrike Wuttke} (\url{https://orcid.org/0000-0002-8217-4025}) ist
+Professorin für Bibliothekswissenschaft, Strategien, Serviceentwicklung
+und Wissenschaftskommunikation an der Fachhochschule Potsdam. Seit April
+2025 hat sie an der FH Potsdam eine Transferprofessur zum Thema
+Datentracking.
+
+\end{document}

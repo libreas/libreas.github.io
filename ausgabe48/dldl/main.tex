@@ -1,0 +1,2135 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage[babel]{csquotes}
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage[labelformat=empty]{caption} % option 'labelformat=empty]' to surpress adding "Abbildung 1:" or "Figure 1" before each caption / use parameter '\captionsetup{labelformat=empty}' instead to change this for just one caption
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+\setcapindent{0pt} % no indentation in captions
+\usepackage{xurl} % Breaks URLs
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+% typo setup
+\clubpenalty = 10000
+\widowpenalty = 10000
+\displaywidowpenalty = 10000
+
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+\usepackage{hyperxmp}
+\usepackage{breakurl}
+
+%meta
+
+%meta
+
+\fancyhead[L]{Redaktion LIBREAS\\ %author
+LIBREAS. Library Ideas, 48 (2026). % journal, issue, volume.
+\href{https://doi.org/10.18452/37907}{\color{black}https://doi.org/10.18452/37907}
+{}} % doi 
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/4.0/}{\color{black}Creative Commons BY 4.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{Das liest die LIBREAS, Nummer \#17 (Frühjahr 2026)}}% title
+\author{Redaktion LIBREAS} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={Das liest die LIBREAS, Nummer \#17 (Frühjahr 2026)},
+      pdfauthor={Redaktion LIBREAS},
+      pdfcopyright={CC BY 4.0 International},
+      pdfsubject={LIBREAS. Library Ideas, 48 (2026)},
+      pdfkeywords={Literaturübersicht, Bibliothekswissenschaft, Informationswissenschaft, Bibliothekswesen, Rezension, literature overview, library science, information science, library sector, review},
+      pdflicenseurl={https://creativecommons.org/licenses/by/4.0/},
+      pdfcontacturl={http://libreas.eu},
+      baseurl={},
+      pdflang={de},
+      pdfmetalang={de},
+      pdfdoi={10.18452/37907},
+      pdfurl={https://doi.org/10.18452/37907}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+
+%body
+Beiträge von Karsten Schuldt (ks), Viola Voß (vv), Eva Bunge (eb)
+
+\section{1. Zur Kolumne}\label{zur-kolumne}
+
+Ziel dieser Kolumne ist es, eine Übersicht über die in der letzten Zeit
+erschienene bibliothekarische, informations- und
+bibliothekswissenschaftliche sowie für diesen Bereich interessante
+Literatur zu geben. Enthalten sind Beiträge, die der LIBREAS-Redaktion
+oder anderen Beitragenden als relevant erschienen.
+
+Themenvielfalt sowie ein Nebeneinander von wissenschaftlichen und
+nicht-wissenschaftlichen Ansätzen wird angestrebt und auch in der Form
+sollen traditionelle Publikationen ebenso erwähnt werden wie
+Blogbeiträge oder Videos beziehungsweise TV-Beiträge.
+
+Gerne gesehen sind Hinweise auf erschienene Literatur oder Beiträge in
+anderen Formaten. Diese bitte an die Redaktion richten. (Siehe
+\href{http://libreas.eu/about/}{Impressum}, Mailkontakt für diese
+Kolumne ist
+\href{mailto:zeitschriftenschau@libreas.eu}{\nolinkurl{zeitschriftenschau@libreas.eu}}.)
+Die Koordination der Kolumne liegt bei Karsten Schuldt, verantwortlich
+für die Inhalte sind die jeweiligen Beitragenden. Die Kolumne
+unterstützt den Vereinszweck des LIBREAS-Vereins zur Förderung der
+bibliotheks- und informationswissenschaftlichen Kommunikation.
+
+LIBREAS liest gern und viel Open-Access-Veröffentlichungen. Wenn sich
+Beiträge dennoch hinter einer Bezahlschranke verbergen, werden diese
+durch \enquote{{[}Paywall{]}} gekennzeichnet. Zwar \linebreak macht das Plugin
+\href{http://unpaywall.org/}{Unpaywall} das Finden von legalen
+Open-Access-Versionen sehr viel einfacher. Als Service an der
+Leserschaft verlinken wir jedoch auch direkt OA-Versionen, die wir vorab
+finden konnten. Für alle Beiträge, die dann immer noch nicht frei
+zugänglich sind, empfiehlt die Redaktion (neben
+\href{http://unpaywall.org/}{Unpaywall}) die Browser-Plugins
+\href{https://openaccessbutton.org/}{Open Access Button} oder
+\href{https://core.ac.uk/services/discovery/}{CORE} zu nutzen sowie auf
+dem favorisierten Social-Media-Kanal mit
+\href{https://mastodon.social/tags/icanhazpdf}{\#icanhazpdf}, um Hilfe
+bei der legalen Dokumentenbeschaffung zu bitten.
+
+Die bibliographischen Daten der besprochenen Beiträge aller Ausgaben
+dieser Kolumne finden sich in der öffentlich zugänglichen Zotero-Gruppe:
+\url{https://www.zotero.org/groups/4620604/libreas_dldl/library}.
+
+\section{2. Artikel und
+Zeitschriftenausgaben}\label{artikel-und-zeitschriftenausgaben}
+
+\section{2.1 Vermischte Themen}\label{vermischte-themen}
+
+\emph{Bibliothèque(s) : revue de l\textquotesingle Association des
+bibliothécaires français (ABF)}. (2025) 104
+
+Im Jahr 2021 wurde die französische Zeitschrift \emph{Bibliothèque(s)}
+eingestellt. Sie war bis dahin die wichtigste praxisorientierte
+Zeitschrift für Öffentliche Bibliotheken in Frankreich gewesen.
+Vergleichbar war sie mit der \emph{Forum Bibliothek und Information
+(BuB)}, den \emph{Büchereiperspektiven} und mehr noch -- weil sie ebenso
+eigentlich für alle Bibliotheken gedacht ist, sich aber vor allem auf
+die Öffentlichen fokussierte -- mit der \emph{bibliosuisse info}.
+Herausgegeben wurde sie vom Verband der französischen
+Bibliothekar*innen.
+
+Angesichts dessen, dass in diesem Zeitraum noch mehr französische
+bibliothekarische Publikationen eingestellt wurden, schien dies einen
+problematischen Trend anzuzeigen. Insoweit ist es positiv hervorzuheben,
+dass die \emph{Bibliothèque(s)} seit Anfang 2025 wieder regelmässig
+erscheint. Das Format wurde angepasst, jetzt rund 60 Seiten auf A4.
+Erscheinen soll sie zweimal im Jahr.
+
+Im Editorial der ersten Ausgabe (Mai 2025) wird zwar geschrieben, dass
+es ein neues Konzept gäbe, aber wie dieses aussieht, wird nicht gesagt.
+Inhaltlich ist diese Ausgabe gegliedert in ein Dossier -- also eine
+Anzahl von Artikeln und Interviews zu einem Thema, hier die Evaluation
+von Bibliotheken, wobei es sowohl um Statistik, um das, was in Deutsch
+Gemeinwohlanalyse genannt würde, um die Interpretation von Daten in
+Bibliotheken, als auch um eine Enquête über alle Bibliotheken
+Frankreichs geht --, eine Reihe anderer Artikel, der Rubrik
+Bibliotourisme, inklusiver einer Bilderstrecke -- konkret über eine
+Bibliothek in Barcelona -- sowie Meldungen über die Arbeit des Verbandes
+und seiner Kommissionen.
+
+Zudem werden die Präsidentin der International Federation of Library
+Associations and Institutions (IFLA) vorgestellt und drei Rezensionen
+publiziert. Das alles ist, für den französischen Kontext, wo Texte und
+Bücher oft sehr lang sind, äusserst kurz gehalten. Die meisten Texte
+sind zwei bis drei Seiten lang, die Rezensionen nur je eine halbe Seite.
+Zudem ist vieles sehr \enquote{hands-on}, also mit einem Blick daraufhin
+geschrieben, dass es direkt in Bibliotheken umgesetzt werden kann. Zu
+vermuten ist, dass dieser Aufbau in den nächsten Ausgaben beibehalten
+wird. So französische Sprachkenntnisse vorhanden sind, sollte die
+\emph{Bibliotheque(s)} jetzt (wieder) in die fachliche
+Zeitschriftenschau von Bibliothekar*innen im Öffentlichen
+Bibliothekswesen aufgenommen werden. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Golijanin, Aleksandar (2025). \emph{What Language Are We Speaking?:
+Marketing Information Literacy on University Library Websites}. In:
+Communications in Information Literacy 19 (2025) 1: 51--68,
+\url{https://doi.org/10.15760/comminfolit.2025.19.1.4}
+
+In dieser Studie wird gefragt, wie Bibliotheken an den grössten
+kanadischen Universitätsbibliotheken ihre Angebote im Bereich
+Information Literacy gegenüber Forschenden und Lernenden beschreiben. Es
+ist offenbar -- obgleich es in Kanada und den USA eine Tradition von
+Beschäftigung mit dem Thema gibt, die noch umfassender und älter ist,
+als im DACH-Raum -- in der Praxis schwierig, dem
+nicht-bibliothekarischen Personal an den Hochschulen klar zu machen,
+welche Angebote (Unterricht, Einführungen, Beratungen und so weiter) die
+Bibliotheken machen. Hier wird die Sprache verglichen, welche die
+Bibliotheken dafür benutzen. Dabei zeigt sich, dass ein Grossteil doch
+den Begriff \enquote{Information Literacy} nutzt, der aber gleichzeitig immer
+wieder erklärt werden muss. Zudem gibt es drei alternative
+Beschreibungen (\enquote{research skills}, \enquote{find, evaluate, and use information}
+sowie \enquote{critical information use}), welche ebenso oft genutzt werden,
+wohl -- so die Vermutung -- weil die Bibliotheken den Eindruck haben,
+dass dies von den Lehrenden und Forschenden besser verstanden wird.
+
+Zudem zeigt sich eine geographische Verteilung. In Ontario und Quebec --
+wo sich tendenziell auch grössere und forschungsstärkere Universitäten
+befinden -- wird der Begriff \enquote{Information Literacy} viel weniger genutzt
+als in den anderen Landesteilen. Die Studie äussert keine Vermutung,
+warum dies so ist, ruft aber zu einer Untersuchung dieses Phänomens auf.
+(ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Hall, Suzanna (2025). \emph{\enquote*{Please dispose of properly}: the
+context and continuance of fashion ephemera at the International Library
+of Fashion Research}. In: Art Libraries Journal 50 (2025) 1: 45--51,
+\url{https://doi.org/10.1017/alj.2025.10} {[}Paywall{]}
+
+Die \enquote{International Library of Fashion Research} ist eine Einrichtung,
+angesiedelt im norwegischen Nationalmuseum in Oslo, die sich dem
+Sammeln, Erschliessen und Zugänglichmachen von ephemeren Materialien
+widmet, die in der Modeindustrie produziert werden. Damit sind zum
+Beispiel Einladungen zu Modeschauen, Entwürfe von Kleidung oder
+saisonale Kataloge, die nur für einen Zeitraum von einigen Monaten
+\enquote{gültig} sind, gemeint. Viele dieser Materialien sind, da sie aus der
+Modeindustrie stammen und immer auch Aufmerksamkeit erzeugen sollen,
+gesondert gestaltet oder ausgestattet. In Oslo wurde nun auf der Basis
+einer privaten Sammlung, welche dem Museum gespendet wurde, die genannte
+Bibliothek errichtet, welche seit Ende 2022 für die Öffentlichkeit im
+Museumsgebäude zugänglich ist. Der Artikel stellt diese Einrichtung auf
+der Basis von Interviews mit Beteiligten vor.
+
+Es wird begründet, warum die Materialien gesammelt werden (nämlich als
+Material für die Modegeschichte), zudem wird auf die Schwierigkeiten bei
+der Erhaltung, die solche Materialien machen, eingegangen. Das ist alles
+recht gut nachvollziehbar. Was im Artikel aber hervorsticht, ist, dass
+sich hier \enquote{Museumsleute} dazu äussern, was sie sich unter einer
+Bibliothek, einem Archiv und einem Museum vorstellen. Es wird betont,
+dass es explizit eine Bibliothek sei, weil die Materialien zugänglich
+wären. Laut den Stimmen, die im Artikel angeführt werden, wäre das bei
+Archiven nicht der Fall (etwas, was selbstverständlich falsch ist --
+auch bei Archiven besteht das Ziel ja letztlich in der Nutzung der
+Sammlung). Gleichzeitig orientieren sie sich an dem Bild einer
+Bibliothek, die vor allem bewahrt. So wird nicht erwähnt, ob die
+Bibliothek überhaupt ein aktives Bestandsmanagement -- im Sinne des
+Aufbaus von spezifischen Beständen und der Pflege inklusive des
+Aussonderns und Ersetzens von Medien -- betreibt. Dabei würde sich die
+Fachliteratur zur Modegeschichte für einen solchen Forschungsbestand,
+neben der Sammlung, direkt anbieten. Vielmehr wird hier offenbar mit
+\enquote{Bibliothek} eine sehr spezifische Einrichtungen gemeint, die sich sonst
+an Büchern orientieren würde (was selbstverständlich gar nicht mehr
+stimmt). Es ist auch nicht klar, ob beim Aufbau der Bibliothek überhaupt
+bibliothekarisches Personal herangezogen oder aber anders auf
+bibliothekarische Kompetenzen zurückgegriffen wurde. Eher wird der
+Eindruck vermittelt, dass hier \enquote{Museumsleute} eine Einrichtung aufgebaut
+haben, die vor allem \enquote{kein Archiv} und \enquote{kein Museum} sein soll -- und
+deshalb \enquote{Bibliothek} genannt wird. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Braisher, Tamsin ; Fitchett, Deborah (2025). \emph{The New Zealand
+Thesis Project: Connecting a Nation's Dissertations Using Wikidata}. In:
+Journal of Librarianship and Scholarly Communications 13 (2025) 1,
+\url{https://doi.org/10.31274/jlsc.18295}
+
+Zwischen Ende 2021 und Ende 2022 wurden in einem Projekt, an dem alle
+Universitäten und Hochschulinstitute des Landes beteiligt waren, die
+Metadaten zu den Dissertationen, die in Aotearoa/Neuseeland seit den
+1960er Jahren publiziert wurden (und zu denen Katalog- oder andere
+Metadaten vorlagen) in die Wikipedia eingefügt. Einmal als gesamtes
+Datenset für die Wikidata und dann noch als Daten auf den
+Wikipedia-Seiten zu den Forschenden und Betreuenden, falls diese
+existierten. Wenn die Dissertationen in Repositorien vorlagen -- also
+wenn sie dort an sich publiziert wurden oder wenn Digitalisate
+angefertigt worden waren --, wurden die URIs zu diesen in den Daten
+ergänzt. Zudem wurden aus den Daten Visualisierungen erzeugt. Der
+Artikel stellt einen ausführlichen Projektbericht dar.
+
+Grundsätzlich wurden in dem Projekt alle Schritte begangen, die in einem
+solchen wohl notwendig sind: Es wurden möglichst alle Einrichtungen des
+Landes \enquote{an Bord geholt}, sich auf ein Metadatenschema geeinigt, Daten
+wurden geliefert und gesäubert, dann in Wikidata eingefügt.
+Anschliessend wurden die betreffenden Wikipedia-Seiten recherchiert und
+ergänzt. Das alles ist im Artikel recht kleinteilig geschildert. Dabei
+zeigt sich vor allem, wie wichtig die Planung und dann die Datenpflege
+selber ist -- also die \enquote{Datenarbeit} --, um am Ende überhaupt
+Visualisierungen generieren zu können. Durch diese Schilderung lässt
+sich der Text sehr gut als Einstieg und Lehrmaterial nutzen --
+beispielsweise, wenn am Anfang eines bibliotheks- und
+informationswissenschaftlichen Studiums die Notwendigkeit dieser
+\enquote{Datenarbeit} vermittelt werden soll. Er ist recht eingängig
+geschrieben, schildert alle notwendigen Schritte, zeigt Ergebnisse, aber
+auch Herausforderungen. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Hoffmann, Kristin (2025). \emph{Exploring Canadian academic librarians'
+and archivists' research outside librarianship and archival studies}.
+In: Partnership, The Canadian Journal of Library and Information
+Practice and Research, 20 (2025) 1,
+\url{https://doi.org/10.21083/partnership.v20i1.8141}
+
+In Wissenschaftlichen Bibliotheken Kanadas gibt es oft -- aber nicht
+überall -- die Erwartung an Bibliothekar*innen, zu forschen und zu
+publizieren. Teilweise wird dies bei Bewertungen ihrer Arbeit
+einbezogen, in vielen Fällen wird es auch direkt von den Einrichtungen
+unterstützt. In einer Umfrage, die hier ausgewertet wird, geht Hoffmann
+auf einen spezifischen Bereich ein, nämlich auf Forschung, die zwar von
+Bibliothekar*innen (und Archivar*innen) aus Kanada betrieben wird, sich
+aber nicht in der Bibliotheks- oder Archivwissenschaft verorten lässt.
+Es wird gefragt, in welchen Forschungsdisziplinen dies passiert, warum
+die Bibliothekar*innen und Archivar*innen dies tun und auch, ob es dafür
+Barrieren gibt.
+
+Im Ergebnis zeigt sich, dass dies alles ein weites, unerforschtes Feld
+ist. Die Disziplinen, in denen geforscht und publiziert wird, sind
+zahlreich; die Gründe vielfältig. Auch die institutionellen Strukturen
+und Erwartungen sind im ganzen Land sehr unterschiedlich. Viele der
+Antwortenden betonten, dass es für ihre Arbeit und ihre
+Arbeitsplatzzufriedenheit wichtig wäre, auch ausserhalb der Bibliotheks-
+und Archivwissenschaft zu forschen. Aber ein Hauptgrund scheint doch
+immer wieder das persönliche Interesse zu sein.
+
+Interessant ist, dass sich zeigt, dass mehr Männer als Frauen --
+obgleich auch in Kanada das Bibliothekswesen \enquote{weiblich geprägt} ist --
+so forschen. Sowohl Kommentare, die in der Umfrage erhoben wurden, als
+auch Hoffmann in der Auswertung selber deuten darauf hin, dass dies auch
+für andere Kriterien gilt: Obgleich es offenbar in Kanada recht viele
+Möglichkeiten zur forschenden Tätigkeit gibt, wenn jemand in
+Wissenschaftlichen Bibliotheken angestellt ist, sind es dann
+insbesondere Personen aus nicht-marginalisierten Gruppen, welche diese
+Möglichkeiten haben und wahrnehmen. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Jonchery, Anne ; Octobre, Sylvie (2025). \emph{Le numérique sauvera-t-il
+la lecture chez les jeunes?.} In: InterCDI (2025) Septembre-Octobre:
+5--12 {[}gedruckt{]}
+
+Ortin, Manon (2025). \emph{Les jeunes et la lecture numérique: entre
+diversité des formats et nouveaux modes de consommation}. In: InterCDI
+(2025) Septembre-Octobre: 14--22 {[}gedruckt{]}
+
+Beide Artikel erschienen im Rahmen eines Schwerpunkts zum Thema
+\enquote{Lesen} der Zeitschrift für französische Schulbibliotheken.
+Insoweit geht es immer um das Lesen von schulpflichtigen Kindern und
+Jugendlichen, so wie es sich in den letzten Jahren in Frankreich
+entwickelt hat. Berichtet wird in beiden Artikeln darüber, wie diese
+Kinder und Jugendlichen sich dem Lesen von digitalen Medien zugewandt
+haben. Die Daten dazu stammen aus mehreren Umfragen und
+Beobachtungsreihen zum Lesen, die in Frankreich staatlicherseits erhoben
+werden.
+
+Beide Artikel machen zwei Hauptaussagen: Erstens hat sich das Lesen von
+digitalen Medien (oder der Konsum von Audiobooks) bei den Kindern und
+Jugendlichen als Alltagspraxis durchgesetzt, aber nicht vollständig.
+Zweitens ist dies nicht nur ständig in Entwicklung, sondern zeigt auch
+eine grosse Bandbreite an Medienformen, Inhalten und Nutzungsweisen. Es
+ist nicht möglich, einen klaren Trend zu zeigen, ausser den, dass sich
+diese Diversität immer weiter ausdehnt. Es ist nicht wirklich möglich,
+von einer gemeinsamen \enquote{Medienwelt} der Kinder und Jugendlichen
+zu sprechen. Was zunimmt, ist die aktive Partizipation von Kindern und
+Jugendlichen, indem sie in Communities Kommentare verfassen, ihre
+Meinungen per Social Media teilen oder auch selber Literatur
+veröffentlichen. Sichtbar ist allerdings für Leser*innen aus dem
+DACH-Raum auch der kulturelle Unterschied: In Frankreich sind Comics,
+Webtoons und Manga heute massiv prägende Medienformen, deren Wirkung und
+Verbreitung sich nicht mit der im DACH-Raum vergleichen lässt. Sie
+prägen auch den Medienkonsum in Frankreich (oder in der Schweiz der
+Romandie) viel mehr.
+
+Die Daten und wohl auch Trends im DACH-Raum werden wohl andere sein. Die
+Artikel machen deshalb auch schmerzlich sichtbar, dass regelmässige
+Datensammlungen zum Lektüreverhalten diesen Umfangs, die nicht aus dem
+Umfeld von Verlagen selber stammen, im DACH-Raum praktisch fehlen. (ks)
+
+\subsection{2.2 Open Access}\label{open-access}
+
+Jordan, Jennifer ; Solon, Blair ; Beene, Stephanie (2025).
+\emph{Identifying Open Access Practices in Librarianship Journals}. In:
+Journal of Librarianship and Scholarly Communications 13 (2025),
+\url{https://doi.org/10.31274/jlsc.17778}
+
+Jordan, Jennifer ; Solon, Blair ; Beene, Stephanie (2025). \emph{Open
+access practices of selected library science journals}. {[}Dataset{]}
+Dryad, \url{https://doi.org/10.5061/dryad.pvmcvdnt3}
+
+In dieser Studie wurde untersucht, wie \enquote{offen} (im Sinne der
+FAIR-Prinzipien) aktuell die Zeitschriften des Bibliothekswesens sind --
+zumindest, was die wichtige Einschränkung hier ist, wenn sie
+Informationen und Abstracts in Englisch publizieren. Die Frage ist
+selbstverständlich relevant, da die Differenz zwischen dem Anspruch von
+Bibliotheken, Open Access sowie andere Formen von Open Science zu
+fördern und der gleichzeitigen Existenz von Closed-Access-Zeitschriften
+im Bibliothekswesen immer wieder auffällt. Die Autor*innen der Studie
+erstellten eine Liste von bibliothekswissenschaftlichen und
+bibliothekarischen Zeitschriften, die entweder in der Datenbank LISA
+oder im DOAJ verzeichnet waren, einen Peer-Review-Prozess haben und dies
+in Englisch erwähnen. Zudem ergänzten sie diese um weitere Titel, die
+ihnen als Bibliothekar*innen selber bekannt waren, die aber weder in
+LISA noch im DOAJ verzeichnet waren. Am Ende waren das 73 Zeitschriften
+aus LISA, 61 aus dem DOAJ (mit 12, die in beiden Datenbanken verzeichnet
+waren) und 11 ergänzte Titel. Anschliessend sammelten sie Informationen
+über die herausgebenden Körperschaften, die \enquote{OA-Farbe}, Angaben zu Open
+Access und Open Data Policies sowie zu eventuell anfallenden Gebühren
+(also APCs).
+
+In der Auswertung der Daten zeigt sich, dass diese Zeitschriften viel
+öfter als nicht Open-Access-Modellen folgen und dabei vor allem dem
+Diamond Open Access (also auch ohne anfallende Gebühren). Sie werden oft
+von kommerziellen Verlagen publiziert, aber leicht öfter von Verbänden,
+Hochschulen, Bibliotheken, Archiven oder \enquote{unabhängig} (was heisst von
+Organisationen wie den LIBREAS. Verein). Es gibt Unterschiede zwischen
+den Zeitschriften, die in LISA verzeichnet sind (eher kommerzielle
+Verlage) und denen im DOAJ (eher unabhängig oder von nicht-kommerziellen
+Körperschaften). Schwieriger war es offenbar, zu bestimmen, welche
+Formen von Peer Review (also vor allem, ob es ein Open Peer Review gibt)
+genutzt werden, ob es Open Data Policies gibt (hier zeigte sich, dass
+viele grosse Verlage praktisch verlagsweit eine Policy durchsetzen) oder
+welcher Höhe eventuell anfallende Gebühren sind. Alles in allem zeigt
+sich aber ein klarer Trend zu offenen Publikationen im
+Bibliotheksbereich. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Hopkins, Kira ; Sanders, Kevin (2025). \emph{Open access, open
+infrastructures, and their funding: Learning from histories to more
+effectively enhance diamond OA ecologies for books}. In: Journal of
+Librarianship and Scholarly Communications 12 (2024) 2,
+\url{https://doi.org/10.31274/jlsc.18284}
+
+Dieser Artikel bietet eine Rundumsicht zu den Finanzierungsmodellen für
+Open-Access-Bücher, die sich in den letzten Jahren etabliert haben,
+wobei der Fokus auf Modellen liegt, die gerade keine gesonderten
+Gebühren auf Seiten der Autor*innen erheben. Wer sich auf dem Feld
+einigermassen auskennt, wird keine Neuigkeiten erfahren. Vielmehr ist
+der Text als Einstieg in das Thema und die Modelle geeignet. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Rawlins, Ben ; Scott, Mitchell (2025). \emph{Open Access and Citation
+Impact: Modality, Funding, Publisher, and Disciplinary Trends at the
+University of Kentucky}. In: Library Resources \& Technical Services 69
+(2025) 3, \url{https://doi.org/10.5860/lrts.69n3.8496}
+
+Der \enquote{Open-Access-Zitationsvorteil} ist ein recht etabliertes Phänomen,
+welches schon früh in der Forschung zu Open Access untersucht und immer
+wieder nachgewiesen wurde: Im Vergleich zu wissenschaftlichen Artikeln,
+die Closed Access publiziert werden, werden Open-Ac\-cess-Publikationen
+mehr und früher zitiert. Abgeleitet wird daraus auch oft, dass sie wohl
+mehr und früher gelesen werden, also in ihrer Funktion als
+wissenschaftliche Publikation erfolgreicher sind. Die vorliegende Studie
+untersucht dieses Phänomen anhand der Beiträge, die von Forschenden
+einer spezifischen Hochschule -- der University of Kentucky --
+veröffentlicht wurden und das auch in einem spezifischen
+Hochschulkontext, dem US-amerikanischen, in welchem beispielsweise keine
+Tradition von Konsortiallizenzen für digitale Medien auf nationaler
+Ebene existieren, wie das in Europa der Fall ist. Die Daten lassen sich
+also nicht einfach übertragen.
+
+Im Ergebnis zeigt die Studie aber erstens, wie eine solche Auswertung
+konkret stattfinden kann (also welche Methodik, welche Fragen und welche
+Formen von Präsentation der Daten und Ergebnisse gewählt werden können)
+und zweitens, dass der \enquote{Open-Access-Zitationsvorteil} differenzierter
+ist. Während er grundsätzlich auch für die Publikationen aus der
+University of Kentucky gilt, zeigt sich doch, dass er sehr
+unterschiedlich ausgeprägt ist in den einzelnen Wissenschaftsdisziplinen
+und auch Verlagen. Teilweise ist er gar nicht vorhanden, teilweise
+werden Open-Access-Publikationen in \enquote{hybriden} Zeitschriften, die sowohl
+Open als auch Closed Access veröffentlichen, mehr und schneller zitiert
+als solche, die in \enquote{reinen} Open Access Journals veröffentlicht werden.
+Aber teilweise ist er auch überdeutlich zu sehen. (ks)
+
+\subsection{2.3 Bestandsmanagement}\label{bestandsmanagement}
+
+Steele, Gemma ; Webster, Hayley (2025). \emph{Getting Inked? A Survey of
+Current Institutional Marking Practices in Rare Books and Special
+Collections}. In: RBM: A Journal of Rare Books, Manuscripts, and
+Cultural Heritage 26 (2025) 1: 52--66,
+\url{https://doi.org/10.5860/rbm.26.1.52}
+
+Der Text berichtet von einer Umfrage unter Bibliotheken -- wohl, da sie
+über betreffende Mailinglisten verbreitet wurde, vor allem in
+englischsprachigen Ländern (aus Sicherheitsgründen wurden aber keine
+geographischen Daten abgefragt) -- darüber, ob Bibliotheken ihre
+Rara-Bestände -- also die seltenen Drucke und Handschriften -- mit einem
+Bibliotheksstempel versehen oder nicht. Das klingt wie ein
+nebensächliches Thema, es ist aber eine -- wie der Artikel zeigt -- seit
+Jahrzehnten diskutierte Frage. Argumente gegen und für das Stempeln
+werden offenbar regelmässig ausgetauscht: Dafür spricht, dass diese
+Stempel vor allem als Diebstahlschutz dienen. Wenn sie vorhanden sind,
+insbesondere so angebracht, dass sie kaum entfernt werden können, sei es
+schwieriger, diese Objekte nach einem Diebstahl zu verkaufen. Dagegen
+spricht, dass solche Stempel immer das Objekt selber verändern, also
+einen Eingriff darstellen. Es gibt, wie im Text auch zu lernen ist, eine
+Reihe von anderen Ansätzen zur Sicherung von Rara (unsichtbare Tinte,
+Katalogisierung und Dokumentation von relevanten Eigenheiten der Rara
+und anderes mehr) sowie einige weitere Argumente. Zudem wurden schon
+mehrere übergreifende Richtlinien erlassen, die einerseits das Stempeln
+empfehlen, aber es jeder Bibliothek selber überlassen, sich dafür oder
+dagegen zu entscheiden.
+
+Die Umfrage selber brachte jetzt, trotz 93 Antworten, wenig Neues. Die
+Praxis ist offenbar in den verschiedenen Bibliotheken sehr
+unterschiedlich, die Argumente sind kaum anders, als die in der
+Literatur der letzten Jahrzehnte diskutierten. (Zu kritisieren ist aber,
+dass die Literatur sich praktisch auf englischsprachige beschränkt.) Im
+Ganzen liefert der Artikel aber einen interessanten Einblick in das
+Thema. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Ho, Jessica (2025). \emph{There are Imposters Among Us -- Investigating
+AI-Generated Picture Books in the Library}. In: Canadian School
+Libraries Journal 32 (2025) 2,
+\url{https://journal.canadianschoollibraries.ca/there-are-imposters-among-us-investigating-ai-generated-picture-books-in-the-library/}
+{[}Re-Published{]}
+
+In diesem kurzen Text gibt Ho, angestellt im Schulbibliothekssystem von
+Toronto, eine Übersicht ihrer Gedanken zur steigenden Anzahl von
+Kinderbüchern, die offenbar ohne Qualitätskontrolle unter Einsatz von
+AI-Tools erstellt und über Anbieter wie Amazon verbreitet werden. Ho
+gibt Hinweise, wie diese Bücher gestaltet sind und sich erkennen lassen.
+Zudem wird besprochen, dass sich diese Bücher auf den ersten Blick oft
+nicht von Selbst-Publikationen und Publikationen kleiner Verlage
+unterscheiden, auf den zweiten Blick dann aber doch. Zuletzt verweist
+der Text aber darauf, dass vor allem Bibliothekar*innen die
+Verantwortung hätten \enquote{to make informed decisions and advocate for
+intellectual property rights, valuable stories and diverse
+representation}. Für die Erstellung von Kinderbüchern würden immer auch
+die aktuell verfügbaren Tools genutzt werden und AI sei nur ein weiteres
+Tool. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Wolf, Christa (2025). \emph{Musikinstrumente zum Ausleihen: Ein
+Erfahrungsaustausch im Verbund der Öffentlichen Bibliotheken Berlins.}
+In: Forum Musikbibliothek 46 (2025) 3: 6--10 {[}gedruckt{]}
+
+Heß, Dina ; Mahn, Johanna (2025). \emph{Bibliothek der Dinge -- Mobile
+Arbeitsmittel für Studierende in der Folkwang Bibliothek}. In: Forum
+Musikbibliothek 46 (2025) 3: 10--16 {[}gedruckt{]}
+
+Dargestellt wird in den beiden Artikeln vor allem, wie Musikinstrumente,
+Stative und iPads, immer gedacht als Teil von \enquote{Bibliotheken der
+Dinge}, in der Praxis in Bibliotheken gehandhabt werden. Der Artikel aus
+Berlin geht auch auf die spezifischen Herausforderungen der
+Vergabevorschriften ein (die in anderen Städten oder Ländern wieder
+anders sind). Was sich bei beiden Texten zeigt, ist, dass Bibliotheken
+Wege suchen und finden, um \enquote{Dinge} anzuschaffen, ausleihfertig
+zu machen, zu katalogisieren und zu pflegen, aber dass das alles sehr
+Stückwerk ist: Ständig wird von Bibliothekar*innen zur Eigeninitiative
+gegriffen, auf die spezifische Interessen und Fähigkeiten des Personals
+zurückgegriffen (oder Absprachen mit anderen getroffen, unter anderem
+mit einer Instrumentenwerkstatt) und spezifische Lösungen gesucht, die
+irgendwie in die bestehenden Systeme passen (beispielsweise die
+Einführung einer \enquote{fiktiven Reihe} für die Katalogisierung,
+\enquote{Musikinstrumente zum Ausleihen}, damit Instrumente überhaupt
+als eigene Gruppe im Katalog gefunden werden können).
+
+Bestandsarbeit ist offenbar, wenn es sich nicht um \enquote{normale
+Medien} handelt, immer eine Art von Life-hack. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Mathews, Emilee ; Emerson, María Emerson (2025). \emph{From Niche to
+Norm: A Case Study of Zines in a Circulating Collection.} In: Library
+Resources \& Technical Services 69 (2025) 4,
+\url{https://doi.org/10.5860/lrts.69n4.8550}
+
+Zines, also von Einzelpersonen oder kleinen Gruppen oft per Hand
+erstellte und in kleiner Auflage verbreitete Broschüren, stellen einen
+eigenen, schwer zu fassenden Medientyp dar. Oft als Teil der
+Kommunikation in einzelnen Subkulturen etabliert, folgen sie selten
+expliziten Vorgaben, erscheinen oft unregelmässig oder auch nur einmal,
+sind nirgends vollständig verzeichnet (was ihrem Zweck oft auch
+zuwiderlaufen würde) und werden nur in Ausnahmefällen zum freien Verkauf
+angeboten. Aber gleichzeitig, oder vielleicht sogar deshalb, sind sie
+immer wieder von Interesse für die Forschung und auch für Bibliotheken.
+Letzteres trifft offenbar noch mehr für US-amerikanische Bibliotheken zu
+als für die im DACH-Raum. Dort stellen Zines-Bestände Sondersammlungen
+dar, die teilweise regionale Bedeutung haben.
+
+Der Artikel stellt eine dieser Sammlungen, die Library Social Justice
+Zine Collection der University of Illinois Urbana-Champaign, aus
+bibliothekarischer Sicht vor, gibt aber auch gleichzeitig einen
+Überblick über die bisherigen Publikationen zum Thema sowie Ergebnisse
+einer Umfrage. Das macht den Text sehr uneinheitlich -- eigentlich sind
+es drei Artikel, die auch getrennt hätten veröffentlicht werden können.
+Der Literaturteil und die Umfrage zeigt aber, dass sich \enquote{Zine
+Sammlungen} in den US-amerikanischen Hochschulbibliotheken verbreitet
+haben (ohne dafür Gründe angeben zu können) und genutzt werden. Erwähnt
+wird auch die selbstorganisierte Gruppe hinter der Homepage
+\url{https://www.zinelibraries.info/}. Gerade der Teil, welcher die
+spezifische Sammlung vorstellt, macht aber auch klar, dass das
+Charakteristikum von Zines, sich in Form, Inhalt und so weiter
+kontinuierlich zu unterscheiden und zudem (oft) aus einfach Materialien
+hergestellt zu sein, immer zu besonderen Lösungen für die
+Katalogisierung, Aufbewahrung und Anbietung führt. Es ist viel Arbeit
+für manchmal recht wenige Medien. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Duffus, Orolando (2025). \emph{Strategies for Assessing and Enhancing
+Electronic Journal Collections: A Data-Driven Approach for Supporting
+New Academic Programs and the College of Medicine}. In: International
+Journals of Librarianship 10 (2025) 4, 5--16,
+\url{https://doi.org/10.23974/ijol.2025.vol10.4.502}
+
+Die University of Houston baute in den letzten Jahren ihre medizinischen
+Ausbildungsgänge aus und richtete ein eigenes College of Medicine ein.
+Der Text beschreibt nun, wie die Universitätsbibliothek ihren Bestand
+auf die Interessen der neuen Studierenden und Forschenden ausrichtete.
+Sie nutzte dazu eine Mischung aus der Auswertung verschiedener Daten und
+weitergehender Überlegungen. Beispielsweise erstellte sie Listen der
+Core-Zeitschriften der jeweiligen Unterfelder, die am College vertreten
+sind, und überprüfte, zu welchen sie schon Zugang hatte oder zu welchen
+sie Zugang schaffen müsste. Ein wenig ärgerlich am Text ist, dass sich
+mehrfach von \enquote{traditionellen Methoden} der Bestandsbewertung
+abgegrenzt wird, obgleich diese eigentlich auch hier nicht ersetzt,
+sondern \enquote{nur} ergänzt werden. Aber offenbar ist es für die
+diskursive Betonung der Innovationsfähigkeiten der Bibliothek wichtig.
+
+Zudem handelt die Bibliothek selbstverständlich im US-amerikanischen
+System von Hochschulbibliotheken, in denen die Kooperation lange nicht
+so ausgeprägt ist wie in Europa. Beispielsweise werden
+Konsortialverträge gar nicht erst angesprochen. Aber ansonsten liefert
+der Text einmal einen Überblick darüber, wie in einer konkreten
+Einrichtung eine Strategie für die Bestandsarbeit erstellt und dann auch
+evaluiert wird. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Higgins, Colin (2026). \emph{The Continuing Relevance of DVDs and
+Blu-ray Discs to Library Collections.} In: Library Resources \&
+Technical Services 70 (2026) 1,
+\url{https://doi.org/10.5860/lrts.70n1.8614}
+
+Dieser Text argumentiert, dass Bibliotheken auch in Zukunft Filme auf
+physischen Medien erwerben und im Bestand halten sollten. Es gibt, wie
+hier dargestellt wird, einen klaren Trend dazu, Filme bei
+Streamingdiensten zu lizenzieren. Aber -- so die wenig überraschende
+Aussage im Artikel -- diese Dienste haben nicht den Fokus, Filme
+langfristig zu erhalten, sondern andere ökonomische Perspektiven.
+Gleichzeitig sind sie selber in ein System von befristeten
+Lizenzierungen durch die Filmindustrie eingebunden, die es ihnen
+unmöglich machen, solche langfristigen Perspektiven überhaupt
+anzubieten. Nicht zuletzt gibt es eine ganze Reihe von Fällen, in denen
+Filme bei diesen Streamingdiensten im Nachhinein verändert wurden. Das
+passierte aus unterschiedlichen Gründen, ist aber selbstverständlich ein
+Problem, wenn es darum geht, Filme als Kulturgut zu erhalten.
+
+Der Text argumentiert, dass es die Aufgabe von Bibliotheken wäre, Filme
+über die \enquote{Zufälligkeiten} dieses Streamingssystem hinaus zu
+erhalten. Dies wäre nur möglich, wenn sie physisch vorhanden sind. Auch
+das ist keine grundsätzlich überraschende Aussage. Interessant ist hier
+aber, dass durch den Artikel Kriterien wie historische Verantwortung und
+Diversität des Angebots für das Bestandsmanagement stark gemacht werden
+und davor gewarnt wird, dabei zu kurzfristig -- also nur zu fragen:
+\enquote{Was kann die Bibliothek sofort, für welchen Preis, mit welchem
+Aufwand und zu welche Lizenzbedingungen ihren Nutzer*innen anbieten?} --
+zu denken. (ks)
+
+\subsection{2.4 Ukraine}\label{ukraine}
+
+Der 2022 begonnene Krieg Russlands gegen die Ukraine hat auch zu einer
+Reihe von Beiträgen in bibliothekarischen Zeitschriften geführt, von
+denen hier einige in Englisch und Deutsch erschienenen referenziert
+werden. Leider ist der Grund für dieses Interesse und auch für viele
+Aktivitäten, die in diesen Beiträgen beschrieben werden, ein schlechter.
+Es ist zu hoffen, dass dieser Krieg, wie alle Kriege, endlich beendet
+wird. Gleichzeitig zeigen die Beiträge aber auch, dass Bibliotheken in
+der Ukraine wichtige Arbeit leisten und dass sie dabei auf Solidarität
+von Bibliotheken anderer Länder zurückgreifen können.
+
+Dubrovina, Lyubov ; Kovtaniuk, Yurii ; Lobuzina, Kateryna ; Demianiuk,
+Liudmyla (2024). \emph{The Vernadsky National Library of Ukraine in
+Times of Independence and Martial Law: Development Strategy,
+Preservation, and International Co-operation}. In: Bibliothek Forschung
+und Praxis 48 (2024) 3: 639--647,
+\url{https://doi.org/10.1515/bfp-2024-0062}
+
+In diesem Artikel beschreiben Kolleg*innen aus der ukrainischen
+Nationalbibliothek zuerst kurz die Geschichte der verschiedenen
+Bibliotheken mit «nationalbibliothekarischem Auftrag» in ihrem Land.
+Anschliessend stellen sie die Herausforderungen dar, welche durch den
+Krieg für die Bibliotheken des Landes entstanden sind (Zerstörung,
+Gefahren, aber auch Personalmangel), um danach auf die Strategien und
+Arbeiten ihrer Bibliothek selber einzugehen.
+
+Ziel der Arbeit der Bibliothek ist es aktuell, möglichst viele Medien,
+Informationen und damit auch Kultur zu erhalten. Getan wird dies unter
+anderem durch Digitalisierungsprojekte, bei denen die Digitalisate auch
+in anderen Ländern gelagert werden, durch Sicherungsmassnahmen für die
+Kulturgüter und durch die Integration in bestehende europäische
+Infrastrukturen. Eine wichtige Rolle dabei spielt das Projekt «Saving
+Ukrainian Cultural Heritage Online» (\url{https://www.sucho.org}). In
+einem Kapitel wird auf die Unterstützung durch andere europäische
+Nationalbibliotheken eingegangen, die in der Conference of European
+National Libraries organisiert sind. Hervorgehoben werden dabei die
+British Library, die Deutsche, Schwedische und Polnische
+Nationalbibliothek. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Kulazhanka, Alexei (2025). \emph{ABD-Institutionen der Ukraine im Krieg:
+Welche Schutzmassnahmen werden in einem Angriffskrieg angewendet, um
+Bestände vor der Vernichtung zu retten?}. In: Informationswissenschaft:
+Theorie, Methode und Praxis, 9 (2025): 255--268,
+\url{https://doi.org/10.18755/iw.2025.15}
+
+Der Artikel, wohl wie fast alle Beiträge dieser Zeitschrift entstanden
+als Abschlussarbeit im gemeinsamen MAS-Studiengang
+Informationswissenschaft der Universitäten Bern und Lausanne, fasst
+zusammen, wie Archive, Bibliotheken und Dokumentationsstellen (die
+ABD-Institutionen, wie sie im Titel genannt werden) in der Ukraine
+vorgehen, um ihre Bestände zu schützen. Kulazhanka betont, dass «das
+ordnungsgemässe Funktionieren von ABD-Institutionen {[}\ldots{]} eine
+Normalität und Planbarkeit des Alltags {[}voraussetzt{]}», die im Krieg
+nicht gegeben ist. Notfallpläne, wenn sie existieren, nähmen bewaffnete
+Auseinandersetzungen immer nur als eine wenig wahrscheinliche
+Katastrophe in den Blick, was dazu führt, dass ABD-Einrichtungen viel
+weniger auf sie vorbereitet sind, als auf andere Krisensituationen. Dies
+hätte auch für die Ukraine gegolten. Durch den Angriff Russlands hätten
+sie neue Strategien entwickeln müssen, die im Artikel benannt werden
+als: Evakuieren der Bestände, Sicherung vor Ort (beispielsweise in
+Kellern) und Digitalisierung. Zu diesen drei Punkten werden jeweils
+Beispiele aus der Ukraine genannt. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Gosart, Ulia ; Clair, Sara ; Swanson, Abbie (2025). \emph{The resistance
+and resilience of Ukrainian public librarians}. In: IFLA Journal
+{[}Online First{]}, \url{https://doi.org/10.1177/03400352251392112}
+{[}Paywall{]}
+
+Der kurze Text fasst Arbeiten zusammen, welche in ukrainischen
+Öffentlichen Bibliotheken aufgrund des Krieges notwendig wurden. Dabei
+werden diese Beispiele nicht diskutiert, sondern ein wenig wie
+Nachrichten, die alle positiv oder «heldenhaft» klingen,
+zusammengefasst. Zu erfahren ist, was alles getan wird, aber zum
+Beispiel nicht, wie sich die Bibliothekar*innen dabei fühlen.
+
+Zuerst werden einige Zahlen über den Zustand der Bibliotheken im Land
+genannt: Im Mai 2025 waren 17\,\% von ihnen nicht mehr operationsfähig,
+214 waren zerstört, fast 1.000 benötigten Reparaturen. Gleichzeitig
+wurde wichtige Arbeit geleistet: Bibliotheken wurden zu Hilfszentren
+ausgebaut, in denen Menschen Unterkunft und Hilfe finden konnten, oder
+auch zu Luftschutzräumen. Es wurden Angebote im Bereich physische und
+psychische Gesundheit aufgebaut, teilweise spezifisch für Kinder,
+teilweise für die gesamte Bevölkerung. Es wurden aber auch Ausstellungen
+organisiert (erwähnt werden solche in Zusammenarbeit mit der School of
+Information, San Jose University in Kalifornien, woher die Autor*innen
+stammen, was auch ein Beispiel für die Kooperation bibliothekarischer
+Einrichtungen über Länder hinweg darstellt), bei denen Bilder gezeigt
+wurden, mit denen ukrainische Kinder die Situation des Krieges
+verarbeiteten. Zuletzt werden Beispiele genannt, in denen Bibliotheken
+versuchen, Desinformation zu kontern, über die Desinformationsarbeit
+Russlands aufzuklären und zudem den Krieg zu dokumentieren. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Johnston, Jamie ; Mierzecka, Anna ; Tóth, Máté ; Paul, Magdalena ;
+Kisilowska-Szurmińska, Małgorzata ; Khosrowjerdi, Mahmood ; Vårheim,
+Andreas ; Rydbeck, Kerstin ; Jochumsen, Henrik ; Hvenegaard Rasmussen,
+Casper ; Ágústa, Pálsdóttir ; Olson, Anna ; Skare, Roswitha ;
+Mathiasson, Mia Høj (2025). \emph{Public libraries' role in supporting
+Ukrainian refugees: A focus on Hungary and Poland}. In: Journal of
+Librarianship and Information Science, 57 (2024) 4:1141--1160,
+\url{https://doi.org/10.1177/09610006241259490}
+
+Vor allem basierend auf sechs Interviews (je drei in Polen und Ungarn,
+dort je in einer gross-, mittel- und kleinstädtischen Bibliothek) gibt
+dieser Text einen Überblick zur Arbeit von polnischen und ungarischen
+Bibliotheken während der ersten Monate des Krieges Russlands gegen die
+Ukraine. Beide Länder waren das Ziel von Personen, die aus der Ukraine
+flüchteten; in beiden Ländern übernahmen neben der Zivilgesellschaft
+auch Bibliotheken die Aufgabe, diesen Menschen Hilfe zu leisten. Wieder
+in beiden Ländern musste diese Arbeit praktisch neu etabliert werden.
+Während in anderen europäischen Ländern während der grossen
+Migrationsbewegungen 2015 schon Erfahrungen dieser Art gesammelt wurden,
+galt dies für Polen und Ungarn nicht. In diesen beiden Ländern gab es
+2015 explizit eine Politik gegen die damals Flüchtenden, während die
+2022 aus der Ukraine kommenden Personen sowohl von den Regierungen als
+auch breiten Teilen der Gesellschaft unterstützt wurden.
+
+Die Interviews zeigen zuerst, dass die Bibliotheken in beiden Ländern
+sehr schnell auf die Fluchtbewegungen reagierten. In sehr kurzer Zeit
+wurden sie zu Sammel- und Ausgabestellen für Spenden und zum
+Aufenthaltsort für geflüchtete Personen. Dabei wurde betont, dass sich
+hier professionelle und private Beweggründe mischten. Auf der einen
+Seite sahen sich die Bibliotheken -- dieses Mal, aber offenbar kaum 2015
+-- als «Ort für alle», auf der anderen Seite gab es eine Betroffenheit
+der Bibliothekar*innen selber. In dieser Zeit standen Aufgaben im
+Mittelpunkt, die -- so der Artikel -- sich nicht auf Medien bezogen.
+Nach den ersten Monaten wandelte sich dann die Aufgaben der
+Bibliotheken. Jetzt ging es eher darum, dass die Bibliotheken als
+«Orte», die geflüchtete Personen aufsuchen konnten, als Einrichtung, an
+denen Angebote für Kinder gemacht wurden und auch als Mediensammlung
+wirkten. In dieser Zeit begannen auch die Bibliothekar*innen, die
+geflüchteten Menschen in weitere Zielgruppen zu differenzieren und für
+diese gesonderte Angebote zu unterbreiten, wobei sich vor allem ein
+Fokus auf Kinder und Frauen ausprägte. Zudem wechselten die Aufgaben: Es
+ging jetzt vor allem darum, Menschen das «Ankommen» im jeweiligen Land
+zu ermöglichen, inklusive der Entwicklung von Sprachfähigkeiten und von
+sozialen Verbindungen. Es gab, allerdings geringe, Unterschiede zwischen
+der ungarischen und polnischen Situation, insbesondere, weil in Polen
+mehr Menschen aus der Ukraine längerfristig verblieben als in Ungarn. In
+Polen wurden die Bibliotheken so auch eher zu Einrichtungen, welche die
+Integration förderten. (ks)
+
+\section{3. Monographien und
+Buchkapitel}\label{monographien-und-buchkapitel}
+
+\subsection{3.1 Vermischte Themen}\label{vermischte-themen-1}
+
+Campbell, Paul C. ; Nagle, Sarah (eds.) (2025). \emph{Librarians as
+Researchers. Developing Our Scholarly Identities}. New York u.\,a.:
+Bloomsbury. {[}gedruckt{]}
+
+Wie so viele aktuelle Bücher aus dem Bibliothekswesen hat auch dieses
+eine amerikanische \enquote{Herkunft}. Das macht direkte Vergleiche mit der Lage
+in deutschen Bibliotheken etwas schwierig: Eine Unterscheidung von
+Bibliotheksstellen nach \enquote{library positions} oder \enquote{faculty positions}
+gibt es im deutschsprachigen Raum -- zumindest so weit ich weiß --
+nicht, und zu den Anforderungen an \enquote{tenure track}-Stellen, wie zum
+Beispiel publishing beziehungsweise research requirements, gibt es auch
+kein direktes Pendant.
+
+Nichtsdestotrotz kann dieser Sammelband dazu anregen, darüber
+nachzudenken, was man \linebreak denn \enquote{erforschenswert} fände rund ums
+Bibliothekswesen und wie man das angehen könnte.
+
+In den Beiträgen gibt es anhand theoretischer Überlegungen und vieler
+persönlicher Fallbeispiele Tipps zu grundlegenden Fragestellungen --
+\enquote{What counts as scholarship for the purpose of one\textquotesingle s own
+advancement versus scholarship that advances the discipline?} (S.\,10)
+--, zur Erstellung einer \enquote{research agenda}, zum erfolgreichen Einstieg
+ins Forschen zum Beispiel über Tagungs-Poster, zum Überwinden von Hürden
+wie \enquote{time constraints and the assumptions others have about librarians}
+(S.\,82) oder zu Formaten, die sich als gut praktikabel erwiesen haben,
+wie Schreibgruppen, Communities of Practice und \enquote{Research Days}.
+
+Online weiterlesen kann man danach dann zum Beispiel im ebenfalls in
+einem Kapitel vorgestellten \enquote{Librarian Parlor}
+(\href{https://deref-gmx.net/mail/client/8FHQ-s1Iumk/dereferrer/?redirectUrl=https\%3A\%2F\%2Flibparlor.com\%2F}{https://libparlor.com/})
+und dem \enquote{LibParlor Online Learning} (LPOL)
+(\href{https://deref-gmx.net/mail/client/oua9uIDXFEA/dereferrer/?redirectUrl=https\%3A\%2F\%2Flibparlor.com\%2Flpol-curriculum\%2F}{https://libparlor.com/lpol-curriculum/}).
+(vv)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Syma, Carrye Kay ; Weiner, Robert G. ; Callender, Donell (Hrsg.) (2025).
+\emph{Drawn to the stacks: essays on libraries, librarians and archives
+in comics and graphic novels}. Jefferson, NC: McFarland.
+\url{https://mcfarlandbooks.com/product/drawn-to-the-stacks/}
+{[}gedruckt{]}
+
+Wie werden Bibliotheken und Archive in Comics und Graphic Novels
+dargestellt? Mit dieser Frage beschäftigen sich die 19 Beiträge in
+diesem Band, nach eigenen Aussagen \enquote{the first academic volume to examine
+the librarian and archival professional through the lens of sequential
+art}.
+
+Leider gibt es (vermutlich aus urheberrechtlichen Gründen) nur im
+Artikel zur Reihe \enquote{xkcd} Abbildungen von Beispielen besprochener Comics
+oder Cartoons. Das macht die Lektüre der Abhandlungen zu Comics, die man
+nicht kennt, recht trocken. Dennoch können sie dazu einladen, sich die
+besprochenen Werke mal anzusehen, um sich selbst ein Bild zu machen: Wer
+sich für Comics und Bibliotheken interessiert, findet viele Anregungen
+für Neuentdeckungen, und in bekannten Comics achtet man zukünftig
+vielleicht noch mehr auf bibliothekarische oder archivarische Aspekte.
+
+Sollte es mal einen zweiten Band dieser Art geben, wird der hoffentlich
+noch weitere Werke berücksichtigen, die außerhalb der USA entstanden
+sind, darunter zum Beispiel die bibliophilen Cartoons von Tom Gauld.
+(vv)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Berger, Monica (2024). \emph{Predatory Publishing: and Global Scholarly
+Communications}. (ACRL Publications in Librarianship, 81) Chicago:
+Association of College and Research Libraries, 2024 {[}gedruckt{]}
+
+Dieses Buch ist weit besser und fundierter, als man beim Thema Predatory
+Publishing befürchten könnte. Es reproduziert gerade nicht einfach
+Vorstellung von \enquote{betrügerischen Zeitschriften} und
+\enquote{betrügerischen Forschenden} auf der einen, \enquote{ehrlichen
+Verlagen} und \enquote{ehrlichen Forschenden} auf der anderen Seite,
+sondern versucht, die komplexe Situation darzustellen. Zudem wird sich
+mit den Problemen auseinandergesetzt, die vor gut zehn Jahren bei diesem
+Thema existierten, wenn beispielsweise in \enquote{Beall's List}
+Kriterien für \enquote{Predatory Publishing} angewendet wurden, die
+Unterschiede zwischen Wissenschaftsstrukturen oder der
+infrastrukturellen Ausstattungen von Hochschulen in verschiedenen
+Ländern ignorierten und dazu führte, dass systematisch Zeitschriften aus
+dem globalen Süden zu \enquote{predatory journals} erklärt wurden, weil
+sie nicht Kriterien entsprachen, die in den USA, aber halt nicht überall
+anders, sinnvoll waren. Zudem wird in diesem Buch hier explizit die
+implizite Gleichsetzung von Open Access und Predatory Publishing
+zurückgewiesen, welche gerade im Umfeld der genannten Liste vor gut zehn
+Jahren vertreten wurde.
+
+Vielmehr will das Buch systematisch das gesamte Themenfeld angehen. Es
+bespricht nicht nur, warum Predatory Publishing für die Wissenschaft
+schlecht ist, sondern auch, wie die verschiedenen Auffassungen davon,
+was \enquote{ehrliches} oder \enquote{unehrliches} Publizieren ist
+(sowohl zwischen verschiedenen Wissenschaftskulturen als auch innerhalb
+solcher), entstehen und welche strukturellen Gründe vorliegen, die
+Predatory Journals hervorbringen können. Gerade diese Gründe, hier unter
+dem Schlagwort \enquote{Neoliberalismus} zusammengefasst, und nicht
+unmoralisches Verhalten von einzelnen Forschenden wird als Motivation
+für potentiell betrügerisches Verhalten angesehen. Zudem geht das Buch
+explizit in einzelnen Kapiteln auf Diskussionen zu Predatory Publishing
+und Situationen von Forschungseinrichtungen in verschiedenen Ländern
+ein, verbleibt also gerade nicht beim US-amerikanischen Blick. Basis
+dafür sind zahlreiche Forschungen zum Predatory Publishing, die in den
+letzten Jahren durchgeführt wurden und hier sehr umfassend
+zusammengeführt werden.
+
+Im letzten Abschnitt des Buches wird versucht, praxisorientierte
+Hilfestellungen für Bibliothekar*innen zu geben, die Forschende bei
+Publikationsentscheidungen unterstützen wollen. Aber, da diese Situation
+-- wie man im Buch selber lernen kann -- komplexer ist, als einfach das
+Publikationswesen in \enquote{betrügerisch} oder \enquote{ehrlich}
+einzuteilen, sind diese Hinweise auch recht umfangreich. Es geht immer
+noch darum, Informationen über das Publikationswesen und seine
+Auswirkungen weiterzugeben -- aber jetzt komplexere Informationen als
+nur eine Liste von \enquote{schlechten Zeitschriften}, sondern eine
+ganze Anzahl von bedenkenswerten Kriterien und Kontexten. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Mariátegui, José-Carlos (2023). \emph{Imagined Video Archives:
+Strategies and Conditions of Video Art Collections in Latin America}.
+In: Shtromberg, Elena ; Phillips, Glenn (edit.) (2023). \emph{Encounters
+in Video Art in Latin America}. Los Angeles: Getty Research Institute,
+2023: 91--109 {[}gedruckt{]}
+
+Das Buch, zu welchem dieser Beitrag gehört, beschäftigt sich mit der
+Geschichte der Videokunst in Lateinamerika. Das Buch selber geht von der
+Prämisse aus, dass diese Kunst in Museen, Sammlungen und der
+Kunstgeschichte massiv unterrepräsentiert ist, dass sie schlecht
+erhalten wurde sowie dass sie sich zum grössten Teil gar nicht erhalten
+hat. Dabei sei Videokunst gerade in den Militärdiktaturen während der
+1970er und 1980er Jahre immer auch eine Form von Protest und Widerspruch
+gegen diese Diktaturen gewesen und schon deshalb erinnerungswürdig.
+Während sich andere Beiträge im Band mit einzelnen Festivals oder
+Künstler*innen befassen, wurde im Beitrag von Mariátegui aufgearbeitet,
+welche Archive und Sammlungen dieser Videokunst tatsächlich existieren.
+Dabei kann kein vollständiger Überblick gegeben werden: So, wie die
+damalige Videokunst oft lokal war, lokal produziert und gezeigt wurde,
+und nur in einigen Fällen über diesen Rahmen hinaus wahrgenommen wurde,
+ist es auch mit den Archiven. Viele sind Privatinitiativen, nur jeweils
+einem kleinen Kreis von Eingeweihten bekannt.
+
+Auf der Basis von Recherchen nach und Besuchen in solchen Archiven,
+werden diese kategorisiert als (a) Sammlungen, die aus durchgeführten
+Video Art Festivals entstanden, (b) Sammlungen in Institutionen wie
+Museen, (c) persönlichen Sammlungen, insbesondere von
+Videokünstler*innen selber und (d) Ausstellungsprojekten, für die
+jeweils eine Sammlung zusammengetragen (und so zumindest dokumentiert)
+wurden. Die Herausforderungen für alle diese Sammlungen bestehen im
+Material selber, da die Kunst zumeist als Video oder Film vorliegt, an
+technischen Herausforderungen, beispielsweise den verschiedenen Video-
+und Filmformaten, und der Notwendigkeit, Abspielgeräte zur Verfügung
+haben zu müssen sowie in vielen Fällen (aber nicht in allen Museen) in
+der Finanzierung und Langlebigkeit der Initiativen selber. Der Überblick
+zeigt zudem, dass trotz dieser Herausforderungen eine grosse Anzahl
+solcher Sammlungen existiert, die oft von Engagierten mit grossem Elan
+aufrecht erhalten werden. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Gilbert, Annette ; Hülhoff, Andreas (edit.) (2025). \emph{Library of
+Artistic Print on Demand: Post-Digital Publishing in Times of Platform
+Capitalism}. Leipzig: Spector Books, 2025 {[}gedruckt{]}
+
+Dieses Buch basiert auf einer Sammlung von Artists Books, die nicht von
+den Künstler*innen selber gedruckt, sondern über Print on
+Demand-Services verbreitet wurden. Ausgangspunkt ist die Feststellung,
+dass sich (auch) diese Form von Veröffentlichung in den letzten zehn
+Jahren als künstlerische Praxis etabliert hat. In einem Projekt wurde
+eine Sammlung von 100 dieser Bücher angelegt, welche anschliessend der
+Bayerischen Staatsbibliothek in München gespendet wurde (die schon eine
+eigene Sammlung von Artists Books besitzt). Teil dieser Publikation ist
+ein bebilderter und kommentierter Katalog dieser Sammlung.
+
+Rund zwei Drittel dieses schweren Buches (A4, knapp über 700 Seiten)
+besteht aber aus Essays, welche diese Publikationspraxis dokumentieren,
+diskutieren und kritisieren. Grundsätzlich \linebreak wird dabei immer wieder der
+Widerspruch erwähnt, dass hier Künstler*innen oft mit einem
+gesellschaftlich kritischen Blick Bücher über Plattformen vertreiben,
+die vor allem von grossen Firmen, insbesondere Amazon, betrieben werden.
+Einige thematisieren dies in ihren eigenen Büchern, einige wägen die
+Vor- und Nachteile ab, einige besprechen auch, dass alternative Formen
+von Print on Demand in der Vergangenheit gescheitert sind. Die
+Diskussion über den Widerspruch kommt nie an ein Ende.
+
+Zusammengefasst bietet das Buch einen Meilenstein dieser künstlerischen
+Praxis, da hier eine offenbar lebendige \enquote{Szene} das erste Mal
+zusammengeholt und dargestellt wird (selbstverständlich ohne Anspruch
+auf Vollständigkeit, wie schon im Vorwort betont wird, schon weil gerade
+Bücher aus Ländern des Globalen Südens fehlen). (ks)
+
+\subsection{3.2 Bibliotheksmanagement}\label{bibliotheksmanagement}
+
+Hunt, Amber ; Ruane, Elizabeth ; Sopka, Stephanie (edit.) (2024).
+\emph{Closing a College Library}. Chicago: Association of College and
+Research Libraries, 2024 {[}gedruckt{]}
+
+Das US-amerikanische Hochschulsystem ist geprägt von der Existenz vieler
+kleiner, privater (oft auch von religiösen Einrichtungen getragenen)
+Hochschulen. Viele dieser kleinen Einrichtungen, insbesondere die den
+Fachhochschulen vergleichbaren Colleges, stehen unter starkem
+finanziellen Druck, da die Studierendenzahlen massiv zurückgehen.
+Offenbar immer öfter werden sie geschlossen, was heissen kann, dass sie
+mit grösseren Einrichtungen fusionieren oder aber, dass sie tatsächlich
+vollständig aufgelöst werden. Im Rahmen dieser Schliessungen werden auch
+die Bibliotheken dieser Einrichtungen geschlossen. In diesem Buch
+versammelt sind Erfahrungsberichte von einigen Bibliotheken, mit denen
+dies in den letzten Jahren -- zufällig immer in der ersten Hochzeit der
+COVID-19-Pandemie -- tatsächlich passierte. Allerdings ist auch
+auffällig, dass hier sehr die US-amerikanischen Strukturen eine Rolle
+spielen. So handelt es sich immer um private Colleges, die dann, wenn
+sie fusionieren, auch immer mit anderen privaten Hochschulen
+zusammengeschlossen wurden. Immer geht es um die Verwaltung von Spenden
+(Endowments) und Special Collections sowie Hochschularchive. Zudem geht
+es immer wieder um Geld. Beispielsweise wurde bei einer Bibliothek der
+Transfer von Büchern schwierig, weil diese inklusive der Gebäude und des
+Geländes verkauft werden sollten. Zudem werden auch immer wieder
+Herausforderungen durch verschiedene Konsortien angesprochen (da es,
+anders als in Europa heute die Norm, kein nationales Konsortium gibt,
+sondern ständig wechselnde Konsortialstrukturen).
+
+Oder anders: Es ist schwer, dass alles direkt auf die Bibliotheken im
+DACH-Raum zu übertragen. Zwar stehen auch hier die kleinen Hochschulen
+vor dem Problem sinkender Studierendenzahlen, aber dabei handelt es sich
+fast immer um staatliche Einrichtungen, deren Bibliotheken auch mehr
+vernetzt sind als in den USA. Bisher wurden auch noch sehr wenige von
+ihnen geschlossen. Wenn, dann geht es im DACH-Raum wohl vor allem um das
+Auflösen von Teilbereichsbibliotheken eines
+Hochschulbibliothkekssystems, was eine sehr andere Problemlage ist.
+
+Was aus den Beispielen aber zu lernen ist, ist, (a) dass so bald möglich
+nach dem Bekanntwerden der Schliessung eine Planung stattfinden sollte,
+die wenn möglich auch Bibliotheken und Archive einbeziehen sollte,
+welche Bestände übernehmen können, (b) dass eine schnelle
+Inventarisierung sowie Sicherung von möglichst vielen Daten und
+Metadaten sinnvoll ist, (c) dass sich oft Personen eigenhändig an den
+Beständen der zu schliessenden Bibliotheken \enquote{bedienen}, wenn dem
+nicht schnell ein Riegel vorgeschoben wird. Zudem ist dem Schlusswort zu
+entnehmen, dass die Schliessungswelle von Colleges und Bibliotheken in
+den USA noch lange nicht an ein Ende gelangt ist. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Hirsch, Sandra (edit.) (2024). \emph{Library 2035: Imagining the Next
+Generation of Libraries}. Lanham ; Boulder ; New York ; London: Rowman
+\& Littlefield, 2024 {[}gedruckt{]}
+
+Das Interessanteste an diesem Buch ist, dass es aus der Zeit gefallen
+scheint. Vor zehn bis fünfzehn Jahren erschienen ständig Bücher und
+Artikel, in denen vor allem Bibliothekar*innen oder Forschende aus der
+Bibliothekswissenschaft Aussagen darüber machten, wie die Bibliothek der
+Zukunft aussehen wird. Eine ganze Anzahl von Studien und Trendberichten
+versuchte damals auch, diese Frage systematischer anzugehen. Oft wurden
+diese Anstrengungen mit stattfindenden oder vorhersehbaren Trends
+begründet, die auch auf Bibliotheken wirken würden. Teilweise wurden
+damals weitgreifende Vorhersagen gemacht und gewarnt, dass Bibliotheken
+sich aktiv wandeln würden müssen, wenn sie nicht rapide an Bedeutung
+verlieren wollten. Aber gleichzeitig wurde ihnen damals auch schon eine
+bleibende Bedeutung zugeschrieben: Für das Management digitaler Medien
+und Daten sowie für die Pflege von Communities.
+
+Heute ist weniger Zukunft, könnte man sagen. Immer weniger Kolleg*innen
+versuchen sich an solchen Vorhersagen. (Und die, die es tun -- das eine
+subjektive Wertung des Rezensenten --, klingen manchmal so, als würden
+sie einfach seit zehn oder fünfzehn Jahren immer wieder das Gleiche
+sagen, was auch nicht so richtig nach \enquote{Zukunft} klingt.) Forecasts sind
+heute weniger beliebt und wenn, dann eher von negativer Sicht geprägt.
+
+Dieses Buch jetzt scheint noch einmal den Elan, der sich 2010--2015 im
+(englisch- und deutschsprachigen) Bibliothekswesen finden liess,
+aufzurufen. Aber es liest sich auch ein wenig wie ein zu spät kommender
+Beitrag, der nicht mehr so richtig in die Landschaft passt. Auch wenn
+nicht so richtig klar ist, warum eigentlich nicht: Als wäre es falsch,
+positive Zukunftsentwürfe zu liefern -- was eigentlich nie der Fall ist,
+auch wenn der Zeitgeist negativer gestimmt scheint.
+
+Die Beiträge hier, alle aus dem US-amerikanischen Raum, sind kurz, nie
+länger als zehn Seiten. In ihnen nennen Bibliothekar*innen und
+Bibliothekswissenschaftler*innen je kurz ein Thema wie Nachhaltigkeit,
+Diversity, Virtual Technologies oder die Entwicklung des Arbeitsmarktes
+und machen dann kurze, nie so richtig fundierte, Aussagen darüber, wie
+sich diese im Bezug auf Bibliotheken (wieder unausgesprochen aber
+offensichtlich denen in den USA) verändern werden. Am Ende betonen sie
+fast in jedem Fazit, dass Bibliotheken sich entscheiden müssten, welche
+Zukunft sie anstreben und wie sie dorthin kommen wollen. Das ist alles
+auf der einen Seite ganz aufbauend -- die Autor*innen gehen offenbar
+immer davon aus, dass Bibliotheken die aktuellen Herausforderungen
+meistern werden --, aber auch irgendwie wenig glaubwürdig. Die Beiträge
+lesen sich weniger wie überzeugende (oder gar in Daten sichtbare)
+Zukünfte der Bibliotheken und viel mehr wie Texte, in denen sich
+Bibliothekar*innen gegenseitig Mut machen. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Smith, Christine F. (2025). \emph{Platform Power and Libraries}. (Series
+on Critical Information Organisation in LIS, 3) Sacramento: Library
+Juice Press, 2025 {[}gedruckt{]}
+
+Hier werden vier kurze Beiträge und eine längere Einleitung versammelt,
+welche den Stand von \enquote{Platformisation} im Bibliotheksbereich
+beschreiben wollen. (Die Beiträge stammen aus den USA, Kanada sowie
+Australien und stehen im jeweiligen Kontext.) Mit Platformisation ist
+das Entstehen von Intermediären gemeint, die zwischen Medienanbietern
+(Verlagen, Filmdistributionen, Labels et cetera) und Bibliotheken
+stehen, die sich wiederum potentiell immer mehr an Plattformen wie
+Spotify, Netflix oder den zahlreichen Video-Streaming-Diensten
+orientieren. Obgleich die meisten Anbieter für Bibliotheken
+grundsätzlich ein Interesse daran hätten, Bibliotheken zu bedienen,
+würden sie immer mehr auch von der Idee getrieben, Profit mit der
+Auswertung von Daten und der Skalierung ihrer Angebote zu machen.
+
+Die Einleitung stellt all dies in den Kontext einer Kritik
+kapitalistischer Strukturen. Auch in den Beiträgen wird mehrfach
+erwähnt, dass das Handeln der Intermediäre durch diese Strukturen zu
+erklären ist (also dadurch, dass Firmen einen Profit anstreben müssen
+und dass sie ständig an der Ausweitung ihres Geschäftes interessiert
+sind). Bibliotheken sollten dies mit bedenken und nicht in
+Verschwörungstheorien verfallen oder den Intermediären unterstellen,
+diese wollten aktiv Bibliotheken schädigen. Gleichwohl beschreiben die
+Texte die Situationen als schwierig: Bibliotheken würden bei digitalen
+Medien immer mehr die Möglichkeit verlieren, den eigenen Bestand
+auszuwählen und zu managen. Ausserdem wäre es immer schwieriger, für die
+langfristige Archivierung zu sorgen. Der Grossteil der Texte beschreibt
+diese Situation und betont, dass Bibliotheken darüber miteinander reden
+müssten, bietet aber keine Lösungsansätze. Ein wenig überraschend ist
+dies, weil sich eigentlich aufdrängt, darüber nachzudenken, ob (a)
+Bibliotheken ihre Verhandlungsmacht gegenüber den Intermediären durch
+Konsortien stärken oder (b) selber genossenschaftlich Intermediäre
+schaffen und unterstützen sollten. Ansonsten ist beim Lesen der Beiträge
+nicht so richtig klar, warum die kapitalismuskritische Perspektive in
+der Einleitung überhaupt so stark betont wurde. In den Beiträgen wird
+sich nicht auf sie bezogen. (ks)
+
+\subsection{3.3 Diversity und
+Bestandsmanagement}\label{diversity-und-bestandsmanagement}
+
+Barber, Erika ; Bauder, Julai ; Behounek, Micki ; Jones, Chris ; Reed,
+Kayla ; Rodrigues, Elizabeth (edit.) (2024). \emph{Supporting Diversity
+through Collection Evaluation, Development, and Weeding}. (CLIPP, 48).
+Chicago: Association of College and Research Libraries, 2024
+{[}gedruckt{]}
+
+Dieses Buch erschien in einer Reihe, welche praxisorientierte und recht
+kurze Publikationen für die US-amerikanischen Hochschulbibliotheken
+veröffentlicht. (CLIPP steht dabei für \enquote{College Library
+Information on Policy and Practice}.) Es verspricht im Titel einen
+Überblick zu geben zu Möglichkeiten und Tools, um das Bestandsmanagement
+daraufhin auszurichten, dass der Bestand selber diverser wird. Im
+einleitenden Text wird dann darauf eingegangen, dass
+\enquote{Diversität} ein Begriff ist, der für verschiedene Dimensionen
+gelten kann: für den Inhalt von Medien, für die Identitäten und
+Herkünfte der Autor*innen et cetera. (Nicht erwähnt wird
+überraschenderweise eine mögliche Diversität von Verlagen und anderen
+herausgebenden Körperschaften.)
+
+Selbstverständlich ist das Thema relevant und es wäre zu begrüssen, wenn
+dieses Buch tatsächlich eine Handreichung zur Verfügung stellen würde.
+Was es allerdings hauptsächlich ist, ist die Darstellung der Ergebnisse
+einer Umfrage zu diesem Thema unter US-amerikanischen
+Hochschulbibliotheken -- aus der man erfährt, dass das Thema trotz aller
+politischen Versuche, die dagegen stehen, Relevanz hat und auch in
+vielen Einrichtungen Teil der Bestandsarbeit ist, aber das gleichzeitig
+nicht alle Bibliotheken grundsätzlich so professionell arbeiten, wie man
+vielleicht erwarten würde -- und dann eine ganze Sammlung von Collection
+Development Policies von Bibliotheken, welche Diversity-Ziele für ihren
+Bestand gesetzt haben oder in ihnen auch festgelegt haben, welche Tools
+sie einsetzen, um diese zu erreichen. Aber das ist dann immer nur ein
+Teil dieser Dokumente, die jeweils in ihrer Gesamtheit abgedruckt
+werden. Von den rund 120 Seiten nehmen sie fast 80 ein. Anders gesagt:
+Es ist eigentlich ein kurzer Artikel mit einem langen Anhang, der zu
+einem Buch \enquote{erhoben} wurde.
+
+Eine interessante Erkenntnis für Bibliotheken aus dem DACH-Raum ist
+vielleicht noch, dass eine ganze Anzahl von US-amerikanischen
+Bibliotheksausstattern Tools anbietet, damit dortige Bibliotheken ihren
+Bestand auf Diversity-Ziele hin analysieren können. Aber leider werden
+diese nur kurz in einem Satz erwähnt und nicht weiter dargestellt. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Kohn, Karen (2025). \emph{Assessing Academic Library Collections for
+Diversity, Equity, and Inclusion}. New York: Bloomsbury Inc., 2025
+{[}gedruckt{]}
+
+Den Anspruch, welchen das zuvor besprochene Buch erhebt -- nämlich
+Möglichkeiten für die Umsetzung von Diversity-Zielen im
+Bestandsmanagement von Hochschulbibliotheken aufzuzeigen -- erfüllt
+dieses Buch viel besser. Es führt sehr direkt in das Thema ein, geht
+dann, zuerst zusammengefasst, dann noch ausführlicher in je einem
+Kapitel, auf vier Ansätze (List-Checking, Metadata Searching, Diversity
+Coding und Assessing Institutional Efforts) ein, welche direkt im
+Management des Bestands umgesetzt werden können. Zu drei der Ansätze
+werden zudem in je einem weiteren Kapitel konkrete Use cases aus
+US-amerikanischen Bibliotheken gezeigt (nur die Arbeit mit Metadaten
+wird nicht gesondert vorgeführt). Die Vor- und Nachteile der Ansätze
+werden besprochen und es wird auch gezeigt, welche für kurzfristige
+Projekte und welche vor allem für langfristige Wirkungen geeignet sind.
+Das alles ist in einem eher unaufgeregten Ton gehalten und zudem so
+dargestellt, dass es in andere Bibliotheken übertragbar wird.
+
+Sichtbar wird allerdings auch, dass es in den USA mehr Anbieter für
+Medien gibt, welche diese Arbeit der Bibliotheken schon unterstützen
+(indem sie beispielsweise explizit diverse Medien als Paket anbieten
+oder aber, indem sie sich auf bestimmte Themen wie afroamerikanische
+Geschichte spezialisieren) sowie Projekte wie kontinuierlich gepflegte
+Bibliographien von Literatur von Autor*innen aus marginalisierten
+Gruppen, auf die bei der Bestandsauswahl zurückgegriffen werden kann.
+Kohn stellt dar, wie deren Angebote von Bibliotheken genutzt werden
+können. Aber im DACH-Raum ist dies, bislang zumindest, wegen fehlender
+Anbieter oder Projekte kaum reproduzierbar. Trotzdem ist dieses Buch die
+bessere Wahl, wenn sich über praxisorientierte Möglichkeiten des
+diversitygerechten Bestandsmanagements informiert werden soll. (ks)
+
+\subsection{3.4 Bibliotheks- und
+Mediengeschichte}\label{bibliotheks--und-mediengeschichte}
+
+Schmidt, Siegfried (2024). \emph{Das} Hirtenwort der deutschen Bischöfe
+zur katholischen Literatur der Gegenwart \emph{aus dem Jahre 1955:
+Inhalt, Entstehung und Wirkungsgeschichte.} In: Schmidt, Siegfried ;
+Reudenbach, Hermann-Josef (Hrsg.). Katholische Lesekultur im Rheinland:
+von den \emph{Rheinischen Volksblättern} zum Hirtenbrief über
+Gegenwartsliteratur 1955. Vorträge auf dem Vierten Kolloquium zum
+Katholischen Buch- und Verlagswesen im Rheinland am 17. November 2023.
+(Libelli Rhenani, 86). Köln: Erzbischöflische Diözesan- und
+Dombibliothek mit Bibliothek St. Albertus Magnus, 2024, S. 15--104
+{[}gedruckt{]}
+
+Im Jahre 1955 veröffentlichten (vorgeblich) alle deutschen katholischen
+Bischöfe ein Hirtenwort dazu, wie die katholische Öffentlichkeit sich in
+Bezug auf die damalige Literatur verhalten sollte -- und damit waren
+auch die Nutzer*innen der damals noch direkt an diese Öffentlichkeit
+gerichteten katholischen Büchereien, die im Borromäusverein organisiert
+waren, sowie die dort tätigen Bibliothekar*innen gemeint. Ein Hirtenwort
+wird normalerweise von den Pfarrern in den Kirchen von der Kanzel
+verlesen. Bei diesem gab es aber, wie der Artikel von Schmidt zeigt,
+verschiedene Handhabungen. Meist wurde es nur in den katholischen
+Amtsblättern veröffentlicht.
+
+Das Hirtenwort (im Folgenden wird hier aus der Version im Anhang des
+Artikels von Schmidt (89--94) zitiert) betonte explizit, dass es Themen
+gab, die in der Gegenwartsliteratur besprochen wurden, die zu lesen aber
+für die katholischen Laien nicht zu empfehlen sei -- oder aber explizit
+verboten waren. (Letzteres war ernst gemeint: Der Index librorum
+prohibitorum der katholischen Kirche galt noch bis zum Zweiten
+Vatikanischen Konzil, das 1965 endete.) Genannt wurden von diesen Themen
+explizit \enquote{anormale Veranlagungen und Verhaltensweisen} im
+\enquote{Geschlechtlichen des Menschen} (was offensichtlich alles von
+ausserehelichem Sex und bis zu allen Formen der sexuellen Identität
+ausserhalb der heteronormativen, cis-gendered Norm meinte, wie man es
+heute ausdrücken würde), Selbstmord, \enquote{sittliche Dekadenz} und
+die Gefahr, die Lösung von persönlichen Problemen nicht in
+\enquote{Gottes barmherzige{[}r{]} Gnade} zu suchen. Im Hirtenwort
+wurden die Pfarrer ermahnt, auf die Lektüre der katholischen Laien zu
+achten und dann letztere direkt angesprochen: \enquote{Unsere Gläubigen
+aber seien ermahnt, bei der Wahl ihrer Lektüre zu prüfen, was ihnen
+zuträglich ist, was ihnen echte Anregung und wirksame Förderung
+vermittelt, was ihr Christentum lebendiger, reifer und reiner macht. Vor
+allem möge man bedenken, daß nicht für jeden jedes Buch frommt und
+namentlich die Kinder und die Jugend vor bedenklichen Einflüssen und
+verfrühten Begegnungen mit problematischer Literatur bewahrt werden
+müssen.}
+
+Das Hirtenwort selber, welches sich heute ein wenig wie eine Satire
+darüber liest, wie man sich das Denken wertender, konservativer
+Kirchenkreise vorstellt, war selbstverständlich in der Forschung
+bekannt. Schmidt zeigt in seinem umfangreichen, mit mehreren Anhängen
+ausgestatteten Beitrag jetzt aber, unter anderem auf Basis von
+Archivalien, die Entstehung und Wirkung des Textes auf. Ein Hauptpunkt
+ist dabei, dass der Text vor allem von einem Erzbischof (Josef Kardinal
+Frings, Köln) und einem von ihm geförderten Priester (Dr.~Leo Koep), der
+kurz vorher als Generalsekretär beim Borromäusverein tätig geworden war
+(1966 übernahm er dann die Leitung des Vereins), erstellt und seine
+Verbreitung vorangetrieben wurde. Die anderen Bischöfe wurden
+überrumpelt, indem Frings praktisch eine Deadline setzte, damit das
+Hirtenwort noch vor Weihnachten verbreitet werden könne, da es sonst
+angeblich keine Wirkung hätte. Das erklärt auch, warum das Hirtenwort in
+den verschiedenen Kirchenprovinzen unterschiedlich gehandhabt wurde:
+Teilweise wurde es nur publiziert, teilweise mit einordnenden Vorworten
+versehen, teilweise wurde es Pfarrern empfohlen, es in der Kirche zu
+verlesen, teilweise auch nicht. In Briefen an Frings äusserten viele
+Bischöfe grundsätzlich, dass die Hauptaussagen richtig wären, aber man
+über den konkreten Text noch hätte diskutieren müssen.
+
+Als Antrieb zum Entstehen des Hirtenworts stellt Schmidt zwei
+Entwicklungen heraus: Auf der einen Seite gab es in der katholischen
+Literatur der damaligen Zeit einen Aufschwung, bei dem sich in
+literarischer Form den realen Problemen der Menschen angenommen wurde
+(die sich in einigen dieser Werke auch nicht auf die \enquote{richige
+katholische Weise} lösten, sondern beispielsweise in einem Selbstmord
+enden konnten), wenn auch immer aus konservativer katholischer Sicht
+geschrieben. (Bekannt ist diese Richtung unter den Bezeichnungen
+\enquote{renouveau catholique} oder \enquote{Katholische Erneuerung}).
+Frings sah diese Literatur als Gefahr an, oder genauer, dass
+\enquote{einfache Laien} diese lesen würden. Auf der anderen Seite
+hatten die französischen Bischöfe Anfang 1955 eine ähnliche
+Verlautbarung veröffentlicht (\enquote{Directives de l'Assemblée des
+Cardinaux et Archevêques au sujet des lectures}), die explizit eine
+Lenkung der Literatur der katholischen Laien propagierte (mit dem
+erklärten Ziel, ihnen zu helfen, \enquote{katholische Lösungen} ihrer
+eigenen Probleme zu finden). Schmidt wertet diese als Anstoss, aber
+nicht Hauptgrund für das Hirtenwort.
+
+Im Ganzen zeigt sich, dass die im Hirtenwort vertretene Position damals
+tatsächlich in der katholischen Kirche vertreten wurde, aber dass es
+auch unter den Bischöfen schon damals teilweise ein grosses Unbehagen an
+ihr gab. (Nach dem Zweiten Vatikanischen Konzil oder gar heute ist diese
+Position gänzlich unhaltbar. Kirche und Borromäusverein unterstützen
+vielmehr das Recht auf die freie Lektürewahl und -interpretation.) Der
+Beitrag von Schmidt zeigt aber, dass diese Position auch nicht aus einer
+allzu fernen Vergangenheit stammt. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Schmidt, Siegfried ; Reudenbach, Hermann-Josef (Hrsg.) (2018).
+\emph{Beiträge zum Katholischen Buch- und Verlagswesen im Rheinland im
+19. und 20. Jahrhundert}. (Libelli Rhenani, 72) Köln: Erzbischöfliche
+Diözesan- und Dombibliothek mit Bibliothek St.~Albertus Magnus, 2018
+{[}gedruckt{]}
+
+Schmidt, Siegfried ; Reudenbach, Hermann-Josef (Hrsg.) (2020).
+\emph{Neue Beiträge zum Katholischen Buch- und Verlagswesen im Rheinland
+im 19. und 20. Jahrhundert}. (Libelli Rhenani, 78) Köln: Erzbischöfliche
+Diözesan- und Dombibliothek mit Bibliothek St.~Albertus Magnus, 2020
+{[}gedruckt{]}
+
+Schmidt, Siegfried ; Reudenbach, Hermann-Josef (Hrsg.) (2022).
+\emph{Kleinschriften} -- \emph{Periodica} -- \emph{Prachtwerk} --
+\emph{Predigtliteratur: Vorträge auf dem Dritten Kolloquium zum
+Katholischen Buch- und Verlagswesen im Rheinland am 18. März 2022}.
+(Libelli Rhenani, 83) Köln: Erzbischöfliche Diözesan- und Dombibliothek
+mit Bibliothek St.~Albertus Magnus, 2022 {[}gedruckt{]}
+
+Schmidt, Siegfried ; Reudenbach, Hermann-Josef (Hrsg.) (2024).
+\emph{Katholische Lesekultur im Rheinland: von den} Rheinischen
+Volksblättern \emph{zum Hirtenbrief über Gegenwartsliteratur 1955.
+Vorträge auf dem Vierten Kolloquium zum Katholischen Buch- und
+Verlagswesen im Rheinland am 17. November 2023}. (Libelli Rhenani, 86).
+Köln: Erzbischöfliche Diözesan- und Dombibliothek mit Bibliothek
+St.~Albertus Magnus, 2024 {[}gedruckt{]}
+
+Seit 2017 sind, in nicht ganz regelmässigen Abständen, die unter anderem
+durch die Covid-19-Pandemie bedingt waren, in Köln vier Kolloquien zum
+Thema Katholisches Buch- und Verlagswesen im Rheinland im 19. und 20.
+Jahrhundert durchgeführt worden. Anwesend waren immer rund 20 Personen,
+organisiert wurden sie in der Erzbischöflichen Diözesan- und
+Dombibliothek und zwar offenbar federführend von jetzt zwei ehemaligen
+Leitern dieser Bibliothek (einer ist im Ruhestand, der andere offenbar
+als Priester anderweitig verpflichtet), die auf den Kolloquien auch oft
+vortrugen und als Herausgeber der Bände fungieren. Diese vier Bücher
+stellen die Tagungsbände dar, die auch je die Teilnehmenden und die
+Tagungsprogramme dokumentieren und Platz für den Abdruck Vorträgen
+bieten, die wegen Krankheit nicht gehalten wurden. (Ein Beitrag aus dem
+zuletzt erschienenen Band wurde weiter oben gesondert vorgestellt.) Für
+die Bibliotheksgeschichte relevant ist die Kolloquiumsreihe dadurch,
+dass in Bonn seit 1845 der Borromäusverein sitzt, welcher (bis heute)
+als Aufgabe vor allem die Förderung und Anleitung katholischer
+Büchereien hat. Offenbar existieren bis heute zahlreiche Archivalien zu
+diesem Verein, welche im Laufe der Kolloquien herangezogen wurden.
+
+Das 19. und 20. Jahrhundert stellte für das katholische Milieu die Zeit
+dar, in denen es sich praktisch erst als eigenständiges, geschlossenes
+Milieu \enquote{fand}, welches nicht einfach durch spezifische religiöse
+Glaubensgrundsätze und -praktiken gekennzeichnet war, sondern praktisch
+einen eigenen Lebensraum bildete, in denen die Mitglieder (das waren
+alle Katholik*innen, nicht einfach die kirchlichen Institutionen und
+deren Mitglieder) praktisch ihr gesamtes Leben führen können sollten.
+Für die Medien des Milieus hiess dies, dass praktisch alle Formen der
+jeweils aktuellen Medien aufgegriffen wurden (beispielsweise
+Kleinschriften, Zeitschriften oder Tageszeitungen), aber explizit für
+Katholik*innen gedacht sowie mit eigener Ästhetik gestaltet, und das
+gleichzeitig eigene, spezifisch katholische Medienformen (beispielsweise
+Wallfahrtsbücher oder Predigtensammlungen) etabliert wurden. Gerade in
+letzterem war das Milieu unbestreitbar innovativ. Mit der Zeit formierte
+sich erst das Milieu, spielte dann wichtige Rollen in der Geschichte (im
+Kolloquium explizit thematisiert ist die rheinische und die deutsche
+Geschichte) und löste sich dann, so wie andere Milieus, ab dem 1960er
+Jahren als eigenständiges, geschlossenes Milieu auf. Es war,
+medienhistorisch gesprochen, eine bewegte Zeit.
+
+Die Beiträge in den vier Bänden beschäftigen sich nun mit sehr
+unterschiedlichen Teilaspekten dieser Geschichte. Beispielsweise werden
+einzelne katholische Verlage oder Autor*innen untersucht. Oder es wird
+auf die Gestaltung von Büchern bestimmter Verlage eingegangen. Mehrfach
+werden Zeitschriften und ihr Kontext vorgestellt (beispielsweise eigene
+Zeitschriften für Ministranten im 20. Jahrhundert oder ein
+Literaturblatt, welches zum Sammelpunkt einer eigenen theologischen
+Strömung wurde, die sich dann als Altkatholische Kirche abspaltete).
+Auch dem Borromäusverein werden mehrfach Beiträge gewidmet (alle von
+Siegfried Schmidt), zudem taucht er in anderen Beiträgen auch an
+unerwarteter Stelle immer wieder auf. Sichtbar wird, dass er als Verein
+eine grosse Reichweite hatte, die sich auch dadurch erklärt, dass die
+katholischen Büchereien -- zumeist ehrenamtlich betrieben und in hoher
+Zahl vorhanden -- einen direkten Einfluss auf das Leben einer grossen
+Zahl von katholischen Laien hatten. Allerdings steht bei diesen
+Beiträgen die eigentliche bibliothekarische Arbeit -- also, was in den
+Büchereien tatsächlich getan wurde, wie sie organisiert waren, wie die
+Medien ausgewählt wurden und so weiter -- nie im Fokus, sondern immer
+wieder andere Themen (zum Beispiel Kleinschriften, die der Verein für
+wenige Jahren nach 1945 herausgab, oder eine Buchgemeinschaft, die er
+betrieb).
+
+Leicht kommt der Eindruck auf, dass die Kolloquien für die Autor*innen
+der Beiträge eine Möglichkeit darstellten, ein sie interessierendes,
+spezielles Thema teilweise sehr ausführlich und intensiv darzustellen.
+Beiträge von über 50, manchmal über 100 Seiten, mit längeren Anhängen,
+sind keine Seltenheit. Das heisst nicht, dass sie uninteressant wären,
+aber teilweise gleichen sie ausführlichen wissenschaftlichen Beiträgen
+(wobei der wissenschaftliche Hintergrund bei Beitragenden auch immer
+wieder sichtbar wird, wenn beispielsweise die Fussnoten den grössten
+Teil einer Druckseite einnehmen), und gerade nicht Vorträgen.
+Gleichzeitig vereinen die Beiträge die Vor- und Nachteile einer
+spezifischen Regionalgeschichtsschreibung. Auf der einen Seite schätzen
+die Autor*innen ihre Themen und die beschriebenen Personen wert.
+Vermutlich (bei einigen, beispielsweise Priestern auch explizit) sind
+sie selber Katholik*innen, welche es deshalb vielleicht weniger
+erstaunlich finden als andere Menschen, wenn sich Autor*innen des frühen
+20. Jahrhunderts Gedanken um das Wunderwirken von Heiligen machten oder
+wenn in Broschüren diskutiert wurde, wie Mütter ihren Kindern das
+richtige Beten beibringen könnten. (Der Rezent als Atheist im 21.
+Jahrhundert muss zugeben, dass ihm eine solche Wertschätzung nicht bei
+allen Themen möglich gewesen wäre.) Das ist hilfreich, da so besser
+beschrieben wird, was im katholischen Milieu damals gedacht und gelebt
+wurde. Sie äussern dabei auch Kritik, sind also nicht apologetisch, aber
+akzeptieren auch bestimmte Denkweisen als zeittypisch, die heute wenig
+nachvollziehbar erscheinen. Auf der anderen Seite verfangen sich die
+Beiträge teilweise sehr in spezifischen Kleinfragen oder verweisen auf
+Positionen, Entwicklungen oder lokale Gegebenheiten, die für
+Katholik*innen aus dem Rheinland vielleicht bekannt sind, welche aber
+für andere Leser*innen immer wieder Nachrecherchen nötig machen.
+
+Alles in allem verströmen die Bände den Habitus des Zusammentreffens von
+Personen, die an einer spezifischen Mediengeschichte interessiert sind
+und die hier einen Ort gefunden haben, um ihre Interessen auszuleben.
+Das ist zu begrüssen, zumal das auf den Treffen versammelte Wissen durch
+die Bände ja auch zugänglich gemacht wird. Zu wünschen ist -- ausser,
+dass diese Reihe in Zukunft weitergehen wird -- wenn überhaupt, dass
+erstens in Zukunft öfter Bezug genommen wird auf die Mediengeschichte
+ausserhalb des katholischen Milieus zur damaligen Zeit. Es wird nämlich
+an vielen Stellen nicht klar, ob die beschriebenen Entwicklungen
+spezifisch waren oder Teil der gesamten Entwicklung von Medien und
+Gesellschaft. Und zweitens wären Beiträge, die auf die bibliothekarische
+Arbeit des Borromäusvereins eingehen, ein Desiderat, das geschlossen
+werden sollte. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Haver, Gianni (2018). \emph{La presse illustrée: Une histoire romande}.
+(Savoir Suisse) Lausanne: Presses polytechniques et universitaires
+romandes, 2018 {[}gedruckt{]}
+
+Savoir Suisse ist nominell ein eigener Verlag, praktisch aber als
+Imprint unterhalb des Universitätsverlages der schweizerischen
+Bundeshochschule EPFL in Lausanne angesiedelt, dessen Bücher immer kurze
+Einführungen von rund 150--200 Seiten in ein schweizerisches Thema
+darstellen, gedruckt in einem Format etwas kleiner als A5. Diese Themen
+stammen oft aus der Geschichte, aber es gibt auch Biographien,
+philosophische, politologische oder soziologische Beiträge. Oft liegt
+der Fokus dabei noch spezifischer auf der französischsprachigen Schweiz,
+der Romandie.
+
+In diesem Kontext beschäftigt sich der Band \emph{La presse illustrée:
+Une histoire romande} nun mit der Geschichte der illustrierten
+Zeitschriften in der Romandie. In seiner Kürze kann das Buch nur einen
+kleinen Teil der Zeitschriften intensiver besprechen (und bis auf eine
+Ausnahme auch nur Titelblätter reproduzieren, obgleich die Besonderheit
+dieser Zeitschriften die Doppelseite war, also die explizit auf
+bestimmte Wirkungen hin geplante Anordnung von Bildern, Text und
+graphischen Elementen auf zwei gegenüberliegenden Seiten). Zudem umfasst
+der Band einen Zeitraum von 1842 -- mit der ersten Zeitschrift \emph{Le
+cabinet de lecture} -- bis in die 1960er Jahre, was bei der Kürze des
+Textes auch heisst, dass viele Themen, Entwicklungen und besprochene
+Zeitschriften eher gestreift als eingehend behandelt werden. Es ist, dem
+Anspruch von Savoir Suisse entsprechend, ein erster Überblick.
+
+Als solcher ist der Band aber mit Gewinn zu lesen. Zu erfahren ist, dass
+-- wenig überraschend -- die Entwicklung der illustrierten Zeitschriften
+in der Romandie immer abhängig war von den sich entwickelnden
+Möglichkeiten von Drucktechnik, Bildreproduktion und Photographie.
+Zudem, dass immer Zeitschriften aus Frankreich und der Deutschschweiz
+einen grossen Einfluss auf die Zeitschriften in der Romandie hatten:
+Sowohl als Antrieb, spezifische Zeitschriften zu gründen und zu führen,
+die weder einfach aus Frankreich, genauer Paris, noch aus der
+Deutschschweiz, vulgo Zürich, geführt wurden, sondern die einen
+expliziten \enquote{point du vue romand} einnahmen; als auch als
+Konkurrenz, gegen die sich Zeitschriften an den Zeitschriftenkiosken in
+Neuchâtel, Biel oder Delémont durchsetzen mussten. Gleichzeitig erfährt
+man, dass es trotz dieser Herausforderungen in der Romandie immer wieder
+eigene Zeitschriftenprojekte gab, teilweise alleinstehend, teilweise in
+Zusammenarbeit mit deutschschweizer Verlagen (die mehrfach
+französischsprachige Versionen von schon bestehenden deutschsprachigen
+Zeitschriften publizierten, aber teilweise ergänzt durch explizite
+Beiträge aus der Romandie). Wenn auch nicht als erste*r, so doch oft
+kurz nach einer Entwicklung, die in Paris oder Zürich stattfand, zog
+auch jemand in der Romandie nach (fast immer in Genf oder Lausanne,
+manchmal aber auch in kleineren Städten wie Vevey).
+
+Gleichzeitig zeigt der Band, wie insbesondere die beiden Weltkriege die
+illustrierte Presse veränderten. Während des Ersten Weltkrieges
+etablierte sich -- auch in der Romandie -- die Photoreportage, während
+des Zweiten der explizite Einsatz von modern gestalteten illustrierten
+Zeitschriften als Propagandainstrument (hier tat sich das
+nationalsozialistische Deutschland mit der Zeitschrift \emph{Signal}
+hervor, die in mehreren Sprachen für die neutralen Staaten und das
+feindliche Ausland erschien; aber auch andere Ländern setzten diese Form
+von Propaganda ein). Diese Entwicklungen wirkten sich dann auch auf die
+Zeitschriften in den jeweils folgenden Friedenszeiten aus.
+
+Interessant ist, dass Gianni Haver auch mehrfach darauf verweist, wie
+schlecht der Überlieferungsstand gerade früher illustrierter
+Zeitschriften in Bibliotheken der Romandie und Frankreichs ist. Von
+vielen sind nur noch einige Ausgaben erhalten, bei anderen wissen wir
+nicht, wann sie mit dem Erscheinen begannen oder endeten. (Dazu bei
+trägt aber auch, dass es in der Schweiz und Frankreich keine der
+deutschen Zeitschriftendatenbank vergleichbare Übersichten der in
+Bibliotheken vorhandenen Zeitschriften gibt). Alles in allem bietet
+dieser Band einen guten Überblick über die Entwicklung illustrierter
+Zeitschriften im Allgemeinen und der Romandie im Besonderen. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Clavien, Alain (2025). \emph{L\textquotesingle argent de la presse
+suisse: les années Publicitas, 1890--1990}. (Les routes de
+l\textquotesingle histoire) Neuchâtel: Editions Livreo-Alphil
+{[}gedruckt{]}
+
+Werbung, beziehungsweise die Einnahmen aus ihr, war das gesamte 20.
+Jahrhundert über die finanzielle Basis der Tages- und Wochenzeitungen
+(in den marktwirtschaftlich organisierten Gesellschaften). Ihre
+Bedeutung wuchs am Ende des 19. Jahrhunderts und ab den 1920er Jahren
+stellten diese Einnahmen den Hauptteil des Budgets der meisten Zeitungen
+dar. Organisiert wurde dies zumeist über Firmen, die zu Beginn
+\enquote{Reklamebüros} hiessen und dann mit der Zeit ihre Bezeichnungen
+veränderten. Diese organisierten die Werbung, welche in den Zeitungen
+erschien, schlossen Verträge mit werbenden Firmen oder Werbeagenturen
+und organisierten die damit zusammenhängenden Zahlungen. Die
+Zeitungsverlage lagerten fast durchgehend diese wirtschaftliche Seite
+ihrer Arbeit an Reklamebüros aus. In vielen Fällen \enquote{mieteten}
+die Büros die Zeitungen auch über Jahrzehnte: Sie organisierten dann die
+geschaltete Werbung exklusiv für eine Zeitung, zahlten dafür jährlich
+garantierte Summen an die Verlage und erzielten ihren Profit aus der
+Differenz zwischen diesen Zahlungen und den tatsächlichen Einnahmen.
+Dafür kalkulierten die Zeitungen diese Summen in ihren Etat ein.
+
+Allerdings: Obgleich die Arbeit dieser Reklamebüros für die Zeitungen
+relevant waren, geschah sie oft im Verborgenen. Sie publizierten über
+ihre tatsächliche Arbeit wenig und gewährten (beziehungsweise gewähren
+auch heute noch) kaum Einblick darin. Allerdings liegen im Archiv des
+Kantons Vaud / Waadt in Lausanne die Akten einer dieser Firmen, der
+\enquote{Publicitas}, welche Ende des 19. Jahrhunderts begann, in der
+Schweiz aktiv zu werden (1868 zuerst als Basler Zweigstelle einer
+deutschen Firma, die dann 1890 zur eigenständigen Firma wurde und ab den
+1930er Jahren in Lausanne ansässig war). Erst 2018 ging diese in den
+Konkurs. Freigegeben sind diese, auch nicht vollständigen, Akten bislang
+bis 1990. Sie geben einen Einblick in die Aktivitäten und auch die
+Macht, welche diese Firma mit der Zeit auf den schweizerischen
+Medienmarkt ausübte. In den 1930er Jahren wurde sie zur grössten dieser
+Firmen, die dann auch noch mit den wenigen noch existierenden
+Konkurrenten (andere hatte sie währenddessen aufgekauft) ein Kartell
+bildete. Alain Clavien stellt die Geschichte dieser Firma in diesem
+Buch, auf der Basis der überlieferten Akten, dar.
+
+Dies ist erhellend: Einerseits zeigt sich, wie sehr die Presse in der
+Schweiz über Jahrzehnte von den Werbeeinnahmen abhing. Sie waren nicht
+etwa ein weiterer Einnahmeposten neben anderen, sondern deckten weit
+über 50\,\% des Budgets der Zeitungsverlage ab. Wenn, dann waren die
+Abonnements eine Nebeneinnahmequelle der Zeitungsverlage. Gleichzeitig
+zeigt das Buch, wie sehr bestimmte Entwicklungen in den Medien von
+politischen Entscheidungen dieser Firma abhingen. Beispielsweise wurden
+sozialdemokratische Medien jahrzehntelang nicht bedient. Als diese in
+den 1930er Jahren -- als die Sozialdemokratie sich deradikalisierte und
+gleichzeitig in die schweizerische Parteienlandschaft eingefügt wurde --
+von der Firma dann doch als \enquote{Kunden} zugelassen wurden, galt
+dies weiterhin nicht für kommunistische oder andere radikale Blätter.
+Noch in den 1970er Jahren verhinderte die Publicitas quasi, dass sich im
+Kanton Valais / Wallis neben der dann bestehenden konservativen Zeitung
+eine liberalere etablieren konnte, indem die Firma einen Kredit an die
+Druckerei der letzteren vergab und dann, hinter der Bühne, bei der Firma
+sanften Druck ausübte, die Arbeit für die liberale Zeitung einzustellen.
+An sich etablierte sie sich über die Vergabe von solchen Krediten und
+dem Ankauf von Firmenanteilen von Zeitungsverlagen selber praktisch als
+Kontrollinstanz auf dem Zeitungsmarkt. Gleichzeitig stellte sich die
+Firma nach aussen hin über Jahrzehnte als Stütze einer lokal
+orientierten, lebendigen und offenen Zeitungslandschaft der Schweiz dar.
+
+Die Firma prägte die Entwicklung der Zeitungslandschaft --
+beispielsweise die Etablierung der \enquote{Kopftitel}, bei denen von
+einem Verlag eine Anzahl von lokalen Titeln herausgegebene werden, die
+grösstenteils die gleichen Beiträge enthalten und sich praktisch nur in
+Titel, Lokalteil und Lokalanzeigen unterscheiden -- mit. Sie schaffte es
+auch über eine lange Zeit, sich an Veränderungen, beispielsweise dem
+Aufkommen des Fernsehens, anzupassen. Aber ab den 1990ern wurde es dann
+offenbar immer schwieriger für sie, auf die gesellschaftlichen
+Veränderungen bei der Mediennutzung und die Diversifikation von
+Medientypen zu reagieren. Sie scheiterte dann, um es salopp
+auszudrücken, praktisch am aufkommenden Internet.
+
+An einigen Stellen ist das Buch recht langatmig, wenn es sehr
+detailliert auf einzelne Geschäfte der Firma eingeht. Zudem ist es,
+selbstverständlich, auf die Schweiz bezogen. Aber da es einen solchen
+direkten Einblick in die Arbeit und Macht von Reklamebüros ansonsten
+praktisch nicht gibt, ist es grundsätzlich ein Beitrag zur
+Mediengeschichte, der sich auch auf andere Länder übertragen lässt. Es
+ist wirklich zu empfehlen, insbesondere als Ergänzung zu
+Mediengeschichten, die sich auf die Inhalte von Zeitungen fokussieren.
+Hier geht es vor allem ums Geld, aber es zeigt sich dabei, wie wichtig
+diese monetäre Seite immer war. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Matamoros, Isabelle (2025). \emph{Le pouvoir des lectrices: Une histoire
+de la lecture au XIXe siècle}. Paris: CNRS Editions, 2025 {[}gedruckt{]}
+
+Matamoros wertete für dieses Buch 64 Autobiographien, Tagebücher, Briefe
+oder ähnliche Egodokumente von Frauen aus, die während des 19.
+Jahrhunderts in Frankreich lebten. Dabei ging es darum, deren
+Biographien als Leserinnen zu rekonstruieren: Wie haben sie lesen
+gelernt, was haben sie gelesen, wie und wozu haben sie es gelesen? Es
+ging darum, Gemeinsamkeiten herauszuarbeiten, welche ein spezifisches
+Lesen von Frauen in dieser Zeit kennzeichneten. Eingebettet ist dies
+alles in die Geschichte von Pädagogik, Erziehung und Unterricht, von
+Literatur und Buchmarkt sowie zeitgenössischen Diskursen über das Lesen
+(und seine Gefahren). Sicherlich: Frauen, die solche Egodokumente
+verfassen, waren selber eine kleine Gruppe, obgleich es im 19.
+Jahrhundert normaler war, als vielleicht heute. Matamoros versucht aber,
+Frauen aus möglichst verschiedenen Schichten, Milieus und
+Lebensgeschichten einzubeziehen. Dabei hilft, dass in der
+Nationalbibliothek in Paris eine eigene Abteilung existiert, die aktiv
+Tagebücher sammelt.
+
+Die Lesebiographien zeichnen sich dann auch durch eine hohe Varietät
+aus. Frauen lernten auf sehr verschiedenen Wegen zu Lesen, oft durch
+ihre Familien selber, da eine geregelte Schulbildung sich erst im 19.
+Jahrhundert durchsetzte. Gleichzeitig zeigte sich, dass pädagogische
+Handbücher, die für den Unterricht daheim geschrieben wurden, einen
+Einfluss auf Familien in allen sozialen Schichten hatten. Fast alle
+Frauen waren dann die ganze Zeit des Lebens begleitet von Autoritäten,
+welche ihr Lesen kontrollieren wollten, sowohl ihren Familien und
+Ehepartnern als auch von Staat, Kirche und Öffentlichkeit. Das bezog
+sich darauf, was sie lasen und wie sie lasen. So wurden einigen Frauen
+angehalten, bestimmte Bücher nicht zu lesen, während andere angehalten
+wurden, Bücher in einer ganz spezifischen Form (Matamoros nennt es
+\enquote{Arbeit}, also nach bestimmten Listen, Vorgaben und so weiter)
+zu lesen. Aber gleichzeitig bestimmten Frauen ihre Lesebiographie
+selber. Sie lasen praktisch \enquote{um die Vorgaben herum}, sie lasen,
+was sie nicht lesen sollten und sie wählten selber aus. Interessant ist,
+wie instrumentell viele Frauen Bücher benutzten. Sie bereiteten sich zum
+Beispiel auf Museumsbesuche oder Reisen aktiv durch Lektüre vor, sie
+bildeten sich selber aktiv mit Büchern weiter und sie nutzen Literatur,
+um die Welt um sie herum zu verstehen. Dabei waren sie vom Medienangebot
+-- also den Büchern und Magazinen, die verkauft oder verliehen wurden
+sowie den Zeitungen, die während des Jahrhunderts immer bedeutender
+wurden -- beeinflusst, aber wählten aus diesem Angebot selber aus.
+
+Das Buch ist offensichtlich für Menschen geschrieben, die ein
+Grundwissen über die Geschichte Frankreichs im 19. Jahrhundert haben.
+Die politischen und gesellschaftlichen Ereignisse werden immer nur kurz
+erwähnt, aber nicht beschrieben. Es wird also zum Beispiel
+vorausgesetzt, dass die Abfolgen von Monarchie und Republik,
+Revolutionen und Restaurationen bekannt sind. Fokus sind immer die
+Lesebiographie von Frauen, also die Alltagsgeschichte, die sich vor
+diesem Hintergrund abspielte. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Antonutti, Isabelle (2024). \emph{Bâtisseuses de la lecture publique:
+Une histoire des premières bibliothéquaires, 1900-1950}. Villeurbanne:
+Presse de l'Enssib, 2024,
+\url{https://doi.org/10.4000/books.pressesenssib.18637}
+
+Die Geschichte des ersten Bibliothekarinnen in den Öffentlichen
+Bibliotheken Frankreichs -- das Thema dieses Buches -- ist nur
+bruchstückhaft dokumentiert und nachvollziehbar. Es gibt einige Hinweise
+auf Biographien, insbesondere da in Frankreich früh eine Schule (heute
+die Enssib, in deren Verlag dieses Buch erschien) für Bibliothekar*innen
+eingerichtet wurde, deren Archiv sich erhalten hat. Aber ansonsten sind
+es Bruchstücke, die sich finden lassen: Einige Beiträge in
+Zeitschriften, Erwähnungen in Jahresberichten, Bibliothekarinnen auf
+Photos.
+
+Antonutti hat diese Bruchstücke zusammengetragen und versucht, eine rote
+Linie zu finden. So ist das Buch auch gestaltet. Es gibt zwei Teile: Im
+zweiten finden sich Biographien von Bibliothekarinnen aus dem frühen 20.
+Jahrhundert, soweit sie rekonstruiert werden konnten. Im ersten Teil
+findet sich ein Text, welcher die rote Linie beschreiben will, aber
+immer wieder unterbrochen wird durch einzelne Dokumente oder Sammlungen
+von Zitaten -- explizit graphisch abgesetzt -- von und über die
+Bibliothekarinnen. Auch dieser Text selber wechselt ständig: An Stellen
+macht er übergreifende Aussagen, an anderen thematisiert er, wie wenig
+konkrete Quellen es gibt (und das sie kritisch zu werten sind) und an
+vielen anderen Stellen beschreibt er einzelne Dinge, die dokumentiert
+sind, ganz genau. Damit vermittelt der Text selber den Eindruck einer
+Dokumentensammlung, die noch recht unvollständig und unausgeglichen ist.
+
+Grundsätzlich wird klar, dass Bibliothekar*innen in den Öffentlichen
+Bibliotheken in Frankreich am Anfang des 20. Jahrhunderts
+\enquote{auftauchen} und dass dies im europäischen Rahmen eine normale
+Entwicklung war. Es scheint, dass einzig in den USA einige Jahrzehnte
+zuvor die \enquote{männliche Domäne} Bibliothek auch für Frauen geöffnet
+worden war. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Höppner, Stefan (2022). \emph{Goethes Bibliothek: Eine Sammlung und ihre
+Geschichte}. (Zeitschrift für Bibliothekswesen und Bibliographie,
+Sonderbände, 125) Frankfurt am Main: Vittorio Klostermann, 2022
+{[}gedruckt{]}
+
+Die Bibliothek Johann Wolfgangs von Goethe ist grösstenteils in Weimar
+in seinem langjährigen Arbeits- und Lebensort im \enquote{Haus am
+Frauenplan} erhalten. Goethe war einer der ersten Autor*innen, welcher
+aktiv den eigenen Nachlass und Nachruhm zu planen begann. Damit hatte er
+auch Erfolg, wie die Verehrung als einer der \enquote{deutschen
+Nationaldichter} in den auf seinen Tod folgenden Jahrhunderten zeigte.
+Dies motivierte auch ständig Forschungen zum Leben und Werk Goethes, die
+auch auf die konkrete Bibliothek zugriffen (oder zugreifen wollten).
+Heute ist die Bibliothek -- allerdings in einer renovierten, durch ein
+Gitter ergänzt Variante und nicht mehr so aufgestellt, wie sie es zum
+Tod Goethes war, zudem mit teilweise fehlenden, teilweise in
+Einzelstücken auch erweitertem Bestand -- museal besuchbar und auch ein
+beliebtes Bild für Postkarten. Was die Bibliothek auszeichnet, ist, dass
+sie als Arbeitsbibliothek genutzt wurde und gerade keine
+Repräsentationszwecke hatte. Zudem wurde die Bibliothek mehrfach
+katalogisiert, nicht immer erfolgreich und vollständig, zuletzt im
+Projekt \enquote{Goethe Digital} (2014--2024,
+\url{https://vfr.mww-forschung.de/web/goethedigital/start}), in dessem
+Rahmen zudem auch Visualisierungen, beispielsweise zur Nutzung anderer
+Bibliotheken durch Goethe oder zu Herkunft der Bücher in Goethes
+Bibliothek, erstellt, Ausstellungen organisiert, Tagungen durchgeführt
+und Publikationen veröffentlicht wurden.
+
+Dieses Buch stellt eine Art Rundumschlag zur Bibliothek und zum Projekt
+dar. Stefan Höppner leitete dabei das genannte Projekt. Gegliedert ist
+das Buch in zwei Teile, einen historischen und einen systematischen. Im
+ersten Teil wird nicht nur die Geschichte der Bibliothek, sondern einer
+ganzen Anzahl von weiteren Themen, die mit der Bibliothek zu tun hatten,
+geschildert. Es geht beispielsweise um die Goethe-Rezeption im deutschen
+Kaiserreich, der Weimarer Republik, im Nationalsozialismus und der DDR
+und darum, wie über die Jahrhunderte immer wieder neue Kataloge
+versprochen, aber dann doch nicht abgeschlossen wurden. Gleichzeitig
+schildert der Text die allgemeine Entwicklung von Bibliotheken oder auch
+Auseinandersetzungen zwischen der Familie Goethe und den verschiedenen
+deutschen Staaten. Im systematischen Teil werden vor allem
+Forschungsergebnisse aus dem Projekt berichtet, beispielsweise über
+verschiedene Exlibris, über die Frage, was eine Sammlung ist und ob die
+Bibliothek Goethes auch als Sammlung verstanden werden kann oder wer
+Goethe Bücher schickte. Im zweiten Teil werden auch Visualisierungen und
+Tabellen aus diesen Forschungen verwendet.
+
+Das ist alles thematisch viel, unterschiedlich aufbereitet und
+beantwortet sehr verschiedene Fragen. Und das ist das Problem des
+Buches: Es ist einfach zu viel, was hier behandelt wird. Problematisch
+ist dabei wohl vor allem, dass es als ein zusammenhängender Text
+präsentiert wird. Dadurch gehen aber die einzelnen Themen und Fragen
+ständig unter. Es vermittelt den Eindruck, als hätte hier alles, was im
+Projekt irgendwie erarbeitet wurde, in ein Buch gepackt werden sollen.
+Hat man am Anfang beispielsweise über die Beziehung von Goethe zum
+Fürstenhaus in Weimar gelernt, kommt man zu Erbstreitigkeiten oder zur
+Beziehung des nationalsozialistischen Regimes zur Bibliothek. Gelangt
+man dann beim systematischen Teil und der Darstellung an, welche Bücher
+woher stammen, ist es schwer, noch diese später gegebenen Informationen
+-- die ja eigentlich mehr über die eigentliche Bibliothek sagt --
+wertzuschätzen. Es hätte dem Buch gut getan, entweder auf mehrere
+Publikationen verteilt zu werden oder aber als Sammlung eigenständiger,
+abgeschlossener Beiträge präsentiert zu werden. In der publizierten
+Variante ist es aber überwältigend. Es ist alles irgendwie relevant und
+interessant, aber es sollte immer nur in kleinen Abschnitten gelesen
+werden. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Rausch, Kerstin Annika (2024). \emph{Antike Bibliotheken: Bildungsorte
+zwischen Symposion, Religion und gesellschaftlicher Repräsentation}.
+(Göttinger Studien zur Mediterranen Archäologie, 15) Rahden / Westfalen:
+Verlag Marie Leidorf, 2024 {[}gedruckt{]}
+
+Diese Dissertation sammelte zusammen, was aus antiken Quellen, deren
+Interpretation in den letzten Jahrhunderten, und archäologischen Funden
+über Bibliotheken in der griechischen und römischen Antike bekannt ist.
+Das ist alles ein Überblick, recht leidenschaftslos, aber dafür
+umfassend und möglichst vollständig berichtet. Als solcher präsentiert
+er keine grossen Überraschungen. Rausch entdeckt keine neuen Funde und
+stellt auch keine neuen Thesen auf, sondern zeigt, dass die Bibliotheken
+unterschiedliche Funktionen hatten (Bildung, Teil von
+Freizeitgestaltung, Repräsentation) und deshalb auch in verschiedene
+Kontexte eingebunden waren. Dieser Eindruck eines Überblicks wird durch
+das Format des Buches (A4, relativ dickes Papier, harte Bindung, recht
+einfacher Satz) unterstützt. Es sieht aus, wie ein funktionales
+Schulbuch.
+
+Die interessanteste Information findet sich gleich auf der ersten Seite
+des Vorwortes: Rausch hat im Rahmen dieser Arbeit eine, wohl möglichst
+vollständige, Datenbank zu antiken Bibliotheken aufgebaut, die am
+eScience Center Tübingen verwaltet wird. Allerdings ist diese Datenbank,
+die Grundlage dieser Arbeit war und offensichtlich eine gute Grundlage
+weiterer Forschungen sein kann, nicht einfach zugänglich. Dafür muss
+erst Kontakt zum Archäologischen Institut der Georg-August-Universität
+Göttingen aufgenommen werden: Eine für heutige Verhältnisse erstaunliche
+Regelung. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Rathkolb, Oliver (2025). \emph{Kontrollierte Freiheit: Die Alliierten in
+Wien -- Kulturpolitik 1945--1955}. Wien: Wien Museum, Residenz Verlag,
+2025. {[}gedruckt{]}
+
+Nach dem Ende des Zweiten Weltkrieges wurden auch Österreich und dann
+noch einmal die Stadt Wien in Besatzungszonen unterteilt, die von den
+Siegermächten kontrolliert wurden. Anders als in Deutschland endete
+diese Besatzungszeit -- obgleich der Kalte Krieg schon begonnen hatte --
+1955 mit dem Staatsvertrag, mit welchem die Souveränität Österreichs
+wiederhergestellt wurde. Das Land band sich dann explizit
+\enquote{Richtung West}. Aus Anlass der Wiederkehr dieses Jubiläums fand
+in Wien 2025 eine Ausstellung über die Kulturpolitik der Siegermächte
+und deren zeitgenössischer Wirkung statt. Der vorliegende Band ist die
+Begleitpublikation dazu.
+
+In grossem Format (A4), lockerem Layout, aber auch mit grossem Font und
+vielen Abbildungen, stellen Beiträge von je rund zehn Seiten einzelne
+Aspekte dieser Kulturpolitik wie Magazine, Zeitungen und Radiostationen
+der Alliierten, Ausstellungen, Förderung von Theater und Kino sowie
+anderes dar. Teilweise mit Fokus auf eine Besatzungsmacht, teilweise in
+Rundschau über alle vier. Zu lernen ist dabei unter anderem, dass es
+neben der Entnazifizierung ein gemeinsames Ziel aller Besatzungsmächte
+war, eine österreichische Identität aufzubauen, die sich explizit von
+der deutschen beziehungsweisen deutschnationalen (die Österreich als
+Teil Deutschland ansah) unterschied. Insbesondere Frankreich setzte
+darauf, eine Traditionslinie der Verbindung zwischen Österreich und
+Frankreich zu betonen. Ausserdem wird klar, dass die USA den Kampf um
+die Köpfe der Massen gewann und insbesondere die Sowjetunion ihn verlor.
+
+Erwähnt wird dieser Band hier aber wegen einer Leerstelle, die
+bezeichnend ist für solche Geschichtsschreibungen: Es gibt zwar einen
+eigenen Beitrag über Bibliotheken in Wien in dieser Zeit, der auch
+grundsätzlich interessant ist. (Markus Stumpf. \emph{\enquote{Bücher
+gehören zweifellos nicht zu den Möbeln.}: Kampfzone Bibliothek --
+Reorientierung durch Entnazifizierung und Büchergeschenke}, ebenda:
+158--169) Dieser beschäftigt sich vor allem damit, wie die grossen
+Wissenschaftlichen Bibliotheken (zu denen auch die Stadtbibliothek Wien
+zählte, die damals noch nicht zum Netzwerk der städtischen Büchereien
+gehörte) von nationalsozialistischer Literatur gesäubert wurden
+(zumindest teilweise) und wie die Bestände wieder aufgebaut wurden.
+Zudem gibt es einen Artikel explizit zur Verlagspolitik (Günter Stocker:
+\emph{Die Alliierten und die österreichische Literatur}, ebenda:
+170--179). Aber was nicht thematisiert wird, sind die Bibliotheken,
+welche eine grosse Masse der Wiener*innen erreichte, also die
+städtischen Büchereien und die offenbar zahlreichen Leihbüchereien und
+Lesesäle, die von den Alliierten eingerichtet wurden. Das ist
+einigermassen frustrierend: Immer wieder wird in anderen Beiträgen
+erwähnt, dass eine der ersten Aktivitäten der Siegermächte war, eigene
+Leseräume und Leihbüchereien einzurichten, oft noch bevor andere
+Einrichtungen eröffnet oder neue Medien herausgegeben wurden. Teilweise
+passierte das im jeweils von ihnen kontrollierten Stadtgebiet, teilweise
+in den Kultur- und Informationszentren, welche von den Siegermächten
+aufgebaut wurden. Ganz offensichtlich fanden sie diese Aktivität damals
+wichtig und potentiell einflussreich. Zudem unterschieden sie offenbar
+ständig die beiden Einrichtungen Leseraum und Leihbücherei. Aber: Was in
+diesen Einrichtungen passierte, welche Medien in ihnen standen, wie sie
+genutzt wurden und von wem, warum die beiden Einrichtungen bei den
+Alliierten so explizit getrennt wurden -- das scheint im ganzen Band
+nicht zu interessieren. Offenbar sind \enquote{grosse Themen} wie die
+Ausstellungen damals moderner Kunst oder auch -- um eine im Band
+besprochene Massenkultur zu nennen -- der Sport für die
+Geschichtsschreibung relevanter als die wohl breit wirksamen, aber
+kleinen Büchereien für die breite Masse. (Was, wie in dieser Kolumne
+hier schon mehrfach festgestellt wurde, nicht nur für diesen Band gilt,
+sondern offenbar für viele Geschichtsschreibungen.) Das ist eine
+ärgerliche blinde Stelle, da es thematisch in diese Ausstellung und
+diesen Band sehr gut gepasst hätte. (ks)
+
+\section{4. Weitere wissenschaftliche Medien (Konferenzberichte,
+Abschlussarbeiten)}\label{weitere-wissenschaftliche-medien-konferenzberichte-abschlussarbeiten}
+
+{[}diesmal keine Beiträge{]}
+
+\section{5. Populäre Medien (Social Media, Zeitungen, Radio,
+TV)}\label{populuxe4re-medien-social-media-zeitungen-radio-tv}
+
+Fischer, Georg (2026). „\emph{Die Daten fließen nur in eine Richtung,
+nämlich von der Wissenschaft zu Elsevier'' -- Yuliya Fadeeva zum
+Datentracking durch Verlage}.
+\url{https://irights.info/artikel/datentracking-elsevier-yuliya-fadeeva-interview/32777}
+{[}abgerufen 06.03.2026{]}.
+
+Im Interview wird ein kurzer Überblick über die Geschäftspraktiken von
+Elsevier und anderen Großverlagen -- oder Ex-Verlagen, wie sie von der
+Interviewpartnerin bezeichnet werden -- gegeben. Schwerpunkte sind dabei
+der Wandel vom Verlag hin zum Data-Analytics-Unternehmen, die
+Ungleichheiten und Abhängigkeiten im Verhältnis von Forschung und
+Großkonzernen sowie mögliche Wege aus dieser Schieflage. (eb)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Forester, Brett ; Deer, Ka'nhehsí:io ; Luke, Marnie ; Seglins, Dave
+(2026). \emph{How RCMP spies infiltrated the 1970s Indigenous rights
+movement}. CBC Investigates,
+\url{https://www.cbc.ca/news/indigenous/rcmp-spies-1970s-indigenous-rights-9.7134112}
+(24.03.2026)
+
+Seglins, Dave (2026). \emph{Getting access to RCMP
+\textquotesingle Native extremism\textquotesingle{} files took 4-year
+fight}. CBC Investigates,
+\url{https://www.cbc.ca/news/indigenous/rcmp-access-1970s-spying-files-9.7143553}
+(27.03.2026)
+
+Forester, Brett (2026). \emph{The RCMP, the spy and the betrayal of
+national chief George Manuel}. CBC Investiges,
+\url{https://www.cbc.ca/news/indigenous/rcmp-security-infiltration-george-manuel-9.7145083}
+(28.03.2026)
+
+St-Pierre, Sarah (2026). \emph{Apology \textquotesingle not
+enough\textquotesingle: Dene leaders want to see the RCMP spying files.}
+CBC North,
+\url{https://www.cbc.ca/news/canada/north/apology-not-enough-dene-leaders-want-see-rcmp-spying-files-9.7145344}
+(30.03.2026)
+
+Die kanadische Polizei hat in den 1970er Jahren massiv aktivistische
+Gruppen von First Nations ausspioniert und unterwandert. Diese Gruppen
+setzten sich damals (und setzen sich teilweise auch heute noch) für die
+Rechte der First Nations ein, stellten Forderungen auf, wie die, dass
+First Nations gleichberechtigt mit der kanadischen Regierung über ihre
+Zukunft verhandeln und eigene Entscheidungen über ihre Entwicklung
+treffen können sollten. Dies alles geschah in einer bewegten Zeit, die
+geprägt war von Bürgerrechtsbewegungen, auch in Kanada, und von einem
+steigenden Aktivismus von First Nations oder, wie sie sich in den USA
+oft nennen, American Natives. Teilweise lief dies unter dem Schlagwort
+\enquote{Red Power}. Sowohl in den USA als auch in Kanada ging dies mit
+teilweise aufsehenerregenden Besetzungen (unter anderem von Alcatraz
+oder Wounded Knee) und radikalen Protesten einher. In gewisser Weise
+spiegelte das Vorgehen der kanadischen Polizei gegen die Aktivist*innen
+der First Nations das Cointelpro-Programm, mit dem das FBI in den USA
+die afroamerikanische Bürgerrechtsbewegung, aber auch das
+\enquote{American Indian Movement}, unterwanderte.
+
+Offenbar hatten viele Aktivist*innen damals schon die Vermutung, dass
+sie überwacht wurden. Aber erst 2026 deckte der öffentliche Rundfunk CBC
+(Canadian Broadcasting Cooperation) den Umfang und die Breite dieser
+Überwachung auf. In einer wachsenden Anzahl von Artikeln dokumentierte
+der CBC seit Ende März 2026 die Arbeit der Polizei, interviewte
+Betroffene und berichtete auch über Reaktionen von offizieller Seite,
+bis hin zum Premierminister, der eine offizielle Entschuldigung und
+Aufklärung ankündigte.
+
+Die Hauptquellen für diese Berichte stellen Akten dar, die im
+kanadischen Nationalarchiv (Library and Archives Canada) liegen, aber --
+wie Dave Seglins in einem eigenen Artikel berichtete -- erst durch
+mehrere Anfragen mit Verweisen auf das kanadische
+Informationsfreiheitsgesetz und Beschwerden an die betreffende
+Ombudsstelle zugänglich gemacht wurden. Das Archiv hielt die Akten
+zurück und verwies, weil sie die nationale Sicherheit betreffen würden,
+an den kanadischen Geheimdienst. Dieser verwies wieder auf das Archiv
+zurück, das dann später dem CBC-Team die betreffenden Akten zugänglich
+machte. Im Laufe der Veröffentlichungen äusserte es dann auch Interesse,
+einen noch breiteren Zugang zu gewähren. Ein Grund, der vom Archiv gegen
+die Veröffentlichung der Akten vorgebracht wurde, war der, dass aus den
+Akten offenbar auch ersichtlich sein kann, welche Personen konkret die
+Spionage durchführte, also wer Berichte lieferte oder gar aktiv Gruppen
+unterwanderte.
+
+Mehrere Interviewte, die (oder deren heute verstorbenen Eltern) damals
+von der Überwachung betroffen waren, äusserten dagegen explizit die
+Forderung, dass die Akten veröffentlicht werden sollten. Damit alleine
+sei es nicht getan, genauso wenig wie mit einer Entschuldigung von
+staatlicher Seite. Aber es wäre ein Anfang zur Aufarbeitung. Ein wenig
+erinnert diese Situation an ähnliche Positionen, wie sie nach dem Ende
+der DDR im Bezug auf Stasi-Akten vertreten wurde, obgleich diese
+Parallele -- aus der man vielleicht etwas über den möglichen Umgang mit
+solchen Akten lernen könnte -- (bislang) in Kanada nicht erwähnt wurde.
+Gleichzeitig erinnert dieses Beispiel aber auch daran, welche
+Verantwortung Archive tragen können. (ks)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Rüegger, Samuel (2026). \emph{LibreOffice am Abgrund: Wie die Document
+Foundation ihre eigenen Gründer vor die Tür setzt}. Linux Guides
+Community,
+\url{https://forum.linuxguides.de/core/index.php?article/54-libreoffice-am-abgrund-wie-die-document-foundation-ihre-eigenen-gr\%C3\%BCnder-vor-die/}
+{[}abgerufen 09.04.2026{]}.
+
+Der Blogpost gibt einen Einblick in die Schwierigkeiten, die mit der
+Betreuung einer großen und erfolgreichen Open-Source-Software
+einhergehen, wobei Themen der Finanzierung ebenso angerissen werden, wie
+Problematiken des Steuerrechts und ethische Grundlagen der
+Open-Source-Bewegung. Exemplarisch festgemacht wird es an den 2020
+begonnenen Geschehnissen rund um LibreOffice. Die gemeinnützige, in
+Berlin ansässige Document Foundation, die über die Markenrechte an
+LibreOffice verfügt, hat sich heftig mit maßgeblichen Entwicklern der
+Software verkracht -- bis hin zu Rechtsstreitigkeiten -- was für die
+Zukunft der dieser freien Microsoft-Office-Alternative nichts Gutes
+befürchten lässt. (eb)
+
+\section{6. Weitere Medien}\label{weitere-medien}
+
+Glättli, Samuel (2024). \emph{Globine baut eine Bibliothek}. Zürich:
+Globi Verlag ; Orell Füssli Verlag, 2024 {[}gedruckt{]}
+
+Globine und Globi sind zwei Comicfiguren, welche zur Alltagskultur der
+deutschsprachigen Schweiz und Liechtensteins gehören, aber ausserhalb
+dieser Gebiete kaum bekannt sind. (Vergleichbar vielleicht mit den
+Abrafaxen in Ostdeutschland.) Die Comics gehören seit Jahrzehnten zur
+Kindheit in der Schweiz und Liechtenstein, die Bücher stehen hier wohl
+in den meisten Kinderzimmern, sind aber auch in praktisch allen
+Gemeindebibliotheken oder Buchhandlungen zu finden.
+
+Ursprünglich wurde Globi 1935 als Werbefigur für die schweizerische
+Kaufhauskette Globus geschaffen, aber diese Verbindung ist schon lange
+nicht mehr gegeben. Globine wurden 1988 eingeführt. In ihren Geschichten
+fungieren beide immer wieder als Figuren, welche oft eine Institution
+oder Sehenswürdigkeit in der Schweiz vorstellen (die Rettungsflugwacht,
+den Zoo, das Kuhrennen oder -- in seiner rätoromanischen Variante eines
+der prominentesten Bücher in dieser Sprache -- den Nationalpark).
+Grundsätzlich sind beide immer unternehmenslustig, aktiv und positiv
+gestimmt. In den Geschichten lösen sich alle Probleme durch gemeinsamen
+Einsatz, beispielsweise der Tiere im Nationalpark oder aller
+Bewohner*innen eines Dorfs, mit einem positiven Ergebnis auf. Dabei
+werden verständlicherweise viele Herausforderungen und deren Lösung
+vereinfacht und ihre Komplexität reduziert. Die Darstellung ist jeweils
+wenig komplex, die Bildtafeln sind, der Zielgruppe Kinder gerecht,
+jeweils bunt und relativ einfach aufgebaut.
+
+Das ist relevant für den Kontext des Bandes \enquote{Globine baut eine
+Bibliothek}, welcher 2024 erschien. Er hebt sich in Stil und Geschichte
+nicht von den anderen Globine / Globi-Bänden ab, aber er ist sofort --
+erwartungsgemäss -- zu einem Hit in den Bibliotheken der Deutschschweiz
+und Liechtensteins geworden. In praktisch allen steht er im Bestand. Der
+Rezensent hat ihn in den letzten Monaten zudem mehrfach in den Regalen
+verschiedener Bibliotheken (inklusive Wissenschaftlicher) hervorgehoben
+gesehen. Er ist aber auch oft entliehen (der Rezensent griff extra auf
+den Bestand der Stiftsbibliothek St.~Gallen zurück, um es ohne das
+schlechte Gewissen, dass er es wohl einem Kind fortnimmt, für einige
+Tage auszuleihen). Es ist in kurzer Zeit zu einem Klassiker geworden --
+einer, der ausserhalb dieser beiden Länder wohl unbekannt ist.
+
+Das Globine eine Bibliothek baut (mit Hilfe von tierischen Freund*innen
+wie einem Eichhörnchen und einer Eule sowie offenbar der gesamten
+Bevölkerung ihres Dorfes Schnurzikon und der Bürgermeisterin), ist
+motiviert davon, dass daheim ihr eigenes Buchregal auseinanderfällt, sie
+beim Besorgen neuen Holzes (sie baut grundsätzlich alles selber) Kinder
+trifft, die mit dem Rad die Bibliothek in der Nachbargemeinde besuchten,
+sich aber über die weite Strecke beschweren, und das zudem in der
+Dorfmitte von Schnurzikon ein leeres Gebäude steht. Dies alles bringt
+Globine zu der Idee, dass man dort eine Bibliothek einrichten müsste.
+Nachdem diese zuerst mit grossem Erfolg startet, aber nur mit Büchern
+und händischer Ausleihe ausgestattet ist, wird sie von Globine
+modernisiert, die dabei auch Ideen anderer Figuren aufgreift. Sie wird,
+wie das im bibliothekarischen Diskurs heissen würde, zu einem
+\enquote{Zentrum des Dorfes} mit Podcaststudio, Werkstatt,
+Kulturprogramm (Vorleseveranstaltungen und Konzert), Buchausstellung,
+gemütlichen Ecken und Kaffeeautomat. Gleichzeitig wird sie technisch
+aufgerüstet. Globine baut erst eine Selbstausleihe, dann einen Roboter,
+welcher die Einstellarbeiten übernimmt. Die Geschichte endet damit, dass
+die Bibliothek nach einer Brandkatastrophe (und dem Finden von
+antiquarischen Büchern, die zum Teil veräussert werden, um die
+notwendigen Mittel für den Neubau aufzubringen) wieder eingerichtet und
+vom ganzen Dorf genutzt wird.
+
+Selbstverständlich: Die Geschichte übergeht viele Dinge, die realen
+Bibliotheken Kopfzerbrechen machen. Beispielsweise wird die Bibliothek
+zuerst mit Buchspenden aufgebaut, die in der Realität mehr Problem als
+Lösung sind. Es wird auch -- obwohl die Bürgermeisterin direkt die
+Bibliothek unterstützt -- nicht geklärt, wer überhaupt den Betrieb
+finanziert. Das alles ist dem Genre geschuldet. Aber sonst zeichnet das
+Buch das Bild einer Bibliothek, in der Bücher und das Lesen im
+Mittelpunkt stehen, welche aber sonst auch eine grosse Breite an
+Angeboten hat; die einen Ort darstellt, in der viele Menschen (und
+Tiere) konfliktfrei ihren jeweils eigenen Interessen nachgehen können
+und die zudem modern ist.
+
+Der Band ist in sich abgeschlossen, verweist aber auch auf andere Bände
+der Reihe zurück. Zudem kehren aus diesen zahlreiche Figuren und
+Personen wieder. Eine Kenntnis früherer Bände fördert also das
+Verständnis. Zudem gibt es in der Geschichte eine Reihe von Verweisen
+auf den schweizerisch-liechtensteinischen Alltag, die wohl für
+Leser*innen aus anderen Ländern nicht wirklich verständlich sind.
+Trotzdem eignet sich der Band auch für die Kinderabteilungen der
+Bibliotheken anderer Länder. (ks)
+
+%autor
+
+\end{document}

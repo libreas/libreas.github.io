@@ -1,0 +1,337 @@
+\documentclass[a4paper,
+fontsize=11pt,
+%headings=small,
+oneside,
+numbers=noperiodatend,
+parskip=half-,
+bibliography=totoc,
+final
+]{scrartcl}
+
+\usepackage[babel]{csquotes}
+\usepackage{synttree}
+\usepackage{graphicx}
+\setkeys{Gin}{width=.4\textwidth} %default pics size
+
+\graphicspath{{./plots/}}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+%\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage [hyphens]{url}
+\usepackage{booktabs} 
+\usepackage[left=2.4cm,right=2.4cm,top=2.3cm,bottom=2cm,includeheadfoot]{geometry}
+\usepackage[labelformat=empty]{caption} % option 'labelformat=empty]' to surpress adding "Abbildung 1:" or "Figure 1" before each caption / use parameter '\captionsetup{labelformat=empty}' instead to change this for just one caption
+\usepackage{eurosym}
+\usepackage{multirow}
+\usepackage[ngerman]{varioref}
+\setcapindent{1em}
+\renewcommand{\labelitemi}{--}
+\usepackage{paralist}
+\usepackage{pdfpages}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{acronym}
+\usepackage{eurosym}
+\usepackage{longtable,lscape}
+\usepackage{mathpazo}
+\usepackage[normalem]{ulem} %emphasize weiterhin kursiv
+\usepackage[flushmargin,ragged]{footmisc} % left align footnote
+\usepackage{ccicons} 
+\setcapindent{0pt} % no indentation in captions
+\usepackage{xurl} % Breaks URLs
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
+
+\usepackage{listings}
+
+\urlstyle{same}  % don't use monospace font for urls
+
+\usepackage[fleqn]{amsmath}
+
+%adjust fontsize for part
+
+\usepackage{sectsty}
+\partfont{\large}
+
+%Das BibTeX-Zeichen mit \BibTeX setzen:
+\def\symbol#1{\char #1\relax}
+\def\bsl{{\tt\symbol{'134}}}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\pagestyle{fancyplain}
+\fancyhead[R]{\thepage}
+
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+% typo setup
+\clubpenalty = 10000
+\widowpenalty = 10000
+\displaywidowpenalty = 10000
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+\usepackage{breakurl}
+
+%meta
+%meta
+
+\fancyhead[L]{A. Roth\\ %author
+LIBREAS. Library Ideas, 48 (2026). % journal, issue, volume.
+\href{https://doi.org/10.18452/37904}{\color{black}https://doi.org/10.18452/37904}
+{}} % doi 
+\fancyhead[R]{\thepage} %page number
+\fancyfoot[L] {\ccLogo \ccAttribution\ \href{https://creativecommons.org/licenses/by/4.0/}{\color{black}Creative Commons BY 4.0}}  %licence
+\fancyfoot[R] {ISSN: 1860-7950}
+
+\title{\LARGE{Qualitative Interviews und Forschungsethik}}% title
+\author{Alexandra Roth} % author
+
+\setcounter{page}{1}
+
+\hypersetup{%
+      pdftitle={Qualitative Interviews und Forschungsethik},
+      pdfauthor={Alexandra Roth},
+      pdfcopyright={CC BY 4.0 International},
+      pdfsubject={LIBREAS. Library Ideas, 48 (2026)},
+      pdfkeywords={Qualitative Interviews, Methode, Ethik, qualitative interviews, methodology, ethics},
+      pdflicenseurl={https://creativecommons.org/licenses/by/4.0/},
+      pdfcontacturl={http://libreas.eu},
+      pdfurl={https://doi.org/10.18452/37904},
+      pdfdoi={10.18452/37904},
+      pdflang={de},
+      pdfmetalang={de}
+     }
+
+
+
+\date{}
+\begin{document}
+
+\maketitle
+\thispagestyle{fancyplain} 
+
+%abstracts
+\begin{abstract}
+\noindent
+\textbf{Kurzfassung}: Mit qualitativen Interviews lassen sich
+unterschiedliche Fragestellungen bearbeiten. Die Methode konfrontiert
+Forschende allerdings mit einer Reihe ethischer Herausforderungen. Der
+Beitrag beschreibt Wertkonflikte, die sich bei Untersuchungen, die
+mithilfe qualitativer Interviews durchgeführt werden, ergeben können,
+und zeigt mögliche Lösungswege auf.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\noindent\textbf{Abstract}: Qualitative interviews can be used to address a wide
+range of research questions. However, the method confronts researchers
+with a number of ethical challenges. The article describes potential
+conflicts of values that can arise in studies using qualitative
+interviews and suggests possible solutions.
+\end{abstract}
+
+\vspace{0.5 cm}
+
+%body
+Der Einsatz qualitativer Interviews bietet sich vor allem dann an, wenn
+das Erkenntnisinteresse besteht, \enquote{individuelle Sichtweisen zu
+erschließen und sozialen Sinn zu rekonstruieren. Besonders fruchtbar ist
+die qualitative Befragung daher für Untersuchungsfragen, zu denen nur
+das Individuum Auskunft geben kann: zur Biografie, zu Werten,
+Einstellungen, Images und Gewohnheiten} (Werner 2013, S. 129 f.). Der
+Einsatz von qualitativen Interviews ist damit auch im Bibliothekskontext
+sinnvoll, so etwa, wenn man Genaueres über die Motive der
+Bibliotheksnutzer*innen beziehungsweise der Nicht-Nutzer*innen erfahren
+möchte, oder wenn man sich, beispielsweise im Rahmen einer studentischen
+Arbeit, einem Thema explorativ-hypothesengene\-rierend nähern will.
+
+Wie bei allen anderen wissenschaftlichen Methoden ist bei qualitativen
+Befragungen darauf zu achten, dass den Proband*innen aus einer
+Untersuchungsteilnahme keine Nachteile erwachsen (vgl.
+Przyborski/Wohlrab-Sahr 2021, S. 45). Was in der Theorie recht simpel
+klingt, kann sich in der Praxis mitunter als schwierig erweisen.
+Problematisch wird es vor allem dann, wenn moralische Prinzipien mit
+beruflichen Werten oder mit wissenschaftlichen Gütekriterien
+konfligieren. Im Folgenden werden beispielhaft Dilemmata beschrieben,
+die qualitative Interviews mit sich bringen können.
+
+\section{Konflikt: Validität und
+Transparenz}\label{konflikt-validituxe4t-und-transparenz}
+
+Ein forschungsethisches Dilemma kann sich zunächst durch den Konflikt
+zwischen der Forderung, gegenüber den Proband*innen transparent zu
+kommunizieren, einerseits und dem Anspruch, valide Ergebnisse zu
+erzielen, andererseits ergeben. Transparenz bedeutet in diesem
+Zusammenhang, dass Forschende potenzielle Interviewpartner*innen im
+Rahmen einer informierten Einwilligung noch vor der eigentlichen
+Erhebung über ihre Rechte, die Ziele und die Inhalte der Untersuchung
+sowie über etwaige negative Konsequenzen, die sich aus einer Teilnahme
+an der Befragung ergeben, informieren müssen (vgl. Misoch 2015, S.
+15--23; Seidman 2006, S. 61--69). Auf dieser Basis sollen die
+angefragten Personen (beziehungsweise bei Kindern deren
+Erziehungsberechtigte) frei und selbstbestimmt entscheiden können, ob
+eine Interviewteilnahme erfolgt (vgl. Friedrichs 2022, S. 349; Seidman
+2006, S. 61). Eine umfassende Information der Teilnehmenden kann jedoch
+dazu führen, dass diese bei der eigentlichen Erhebung sozial erwünschte
+Antworten geben (vgl. Misoch 2015, S. 15--23). Dieses Dilemma lässt sich
+nur schwer lösen, kann jedoch \enquote{gemildert werden, indem das Ziel
+und die Methode der Studie zwar transparent gemacht werden, ohne dabei
+aber zu sehr ins Detail zu gehen, sodass die zu Befragenden hinsichtlich
+ihres Interviewverhaltens nicht beeinflusst werden} (Misoch 2015, S.
+19).
+
+\section{Konflikt: Probandenschutz versus intersubjektive
+Nachvollziehbarkeit und
+Validität}\label{konflikt-probandenschutz-versus-intersubjektive-nachvollziehbarkeit-und-validituxe4t}
+
+Ein weiteres forschungsethisches Dilemma kann sich ergeben, wenn der
+Schutz der Proband*in\-nen mit den wissenschaftlichen Gütekriterien
+intersubjektive Nachvollziehbarkeit und Validität konfligiert. So sind
+Zusatzinformationen zu Proband*innen, etwa zu ihrem Alter oder ihrem
+Arbeitsort, gerade im qualitativen Paradigma hilfreich, um das Gesagte
+besser zu kontextualisieren und damit nachvollziehbarer zu machen (vgl.
+Roth 2024, S. 190). Auf der anderen Seite könnten derlei Daten die
+Re-Identifizierung von Befragungsteilnehmer*innen ermöglichen. Dieses
+Risiko besteht vor allem dann, wenn die Population, aus der das Sample
+gewählt wird, von vornherein nur einen kleinen Personenkreis umfasst,
+weil dann nicht davon auszugehen ist, dass abgefragte Merkmale auf mehr
+als eine Person zutreffen. Die Gefahr der Re-Identifizierung kann also
+im Bibliothekskontext zum Beispiel bei Mitarbeiterbefragungen in
+kleineren Einrichtungen bestehen, aber auch in größeren Systemen, wenn
+sehr viele Zusatzinformationen zu den Proband*innen erhoben werden. Hier
+gilt es genau abzuwägen, wie viele Daten tatsächlich dem Erkenntnisziel
+dienen und im Zweifelsfall großzügig zu anonymisieren.
+
+\section{Konflikt: Fairness versus
+Effizienz}\label{konflikt-fairness-versus-effizienz}
+
+Der Schutz der Proband*innen vor Schaden ist letztlich auch ein Zeichen
+von Respekt. Ein respektvoller Umgang gegenüber den
+Interviewpartner*innen beinhaltet zudem, dass manipulative oder
+despektierliche Fragen vermieden werden sollten. Vielmehr ist den
+Proband*innen sachlich zu begegnen. Außerdem sollte man es unterlassen,
+ihnen Antworten in den Mund zu legen oder sie vor allem auf bestimmte
+Rollen, etwa die der Frau, der*s Schüler*in et cetera zu reduzieren. Das
+sorgfältige Prüfen und Evaluieren der Frageformulierungen, um solche
+Fauxpas zu vermeiden, ist daher notwendig, geht aber zu Lasten der
+Effizienz. Gleiches gilt für eine sorgsame Transkription. Diese ist
+deshalb so wichtig, weil Abweichungen zu Fehlinterpretationen führen
+können (vgl. Misoch 2015, S. 15--23). Wie viel Zeit in die Vor- und
+Nachbereitung von Interviews investiert werden sollte, lässt sich zwar
+nicht pauschal festlegen. Ein Pretest im Vorfeld der Erhebung und eine
+Prüfung der Transkripte auf Korrektheit sind auf jeden Fall angebracht.
+
+\section{Konflikt: Probandenschutz versus
+Transparenz}\label{konflikt-probandenschutz-versus-transparenz}
+
+Das Führen von Interviews erfolgt in der Regel in der Absicht, die
+Forschungsdaten im Nachhinein einem größeren Kreis zugänglich zu machen.
+Damit den Proband*innen daraus keine Nachteile erwachsen, müssen
+Forschungsdaten so anonymisiert werden, dass eine Zuordnung von Aussagen
+zu einzelnen Personen nicht möglich ist (vgl. Misoch 2015, S. 15--23).
+Außerdem sollten sich die Befragten, sofern sie sich in den
+Forschungsergebnissen \enquote{selbst wiedererkennen, durch die Art der
+Darstellung nicht persönlich diskreditiert sehen}
+(Przyborski/Wohlrab-Sahr 2021, S. 46). Mitunter wird deshalb überlegt,
+die Interviewpartner*innen am Auswertungsprozess zu beteiligen. Dies
+kann allerdings zu Lasten der Validität gehen: \enquote{Nicht immer
+kommen wir in unseren Analysen zu Ergebnissen, die den Untersuchten
+unmittelbar gefallen {[}\ldots{} Die{]} Differenz der Perspektiven ist
+aber u. E. nicht dadurch auflösbar, dass man die beforschten Subjekte an
+der Auswertung beteiligt oder ihnen die Auswertung und Verschriftlichung
+gleichsam zur Freigabe vorlegt. Eine wissenschaftliche Bearbeitung
+fördert andere Perspektiven zutage als Formen der Alltagsreflexion und
+der Selbstbetrachtung. {[}\ldots{]} Auch die Anerkennung dieser
+Differenz und der verantwortliche Umgang damit sind Ausdruck einer
+forschungsethischen Haltung} (Przyborski/Wohlrab-Sahr 2021, S. 46).
+
+\section{Konflikt: Probandenschutz versus Respekt geistigen
+Eigentums}\label{konflikt-probandenschutz-versus-respekt-geistigen-eigentums}
+
+Ein weiterer Wertekonflikt ergibt sich mit Blick auf die
+Veröffentlichung von Daten: Gemäß den Regeln guter wissenschaftlicher
+Praxis ist das geistige Eigentum anderer als solches kenntlich zu
+machen. Demgegenüber steht der Schutz der Proband*innen, wonach
+personenbezogene Informationen anonymisiert werden sollen (vgl. Misoch
+2015, S. 15--23). Möchte man also aus Interviews zitieren, so darf man
+dabei nicht die Namen der Interviewpartner*innen nennen. Eine Ausnahme
+von dieser Regelung ist möglich, wenn ausdrücklich schriftlich
+vereinbart wurde, dass die Proband*innen namentlich benannt werden
+dürfen.\footnote{Das Online-Portal Scribbr bietet neben Anleitungen auch
+  Musterdokumente für Interviewvorhaben. Vgl. \url{https://is.gd/jtFUqL}}
+Ein Kompromiss zwischen den konfligierenden Werten wird zum Beispiel
+erreicht, indem man die Interviewpartner*innen pseudonymisiert -- zum
+Beispiel mit Bezeichnungen wie \enquote{Schüler*in 1, 2, 3 et cetera} /
+\enquote{Kolleg*in 1, 2, 3 et cetera} / \enquote{Kund*in 1, 2, 3 et
+cetera} -- und diese Pseudonyme nutzt, um die Urheberschaft von Zitaten
+deutlich zu machen.
+
+\section{Fazit}\label{fazit}
+
+Das qualitative Interview ist eine gewinnbringende, aber keine
+voraussetzungslose Methode. Forschungsethische Fragen werden auch in
+qualitativen Forschungsdesigns \enquote{dauernd virulent, und zwar
+deshalb, weil wir uns in eine Forschungsbeziehung mit einem menschlichen
+Gegenüber begeben, und weil wir das, was dieses Gegenüber uns an
+Persönlichem preisgibt, in Daten verwandeln, die einer
+wissenschaftlichen Öffentlichkeit und bisweilen über diese hinaus
+zugänglich gemacht werden sollen} (Przyborski/Wohlrab-Sahr 2021, S. 46,
+im Original teilweise hervorgehoben). Wer qualitative Interviews führen
+möchte, sollte sich daher mit forschungsethischen Fragen und den in
+diesem Zusammenhang relevanten gesetzlichen Bestimmungen schon im
+Vorfeld der Untersuchung auseinandersetzen, antizipieren, wo
+gegebenenfalls Dilemmata auftreten und überlegen, wie die Proband*innen
+vor Schaden geschützt werden können. Eine generelle Orientierung bieten
+hierbei eine Reihe von Ethik-Kodizes, die von wissenschaftlichen
+Organisationen erarbeitet und herausgegeben werden (vgl. Friedrichs
+2022, S. 349). Diese enthalten oftmals zumindest auf allgemeiner Ebene
+Stellungnahmen zu forschungsethischen Fragen, die sich auf den
+Bibliothekskontext übertragen lassen.
+
+\section{Literatur}\label{literatur}
+
+Friedrichs, Jürgen: Forschungsethik. In: Baur, Nina; Blasius, Jörg
+(Hrsg.): Handbuch Methoden der empirischen Sozialforschung. 3.
+überarbeitete und erweiterte Aufl. Wiesbaden: Springer VS, 2022, S.
+349--358. DOI: \url{https://doi.org/10.1007/978-3-658-37985-8}
+
+Misoch, Sabina: Qualitative Interviews. Berlin: De Gruyter Oldenbourg,
+2015. DOI: \url{https://doi.org/10.1515/9783110354614}
+
+Przyborski, Aglaja; Wohlrab-Sahr, Monika: Qualitative Sozialforschung:
+Ein Arbeitsbuch. 5. \linebreak überarbeitete und erweiterte Aufl. Berlin: De
+Gruyter Oldenbourg, 2021. (Lehr- und Handbücher der Soziologie). DOI:
+\url{https://doi.org/10.1515/9783110710663} Alexandra Corinna:
+Bildungsverständnis und -ideal Öffentlicher Bibliotheken in Deutschland.
+Berlin: Univ., Diss., 2024. DOI: \url{https://doi.org/10.18452/28067}
+
+Seidman, Irving: Interviewing as Qualitative Research: A Guide for
+Researchers in Education and the Social Sciences. Third Ed. New York:
+Teachers College, Columbia University, 2006. URL:
+\url{https://is.gd/qTlUPl}
+
+Werner, Petra: Qualitative Befragungen. In: Umlauf, Konrad;
+Fühles-Ubach, Simone; Seadle, Michael (Hrsg.): Handbuch Methoden der
+Bibliotheks- und Informationswissenschaft: Biblio\-theks-,
+Benutzerforschung, Informationsanalyse. Berlin: De Gruyter Saur, 2013,
+S. 128--151. DOI: \url{https://doi.org/10.1515/9783110255546}
+
+%autor
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{Dr.~phil. Alexandra Roth} ist Lektorin bei der Münchner
+Stadtbibliothek. Sie hat in Bibliothekswissenschaft promoviert und
+arbeitet vor allem zu medienwissenschaftlichen und
+bibliotheks\-pädagogischen Themen.
+
+\end{document}

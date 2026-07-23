@@ -1,0 +1,256 @@
+Die Autorin hat sich für das eigene Promotionsprojekt neben einer
+systematischen Literaturanalyse auch für Expert\*inneninterviews als
+Forschungsmethode entschieden. Als Vorbereitung auf die damit
+verbundenen Gespräche soll dieser Essay dienen, um sich mit der Methode
+selbst besser vertraut zu machen. Der besseren Lesbarkeit willen,
+erfolgen alle weiteren personenbezogenen Bezeichnungen in diesem Aufsatz
+in der männlichen Form, welche dabei aber keinerlei wertende Bedeutung
+hat und alle Geschlechter gleichermaßen repräsentiert.
+
+### 1\. Definition
+
+Ein Experteninterview ist eine erweiterte Form des sogenannten
+Leitfaden-Interviews, also eine qualitative Befragung anhand eines vorab
+erstellten Fragenkatalogs. Die für das Interview herangezogenen
+Interviewpartner fungieren dabei als Quelle, aus der Wissenschaftler
+wertvolle Erkenntnisse über den von ihnen zu untersuchenden Gegenstand
+herausarbeiten können. Voraussetzung dabei ist, dass der Befragte eine
+fachliche Kompetenz bezüglich der Forschungsthematik besitzt.
+(Vergleiche Werner 2013, S. 142 ff.) Er sollte also über ein
+überdurchschnittliches Fachwissen im Hinblick auf das Thema verfügen.
+Seine Befragung dient als methodisches Instrument, dieses besondere
+Wissen an die Oberfläche zu heben. (Vergleiche Gläser und Laudel 2010,
+S. 11) Ziel der Befragung ist es, die Bedeutung des Standpunktes und der
+Perspektive der Experten für den Kontext der Untersuchung
+herauszuarbeiten und auf Grundlage ihrer Aussagen spezifische Annahmen
+herzuleiten, um die zentrale Forschungsfrage zu beantworten. Warum sich
+besonders solche Personen für ein Interview eignen, verdeutlicht Lars
+Rinsdorf in seinem Beitrag *Qualitative Befragungen*. (Vergleiche
+Rinsdorf 2013, S. 67 ff.) Seiner Auffassung nach sind diese Befragten,
+die er als *Beforschte* bezeichnet, tatsächlich *Experten*, da sie im
+Arbeitsalltag in dem zu untersuchenden Fachgebiet tätig sind. Als
+sogenannte *relevante Akteure* können sie eine komplexe und umfassende
+Bewertung zum Thema abgeben, die sich neben der angewandten Praxis auch
+aus einer entsprechenden Vorbildung und persönlichen Erfahrungen speist.
+
+### 2\. Arbeitsschritte
+
+Ein Experteninterview sollte in fünf Schritten erfolgen:
+
+#### 1\. Die Vorüberlegungen
+
+Zunächst gilt es, die Wer-, Wie- und Wo-Fragen zu beantworten. Es wird
+also festgelegt, welche Personengruppe, unter Anwendung welcher
+Hilfsmittel und an welchen Orten beziehungsweise über welche Kanäle
+befragt werden soll. Im Bereich der Bibliothekswissenschaft können dies
+sowohl Hochschulangehörige, wie Lehrende und Studierende, als auch
+Praktiker, vom Bibliotheksleiter bis zum Fachangestellten, sein, wenn
+sich die Untersuchung im Rahmen von einzelnen Arbeitsbereichen in einer
+Bibliothek dreht. Aber auch Bibliotheksbenutzende stellen eine, wenn
+nicht sogar die primären, Experten für bibliothekswissenschaftliche
+Forschung dar, wenn zum Beispiel eine Bewertung von bibliothekarischen
+Dienstleistungen im Mittelpunkt der Forschung steht. Ausschlaggebend
+ist, wie bereits erwähnt, immer die Forschungsfrage, die die zu
+befragende Fokusgruppe meist in sich impliziert.
+
+Der Ort der Befragung bestimmt die zu verwendenden Hilfsmittel. Findet
+das Interview in Persona statt, reicht womöglich ein Leitfaden, etwas
+zum Schreiben und/oder ein Diktiergerät. Findet das Gespräch online
+statt, sollte sichergestellt werden, dass sowohl der Interviewführende
+als auch der Befragte jeweils über die technischen Voraussetzungen (PC,
+Software für das Durchführen von Videokonferenzen) verfügen. Generell
+muss ein Termin gefunden werden, der es beiden Parteien erlaubt, das
+Interview ohne Zeitdruck und andere Ablenkungen zu absolvieren. Nur dann
+wird es am Ende für beide Seiten, aber im Besonderen für den
+Forschenden, erfolgreich verlaufen.
+
+Hat man sich auf die Fokusgruppe sowie die Art der Befragung festgelegt,
+gilt es, passende Interviewpartner ausfindig zu machen und sie um einen
+Interviewtermin zu bitten.
+
+#### 2\. Die Vorbereitung des Interviews
+
+Im Anschluss sollte der Ablauf des Interviews geplant werden. Dies
+erfolgt in der Regel anhand eines Leitfadens mit zielorientierten
+Fragen, die als roter Faden durch das Gespräch führen sollen. In einer
+qualitativen Befragung dient er dazu, das zu untersuchende Themenfeld zu
+strukturieren und in der Befragungssituation selbst als
+Orientierungshilfe, um nicht vom Thema abzuschweifen. Wenn dieser im
+Vorfeld geteilt wird, ermöglicht er beiden Seiten festzustellen, ob alle
+relevanten Punkte, die für die Beantwortung der Forschungsfrage wichtig
+sind, besprochen wurden. Grundsätzlich sollten die Fragen so formuliert
+werden, dass sich das Gegenüber zum Antworten ermuntert fühlt. Auch ist
+es sinnvoll, weiterführende Fragen zu stellen sowie dem Interviewpartner
+die Freiheit zu geben, eigene Punkte anzusprechen. Die Fragen selbst
+werden dem zu Interviewenden im Vorfeld zur Verfügung gestellt, damit
+dieser sich auf das Gespräch und gegebenenfalls auf weitere, für ihn
+wichtige Themen vorbereiten kann. Die Möglichkeit und selbstverständlich
+auch Zeit für einen offenen Dialog unabhängig von den Leitfragen sollten
+auch angedacht werden. Für den Aufbau dieser Art von Leitfäden empfehlen
+Bogner et al. die Einteilung in mehrere Einzelabschnitte, welche jeweils
+maximal drei Leitfragen enthalten sollten, die in jedem Fall abgefragt
+werden sollten. Sollte im Gespräch bemerkt werden, dass diese Fragen
+nicht ausführlich genug beantwortet wurden, können zusätzlich
+vertiefende Fragen gestellt werden. (Vergleiche Bogner u. a. 2014, S. 27
+ff.)
+
+#### 3\. Die Durchführung des Interviews
+
+Nun gilt es, das Interview durchzuführen. Damit dies in Gänze gelingt
+und das damit verbundene Ziel, nämlich Informationen, die zur
+Beantwortung der Forschungsfrage notwendig sind, zu erhalten, erreicht
+wird, muss der Ablauf gut geplant werden. Idealerweise kommt es während
+der Unterhaltung mit der Zeit zu einem für beide Parteien angenehmen
+Fachgespräch, welches zwei Phasen umfassen sollte. Zu Beginn, in der als
+*Eröffnungssequenz* bezeichneten Phase, sollte durch den Forschenden
+eine Situation geschaffen werden, in der sich der Befragte wohl, aber
+vor allem in seiner Expertise ernst genommen fühlt. Die Vermittlung der
+eigenen Qualifikation bezüglich des Forschungsthemas, aber auch ein
+sympathisches Auftreten können zu einer positiven Entwicklung dieses
+Stadiums des Interviews beitragen. (Vergleiche Kaiser 2014, S. 93 ff.)
+Um dies zu erreichen, könnte vorab das Forschungsprojekt vorgestellt,
+das Ziel des Gesprächs verdeutlicht, sowie Gründe aufzeigt werden, warum
+der Interviewführende gerade im jeweiligen Gesprächspartner einen
+Sachkundigen bezüglich des Forschungsthemas sieht. Darüber hinaus wäre
+es sinnvoll, über den Ablauf der Befragung zu informieren, eine
+Einwilligung zur eventuellen Aufnahme des Gesprächs einzuholen und die
+weitere Verwendung der durch das Gespräch entstehenden Informationen zu
+erklären. Ferner sollte über die Art und Weise belehrt werden, wie die
+im Zuge des Interviews erhobenen Forschungsdaten gespeichert werden
+sollen. Nicht zuletzt sollte die Option unterbreitet werden, die
+Befragung vertraulich zu halten. (Vergleiche Kaiser 2014, S. 92). Zum
+anderen könnte auch der Interviewpartner durch gezielte Fragen zur
+eigenen Person und zum Bildungs- und Berufsweg einbezogen werden. Solche
+eher unverfänglichen Fragen können in der Regel leicht beantwortet
+werden und schaffen beiden Parteien Sicherheit für die zweite Phase des
+Gesprächs. Diese zweite Phase wird mehr Zeit erfordern als das eben
+erläuterte Warm-up, denn hier wird all jenes abgefragt, was zur
+Beantwortung der Forschungsfrage relevant ist. Für beide Akteure und für
+das Herausarbeiten der besten Informationen bezüglich der
+Forschungsfrage wäre es optimal, wenn es an dieser Stelle zu einem
+Gespräch auf Augenhöhe, in einem, von Robert Kaiser als *Modus* *der
+Argumentation und Diskussion* bezeichnet, kommen würde. (Vergleiche
+Kaiser 2014, S. 94) Den Abschluss der Durchführung des Interviews bildet
+eine Dokumentation über dessen Ablauf. Da sich neben den geäußerten
+Inhalten die Interviewsituation selbst auf das Ergebnis der erhobenen
+Forschungsdaten nachhaltig auswirkt, sollte diese neben den
+Hauptaussagen des Gesprächs festgehalten werden, um bei der Auswertung
+ebenfalls berücksichtigt werden zu können. Gläser et al. empfiehlt
+daher, Informationen zur Motivation des Interviews, dessen
+Rahmenbedingungen und den Ablauf des Interviews zu protokollieren.
+(Vergleiche Gläser und Laudel 2010, S. 192 ff.)
+
+Das bestmögliche Gelingen von Experteninterviews erreicht man, wenn man
+vor der Durchführung der eigentlichen Interviews über einen sogenannten
+Pre-Test die Tauglichkeit des Fragenkatalogs sowie die
+Interviewsituation im Beisein eines Beispielbefragten erprobt. Solche
+Tests sind fester Bestandteil der Forschungsmethode und sollten
+ernsthaft durchgeführt und ebenfalls dokumentiert werden, denn an dieser
+Stelle wird sich zeigen, ob Fragen gegebenenfalls umformuliert oder der
+Ablauf des Gesprächs selbst verändert werden müssen. (Vergleiche Kaiser
+2014, S. 82 ff.)
+
+#### 4\. Die Transkription und Auswertung des Interviews
+
+Für die Dokumentation des Interviews ist eine vollständige Transkription
+des gesamten Gesprächs unerlässlich, damit auch zu einem späteren
+Zeitpunkt nachvollzogen werden kann, wie der Forschende auf die für die
+Beantwortung der Forschungsfrage benötigten Ergebnisse gekommen ist. Bei
+der Verschriftlichung sollten nur die reinen Aussagen übernommen werden.
+Füllwörter dürfen ignoriert werden. Unvollständige Sätze können ohne
+Sinnveränderung geschlossen werden. Sollte es dem Verständnis dienen
+beziehungsweise einen besonderen Einfluss auf die Forschungsfrage haben,
+können spontane, aber auch bewusste Pausen entsprechend gekennzeichnet
+werden. Nach der Übertragung der Interviews werden diese dem
+Interviewpartner zur Überprüfung zur Verfügung gestellt. Die Auswertung
+der Interviews erfolgt dann auf Grundlage der Transkription und des nach
+dem Interview erstellten Gesprächsprotokolls, wobei versucht wird, die
+Kernaussagen herauszuarbeiten. Die Gewinnung der für die Forschungsfrage
+relevanten Informationen erfolgt letztlich durch eine vergleichende
+Auswertung aller wesentlichen Daten, die über Interviews mit
+verschiedenen Experten, die zur gleichen Thematik befragt wurden,
+zustande gekommen sind. Dies zeigt deutlich, dass für eine objektive
+Erhebung von Forschungsdaten und einer ebensolchen Beantwortung der
+Forschungsfrage niemals nur ein Experteninterview erfolgen darf. Es gibt
+natürlich keine Standardvorgabe dafür, wie viele Experten befragt werden
+sollten, aber die Zahl sollte so gewählt sein, dass die Aussagen für das
+Thema aussagekräftig sind. Die wissenschaftliche Analyse der Daten
+erfolgt über das Zusammentragen aller wichtigen inhaltlichen
+Gesichtspunkte, welche über ein Kategoriensystem ausgewertet werden. Die
+Kategorien werden im Anschluss gewichtet und die darin enthaltenen
+Informationen grob als Pro- oder Kontraargument bezüglich der
+Beantwortung der Forschungsfrage eingeordnet, falls dies die
+Fragestellung zulässt. So können inhaltlich zusammenhängende Fakten, die
+aber von unterschiedlichen Interviewpartnern geäußert wurden,
+zusammengefasst werden. Tatsächlich können über dieses Verfahren auch
+Fehlinterpretationen oder -einschätzungen der Interviewpartner
+aufgedeckt und ausgewiesen werden. (Vergleiche Bogner u. a. 2014, S. 72
+ff.)
+
+#### 5\. Die Verschriftlichung der erhobenen Daten im Hinblick auf den Untersuchungsgegenstand
+
+Anhand dieser aufbereiteten Daten kann das Ergebnis der Befragung mit
+Bezug auf die Forschungsfrage sinnvoll verschriftlicht werden. Für die
+Wahrung der Neutralität der Untersuchung ist es unabdingbar, bei diesem
+Arbeitsschritt auch auf persönliche Grenzen beim Interview, auf Probleme
+bei einem oder mehreren der Arbeitsschritte, auf die Forschung stark
+beeinflussende Vorkommnisse bei der Befragung sowie die zur Durchführung
+und Auswertung verwendete technische Hilfsmittel und die damit in
+Verbindung eventuell auftretenden Hürden einzugehen. Dies wird die
+Erhebung der Daten vollständig dokumentieren und anderen Forschenden,
+die sich für eigene Projekte der gleichen Forschungsmethode bedienen
+möchten, eine enorme Hilfe sein.
+
+### 3\. Der Nutzen von Experteninterviews als Forschungsmethode in der Bibliothekswissenschaft
+
+Experteninterviews dienen dazu, das Forschungsthema in Gänze zu
+beleuchten sowie aus dem Wissen und dem Erfahrungsschatz der Befragten
+ein vollständiges Bild bezüglich der zentralen Forschungsfrage zu
+zeichnen. Damit lassen sich Meinungen, Einschätzungen, aber auch
+Einwände oder Bedenken ermitteln, auf die der Forschende von selbst
+möglicherweise gar nicht gekommen wäre. Eigene Erfahrungen, wenn auch
+\'subjektiv\' wahrgenommen, sind darüber hinaus ein Instrument,
+theoretische Annahmen auf ihre Richtigkeit und Übertragbarkeit auf die
+Praxis hin zu überprüfen. Hierin besteht der wesentliche Nutzen dieser
+Methode für die bibliothekswissenschaftliche Forschung. Bogner et al.
+fassen dies wie folgt perfekt zusammen: "Das Besondere am Expertenwissen
+besteht nicht nur in dessen besonderer Reflexivität, Kohärenz oder
+Gewissheit, sondern auch insbesondere darin, dass dieses Wissen in
+besonderer Weise praxiswirksam und damit orientierungs- und
+handlungsleitend für andere Akteure wird." (Bogner u. a. 2014, S. 13
+ff.) Dieser Einfluss umfasst dabei nicht nur das eigene Arbeitsumfeld
+der Experten, sondern kann sich auch auf angrenzende oder sogar
+fachübergreifende Bereiche erstrecken, was den Stellenwert von
+Experteninterviews für die verschiedensten Forschungsprojekte noch
+erhöht. Für manche wissenschaftliche Forschungsvorhaben sind sie sogar
+unverzichtbar. (Vergleiche Bogner u. a. 2014, S. 13 ff.)
+
+### Literatur
+
+Bogner, Alexander, Beate Littig und Wolfgang Menz. 2014.
+*Interviews mit Experten - Eine praxisorientierte Einführung*.
+Qualitative Sozialforschung Lehrbuch. Springer VS.
+<https://doi.org/10.1007/978-3-531-19416-5>
+
+Gläser, Jochen, und Grit Laudel. 2010.
+*Experteninterviews und qualitative Inhaltsanalyse*. 4. Auflage.
+Lehrbuch. VS Verlag für Sozialwissenschaften.
+
+Kaiser, Robert. 2021.
+*Qualitative Experteninterviews - Konzeptionelle Grundlagen und
+praktische Durchführung*. 2., aktualisierte
+Auflage. Elemente der Politik. Springer VS.
+<https://doi.org/10.1007/978-3-658-30255-9>
+
+Rinsdorf, Lars. 2013.
+"Qualitative Methoden".
+In: *Handbuch Methoden der Bibliotheks- und Informationswissenschaft*,
+herausgegeben von Konrad Umlauf, Simone Fühles-Ubach und Michael Seadle. De Gruyter Saur.
+<https://doi.org/10.1515/9783110255546.64>
+
+Werner, Petra. 2013.
+"Qualitative Befragungen". In *Handbuch Methoden der Bibliotheks- und
+Informationswissenschaft*,
+herausgegeben von Konrad Umlauf, Simone Fühles-Ubach und Michael Seadle.
+De Gruyter Saur.
+<https://doi.org/10.1515/9783110255546.128>
