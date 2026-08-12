@@ -416,7 +416,7 @@ Interviews. Möchtest du dazu noch abschließend etwas sagen?*
 
 DW: Also diese Publikation soll dieses Jahr bei einem größeren
 wissenschaftlichen Verlag erscheinen, online und als gebundenes
-Sammelwerk. Es wird wohl über 700 Seiten haben. Und das ehrt mich und es
+Sammelwerk. [^1] Es wird über 700 Seiten haben. Und das ehrt mich und es
 freut mich sehr.
 
 Übrigens war ich gestern bei der Lesung von Anne Berest, es ging um ihre
@@ -432,3 +432,5 @@ danke dir recht herzlich fürs Interview, lieber Dirk.*
 DW: Ich danke Dir, liebe Linda und freue mich über dieses Gespräch.
 Vielen Dank auch, dass du dir die Zeit nimmst und nun das machst, also
 die Schreibarbeit nach einem Interview, die ich 102-Mal machen durfte :)
+
+[^1]: Verlagsankündigung: [http://www.degruyterbrill.com/isbn/9783112236932](http://www.degruyterbrill.com/isbn/9783112236932)
