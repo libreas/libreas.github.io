@@ -71,7 +71,7 @@ Inhaltlich ist diese Ausgabe gegliedert in ein Dossier -- also eine
 Anzahl von Artikeln und Interviews zu einem Thema, hier die Evaluation
 von Bibliotheken, wobei es sowohl um Statistik, um das, was in Deutsch
 Gemeinwohlanalyse genannt würde, um die Interpretation von Daten in
-Bibliotheken, als auch um eine [Enquête]{.mark} über alle Bibliotheken
+Bibliotheken, als auch um eine Enquête über alle Bibliotheken
 Frankreichs geht --, eine Reihe anderer Artikel, der Rubrik
 Bibliotourisme, inklusiver einer Bilderstrecke -- konkret über eine
 Bibliothek in Barcelona -- sowie Meldungen über die Arbeit des Verbandes
