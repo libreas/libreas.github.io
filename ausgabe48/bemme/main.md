@@ -169,6 +169,8 @@ in Wikidata inklusive Beispielen
 |                         |         | kidata.org/wiki/Q134475238#P972) |
 +-------------------------+---------+----------------------------------+
 
+Die Kooperation mit der Deutschen Digitalen Bibliothek wird wachsen: In Commons-Kategorien, mit einem gemeinsamen Social-Media-Hashtag, Ideen-Pingpong und offenen Metadaten in Wikidata. Wie die Zusammenarbeit mit DDB, Museum-Digital und Wikimedia-Bewegung gestaltet wird, welche Funktionen oder welche Wikis und welche digitalen Werkzeuge und Gemeinschaften im Wikiversum für welche Funktionen, Ausstellungs- und Vermittlungszwecke besonders geeignet sind, gilt es nun gemeinsam zu entdecken.
+
 ### Wikimedia Commons
 
 Einige virtuelle Ausstellungen enthalten Bilder mit Quellenangabe und
