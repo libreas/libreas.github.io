@@ -82,19 +82,19 @@ law. Freedom of speech is an important right that should be respected.
 But should we accept that anyone can publish or republish books in which
 a Nazi spreads hateful thoughts and calls for the killing of anyone who
 does not conform to the norm? No, we should not accept it, and you
-probably know the book I\'m talking about: "Mein Kampf" by Adolf Hitler.
+probably know the book I'm talking about: "Mein Kampf" by Adolf Hitler.
 
 Another example of conflicting interests is the need for access to the
-original text versus adapting it to modern language. Some children\'s
+original text versus adapting it to modern language. Some children's
 books use the n-word. Should we destroy the original books and only make
 the adapted versions available? This is a real example. In Denmark, for
 instance, there was a significant debate surrounding the adaptation of
-Halfdan Rasmussen\'s children\'s poems. Ultimately, eight of his poems
+Halfdan Rasmussen's children's poems. Ultimately, eight of his poems
 were not republished due to their racist content, but the original book
 containing all the poems is still available.
 
 These examples demonstrate that the issue of banning books is complex.
-But don\'t get me wrong, governments and communities would be wise to
+But don't get me wrong, governments and communities would be wise to
 avoid banning books. A true democracy can tolerate different
 perspectives.
 
@@ -108,7 +108,7 @@ perspectives.
 **5. Are there any banned books or books with restricted access in this
 library? How do you make that decision?**
 
-*NF:* The Radboud University Library\'s core task is to provide
+*NF:* The Radboud University Library's core task is to provide
 essential books and materials for study and research. This distinguishes
 it from a public library, which serves a broader public purpose.
 Furthermore, our aim is not to preserve every book, since we do not
@@ -217,11 +217,11 @@ publications provide background information and offer different
 perspectives. Without this information, we cannot assess current events
 critically, nor can we take action.
 
-Nearly 4,000 unique titles are on last year\'s list of banned books.
+Nearly 4,000 unique titles are on last year's list of banned books.
 Most of the affected titles involve publications on LGBTQIA+ topics,
 race, and politics. The aim is to prevent young people from reading
-these books. The aim is to make these books invisible. However, it\'s
-not just about making these books invisible; it\'s also about making
+these books. The aim is to make these books invisible. However, it's
+not just about making these books invisible; it's also about making
 queer people, people of colour, and left-wing individuals invisible.
 
 On a personal level, I believe that free access to books is a necessity,
@@ -267,7 +267,7 @@ I have previously watched this documentary. Afterwards, I felt a mixture
 of powerlessness and anger, but also a desire to take action. I am not
 the only one who felt this way. Marjolein just told me that becoming
 active is also the topic of the manifesto "Doe Iets", published last
-year by ProBiblio. It\'s about activism in libraries. When I think about
+year by ProBiblio. It's about activism in libraries. When I think about
 what I can do, a lot of activities come to mind. You could think of
 supporting special libraries and archives like "The Black Archives" in
 the Netherlands or the "Transgender Archives" in Canada. But the easiest

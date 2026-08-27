@@ -1,4 +1,4 @@
-![Openclipart (CC0), <https://openclipart.org/detail/299871>, bearbeitet: Anja Rosenbaum, CC BY 4.0](img/abb1.png)
+![Openclipart (CC0), <https://openclipart.org/detail/299871>, bearbeitet: Anja Rosenbaum, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)](img/abb1.png)
 
 <!-- Graphische Darstellung eines Eisbergs in verschiedenen Blautönen mit visuellem Rauschen. -->
 

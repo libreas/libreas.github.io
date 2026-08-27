@@ -17,11 +17,7 @@
     
     
     
-    <meta property="dc:creator" content="Norma Fötsch" />
-    
-    <meta property="dc:creator" content="Marjolein Hordijk" />
-    
-    <meta property="dc:creator" content="Ivana Smudja" />
+    <meta property="dc:creator" resource="http://orcid.org/0009-0009-7009-5520" content="Norma Fötsch" />
     
     
     
@@ -262,7 +258,7 @@
 
     LIBREAS. Library Ideas
 
-(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2026-08-26</a>)</p>
+(last updated: <a href="https://github.com/libreas/libreas.github.io/commits/master">2026-08-27</a>)</p>
 
 </footer>
       </div>

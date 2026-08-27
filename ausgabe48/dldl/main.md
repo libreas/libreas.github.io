@@ -30,10 +30,7 @@ durch "\[Paywall\]" gekennzeichnet. Zwar macht das Plugin
 Open-Access-Versionen sehr viel einfacher. Als Service an der
 Leserschaft verlinken wir jedoch auch direkt OA-Versionen, die wir vorab
 finden konnten. Für alle Beiträge, die dann immer noch nicht frei
-zugänglich sind, empfiehlt die Redaktion (neben
-[Unpaywall](http://unpaywall.org/)) die Browser-Plugins
-[Open Access Button](https://openaccessbutton.org/) oder
-[CORE](https://core.ac.uk/services/discovery/) zu nutzen
+zugänglich sind, empfiehlt die Redaktion die Browser-Plugins [Unpaywall](http://unpaywall.org/)) oder [CORE](https://core.ac.uk/services/discovery/) zu nutzen
 sowie auf dem favorisierten Social-Media-Kanal mit
 [#icanhazpdf](https://mastodon.social/tags/icanhazpdf), um
 Hilfe bei der legalen Dokumentenbeschaffung zu bitten.
@@ -107,17 +104,17 @@ nicht-bibliothekarischen Personal an den Hochschulen klar zu machen,
 welche Angebote (Unterricht, Einführungen, Beratungen und so weiter) die
 Bibliotheken machen. Hier wird die Sprache verglichen, welche die
 Bibliotheken dafür benutzen. Dabei zeigt sich, dass ein Grossteil doch
-den Begriff \"Information Literacy\" nutzt, der aber gleichzeitig immer
+den Begriff "Information Literacy" nutzt, der aber gleichzeitig immer
 wieder erklärt werden muss. Zudem gibt es drei alternative
-Beschreibungen (\"research skills\", \"find, evaluate, and use
-information\" sowie \"critical information use\"), welche ebenso oft
+Beschreibungen ("research skills", "find, evaluate, and use
+information" sowie "critical information use"), welche ebenso oft
 genutzt werden, wohl -- so die Vermutung -- weil die Bibliotheken den
 Eindruck haben, dass dies von den Lehrenden und Forschenden besser
 verstanden wird.
 
 Zudem zeigt sich eine geographische Verteilung. In Ontario und Quebec --
 wo sich tendenziell auch grössere und forschungsstärkere Universitäten
-befinden -- wird der Begriff \"Information Literacy\" viel weniger
+befinden -- wird der Begriff "Information Literacy" viel weniger
 genutzt als in den anderen Landesteilen. Die Studie äussert keine
 Vermutung, warum dies so ist, ruft aber zu einer Untersuchung dieses
 Phänomens auf. (ks)
@@ -130,13 +127,13 @@ Research*. In: Art Libraries Journal 50 (2025) 1: 45--51,
 [https://doi.org/10.1017/alj.2025.10](https://doi.org/10.1017/alj.2025.10)
 \[Paywall\]
 
-Die \"International Library of Fashion Research\" ist eine Einrichtung,
+Die "International Library of Fashion Research" ist eine Einrichtung,
 angesiedelt im norwegischen Nationalmuseum in Oslo, die sich dem
 Sammeln, Erschliessen und Zugänglichmachen von ephemeren Materialien
 widmet, die in der Modeindustrie produziert werden. Damit sind zum
 Beispiel Einladungen zu Modeschauen, Entwürfe von Kleidung oder
 saisonale Kataloge, die nur für einen Zeitraum von einigen Monaten
-\"gültig\" sind, gemeint. Viele dieser Materialien sind, da sie aus der
+"gültig" sind, gemeint. Viele dieser Materialien sind, da sie aus der
 Modeindustrie stammen und immer auch Aufmerksamkeit erzeugen sollen,
 gesondert gestaltet oder ausgestattet. In Oslo wurde nun auf der Basis
 einer privaten Sammlung, welche dem Museum gespendet wurde, die genannte
@@ -148,7 +145,7 @@ Es wird begründet, warum die Materialien gesammelt werden (nämlich als
 Material für die Modegeschichte), zudem wird auf die Schwierigkeiten bei
 der Erhaltung, die solche Materialien machen, eingegangen. Das ist alles
 recht gut nachvollziehbar. Was im Artikel aber hervorsticht, ist, dass
-sich hier \"Museumsleute\" dazu äussern, was sie sich unter einer
+sich hier "Museumsleute" dazu äussern, was sie sich unter einer
 Bibliothek, einem Archiv und einem Museum vorstellen. Es wird betont,
 dass es explizit eine Bibliothek sei, weil die Materialien zugänglich
 wären. Laut den Stimmen, die im Artikel angeführt werden, wäre das bei
@@ -161,14 +158,14 @@ Aufbaus von spezifischen Beständen und der Pflege inklusive des
 Aussonderns und Ersetzens von Medien -- betreibt. Dabei würde sich die
 Fachliteratur zur Modegeschichte für einen solchen Forschungsbestand,
 neben der Sammlung, direkt anbieten. Vielmehr wird hier offenbar mit
-\"Bibliothek\" eine sehr spezifische Einrichtungen gemeint, die sich
+"Bibliothek" eine sehr spezifische Einrichtungen gemeint, die sich
 sonst an Büchern orientieren würde (was selbstverständlich gar nicht
 mehr stimmt). Es ist auch nicht klar, ob beim Aufbau der Bibliothek
 überhaupt bibliothekarisches Personal herangezogen oder aber anders auf
 bibliothekarische Kompetenzen zurückgegriffen wurde. Eher wird der
-Eindruck vermittelt, dass hier \"Museumsleute\" eine Einrichtung
-aufgebaut haben, die vor allem \"kein Archiv\" und \"kein Museum\" sein
-soll -- und deshalb \"Bibliothek\" genannt wird. (ks)
+Eindruck vermittelt, dass hier "Museumsleute" eine Einrichtung
+aufgebaut haben, die vor allem "kein Archiv" und "kein Museum" sein
+soll -- und deshalb "Bibliothek" genannt wird. (ks)
 
 ---
 
@@ -192,17 +189,17 @@ Artikel stellt einen ausführlichen Projektbericht dar.
 
 Grundsätzlich wurden in dem Projekt alle Schritte begangen, die in einem
 solchen wohl notwendig sind: Es wurden möglichst alle Einrichtungen des
-Landes \"an Bord geholt\", sich auf ein Metadatenschema geeinigt, Daten
+Landes "an Bord geholt", sich auf ein Metadatenschema geeinigt, Daten
 wurden geliefert und gesäubert, dann in Wikidata eingefügt.
 Anschliessend wurden die betreffenden Wikipedia-Seiten recherchiert und
 ergänzt. Das alles ist im Artikel recht kleinteilig geschildert. Dabei
 zeigt sich vor allem, wie wichtig die Planung und dann die Datenpflege
-selber ist -- also die \"Datenarbeit\" --, um am Ende überhaupt
+selber ist -- also die "Datenarbeit" --, um am Ende überhaupt
 Visualisierungen generieren zu können. Durch diese Schilderung lässt
 sich der Text sehr gut als Einstieg und Lehrmaterial nutzen --
 beispielsweise, wenn am Anfang eines bibliotheks- und
 informationswissenschaftlichen Studiums die Notwendigkeit dieser
-\"Datenarbeit\" vermittelt werden soll. Er ist recht eingängig
+"Datenarbeit" vermittelt werden soll. Er ist recht eingängig
 geschrieben, schildert alle notwendigen Schritte, zeigt Ergebnisse, aber
 auch Herausforderungen. (ks)
 
@@ -236,7 +233,7 @@ und Archivwissenschaft zu forschen. Aber ein Hauptgrund scheint doch
 immer wieder das persönliche Interesse zu sein.
 
 Interessant ist, dass sich zeigt, dass mehr Männer als Frauen --
-obgleich auch in Kanada das Bibliothekswesen \"weiblich geprägt\" ist --
+obgleich auch in Kanada das Bibliothekswesen "weiblich geprägt" ist --
 so forschen. Sowohl Kommentare, die in der Umfrage erhoben wurden, als
 auch Hoffmann in der Auswertung selber deuten darauf hin, dass dies auch
 für andere Kriterien gilt: Obgleich es offenbar in Kanada recht viele
@@ -298,7 +295,7 @@ Jordan, Jennifer ; Solon, Blair ; Beene, Stephanie (2025). *Open access
 practices of selected library science journals*. \[Dataset\] Dryad,
 [https://doi.org/10.5061/dryad.pvmcvdnt3](https://doi.org/10.5061/dryad.pvmcvdnt3)
 
-In dieser Studie wurde untersucht, wie \"offen\" (im Sinne der
+In dieser Studie wurde untersucht, wie "offen" (im Sinne der
 FAIR-Prinzipien) aktuell die Zeitschriften des Bibliothekswesens sind --
 zumindest, was die wichtige Einschränkung hier ist, wenn sie
 Informationen und Abstracts in Englisch publizieren. Die Frage ist
@@ -314,7 +311,7 @@ ihnen als Bibliothekar\*innen selber bekannt waren, die aber weder in
 LISA noch im DOAJ verzeichnet waren. Am Ende waren das 73 Zeitschriften
 aus LISA, 61 aus dem DOAJ (mit 12, die in beiden Datenbanken verzeichnet
 waren) und 11 ergänzte Titel. Anschliessend sammelten sie Informationen
-über die herausgebenden Körperschaften, die \"OA-Farbe\", Angaben zu
+über die herausgebenden Körperschaften, die "OA-Farbe", Angaben zu
 Open Access und Open Data Policies sowie zu eventuell anfallenden
 Gebühren (also APCs).
 
@@ -322,7 +319,7 @@ In der Auswertung der Daten zeigt sich, dass diese Zeitschriften viel
 öfter als nicht Open-Access-Modellen folgen und dabei vor allem dem
 Diamond Open Access (also auch ohne anfallende Gebühren). Sie werden oft
 von kommerziellen Verlagen publiziert, aber leicht öfter von Verbänden,
-Hochschulen, Bibliotheken, Archiven oder \"unabhängig\" (was heisst von
+Hochschulen, Bibliotheken, Archiven oder "unabhängig" (was heisst von
 Organisationen wie den LIBREAS. Verein). Es gibt Unterschiede zwischen
 den Zeitschriften, die in LISA verzeichnet sind (eher kommerzielle
 Verlage) und denen im DOAJ (eher unabhängig oder von nicht-kommerziellen
@@ -356,7 +353,7 @@ Modality, Funding, Publisher, and Disciplinary Trends at the University
 of Kentucky*. In: Library Resources & Technical Services 69 (2025) 3,
 [https://doi.org/10.5860/lrts.69n3.8496](https://doi.org/10.5860/lrts.69n3.8496)
 
-Der \"Open-Access-Zitationsvorteil\" ist ein recht etabliertes Phänomen,
+Der "Open-Access-Zitationsvorteil" ist ein recht etabliertes Phänomen,
 welches schon früh in der Forschung zu Open Access untersucht und immer
 wieder nachgewiesen wurde: Im Vergleich zu wissenschaftlichen Artikeln,
 die Closed Access publiziert werden, werden Open-Access-Publikationen
@@ -374,14 +371,14 @@ also nicht einfach übertragen.
 Im Ergebnis zeigt die Studie aber erstens, wie eine solche Auswertung
 konkret stattfinden kann (also welche Methodik, welche Fragen und welche
 Formen von Präsentation der Daten und Ergebnisse gewählt werden können)
-und zweitens, dass der \"Open-Access-Zitationsvorteil\" differenzierter
+und zweitens, dass der "Open-Access-Zitationsvorteil" differenzierter
 ist. Während er grundsätzlich auch für die Publikationen aus der
 University of Kentucky gilt, zeigt sich doch, dass er sehr
 unterschiedlich ausgeprägt ist in den einzelnen Wissenschaftsdisziplinen
 und auch Verlagen. Teilweise ist er gar nicht vorhanden, teilweise
-werden Open-Access-Publikationen in \"hybriden\" Zeitschriften, die
+werden Open-Access-Publikationen in "hybriden" Zeitschriften, die
 sowohl Open als auch Closed Access veröffentlichen, mehr und schneller
-zitiert als solche, die in \"reinen\" Open Access Journals
+zitiert als solche, die in "reinen" Open Access Journals
 veröffentlicht werden. Aber teilweise ist er auch überdeutlich zu sehen.
 (ks)
 
@@ -439,9 +436,9 @@ Zudem wird besprochen, dass sich diese Bücher auf den ersten Blick oft
 nicht von Selbst-Publikationen und Publikationen kleiner Verlage
 unterscheiden, auf den zweiten Blick dann aber doch. Zuletzt verweist
 der Text aber darauf, dass vor allem Bibliothekar\*innen die
-Verantwortung hätten \"to make informed decisions and advocate for
+Verantwortung hätten "to make informed decisions and advocate for
 intellectual property rights, valuable stories and diverse
-representation\". Für die Erstellung von Kinderbüchern würden immer auch
+representation". Für die Erstellung von Kinderbüchern würden immer auch
 die aktuell verfügbaren Tools genutzt werden und AI sei nur ein weiteres
 Tool. (ks)
 
@@ -734,32 +731,32 @@ Researchers. Developing Our Scholarly Identities*. New York u. a.:
 Bloomsbury. \[gedruckt\]
 
 Wie so viele aktuelle Bücher aus dem Bibliothekswesen hat auch dieses
-eine amerikanische \"Herkunft\". Das macht direkte Vergleiche mit der
+eine amerikanische "Herkunft". Das macht direkte Vergleiche mit der
 Lage in deutschen Bibliotheken etwas schwierig: Eine Unterscheidung von
-Bibliotheksstellen nach \"library positions\" oder \"faculty positions\"
+Bibliotheksstellen nach "library positions" oder "faculty positions"
 gibt es im deutschsprachigen Raum -- zumindest so weit ich weiß --
-nicht, und zu den Anforderungen an \"tenure track\"-Stellen, wie zum
+nicht, und zu den Anforderungen an "tenure track"-Stellen, wie zum
 Beispiel publishing beziehungsweise research requirements, gibt es auch
 kein direktes Pendant.
 
 Nichtsdestotrotz kann dieser Sammelband dazu anregen, darüber
-nachzudenken, was man denn \"erforschenswert\" fände rund ums
+nachzudenken, was man denn "erforschenswert" fände rund ums
 Bibliothekswesen und wie man das angehen könnte.
 
 In den Beiträgen gibt es anhand theoretischer Überlegungen und vieler
 persönlicher Fallbeispiele Tipps zu grundlegenden Fragestellungen --
-\"What counts as scholarship for the purpose of one\'s own advancement
-versus scholarship that advances the discipline?\" (S. 10) --, zur
-Erstellung einer \"research agenda\", zum erfolgreichen Einstieg ins
+"What counts as scholarship for the purpose of one\'s own advancement
+versus scholarship that advances the discipline?" (S. 10) --, zur
+Erstellung einer "research agenda", zum erfolgreichen Einstieg ins
 Forschen zum Beispiel über Tagungs-Poster, zum Überwinden von Hürden wie
-\"time constraints and the assumptions others have about librarians\"
+"time constraints and the assumptions others have about librarians"
 (S. 82) oder zu Formaten, die sich als gut praktikabel erwiesen haben,
-wie Schreibgruppen, Communities of Practice und \"Research Days\".
+wie Schreibgruppen, Communities of Practice und "Research Days".
 
 Online weiterlesen kann man danach dann zum Beispiel im ebenfalls in
-einem Kapitel vorgestellten \"Librarian Parlor\"
+einem Kapitel vorgestellten "Librarian Parlor"
 ([https://libparlor.com/](https://deref-gmx.net/mail/client/8FHQ-s1Iumk/dereferrer/?redirectUrl=https%3A%2F%2Flibparlor.com%2F))
-und dem \"LibParlor Online Learning\" (LPOL)
+und dem "LibParlor Online Learning" (LPOL)
 ([https://libparlor.com/lpol-curriculum/](https://deref-gmx.net/mail/client/oua9uIDXFEA/dereferrer/?redirectUrl=https%3A%2F%2Flibparlor.com%2Flpol-curriculum%2F)).
 (vv)
 
@@ -773,12 +770,12 @@ comics and graphic novels*. Jefferson, NC: McFarland.
 
 Wie werden Bibliotheken und Archive in Comics und Graphic Novels
 dargestellt? Mit dieser Frage beschäftigen sich die 19 Beiträge in
-diesem Band, nach eigenen Aussagen \"the first academic volume to
+diesem Band, nach eigenen Aussagen "the first academic volume to
 examine the librarian and archival professional through the lens of
-sequential art\".
+sequential art".
 
 Leider gibt es (vermutlich aus urheberrechtlichen Gründen) nur im
-Artikel zur Reihe \"xkcd\" Abbildungen von Beispielen besprochener
+Artikel zur Reihe "xkcd" Abbildungen von Beispielen besprochener
 Comics oder Cartoons. Das macht die Lektüre der Abhandlungen zu Comics,
 die man nicht kennt, recht trocken. Dennoch können sie dazu einladen,
 sich die besprochenen Werke mal anzusehen, um sich selbst ein Bild zu
@@ -992,7 +989,7 @@ Heute ist weniger Zukunft, könnte man sagen. Immer weniger Kolleg\*innen
 versuchen sich an solchen Vorhersagen. (Und die, die es tun -- das eine
 subjektive Wertung des Rezensenten --, klingen manchmal so, als würden
 sie einfach seit zehn oder fünfzehn Jahren immer wieder das Gleiche
-sagen, was auch nicht so richtig nach \"Zukunft\" klingt.) Forecasts
+sagen, was auch nicht so richtig nach "Zukunft" klingt.) Forecasts
 sind heute weniger beliebt und wenn, dann eher von negativer Sicht
 geprägt.
 

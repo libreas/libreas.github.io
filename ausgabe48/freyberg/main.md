@@ -675,7 +675,7 @@ neu erfinden.
 
 [^1]: [https://www.bibspider.de/](https://www.bibspider.de/)
 
-[^2]: Redaktion LIBREAS, \"Zur Zeitschrift - Young Hearts Run Free. \".
+[^2]: Redaktion LIBREAS, \"Zur Zeitschrift - Young Hearts Run Free\".
     *LIBREAS. Library Ideas*, 1 (2005).
     [https://libreas.eu/ausgabe1/001ed1.htm](https://libreas.eu/ausgabe1/001ed1.htm)
 

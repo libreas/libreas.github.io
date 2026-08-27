@@ -191,7 +191,7 @@ Institutionen oder Personen und Themen zugeordnet werden, deren
 Commons-Kategorien ihrerseits Inhalte und gegebenenfalls Unterthemen
 bündeln, um dieses objektbasierte Wissen zu strukturieren.
 
-![Illustration: Collage auf Basis von Anonymous: A Family Group, in der Virtuelle Ausstellung \'Rühr mich nicht an! Zur Kulturgeschichte des Social Distancing, 2020 [https://commons.wikimedia.org/wiki/File:A_Family_Group_DDB_2020.jpg](https://commons.wikimedia.org/wiki/File:A_Family_Group_DDB_2020.jpg) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en))](A_Family_Group_DDB_2020.jpg)
+![Illustration: Collage auf Basis von Anonymous: A Family Group, in der Virtuelle Ausstellung \'Rühr mich nicht an! Zur Kulturgeschichte des Social Distancing\', 2020 [https://commons.wikimedia.org/wiki/File:A_Family_Group_DDB_2020.jpg](https://commons.wikimedia.org/wiki/File:A_Family_Group_DDB_2020.jpg) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en))](A_Family_Group_DDB_2020.jpg)
 
 Die Ausstellungserschließung in Wikidata ist längst nicht abgeschlossen,
 weitere Präsentationen sollen folgen. Wir haben eine Dokumentation
